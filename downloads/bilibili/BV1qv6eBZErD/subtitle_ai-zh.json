@@ -1,0 +1,4292 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "我们现在将切换到claude代码并使用代码生成技能",
+      "from": 0.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 3.52
+    },
+    {
+      "content": "正在审查和测试",
+      "from": 3.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 5.38
+    },
+    {
+      "content": "我们还将设置子代理并为其配备技能",
+      "from": 5.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 9.1
+    },
+    {
+      "content": "到目前为止让我们玩得开心些",
+      "from": 9.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 10.98
+    },
+    {
+      "content": "我们已经了解了如何在clauai中使用技能以及使用clawed消息",
+      "from": 10.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 14.93
+    },
+    {
+      "content": "API现在让我们更深入地讨论如何在claude代码中使用技能",
+      "from": 14.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 19.87
+    },
+    {
+      "content": "我使用的应用程序是一个用于创建的命令行应用",
+      "from": 19.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 25.14
+    },
+    {
+      "content": "需要完成的任务和列出它们",
+      "from": 25.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 28.259
+    },
+    {
+      "content": "最终进行编辑和清除",
+      "from": 28.259,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 30.419
+    },
+    {
+      "content": "我将展示claude md文件",
+      "from": 30.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 32.339
+    },
+    {
+      "content": "让您了解这个项目的作用",
+      "from": 32.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 34.75
+    },
+    {
+      "content": "现在我们将进行一个小演示",
+      "from": 34.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 36.29
+    },
+    {
+      "content": "在深入每个claude代码文件之前",
+      "from": 36.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 40.269
+    },
+    {
+      "content": "您可以创建claude md文件",
+      "from": 40.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 43.509
+    },
+    {
+      "content": "该文件通过init命令或手动创建",
+      "from": 43.509,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 48.83
+    },
+    {
+      "content": "该文件始终处于您的上下文中且特定于项目",
+      "from": 48.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 52.75
+    },
+    {
+      "content": "您可以在此指定关于正在开发的代码库项目的通用说明",
+      "from": 52.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 58.66
+    },
+    {
+      "content": "技术栈以及claude在每次对话中都需要了解的内容",
+      "from": 58.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 63.98
+    },
+    {
+      "content": "所以再次",
+      "from": 63.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 64.62
+    },
+    {
+      "content": "我们正在构建一个命令行任务管理应用",
+      "from": 64.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 67.48
+    },
+    {
+      "content": "使用python typer作为CLI框架",
+      "from": 67.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 70.81
+    },
+    {
+      "content": "使用data classes rich",
+      "from": 70.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 72.8
+    },
+    {
+      "content": "我们使用json文件存储信息以实现持久化",
+      "from": 72.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 76.1
+    },
+    {
+      "content": "并使用uv进行依赖管理",
+      "from": 76.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 78.56
+    },
+    {
+      "content": "我们的架构遵循",
+      "from": 78.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 80.43
+    },
+    {
+      "content": "根据此模式",
+      "from": 80.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 81.65
+    },
+    {
+      "content": "我们有入口点",
+      "from": 81.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 83.15
+    },
+    {
+      "content": "所有命令都有各自的独立python文件",
+      "from": 83.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 86.79
+    },
+    {
+      "content": "我们在models pi中设置数据类",
+      "from": 86.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 89.669
+    },
+    {
+      "content": "我们的存储逻辑",
+      "from": 89.669,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 91.349
+    },
+    {
+      "content": "序列化",
+      "from": 91.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 92.269
+    },
+    {
+      "content": "在storage pi中进行序列化",
+      "from": 92.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 94.529
+    },
+    {
+      "content": "然后在终端中美观显示",
+      "from": 94.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 96.789
+    },
+    {
+      "content": "我们的display pi",
+      "from": 96.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 98.06
+    },
+    {
+      "content": "我们有几个常量",
+      "from": 98.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 99.44
+    },
+    {
+      "content": "然后在该文件中可以看到我们的测试",
+      "from": 99.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 102.49
+    },
+    {
+      "content": "我们有优先级",
+      "from": 102.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 103.53
+    },
+    {
+      "content": "任务数据模型",
+      "from": 103.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 105.09
+    },
+    {
+      "content": "数据如何持久化并请记住",
+      "from": 105.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 107.71
+    },
+    {
+      "content": "对于这个claude",
+      "from": 107.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 108.39
+    },
+    {
+      "content": "Md",
+      "from": 108.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 108.97
+    },
+    {
+      "content": "这些数据始终在上下文中可用",
+      "from": 108.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 111.93
+    },
+    {
+      "content": "在每次对话中",
+      "from": 111.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 114.24
+    },
+    {
+      "content": "这些信息有助于claude",
+      "from": 114.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 116.72
+    },
+    {
+      "content": "确定如何查找内容",
+      "from": 116.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 118.34
+    },
+    {
+      "content": "以及如何最佳组织信息",
+      "from": 118.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 120.78
+    },
+    {
+      "content": "基于此",
+      "from": 120.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 121.66
+    },
+    {
+      "content": "让我们先进入应用进行体验",
+      "from": 121.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 124.76
+    },
+    {
+      "content": "我将激活虚拟环境",
+      "from": 124.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 128.0
+    },
+    {
+      "content": "所以我将执行source",
+      "from": 128.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 128.96
+    },
+    {
+      "content": "然后然后激活一次",
+      "from": 130.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 133.519
+    },
+    {
+      "content": "我已经设置好了",
+      "from": 133.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 134.419
+    },
+    {
+      "content": "确保我的依赖项用uv同步按顺序排列",
+      "from": 134.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 138.68
+    },
+    {
+      "content": "一旦我完成这些",
+      "from": 145.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 146.36
+    },
+    {
+      "content": "我就可以直接在命令行使用这个任务命令",
+      "from": 146.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 150.769
+    },
+    {
+      "content": "如果我查看这个命令",
+      "from": 150.769,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 152.089
+    },
+    {
+      "content": "我可以看到像add、done和list这样的命令，还有一些额外选项",
+      "from": 152.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 157.84
+    },
+    {
+      "content": "那我们来看看我现在有哪些任务",
+      "from": 157.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 162.12
+    },
+    {
+      "content": "这里没有任何任务被找到",
+      "from": 162.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 163.84
+    },
+    {
+      "content": "我将清空终端",
+      "from": 163.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 164.98
+    },
+    {
+      "content": "这样我可以从头开始，现在添加一个任务",
+      "from": 164.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 168.96
+    },
+    {
+      "content": "我们称之为",
+      "from": 168.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 169.84
+    },
+    {
+      "content": "撰写最终报告",
+      "from": 169.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 171.48
+    },
+    {
+      "content": "并为此任务设置高优先级",
+      "from": 171.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 174.56
+    },
+    {
+      "content": "并为此任务设定完成日期为以下",
+      "from": 174.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 178.89
+    },
+    {
+      "content": "我们可以看到",
+      "from": 178.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 179.73
+    },
+    {
+      "content": "我已成功添加了该任务",
+      "from": 179.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 180.91
+    },
+    {
+      "content": "那我们去看看",
+      "from": 180.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 182.61
+    },
+    {
+      "content": "我们的任务就在那里",
+      "from": 182.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 184.25
+    },
+    {
+      "content": "显示模块正在对信息进行良好格式化",
+      "from": 184.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 188.43
+    },
+    {
+      "content": "我们继续完成它",
+      "from": 188.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 189.85
+    },
+    {
+      "content": "我将用正确ID标记为已完成",
+      "from": 189.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 192.73
+    },
+    {
+      "content": "然后如果我查看我的任务列表",
+      "from": 192.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 196.05
+    },
+    {
+      "content": "通过该标志可以看到已完成的任务，如本课计划",
+      "from": 196.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 202.42
+    },
+    {
+      "content": "这里要添加另一个命令行命令edit",
+      "from": 202.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 206.26
+    },
+    {
+      "content": "所以我们需要进入src/task目录",
+      "from": 206.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 210.09
+    },
+    {
+      "content": "并在此处添加编辑命令",
+      "from": 210.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 212.31
+    },
+    {
+      "content": "但我们也需要确保新增命令时",
+      "from": 212.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 216.54
+    },
+    {
+      "content": "遵循正确的流程",
+      "from": 216.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 218.9
+    },
+    {
+      "content": "采用规范的命令添加方式",
+      "from": 218.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 221.86
+    },
+    {
+      "content": "正确的模式",
+      "from": 221.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 223.38
+    },
+    {
+      "content": "与代码库中的现有实现匹配",
+      "from": 223.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 226.019
+    },
+    {
+      "content": "为此",
+      "from": 226.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 227.239
+    },
+    {
+      "content": "我们将使用已添加的技能",
+      "from": 227.239,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 229.779
+    },
+    {
+      "content": "在点clawed文件夹内定义添加cli命令技能",
+      "from": 229.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 235.27
+    },
+    {
+      "content": "接着进入skills子文件夹",
+      "from": 235.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 237.71
+    },
+    {
+      "content": "首先查看这个技能",
+      "from": 237.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 240.03
+    },
+    {
+      "content": "我们不仅可以看到项目级可用性",
+      "from": 240.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 244.26
+    },
+    {
+      "content": "还可以在主目录创建用户级技能",
+      "from": 244.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 247.96
+    },
+    {
+      "content": "如果需要的话",
+      "from": 247.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 249.13
+    },
+    {
+      "content": "在此示例中",
+      "from": 249.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 250.01
+    },
+    {
+      "content": "我们将专注于项目特定技能",
+      "from": 250.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 253.08
+    },
+    {
+      "content": "现在深入分析该技能的具体实现",
+      "from": 253.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 256.76
+    },
+    {
+      "content": "就像之前看到的，这里包含名称和描述",
+      "from": 256.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 260.029
+    },
+    {
+      "content": "在这里",
+      "from": 260.029,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 260.789
+    },
+    {
+      "content": "我们将深入采用所需的编码风格和功能",
+      "from": 260.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 265.919
+    },
+    {
+      "content": "在创建新命令时",
+      "from": 265.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 267.999
+    },
+    {
+      "content": "我们将首先确定必要的工作流程",
+      "from": 267.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 271.099
+    },
+    {
+      "content": "并在相应目录创建文件",
+      "from": 271.099,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 274.51
+    },
+    {
+      "content": "就像我们已有add、done和list命令一样",
+      "from": 274.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 277.43
+    },
+    {
+      "content": "我们希望确保在创建新命令文件时",
+      "from": 277.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 280.95
+    },
+    {
+      "content": "它就驻留在那里",
+      "from": 280.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 282.03
+    },
+    {
+      "content": "我们也需要确保这些命令在我们的双下划线初始化文件中注册",
+      "from": 282.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 285.95
+    },
+    {
+      "content": "位于命令文件夹中的初始化点pi文件",
+      "from": 285.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 289.19
+    },
+    {
+      "content": "当我们考虑如何创建不同命令时",
+      "from": 289.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 291.82
+    },
+    {
+      "content": "可能会有很多不同种类",
+      "from": 291.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 293.78
+    },
+    {
+      "content": "可能会有涉及子命令或标志的命令",
+      "from": 293.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 297.28
+    },
+    {
+      "content": "或者额外参数",
+      "from": 297.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 298.84
+    },
+    {
+      "content": "你可以向Claude提供纯文本指令",
+      "from": 298.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 301.66
+    },
+    {
+      "content": "但尤其是对于代码示例",
+      "from": 301.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 303.48
+    },
+    {
+      "content": "Claude表现非常出色",
+      "from": 303.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 304.92
+    },
+    {
+      "content": "当你明确告知所需模式和风格时",
+      "from": 304.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 309.0
+    },
+    {
+      "content": "在Typer库中",
+      "from": 309.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 310.18
+    },
+    {
+      "content": "有许多不同的任务实现方式",
+      "from": 310.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 313.539
+    },
+    {
+      "content": "例如",
+      "from": 313.539,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 314.519
+    },
+    {
+      "content": "有许多不同的方式为被装饰的参数添加类型注解",
+      "from": 314.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 319.579
+    },
+    {
+      "content": "在这个特定案例中",
+      "from": 319.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 321.17
+    },
+    {
+      "content": "这是我们想要遵循的约定",
+      "from": 321.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 323.23
+    },
+    {
+      "content": "因为它更现代一些",
+      "from": 323.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 324.83
+    },
+    {
+      "content": "你可以想象在使用的库和代码库中",
+      "from": 324.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 327.97
+    },
+    {
+      "content": "有许多不同的实现方式",
+      "from": 327.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 330.37
+    },
+    {
+      "content": "但技能的有用之处在于",
+      "from": 330.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 332.25
+    },
+    {
+      "content": "它为我们提供了一套任务的可预测工作流程",
+      "from": 332.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 335.97
+    },
+    {
+      "content": "我们也需要确保使用这个显示对象",
+      "from": 335.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 339.81
+    },
+    {
+      "content": "并调用success和info等方法以确保添加命令时",
+      "from": 339.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 344.24
+    },
+    {
+      "content": "我们不仅执行业务逻辑",
+      "from": 344.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 346.52
+    },
+    {
+      "content": "还能在最后向用户正确显示信息",
+      "from": 346.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 349.909
+    },
+    {
+      "content": "当我们处理标志时",
+      "from": 349.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 351.369
+    },
+    {
+      "content": "我们需要特定的简写方式",
+      "from": 351.369,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 352.949
+    },
+    {
+      "content": "也需要特定的长格式调用方式",
+      "from": 352.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 355.369
+    },
+    {
+      "content": "还需确保有帮助文本",
+      "from": 355.369,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 357.73
+    },
+    {
+      "content": "所有这些组件",
+      "from": 357.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 358.83
+    },
+    {
+      "content": "类型注解",
+      "from": 358.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 359.85
+    },
+    {
+      "content": "默认参数",
+      "from": 359.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 361.23
+    },
+    {
+      "content": "某些返回值值得在技能中添加",
+      "from": 361.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 364.55
+    },
+    {
+      "content": "以便你知道如何最佳匹配",
+      "from": 364.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 366.49
+    },
+    {
+      "content": "匹配并遵循可预测的工作流程",
+      "from": 366.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 368.669
+    },
+    {
+      "content": "当我们考虑带有子命令的命令时",
+      "from": 368.669,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 371.109
+    },
+    {
+      "content": "你不仅能在这里看到",
+      "from": 371.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 372.889
+    },
+    {
+      "content": "我们如何构建单个命令结构",
+      "from": 372.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 375.53
+    },
+    {
+      "content": "还能看到当迁移或版本变更时的显示方式",
+      "from": 375.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 381.05
+    },
+    {
+      "content": "当我们设想添加清理功能时可能涉及的破坏性命令",
+      "from": 381.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 385.89
+    },
+    {
+      "content": "我们可能需要指定删除类型",
+      "from": 385.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 389.06
+    },
+    {
+      "content": "如果我们选择硬删除",
+      "from": 389.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 390.98
+    },
+    {
+      "content": "必须确保在删除特定任务前进行确认",
+      "from": 390.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 395.789
+    },
+    {
+      "content": "这种模式可以遵循",
+      "from": 395.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 397.449
+    },
+    {
+      "content": "当Claude开始处理可能需要删除操作的其他命令时",
+      "from": 397.449,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 402.47
+    },
+    {
+      "content": "当我们考虑注册时",
+      "from": 402.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 404.13
+    },
+    {
+      "content": "需要有意规划如何添加单个命令和命令组",
+      "from": 404.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 408.03
+    },
+    {
+      "content": "这样我们不仅为注册命令提供了明确指导",
+      "from": 408.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 412.27
+    },
+    {
+      "content": "我们在遵循的具体规范方面非常明确",
+      "from": 412.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 415.799
+    },
+    {
+      "content": "最后当我们讨论规范时",
+      "from": 415.799,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 417.919
+    },
+    {
+      "content": "这就是我们可以利用文档字符串要求的地方",
+      "from": 417.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 421.289
+    },
+    {
+      "content": "注意退出代码并遵循常量",
+      "from": 421.289,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 423.889
+    },
+    {
+      "content": "注意破坏性命令",
+      "from": 423.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 426.91
+    },
+    {
+      "content": "这是一个非常有用的场景，当我们构建可预测的工作流程时",
+      "from": 426.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 430.73
+    },
+    {
+      "content": "我们清楚自己遵循的具体规范",
+      "from": 430.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 433.19
+    },
+    {
+      "content": "这些规范不需要存在于代码库的每个地方",
+      "from": 433.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 436.65
+    },
+    {
+      "content": "也不需要在上下文中全部加载",
+      "from": 436.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 438.95
+    },
+    {
+      "content": "如果这样我们可以将其放在clawed md中",
+      "from": 438.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 441.05
+    },
+    {
+      "content": "但在这种情况下",
+      "from": 441.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 441.99
+    },
+    {
+      "content": "仅针对添加单个命令",
+      "from": 441.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 443.93
+    },
+    {
+      "content": "需要遵循规范的子集",
+      "from": 443.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 446.09
+    },
+    {
+      "content": "只需在必要时加载这些",
+      "from": 446.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 448.49
+    },
+    {
+      "content": "我们不仅使用通用命名如cli app",
+      "from": 448.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 452.48
+    },
+    {
+      "content": "我们可以将此技能应用到遵循代理规范的任何平台",
+      "from": 452.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 457.16
+    },
+    {
+      "content": "根据你正在构建的任何CLI",
+      "from": 457.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 459.51
+    },
+    {
+      "content": "如果你想让claw遵循这些特定模式",
+      "from": 459.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 461.97
+    },
+    {
+      "content": "这个技能可以轻松适配实现",
+      "from": 461.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 464.72
+    },
+    {
+      "content": "现在我们有了添加CLI命令的技能",
+      "from": 464.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 467.76
+    },
+    {
+      "content": "让我们确保在执行添加命令的特定工作流程时",
+      "from": 467.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 472.86
+    },
+    {
+      "content": "我们注意测试并验证所写的命令",
+      "from": 472.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 477.02
+    },
+    {
+      "content": "这也是另一个生成CLI测试技能的绝佳用例",
+      "from": 477.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 483.36
+    },
+    {
+      "content": "我们为hyper命令生成pi测试",
+      "from": 483.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 486.87
+    },
+    {
+      "content": "这里包含所需的测试夹具和边缘情况处理",
+      "from": 486.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 492.169
+    },
+    {
+      "content": "非常重要的是要明确说明操作步骤",
+      "from": 492.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 495.129
+    },
+    {
+      "content": "以及如何触发该技能，如此处所示",
+      "from": 495.129,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 498.78
+    },
+    {
+      "content": "当用户要求为CLI编写测试或增加测试覆盖率时",
+      "from": 498.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 503.51
+    },
+    {
+      "content": "必须非常明确",
+      "from": 503.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 505.55
+    },
+    {
+      "content": "不仅在描述内容上",
+      "from": 505.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 508.06
+    },
+    {
+      "content": "还要让clade能检测如何运行",
+      "from": 508.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 510.36
+    },
+    {
+      "content": "与其他技能类似",
+      "from": 510.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 511.94
+    },
+    {
+      "content": "我们指定编写测试时的流程",
+      "from": 511.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 515.35
+    },
+    {
+      "content": "通常最佳实践是利用测试夹具",
+      "from": 515.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 518.319
+    },
+    {
+      "content": "可以将夹具视为每次运行时执行的信息",
+      "from": 518.319,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 522.599
+    },
+    {
+      "content": "在安排测试时设置相关信息",
+      "from": 522.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 525.76
+    },
+    {
+      "content": "设置模拟数据",
+      "from": 525.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 527.3
+    },
+    {
+      "content": "以及所需的任何模拟或测试基础设施",
+      "from": 527.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 531.02
+    },
+    {
+      "content": "针对每个编写的测试",
+      "from": 531.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 533.0
+    },
+    {
+      "content": "例如",
+      "from": 533.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 533.76
+    },
+    {
+      "content": "这里我们指定临时存储可能的结构",
+      "from": 533.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 537.43
+    },
+    {
+      "content": "并指定一些示例数据",
+      "from": 537.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 540.61
+    },
+    {
+      "content": "在运行每个测试时",
+      "from": 540.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 542.61
+    },
+    {
+      "content": "这些信息将被暴露以安排和设置必要测试",
+      "from": 542.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 548.23
+    },
+    {
+      "content": "当我们测试单个文件时",
+      "from": 548.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 550.37
+    },
+    {
+      "content": "文件夹和工作流程",
+      "from": 550.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 552.44
+    },
+    {
+      "content": "在查看测试结构时",
+      "from": 552.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 554.06
+    },
+    {
+      "content": "我们遵循与夹具相关的模式",
+      "from": 554.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 557.24
+    },
+    {
+      "content": "调用某种操作",
+      "from": 557.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 559.08
+    },
+    {
+      "content": "然后断言结果是否符合预期",
+      "from": 559.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 561.51
+    },
+    {
+      "content": "在这里，我们只是试图构建模式，供clog使用并遵循",
+      "from": 561.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 566.06
+    },
+    {
+      "content": "当技能被充分利用时",
+      "from": 566.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 567.62
+    },
+    {
+      "content": "我们可以继续按照我们希望测试运行器实现的方式进行",
+      "from": 567.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 571.02
+    },
+    {
+      "content": "以及如何通过命令类型测试场景",
+      "from": 571.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 573.48
+    },
+    {
+      "content": "随着我们阅读",
+      "from": 573.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 574.4
+    },
+    {
+      "content": "随着我们添加",
+      "from": 574.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 575.24
+    },
+    {
+      "content": "这是我们希望测试案例的示例",
+      "from": 575.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 578.5
+    },
+    {
+      "content": "如同许多测试库",
+      "from": 578.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 580.359
+    },
+    {
+      "content": "有许多方法可以完成这些示例的类似任务",
+      "from": 580.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 584.359
+    },
+    {
+      "content": "这是我们想要遵循的模式",
+      "from": 584.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 586.719
+    },
+    {
+      "content": "在技能接近尾声时",
+      "from": 587.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 589.38
+    },
+    {
+      "content": "我们需要考虑一些边缘情况以覆盖测试编写",
+      "from": 589.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 593.08
+    },
+    {
+      "content": "我们需要考虑无效输入",
+      "from": 593.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 594.9
+    },
+    {
+      "content": "任何状态确认",
+      "from": 594.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 597.02
+    },
+    {
+      "content": "或未找到或不存在的情况",
+      "from": 597.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 600.49
+    },
+    {
+      "content": "我们需要确保遵循检查清单",
+      "from": 600.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 603.25
+    },
+    {
+      "content": "当我们开始编写测试时",
+      "from": 603.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 605.36
+    },
+    {
+      "content": "最后确保正确运行测试",
+      "from": 605.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 608.56
+    },
+    {
+      "content": "提供正确命令以及如何以详细模式运行",
+      "from": 608.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 612.18
+    },
+    {
+      "content": "以及针对特定文件",
+      "from": 612.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 613.98
+    },
+    {
+      "content": "这里最后一个技能是收尾和复审",
+      "from": 613.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 617.16
+    },
+    {
+      "content": "并确保正确执行命令",
+      "from": 617.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 620.42
+    },
+    {
+      "content": "在生成测试并运行后",
+      "from": 620.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 623.16
+    },
+    {
+      "content": "确保遵循正确规范",
+      "from": 623.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 626.06
+    },
+    {
+      "content": "就像我们看到的其他技能",
+      "from": 626.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 628.21
+    },
+    {
+      "content": "有执行必要任务的方法",
+      "from": 628.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 630.99
+    },
+    {
+      "content": "然后返回验证一切正常",
+      "from": 630.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 634.39
+    },
+    {
+      "content": "在回顾这些命令时",
+      "from": 634.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 636.569
+    },
+    {
+      "content": "我们不仅考虑底层结构",
+      "from": 636.569,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 639.169
+    },
+    {
+      "content": "这是否在正确位置",
+      "from": 639.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 640.949
+    },
+    {
+      "content": "是否使用了正确装饰器",
+      "from": 640.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 642.769
+    },
+    {
+      "content": "是否正确注册",
+      "from": 642.769,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 644.63
+    },
+    {
+      "content": "但我们也要确保那些我们希望的实践",
+      "from": 644.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 648.21
+    },
+    {
+      "content": "类型注解或参数选项或标志",
+      "from": 648.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 651.51
+    },
+    {
+      "content": "在可能时",
+      "from": 651.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 652.45
+    },
+    {
+      "content": "始终包含",
+      "from": 652.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 653.87
+    },
+    {
+      "content": "提供正反例通常有帮助",
+      "from": 653.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 657.4
+    },
+    {
+      "content": "正如我们提到的",
+      "from": 657.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 658.36
+    },
+    {
+      "content": "使用这种注解类型",
+      "from": 658.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 659.92
+    },
+    {
+      "content": "与另一种参数类型方式对比",
+      "from": 659.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 663.96
+    },
+    {
+      "content": "当我们更关注错误处理和输出时",
+      "from": 664.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 667.2
+    },
+    {
+      "content": "确保此检查清单存在",
+      "from": 667.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 669.6
+    },
+    {
+      "content": "以便技能能确认所有组件",
+      "from": 669.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 673.95
+    },
+    {
+      "content": "符合预期",
+      "from": 673.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 674.91
+    },
+    {
+      "content": "我们没有告诉claude如何执行这些操作",
+      "from": 674.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 678.51
+    },
+    {
+      "content": "比如添加命令和生成测试",
+      "from": 678.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 680.64
+    },
+    {
+      "content": "我们确保其按预期工作",
+      "from": 680.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 683.18
+    },
+    {
+      "content": "可以将其视为一种评估",
+      "from": 683.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 685.46
+    },
+    {
+      "content": "几乎适用于其他技能",
+      "from": 685.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 687.82
+    },
+    {
+      "content": "并将此技能纳入工作流程",
+      "from": 687.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 691.27
+    },
+    {
+      "content": "当我们查看底部内容时",
+      "from": 691.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 692.85
+    },
+    {
+      "content": "确保我们的最佳实践得到遵循",
+      "from": 692.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 695.23
+    },
+    {
+      "content": "以及我们可能遇到的错误示例及其修复方法",
+      "from": 695.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 699.51
+    },
+    {
+      "content": "现在我们来看技能的输出格式",
+      "from": 699.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 702.09
+    },
+    {
+      "content": "我们需要确保所有检查项都得到处理",
+      "from": 702.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 705.21
+    },
+    {
+      "content": "包括摘要和建议的修复方案",
+      "from": 705.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 708.11
+    },
+    {
+      "content": "进行这种底层审查非常有用",
+      "from": 708.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 710.51
+    },
+    {
+      "content": "这样当功能完成后",
+      "from": 710.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 711.99
+    },
+    {
+      "content": "我们可以先查看这份审查",
+      "from": 711.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 714.13
+    },
+    {
+      "content": "包含此内容",
+      "from": 714.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 714.83
+    },
+    {
+      "content": "甚至作为代码审查的一部分",
+      "from": 714.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 716.3
+    },
+    {
+      "content": "确保我们构建生产级功能",
+      "from": 716.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 718.54
+    },
+    {
+      "content": "并经过测试验证",
+      "from": 718.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 719.6
+    },
+    {
+      "content": "遵循最佳实践",
+      "from": 719.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 721.39
+    },
+    {
+      "content": "考虑到这一点",
+      "from": 721.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 722.45
+    },
+    {
+      "content": "让我们开始整合所有这些技能",
+      "from": 722.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 724.83
+    },
+    {
+      "content": "首先我们要添加一个新命令",
+      "from": 724.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 727.79
+    },
+    {
+      "content": "允许编辑单个任务",
+      "from": 727.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 730.65
+    },
+    {
+      "content": "我们需要确保修改标题和优先级",
+      "from": 730.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 733.33
+    },
+    {
+      "content": "并传入当前有效的ID",
+      "from": 733.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 736.29
+    },
+    {
+      "content": "让我们进入clade代码并使用这些技能",
+      "from": 736.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 740.02
+    },
+    {
+      "content": "确认我已正确注册这些",
+      "from": 740.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 742.5
+    },
+    {
+      "content": "我先输入skills命令",
+      "from": 742.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 745.94
+    },
+    {
+      "content": "这将列出我需要满足的可用技能",
+      "from": 745.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 748.98
+    },
+    {
+      "content": "这些是项目技能",
+      "from": 748.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 750.46
+    },
+    {
+      "content": "我们之前也提到",
+      "from": 750.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 751.5
+    },
+    {
+      "content": "我们可以在主目录中添加技能",
+      "from": 751.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 754.14
+    },
+    {
+      "content": "但目前我们只处理项目技能",
+      "from": 754.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 756.38
+    },
+    {
+      "content": "我们还可以看到这些技能占用的tokens数量",
+      "from": 756.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 759.38
+    },
+    {
+      "content": "当我们考虑必要的名称和描述时",
+      "from": 759.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 762.96
+    },
+    {
+      "content": "在claude代码中创建新技能时",
+      "from": 762.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 765.72
+    },
+    {
+      "content": "务必关闭并重新打开claude代码",
+      "from": 765.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 769.58
+    },
+    {
+      "content": "以便识别该技能",
+      "from": 769.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 771.56
+    },
+    {
+      "content": "如果你查看技能列表时",
+      "from": 771.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 773.96
+    },
+    {
+      "content": "但发现缺少刚创建的技能",
+      "from": 773.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 776.46
+    },
+    {
+      "content": "请关闭该clade代码实例",
+      "from": 776.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 778.62
+    },
+    {
+      "content": "重新打开它",
+      "from": 778.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 779.74
+    },
+    {
+      "content": "现在我们的技能正确加载，状态良好",
+      "from": 779.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 783.51
+    },
+    {
+      "content": "我们继续添加新编辑命令以允许用户修改标题和优先级",
+      "from": 783.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 289,
+      "to": 789.39
+    },
+    {
+      "content": "这里添加一个示例",
+      "from": 789.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 290,
+      "to": 791.25
+    },
+    {
+      "content": "并确保遵循创建新CLI命令的规范",
+      "from": 791.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 795.87
+    },
+    {
+      "content": "现在让我们试试看",
+      "from": 795.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 797.29
+    },
+    {
+      "content": "我们可以看到clog代码提示使用添加CLI命令技能",
+      "from": 797.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 802.71
+    },
+    {
+      "content": "这很棒",
+      "from": 802.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 803.72
+    },
+    {
+      "content": "我们将来要确保",
+      "from": 803.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 805.62
+    },
+    {
+      "content": "不再提示此操作",
+      "from": 805.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 807.59
+    },
+    {
+      "content": "在此处可以看到",
+      "from": 807.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 808.47
+    },
+    {
+      "content": "我们将读取现有文件和存储",
+      "from": 808.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 810.85
+    },
+    {
+      "content": "以理解规范",
+      "from": 810.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 812.46
+    },
+    {
+      "content": "同时参考其他命令的示例",
+      "from": 812.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 817.21
+    },
+    {
+      "content": "现在我们已经了解了这些约定",
+      "from": 817.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 818.75
+    },
+    {
+      "content": "接下来我们创建该特定文件",
+      "from": 818.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 821.31
+    },
+    {
+      "content": "我们可以看到这里",
+      "from": 821.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 822.25
+    },
+    {
+      "content": "正在创建新的文件edit_pi",
+      "from": 822.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 824.57
+    },
+    {
+      "content": "我们现在要进行这项修改",
+      "from": 824.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 826.69
+    },
+    {
+      "content": "可以看到edit_pi已出现",
+      "from": 826.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 829.12
+    },
+    {
+      "content": "我们现在要注册该命令",
+      "from": 829.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 831.62
+    },
+    {
+      "content": "按照技能设定的顺序执行",
+      "from": 831.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 834.81
+    },
+    {
+      "content": "可以看到命令正在我们的__init__中按预期注册",
+      "from": 834.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 839.69
+    },
+    {
+      "content": "我们也进行这项修改",
+      "from": 839.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 842.29
+    },
+    {
+      "content": "我们将继续运行该命令进行测试",
+      "from": 842.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 846.17
+    },
+    {
+      "content": "并确保其正常运行",
+      "from": 846.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 847.99
+    },
+    {
+      "content": "看起来符合预期",
+      "from": 847.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 850.13
+    },
+    {
+      "content": "状态良好",
+      "from": 850.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 851.43
+    },
+    {
+      "content": "现在将运行add命令",
+      "from": 851.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 853.85
+    },
+    {
+      "content": "然后运行list命令确认添加成功",
+      "from": 853.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 857.959
+    },
+    {
+      "content": "正在播种数据以验证edit命令效果",
+      "from": 857.959,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 862.53
+    },
+    {
+      "content": "我们将编辑该任务",
+      "from": 862.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 864.99
+    },
+    {
+      "content": "这里未指定标题或优先级",
+      "from": 864.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 868.86
+    },
+    {
+      "content": "然后输入该标题",
+      "from": 868.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 870.86
+    },
+    {
+      "content": "可以看到已成功编辑",
+      "from": 870.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 874.54
+    },
+    {
+      "content": "系统再次提示编辑该任务",
+      "from": 875.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 877.97
+    },
+    {
+      "content": "在测试各种示例时会重复出现",
+      "from": 877.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 882.65
+    },
+    {
+      "content": "虽然可以继续重复操作",
+      "from": 882.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 885.03
+    },
+    {
+      "content": "这可能会逐渐填满上下文窗口",
+      "from": 885.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 888.68
+    },
+    {
+      "content": "在更大规模系统中可能非常耗时且计算密集",
+      "from": 888.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 893.8
+    },
+    {
+      "content": "接下来我们将采用不同方法",
+      "from": 893.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 896.73
+    },
+    {
+      "content": "利用Claude Code的子代理功能",
+      "from": 896.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 901.98
+    },
+    {
+      "content": "一个子代理负责代码审查和遵循标准",
+      "from": 901.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 907.0
+    },
+    {
+      "content": "使主代理专注于开发",
+      "from": 907.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 909.83
+    },
+    {
+      "content": "另一个子代理生成并运行测试",
+      "from": 909.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 913.81
+    },
+    {
+      "content": "利用我们已有的技能功能",
+      "from": 913.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 917.09
+    },
+    {
+      "content": "这样主代理可专注于开发",
+      "from": 917.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 920.09
+    },
+    {
+      "content": "子代理在各自上下文中",
+      "from": 920.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 923.29
+    },
+    {
+      "content": "专注于生成测试和审查代码",
+      "from": 923.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 926.71
+    },
+    {
+      "content": "然后获取生成的反馈和测试",
+      "from": 926.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 929.33
+    },
+    {
+      "content": "以更高效的方式返回主代理",
+      "from": 929.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 933.59
+    },
+    {
+      "content": "需注意子代理不继承父代理技能",
+      "from": 933.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 938.22
+    },
+    {
+      "content": "需明确为每个子代理分配技能",
+      "from": 938.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 943.2
+    },
+    {
+      "content": "有多种方式传递技能给子代理",
+      "from": 943.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 946.95
+    },
+    {
+      "content": "一种方法",
+      "from": 946.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 947.55
+    },
+    {
+      "content": "我们将演示",
+      "from": 947.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 948.03
+    },
+    {
+      "content": "在子区域明确指定技能名称",
+      "from": 948.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 952.16
+    },
+    {
+      "content": "另一种选项是通过备注链接代理名称",
+      "from": 952.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 957.55
+    },
+    {
+      "content": "并直接从技能中运行的最佳方式",
+      "from": 957.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 961.19
+    },
+    {
+      "content": "接下来创建子代理",
+      "from": 961.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 964.39
+    },
+    {
+      "content": "首先创建代码审查代理",
+      "from": 965.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 968.429
+    },
+    {
+      "content": "使用agents命令创建这些代理",
+      "from": 968.429,
+      "location": 2,
+      "music": 0.0,
+      "sid": 348,
+      "to": 972.069
+    },
+    {
+      "content": "创建新代理",
+      "from": 972.069,
+      "location": 2,
+      "music": 0.0,
+      "sid": 349,
+      "to": 973.549
+    },
+    {
+      "content": "基于项目进行创建",
+      "from": 973.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 350,
+      "to": 975.84
+    },
+    {
+      "content": "但与其使用分支生成",
+      "from": 975.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 351,
+      "to": 977.66
+    },
+    {
+      "content": "我们将采用手动配置",
+      "from": 977.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 352,
+      "to": 979.86
+    },
+    {
+      "content": "这样你可以看到如何添加名称描述工具和",
+      "from": 979.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 353,
+      "to": 984.04
+    },
+    {
+      "content": "最重要的是每个代理的技能",
+      "from": 984.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 354,
+      "to": 986.72
+    },
+    {
+      "content": "我将首先创建一个名为代码审查员的代理",
+      "from": 986.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 355,
+      "to": 989.68
+    },
+    {
+      "content": "这将是我们的代理唯一标识符",
+      "from": 989.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 356,
+      "to": 992.24
+    },
+    {
+      "content": "然后我们将向其传递提示",
+      "from": 992.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 357,
+      "to": 994.17
+    },
+    {
+      "content": "我们将粘贴一个稍后查看的提示",
+      "from": 994.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 358,
+      "to": 997.01
+    },
+    {
+      "content": "我们已经创建了这个",
+      "from": 997.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 359,
+      "to": 997.99
+    },
+    {
+      "content": "但它看起来非常熟悉我们的审查方式和具体可操作性",
+      "from": 997.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 360,
+      "to": 1003.04
+    },
+    {
+      "content": "在我们的见解中",
+      "from": 1003.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 361,
+      "to": 1004.24
+    },
+    {
+      "content": "在进行代码审查时",
+      "from": 1004.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 362,
+      "to": 1005.849
+    },
+    {
+      "content": "我们现在将为该代理添加描述",
+      "from": 1005.849,
+      "location": 2,
+      "music": 0.0,
+      "sid": 363,
+      "to": 1009.329
+    },
+    {
+      "content": "它何时应被使用",
+      "from": 1009.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 364,
+      "to": 1011.089
+    },
+    {
+      "content": "我们将进行代码质量审查",
+      "from": 1011.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 365,
+      "to": 1012.829
+    },
+    {
+      "content": "安全等",
+      "from": 1012.829,
+      "location": 2,
+      "music": 0.0,
+      "sid": 366,
+      "to": 1014.38
+    },
+    {
+      "content": "我们将尽量使此代理通用化",
+      "from": 1014.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 367,
+      "to": 1017.42
+    },
+    {
+      "content": "针对我们所需的工具集",
+      "from": 1017.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 368,
+      "to": 1020.12
+    },
+    {
+      "content": "我们需要非常具体地定义子代理可访问的工具",
+      "from": 1020.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 369,
+      "to": 1024.4
+    },
+    {
+      "content": "因此如果需要执行代码",
+      "from": 1024.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 370,
+      "to": 1027.06
+    },
+    {
+      "content": "我们将提供bash",
+      "from": 1027.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 371,
+      "to": 1028.06
+    },
+    {
+      "content": "使用grep查找文件",
+      "from": 1028.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 372,
+      "to": 1030.29
+    },
+    {
+      "content": "并读取待审查的文件",
+      "from": 1030.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 373,
+      "to": 1034.81
+    },
+    {
+      "content": "选择这些工具后",
+      "from": 1034.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 374,
+      "to": 1036.29
+    },
+    {
+      "content": "我们可以继续",
+      "from": 1036.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 375,
+      "to": 1038.389
+    },
+    {
+      "content": "我们将继承父代理使用的模型",
+      "from": 1038.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 376,
+      "to": 1042.249
+    },
+    {
+      "content": "并为其设置紫色颜色",
+      "from": 1042.249,
+      "location": 2,
+      "music": 0.0,
+      "sid": 377,
+      "to": 1045.579
+    },
+    {
+      "content": "完成设置后",
+      "from": 1045.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 378,
+      "to": 1047.079
+    },
+    {
+      "content": "保存此代理",
+      "from": 1047.079,
+      "location": 2,
+      "music": 0.0,
+      "sid": 379,
+      "to": 1049.36
+    },
+    {
+      "content": "现在在我们的代理文件夹中可以看到代码审查员",
+      "from": 1049.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 380,
+      "to": 1053.48
+    },
+    {
+      "content": "代理已就绪",
+      "from": 1053.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 381,
+      "to": 1054.48
+    },
+    {
+      "content": "我们拥有代码审查员",
+      "from": 1055.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 382,
+      "to": 1056.58
+    },
+    {
+      "content": "描述工具及所有添加的组件",
+      "from": 1056.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 383,
+      "to": 1060.37
+    },
+    {
+      "content": "现在需要确保",
+      "from": 1060.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 384,
+      "to": 1062.33
+    },
+    {
+      "content": "指定此子代理所需技能",
+      "from": 1062.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 385,
+      "to": 1065.47
+    },
+    {
+      "content": "通过技能字段实现",
+      "from": 1065.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 386,
+      "to": 1067.93
+    },
+    {
+      "content": "指定所用技能名称",
+      "from": 1067.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 387,
+      "to": 1072.13
+    },
+    {
+      "content": "在我们创建下一个代理前执行CLI命令审查",
+      "from": 1072.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 388,
+      "to": 1077.79
+    },
+    {
+      "content": "快速回顾我们创建的内容",
+      "from": 1077.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 389,
+      "to": 1079.97
+    },
+    {
+      "content": "代理具有名称、描述工具和可用性",
+      "from": 1079.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 390,
+      "to": 1082.95
+    },
+    {
+      "content": "继承的模型、颜色及引入的技能",
+      "from": 1082.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 391,
+      "to": 1087.19
+    },
+    {
+      "content": "我们可以添加多项技能",
+      "from": 1087.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 392,
+      "to": 1088.59
+    },
+    {
+      "content": "但现阶段仅使用一项",
+      "from": 1088.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 393,
+      "to": 1090.62
+    },
+    {
+      "content": "在提示中",
+      "from": 1090.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 394,
+      "to": 1091.5
+    },
+    {
+      "content": "我们提到这是代码审查员",
+      "from": 1091.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 395,
+      "to": 1092.96
+    },
+    {
+      "content": "确保高标准",
+      "from": 1092.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 396,
+      "to": 1094.73
+    },
+    {
+      "content": "明确定义代理功能时",
+      "from": 1094.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 397,
+      "to": 1097.17
+    },
+    {
+      "content": "指定其被调用时执行常规质量检查",
+      "from": 1097.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 398,
+      "to": 1100.639
+    },
+    {
+      "content": "当我们处理Python时",
+      "from": 1100.639,
+      "location": 2,
+      "music": 0.0,
+      "sid": 399,
+      "to": 1102.099
+    },
+    {
+      "content": "需明确CLI命令同理",
+      "from": 1102.099,
+      "location": 2,
+      "music": 0.0,
+      "sid": 400,
+      "to": 1105.13
+    },
+    {
+      "content": "我们需要一个特定的输出格式，如之前提到的",
+      "from": 1105.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 401,
+      "to": 1108.01
+    },
+    {
+      "content": "这个代理稍微通用一些",
+      "from": 1108.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 402,
+      "to": 1109.929
+    },
+    {
+      "content": "虽然我们是在特定应用的上下文中使用它",
+      "from": 1109.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 403,
+      "to": 1113.719
+    },
+    {
+      "content": "技能可以帮助我们更具体化",
+      "from": 1113.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 404,
+      "to": 1115.819
+    },
+    {
+      "content": "但这个代理可能需要在不同应用中使用",
+      "from": 1115.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 405,
+      "to": 1119.909
+    },
+    {
+      "content": "因此我们在这里要稍微通用一些",
+      "from": 1119.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 406,
+      "to": 1123.3
+    },
+    {
+      "content": "需要注意技能在Claude代码中作为子代理的工作方式略有不同",
+      "from": 1123.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 407,
+      "to": 1129.11
+    },
+    {
+      "content": "当这个子代理被调用并创建时",
+      "from": 1129.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 408,
+      "to": 1131.95
+    },
+    {
+      "content": "技能不仅加载名称和描述",
+      "from": 1131.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 409,
+      "to": 1135.43
+    },
+    {
+      "content": "但整个技能模板",
+      "from": 1135.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 410,
+      "to": 1137.67
+    },
+    {
+      "content": "这些技能在代理被调用时会预先加载",
+      "from": 1137.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 411,
+      "to": 1143.59
+    },
+    {
+      "content": "其他文件或命令的读取并未执行",
+      "from": 1143.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 412,
+      "to": 1147.78
+    },
+    {
+      "content": "但子代理被调用时整个技能md会被读取",
+      "from": 1147.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 413,
+      "to": 1152.23
+    },
+    {
+      "content": "现在我们已经有了代码",
+      "from": 1152.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 414,
+      "to": 1153.43
+    },
+    {
+      "content": "审查代理",
+      "from": 1153.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 415,
+      "to": 1154.41
+    },
+    {
+      "content": "让我们添加另一个用于生成和运行测试的代理",
+      "from": 1154.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 416,
+      "to": 1159.1
+    },
+    {
+      "content": "我们继续创建第二个代理",
+      "from": 1159.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 417,
+      "to": 1161.66
+    },
+    {
+      "content": "我们将使用手动配置在项目中新建代理",
+      "from": 1161.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 418,
+      "to": 1167.0
+    },
+    {
+      "content": "并将其命名为测试生成器执行器",
+      "from": 1167.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 419,
+      "to": 1169.52
+    },
+    {
+      "content": "我们继续添加一个提示",
+      "from": 1169.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 420,
+      "to": 1171.48
+    },
+    {
+      "content": "稍后会详细审查",
+      "from": 1171.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 421,
+      "to": 1173.38
+    },
+    {
+      "content": "它将遵循与之前代理相似的模式",
+      "from": 1173.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 422,
+      "to": 1177.98
+    },
+    {
+      "content": "我们为这个代理指定描述",
+      "from": 1177.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 423,
+      "to": 1181.04
+    },
+    {
+      "content": "说明它应运行并生成测试",
+      "from": 1181.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 424,
+      "to": 1184.649
+    },
+    {
+      "content": "当用户要求测试或运行时若缺失",
+      "from": 1184.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 425,
+      "to": 1188.11
+    },
+    {
+      "content": "确保这个代理像之前一样被调用",
+      "from": 1188.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 426,
+      "to": 1193.09
+    },
+    {
+      "content": "而不是提供所有工具访问权限",
+      "from": 1193.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 427,
+      "to": 1195.19
+    },
+    {
+      "content": "转到高级选项",
+      "from": 1195.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 428,
+      "to": 1196.47
+    },
+    {
+      "content": "在高级选项中",
+      "from": 1197.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 429,
+      "to": 1198.71
+    },
+    {
+      "content": "我们将禁用所有工具",
+      "from": 1198.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 430,
+      "to": 1201.37
+    },
+    {
+      "content": "并确保包含bash工具",
+      "from": 1201.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 431,
+      "to": 1203.77
+    },
+    {
+      "content": "glob和grep读取功能",
+      "from": 1203.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 432,
+      "to": 1205.92
+    },
+    {
+      "content": "但我们还需要编辑和写入单个文件",
+      "from": 1205.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 433,
+      "to": 1209.44
+    },
+    {
+      "content": "并编辑可能已存在的文件",
+      "from": 1209.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 434,
+      "to": 1213.11
+    },
+    {
+      "content": "配置好这些工具后",
+      "from": 1213.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 435,
+      "to": 1214.93
+    },
+    {
+      "content": "我们继续讨论将要使用的模型",
+      "from": 1214.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 436,
+      "to": 1218.65
+    },
+    {
+      "content": "和之前一样继承父类",
+      "from": 1218.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 437,
+      "to": 1221.26
+    },
+    {
+      "content": "我们使用yellow配置此子代理",
+      "from": 1221.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 438,
+      "to": 1224.18
+    },
+    {
+      "content": "看起来没问题",
+      "from": 1224.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 439,
+      "to": 1225.56
+    },
+    {
+      "content": "我们保存它",
+      "from": 1225.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 440,
+      "to": 1227.44
+    },
+    {
+      "content": "创建此代理后",
+      "from": 1227.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 441,
+      "to": 1229.22
+    },
+    {
+      "content": "还需指定使用的技能",
+      "from": 1229.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 442,
+      "to": 1233.38
+    },
+    {
+      "content": "在此使用生成CLI测试的技能",
+      "from": 1233.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 443,
+      "to": 1238.69
+    },
+    {
+      "content": "技能部分可添加多个",
+      "from": 1238.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 444,
+      "to": 1241.54
+    },
+    {
+      "content": "但此处仅使用单一技能",
+      "from": 1241.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 445,
+      "to": 1244.48
+    },
+    {
+      "content": "如之前所示",
+      "from": 1244.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 446,
+      "to": 1246.84
+    },
+    {
+      "content": "当被调用时",
+      "from": 1246.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 447,
+      "to": 1248.06
+    },
+    {
+      "content": "展示如何发现测试和所需输出格式",
+      "from": 1248.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 448,
+      "to": 1251.72
+    },
+    {
+      "content": "并设置底层规则确保正常运行",
+      "from": 1251.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 449,
+      "to": 1255.84
+    },
+    {
+      "content": "就像我们的其他代理一样",
+      "from": 1255.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 450,
+      "to": 1257.52
+    },
+    {
+      "content": "为了更通用并依赖技能来提供一致的工作流程",
+      "from": 1257.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 451,
+      "to": 1262.02
+    },
+    {
+      "content": "现在我们已经创建了子代理和技能",
+      "from": 1262.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 452,
+      "to": 1264.9
+    },
+    {
+      "content": "接下来我们将整合所有内容，确保添加新命令时",
+      "from": 1264.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 453,
+      "to": 1268.54
+    },
+    {
+      "content": "必要时使用所需技能调度子代理",
+      "from": 1268.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 454,
+      "to": 1273.199
+    },
+    {
+      "content": "我们先使用代码审查员",
+      "from": 1273.199,
+      "location": 2,
+      "music": 0.0,
+      "sid": 455,
+      "to": 1275.919
+    },
+    {
+      "content": "子代理来审查我们创建的edit pi命令",
+      "from": 1275.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 456,
+      "to": 1279.84
+    },
+    {
+      "content": "这不仅会调度子代理",
+      "from": 1279.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 457,
+      "to": 1281.92
+    },
+    {
+      "content": "还会使用为该子代理提供的技能",
+      "from": 1281.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 458,
+      "to": 1285.929
+    },
+    {
+      "content": "我们可以看到代码审查员代理已被调度",
+      "from": 1285.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 459,
+      "to": 1289.75
+    },
+    {
+      "content": "现在我们将继续",
+      "from": 1289.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 460,
+      "to": 1290.95
+    },
+    {
+      "content": "使用我们定义的必要技能和工具",
+      "from": 1290.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 461,
+      "to": 1294.99
+    },
+    {
+      "content": "这里可以看到",
+      "from": 1295.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 462,
+      "to": 1296.71
+    },
+    {
+      "content": "哪些功能正常哪些存在问题",
+      "from": 1296.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 463,
+      "to": 1298.47
+    },
+    {
+      "content": "没有严重错误",
+      "from": 1298.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 464,
+      "to": 1299.87
+    },
+    {
+      "content": "但存在一些警告",
+      "from": 1299.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 465,
+      "to": 1301.27
+    },
+    {
+      "content": "需要修复的问题和建议方案",
+      "from": 1301.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 466,
+      "to": 1303.949
+    },
+    {
+      "content": "我们可以使用主代理实施这些修复",
+      "from": 1303.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 467,
+      "to": 1306.789
+    },
+    {
+      "content": "如果需要的话",
+      "from": 1306.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 468,
+      "to": 1307.74
+    },
+    {
+      "content": "接下来使用测试运行器",
+      "from": 1307.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 469,
+      "to": 1309.62
+    },
+    {
+      "content": "子代理为edit pi命令生成测试",
+      "from": 1309.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 470,
+      "to": 1313.34
+    },
+    {
+      "content": "我们将确保引用edit.pi文件",
+      "from": 1313.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 471,
+      "to": 1318.06
+    },
+    {
+      "content": "然后调度第二个子代理",
+      "from": 1319.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 472,
+      "to": 1322.39
+    },
+    {
+      "content": "可以看到这里",
+      "from": 1322.899,
+      "location": 2,
+      "music": 0.0,
+      "sid": 473,
+      "to": 1323.799
+    },
+    {
+      "content": "已生成必要命令",
+      "from": 1323.799,
+      "location": 2,
+      "music": 0.0,
+      "sid": 474,
+      "to": 1325.799
+    },
+    {
+      "content": "并提示确认是否执行此编辑",
+      "from": 1325.799,
+      "location": 2,
+      "music": 0.0,
+      "sid": 475,
+      "to": 1329.42
+    },
+    {
+      "content": "我们将继续操作",
+      "from": 1329.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 476,
+      "to": 1330.78
+    },
+    {
+      "content": "在添加编辑测试时",
+      "from": 1330.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 477,
+      "to": 1333.36
+    },
+    {
+      "content": "可以使用此命令确认测试正常运行",
+      "from": 1333.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 478,
+      "to": 1336.48
+    },
+    {
+      "content": "运行uv run",
+      "from": 1336.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 479,
+      "to": 1337.7
+    },
+    {
+      "content": "然后以详细模式运行所有测试",
+      "from": 1337.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 480,
+      "to": 1340.96
+    },
+    {
+      "content": "确保流程通过",
+      "from": 1340.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 481,
+      "to": 1342.4
+    },
+    {
+      "content": "并避免回归问题",
+      "from": 1342.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 482,
+      "to": 1344.49
+    },
+    {
+      "content": "完成之后",
+      "from": 1344.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 483,
+      "to": 1345.77
+    },
+    {
+      "content": "所有测试均通过",
+      "from": 1345.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 484,
+      "to": 1347.55
+    },
+    {
+      "content": "无失败情况",
+      "from": 1347.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 485,
+      "to": 1348.63
+    },
+    {
+      "content": "并附有总结",
+      "from": 1348.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 486,
+      "to": 1350.99
+    },
+    {
+      "content": "我们使用了两个不同子代理和多项技能",
+      "from": 1350.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 487,
+      "to": 1354.83
+    },
+    {
+      "content": "随着新功能的增加",
+      "from": 1354.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 488,
+      "to": 1357.35
+    },
+    {
+      "content": "可以整合所有组件",
+      "from": 1357.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 489,
+      "to": 1359.26
+    },
+    {
+      "content": "接下来我们将观察代码审查员",
+      "from": 1359.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 490,
+      "to": 1361.94
+    },
+    {
+      "content": "子代理和测试运行器",
+      "from": 1361.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 491,
+      "to": 1364.14
+    },
+    {
+      "content": "子代理的实际运行",
+      "from": 1364.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 492,
+      "to": 1365.63
+    },
+    {
+      "content": "假设存在一个clear.pi文件",
+      "from": 1365.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 493,
+      "to": 1367.95
+    },
+    {
+      "content": "团队成员新增了一个未遵循最佳实践的命令",
+      "from": 1367.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 494,
+      "to": 1370.76
+    },
+    {
+      "content": "可能未充分利用我们搭建的技能和基础设施",
+      "from": 1370.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 495,
+      "to": 1372.36
+    },
+    {
+      "content": "我们将使用代码审查员子代理",
+      "from": 1372.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 496,
+      "to": 1376.25
+    },
+    {
+      "content": "以及测试运行器子代理",
+      "from": 1376.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 497,
+      "to": 1379.09
+    },
+    {
+      "content": "来确定如何最佳修复clear.pi文件",
+      "from": 1379.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 498,
+      "to": 1381.46
+    },
+    {
+      "content": "调度代码审查员审查clear.pi命令",
+      "from": 1381.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 499,
+      "to": 1385.02
+    },
+    {
+      "content": "我们将调度代码审查员审查clear.pi命令",
+      "from": 1386.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 500,
+      "to": 1390.949
+    },
+    {
+      "content": "然后我们将使用测试生成器运行器来生成此命令所需的测试",
+      "from": 1390.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 501,
+      "to": 1395.889
+    },
+    {
+      "content": "最后我们将验证一切是否按预期正常运行",
+      "from": 1395.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 502,
+      "to": 1398.549
+    },
+    {
+      "content": "并确保所有测试通过且符合我们标准化的最佳实践",
+      "from": 1398.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 503,
+      "to": 1403.49
+    },
+    {
+      "content": "我们可以在这里看到",
+      "from": 1403.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 504,
+      "to": 1404.37
+    },
+    {
+      "content": "存在相当多的问题和一些警告",
+      "from": 1404.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 505,
+      "to": 1406.43
+    },
+    {
+      "content": "既然我们已经发现了这些问题",
+      "from": 1406.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 506,
+      "to": 1407.85
+    },
+    {
+      "content": "让我们确保主代理正在读取文件并修复它们",
+      "from": 1407.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 507,
+      "to": 1411.28
+    },
+    {
+      "content": "我们需要确保允许这些编辑清除pi",
+      "from": 1411.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 508,
+      "to": 1414.96
+    },
+    {
+      "content": "在这里我们可以看到控制台输出已正确实现",
+      "from": 1414.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 509,
+      "to": 1418.94
+    },
+    {
+      "content": "使用正确的方法如最佳实践中所述",
+      "from": 1418.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 510,
+      "to": 1423.33
+    },
+    {
+      "content": "我们也需要确保正确注册此命令",
+      "from": 1423.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 511,
+      "to": 1426.77
+    },
+    {
+      "content": "在我们的双下划线初始化方法中",
+      "from": 1426.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 512,
+      "to": 1428.53
+    },
+    {
+      "content": "主代理本身未为审查和生成测试添加额外上下文",
+      "from": 1428.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 513,
+      "to": 1434.02
+    },
+    {
+      "content": "它只是采用子代理的输出以更好地执行后续任务",
+      "from": 1434.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 514,
+      "to": 1439.2
+    },
+    {
+      "content": "是时候生成遵循最佳实践的clear命令测试了",
+      "from": 1439.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 515,
+      "to": 1443.6
+    },
+    {
+      "content": "我们可以在这里看到",
+      "from": 1443.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 516,
+      "to": 1444.74
+    },
+    {
+      "content": "正在为测试此clear命令添加文件",
+      "from": 1444.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 517,
+      "to": 1447.16
+    },
+    {
+      "content": "我们继续批准该操作",
+      "from": 1447.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 518,
+      "to": 1449.36
+    },
+    {
+      "content": "既然我们已经创建了这个文件",
+      "from": 1449.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 519,
+      "to": 1451.23
+    },
+    {
+      "content": "我们现在运行测试",
+      "from": 1451.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 520,
+      "to": 1452.75
+    },
+    {
+      "content": "确保它们按预期工作",
+      "from": 1452.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 521,
+      "to": 1455.21
+    },
+    {
+      "content": "现在我们可以获取已完成内容的总结",
+      "from": 1455.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 522,
+      "to": 1458.34
+    },
+    {
+      "content": "六个关键问题",
+      "from": 1458.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 523,
+      "to": 1459.98
+    },
+    {
+      "content": "四个警告",
+      "from": 1459.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 524,
+      "to": 1460.76
+    },
+    {
+      "content": "并全部修复了错误方法的使用",
+      "from": 1460.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 525,
+      "to": 1464.61
+    },
+    {
+      "content": "而是使用了格式不正确的标志",
+      "from": 1464.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 526,
+      "to": 1467.41
+    },
+    {
+      "content": "我们想要错误的退出代码",
+      "from": 1467.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 527,
+      "to": 1469.47
+    },
+    {
+      "content": "我们已修复了许多不同问题",
+      "from": 1469.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 528,
+      "to": 1471.61
+    },
+    {
+      "content": "在此基础上又添加了测试",
+      "from": 1471.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 529,
+      "to": 1473.89
+    },
+    {
+      "content": "以确保所有最佳实践都按预期完成",
+      "from": 1473.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 530,
+      "to": 1478.15
+    },
+    {
+      "content": "并确认功能符合下一课所需",
+      "from": 1478.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 531,
+      "to": 1482.02
+    },
+    {
+      "content": "我们将停止使用claude代码",
+      "from": 1482.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 532,
+      "to": 1483.72
+    },
+    {
+      "content": "转向claude代理SDK",
+      "from": 1483.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 533,
+      "to": 1486.02
+    },
+    {
+      "content": "并展示如何在构建自定义代理时使用技能",
+      "from": 1486.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 534,
+      "to": 1489.22
+    },
+    {
+      "content": "使用与claude代码相同的执行框架",
+      "from": 1489.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 535,
+      "to": 1491.94
+    }
+  ]
+}

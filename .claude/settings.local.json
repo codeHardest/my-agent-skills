@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx skills:*)",
+      "Bash(bash:*)",
+      "Bash(where yt-dlp:*)",
+      "Bash(pip install:*)",
+      "Bash(D:/msys64/ucrt64/bin/python.exe:*)",
+      "Bash(where:*)",
+      "Bash(winget install:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(curl:*)",
+      "Bash(ls -la /c/ffmpeg*)",
+      "Bash(ls -la /d/ffmpeg*)",
+      "Read(//c/Program Files/**)",
+      "Bash(/tmp/yt-dlp.exe:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:www.bilibili.com)",
+      "Bash(/c/Users/chandlernie/AppData/Local/Microsoft/WindowsApps/python3.exe:*)",
+      "Bash(\"/c/Users/chandlernie/.codeium/ws-browser/ffmpeg-1011/ffmpeg-win64.exe\":*)",
+      "Bash(unzip:*)",
+      "Bash(/tmp/ffmpeg.exe:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(yt-dlp:*)",
+      "Bash(uv:*)",
+      "Bash(export:*)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Temp\\\\ffmpeg.exe\":*)",
+      "Bash(PATH=\"$PATH:C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Temp\" uv run:*)",
+      "Bash(PATH=\"$PATH:C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Temp\\\\ffmpeg-master-latest-win64-gpl\\\\bin\" uv run:*)",
+      "Bash(py:*)",
+      "Bash(__NEW_LINE_a579a48b347c5c22__:*)",
+      "Bash(echo:*)",
+      "Bash(echo $VIDEO_URL:*)",
+      "Bash(uv run:*)",
+      "Bash(start:*)",
+      "Bash(python:*)",
+      "Skill(claude-api)"
+    ]
+  }
+}

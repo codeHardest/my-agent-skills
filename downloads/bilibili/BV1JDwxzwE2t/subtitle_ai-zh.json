@@ -1,0 +1,1820 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.06,
+      "to": 1.78,
+      "sid": 1,
+      "location": 2,
+      "content": "作为cloud重度用户",
+      "music": 0.0
+    },
+    {
+      "from": 1.78,
+      "to": 4.439,
+      "sid": 2,
+      "location": 2,
+      "content": "今天我们来给cloud20个命令评级",
+      "music": 0.0
+    },
+    {
+      "from": 4.439,
+      "to": 5.359,
+      "sid": 3,
+      "location": 2,
+      "content": "从行到拉",
+      "music": 0.0
+    },
+    {
+      "from": 5.359,
+      "to": 7.359,
+      "sid": 4,
+      "location": 2,
+      "content": "看看哪些是隐藏款真神",
+      "music": 0.0
+    },
+    {
+      "from": 7.359,
+      "to": 9.279,
+      "sid": 5,
+      "location": 2,
+      "content": "哪些是凑数的工业垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 9.279,
+      "to": 10.93,
+      "sid": 6,
+      "location": 2,
+      "content": "首先说评分标准",
+      "music": 0.0
+    },
+    {
+      "from": 10.93,
+      "to": 11.89,
+      "sid": 7,
+      "location": 2,
+      "content": "夯久是没他",
+      "music": 0.0
+    },
+    {
+      "from": 11.89,
+      "to": 12.69,
+      "sid": 8,
+      "location": 2,
+      "content": "我活不了",
+      "music": 0.0
+    },
+    {
+      "from": 12.69,
+      "to": 14.879,
+      "sid": 9,
+      "location": 2,
+      "content": "拉完了就是纯纯的电子垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 14.879,
+      "to": 18.219,
+      "sid": 10,
+      "location": 2,
+      "content": "首先是compact压缩对话历史省token",
+      "music": 0.0
+    },
+    {
+      "from": 18.219,
+      "to": 19.939,
+      "sid": 11,
+      "location": 2,
+      "content": "但关键信息全保留",
+      "music": 0.0
+    },
+    {
+      "from": 19.939,
+      "to": 21.179,
+      "sid": 12,
+      "location": 2,
+      "content": "对话太长了",
+      "music": 0.0
+    },
+    {
+      "from": 21.179,
+      "to": 22.59,
+      "sid": 13,
+      "location": 2,
+      "content": "cloud开始失忆",
+      "music": 0.0
+    },
+    {
+      "from": 22.59,
+      "to": 24.95,
+      "sid": 14,
+      "location": 2,
+      "content": "但你又不想丢掉上下文的时候",
+      "music": 0.0
+    },
+    {
+      "from": 24.95,
+      "to": 26.37,
+      "sid": 15,
+      "location": 2,
+      "content": "这就是救命稻草",
+      "music": 0.0
+    },
+    {
+      "from": 26.37,
+      "to": 27.55,
+      "sid": 16,
+      "location": 2,
+      "content": "长对话必备",
+      "music": 0.0
+    },
+    {
+      "from": 27.55,
+      "to": 28.99,
+      "sid": 17,
+      "location": 2,
+      "content": "这里给到一个夯",
+      "music": 0.0
+    },
+    {
+      "from": 28.99,
+      "to": 30.45,
+      "sid": 18,
+      "location": 2,
+      "content": "下一个是exit",
+      "music": 0.0
+    },
+    {
+      "from": 30.45,
+      "to": 35.049,
+      "sid": 19,
+      "location": 2,
+      "content": "退出cloud code结束当前会话比直接关窗口优雅一点",
+      "music": 0.0
+    },
+    {
+      "from": 35.049,
+      "to": 36.369,
+      "sid": 20,
+      "location": 2,
+      "content": "但也就那么一点",
+      "music": 0.0
+    },
+    {
+      "from": 36.369,
+      "to": 38.44,
+      "sid": 21,
+      "location": 2,
+      "content": "适合有强迫症的程序员",
+      "music": 0.0
+    },
+    {
+      "from": 38.44,
+      "to": 40.62,
+      "sid": 22,
+      "location": 2,
+      "content": "总觉得得有个正式的结束仪式",
+      "music": 0.0
+    },
+    {
+      "from": 40.62,
+      "to": 43.02,
+      "sid": 23,
+      "location": 2,
+      "content": "但是这我真的需要告诉你吗",
+      "music": 0.0
+    },
+    {
+      "from": 43.02,
+      "to": 44.9,
+      "sid": 24,
+      "location": 2,
+      "content": "我直接CTRL加地秒了",
+      "music": 0.0
+    },
+    {
+      "from": 44.9,
+      "to": 46.799,
+      "sid": 25,
+      "location": 2,
+      "content": "谢谢这个命令的存在",
+      "music": 0.0
+    },
+    {
+      "from": 46.799,
+      "to": 50.19,
+      "sid": 26,
+      "location": 2,
+      "content": "让我严重怀疑产品经理是不是在凑KPI",
+      "music": 0.0
+    },
+    {
+      "from": 50.19,
+      "to": 51.43,
+      "sid": 27,
+      "location": 2,
+      "content": "纯纯的占位置",
+      "music": 0.0
+    },
+    {
+      "from": 51.43,
+      "to": 53.11,
+      "sid": 28,
+      "location": 2,
+      "content": "这里给到一个拉完了",
+      "music": 0.0
+    },
+    {
+      "from": 53.11,
+      "to": 55.54,
+      "sid": 29,
+      "location": 2,
+      "content": "下一个是agent启动子代理",
+      "music": 0.0
+    },
+    {
+      "from": 55.54,
+      "to": 57.14,
+      "sid": 30,
+      "location": 2,
+      "content": "让cloud分身干活",
+      "music": 0.0
+    },
+    {
+      "from": 57.14,
+      "to": 58.14,
+      "sid": 31,
+      "location": 2,
+      "content": "一个查代码",
+      "music": 0.0
+    },
+    {
+      "from": 58.14,
+      "to": 60.26,
+      "sid": 32,
+      "location": 2,
+      "content": "一个写测试大项目重构",
+      "music": 0.0
+    },
+    {
+      "from": 60.26,
+      "to": 61.66,
+      "sid": 33,
+      "location": 2,
+      "content": "多文件并行操作",
+      "music": 0.0
+    },
+    {
+      "from": 61.66,
+      "to": 63.49,
+      "sid": 34,
+      "location": 2,
+      "content": "实用效率直接起飞",
+      "music": 0.0
+    },
+    {
+      "from": 63.49,
+      "to": 65.23,
+      "sid": 35,
+      "location": 2,
+      "content": "而且上下文互不影响",
+      "music": 0.0
+    },
+    {
+      "from": 65.23,
+      "to": 68.19,
+      "sid": 36,
+      "location": 2,
+      "content": "但是需要很多脑力做好任务拆封就是了",
+      "music": 0.0
+    },
+    {
+      "from": 68.19,
+      "to": 69.53,
+      "sid": 37,
+      "location": 2,
+      "content": "这里给到一个夯",
+      "music": 0.0
+    },
+    {
+      "from": 69.53,
+      "to": 72.14,
+      "sid": 38,
+      "location": 2,
+      "content": "再下一个是help查帮助文档的",
+      "music": 0.0
+    },
+    {
+      "from": 72.14,
+      "to": 73.94,
+      "sid": 39,
+      "location": 2,
+      "content": "第一次用的时候瞅一眼",
+      "music": 0.0
+    },
+    {
+      "from": 73.94,
+      "to": 75.76,
+      "sid": 40,
+      "location": 2,
+      "content": "或者忘了命令叫啥的时候",
+      "music": 0.0
+    },
+    {
+      "from": 75.76,
+      "to": 76.38,
+      "sid": 41,
+      "location": 2,
+      "content": "翻一翻",
+      "music": 0.0
+    },
+    {
+      "from": 76.38,
+      "to": 77.7,
+      "sid": 42,
+      "location": 2,
+      "content": "功能还算全面",
+      "music": 0.0
+    },
+    {
+      "from": 77.7,
+      "to": 80.94,
+      "sid": 43,
+      "location": 2,
+      "content": "基本上所有的斜杠命令都能在这里找到",
+      "music": 0.0
+    },
+    {
+      "from": 80.94,
+      "to": 83.83,
+      "sid": 44,
+      "location": 2,
+      "content": "简要说明算是新手的入门导师吧",
+      "music": 0.0
+    },
+    {
+      "from": 83.83,
+      "to": 85.67,
+      "sid": 45,
+      "location": 2,
+      "content": "但就像游戏里的NPC",
+      "music": 0.0
+    },
+    {
+      "from": 85.67,
+      "to": 87.13,
+      "sid": 46,
+      "location": 2,
+      "content": "新手村聊两句",
+      "music": 0.0
+    },
+    {
+      "from": 87.13,
+      "to": 88.59,
+      "sid": 47,
+      "location": 2,
+      "content": "后面谁还找他",
+      "music": 0.0
+    },
+    {
+      "from": 88.59,
+      "to": 89.67,
+      "sid": 48,
+      "location": 2,
+      "content": "纯背景版",
+      "music": 0.0
+    },
+    {
+      "from": 89.67,
+      "to": 90.95,
+      "sid": 49,
+      "location": 2,
+      "content": "用完几次之后",
+      "music": 0.0
+    },
+    {
+      "from": 90.95,
+      "to": 92.17,
+      "sid": 50,
+      "location": 2,
+      "content": "基本就遗忘了",
+      "music": 0.0
+    },
+    {
+      "from": 92.17,
+      "to": 93.99,
+      "sid": 51,
+      "location": 2,
+      "content": "存在感比空气还稀薄",
+      "music": 0.0
+    },
+    {
+      "from": 93.99,
+      "to": 95.61,
+      "sid": 52,
+      "location": 2,
+      "content": "这里给到一个NPC",
+      "music": 0.0
+    },
+    {
+      "from": 95.61,
+      "to": 96.81,
+      "sid": 53,
+      "location": 2,
+      "content": "然后是DEFE",
+      "music": 0.0
+    },
+    {
+      "from": 96.81,
+      "to": 99.21,
+      "sid": 54,
+      "location": 2,
+      "content": "想知道AI是在帮你还是在搞",
+      "music": 0.0
+    },
+    {
+      "from": 99.21,
+      "to": 100.79,
+      "sid": 55,
+      "location": 2,
+      "content": "你改了哪些文件",
+      "music": 0.0
+    },
+    {
+      "from": 100.79,
+      "to": 102.37,
+      "sid": 56,
+      "location": 2,
+      "content": "每轮对话都动了什么",
+      "music": 0.0
+    },
+    {
+      "from": 102.37,
+      "to": 103.17,
+      "sid": 57,
+      "location": 2,
+      "content": "手脚实用",
+      "music": 0.0
+    },
+    {
+      "from": 103.17,
+      "to": 107.84,
+      "sid": 58,
+      "location": 2,
+      "content": "按左右键切换当前所有改动和每轮对话的改动",
+      "music": 0.0
+    },
+    {
+      "from": 107.84,
+      "to": 109.96,
+      "sid": 59,
+      "location": 2,
+      "content": "按上下键浏览不同文件",
+      "music": 0.0
+    },
+    {
+      "from": 109.96,
+      "to": 111.88,
+      "sid": 60,
+      "location": 2,
+      "content": "程序员可以看小白",
+      "music": 0.0
+    },
+    {
+      "from": 111.88,
+      "to": 113.74,
+      "sid": 61,
+      "location": 2,
+      "content": "也可以看markdown里面的修改",
+      "music": 0.0
+    },
+    {
+      "from": 113.74,
+      "to": 114.88,
+      "sid": 62,
+      "location": 2,
+      "content": "防止AI误解",
+      "music": 0.0
+    },
+    {
+      "from": 114.88,
+      "to": 116.9,
+      "sid": 63,
+      "location": 2,
+      "content": "我们的意思先下手为强",
+      "music": 0.0
+    },
+    {
+      "from": 116.9,
+      "to": 118.34,
+      "sid": 64,
+      "location": 2,
+      "content": "这里给到人上人",
+      "music": 0.0
+    },
+    {
+      "from": 118.34,
+      "to": 120.61,
+      "sid": 65,
+      "location": 2,
+      "content": "紧接着是hooks配置钩子",
+      "music": 0.0
+    },
+    {
+      "from": 120.61,
+      "to": 123.07,
+      "sid": 66,
+      "location": 2,
+      "content": "在特定事件时自动执行命令",
+      "music": 0.0
+    },
+    {
+      "from": 123.07,
+      "to": 125.35,
+      "sid": 67,
+      "location": 2,
+      "content": "比如每次提交前跑测试",
+      "music": 0.0
+    },
+    {
+      "from": 125.35,
+      "to": 126.91,
+      "sid": 68,
+      "location": 2,
+      "content": "想自动化工作流",
+      "music": 0.0
+    },
+    {
+      "from": 126.91,
+      "to": 128.79,
+      "sid": 69,
+      "location": 2,
+      "content": "强制执行规范的时候用",
+      "music": 0.0
+    },
+    {
+      "from": 128.79,
+      "to": 129.87,
+      "sid": 70,
+      "location": 2,
+      "content": "配好了之后",
+      "music": 0.0
+    },
+    {
+      "from": 129.87,
+      "to": 132.07,
+      "sid": 71,
+      "location": 2,
+      "content": "整个开发流程丝滑的不像话",
+      "music": 0.0
+    },
+    {
+      "from": 132.07,
+      "to": 133.5,
+      "sid": 72,
+      "location": 2,
+      "content": "配置一次爽一年",
+      "music": 0.0
+    },
+    {
+      "from": 133.5,
+      "to": 135.74,
+      "sid": 73,
+      "location": 2,
+      "content": "但配置过程会让你怀疑人生",
+      "music": 0.0
+    },
+    {
+      "from": 135.74,
+      "to": 137.8,
+      "sid": 74,
+      "location": 2,
+      "content": "各种配置文件看的人头大",
+      "music": 0.0
+    },
+    {
+      "from": 137.8,
+      "to": 139.38,
+      "sid": 75,
+      "location": 2,
+      "content": "不过配完了是真的香",
+      "music": 0.0
+    },
+    {
+      "from": 139.38,
+      "to": 141.209,
+      "sid": 76,
+      "location": 2,
+      "content": "自动化程度直接拉满",
+      "music": 0.0
+    },
+    {
+      "from": 141.209,
+      "to": 142.669,
+      "sid": 77,
+      "location": 2,
+      "content": "这里给到一个顶级",
+      "music": 0.0
+    },
+    {
+      "from": 142.669,
+      "to": 144.94,
+      "sid": 78,
+      "location": 2,
+      "content": "接着来clear清空上下文",
+      "music": 0.0
+    },
+    {
+      "from": 144.94,
+      "to": 145.96,
+      "sid": 79,
+      "location": 2,
+      "content": "重新开始",
+      "music": 0.0
+    },
+    {
+      "from": 145.96,
+      "to": 147.84,
+      "sid": 80,
+      "location": 2,
+      "content": "当cloud开始胡说八道",
+      "music": 0.0
+    },
+    {
+      "from": 147.84,
+      "to": 148.98,
+      "sid": 81,
+      "location": 2,
+      "content": "陷入死循环",
+      "music": 0.0
+    },
+    {
+      "from": 148.98,
+      "to": 150.84,
+      "sid": 82,
+      "location": 2,
+      "content": "或者你想换个话题使用",
+      "music": 0.0
+    },
+    {
+      "from": 150.84,
+      "to": 152.56,
+      "sid": 83,
+      "location": 2,
+      "content": "特别是对话讲了之后",
+      "music": 0.0
+    },
+    {
+      "from": 152.56,
+      "to": 154.36,
+      "sid": 84,
+      "location": 2,
+      "content": "cloud的注意力会分散",
+      "music": 0.0
+    },
+    {
+      "from": 154.36,
+      "to": 155.76,
+      "sid": 85,
+      "location": 2,
+      "content": "这时候亲一下",
+      "music": 0.0
+    },
+    {
+      "from": 155.76,
+      "to": 158.18,
+      "sid": 86,
+      "location": 2,
+      "content": "用完感觉像是换了一个新的cod",
+      "music": 0.0
+    },
+    {
+      "from": 158.18,
+      "to": 160.67,
+      "sid": 87,
+      "location": 2,
+      "content": "之前的各种混乱逻辑瞬间归零",
+      "music": 0.0
+    },
+    {
+      "from": 160.67,
+      "to": 162.01,
+      "sid": 88,
+      "location": 2,
+      "content": "简直不要太爽",
+      "music": 0.0
+    },
+    {
+      "from": 162.01,
+      "to": 163.39,
+      "sid": 89,
+      "location": 2,
+      "content": "这里给到一个夯",
+      "music": 0.0
+    },
+    {
+      "from": 163.39,
+      "to": 164.89,
+      "sid": 90,
+      "location": 2,
+      "content": "后面是斜杠copy",
+      "music": 0.0
+    },
+    {
+      "from": 164.89,
+      "to": 167.05,
+      "sid": 91,
+      "location": 2,
+      "content": "把对话内容复制到剪贴板",
+      "music": 0.0
+    },
+    {
+      "from": 167.05,
+      "to": 169.99,
+      "sid": 92,
+      "location": 2,
+      "content": "想把cloudy的回答贴到别的地方使用",
+      "music": 0.0
+    },
+    {
+      "from": 169.99,
+      "to": 172.5,
+      "sid": 93,
+      "location": 2,
+      "content": "比如写文档或者跟同事兑现",
+      "music": 0.0
+    },
+    {
+      "from": 172.5,
+      "to": 175.02,
+      "sid": 94,
+      "location": 2,
+      "content": "特别是克劳德给你写了一大段解释",
+      "music": 0.0
+    },
+    {
+      "from": 175.02,
+      "to": 177.28,
+      "sid": 95,
+      "location": 2,
+      "content": "直接复制去邮件里发给老板",
+      "music": 0.0
+    },
+    {
+      "from": 177.28,
+      "to": 178.92,
+      "sid": 96,
+      "location": 2,
+      "content": "省得自己再整理一遍",
+      "music": 0.0
+    },
+    {
+      "from": 178.92,
+      "to": 182.38,
+      "sid": 97,
+      "location": 2,
+      "content": "有时候就在想直接鼠标选中复制不行吗",
+      "music": 0.0
+    },
+    {
+      "from": 182.38,
+      "to": 183.6,
+      "sid": 98,
+      "location": 2,
+      "content": "但用了几次之后",
+      "music": 0.0
+    },
+    {
+      "from": 183.6,
+      "to": 186.6,
+      "sid": 99,
+      "location": 2,
+      "content": "发现这个命令能复制整个对话的格式化",
+      "music": 0.0
+    },
+    {
+      "from": 186.6,
+      "to": 188.34,
+      "sid": 100,
+      "location": 2,
+      "content": "版本也算有点用吧",
+      "music": 0.0
+    },
+    {
+      "from": 188.34,
+      "to": 190.06,
+      "sid": 101,
+      "location": 2,
+      "content": "这里给到一个NPC",
+      "music": 0.0
+    },
+    {
+      "from": 190.06,
+      "to": 193.14,
+      "sid": 102,
+      "location": 2,
+      "content": "紧接着MCP管理MCP服务器",
+      "music": 0.0
+    },
+    {
+      "from": 193.14,
+      "to": 195.89,
+      "sid": 103,
+      "location": 2,
+      "content": "让cloud连接外部工具和数据库",
+      "music": 0.0
+    },
+    {
+      "from": 195.89,
+      "to": 197.71,
+      "sid": 104,
+      "location": 2,
+      "content": "要用cloud操作数据库",
+      "music": 0.0
+    },
+    {
+      "from": 197.71,
+      "to": 200.37,
+      "sid": 105,
+      "location": 2,
+      "content": "调API接外部服务时配置",
+      "music": 0.0
+    },
+    {
+      "from": 200.37,
+      "to": 201.67,
+      "sid": 106,
+      "location": 2,
+      "content": "搞明白了之后",
+      "music": 0.0
+    },
+    {
+      "from": 201.67,
+      "to": 204.65,
+      "sid": 107,
+      "location": 2,
+      "content": "crowd瞬间从普通AI变身超级助理",
+      "music": 0.0
+    },
+    {
+      "from": 204.65,
+      "to": 206.63,
+      "sid": 108,
+      "location": 2,
+      "content": "各种外部服务手到擒来",
+      "music": 0.0
+    },
+    {
+      "from": 206.63,
+      "to": 207.9,
+      "sid": 109,
+      "location": 2,
+      "content": "专业玩家区域",
+      "music": 0.0
+    },
+    {
+      "from": 207.9,
+      "to": 209.56,
+      "sid": 110,
+      "location": 2,
+      "content": "但玩明白了是真的香",
+      "music": 0.0
+    },
+    {
+      "from": 209.56,
+      "to": 211.66,
+      "sid": 111,
+      "location": 2,
+      "content": "不过刚接触的时候一脸懵",
+      "music": 0.0
+    },
+    {
+      "from": 211.66,
+      "to": 214.05,
+      "sid": 112,
+      "location": 2,
+      "content": "什么服务器配置协议对接",
+      "music": 0.0
+    },
+    {
+      "from": 214.05,
+      "to": 215.19,
+      "sid": 113,
+      "location": 2,
+      "content": "听着就劝退",
+      "music": 0.0
+    },
+    {
+      "from": 215.19,
+      "to": 217.53,
+      "sid": 114,
+      "location": 2,
+      "content": "主要的问题就是过于花费token",
+      "music": 0.0
+    },
+    {
+      "from": 220.25,
+      "to": 222.17,
+      "sid": 115,
+      "location": 2,
+      "content": "建议有心理准备再入坑",
+      "music": 0.0
+    },
+    {
+      "from": 222.17,
+      "to": 223.59,
+      "sid": 116,
+      "location": 2,
+      "content": "这里给到一个顶级",
+      "music": 0.0
+    },
+    {
+      "from": 223.59,
+      "to": 224.89,
+      "sid": 117,
+      "location": 2,
+      "content": "然后是context",
+      "music": 0.0
+    },
+    {
+      "from": 224.89,
+      "to": 226.97,
+      "sid": 118,
+      "location": 2,
+      "content": "查看当前上下文里都有啥",
+      "music": 0.0
+    },
+    {
+      "from": 226.97,
+      "to": 228.74,
+      "sid": 119,
+      "location": 2,
+      "content": "cloud记住了哪些文件",
+      "music": 0.0
+    },
+    {
+      "from": 228.74,
+      "to": 231.12,
+      "sid": 120,
+      "location": 2,
+      "content": "有时候加了太多文件到上下文",
+      "music": 0.0
+    },
+    {
+      "from": 231.12,
+      "to": 232.82,
+      "sid": 121,
+      "location": 2,
+      "content": "CLAUDY会选择性失忆",
+      "music": 0.0
+    },
+    {
+      "from": 232.82,
+      "to": 235.64,
+      "sid": 122,
+      "location": 2,
+      "content": "用这个检查一下他到底记住了什么",
+      "music": 0.0
+    },
+    {
+      "from": 235.64,
+      "to": 237.34,
+      "sid": 123,
+      "location": 2,
+      "content": "偷看cloud的记事本",
+      "music": 0.0
+    },
+    {
+      "from": 237.34,
+      "to": 239.16,
+      "sid": 124,
+      "location": 2,
+      "content": "看他有没有在听你说话",
+      "music": 0.0
+    },
+    {
+      "from": 239.16,
+      "to": 241.92,
+      "sid": 125,
+      "location": 2,
+      "content": "有时候发现他根本没记住关键的文件",
+      "music": 0.0
+    },
+    {
+      "from": 241.92,
+      "to": 243.5,
+      "sid": 126,
+      "location": 2,
+      "content": "就像那种表面点头",
+      "music": 0.0
+    },
+    {
+      "from": 243.5,
+      "to": 246.18,
+      "sid": 127,
+      "location": 2,
+      "content": "其实走神的学生被你当场抓包",
+      "music": 0.0
+    },
+    {
+      "from": 246.18,
+      "to": 247.62,
+      "sid": 128,
+      "location": 2,
+      "content": "这里给到人上人",
+      "music": 0.0
+    },
+    {
+      "from": 247.62,
+      "to": 249.96,
+      "sid": 129,
+      "location": 2,
+      "content": "接下来plan进入规划模式",
+      "music": 0.0
+    },
+    {
+      "from": 249.96,
+      "to": 252.04,
+      "sid": 130,
+      "location": 2,
+      "content": "让cloud先写方案再动手",
+      "music": 0.0
+    },
+    {
+      "from": 252.04,
+      "to": 254.0,
+      "sid": 131,
+      "location": 2,
+      "content": "复杂任务不确定怎么实现",
+      "music": 0.0
+    },
+    {
+      "from": 254.0,
+      "to": 255.88,
+      "sid": 132,
+      "location": 2,
+      "content": "或者怕扩乱乱改的时候",
+      "music": 0.0
+    },
+    {
+      "from": 255.88,
+      "to": 257.409,
+      "sid": 133,
+      "location": 2,
+      "content": "这就是公投模式",
+      "music": 0.0
+    },
+    {
+      "from": 257.409,
+      "to": 258.869,
+      "sid": 134,
+      "location": 2,
+      "content": "先画蓝图再搬砖",
+      "music": 0.0
+    },
+    {
+      "from": 258.869,
+      "to": 261.97,
+      "sid": 135,
+      "location": 2,
+      "content": "真正懂工程的人才用这个避免反攻",
+      "music": 0.0
+    },
+    {
+      "from": 261.97,
+      "to": 264.29,
+      "sid": 136,
+      "location": 2,
+      "content": "省下的时间比你想象的还多",
+      "music": 0.0
+    },
+    {
+      "from": 264.29,
+      "to": 265.65,
+      "sid": 137,
+      "location": 2,
+      "content": "这里给到一个夯",
+      "music": 0.0
+    },
+    {
+      "from": 265.65,
+      "to": 266.57,
+      "sid": 138,
+      "location": 2,
+      "content": "再往下",
+      "music": 0.0
+    },
+    {
+      "from": 266.57,
+      "to": 270.51,
+      "sid": 139,
+      "location": 2,
+      "content": "dr.诊断cloud code环境检查配置有没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 270.51,
+      "to": 271.51,
+      "sid": 140,
+      "location": 2,
+      "content": "出bug了",
+      "music": 0.0
+    },
+    {
+      "from": 271.51,
+      "to": 272.94,
+      "sid": 141,
+      "location": 2,
+      "content": "连不上API了",
+      "music": 0.0
+    },
+    {
+      "from": 272.94,
+      "to": 274.1,
+      "sid": 142,
+      "location": 2,
+      "content": "行为异常了",
+      "music": 0.0
+    },
+    {
+      "from": 274.1,
+      "to": 275.26,
+      "sid": 143,
+      "location": 2,
+      "content": "先跑个dr.",
+      "music": 0.0
+    },
+    {
+      "from": 275.26,
+      "to": 278.96,
+      "sid": 144,
+      "location": 2,
+      "content": "基本上90%的问题他都能帮你找到原因",
+      "music": 0.0
+    },
+    {
+      "from": 278.96,
+      "to": 282.42,
+      "sid": 145,
+      "location": 2,
+      "content": "就像电脑重启能解决90%的问题",
+      "music": 0.0
+    },
+    {
+      "from": 282.42,
+      "to": 284.64,
+      "sid": 146,
+      "location": 2,
+      "content": "另外10%解决不了的问题",
+      "music": 0.0
+    },
+    {
+      "from": 284.64,
+      "to": 286.72,
+      "sid": 147,
+      "location": 2,
+      "content": "可能需要你真的重启电脑了",
+      "music": 0.0
+    },
+    {
+      "from": 286.72,
+      "to": 288.9,
+      "sid": 148,
+      "location": 2,
+      "content": "不过这个诊断报告还算详细",
+      "music": 0.0
+    },
+    {
+      "from": 288.9,
+      "to": 290.34,
+      "sid": 149,
+      "location": 2,
+      "content": "不至于让你抓瞎",
+      "music": 0.0
+    },
+    {
+      "from": 290.34,
+      "to": 292.02,
+      "sid": 150,
+      "location": 2,
+      "content": "这里给到一个NPC",
+      "music": 0.0
+    },
+    {
+      "from": 292.02,
+      "to": 294.67,
+      "sid": 151,
+      "location": 2,
+      "content": "然后是skills管理自定义技能",
+      "music": 0.0
+    },
+    {
+      "from": 294.67,
+      "to": 297.11,
+      "sid": 152,
+      "location": 2,
+      "content": "你可以给cloud装各种扩展能力",
+      "music": 0.0
+    },
+    {
+      "from": 297.11,
+      "to": 298.79,
+      "sid": 153,
+      "location": 2,
+      "content": "有重复性知识性工作",
+      "music": 0.0
+    },
+    {
+      "from": 298.79,
+      "to": 299.75,
+      "sid": 154,
+      "location": 2,
+      "content": "想自动化时",
+      "music": 0.0
+    },
+    {
+      "from": 299.75,
+      "to": 300.87,
+      "sid": 155,
+      "location": 2,
+      "content": "自己写个skill",
+      "music": 0.0
+    },
+    {
+      "from": 300.87,
+      "to": 301.68,
+      "sid": 156,
+      "location": 2,
+      "content": "让他记住",
+      "music": 0.0
+    },
+    {
+      "from": 301.68,
+      "to": 303.52,
+      "sid": 157,
+      "location": 2,
+      "content": "相当于给cloud装插件",
+      "music": 0.0
+    },
+    {
+      "from": 303.52,
+      "to": 305.64,
+      "sid": 158,
+      "location": 2,
+      "content": "比如让他记住你的代码风格",
+      "music": 0.0
+    },
+    {
+      "from": 305.64,
+      "to": 307.409,
+      "sid": 159,
+      "location": 2,
+      "content": "或者固定的工作流程",
+      "music": 0.0
+    },
+    {
+      "from": 307.409,
+      "to": 308.589,
+      "sid": 160,
+      "location": 2,
+      "content": "越用越顺手",
+      "music": 0.0
+    },
+    {
+      "from": 308.589,
+      "to": 309.769,
+      "sid": 161,
+      "location": 2,
+      "content": "效果很好用",
+      "music": 0.0
+    },
+    {
+      "from": 309.769,
+      "to": 311.749,
+      "sid": 162,
+      "location": 2,
+      "content": "而且使用了渐进式披露",
+      "music": 0.0
+    },
+    {
+      "from": 311.749,
+      "to": 313.229,
+      "sid": 163,
+      "location": 2,
+      "content": "上下文占用很少",
+      "music": 0.0
+    },
+    {
+      "from": 313.229,
+      "to": 315.72,
+      "sid": 164,
+      "location": 2,
+      "content": "你可以训练它做很多具体任务",
+      "music": 0.0
+    },
+    {
+      "from": 315.72,
+      "to": 316.9,
+      "sid": 165,
+      "location": 2,
+      "content": "性价比之王",
+      "music": 0.0
+    },
+    {
+      "from": 316.9,
+      "to": 318.5,
+      "sid": 166,
+      "location": 2,
+      "content": "这里给到一个夯爆了",
+      "music": 0.0
+    },
+    {
+      "from": 318.5,
+      "to": 321.19,
+      "sid": 167,
+      "location": 2,
+      "content": "再接着INIT初始化项目",
+      "music": 0.0
+    },
+    {
+      "from": 321.19,
+      "to": 323.37,
+      "sid": 168,
+      "location": 2,
+      "content": "生成cloud点MD配置文件",
+      "music": 0.0
+    },
+    {
+      "from": 323.37,
+      "to": 326.97,
+      "sid": 169,
+      "location": 2,
+      "content": "新项目第一天用让cloud知道你的项目规矩",
+      "music": 0.0
+    },
+    {
+      "from": 326.97,
+      "to": 329.41,
+      "sid": 170,
+      "location": 2,
+      "content": "相当于给cloudy发一本员工手册",
+      "music": 0.0
+    },
+    {
+      "from": 329.41,
+      "to": 331.93,
+      "sid": 171,
+      "location": 2,
+      "content": "告诉他公司的规章制度和技术站",
+      "music": 0.0
+    },
+    {
+      "from": 331.93,
+      "to": 333.71,
+      "sid": 172,
+      "location": 2,
+      "content": "以后合作起来更顺畅",
+      "music": 0.0
+    },
+    {
+      "from": 333.71,
+      "to": 335.63,
+      "sid": 173,
+      "location": 2,
+      "content": "第一次用cloud code必跑",
+      "music": 0.0
+    },
+    {
+      "from": 335.63,
+      "to": 338.49,
+      "sid": 174,
+      "location": 2,
+      "content": "后面每次打开一个新窗口都要用一遍",
+      "music": 0.0
+    },
+    {
+      "from": 338.49,
+      "to": 342.05,
+      "sid": 175,
+      "location": 2,
+      "content": "不然cloud md没几天就开始变成捣乱分子了",
+      "music": 0.0
+    },
+    {
+      "from": 342.05,
+      "to": 343.32,
+      "sid": 176,
+      "location": 2,
+      "content": "这里给到顶级",
+      "music": 0.0
+    },
+    {
+      "from": 343.32,
+      "to": 344.84,
+      "sid": 177,
+      "location": 2,
+      "content": "下一个是BTW",
+      "music": 0.0
+    },
+    {
+      "from": 344.84,
+      "to": 346.88,
+      "sid": 178,
+      "location": 2,
+      "content": "也叫做顺便说一下",
+      "music": 0.0
+    },
+    {
+      "from": 346.88,
+      "to": 349.06,
+      "sid": 179,
+      "location": 2,
+      "content": "可以在不打断cloud的前提下",
+      "music": 0.0
+    },
+    {
+      "from": 349.06,
+      "to": 351.34,
+      "sid": 180,
+      "location": 2,
+      "content": "给cloud补充一些背景信息",
+      "music": 0.0
+    },
+    {
+      "from": 351.34,
+      "to": 352.7,
+      "sid": 181,
+      "location": 2,
+      "content": "下次不用重复",
+      "music": 0.0
+    },
+    {
+      "from": 352.7,
+      "to": 354.2,
+      "sid": 182,
+      "location": 2,
+      "content": "比如BTW",
+      "music": 0.0
+    },
+    {
+      "from": 354.2,
+      "to": 355.809,
+      "sid": 183,
+      "location": 2,
+      "content": "我用的是typescript",
+      "music": 0.0
+    },
+    {
+      "from": 355.809,
+      "to": 358.849,
+      "sid": 184,
+      "location": 2,
+      "content": "那么这轮对话他就不会给你写JS了",
+      "music": 0.0
+    },
+    {
+      "from": 360.729,
+      "to": 363.14,
+      "sid": 185,
+      "location": 2,
+      "content": "发现有什么东西不小心忘说了",
+      "music": 0.0
+    },
+    {
+      "from": 363.14,
+      "to": 365.08,
+      "sid": 186,
+      "location": 2,
+      "content": "或者说错了的人类程序员",
+      "music": 0.0
+    },
+    {
+      "from": 365.08,
+      "to": 368.14,
+      "sid": 187,
+      "location": 2,
+      "content": "同时又不想再开一个窗口重置上下文",
+      "music": 0.0
+    },
+    {
+      "from": 368.14,
+      "to": 371.33,
+      "sid": 188,
+      "location": 2,
+      "content": "浪费token的by the way还是很高频的一个指令",
+      "music": 0.0
+    },
+    {
+      "from": 371.33,
+      "to": 372.87,
+      "sid": 189,
+      "location": 2,
+      "content": "这里给到一个顶级",
+      "music": 0.0
+    },
+    {
+      "from": 372.87,
+      "to": 374.63,
+      "sid": 190,
+      "location": 2,
+      "content": "再下一个是cost",
+      "music": 0.0
+    },
+    {
+      "from": 374.63,
+      "to": 376.68,
+      "sid": 191,
+      "location": 2,
+      "content": "看当前绘画花了多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 376.68,
+      "to": 378.0,
+      "sid": 192,
+      "location": 2,
+      "content": "token消耗明细",
+      "music": 0.0
+    },
+    {
+      "from": 378.0,
+      "to": 380.68,
+      "sid": 193,
+      "location": 2,
+      "content": "老板问你AI花了多少银子的时候",
+      "music": 0.0
+    },
+    {
+      "from": 380.68,
+      "to": 382.8,
+      "sid": 194,
+      "location": 2,
+      "content": "或者你自己手贱好奇的时候",
+      "music": 0.0
+    },
+    {
+      "from": 382.8,
+      "to": 384.55,
+      "sid": 195,
+      "location": 2,
+      "content": "用数据还算详细",
+      "music": 0.0
+    },
+    {
+      "from": 384.55,
+      "to": 386.48,
+      "sid": 196,
+      "location": 2,
+      "content": "能看到每次对话的成本",
+      "music": 0.0
+    },
+    {
+      "from": 386.48,
+      "to": 387.94,
+      "sid": 197,
+      "location": 2,
+      "content": "方便做预算控制",
+      "music": 0.0
+    },
+    {
+      "from": 387.94,
+      "to": 389.64,
+      "sid": 198,
+      "location": 2,
+      "content": "但是别每次调用都看",
+      "music": 0.0
+    },
+    {
+      "from": 389.64,
+      "to": 393.22,
+      "sid": 199,
+      "location": 2,
+      "content": "看完你焦虑就像别没事盯着股票账户一样",
+      "music": 0.0
+    },
+    {
+      "from": 393.22,
+      "to": 396.08,
+      "sid": 200,
+      "location": 2,
+      "content": "建议每周看一次心理承受范围内",
+      "music": 0.0
+    },
+    {
+      "from": 396.08,
+      "to": 397.7,
+      "sid": 201,
+      "location": 2,
+      "content": "这里给到一个NPC",
+      "music": 0.0
+    },
+    {
+      "from": 397.7,
+      "to": 398.88,
+      "sid": 202,
+      "location": 2,
+      "content": "然后是insights",
+      "music": 0.0
+    },
+    {
+      "from": 398.88,
+      "to": 400.1,
+      "sid": 203,
+      "location": 2,
+      "content": "代码洞察分析",
+      "music": 0.0
+    },
+    {
+      "from": 400.1,
+      "to": 402.62,
+      "sid": 204,
+      "location": 2,
+      "content": "帮你理解代码结构和潜在问题",
+      "music": 0.0
+    },
+    {
+      "from": 402.62,
+      "to": 404.03,
+      "sid": 205,
+      "location": 2,
+      "content": "接手史山项目",
+      "music": 0.0
+    },
+    {
+      "from": 404.03,
+      "to": 406.19,
+      "sid": 206,
+      "location": 2,
+      "content": "或者想知道这代码到底在干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 406.19,
+      "to": 408.92,
+      "sid": 207,
+      "location": 2,
+      "content": "使用能快速理清项目的架构逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 408.92,
+      "to": 411.56,
+      "sid": 208,
+      "location": 2,
+      "content": "找出潜在的性能瓶颈和设计缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 411.56,
+      "to": 414.33,
+      "sid": 209,
+      "location": 2,
+      "content": "也可以偶尔用来了解自己的编程习惯",
+      "music": 0.0
+    },
+    {
+      "from": 414.33,
+      "to": 415.95,
+      "sid": 210,
+      "location": 2,
+      "content": "考古学家的洛阳铲",
+      "music": 0.0
+    },
+    {
+      "from": 415.95,
+      "to": 417.33,
+      "sid": 211,
+      "location": 2,
+      "content": "挖别人代码必备",
+      "music": 0.0
+    },
+    {
+      "from": 417.33,
+      "to": 420.27,
+      "sid": 212,
+      "location": 2,
+      "content": "特别是接手那种没有任何文档的老项目",
+      "music": 0.0
+    },
+    {
+      "from": 420.27,
+      "to": 422.01,
+      "sid": 213,
+      "location": 2,
+      "content": "这就是你的救命稻草",
+      "music": 0.0
+    },
+    {
+      "from": 422.01,
+      "to": 423.909,
+      "sid": 214,
+      "location": 2,
+      "content": "能帮你少走很多弯路",
+      "music": 0.0
+    },
+    {
+      "from": 423.909,
+      "to": 425.309,
+      "sid": 215,
+      "location": 2,
+      "content": "这里给到人上人",
+      "music": 0.0
+    },
+    {
+      "from": 425.309,
+      "to": 428.629,
+      "sid": 216,
+      "location": 2,
+      "content": "最后一个是loop循环任务调度要命令",
+      "music": 0.0
+    },
+    {
+      "from": 428.629,
+      "to": 431.129,
+      "sid": 217,
+      "location": 2,
+      "content": "定时自动执行监控部署状态",
+      "music": 0.0
+    },
+    {
+      "from": 431.129,
+      "to": 431.989,
+      "sid": 218,
+      "location": 2,
+      "content": "定期检查",
+      "music": 0.0
+    },
+    {
+      "from": 431.989,
+      "to": 433.91,
+      "sid": 219,
+      "location": 2,
+      "content": "P2自动化流程实用",
+      "music": 0.0
+    },
+    {
+      "from": 433.91,
+      "to": 436.95,
+      "sid": 220,
+      "location": 2,
+      "content": "相当于给cloud装上了一个自动巡航系统",
+      "music": 0.0
+    },
+    {
+      "from": 436.95,
+      "to": 439.25,
+      "sid": 221,
+      "location": 2,
+      "content": "用起来有点open cloud那个味了",
+      "music": 0.0
+    },
+    {
+      "from": 439.25,
+      "to": 442.2,
+      "sid": 222,
+      "location": 2,
+      "content": "唯一的缺点是你得确保任务配对了",
+      "music": 0.0
+    },
+    {
+      "from": 442.2,
+      "to": 444.34,
+      "sid": 223,
+      "location": 2,
+      "content": "不然cloud会定时帮你犯错",
+      "music": 0.0
+    },
+    {
+      "from": 444.34,
+      "to": 446.0,
+      "sid": 224,
+      "location": 2,
+      "content": "而且还是批量犯错",
+      "music": 0.0
+    },
+    {
+      "from": 446.0,
+      "to": 447.08,
+      "sid": 225,
+      "location": 2,
+      "content": "那就尴尬了",
+      "music": 0.0
+    },
+    {
+      "from": 447.08,
+      "to": 448.7,
+      "sid": 226,
+      "location": 2,
+      "content": "这里给到一个顶级",
+      "music": 0.0
+    }
+  ]
+}
