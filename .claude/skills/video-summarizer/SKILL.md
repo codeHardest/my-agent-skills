@@ -58,8 +58,10 @@ yt-dlp --print "%(id)s" -o "./downloads/temp" "$VIDEO_URL"
 
 **For Bilibili** (requires login cookies):
 
-1. Export cookies from Chrome using "Get Cookies" or "Cookie-Editor" extension
-2. Save to: `downloads/bilibili/bilibili-cookies.txt`
+1. If `downloads/bilibili/bilibili-cookies.txt` does not exist:
+   - Export cookies from Chrome using "Get Cookies" or "Cookie-Editor" extension
+   - Save to: `downloads/bilibili/bilibili-cookies.txt`
+2. If cookies file exists, skip to next step
 3. Run:
 
 ```bash
