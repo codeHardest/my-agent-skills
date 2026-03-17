@@ -1,0 +1,564 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "让我们看看如何构建和使用组件级评估",
+      "from": 0.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 3.98
+    },
+    {
+      "content": "在我们的研究代理示例中",
+      "from": 3.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 6.74
+    },
+    {
+      "content": "我们提到研究代理有时会遗漏关键点",
+      "from": 6.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 10.64
+    },
+    {
+      "content": "但如果问题是网络搜索",
+      "from": 10.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 13.26
+    },
+    {
+      "content": "每次我们更换网络搜索引擎时",
+      "from": 13.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 15.78
+    },
+    {
+      "content": "需要重新运行整个工作流程以获得性能指标",
+      "from": 15.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 20.6
+    },
+    {
+      "content": "但这种评估成本很高",
+      "from": 20.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 23.42
+    },
+    {
+      "content": "此外这是一个相当复杂的流程",
+      "from": 23.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 26.9
+    },
+    {
+      "content": "即使网络搜索有所改善",
+      "from": 26.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 29.48
+    },
+    {
+      "content": "其他组件的随机性引入的噪声",
+      "from": 29.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 32.92
+    },
+    {
+      "content": "会让观察网络搜索质量的小改进变得更困难",
+      "from": 32.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 37.91
+    },
+    {
+      "content": "作为仅使用端到端评估的替代方案",
+      "from": 37.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 41.37
+    },
+    {
+      "content": "我会考虑构建专门评估网络搜索组件质量的评估",
+      "from": 41.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 47.74
+    },
+    {
+      "content": "例如",
+      "from": 47.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 48.46
+    },
+    {
+      "content": "衡量网络搜索结果的质量",
+      "from": 48.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 50.44
+    },
+    {
+      "content": "可以创建一组黄金标准网络资源",
+      "from": 50.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 53.22
+    },
+    {
+      "content": "对于少数查询",
+      "from": 53.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 55.6
+    },
+    {
+      "content": "让专家指出这些是最权威的资源",
+      "from": 55.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 58.74
+    },
+    {
+      "content": "如果有人在搜索互联网时",
+      "from": 58.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 60.58
+    },
+    {
+      "content": "应该找到这些网页",
+      "from": 60.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 62.32
+    },
+    {
+      "content": "或者这些网页中的任何一个都很好",
+      "from": 62.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 64.64
+    },
+    {
+      "content": "然后可以编写代码捕获",
+      "from": 64.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 66.919
+    },
+    {
+      "content": "网络搜索输出与黄金标准资源的匹配程度",
+      "from": 66.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 72.89
+    },
+    {
+      "content": "信息检索的标准指标",
+      "from": 72.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 75.31
+    },
+    {
+      "content": "F1分数",
+      "from": 75.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 76.4
+    },
+    {
+      "content": "无需在意细节",
+      "from": 76.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 77.56
+    },
+    {
+      "content": "如果你不了解这些术语",
+      "from": 77.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 78.52
+    },
+    {
+      "content": "但存在标准指标可衡量网页列表",
+      "from": 78.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 82.7
+    },
+    {
+      "content": "由网络搜索返回",
+      "from": 82.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 83.82
+    },
+    {
+      "content": "与专家确定内容的重叠程度",
+      "from": 83.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 87.28
+    },
+    {
+      "content": "是否与这些黄金标准资源匹配",
+      "from": 87.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 90.02
+    },
+    {
+      "content": "现在你已掌握评估网络搜索组件质量的方法",
+      "from": 90.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 94.9
+    },
+    {
+      "content": "当你调整网络搜索的相关参数或超参数时",
+      "from": 94.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 100.35
+    },
+    {
+      "content": "例如切换不同的网络搜索引擎",
+      "from": 100.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 103.23
+    },
+    {
+      "content": "比如尝试谷歌、必应和Dr",
+      "from": 103.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 105.63
+    },
+    {
+      "content": "Go和Tville",
+      "from": 105.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 106.81
+    },
+    {
+      "content": "以及Com和其他引擎",
+      "from": 106.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 107.99
+    },
+    {
+      "content": "或者调整结果数量",
+      "from": 107.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 110.11
+    },
+    {
+      "content": "或日期范围",
+      "from": 110.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 111.76
+    },
+    {
+      "content": "这些变化能让YaSa网络搜索引擎快速判断",
+      "from": 111.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 115.38
+    },
+    {
+      "content": "网络搜索组件质量是否提升并实现渐进改进",
+      "from": 115.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 122.07
+    },
+    {
+      "content": "然后",
+      "from": 122.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 122.41
+    },
+    {
+      "content": "当然",
+      "from": 122.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 122.91
+    },
+    {
+      "content": "在宣布完成之前",
+      "from": 122.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 124.51
+    },
+    {
+      "content": "最好运行端到端评估",
+      "from": 124.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 126.89
+    },
+    {
+      "content": "确保经过长时间调优网络搜索系统后",
+      "from": 126.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 129.94
+    },
+    {
+      "content": "整体系统性能确实提升",
+      "from": 129.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 133.12
+    },
+    {
+      "content": "但在调整这些超参数过程中",
+      "from": 133.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 136.58
+    },
+    {
+      "content": "可以逐个进行",
+      "from": 136.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 137.12
+    },
+    {
+      "content": "只需专注于单个组件即可大幅提升效率",
+      "from": 137.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 140.62
+    },
+    {
+      "content": "与其每次都需要重新运行端到端测试",
+      "from": 140.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 144.69
+    },
+    {
+      "content": "因此组件级测试可以更清晰地定位特定错误",
+      "from": 144.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 150.57
+    },
+    {
+      "content": "它能明确告诉你是否在提升网页搜索组件性能",
+      "from": 150.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 153.96
+    },
+    {
+      "content": "或者你正在开发的任何组件",
+      "from": 153.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 155.62
+    },
+    {
+      "content": "并避免整体系统复杂性中的干扰噪声",
+      "from": 155.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 160.82
+    },
+    {
+      "content": "如果你在涉及不同团队的项目中工作",
+      "from": 160.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 164.15
+    },
+    {
+      "content": "专注于不同组件",
+      "from": 164.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 165.79
+    },
+    {
+      "content": "单个团队也可以拥有自己",
+      "from": 165.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 168.83
+    },
+    {
+      "content": "非常明确的优化指标无需考虑其他组件",
+      "from": 168.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 173.18
+    },
+    {
+      "content": "这能让团队专注于更小的",
+      "from": 173.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 175.42
+    },
+    {
+      "content": "更具针对性的问题",
+      "from": 175.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 177.23
+    },
+    {
+      "content": "从而加快进度，当你决定改进某个组件时",
+      "from": 177.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 182.269
+    },
+    {
+      "content": "考虑是否值得建立组件",
+      "from": 182.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 185.029
+    },
+    {
+      "content": "智能评估",
+      "from": 185.029,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 185.869
+    },
+    {
+      "content": "以及这是否能更快提升该组件性能",
+      "from": 185.869,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 190.75
+    },
+    {
+      "content": "现在",
+      "from": 190.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 191.43
+    },
+    {
+      "content": "你可能想知道如果决定改进某个组件",
+      "from": 191.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 195.33
+    },
+    {
+      "content": "如何实际让该组件表现更好",
+      "from": 195.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 199.51
+    },
+    {
+      "content": "让我们在下一视频中看一些实例",
+      "from": 199.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 202.75
+    }
+  ]
+}

@@ -1,0 +1,2004 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "在本节课中",
+      "from": 0.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 1.22
+    },
+    {
+      "content": "我们将讲解知识图谱的概念",
+      "from": 1.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 3.36
+    },
+    {
+      "content": "以及它们如何帮助表示和检索数据中的关系",
+      "from": 3.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 7.14
+    },
+    {
+      "content": "接下来你将探索数据集",
+      "from": 7.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 8.78
+    },
+    {
+      "content": "你将动手构建一个知识图谱",
+      "from": 8.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 11.04
+    },
+    {
+      "content": "让我们开始吧",
+      "from": 11.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 12.52
+    },
+    {
+      "content": "那么什么是知识图谱",
+      "from": 12.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 14.48
+    },
+    {
+      "content": "我们暂时退后一步，回顾关系型数据库",
+      "from": 14.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 19.73
+    },
+    {
+      "content": "以及关系型模式的结构",
+      "from": 19.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 21.79
+    },
+    {
+      "content": "我们可能都熟悉这样的场景",
+      "from": 21.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 24.759
+    },
+    {
+      "content": "左边有一个表格，右边也有一个表格",
+      "from": 24.759,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 28.38
+    },
+    {
+      "content": "中间这个表格",
+      "from": 28.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 29.66
+    },
+    {
+      "content": "这是连接表，允许人员与产品之间建立多对多关系",
+      "from": 29.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 34.5
+    },
+    {
+      "content": "在本例中",
+      "from": 34.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 36.41
+    },
+    {
+      "content": "让我们考虑这两个表格和连接表",
+      "from": 36.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 38.61
+    },
+    {
+      "content": "如果你提出一个问题",
+      "from": 39.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 40.57
+    },
+    {
+      "content": "比如这个人购买了哪些产品",
+      "from": 40.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 43.69
+    },
+    {
+      "content": "你会先从人员表开始，选择此处的人员",
+      "from": 43.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 46.85
+    },
+    {
+      "content": "其标识为abk",
+      "from": 46.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 49.01
+    },
+    {
+      "content": "当然你需要通过连接到人员产品表",
+      "from": 49.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 52.34
+    },
+    {
+      "content": "你会看到人员产品表中存在abk与某把椅子的关联",
+      "from": 52.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 57.36
+    },
+    {
+      "content": "a k与一盏台灯",
+      "from": 57.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 58.3
+    },
+    {
+      "content": "abk与一张书桌",
+      "from": 58.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 59.82
+    },
+    {
+      "content": "太棒了，一个词",
+      "from": 59.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 61.96
+    },
+    {
+      "content": "从人员表跨连接到人员产品表再到产品表",
+      "from": 61.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 66.08
+    },
+    {
+      "content": "现在你已得到完整答案",
+      "from": 66.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 67.74
+    },
+    {
+      "content": "从abk可以看到这里是他购买的产品，包括椅子",
+      "from": 67.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 72.84
+    },
+    {
+      "content": "台灯和书桌",
+      "from": 72.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 73.64
+    },
+    {
+      "content": "你可以获取这些购买的详细信息",
+      "from": 73.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 76.36
+    },
+    {
+      "content": "如果扩展这个问题",
+      "from": 76.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 78.2
+    },
+    {
+      "content": "并询问还有谁购买了abk购买的产品",
+      "from": 78.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 82.66
+    },
+    {
+      "content": "你从相同的连接开始",
+      "from": 82.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 83.86
+    },
+    {
+      "content": "从abk到产品",
+      "from": 83.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 85.62
+    },
+    {
+      "content": "然后连接回人员产品表",
+      "from": 85.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 88.54
+    },
+    {
+      "content": "再从那里回到人员表",
+      "from": 88.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 90.96
+    },
+    {
+      "content": "现在你会得到购买了abk同类产品的人员ee",
+      "from": 90.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 96.969
+    },
+    {
+      "content": "但注意ee还多买了一个产品",
+      "from": 96.969,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 100.469
+    },
+    {
+      "content": "嗯",
+      "from": 100.469,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 101.27
+    },
+    {
+      "content": "这很有趣",
+      "from": 101.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 102.85
+    },
+    {
+      "content": "因此我们可以进一步扩展这个问题",
+      "from": 103.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 107.35
+    },
+    {
+      "content": "哪种产品",
+      "from": 107.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 108.19
+    },
+    {
+      "content": "我们应该推荐abk下次购买",
+      "from": 108.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 111.02
+    },
+    {
+      "content": "这就是推荐查询的基础",
+      "from": 111.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 114.3
+    },
+    {
+      "content": "如果你发现abk的购买模式",
+      "from": 114.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 117.42
+    },
+    {
+      "content": "与其他人或群体的购买模式匹配",
+      "from": 117.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 121.87
+    },
+    {
+      "content": "想要推荐给abk的是其他人购买的产品",
+      "from": 121.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 125.73
+    },
+    {
+      "content": "而abk尚未购买的，因此同样的连接步骤",
+      "from": 125.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 128.77
+    },
+    {
+      "content": "从abk通过产品连接到购买同类产品的其他人员",
+      "from": 128.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 133.87
+    },
+    {
+      "content": "连接次数太多",
+      "from": 133.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 135.6
+    },
+    {
+      "content": "这有点复杂",
+      "from": 135.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 137.51
+    },
+    {
+      "content": "其实有一个更优雅的方式来思考这个问题",
+      "from": 137.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 139.83
+    },
+    {
+      "content": "现在来执行这个查询",
+      "from": 139.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 141.05
+    },
+    {
+      "content": "让我们将其转换为图形结构",
+      "from": 141.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 142.97
+    },
+    {
+      "content": "第一步是删除所有无关记录",
+      "from": 142.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 146.679
+    },
+    {
+      "content": "所有那些未参与原始查询的优质记录",
+      "from": 146.679,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 149.269
+    },
+    {
+      "content": "暂时将这些记录搁置一旁，专注于已知记录",
+      "from": 149.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 152.629
+    },
+    {
+      "content": "属于数据集的部分",
+      "from": 152.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 154.069
+    },
+    {
+      "content": "到目前为止",
+      "from": 154.069,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 154.509
+    },
+    {
+      "content": "这对推荐给abk的内容查询至关重要",
+      "from": 154.509,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 158.6
+    },
+    {
+      "content": "移除中间所有联合表记录",
+      "from": 158.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 161.2
+    },
+    {
+      "content": "将这些转换为箭头",
+      "from": 161.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 162.1
+    },
+    {
+      "content": "直接连接abk到他购买的产品",
+      "from": 162.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 165.69
+    },
+    {
+      "content": "同样处理ee到他们购买的产品",
+      "from": 165.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 169.2
+    },
+    {
+      "content": "现在稍微调整记录位置",
+      "from": 169.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 171.6
+    },
+    {
+      "content": "这样abk在一边，另一边",
+      "from": 171.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 175.17
+    },
+    {
+      "content": "现在看起来整洁多了",
+      "from": 175.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 176.81
+    },
+    {
+      "content": "更容易理解其中逻辑",
+      "from": 176.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 178.55
+    },
+    {
+      "content": "a k和e都连接到中间产品",
+      "from": 178.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 182.06
+    },
+    {
+      "content": "但此人还连接到与abk无关的另一产品",
+      "from": 182.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 188.32
+    },
+    {
+      "content": "可以通过模式匹配将其转化为查询",
+      "from": 188.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 192.96
+    },
+    {
+      "content": "以abk在左侧开始",
+      "from": 192.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 195.329
+    },
+    {
+      "content": "可以用名为cipher的查询语言描述",
+      "from": 195.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 199.109
+    },
+    {
+      "content": "看起来类似sql",
+      "from": 199.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 201.429
+    },
+    {
+      "content": "如果sql具备模式匹配能力",
+      "from": 201.429,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 203.94
+    },
+    {
+      "content": "这里描述要查找的数据记录模式",
+      "from": 203.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 208.879
+    },
+    {
+      "content": "从我们将称为abk的数据记录开始",
+      "from": 208.879,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 212.339
+    },
+    {
+      "content": "具有person标签",
+      "from": 212.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 214.47
+    },
+    {
+      "content": "并有一个名为key的属性",
+      "from": 214.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 217.09
+    },
+    {
+      "content": "其值为abk",
+      "from": 217.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 218.95
+    },
+    {
+      "content": "这部分用圆括号表示",
+      "from": 218.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 220.49
+    },
+    {
+      "content": "在图论中这是一个节点",
+      "from": 220.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 222.84
+    },
+    {
+      "content": "然后有一个右向箭头带purchased",
+      "from": 222.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 228.08
+    },
+    {
+      "content": "这是关系类型",
+      "from": 228.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 229.54
+    },
+    {
+      "content": "即为购买行为",
+      "from": 229.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 230.73
+    },
+    {
+      "content": "匹配abk购买到其他括号中的模式",
+      "from": 230.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 235.63
+    },
+    {
+      "content": "我们称之为abk产品",
+      "from": 235.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 237.66
+    },
+    {
+      "content": "从abk到匹配产品的模式",
+      "from": 237.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 241.76
+    },
+    {
+      "content": "可以直接返回这些结果",
+      "from": 241.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 243.699
+    },
+    {
+      "content": "对应中间部分",
+      "from": 243.699,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 246.45
+    },
+    {
+      "content": "可扩展该模式包含其他购买者",
+      "from": 246.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 251.5
+    },
+    {
+      "content": "从abk到其购买产品",
+      "from": 251.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 254.5
+    },
+    {
+      "content": "还可关联到产品并说明",
+      "from": 254.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 258.76
+    },
+    {
+      "content": "有其他人购买了这些产品",
+      "from": 258.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 260.84
+    },
+    {
+      "content": "该模式会找到与abk共有的产品",
+      "from": 260.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 265.61
+    },
+    {
+      "content": "可进一步扩展以解决推荐问题",
+      "from": 265.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 270.2
+    },
+    {
+      "content": "而不仅仅是寻找其他产品",
+      "from": 270.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 272.8
+    },
+    {
+      "content": "其他产品具有独特属性",
+      "from": 273.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 275.4
+    },
+    {
+      "content": "这些是abk尚未拥有的",
+      "from": 275.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 278.76
+    },
+    {
+      "content": "保持相同模式从abk到产品再到他人",
+      "from": 278.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 283.33
+    },
+    {
+      "content": "并扩展到其他产品",
+      "from": 283.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 285.89
+    },
+    {
+      "content": "现在我们添加了一个谓词，表示我们实际上希望一个负模式为真",
+      "from": 285.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 290.719
+    },
+    {
+      "content": "Abk 没有购买那些其他产品",
+      "from": 290.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 293.99
+    },
+    {
+      "content": "所以Abk 没有购买那些其他产品的地方",
+      "from": 293.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 296.85
+    },
+    {
+      "content": "所以下方那个虚线部分",
+      "from": 296.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 299.47
+    },
+    {
+      "content": "从Abk 到沙发",
+      "from": 299.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 301.01
+    },
+    {
+      "content": "我们希望这个不存在",
+      "from": 301.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 302.9
+    },
+    {
+      "content": "现在",
+      "from": 302.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 303.34
+    },
+    {
+      "content": "我们正在描述一个模式",
+      "from": 303.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 304.72
+    },
+    {
+      "content": "同时包含应该存在的记录",
+      "from": 304.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 306.64
+    },
+    {
+      "content": "某些不应该存在的事物",
+      "from": 306.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 308.22
+    },
+    {
+      "content": "其他产品现在将缩减为Abk 未购买的产品",
+      "from": 308.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 313.18
+    },
+    {
+      "content": "这就是我们要使用的",
+      "from": 313.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 314.18
+    },
+    {
+      "content": "作为他购买的推荐",
+      "from": 314.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 316.39
+    },
+    {
+      "content": "那么知识图谱到底是什么",
+      "from": 316.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 319.19
+    },
+    {
+      "content": "它是一种以节点表示信息的数据库",
+      "from": 319.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 322.05
+    },
+    {
+      "content": "代表人物等实体",
+      "from": 322.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 323.39
+    },
+    {
+      "content": "产品",
+      "from": 323.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 323.81
+    },
+    {
+      "content": "博客",
+      "from": 323.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 324.43
+    },
+    {
+      "content": "任何你想在数据库中记录的内容",
+      "from": 324.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 327.43
+    },
+    {
+      "content": "但同时也包含非简单连接表的关联关系",
+      "from": 327.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 332.58
+    },
+    {
+      "content": "而是作为一等公民存在",
+      "from": 332.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 333.98
+    },
+    {
+      "content": "数据库中实际存在具有语义含义的数据记录",
+      "from": 333.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 337.76
+    },
+    {
+      "content": "它们真正表示两个节点的连接方式",
+      "from": 337.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 340.16
+    },
+    {
+      "content": "并添加关于这两个节点的信息",
+      "from": 340.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 343.02
+    },
+    {
+      "content": "因此节点和关系都具有键值属性",
+      "from": 343.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 345.72
+    },
+    {
+      "content": "节点有多个标签",
+      "from": 345.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 348.1
+    },
+    {
+      "content": "关系始终有方向性",
+      "from": 348.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 349.66
+    },
+    {
+      "content": "且具有单一类型",
+      "from": 349.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 351.23
+    },
+    {
+      "content": "用于模式匹配的查询语言称为Cypher",
+      "from": 351.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 355.33
+    },
+    {
+      "content": "结果发现这对映射自然语言非常方便",
+      "from": 355.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 358.65
+    },
+    {
+      "content": "也非常适合与生成式AI和LLM协作",
+      "from": 358.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 361.83
+    },
+    {
+      "content": "因为LLM擅长自然语言处理",
+      "from": 361.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 364.34
+    },
+    {
+      "content": "如果我们回到之前的查询",
+      "from": 364.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 368.34
+    },
+    {
+      "content": "你可以朗读并理解它",
+      "from": 368.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 371.18
+    },
+    {
+      "content": "匹配Abk 这个名为",
+      "from": 371.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 373.74
+    },
+    {
+      "content": "Abk 购买了一些其他人也购买的产品",
+      "from": 373.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 377.75
+    },
+    {
+      "content": "他购买了其他产品，而Abk 未购买这些产品",
+      "from": 377.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 382.39
+    },
+    {
+      "content": "知识图谱的另一个有趣之处",
+      "from": 382.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 384.81
+    },
+    {
+      "content": "在于它能方便整合非结构化数据",
+      "from": 384.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 387.69
+    },
+    {
+      "content": "与结构化数据结合",
+      "from": 387.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 389.27
+    },
+    {
+      "content": "无论是我们的产品还是人物",
+      "from": 389.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 392.79
+    },
+    {
+      "content": "任何结构化数据中的内容",
+      "from": 392.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 394.33
+    },
+    {
+      "content": "然后可以添加任意文本块",
+      "from": 394.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 396.49
+    },
+    {
+      "content": "将其向量化存储在数据库中",
+      "from": 396.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 399.9
+    },
+    {
+      "content": "结合向量相似度搜索和模式匹配实现多种强大查询",
+      "from": 399.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 406.27
+    },
+    {
+      "content": "例如",
+      "from": 406.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 407.37
+    },
+    {
+      "content": "如果你想进行根本原因分析",
+      "from": 407.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 408.91
+    },
+    {
+      "content": "假设你是一家家具制造商，想要了解客户投诉",
+      "from": 409.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 414.47
+    },
+    {
+      "content": "关于你们的产品",
+      "from": 414.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 415.56
+    },
+    {
+      "content": "于是你召集专家团队",
+      "from": 415.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 417.38
+    },
+    {
+      "content": "你知道数据工程和数据分析团队",
+      "from": 417.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 419.24
+    },
+    {
+      "content": "然后说嘿",
+      "from": 419.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 420.22
+    },
+    {
+      "content": "你能做一下根本原因分析吗",
+      "from": 420.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 421.78
+    },
+    {
+      "content": "我听说网上有很多关于我们产品的投诉",
+      "from": 421.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 425.34
+    },
+    {
+      "content": "我们得想办法找出问题所在",
+      "from": 425.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 427.6
+    },
+    {
+      "content": "根本原因分析会包含类似哪些产品问题最多的问题",
+      "from": 427.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 431.83
+    },
+    {
+      "content": "然后根据这些产品",
+      "from": 431.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 433.53
+    },
+    {
+      "content": "嗯",
+      "from": 433.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 433.83
+    },
+    {
+      "content": "产品哪个部分才是实际问题所在",
+      "from": 433.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 435.85
+    },
+    {
+      "content": "然后你可能需要问一个问题",
+      "from": 435.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 437.47
+    },
+    {
+      "content": "比如该部件本身有问题吗",
+      "from": 437.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 439.57
+    },
+    {
+      "content": "或许还有其他因素在起作用",
+      "from": 439.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 441.23
+    },
+    {
+      "content": "人们可能就是不喜欢这个产品",
+      "from": 441.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 442.63
+    },
+    {
+      "content": "但如果你能采取纠正措施",
+      "from": 442.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 444.59
+    },
+    {
+      "content": "可能是因为制造流程存在问题",
+      "from": 444.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 447.59
+    },
+    {
+      "content": "这里需要寻找可采取的纠正措施",
+      "from": 447.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 449.71
+    },
+    {
+      "content": "针对可以改进的问题进行根本原因分析",
+      "from": 449.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 453.62
+    },
+    {
+      "content": "如果是设计问题",
+      "from": 453.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 454.86
+    },
+    {
+      "content": "可以转交给设计团队处理",
+      "from": 454.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 456.7
+    },
+    {
+      "content": "他们可以分析用户的投诉内容",
+      "from": 456.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 459.14
+    },
+    {
+      "content": "但如果是制造问题或部件问题",
+      "from": 459.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 462.32
+    },
+    {
+      "content": "可以在相关环节进行分析",
+      "from": 462.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 464.6
+    },
+    {
+      "content": "找出部件问题",
+      "from": 464.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 465.9
+    },
+    {
+      "content": "要么更换新部件",
+      "from": 465.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 468.09
+    },
+    {
+      "content": "要么优化生产流程",
+      "from": 468.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 470.92
+    },
+    {
+      "content": "作为数据工程师",
+      "from": 470.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 472.36
+    },
+    {
+      "content": "如果接到这项任务",
+      "from": 472.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 473.58
+    },
+    {
+      "content": "你会从常规步骤开始",
+      "from": 473.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 475.04
+    },
+    {
+      "content": "提出澄清问题",
+      "from": 475.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 477.0
+    },
+    {
+      "content": "我们为什么要做这件事",
+      "from": 477.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 478.9
+    },
+    {
+      "content": "需要理解供应链可能存在制造问题",
+      "from": 478.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 483.12
+    },
+    {
+      "content": "好的",
+      "from": 483.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 483.7
+    },
+    {
+      "content": "明白了",
+      "from": 483.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 484.51
+    },
+    {
+      "content": "第二个问题是",
+      "from": 484.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 485.67
+    },
+    {
+      "content": "或者要确定可用数据",
+      "from": 485.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 488.63
+    },
+    {
+      "content": "以便进行分析",
+      "from": 488.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 490.77
+    },
+    {
+      "content": "在这个场景中我们需要构建材料",
+      "from": 490.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 493.69
+    },
+    {
+      "content": "连接产品到供应商的CSV文件",
+      "from": 493.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 498.32
+    },
+    {
+      "content": "可能来自某些电子表格",
+      "from": 498.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 500.08
+    },
+    {
+      "content": "可能来自不适合分析的关系型数据库",
+      "from": 500.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 504.1
+    },
+    {
+      "content": "没关系",
+      "from": 504.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 504.98
+    },
+    {
+      "content": "太",
+      "from": 504.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 505.57
+    },
+    {
+      "content": "同时还有用户评论数据",
+      "from": 505.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 507.95
+    },
+    {
+      "content": "从互联网上抓取的网站数据",
+      "from": 507.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 510.44
+    },
+    {
+      "content": "需要整合成一个数据集",
+      "from": 510.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 512.96
+    },
+    {
+      "content": "便于后续分析",
+      "from": 512.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 514.89
+    },
+    {
+      "content": "为了进行分析",
+      "from": 514.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 516.25
+    },
+    {
+      "content": "需要构建知识图谱连接所有数据",
+      "from": 516.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 518.95
+    },
+    {
+      "content": "这就是目标数据模型的左侧视图",
+      "from": 518.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 522.77
+    },
+    {
+      "content": "大致呈米色方框",
+      "from": 522.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 524.35
+    },
+    {
+      "content": "在那边你可以看到可用的CSV文件",
+      "from": 524.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 526.83
+    },
+    {
+      "content": "每个都会转化为图中的节点",
+      "from": 526.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 529.69
+    },
+    {
+      "content": "或者图中的关系",
+      "from": 529.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 531.25
+    },
+    {
+      "content": "这就是我们所说的领域图",
+      "from": 532.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 535.25
+    },
+    {
+      "content": "在右侧",
+      "from": 535.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 536.61
+    },
+    {
+      "content": "底部还有一些米色方框代表Markdown文件",
+      "from": 536.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 540.84
+    },
+    {
+      "content": "这些Markdown文件将会被分块处理",
+      "from": 540.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 543.0
+    },
+    {
+      "content": "它们也会在图中创建文档",
+      "from": 543.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 545.75
+    },
+    {
+      "content": "然后所有内容都将相互连接",
+      "from": 545.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 547.83
+    },
+    {
+      "content": "在实际描述代理时我们会详细讲解",
+      "from": 547.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 552.39
+    },
+    {
+      "content": "但我要重点指出的是这些部分高度互联",
+      "from": 552.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 557.43
+    },
+    {
+      "content": "同时又是图中非常独立的部分",
+      "from": 557.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 559.49
+    },
+    {
+      "content": "我们有数据源",
+      "from": 559.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 560.99
+    },
+    {
+      "content": "一侧是结构化数据",
+      "from": 560.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 563.11
+    },
+    {
+      "content": "那里将形成我们所说的领域图",
+      "from": 563.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 566.37
+    },
+    {
+      "content": "这就是我们可以查询的结构化数据",
+      "from": 566.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 569.47
+    },
+    {
+      "content": "另一侧是模式匹配",
+      "from": 569.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 571.56
+    },
+    {
+      "content": "非结构化数据源不会以相同方式查询",
+      "from": 571.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 575.02
+    },
+    {
+      "content": "也不会以相同方式导入",
+      "from": 575.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 577.67
+    },
+    {
+      "content": "它们将形成我们所说的词汇图",
+      "from": 577.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 580.41
+    },
+    {
+      "content": "代表原始文本数据",
+      "from": 580.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 582.67
+    },
+    {
+      "content": "同时连接文本数据的结构以关联两者",
+      "from": 582.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 587.21
+    },
+    {
+      "content": "非结构化数据与结构化数据之间",
+      "from": 587.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 591.21
+    },
+    {
+      "content": "中间部分称为主题图",
+      "from": 591.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 593.27
+    },
+    {
+      "content": "主题图包含从分块中提取的主题或实体",
+      "from": 593.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 597.43
+    },
+    {
+      "content": "分块将包含一些文本",
+      "from": 597.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 599.119
+    },
+    {
+      "content": "可能讨论产品",
+      "from": 599.119,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 600.339
+    },
+    {
+      "content": "可能提到用户名等",
+      "from": 600.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 602.579
+    },
+    {
+      "content": "这些都是可能的实体",
+      "from": 602.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 604.5
+    },
+    {
+      "content": "我们将识别这些并称为主题",
+      "from": 604.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 606.84
+    },
+    {
+      "content": "这些主题将连接到对象",
+      "from": 606.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 609.14
+    },
+    {
+      "content": "主题会描述某些内容",
+      "from": 609.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 610.7
+    },
+    {
+      "content": "例如某个用户",
+      "from": 610.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 612.419
+    },
+    {
+      "content": "假设是本人",
+      "from": 612.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 613.459
+    },
+    {
+      "content": "用户abk喜爱这张表格",
+      "from": 613.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 616.47
+    },
+    {
+      "content": "主题图中会出现主题谓词对象结构",
+      "from": 616.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 620.69
+    },
+    {
+      "content": "描述abk喜爱某张表格",
+      "from": 620.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 623.27
+    },
+    {
+      "content": "因为abk喜爱某张表格",
+      "from": 623.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 626.31
+    },
+    {
+      "content": "该表格可对应结构化数据中的产品",
+      "from": 626.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 630.41
+    },
+    {
+      "content": "如果abk提到一张表格",
+      "from": 630.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 632.19
+    },
+    {
+      "content": "而该表格是结构化数据中的产品",
+      "from": 632.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 635.09
+    },
+    {
+      "content": "我们可以将从文本中提取的实体连接起来",
+      "from": 635.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 639.33
+    },
+    {
+      "content": "一直连接到CSV文件中的结构化数据",
+      "from": 639.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 642.03
+    },
+    {
+      "content": "来自CSV文件",
+      "from": 642.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 643.67
+    },
+    {
+      "content": "不用担心",
+      "from": 643.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 644.75
+    },
+    {
+      "content": "我们将逐步在高层次进行讲解",
+      "from": 644.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 647.63
+    },
+    {
+      "content": "最终你会得到一个包含子图的图",
+      "from": 647.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 651.41
+    },
+    {
+      "content": "领域图",
+      "from": 651.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 652.41
+    },
+    {
+      "content": "主题图和词汇图",
+      "from": 652.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 655.08
+    }
+  ]
+}

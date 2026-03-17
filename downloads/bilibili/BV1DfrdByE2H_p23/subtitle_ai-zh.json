@@ -1,0 +1,1556 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "一个充满活力的工作流程可能包含多种不同类型的组件",
+      "from": 0.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 4.26
+    },
+    {
+      "content": "因此，改进不同组件的工具会大不相同",
+      "from": 4.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 8.26
+    },
+    {
+      "content": "但我想与大家分享一些通用模式",
+      "from": 8.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 10.4
+    },
+    {
+      "content": "我发现某些组件可能不基于语言模型",
+      "from": 10.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 15.11
+    },
+    {
+      "content": "这可能像网络搜索引擎或文本检索组件",
+      "from": 15.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 19.93
+    },
+    {
+      "content": "如果这是你检索增强生成系统的一部分",
+      "from": 19.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 23.34
+    },
+    {
+      "content": "可能需要代码执行功能",
+      "from": 23.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 24.96
+    },
+    {
+      "content": "或者一个单独训练的机器学习模型",
+      "from": 24.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 27.58
+    },
+    {
+      "content": "可能是语音识别或图片中人物检测等功能",
+      "from": 27.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 31.2
+    },
+    {
+      "content": "这些非语言模型组件可能有可调参数或超参数",
+      "from": 31.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 37.58
+    },
+    {
+      "content": "对于网络搜索",
+      "from": 37.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 38.36
+    },
+    {
+      "content": "可以调整结果数量等参数",
+      "from": 38.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 40.4
+    },
+    {
+      "content": "或设置网络搜索引擎考虑的时间范围",
+      "from": 40.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 44.06
+    },
+    {
+      "content": "对于文本检索组件",
+      "from": 44.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 46.48
+    },
+    {
+      "content": "可能改变相似度阈值以确定文本相似性",
+      "from": 46.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 51.48
+    },
+    {
+      "content": "或调整分块大小",
+      "from": 51.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 52.74
+    },
+    {
+      "content": "通常检索系统会进行分块处理",
+      "from": 52.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 55.01
+    },
+    {
+      "content": "将其拆分为更小块以便匹配",
+      "from": 55.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 57.35
+    },
+    {
+      "content": "这些超参数可能适用于人物检测",
+      "from": 57.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 60.93
+    },
+    {
+      "content": "可以调整检测阈值",
+      "from": 60.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 62.98
+    },
+    {
+      "content": "影响其敏感度",
+      "from": 62.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 64.32
+    },
+    {
+      "content": "以及识别人物的可能性",
+      "from": 64.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 66.9
+    },
+    {
+      "content": "这会在假阳性和假阴性之间权衡",
+      "from": 66.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 69.6
+    },
+    {
+      "content": "如果你没有完全理解我刚才提到的超参数细节",
+      "from": 69.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 72.4
+    },
+    {
+      "content": "不必担心",
+      "from": 72.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 73.14
+    },
+    {
+      "content": "细节并不重要",
+      "from": 73.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 74.48
+    },
+    {
+      "content": "但组件参数通常可调",
+      "from": 74.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 77.5
+    },
+    {
+      "content": "当然，你也可以尝试替换组件",
+      "from": 77.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 80.78
+    },
+    {
+      "content": "我在自动生成工作流中经常这样做",
+      "from": 80.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 83.42
+    },
+    {
+      "content": "我会切换不同的检索增强生成引擎",
+      "from": 83.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 85.93
+    },
+    {
+      "content": "或更换不同的检索服务提供商等",
+      "from": 85.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 88.15
+    },
+    {
+      "content": "只需测试其他提供商是否因非语言模型组件多样性表现更好",
+      "from": 88.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 94.76
+    },
+    {
+      "content": "我认为改进技术会更多样化且依赖于",
+      "from": 94.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 99.13
+    },
+    {
+      "content": "具体组件的功能，对于语言模型组件",
+      "from": 99.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 103.69
+    },
+    {
+      "content": "这里有一些可考虑的选项",
+      "from": 103.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 105.99
+    },
+    {
+      "content": "其中一个可能是尝试优化你的",
+      "from": 105.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 108.9
+    },
+    {
+      "content": "或许添加更明确的指令",
+      "from": 108.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 111.72
+    },
+    {
+      "content": "如果你了解少样本提示法",
+      "from": 111.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 114.14
+    },
+    {
+      "content": "指添加输入和期望输出的具体示例",
+      "from": 114.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 120.52
+    },
+    {
+      "content": "少样本提示",
+      "from": 120.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 121.96
+    },
+    {
+      "content": "你可以在深度端眼短课程中学习",
+      "from": 121.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 125.229
+    },
+    {
+      "content": "是一种提供示例以",
+      "from": 125.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 128.989
+    },
+    {
+      "content": "帮助生成更优输出的技术",
+      "from": 128.989,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 132.46
+    },
+    {
+      "content": "或者尝试不同的AI工具",
+      "from": 132.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 136.5
+    },
+    {
+      "content": "套件或其他工具",
+      "from": 136.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 137.52
+    },
+    {
+      "content": "尝试多种语言模型其实很容易",
+      "from": 137.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 140.5
+    },
+    {
+      "content": "然后使用评估选择最佳模型",
+      "from": 140.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 144.88
+    },
+    {
+      "content": "如果单步操作对单一模型太复杂",
+      "from": 144.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 148.66
+    },
+    {
+      "content": "可以考虑将任务分解为更小步骤",
+      "from": 148.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 151.98
+    },
+    {
+      "content": "或拆分为生成步骤和反思步骤",
+      "from": 151.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 155.82
+    },
+    {
+      "content": "但更一般地说",
+      "from": 155.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 156.54
+    },
+    {
+      "content": "如果你有非常复杂的指令",
+      "from": 156.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 159.43
+    },
+    {
+      "content": "全部在一个步骤内",
+      "from": 159.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 160.69
+    },
+    {
+      "content": "可能单个模型难以完成所有指令",
+      "from": 160.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 164.02
+    },
+    {
+      "content": "你可以将任务分解为更小的步骤",
+      "from": 164.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 168.04
+    },
+    {
+      "content": "比如两到三次调用以准确执行最后",
+      "from": 168.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 172.44
+    },
+    {
+      "content": "当其他方法不起作用时可以尝试",
+      "from": 172.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 175.1
+    },
+    {
+      "content": "充分考虑微调模型",
+      "from": 175.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 178.6
+    },
+    {
+      "content": "这通常比其他选项复杂得多",
+      "from": 178.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 181.62
+    },
+    {
+      "content": "在开发时间投入上也会更昂贵",
+      "from": 181.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 185.9
+    },
+    {
+      "content": "但如果你有可用于微调模型的数据",
+      "from": 185.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 191.57
+    },
+    {
+      "content": "这可能比单纯提示更有效",
+      "from": 191.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 195.29
+    },
+    {
+      "content": "所以我通常在耗尽其他选项后才微调模型",
+      "from": 195.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 199.65
+    },
+    {
+      "content": "因为微调通常较为复杂",
+      "from": 199.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 202.32
+    },
+    {
+      "content": "但对于应用而言",
+      "from": 202.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 204.62
+    },
+    {
+      "content": "尝试过所有其他方法后",
+      "from": 204.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 205.92
+    },
+    {
+      "content": "如果我仍然处于",
+      "from": 205.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 206.86
+    },
+    {
+      "content": "你知道的",
+      "from": 206.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 207.22
+    },
+    {
+      "content": "比如达到90%或95%的性能",
+      "from": 207.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 210.34
+    },
+    {
+      "content": "我需要挤出最后几个百分点的提升",
+      "from": 210.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 213.82
+    },
+    {
+      "content": "有时微调自定义模型是很好的技术",
+      "from": 213.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 217.94
+    },
+    {
+      "content": "我通常只在成熟应用上这样做",
+      "from": 217.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 221.52
+    },
+    {
+      "content": "因为成本很高",
+      "from": 221.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 223.44
+    },
+    {
+      "content": "事实证明当你",
+      "from": 223.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 225.29
+    },
+    {
+      "content": "选择专辑时有一件事对你很有帮助",
+      "from": 225.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 229.74
+    },
+    {
+      "content": "作为开发者是",
+      "from": 229.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 230.7
+    },
+    {
+      "content": "如果你对不同大语言模型的智能或能力有良好直觉",
+      "from": 230.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 236.0
+    },
+    {
+      "content": "你可以尝试大量模型并看哪个效果最好",
+      "from": 236.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 238.94
+    },
+    {
+      "content": "但随着使用不同模型",
+      "from": 238.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 240.86
+    },
+    {
+      "content": "我开始形成哪些模型适合何种任务的直觉",
+      "from": 240.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 245.47
+    },
+    {
+      "content": "并保持这些直觉",
+      "from": 245.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 246.83
+    },
+    {
+      "content": "在编写有效问题时也会更高效",
+      "from": 246.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 250.73
+    },
+    {
+      "content": "以及为任务选择合适模型",
+      "from": 250.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 253.49
+    },
+    {
+      "content": "我想与大家分享一些想法",
+      "from": 253.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 255.99
+    },
+    {
+      "content": "关于如何磨练直觉",
+      "from": 255.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 257.87
+    },
+    {
+      "content": "哪些模型适合你的应用",
+      "from": 257.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 261.43
+    },
+    {
+      "content": "让我们通过使用模型执行指令的例子说明",
+      "from": 261.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 266.07
+    },
+    {
+      "content": "以删除或屏蔽pii（个人身份信息）",
+      "from": 266.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 270.8
+    },
+    {
+      "content": "所以删除私密敏感信息",
+      "from": 270.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 273.6
+    },
+    {
+      "content": "例如使用模型总结客户通话",
+      "from": 273.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 278.66
+    },
+    {
+      "content": "则可能生成七月十四日的摘要",
+      "from": 278.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 281.88
+    },
+    {
+      "content": "第二第三条涉及杰西卡·阿尔瓦雷斯的社会安全号码及地址",
+      "from": 281.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 286.06
+    },
+    {
+      "content": "支持工单等信息",
+      "from": 286.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 287.68
+    },
+    {
+      "content": "这段文本包含大量敏感",
+      "from": 287.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 290.22
+    },
+    {
+      "content": "个人身份信息现在",
+      "from": 290.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 293.38
+    },
+    {
+      "content": "假设我们需要从此类摘要中移除所有pii",
+      "from": 293.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 297.45
+    },
+    {
+      "content": "因为我们需要用于下游客户分析",
+      "from": 297.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 302.8
+    },
+    {
+      "content": "并保护客户信息",
+      "from": 302.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 304.24
+    },
+    {
+      "content": "在下游分析前需先清除pii",
+      "from": 304.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 308.51
+    },
+    {
+      "content": "因此你可以提示模型识别以下文本中的所有pii",
+      "from": 308.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 315.11
+    },
+    {
+      "content": "然后返回带有删除标记的文本，包括删除冒号等",
+      "from": 315.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 319.069
+    },
+    {
+      "content": "事实证明，更大的前沿模型往往更能遵循指令",
+      "from": 320.069,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 326.74
+    },
+    {
+      "content": "而较小的模型则擅长回答简单事实性问题",
+      "from": 326.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 331.459
+    },
+    {
+      "content": "但不太擅长执行指令",
+      "from": 331.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 334.24
+    },
+    {
+      "content": "如果在较小模型上运行此提示",
+      "from": 334.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 336.6
+    },
+    {
+      "content": "使用八亿参数的开源llama3.1模型",
+      "from": 336.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 340.26
+    },
+    {
+      "content": "则可能生成如下输出",
+      "from": 340.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 342.12
+    },
+    {
+      "content": "它指出识别出的PI是社会保障号和地址",
+      "from": 342.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 345.92
+    },
+    {
+      "content": "然后按如下方式处理并继续",
+      "from": 345.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 348.92
+    },
+    {
+      "content": "实际上存在几处错误",
+      "from": 348.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 350.22
+    },
+    {
+      "content": "未正确遵循指令",
+      "from": 350.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 352.519
+    },
+    {
+      "content": "显示了列表",
+      "from": 352.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 353.699
+    },
+    {
+      "content": "然后对文本进行删除处理",
+      "from": 353.699,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 355.039
+    },
+    {
+      "content": "然后返回不应生成的另一列表",
+      "from": 355.039,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 358.65
+    },
+    {
+      "content": "在PII列表中遗漏了姓名",
+      "from": 358.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 361.63
+    },
+    {
+      "content": "然后我认为它也没有读取该部分",
+      "from": 361.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 363.88
+    },
+    {
+      "content": "地址信息",
+      "from": 363.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 364.56
+    },
+    {
+      "content": "细节并不重要",
+      "from": 364.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 365.68
+    },
+    {
+      "content": "但未完全遵循这些指令",
+      "from": 365.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 367.94
+    },
+    {
+      "content": "可能遗漏了部分PII",
+      "from": 367.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 370.53
+    },
+    {
+      "content": "相比之下",
+      "from": 370.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 371.15
+    },
+    {
+      "content": "如果使用更智能的模型",
+      "from": 371.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 372.97
+    },
+    {
+      "content": "一个更擅长执行指令的模型",
+      "from": 372.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 374.78
+    },
+    {
+      "content": "可能会得到更好的结果如",
+      "from": 374.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 376.9
+    },
+    {
+      "content": "正确列出了所有PII信息",
+      "from": 376.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 379.42
+    },
+    {
+      "content": "并正确删除了所有PI",
+      "from": 379.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 382.16
+    },
+    {
+      "content": "我发现自己不同语言模型提供商专注于不同任务",
+      "from": 382.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 388.12
+    },
+    {
+      "content": "不同模型确实适合不同任务",
+      "from": 388.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 391.07
+    },
+    {
+      "content": "有些擅长代码编写",
+      "from": 391.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 392.31
+    },
+    {
+      "content": "有些更擅长执行指令",
+      "from": 392.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 393.93
+    },
+    {
+      "content": "有些擅长特定领域的事实",
+      "from": 393.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 396.85
+    },
+    {
+      "content": "你可以根据直觉判断模型的智能程度",
+      "from": 396.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 401.77
+    },
+    {
+      "content": "以及指令的可遵循性",
+      "from": 401.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 404.65
+    },
+    {
+      "content": "从而做出更优模型选择",
+      "from": 404.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 408.299
+    },
+    {
+      "content": "分享几个实用技巧",
+      "from": 408.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 410.799
+    },
+    {
+      "content": "建议尝试不同模型",
+      "from": 410.799,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 412.919
+    },
+    {
+      "content": "每当有新模型发布时",
+      "from": 412.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 415.52
+    },
+    {
+      "content": "我通常会测试并尝试不同查询",
+      "from": 415.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 418.96
+    },
+    {
+      "content": "两者",
+      "from": 418.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 419.38
+    },
+    {
+      "content": "开源模型",
+      "from": 419.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 420.14
+    },
+    {
+      "content": "专有模型及开源模型",
+      "from": 420.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 422.659
+    },
+    {
+      "content": "我发现有时建立个人测试集",
+      "from": 422.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 425.779
+    },
+    {
+      "content": "可能也很有帮助",
+      "from": 425.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 426.879
+    },
+    {
+      "content": "准备一组固定问题",
+      "from": 426.879,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 428.62
+    },
+    {
+      "content": "测试多个不同模型",
+      "from": 428.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 429.68
+    },
+    {
+      "content": "有助于评估它们在不同任务中的表现",
+      "from": 429.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 434.34
+    },
+    {
+      "content": "我经常做的一件事",
+      "from": 434.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 436.28
+    },
+    {
+      "content": "希望对您有所帮助",
+      "from": 436.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 437.96
+    },
+    {
+      "content": "我会花大量时间阅读他人提示",
+      "from": 437.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 441.38
+    },
+    {
+      "content": "有时人们会在互联网上发布他们的提示",
+      "from": 441.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 445.29
+    },
+    {
+      "content": "经常去阅读它们以了解最佳实践和提示的写法",
+      "from": 445.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 449.83
+    },
+    {
+      "content": "或者经常与不同公司的朋友交流",
+      "from": 449.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 452.51
+    },
+    {
+      "content": "包括一些前沿模型公司",
+      "from": 452.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 454.69
+    },
+    {
+      "content": "并向他们分享我的问题",
+      "from": 454.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 456.25
+    },
+    {
+      "content": "观察他们是如何提示的",
+      "from": 456.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 458.1
+    },
+    {
+      "content": "有时我也去查看他人编写的开源包",
+      "from": 458.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 462.38
+    },
+    {
+      "content": "我非常尊重并下载这些开源包",
+      "from": 462.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 465.28
+    },
+    {
+      "content": "然后深入研究这些开源包中作者写的提示",
+      "from": 465.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 469.64
+    },
+    {
+      "content": "为了阅读它们",
+      "from": 469.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 470.82
+    },
+    {
+      "content": "为了培养自己编写优质提示的直觉",
+      "from": 470.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 474.57
+    },
+    {
+      "content": "这是我建议你考虑的一种技巧",
+      "from": 474.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 477.32
+    },
+    {
+      "content": "通过阅读大量他人的提示",
+      "from": 477.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 479.74
+    },
+    {
+      "content": "这能帮助你提升自己编写提示的能力",
+      "from": 479.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 483.16
+    },
+    {
+      "content": "我确实经常这样做",
+      "from": 483.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 485.27
+    },
+    {
+      "content": "我也鼓励你这样做",
+      "from": 485.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 487.31
+    },
+    {
+      "content": "这能帮你培养关于指令类型的直觉",
+      "from": 487.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 490.61
+    },
+    {
+      "content": "模型擅长执行哪些指令",
+      "from": 490.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 491.87
+    },
+    {
+      "content": "何时对不同模型说特定内容",
+      "from": 491.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 494.68
+    },
+    {
+      "content": "除了与模型互动和阅读他人提示",
+      "from": 494.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 498.24
+    },
+    {
+      "content": "如果你在工作流中尝试多种不同模型",
+      "from": 498.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 501.56
+    },
+    {
+      "content": "也能帮助你培养这种直觉",
+      "from": 501.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 503.94
+    },
+    {
+      "content": "从而了解哪些模型最适合哪些任务",
+      "from": 503.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 507.38
+    },
+    {
+      "content": "或者通过查看追踪记录获得初步感受",
+      "from": 507.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 511.32
+    },
+    {
+      "content": "或从组件级或端到端进行分析",
+      "from": 511.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 514.62
+    },
+    {
+      "content": "这能帮助你评估不同模型在工作流各环节的表现",
+      "from": 514.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 518.98
+    },
+    {
+      "content": "然后你开始培养关于",
+      "from": 518.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 521.22
+    },
+    {
+      "content": "不仅仅是性能",
+      "from": 521.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 522.2
+    },
+    {
+      "content": "可能还包括不同模型的价格与速度权衡",
+      "from": 522.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 527.159
+    },
+    {
+      "content": "我之所以开发我的工作流",
+      "from": 527.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 530.719
+    },
+    {
+      "content": "AI套件是因为它能轻松切换和尝试不同模型",
+      "from": 530.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 535.2
+    },
+    {
+      "content": "这让我在测试和评估时更高效",
+      "from": 535.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 539.45
+    },
+    {
+      "content": "从而确定哪些模型最适合我的工作流",
+      "from": 539.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 542.19
+    },
+    {
+      "content": "我们已经讨论了很多如何提升各组件性能",
+      "from": 542.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 547.46
+    },
+    {
+      "content": "以期提高整个端到端系统的整体性能",
+      "from": 547.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 551.86
+    },
+    {
+      "content": "除了提升输出质量",
+      "from": 551.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 555.66
+    },
+    {
+      "content": "在工作流中你可能还需要",
+      "from": 555.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 558.46
+    },
+    {
+      "content": "同时优化延迟和成本",
+      "from": 558.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 561.74
+    },
+    {
+      "content": "我发现很多团队在开发初期",
+      "from": 561.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 564.2
+    },
+    {
+      "content": "通常最担心的是输出质量是否足够高",
+      "from": 564.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 569.44
+    },
+    {
+      "content": "但当系统运行良好并投入生产后",
+      "from": 569.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 573.53
+    },
+    {
+      "content": "往往也有价值使其运行更快且成本更低",
+      "from": 573.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 578.95
+    },
+    {
+      "content": "所以在下一视频",
+      "from": 578.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 579.99
+    },
+    {
+      "content": "我们将看看如何优化工作负载的成本和延迟",
+      "from": 579.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 586.02
+    }
+  ]
+}

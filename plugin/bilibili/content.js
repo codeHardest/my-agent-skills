@@ -10,6 +10,7 @@
     let initialized = false;
     let currentCid = null;
     let currentAid = null;
+    let currentBvid = null;
 
     // 等待页面加载完成后初始化
     function init() {
@@ -22,6 +23,25 @@
         setTimeout(() => {
             checkAndLoadSubtitles();
         }, 2000);
+
+        // 监听 URL 变化（单页面应用视频切换）
+        let lastUrl = location.href;
+        new MutationObserver(() => {
+            const url = location.href;
+            if (url !== lastUrl) {
+                lastUrl = url;
+                console.log('[Bilibili Subtitle] URL changed, rechecking...');
+                setTimeout(checkAndLoadSubtitles, 1500);
+            }
+        }).observe(document, { subtree: true, childList: true });
+
+        // 监听视频播放结束（连播时刷新字幕）
+        document.addEventListener('visibilitychange', () => {
+            if (!document.hidden) {
+                // 页面从后台恢复时检查
+                setTimeout(checkAndLoadSubtitles, 1000);
+            }
+        });
     }
 
     // 检查并加载字幕
@@ -45,11 +65,13 @@
 
         console.log('[Bilibili Subtitle] Got video info:', videoInfo);
 
-        // 检查是否需要重新加载字幕（切换分P时）
-        if (currentCid !== videoInfo.cid) {
-            console.log('[Bilibili Subtitle] CID changed, reloading subtitles');
+        // 检查是否需要重新加载字幕（切换视频或分P时）
+        if (currentBvid !== videoInfo.bvid || currentCid !== videoInfo.cid) {
+            console.log('[Bilibili Subtitle] Video changed, reloading subtitles');
+            currentBvid = videoInfo.bvid;
             currentCid = videoInfo.cid;
             currentAid = videoInfo.aid;
+            currentSubtitleIndex = -1; // 重置字幕索引
             loadSubtitles(videoInfo.aid, videoInfo.cid);
         }
     }
@@ -72,7 +94,10 @@
                         aid = info?.aid;
                     }
                     if (aid && playInfo.cid) {
-                        return { aid: aid, cid: playInfo.cid };
+                        // 从URL获取bvid
+                        const bvidMatch = window.location.href.match(/BV[\w]+/);
+                        const bvid = bvidMatch ? bvidMatch[0] : null;
+                        return { aid: aid, cid: playInfo.cid, bvid: bvid };
                     }
                 }
             }
@@ -108,8 +133,11 @@
                 }
 
                 if (aid && cid) {
-                    console.log('[Bilibili Subtitle] Got from __INITIAL_STATE__:', { aid, cid });
-                    return { aid, cid };
+                    // 从URL获取bvid
+                    const bvidMatch = window.location.href.match(/BV[\w]+/);
+                    const bvid = bvidMatch ? bvidMatch[0] : null;
+                    console.log('[Bilibili Subtitle] Got from __INITIAL_STATE__:', { aid, cid, bvid });
+                    return { aid, cid, bvid };
                 }
             }
         } catch (e) {
@@ -146,7 +174,8 @@
                 });
                 return {
                     aid: data.data.aid,
-                    cid: pageInfo.cid
+                    cid: pageInfo.cid,
+                    bvid: bvidMatch[0]
                 };
             }
         } catch (e) {
@@ -318,6 +347,21 @@
             console.log('[Bilibili Subtitle] Container added to body');
         }
 
+        // 计算垂直居中的位置，并移除 transform
+        // 这样可以避免拖动时 transform 造成的干扰
+        const style = window.getComputedStyle(container);
+        if (style.top.includes('%')) {
+            const parent = container.parentElement;
+            if (parent) {
+                const topPercent = parseFloat(style.top);
+                const parentHeight = parent.clientHeight;
+                const containerHeight = container.clientHeight || 600;
+                const centerY = (parentHeight - containerHeight) / 2;
+                container.style.top = centerY + 'px';
+                container.style.transform = 'none';
+            }
+        }
+
         // 渲染字幕列表
         renderSubtitleList();
 
@@ -348,21 +392,12 @@
             startX = e.clientX;
             startY = e.clientY;
 
-            // 获取当前 right 和 top 值
+            // 获取当前 right 和 top 值（已经是像素值）
             const style = window.getComputedStyle(el);
             startRight = parseFloat(style.right) || 0;
-            startTop = parseFloat(style.top) || 50;
-
-            // 如果 top 是百分比，转换为像素
-            if (style.top.includes('%')) {
-                const parent = el.parentElement;
-                if (parent) {
-                    startTop = (parseFloat(style.top) / 100) * parent.clientHeight;
-                }
-            }
+            startTop = parseFloat(style.top) || 0;
 
             el.style.transition = 'none';
-            el.style.transform = 'none'; // 移除 transform 避免干扰
             e.preventDefault();
         });
 
@@ -423,7 +458,11 @@
         };
 
         video.addEventListener('timeupdate', updateSubtitle);
-        video.addEventListener('play', updateSubtitle);
+        video.addEventListener('play', () => {
+            updateSubtitle();
+            // 连播或切换视频时检查是否需要刷新字幕
+            checkAndLoadSubtitles();
+        });
 
         // 初始更新
         updateSubtitle();

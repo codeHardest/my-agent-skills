@@ -1,0 +1,900 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "我发现对于许多开发者来说，只有通过观察多个示例",
+      "from": 0.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 4.2
+    },
+    {
+      "content": "你才能进行练习并磨练自己对错误分析的直觉",
+      "from": 4.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 9.78
+    },
+    {
+      "content": "那么让我们再看看两个更多示例",
+      "from": 9.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 12.06
+    },
+    {
+      "content": "我们将分析发票处理和回复客户邮件的场景",
+      "from": 12.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 16.329
+    },
+    {
+      "content": "这是我们设计的发票处理流程",
+      "from": 16.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 19.489
+    },
+    {
+      "content": "其中包含明确的步骤遵循特征化工作流，识别四个必要字段",
+      "from": 19.489,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 25.66
+    },
+    {
+      "content": "然后将数据录入数据库",
+      "from": 25.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 28.579
+    },
+    {
+      "content": "在示例中",
+      "from": 28.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 29.479
+    },
+    {
+      "content": "从本模块的第一个视频",
+      "from": 29.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 31.139
+    },
+    {
+      "content": "我们提到系统经常在发票到期日判断上出错",
+      "from": 31.139,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 36.13
+    },
+    {
+      "content": "因此我们可以进行分析",
+      "from": 36.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 37.95
+    },
+    {
+      "content": "试图确定可能出错的组件",
+      "from": 37.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 41.94
+    },
+    {
+      "content": "所以",
+      "from": 41.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 42.16
+    },
+    {
+      "content": "例如",
+      "from": 42.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 42.68
+    },
+    {
+      "content": "PDF转文本是否出错",
+      "from": 42.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 44.08
+    },
+    {
+      "content": "或是否出错",
+      "from": 44.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 44.8
+    },
+    {
+      "content": "语言模型是否提取了错误日期",
+      "from": 44.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 47.42
+    },
+    {
+      "content": "所有来自PDF转文本组件的输出",
+      "from": 47.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 50.929
+    },
+    {
+      "content": "传递给卡尔并进行错误分析",
+      "from": 50.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 53.109
+    },
+    {
+      "content": "我会寻找数据提取错误的多个示例",
+      "from": 53.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 58.16
+    },
+    {
+      "content": "如同前一视频所示，重点分析表现不佳的案例",
+      "from": 58.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 63.56
+    },
+    {
+      "content": "试图找出这些案例出错的原因",
+      "from": 63.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 65.96
+    },
+    {
+      "content": "忽略日期正确的示例",
+      "from": 65.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 68.06
+    },
+    {
+      "content": "但需收集十到一百份发票",
+      "from": 68.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 71.63
+    },
+    {
+      "content": "其中日期有误",
+      "from": 71.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 72.81
+    },
+    {
+      "content": "然后我会逐一检查以确定",
+      "from": 72.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 75.65
+    },
+    {
+      "content": "问题根源是否是PDF转文本获取日期错误",
+      "from": 75.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 79.83
+    },
+    {
+      "content": "或是语言模型在处理PDF转文本输出时",
+      "from": 79.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 83.88
+    },
+    {
+      "content": "提取了错误日期",
+      "from": 83.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 85.49
+    },
+    {
+      "content": "或许可以制作类似表格并分析两份发票",
+      "from": 85.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 89.65
+    },
+    {
+      "content": "统计PDF转文本",
+      "from": 89.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 92.78
+    },
+    {
+      "content": "是否错误提取日期或文本",
+      "from": 92.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 95.4
+    },
+    {
+      "content": "导致人类也无法辨认到期日",
+      "from": 95.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 98.16
+    },
+    {
+      "content": "与PDF文本清晰可辨的情况相比",
+      "from": 98.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 100.66
+    },
+    {
+      "content": "但语言模型却错误提取了日期",
+      "from": 100.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 104.04
+    },
+    {
+      "content": "比如误将发票日期识别为到期日",
+      "from": 104.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 108.75
+    },
+    {
+      "content": "在此示例中",
+      "from": 108.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 109.69
+    },
+    {
+      "content": "数据提取环节导致了更多错误",
+      "from": 109.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 113.35
+    },
+    {
+      "content": "这表明我应优先优化数据提取组件",
+      "from": 113.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 117.76
+    },
+    {
+      "content": "而非PDF转文本环节",
+      "from": 117.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 119.86
+    },
+    {
+      "content": "这一点至关重要，因为若没有错误分析",
+      "from": 119.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 122.8
+    },
+    {
+      "content": "某些团队可能耗费数周甚至数月调优PDF转文本",
+      "from": 122.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 128.28
+    },
+    {
+      "content": "最终发现这些努力对系统性能影响微乎其微",
+      "from": 128.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 134.379
+    },
+    {
+      "content": "哦",
+      "from": 134.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 134.779
+    },
+    {
+      "content": "顺便说一句",
+      "from": 134.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 135.479
+    },
+    {
+      "content": "底部的百分比可能不加到100%",
+      "from": 135.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 139.82
+    },
+    {
+      "content": "因为这些错误并非互斥",
+      "from": 139.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 142.36
+    },
+    {
+      "content": "最后看一个案例",
+      "from": 142.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 143.66
+    },
+    {
+      "content": "回到客户邮件回复的工作流",
+      "from": 143.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 148.78
+    },
+    {
+      "content": "其中语言模型接收客户邮件",
+      "from": 148.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 151.9
+    },
+    {
+      "content": "像这样",
+      "from": 151.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 152.66
+    },
+    {
+      "content": "下达指令",
+      "from": 152.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 153.9
+    },
+    {
+      "content": "调取订单详情",
+      "from": 153.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 156.19
+    },
+    {
+      "content": "从数据库获取信息",
+      "from": 156.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 158.09
+    },
+    {
+      "content": "然后草拟供人工审核的回复",
+      "from": 158.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 160.51
+    },
+    {
+      "content": "所以我又找到了一些例子",
+      "from": 160.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 163.9
+    },
+    {
+      "content": "无论出于什么原因",
+      "from": 163.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 164.92
+    },
+    {
+      "content": "最终输出结果令人不满意",
+      "from": 164.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 167.86
+    },
+    {
+      "content": "然后尝试找出哪里出错了",
+      "from": 167.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 170.42
+    },
+    {
+      "content": "可能出现的问题包括",
+      "from": 170.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 172.34
+    },
+    {
+      "content": "可能模型生成了错误的数据库查询",
+      "from": 172.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 176.22
+    },
+    {
+      "content": "当查询发送到数据库时",
+      "from": 176.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 178.44
+    },
+    {
+      "content": "未能成功获取客户信息",
+      "from": 178.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 182.12
+    },
+    {
+      "content": "或者数据库存在数据损坏",
+      "from": 182.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 185.02
+    },
+    {
+      "content": "即使模型编写了完全合适的SQL查询",
+      "from": 185.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 189.74
+    },
+    {
+      "content": "查询语言部分",
+      "from": 189.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 190.86
+    },
+    {
+      "content": "数据库没有正确信息",
+      "from": 190.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 193.14
+    },
+    {
+      "content": "或者根据客户订单的正确信息",
+      "from": 193.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 196.02
+    },
+    {
+      "content": "模型编写了邮件内容却有所偏差",
+      "from": 196.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 200.119
+    },
+    {
+      "content": "再次说明",
+      "from": 200.119,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 200.659
+    },
+    {
+      "content": "我会查看几封邮件",
+      "from": 200.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 202.619
+    },
+    {
+      "content": "最终输出不满意的案例并分析问题",
+      "from": 202.619,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 206.81
+    },
+    {
+      "content": "比如一封邮件",
+      "from": 206.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 208.15
+    },
+    {
+      "content": "发现模型在查询中调用了错误的表",
+      "from": 208.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 211.65
+    },
+    {
+      "content": "在邮件二中错误查询了数据",
+      "from": 211.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 215.24
+    },
+    {
+      "content": "可能发现数据库本身存在错误",
+      "from": 215.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 218.62
+    },
+    {
+      "content": "在给定输入的情况下",
+      "from": 218.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 220.54
+    },
+    {
+      "content": "模型甚至编写了子邮件等",
+      "from": 220.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 224.55
+    },
+    {
+      "content": "在这个案例中",
+      "from": 224.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 226.05
+    },
+    {
+      "content": "经过多封邮件分析后",
+      "from": 226.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 228.25
+    },
+    {
+      "content": "可能发现最常见的错误在于",
+      "from": 228.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 232.21
+    },
+    {
+      "content": "模型编写数据库查询的方式",
+      "from": 232.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 234.77
+    },
+    {
+      "content": "你说SQL查询",
+      "from": 234.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 235.8
+    },
+    {
+      "content": "为了获取相关数据",
+      "from": 235.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 238.28
+    },
+    {
+      "content": "而数据库本身基本正确",
+      "from": 238.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 240.52
+    },
+    {
+      "content": "仅存在少量数据错误",
+      "from": 240.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 242.46
+    },
+    {
+      "content": "模型生成邮件的方式也有问题",
+      "from": 242.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 245.82
+    },
+    {
+      "content": "可能表达不够准确",
+      "from": 245.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 247.58
+    },
+    {
+      "content": "大约30%的时间",
+      "from": 247.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 248.72
+    },
+    {
+      "content": "这表明改进方向",
+      "from": 248.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 250.96
+    },
+    {
+      "content": "可能需要优化模型的查询编写方式",
+      "from": 250.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 254.48
+    },
+    {
+      "content": "其次",
+      "from": 254.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 254.88
+    },
+    {
+      "content": "最关键的是",
+      "from": 254.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 255.98
+    },
+    {
+      "content": "可能需优化高阶提示词",
+      "from": 255.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 258.279
+    },
+    {
+      "content": "撰写最终邮件",
+      "from": 258.279,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 259.999
+    },
+    {
+      "content": "此类分析能显示75%的错误",
+      "from": 259.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 263.9
+    },
+    {
+      "content": "系统多数情况下表现正确",
+      "from": 263.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 265.74
+    },
+    {
+      "content": "但所有未达标的案例中",
+      "from": 265.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 267.68
+    },
+    {
+      "content": "75%的问题源于数据库查询",
+      "from": 267.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 271.13
+    },
+    {
+      "content": "这些信息能精准指导改进方向",
+      "from": 271.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 275.89
+    },
+    {
+      "content": "我正在开发AI工作流程",
+      "from": 275.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 278.45
+    },
+    {
+      "content": "我经常会使用这种错误分析来告诉我该将注意力集中在何处",
+      "from": 278.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 282.85
+    },
+    {
+      "content": "关于接下来该做什么工作",
+      "from": 282.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 285.159
+    },
+    {
+      "content": "当你做出那个决定时",
+      "from": 285.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 286.759
+    },
+    {
+      "content": "事实证明，为了补充我们之前在本模块中讨论的端到端元音",
+      "from": 286.759,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 292.69
+    },
+    {
+      "content": "评估整个端到端系统往往很有用",
+      "from": 292.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 297.26
+    },
+    {
+      "content": "但也需要单独分析各个组件",
+      "from": 297.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 299.3
+    },
+    {
+      "content": "因为这能让你在改进过程中更高效",
+      "from": 299.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 302.18
+    },
+    {
+      "content": "那个通过错误分析让你决定重点关注的组件",
+      "from": 302.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 308.68
+    },
+    {
+      "content": "所以让我们进入下一个视频学习组件层面",
+      "from": 308.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 313.14
+    },
+    {
+      "content": "邪恶的s",
+      "from": 313.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 314.26
+    }
+  ]
+}

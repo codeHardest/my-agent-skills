@@ -1,0 +1,548 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "欢迎来到由neo four j联合打造的基因知识草稿构建课程",
+      "from": 0.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 5.87
+    },
+    {
+      "content": "你将设计一个多智能体系统",
+      "from": 5.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 7.75
+    },
+    {
+      "content": "将结构化和非结构化数据转化为知识图谱",
+      "from": 7.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 12.19
+    },
+    {
+      "content": "我发现知识草稿在高风险应用中非常实用",
+      "from": 12.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 15.83
+    },
+    {
+      "content": "信息存储和检索的准确性至关重要时",
+      "from": 15.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 20.479
+    },
+    {
+      "content": "本课程将教你为何如此",
+      "from": 20.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 21.819
+    },
+    {
+      "content": "同时提供构建这些知识图谱的强大工具",
+      "from": 21.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 25.65
+    },
+    {
+      "content": "我感到非常高兴",
+      "from": 25.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 26.47
+    },
+    {
+      "content": "本课程讲师是安德烈·阿尔杰",
+      "from": 26.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 29.61
+    },
+    {
+      "content": "他是neo four j的AI开发者",
+      "from": 29.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 31.03
+    },
+    {
+      "content": "担任neo four j的AI布道师",
+      "from": 31.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 34.27
+    },
+    {
+      "content": "谢谢安德鲁",
+      "from": 34.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 35.49
+    },
+    {
+      "content": "我很高兴再次回到这里与大家共同学习",
+      "from": 35.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 39.0
+    },
+    {
+      "content": "类似于RAG",
+      "from": 39.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 40.26
+    },
+    {
+      "content": "知识图谱系统",
+      "from": 40.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 42.06
+    },
+    {
+      "content": "将文本文档拆分为块并存储在向量数据库中",
+      "from": 42.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 46.9
+    },
+    {
+      "content": "但除此之外",
+      "from": 46.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 48.76
+    },
+    {
+      "content": "还将块放入图结构中",
+      "from": 48.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 51.14
+    },
+    {
+      "content": "每个块包含从块中提取的实体",
+      "from": 51.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 55.47
+    },
+    {
+      "content": "例如",
+      "from": 55.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 56.27
+    },
+    {
+      "content": "产品评论中的文本块",
+      "from": 56.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 58.39
+    },
+    {
+      "content": "可能包含产品订单、配送问题或产品缺陷等实体以构建知识图谱",
+      "from": 58.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 64.74
+    },
+    {
+      "content": "从块中提取相关实体",
+      "from": 64.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 67.02
+    },
+    {
+      "content": "然后通过边将块与图中的实体连接",
+      "from": 67.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 71.95
+    },
+    {
+      "content": "每条边代表一种关系",
+      "from": 71.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 74.01
+    },
+    {
+      "content": "例如",
+      "from": 74.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 74.79
+    },
+    {
+      "content": "可能表示该块提到了某个产品",
+      "from": 74.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 77.77
+    },
+    {
+      "content": "或该产品存在问题",
+      "from": 77.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 80.25
+    },
+    {
+      "content": "实体会与红色块一同被检索",
+      "from": 80.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 84.45
+    },
+    {
+      "content": "为大语言模型提供更相关的上下文以生成更精准的答案",
+      "from": 84.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 91.56
+    },
+    {
+      "content": "你还可以将此类图连接到包含结构化数据提取信息的其他图",
+      "from": 91.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 99.0
+    },
+    {
+      "content": "例如CSV文件",
+      "from": 99.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 101.03
+    },
+    {
+      "content": "在本课程中",
+      "from": 101.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 101.99
+    },
+    {
+      "content": "安德烈将引导你构建一个多",
+      "from": 101.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 104.71
+    },
+    {
+      "content": "智能体系统",
+      "from": 104.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 105.29
+    },
+    {
+      "content": "帮助完成构建此类知识图谱的工作",
+      "from": 105.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 109.02
+    },
+    {
+      "content": "将结构化和非结构化数据转化为知识图谱",
+      "from": 109.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 113.14
+    },
+    {
+      "content": "首先需要确定图结构模式",
+      "from": 113.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 115.919
+    },
+    {
+      "content": "即从数据中可提取的实体或节点类型",
+      "from": 115.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 119.839
+    },
+    {
+      "content": "以及它们之间的关系",
+      "from": 119.839,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 122.75
+    },
+    {
+      "content": "确定模式后",
+      "from": 122.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 124.74
+    },
+    {
+      "content": "即可构建实际图谱并存储于图数据库",
+      "from": 124.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 128.4
+    },
+    {
+      "content": "无需主要依赖数据寻找图模式",
+      "from": 128.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 131.61
+    },
+    {
+      "content": "你将设计一个多智能体系统来完成此任务",
+      "from": 131.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 134.39
+    },
+    {
+      "content": "使用谷歌的A K或智能体开发工具包",
+      "from": 134.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 137.69
+    },
+    {
+      "content": "学习ADK基础语法后",
+      "from": 137.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 140.35
+    },
+    {
+      "content": "你将设计系统",
+      "from": 140.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 141.65
+    },
+    {
+      "content": "逐步构建每个智能体",
+      "from": 141.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 143.35
+    },
+    {
+      "content": "首个智能体将与你对话",
+      "from": 143.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 145.45
+    },
+    {
+      "content": "提取目标及所需构建的图类型",
+      "from": 145.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 148.25
+    },
+    {
+      "content": "然后基于这一目标",
+      "from": 148.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 149.98
+    },
+    {
+      "content": "一组代理将专门从您的结构化数据中提取实体和关系",
+      "from": 149.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 155.719
+    },
+    {
+      "content": "另一组代理将处理您的非结构化数据",
+      "from": 155.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 159.49
+    },
+    {
+      "content": "最后一组代理将连接两个模型并构建知识图谱",
+      "from": 159.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 163.87
+    },
+    {
+      "content": "相应地",
+      "from": 163.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 165.0
+    },
+    {
+      "content": "许多人参与了这门课程的创建",
+      "from": 165.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 167.48
+    },
+    {
+      "content": "我想代表自己致谢",
+      "from": 167.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 168.72
+    },
+    {
+      "content": "A Four J Martin",
+      "from": 168.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 170.06
+    },
+    {
+      "content": "O'hanlon 和 Adam Cowley",
+      "from": 170.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 172.52
+    },
+    {
+      "content": "来自深度学习",
+      "from": 172.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 173.46
+    },
+    {
+      "content": "AI Christopher",
+      "from": 173.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 174.5
+    },
+    {
+      "content": "Polycastro 和 Hara Salami 也为此课程做出了贡献",
+      "from": 174.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 178.2
+    },
+    {
+      "content": "在第一课中",
+      "from": 178.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 179.1
+    },
+    {
+      "content": "您将更深入了解知识图谱的底层结构",
+      "from": 179.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 182.52
+    },
+    {
+      "content": "以及如何构建并利用它来识别根本原因",
+      "from": 182.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 185.55
+    },
+    {
+      "content": "产品问题的根本原因听起来很棒",
+      "from": 185.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 188.77
+    },
+    {
+      "content": "让我们开始吧",
+      "from": 188.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 190.31
+    }
+  ]
+}

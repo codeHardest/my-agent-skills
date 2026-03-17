@@ -1,0 +1,1508 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "假设你构建了一个工作流程",
+      "from": 0.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 1.9
+    },
+    {
+      "content": "但它还没有达到你期望的效果",
+      "from": 1.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 4.64
+    },
+    {
+      "content": "这种情况我经常遇到",
+      "from": 4.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 6.32
+    },
+    {
+      "content": "顺便说一句",
+      "from": 6.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 6.74
+    },
+    {
+      "content": "我通常会快速搭建一个简易系统",
+      "from": 6.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 8.82
+    },
+    {
+      "content": "但它表现不如我预期",
+      "from": 8.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 11.65
+    },
+    {
+      "content": "问题在于你要将精力集中在哪些环节才能改进",
+      "from": 11.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 16.009
+    },
+    {
+      "content": "事实证明，基因工作流程包含许多不同组件",
+      "from": 16.009,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 18.909
+    },
+    {
+      "content": "优化某些组件可能比其他组件更有效",
+      "from": 18.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 24.63
+    },
+    {
+      "content": "你选择专注方向的能力对改进速度影响巨大",
+      "from": 24.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 29.97
+    },
+    {
+      "content": "能让你在系统中实现改进的速度",
+      "from": 29.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 32.29
+    },
+    {
+      "content": "我发现其中一个最大预测因素",
+      "from": 32.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 35.5
+    },
+    {
+      "content": "团队效率和质量如何",
+      "from": 35.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 38.35
+    },
+    {
+      "content": "是否能有效执行纪律性错误分析流程",
+      "from": 38.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 43.01
+    },
+    {
+      "content": "以确定改进方向",
+      "from": 43.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 45.62
+    },
+    {
+      "content": "这是一个重要技能",
+      "from": 45.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 47.36
+    },
+    {
+      "content": "让我们看看如何在研究代理示例中执行错误分析",
+      "from": 47.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 52.549
+    },
+    {
+      "content": "我们在前一视频中进行了错误分析",
+      "from": 52.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 56.089
+    },
+    {
+      "content": "发现经常遗漏关键点",
+      "from": 56.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 59.65
+    },
+    {
+      "content": "就像人类专家撰写特定主题文章时",
+      "from": 59.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 63.65
+    },
+    {
+      "content": "现在你已发现有时会遗漏关键点的问题",
+      "from": 63.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 68.29
+    },
+    {
+      "content": "该如何着手解决",
+      "from": 68.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 70.76
+    },
+    {
+      "content": "在工作流程的众多步骤中",
+      "from": 70.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 73.83
+    },
+    {
+      "content": "几乎任何步骤都可能导致遗漏关键点的问题",
+      "from": 73.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 78.89
+    },
+    {
+      "content": "例如",
+      "from": 78.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 79.67
+    },
+    {
+      "content": "可能第一个语言模型生成的搜索词不够优质",
+      "from": 79.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 83.51
+    },
+    {
+      "content": "导致搜索内容不准确",
+      "from": 83.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 85.98
+    },
+    {
+      "content": "未能找到正确文章",
+      "from": 85.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 87.98
+    },
+    {
+      "content": "或者使用的网络搜索引擎效果不佳",
+      "from": 87.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 91.42
+    },
+    {
+      "content": "市面上存在多种网络搜索引擎",
+      "from": 91.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 93.2
+    },
+    {
+      "content": "实际上我常用多个搜索引擎处理个人应用",
+      "from": 93.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 97.52
+    },
+    {
+      "content": "有些效果更好",
+      "from": 97.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 99.4
+    },
+    {
+      "content": "或者网络搜索本身并无问题",
+      "from": 99.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 101.76
+    },
+    {
+      "content": "但将搜索结果列表交给语言模型时",
+      "from": 101.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 104.64
+    },
+    {
+      "content": "可能处理不当",
+      "from": 104.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 106.2
+    },
+    {
+      "content": "未能选出最佳文档下载",
+      "from": 106.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 108.8
+    },
+    {
+      "content": "可能网络抓取环节问题较少",
+      "from": 108.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 111.2
+    },
+    {
+      "content": "在这种情况下",
+      "from": 111.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 111.96
+    },
+    {
+      "content": "假设你能准确获取网页内容",
+      "from": 111.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 114.16
+    },
+    {
+      "content": "但将网页内容输入语言模型后",
+      "from": 114.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 116.46
+    },
+    {
+      "content": "模型可能忽略部分已抓取文档中的要点",
+      "from": 116.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 121.71
+    },
+    {
+      "content": "事实证明有些团队会凭直觉选择组件改进",
+      "from": 121.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 124.99
+    },
+    {
+      "content": "有时这种方法奏效",
+      "from": 124.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 129.03
+    },
+    {
+      "content": "但有时会导致数月工作却进展甚微",
+      "from": 129.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 130.37
+    },
+    {
+      "content": "因此不应依赖直觉选择组件改进",
+      "from": 130.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 137.15
+    },
+    {
+      "content": "与其凭感觉决定改进哪个组件",
+      "from": 137.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 142.17
+    },
+    {
+      "content": "我认为进行系统性错误分析更好",
+      "from": 142.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 145.99
+    },
+    {
+      "content": "以更深入理解工作流程各环节",
+      "from": 145.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 149.189
+    },
+    {
+      "content": "特别是我会经常检查执行轨迹",
+      "from": 149.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 151.86
+    },
+    {
+      "content": "即每个步骤后的中间输出",
+      "from": 151.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 154.84
+    },
+    {
+      "content": "为了了解哪些组件的性能不佳",
+      "from": 154.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 159.74
+    },
+    {
+      "content": "意思",
+      "from": 159.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 160.2
+    },
+    {
+      "content": "说",
+      "from": 160.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 160.7
+    },
+    {
+      "content": "远不如人类专家的表现",
+      "from": 160.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 163.67
+    },
+    {
+      "content": "因为这可能表明存在显著改进的空间",
+      "from": 163.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 168.04
+    },
+    {
+      "content": "让我们看一个例子",
+      "from": 168.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 169.08
+    },
+    {
+      "content": "如果我们让研究代理撰写一篇关于黑洞信号最新新闻的论文",
+      "from": 169.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 174.47
+    },
+    {
+      "content": "也许输出结果",
+      "from": 174.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 175.97
+    },
+    {
+      "content": "像这样的搜索关键词",
+      "from": 175.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 176.99
+    },
+    {
+      "content": "搜索黑洞理论",
+      "from": 176.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 178.07
+    },
+    {
+      "content": "爱因斯坦事件视界",
+      "from": 178.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 179.43
+    },
+    {
+      "content": "望远镜",
+      "from": 179.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 179.87
+    },
+    {
+      "content": "无线电等",
+      "from": 179.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 181.25
+    },
+    {
+      "content": "然后我会让专家查看这些内容并判断",
+      "from": 181.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 184.23
+    },
+    {
+      "content": "这些是否是撰写黑洞信号最新发现论文的合理网络搜索关键词",
+      "from": 184.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 190.35
+    },
+    {
+      "content": "在这种情况下专家可能认为这些搜索结果看起来没问题",
+      "from": 190.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 194.82
+    },
+    {
+      "content": "它们与我作为人类的做法非常相似",
+      "from": 194.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 197.72
+    },
+    {
+      "content": "然后我查看网页搜索结果并检查返回的网址",
+      "from": 197.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 203.7
+    },
+    {
+      "content": "网页搜索会返回许多不同网页",
+      "from": 203.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 206.99
+    },
+    {
+      "content": "也许其中一个网页显示",
+      "from": 206.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 209.28
+    },
+    {
+      "content": "一名小学生声称破解了天体物理学领域三十年的黑洞之谜",
+      "from": 209.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 214.64
+    },
+    {
+      "content": "儿童新闻",
+      "from": 214.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 215.35
+    },
+    {
+      "content": "这看起来不像经过严格同行评审的文章",
+      "from": 215.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 219.23
+    },
+    {
+      "content": "或许检查所有网页搜索返回的文章",
+      "from": 219.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 223.82
+    },
+    {
+      "content": "会让你得出返回过多博客或通俗新闻文章的结论",
+      "from": 223.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 229.91
+    },
+    {
+      "content": "而不足以撰写高质量的研究报告",
+      "from": 229.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 235.62
+    },
+    {
+      "content": "最好也检查其他步骤的输出结果",
+      "from": 235.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 238.92
+    },
+    {
+      "content": "也许代理筛选出最佳五篇资料",
+      "from": 238.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 241.21
+    },
+    {
+      "content": "最终可能得到",
+      "from": 241.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 242.23
+    },
+    {
+      "content": "天体儿童新闻",
+      "from": 242.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 243.07
+    },
+    {
+      "content": "太空球",
+      "from": 243.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 243.57
+    },
+    {
+      "content": "二千空间趣味新闻",
+      "from": 243.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 245.11
+    },
+    {
+      "content": "等等",
+      "from": 245.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 245.91
+    },
+    {
+      "content": "正是通过查看这些中间输出",
+      "from": 245.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 249.57
+    },
+    {
+      "content": "才能初步判断每个步骤输出的质量",
+      "from": 249.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 253.75
+    },
+    {
+      "content": "引入一些术语",
+      "from": 253.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 255.05
+    },
+    {
+      "content": "所有中间步骤的输出集合",
+      "from": 255.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 259.19
+    },
+    {
+      "content": "通常被称为该代理运行的轨迹",
+      "from": 259.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 262.709
+    },
+    {
+      "content": "其他资料中也会见到的术语",
+      "from": 262.709,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 266.529
+    },
+    {
+      "content": "单个步骤的输出有时称为片段",
+      "from": 266.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 270.45
+    },
+    {
+      "content": "来自计算机可观测性领域的术语",
+      "from": 270.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 274.63
+    },
+    {
+      "content": "用于分析计算机行为",
+      "from": 274.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 277.51
+    },
+    {
+      "content": "在这门课中我多次使用了'轨迹'一词",
+      "from": 277.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 280.68
+    },
+    {
+      "content": "我会较少使用'片段'这个词",
+      "from": 280.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 282.8
+    },
+    {
+      "content": "但你可能在互联网上看到这两个术语",
+      "from": 282.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 285.4
+    },
+    {
+      "content": "通过阅读轨迹",
+      "from": 285.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 287.1
+    },
+    {
+      "content": "可以初步判断哪些组件可能存在最大问题",
+      "from": 287.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 292.44
+    },
+    {
+      "content": "为了更系统地进行分析",
+      "from": 292.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 294.6
+    },
+    {
+      "content": "关注系统表现不佳的案例会很有帮助",
+      "from": 294.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 300.62
+    },
+    {
+      "content": "也许有些论文完全符合要求",
+      "from": 300.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 304.28
+    },
+    {
+      "content": "所以我可以把这些放在一边，尝试构建一组示例，其中",
+      "from": 304.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 307.88
+    },
+    {
+      "content": "无论什么原因，你的研究代理的最终输出并不令人满意",
+      "from": 307.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 312.62
+    },
+    {
+      "content": "然后专注于这些示例",
+      "from": 312.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 314.88
+    },
+    {
+      "content": "这就是我们称之为错误分析的原因之一",
+      "from": 314.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 317.26
+    },
+    {
+      "content": "因为我们想关注系统出错的案例",
+      "from": 317.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 320.95
+    },
+    {
+      "content": "并深入分析找出哪些组件",
+      "from": 320.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 325.03
+    },
+    {
+      "content": "最负责研究代理输出中的错误",
+      "from": 325.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 329.53
+    },
+    {
+      "content": "为了使这一过程更严谨",
+      "from": 329.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 331.25
+    },
+    {
+      "content": "而不是随意阅读并获得模糊感",
+      "from": 331.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 333.9
+    },
+    {
+      "content": "你可能会建立一个电子表格，更明确地统计错误位置",
+      "from": 333.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 340.1
+    },
+    {
+      "content": "而这里的错误",
+      "from": 340.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 340.84
+    },
+    {
+      "content": "我指的是",
+      "from": 340.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 341.36
+    },
+    {
+      "content": "当某一步骤输出的结果显著劣于",
+      "from": 341.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 346.6
+    },
+    {
+      "content": "可能人类专家在相同输入下会给出的内容",
+      "from": 346.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 351.0
+    },
+    {
+      "content": "所以我通常会自己在电子表格中进行这项工作",
+      "from": 351.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 353.72
+    },
+    {
+      "content": "因此我可能会构建一个这样的电子表格",
+      "from": 353.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 355.26
+    },
+    {
+      "content": "所以对于第一个查询",
+      "from": 355.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 356.68
+    },
+    {
+      "content": "我会查看黑洞科学的最新进展",
+      "from": 356.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 358.86
+    },
+    {
+      "content": "发现搜索结果中有太多博客文章",
+      "from": 358.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 362.13
+    },
+    {
+      "content": "通俗读物文章",
+      "from": 362.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 363.25
+    },
+    {
+      "content": "科学论文不足",
+      "from": 363.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 365.01
+    },
+    {
+      "content": "基于此，确实这五个最佳来源并不理想",
+      "from": 365.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 370.02
+    },
+    {
+      "content": "但这里我不说这五个最佳来源做得不好",
+      "from": 370.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 373.9
+    },
+    {
+      "content": "因为输入到TM选择五个最佳来源的参数",
+      "from": 373.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 377.96
+    },
+    {
+      "content": "全是非严谨文章",
+      "from": 377.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 380.05
+    },
+    {
+      "content": "因此不能归咎于此",
+      "from": 380.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 381.53
+    },
+    {
+      "content": "选择五个最佳来源未能挑选更好文章",
+      "from": 381.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 384.53
+    },
+    {
+      "content": "因为它已经尽力而为",
+      "from": 384.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 385.97
+    },
+    {
+      "content": "或几乎达到同样效果",
+      "from": 385.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 387.82
+    },
+    {
+      "content": "人类可能也会做出相同选择",
+      "from": 387.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 390.64
+    },
+    {
+      "content": "然后你可以为不同提示重复此过程",
+      "from": 390.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 393.67
+    },
+    {
+      "content": "西雅图租房 vs 买房",
+      "from": 393.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 395.93
+    },
+    {
+      "content": "可能遗漏了知名博客",
+      "from": 395.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 397.93
+    },
+    {
+      "content": "用于水果采摘的机器人技术",
+      "from": 397.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 399.67
+    },
+    {
+      "content": "在此案例中我们观察到",
+      "from": 399.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 401.59
+    },
+    {
+      "content": "哦",
+      "from": 401.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 401.79
+    },
+    {
+      "content": "搜索关键词过于宽泛",
+      "from": 401.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 403.25
+    },
+    {
+      "content": "搜索结果也不佳等等",
+      "from": 403.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 405.87
+    },
+    {
+      "content": "然后基于此我在电子表格中统计",
+      "from": 405.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 409.42
+    },
+    {
+      "content": "不同组件出现错误的频率",
+      "from": 409.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 413.43
+    },
+    {
+      "content": "在此例中对搜索关键词不满",
+      "from": 413.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 416.11
+    },
+    {
+      "content": "五分之一的时间",
+      "from": 416.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 417.23
+    },
+    {
+      "content": "但对搜索结果不满四",
+      "from": 417.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 419.51
+    },
+    {
+      "content": "五分之一的时间",
+      "from": 419.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 420.72
+    },
+    {
+      "content": "如果实际观察到这种情况",
+      "from": 420.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 421.92
+    },
+    {
+      "content": "我可能会仔细检查搜索关键词",
+      "from": 421.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 424.26
+    },
+    {
+      "content": "确保搜索关键词确实合适",
+      "from": 424.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 426.68
+    },
+    {
+      "content": "确认并非搜索关键词选择不当导致结果差",
+      "from": 426.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 430.54
+    },
+    {
+      "content": "但我确实认为搜索关键词没问题",
+      "from": 430.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 432.28
+    },
+    {
+      "content": "但搜索结果却不理想",
+      "from": 432.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 433.48
+    },
+    {
+      "content": "然后我会仔细检查我使用的网络搜索引擎",
+      "from": 433.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 436.54
+    },
+    {
+      "content": "如果存在可以调整的参数",
+      "from": 436.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 438.46
+    },
+    {
+      "content": "使其返回更相关或更高质量的结果",
+      "from": 438.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 442.209
+    },
+    {
+      "content": "这种分析在这个例子中告诉我",
+      "from": 442.209,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 444.769
+    },
+    {
+      "content": "也许我真的应该专注于改进搜索结果",
+      "from": 444.769,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 449.08
+    },
+    {
+      "content": "而不是这个工作流程的其他组件",
+      "from": 449.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 452.929
+    },
+    {
+      "content": "总结这段视频内容",
+      "from": 452.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 454.749
+    },
+    {
+      "content": "我发现养成查看追踪记录的习惯很有用",
+      "from": 454.749,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 459.009
+    },
+    {
+      "content": "在构建ENIC工作流程后",
+      "from": 459.009,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 460.85
+    },
+    {
+      "content": "请查看中间输出结果",
+      "from": 460.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 463.05
+    },
+    {
+      "content": "以了解每个步骤实际执行的情况",
+      "from": 463.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 465.69
+    },
+    {
+      "content": "这样可以更好地理解",
+      "from": 465.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 466.98
+    },
+    {
+      "content": "不同步骤的表现优劣情况",
+      "from": 466.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 470.02
+    },
+    {
+      "content": "通过电子表格进行更系统的错误分析",
+      "from": 470.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 474.16
+    },
+    {
+      "content": "可以帮助收集统计数据或统计哪些组件最常表现不佳",
+      "from": 474.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 479.34
+    },
+    {
+      "content": "通过观察哪些组件表现较差",
+      "from": 479.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 482.42
+    },
+    {
+      "content": "以及我对高效改进不同组件的想法",
+      "from": 482.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 487.76
+    },
+    {
+      "content": "这样就能确定优先处理哪个组件",
+      "from": 487.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 491.44
+    },
+    {
+      "content": "也许某个组件存在问题",
+      "from": 491.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 493.44
+    },
+    {
+      "content": "但我没有改进它的想法",
+      "from": 493.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 495.52
+    },
+    {
+      "content": "这可能意味着不需要优先处理",
+      "from": 495.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 498.78
+    },
+    {
+      "content": "但如果某个组件产生大量错误",
+      "from": 498.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 502.2
+    },
+    {
+      "content": "并且我有改进的方法",
+      "from": 502.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 504.1
+    },
+    {
+      "content": "这就成为优先处理该组件的理由",
+      "from": 504.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 507.64
+    },
+    {
+      "content": "我想强调错误分析是你非常有用的输出",
+      "from": 507.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 513.54
+    },
+    {
+      "content": "帮助你决定努力方向",
+      "from": 513.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 515.7
+    },
+    {
+      "content": "因为在复杂系统中有很多可以改进的地方",
+      "from": 515.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 520.32
+    },
+    {
+      "content": "很容易选择一个方向投入数周甚至数月",
+      "from": 520.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 524.58
+    },
+    {
+      "content": "最终发现并未提升整体系统性能",
+      "from": 524.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 529.96
+    },
+    {
+      "content": "通过错误分析决定努力方向",
+      "from": 529.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 533.2
+    },
+    {
+      "content": "实际上能极大提升效率",
+      "from": 533.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 537.42
+    },
+    {
+      "content": "在这段视频中",
+      "from": 537.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 538.18
+    },
+    {
+      "content": "我们以研究代理为例讲解了错误分析",
+      "from": 538.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 542.76
+    },
+    {
+      "content": "但我觉得错误分析是一个重要主题",
+      "from": 542.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 545.66
+    },
+    {
+      "content": "我想和你探讨更多示例",
+      "from": 545.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 548.44
+    },
+    {
+      "content": "那么我们进入下一视频",
+      "from": 548.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 550.12
+    },
+    {
+      "content": "继续探讨更多错误分析案例",
+      "from": 550.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 553.52
+    }
+  ]
+}
