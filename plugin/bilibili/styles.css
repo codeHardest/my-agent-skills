@@ -1,0 +1,114 @@
+/* Bilibili 双语字幕样式 */
+
+#bilibili-subtitle-container {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 320px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    z-index: 9999;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    resize: both;
+    overflow: auto;
+    min-width: 200px;
+    min-height: 200px;
+    box-sizing: border-box;
+}
+
+/* 拖拽把手 */
+#bilibili-subtitle-container::before {
+    content: "⋮⋮";
+    display: block;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+    padding: 4px;
+    cursor: move;
+    background: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    user-select: none;
+}
+
+#bilibili-subtitle-container .subtitle-list {
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    padding: 10px;
+    height: calc(100% - 30px);
+    box-sizing: border-box;
+}
+
+#bilibili-subtitle-container .subtitle-item {
+    padding: 8px 12px;
+    margin: 2px 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.7);
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    cursor: default;
+}
+
+#bilibili-subtitle-container .subtitle-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#bilibili-subtitle-container .subtitle-item.active {
+    color: #fff;
+    font-weight: 500;
+    background-color: rgba(0, 180, 255, 0.4);
+    font-size: 15px;
+}
+
+#bilibili-subtitle-container .no-subtitle {
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    font-size: 14px;
+}
+
+/* 滚动条样式 */
+#bilibili-subtitle-container .subtitle-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+#bilibili-subtitle-container .subtitle-list::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+
+#bilibili-subtitle-container .subtitle-list::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+}
+
+#bilibili-subtitle-container .subtitle-list::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+/* 响应式调整 */
+@media (max-width: 1200px) {
+    #bilibili-subtitle-container {
+        width: 280px;
+        right: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bilibili-subtitle-container {
+        width: 200px;
+        height: 400px;
+        right: 5px;
+    }
+
+    #bilibili-subtitle-container .subtitle-item {
+        font-size: 12px;
+        padding: 6px 8px;
+    }
+
+    #bilibili-subtitle-container .subtitle-item.active {
+        font-size: 13px;
+    }
+}

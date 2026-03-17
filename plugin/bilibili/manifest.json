@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Bilibili 双语字幕",
+  "version": "1.0",
+  "description": "在Bilibili视频右侧显示30行滚动字幕框，支持中英双语",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.bilibili.com/video/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "host_permissions": [
+    "*://*.bilibili.com/*"
+  ]
+}

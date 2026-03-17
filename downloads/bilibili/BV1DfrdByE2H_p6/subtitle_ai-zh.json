@@ -1,0 +1,1468 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "人们和企业做了很多事情",
+      "from": 0.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 4.21
+    },
+    {
+      "content": "如何将我们所做的这些有用的事情",
+      "from": 4.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 6.87
+    },
+    {
+      "content": "分解成离散步骤供enworkflow执行",
+      "from": 6.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 11.82
+    },
+    {
+      "content": "让我们看看",
+      "from": 11.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 12.76
+    },
+    {
+      "content": "以构建研究代理为例",
+      "from": 12.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 15.72
+    },
+    {
+      "content": "如果你想让AI系统撰写某个主题的论文",
+      "from": 15.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 19.56
+    },
+    {
+      "content": "你可以直接提示它生成输出结果",
+      "from": 19.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 24.09
+    },
+    {
+      "content": "但若处理需要深度研究的主题时",
+      "from": 24.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 28.55
+    },
+    {
+      "content": "可能会发现输出仅涵盖表面内容",
+      "from": 28.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 32.29
+    },
+    {
+      "content": "或者只包含显而易见的事实",
+      "from": 32.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 34.56
+    },
+    {
+      "content": "但未能深入探讨你希望的层面",
+      "from": 34.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 38.64
+    },
+    {
+      "content": "在这种情况下",
+      "from": 38.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 39.4
+    },
+    {
+      "content": "你可能会反思作为人类",
+      "from": 39.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 42.76
+    },
+    {
+      "content": "我们如何撰写特定主题的论文",
+      "from": 42.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 45.0
+    },
+    {
+      "content": "我们只需坐下开始写作",
+      "from": 45.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 46.84
+    },
+    {
+      "content": "还是需要分步骤进行",
+      "from": 46.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 48.54
+    },
+    {
+      "content": "例如先撰写论文大纲",
+      "from": 48.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 50.7
+    },
+    {
+      "content": "然后进行网络搜索",
+      "from": 50.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 51.9
+    },
+    {
+      "content": "然后根据网络搜索结果",
+      "from": 51.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 54.14
+    },
+    {
+      "content": "撰写论文",
+      "from": 54.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 55.18
+    },
+    {
+      "content": "当我拆解任务为步骤时",
+      "from": 55.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 58.8
+    },
+    {
+      "content": "我始终在问自己",
+      "from": 58.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 60.96
+    },
+    {
+      "content": "如果观察这些步骤",
+      "from": 60.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 62.0
+    },
+    {
+      "content": "每个步骤（一、二、三）是否",
+      "from": 62.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 66.57
+    },
+    {
+      "content": "可以由语言模型处理",
+      "from": 66.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 69.05
+    },
+    {
+      "content": "或由简短代码完成",
+      "from": 69.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 71.259
+    },
+    {
+      "content": "或通过工具调用函数",
+      "from": 71.259,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 75.33
+    },
+    {
+      "content": "在这种情况下，我认为语言模型可能能生成不错的提纲",
+      "from": 75.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 79.59
+    },
+    {
+      "content": "对于我需要它协助分析的许多主题",
+      "from": 79.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 81.48
+    },
+    {
+      "content": "在第一步",
+      "from": 81.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 82.12
+    },
+    {
+      "content": "我知道如何用语言模型生成搜索关键词",
+      "from": 82.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 87.3
+    },
+    {
+      "content": "因此第二步也是可行的",
+      "from": 87.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 89.48
+    },
+    {
+      "content": "然后基于网络搜索结果",
+      "from": 89.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 91.18
+    },
+    {
+      "content": "我认为大语言模型可以输入搜索结果并撰写论文",
+      "from": 91.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 94.52
+    },
+    {
+      "content": "这将是撰写论文的合理初步工作流",
+      "from": 94.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 99.49
+    },
+    {
+      "content": "比直接生成更深入",
+      "from": 99.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 102.789
+    },
+    {
+      "content": "但当我实施此工作流并查看结果时",
+      "from": 102.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 107.04
+    },
+    {
+      "content": "可能会发现结果仍不够理想",
+      "from": 107.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 109.68
+    },
+    {
+      "content": "思考深度仍不足",
+      "from": 109.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 111.94
+    },
+    {
+      "content": "论文可能显得有些零散",
+      "from": 111.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 114.52
+    },
+    {
+      "content": "实际上，当我曾构建过使用此工作流的研究代理时",
+      "from": 114.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 118.28
+    },
+    {
+      "content": "但当我阅读输出结果",
+      "from": 118.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 119.42
+    },
+    {
+      "content": "感觉有些零散",
+      "from": 119.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 120.72
+    },
+    {
+      "content": "文章开头与中间部分不完全连贯",
+      "from": 120.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 124.38
+    },
+    {
+      "content": "与整体内容不完全一致",
+      "from": 124.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 126.87
+    },
+    {
+      "content": "此时你可能需要反思如何调整工作流",
+      "from": 126.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 131.35
+    },
+    {
+      "content": "作为人类发现论文略显零散时",
+      "from": 131.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 134.78
+    },
+    {
+      "content": "可以将第三步进一步拆解",
+      "from": 134.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 139.8
+    },
+    {
+      "content": "将论文撰写分解为更多步骤",
+      "from": 139.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 142.709
+    },
+    {
+      "content": "因此不再一次性完成整篇论文撰写",
+      "from": 142.709,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 145.889
+    },
+    {
+      "content": "你可能拥有另一种方式",
+      "from": 145.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 147.169
+    },
+    {
+      "content": "先写出初稿",
+      "from": 147.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 148.37
+    },
+    {
+      "content": "然后考虑哪些部分需要修改",
+      "from": 148.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 150.75
+    },
+    {
+      "content": "接着修订以推进",
+      "from": 150.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 152.19
+    },
+    {
+      "content": "这就是我作为人类可能处理的方式",
+      "from": 152.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 155.63
+    },
+    {
+      "content": "不仅仅在第一次尝试就写出最终论文",
+      "from": 155.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 159.45
+    },
+    {
+      "content": "而是先写初稿然后通读",
+      "from": 159.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 161.8
+    },
+    {
+      "content": "这也是相当有效的一个步骤",
+      "from": 161.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 165.6
+    },
+    {
+      "content": "然后基于我对自己的论文的批判",
+      "from": 165.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 168.02
+    },
+    {
+      "content": "我会修订草稿",
+      "from": 168.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 169.5
+    },
+    {
+      "content": "所以回顾开始时我直接生成",
+      "from": 169.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 172.98
+    },
+    {
+      "content": "仅一步完成",
+      "from": 172.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 174.38
+    },
+    {
+      "content": "但觉得还不够好",
+      "from": 174.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 175.92
+    },
+    {
+      "content": "于是分解为三个步骤",
+      "from": 175.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 178.1
+    },
+    {
+      "content": "可能仍觉得不够完善",
+      "from": 178.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 180.1
+    },
+    {
+      "content": "将其中一个步骤进一步拆分",
+      "from": 180.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 183.05
+    },
+    {
+      "content": "或分解为三个更细的步骤",
+      "from": 183.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 185.73
+    },
+    {
+      "content": "形成更复杂的",
+      "from": 185.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 187.88
+    },
+    {
+      "content": "更丰富的论文生成流程",
+      "from": 187.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 191.22
+    },
+    {
+      "content": "根据对这一流程结果的满意度",
+      "from": 191.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 195.29
+    },
+    {
+      "content": "甚至可能进一步调整生成流程",
+      "from": 195.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 199.75
+    },
+    {
+      "content": "让我们看第二个分解复杂任务的例子",
+      "from": 199.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 205.829
+    },
+    {
+      "content": "以处理基本客户订单咨询为例",
+      "from": 205.829,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 210.149
+    },
+    {
+      "content": "人类客服机构可能执行的第一步",
+      "from": 210.149,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 213.249
+    },
+    {
+      "content": "可能是提取关键信息",
+      "from": 213.249,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 216.06
+    },
+    {
+      "content": "例如发件人是谁",
+      "from": 216.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 218.0
+    },
+    {
+      "content": "他们订购了什么",
+      "from": 218.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 219.02
+    },
+    {
+      "content": "以及订单号是什么",
+      "from": 219.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 220.68
+    },
+    {
+      "content": "这些都可以处理",
+      "from": 220.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 223.49
+    },
+    {
+      "content": "我可以直接这样做",
+      "from": 223.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 225.43
+    },
+    {
+      "content": "第二步是查找相关客户记录",
+      "from": 225.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 229.01
+    },
+    {
+      "content": "编写并生成相关数据库查询",
+      "from": 229.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 232.72
+    },
+    {
+      "content": "调取客户的订单信息",
+      "from": 232.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 235.16
+    },
+    {
+      "content": "以及发货时间等",
+      "from": 235.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 236.5
+    },
+    {
+      "content": "我认为在具备函数调用能力的LM中",
+      "from": 236.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 239.98
+    },
+    {
+      "content": "执行查询",
+      "from": 239.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 241.329
+    },
+    {
+      "content": "应能直接调用订单数据库",
+      "from": 241.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 244.409
+    },
+    {
+      "content": "最后在获取客户记录或订单记录后",
+      "from": 244.409,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 248.109
+    },
+    {
+      "content": "我可能撰写并回复客户",
+      "from": 248.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 251.37
+    },
+    {
+      "content": "结合我们获取的信息",
+      "from": 251.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 253.31
+    },
+    {
+      "content": "第三步也能用LM完成",
+      "from": 253.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 256.0
+    },
+    {
+      "content": "如果提供调用API发送邮件的选项",
+      "from": 256.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 259.5
+    },
+    {
+      "content": "这就是分解客户邮件回复任务的例子",
+      "from": 259.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 264.65
+    },
+    {
+      "content": "拆分为三个独立步骤",
+      "from": 264.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 267.39
+    },
+    {
+      "content": "我可以逐一检查这些步骤",
+      "from": 267.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 269.49
+    },
+    {
+      "content": "我认为具备函数调用能力的LM",
+      "from": 269.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 273.26
+    },
+    {
+      "content": "能查询数据库或发送邮件",
+      "from": 273.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 275.26
+    },
+    {
+      "content": "应能完成这些操作",
+      "from": 275.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 276.5
+    },
+    {
+      "content": "最后一个发票处理示例",
+      "from": 276.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 279.72
+    },
+    {
+      "content": "PDF发票转换为文本后",
+      "from": 279.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 282.74
+    },
+    {
+      "content": "第一步是提取所需信息",
+      "from": 282.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 285.86
+    },
+    {
+      "content": "账单名称",
+      "from": 285.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 286.92
+    },
+    {
+      "content": "地址",
+      "from": 286.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 287.7
+    },
+    {
+      "content": "到期日期",
+      "from": 287.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 288.48
+    },
+    {
+      "content": "应付金额等等",
+      "from": 288.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 289.8
+    },
+    {
+      "content": "现在我应该能够完成这个操作",
+      "from": 289.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 291.44
+    },
+    {
+      "content": "然后如果我想检查信息是否已提取",
+      "from": 291.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 295.54
+    },
+    {
+      "content": "并保存到新数据库条目中",
+      "from": 295.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 297.7
+    },
+    {
+      "content": "我认为语言模型应该能帮助我调用函数",
+      "from": 297.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 301.3
+    },
+    {
+      "content": "更新数据库记录",
+      "from": 301.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 302.78
+    },
+    {
+      "content": "因此要实现这个功能",
+      "from": 302.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 304.12
+    },
+    {
+      "content": "我们实现一个工作流来执行这两个步骤",
+      "from": 304.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 308.84
+    },
+    {
+      "content": "在构建工作流时",
+      "from": 308.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 310.76
+    },
+    {
+      "content": "我把自己视为拥有多个构建模块",
+      "from": 310.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 314.24
+    },
+    {
+      "content": "一个重要构建模块是大型语言模型",
+      "from": 314.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 317.44
+    },
+    {
+      "content": "或者可能是大型多模态模型",
+      "from": 317.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 319.2
+    },
+    {
+      "content": "如果我想处理图像或音频",
+      "from": 319.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 322.36
+    },
+    {
+      "content": "并且擅长生成文本",
+      "from": 322.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 324.4
+    },
+    {
+      "content": "决定调用什么",
+      "from": 324.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 325.8
+    },
+    {
+      "content": "可能提取高度专业任务的信息",
+      "from": 325.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 329.76
+    },
+    {
+      "content": "我可能还会使用其他AI模型",
+      "from": 329.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 332.82
+    },
+    {
+      "content": "例如PDF转文本的AI模型",
+      "from": 332.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 336.36
+    },
+    {
+      "content": "或文本转语音、图像分析模型",
+      "from": 336.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 339.06
+    },
+    {
+      "content": "除了AI模型",
+      "from": 339.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 340.8
+    },
+    {
+      "content": "我还拥有多个软件工具",
+      "from": 340.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 344.8
+    },
+    {
+      "content": "包括可调用的API进行语音搜索获取",
+      "from": 344.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 349.46
+    },
+    {
+      "content": "可能实时天气数据",
+      "from": 349.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 351.12
+    },
+    {
+      "content": "发送邮件",
+      "from": 351.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 352.2
+    },
+    {
+      "content": "查看日历等",
+      "from": 352.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 353.88
+    },
+    {
+      "content": "我还可能有信息检索工具",
+      "from": 353.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 357.56
+    },
+    {
+      "content": "从数据库提取数据",
+      "from": 357.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 359.66
+    },
+    {
+      "content": "或实现RAG检索",
+      "from": 359.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 362.28
+    },
+    {
+      "content": "增强生成",
+      "from": 362.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 363.22
+    },
+    {
+      "content": "可查询大型文本数据库并找到最相关文本",
+      "from": 363.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 366.8
+    },
+    {
+      "content": "或者我可能有代码执行工具",
+      "from": 366.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 370.04
+    },
+    {
+      "content": "这是一个让ELM编写代码的工具",
+      "from": 370.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 372.84
+    },
+    {
+      "content": "然后在电脑上运行代码完成各种任务",
+      "from": 372.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 376.959
+    },
+    {
+      "content": "如果这些工具对你来说有些陌生",
+      "from": 376.959,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 379.279
+    },
+    {
+      "content": "不用担心",
+      "from": 379.279,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 380.099
+    },
+    {
+      "content": "我们将在后续模块详细讲解重要工具",
+      "from": 380.099,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 385.08
+    },
+    {
+      "content": "但我认为构建新工作流时",
+      "from": 385.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 388.38
+    },
+    {
+      "content": "需要观察个人或企业的日常工作",
+      "from": 388.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 391.6
+    },
+    {
+      "content": "然后尝试用这些构建模块",
+      "from": 391.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 394.18
+    },
+    {
+      "content": "如何将这些模块组合起来",
+      "from": 394.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 396.58
+    },
+    {
+      "content": "以完成系统需要执行的任务",
+      "from": 396.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 401.2
+    },
+    {
+      "content": "这也是为什么了解可用构建模块",
+      "from": 401.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 405.59
+    },
+    {
+      "content": "希望到课程结束时你已有更清晰认知",
+      "from": 405.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 408.27
+    },
+    {
+      "content": "也将帮助你更好地规划",
+      "from": 408.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 409.66
+    },
+    {
+      "content": "通过结合这些构建模块",
+      "from": 409.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 413.58
+    },
+    {
+      "content": "构建出所需的ELM工作流",
+      "from": 413.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 415.38
+    },
+    {
+      "content": "因此，总结其中一个构建基因工作流的关键技能",
+      "from": 415.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 419.45
+    },
+    {
+      "content": "是观察某人可能执行的一系列操作",
+      "from": 419.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 422.39
+    },
+    {
+      "content": "并识别可以拆分为独立步骤的部分",
+      "from": 422.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 428.02
+    },
+    {
+      "content": "当我分析这些独立步骤时",
+      "from": 428.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 430.86
+    },
+    {
+      "content": "我始终在问自己一个问题",
+      "from": 430.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 433.06
+    },
+    {
+      "content": "这一步能否通过语言模型或现有工具实现",
+      "from": 433.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 438.27
+    },
+    {
+      "content": "比如API或我可调用的函数",
+      "from": 438.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 441.909
+    },
+    {
+      "content": "如果答案是否定的",
+      "from": 441.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 443.629
+    },
+    {
+      "content": "我通常会继续思考",
+      "from": 443.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 445.189
+    },
+    {
+      "content": "作为人类我会如何完成这一步",
+      "from": 445.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 447.7
+    },
+    {
+      "content": "是否可以进一步拆解或细化为更小的步骤",
+      "from": 447.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 452.83
+    },
+    {
+      "content": "这样",
+      "from": 452.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 453.31
+    },
+    {
+      "content": "可能更容易通过语言模型或软件工具实现",
+      "from": 453.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 456.37
+    },
+    {
+      "content": "所以语言模型或我拥有的软件工具",
+      "from": 456.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 460.26
+    },
+    {
+      "content": "希望这能让你初步了解任务分解思路",
+      "from": 460.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 465.16
+    },
+    {
+      "content": "如果你还没完全掌握",
+      "from": 465.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 467.94
+    },
+    {
+      "content": "不必担心",
+      "from": 467.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 468.86
+    },
+    {
+      "content": "本课程中我们将通过更多示例讲解",
+      "from": 468.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 470.94
+    },
+    {
+      "content": "课程结束时你会对此有更深入的理解",
+      "from": 470.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 474.57
+    },
+    {
+      "content": "但当你构建工作流时",
+      "from": 474.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 478.06
+    },
+    {
+      "content": "往往需要先构建初始任务",
+      "from": 478.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 480.86
+    },
+    {
+      "content": "创建初始基因型工作流",
+      "from": 480.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 483.31
+    },
+    {
+      "content": "然后多次迭代优化",
+      "from": 483.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 487.95
+    },
+    {
+      "content": "直到达到预期性能水平",
+      "from": 487.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 491.47
+    },
+    {
+      "content": "要推动这一改进过程",
+      "from": 491.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 493.53
+    },
+    {
+      "content": "我发现这对许多项目都很重要",
+      "from": 493.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 495.95
+    },
+    {
+      "content": "关键技能之一是学会评估工作流",
+      "from": 495.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 500.75
+    },
+    {
+      "content": "下一视频我们将讨论评估方法",
+      "from": 500.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 505.45
+    },
+    {
+      "content": "这将是构建工作流的核心组件",
+      "from": 505.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 508.19
+    },
+    {
+      "content": "同时持续优化你的工作流",
+      "from": 508.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 510.75
+    },
+    {
+      "content": "以达到所需性能",
+      "from": 510.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 512.61
+    },
+    {
+      "content": "让我们在下一视频讨论评估方法",
+      "from": 512.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 515.43
+    }
+  ]
+}
