@@ -1,0 +1,2316 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "你现在将设置系统中的第二个代理",
+      "from": 0.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 2.84
+    },
+    {
+      "content": "文件建议代理",
+      "from": 2.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 5.2
+    },
+    {
+      "content": "该代理将帮助你从结构化数据中选择相关文件以构建领域图",
+      "from": 5.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 11.46
+    },
+    {
+      "content": "让我们进入你正在处理的工作流程",
+      "from": 11.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 15.14
+    },
+    {
+      "content": "你正在第四课中构建结构化数据代理工作流程",
+      "from": 15.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 19.11
+    },
+    {
+      "content": "你在此第五课中创建了用户意图代理",
+      "from": 19.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 22.39
+    },
+    {
+      "content": "你将创建文件建议代理",
+      "from": 22.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 25.02
+    },
+    {
+      "content": "你将采用与第四课用户意图代理类似的模式",
+      "from": 25.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 29.18
+    },
+    {
+      "content": "该代理本身有一个主要目标",
+      "from": 29.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 31.99
+    },
+    {
+      "content": "创建此批准文件列表",
+      "from": 31.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 34.15
+    },
+    {
+      "content": "这将是代理自身需要查看的文件列表",
+      "from": 34.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 38.379
+    },
+    {
+      "content": "并决定这些文件对用户要完成的任务是否相关",
+      "from": 38.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 41.479
+    },
+    {
+      "content": "然后询问用户",
+      "from": 41.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 43.51
+    },
+    {
+      "content": "你批准这些吗",
+      "from": 43.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 44.65
+    },
+    {
+      "content": "如果同意，输出将是执行该操作的批准文件",
+      "from": 44.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 48.66
+    },
+    {
+      "content": "文件建议代理包含许多工具",
+      "from": 48.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 50.94
+    },
+    {
+      "content": "用于查看可用的文件",
+      "from": 50.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 53.41
+    },
+    {
+      "content": "这是所有文件的列表",
+      "from": 53.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 56.57
+    },
+    {
+      "content": "它可以对文件进行采样，进行少量读取",
+      "from": 56.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 60.51
+    },
+    {
+      "content": "它只能读取约一百行",
+      "from": 60.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 62.55
+    },
+    {
+      "content": "然后基于此使用该工具进行推荐",
+      "from": 62.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 66.11
+    },
+    {
+      "content": "称为设置建议文件工具",
+      "from": 66.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 67.97
+    },
+    {
+      "content": "如果用户批准",
+      "from": 67.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 69.71
+    },
+    {
+      "content": "将调用批准建议文件工具",
+      "from": 69.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 72.26
+    },
+    {
+      "content": "这将更新记忆",
+      "from": 72.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 73.68
+    },
+    {
+      "content": "以便在上下文中包含批准文件",
+      "from": 73.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 76.66
+    },
+    {
+      "content": "而不仅仅是建议文件",
+      "from": 76.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 79.18
+    },
+    {
+      "content": "所有这些",
+      "from": 79.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 79.86
+    },
+    {
+      "content": "当然受前一代理工作的指导",
+      "from": 79.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 83.18
+    },
+    {
+      "content": "所有操作均基于用户要完成的整体目标",
+      "from": 83.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 87.63
+    },
+    {
+      "content": "该代理从记忆中获取这些信息而非对话历史",
+      "from": 87.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 92.11
+    },
+    {
+      "content": "因此不依赖于该工具被调用前的对话记录",
+      "from": 92.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 96.37
+    },
+    {
+      "content": "或该代理被调用前的对话",
+      "from": 96.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 98.24
+    },
+    {
+      "content": "此代理将使用获取批准用户目标工具",
+      "from": 98.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 101.36
+    },
+    {
+      "content": "确定用户要完成的任务是什么",
+      "from": 101.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 104.72
+    },
+    {
+      "content": "然后查看文件",
+      "from": 104.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 106.92
+    },
+    {
+      "content": "确定哪些相关",
+      "from": 106.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 108.34
+    },
+    {
+      "content": "并向用户提出建议",
+      "from": 108.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 110.43
+    },
+    {
+      "content": "让我们看看代码",
+      "from": 110.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 112.03
+    },
+    {
+      "content": "你将从常规设置开始",
+      "from": 112.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 113.81
+    },
+    {
+      "content": "导入所需库和之前定义的辅助函数",
+      "from": 113.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 118.11
+    },
+    {
+      "content": "已有这些库",
+      "from": 119.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 120.98
+    },
+    {
+      "content": "我们将连接OpenAI并确保其正常运行",
+      "from": 120.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 125.24
+    },
+    {
+      "content": "哦",
+      "from": 127.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 127.44
+    },
+    {
+      "content": "今天非常稳定",
+      "from": 127.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 128.74
+    },
+    {
+      "content": "是的",
+      "from": 128.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 129.08
+    },
+    {
+      "content": "我准备好了",
+      "from": 129.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 129.58
+    },
+    {
+      "content": "如何帮助您",
+      "from": 129.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 131.52
+    },
+    {
+      "content": "你将开始构建代理自身的指令",
+      "from": 132.289,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 135.449
+    },
+    {
+      "content": "现在我们将逐步进行",
+      "from": 136.729,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 139.56
+    },
+    {
+      "content": "你想要定义代理的角色",
+      "from": 139.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 141.34
+    },
+    {
+      "content": "同时也要设定其目标",
+      "from": 141.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 142.81
+    },
+    {
+      "content": "对于负责建议相关文件的代理",
+      "from": 142.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 147.17
+    },
+    {
+      "content": "我们将称其为建设性批评者",
+      "from": 147.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 149.79
+    },
+    {
+      "content": "正在审查文件列表",
+      "from": 149.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 151.9
+    },
+    {
+      "content": "其目标是建议可用于构建知识图谱的相关文件",
+      "from": 151.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 158.22
+    },
+    {
+      "content": "然后你可以提供一些执行任务的提示",
+      "from": 158.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 162.2
+    },
+    {
+      "content": "特定的任务",
+      "from": 162.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 163.4
+    },
+    {
+      "content": "当然就是审查文件列表并查看其中",
+      "from": 163.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 167.34
+    },
+    {
+      "content": "哪些文件对基于已批准用户目标的描述中的图谱相关",
+      "from": 167.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 173.84
+    },
+    {
+      "content": "对于每个文件",
+      "from": 173.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 175.22
+    },
+    {
+      "content": "有一个名为样本文件的工具可用",
+      "from": 175.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 178.029
+    },
+    {
+      "content": "可以让代理实际查看该文件内容",
+      "from": 178.029,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 181.169
+    },
+    {
+      "content": "以确认文件是否包含对实现目标有用的信息",
+      "from": 181.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 185.92
+    },
+    {
+      "content": "我们正在提供",
+      "from": 185.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 187.0
+    },
+    {
+      "content": "同时提示它只需查看结构化数据文件",
+      "from": 187.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 189.76
+    },
+    {
+      "content": "如csv或json",
+      "from": 189.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 191.93
+    },
+    {
+      "content": "可以用思维链方向收尾",
+      "from": 191.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 195.21
+    },
+    {
+      "content": "此处的思维链包含两个部分",
+      "from": 195.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 197.87
+    },
+    {
+      "content": "首先是准备阶段",
+      "from": 197.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 200.41
+    },
+    {
+      "content": "先调用获取已批准用户目标工具",
+      "from": 200.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 204.44
+    },
+    {
+      "content": "从会话记忆中获取用户目标",
+      "from": 204.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 206.0
+    },
+    {
+      "content": "我们将调用该工具",
+      "from": 206.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 207.32
+    },
+    {
+      "content": "而非直接将信息传递到提示中",
+      "from": 207.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 210.02
+    },
+    {
+      "content": "这鼓励代理使用工具",
+      "from": 210.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 212.399
+    },
+    {
+      "content": "在获取这些信息后",
+      "from": 212.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 214.319
+    },
+    {
+      "content": "我们将提供思维链指令",
+      "from": 214.319,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 217.19
+    },
+    {
+      "content": "仔细重复这些步骤直到完成",
+      "from": 217.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 219.89
+    },
+    {
+      "content": "以下是代理需要遵循的步骤",
+      "from": 219.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 222.25
+    },
+    {
+      "content": "获取所有可用文件的列表",
+      "from": 222.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 224.579
+    },
+    {
+      "content": "然后针对该文件列表",
+      "from": 224.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 226.399
+    },
+    {
+      "content": "评估每个文件的相关性",
+      "from": 226.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 229.85
+    },
+    {
+      "content": "然后使用建议文件工具将建议文件记录到记忆中",
+      "from": 229.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 235.41
+    },
+    {
+      "content": "此步骤",
+      "from": 235.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 236.39
+    },
+    {
+      "content": "第三步",
+      "from": 236.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 237.11
+    },
+    {
+      "content": "鼓励八和二",
+      "from": 237.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 238.47
+    },
+    {
+      "content": "使用获取建议文件工具获取建议文件列表非常重要",
+      "from": 238.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 243.86
+    },
+    {
+      "content": "代理可能在自身推理和对话历史中意识到",
+      "from": 243.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 249.36
+    },
+    {
+      "content": "文件列表可能是什么以及它认为的建议文件",
+      "from": 249.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 253.08
+    },
+    {
+      "content": "但与其依赖这一点",
+      "from": 253.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 254.82
+    },
+    {
+      "content": "我们希望代理仅使用已保存到建议文件的记忆",
+      "from": 254.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 260.21
+    },
+    {
+      "content": "此处的记忆",
+      "from": 260.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 261.57
+    },
+    {
+      "content": "获取建议文件工具会访问该记忆",
+      "from": 261.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 264.63
+    },
+    {
+      "content": "完成此循环实际上促使模型专注于记忆内容",
+      "from": 264.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 269.21
+    },
+    {
+      "content": "而非对话历史中的记忆",
+      "from": 269.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 272.73
+    },
+    {
+      "content": "然后",
+      "from": 272.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 273.27
+    },
+    {
+      "content": "从工具调用返回的结果是",
+      "from": 273.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 276.15
+    },
+    {
+      "content": "将呈现给用户供其审批",
+      "from": 276.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 278.53
+    },
+    {
+      "content": "如果用户批准",
+      "from": 278.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 279.93
+    },
+    {
+      "content": "则继续说这很棒",
+      "from": 279.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 282.43
+    },
+    {
+      "content": "通常建议的文件",
+      "from": 282.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 284.07
+    },
+    {
+      "content": "但如果用户有反馈",
+      "from": 284.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 285.81
+    },
+    {
+      "content": "返回步骤一并根据反馈重复流程",
+      "from": 285.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 290.65
+    },
+    {
+      "content": "现在可以定义代理使用的工具",
+      "from": 291.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 294.01
+    },
+    {
+      "content": "第一个工具是获取已批准用户目标",
+      "from": 295.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 298.13
+    },
+    {
+      "content": "此功能在提供的工具模块中定义",
+      "from": 298.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 302.07
+    },
+    {
+      "content": "它仅返回存储在状态中的已批准用户目标",
+      "from": 302.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 306.1
+    },
+    {
+      "content": "我们还将导入一个小助手函数",
+      "from": 306.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 308.6
+    },
+    {
+      "content": "这些即将定义的工具",
+      "from": 308.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 310.84
+    },
+    {
+      "content": "将使用这些工具与文件系统交互",
+      "from": 310.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 314.36
+    },
+    {
+      "content": "但并非整个文件系统",
+      "from": 314.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 316.14
+    },
+    {
+      "content": "它们仅限于查看可导入的文件",
+      "from": 316.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 319.86
+    },
+    {
+      "content": "新四J本身可以访问导入目录",
+      "from": 319.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 324.72
+    },
+    {
+      "content": "这个助手将告知导入目录的位置",
+      "from": 324.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 328.08
+    },
+    {
+      "content": "所有工具均可使用该导入目录确定可用文件",
+      "from": 328.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 332.12
+    },
+    {
+      "content": "并在这些文件中选择需要使用的",
+      "from": 332.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 334.83
+    },
+    {
+      "content": "然后定义列出导入文件的工具",
+      "from": 335.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 337.99
+    },
+    {
+      "content": "并将结果保存到此键",
+      "from": 337.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 339.69
+    },
+    {
+      "content": "所有可用文件",
+      "from": 339.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 341.31
+    },
+    {
+      "content": "工具调用需要工具上下文",
+      "from": 341.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 343.43
+    },
+    {
+      "content": "因为我们将使用一些辅助工具",
+      "from": 343.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 346.35
+    },
+    {
+      "content": "实际获取磁盘上的目录",
+      "from": 346.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 348.31
+    },
+    {
+      "content": "这些文件存储的位置",
+      "from": 348.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 349.65
+    },
+    {
+      "content": "因此列出的文件仅为相对路径而非绝对路径",
+      "from": 349.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 355.14
+    },
+    {
+      "content": "在实现部分可以看到",
+      "from": 355.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 356.84
+    },
+    {
+      "content": "我们将获取此辅助函数",
+      "from": 356.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 358.48
+    },
+    {
+      "content": "获取四J导入器",
+      "from": 358.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 360.4
+    },
+    {
+      "content": "这是四J可访问的数据导入目录",
+      "from": 360.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 364.51
+    },
+    {
+      "content": "数据无法访问整个磁盘空间",
+      "from": 364.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 366.51
+    },
+    {
+      "content": "因此不能使用绝对路径",
+      "from": 366.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 367.91
+    },
+    {
+      "content": "必须基于此导入目录",
+      "from": 367.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 370.37
+    },
+    {
+      "content": "在此处获取该目录",
+      "from": 370.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 371.93
+    },
+    {
+      "content": "然后列出所有文件",
+      "from": 371.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 374.07
+    },
+    {
+      "content": "这只是一个使用导入目录的字符串",
+      "from": 374.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 377.24
+    },
+    {
+      "content": "我们继续对目录进行全局列表",
+      "from": 377.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 380.32
+    },
+    {
+      "content": "从该目录递归向下",
+      "from": 380.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 382.56
+    },
+    {
+      "content": "并通过列表推导生成相对文件列表",
+      "from": 382.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 387.24
+    },
+    {
+      "content": "将结果保存到当前状态的可用文件",
+      "from": 387.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 391.04
+    },
+    {
+      "content": "然后将此作为工具调用结果返回",
+      "from": 391.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 394.28
+    },
+    {
+      "content": "接下来定义样本文件工具调用",
+      "from": 394.699,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 397.579
+    },
+    {
+      "content": "样本文件工具同样使用工具上下文",
+      "from": 397.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 401.95
+    },
+    {
+      "content": "并使用文件路径",
+      "from": 402.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 404.65
+    },
+    {
+      "content": "这是目标文件的相对路径",
+      "from": 404.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 406.91
+    },
+    {
+      "content": "语言模型决定要查看的文件",
+      "from": 406.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 412.3
+    },
+    {
+      "content": "可能调用操作系统执行类似cat的操作",
+      "from": 412.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 416.36
+    },
+    {
+      "content": "我们将全部用Python实现",
+      "from": 416.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 418.1
+    },
+    {
+      "content": "此工具调用结果仅为文本前100行",
+      "from": 418.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 422.02
+    },
+    {
+      "content": "假设为文本文件",
+      "from": 422.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 424.049
+    },
+    {
+      "content": "获取100行文本",
+      "from": 424.049,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 425.489
+    },
+    {
+      "content": "返回该结果",
+      "from": 425.489,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 426.009
+    },
+    {
+      "content": "现在这个工具调用的值",
+      "from": 426.009,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 428.929
+    },
+    {
+      "content": "这里我们设置了几个防护措施",
+      "from": 428.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 430.77
+    },
+    {
+      "content": "因为语言模型可能生成路径",
+      "from": 430.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 432.97
+    },
+    {
+      "content": "它可以生成各种不同的内容",
+      "from": 432.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 434.51
+    },
+    {
+      "content": "当它调用这个功能时",
+      "from": 434.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 435.53
+    },
+    {
+      "content": "我们将对传入的文件路径进行合理性检查",
+      "from": 435.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 439.12
+    },
+    {
+      "content": "确保它不是绝对路径",
+      "from": 439.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 441.02
+    },
+    {
+      "content": "如果它是绝对路径",
+      "from": 441.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 442.5
+    },
+    {
+      "content": "我们将返回一个错误",
+      "from": 442.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 443.78
+    },
+    {
+      "content": "因为它必须是相对文件",
+      "from": 443.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 445.97
+    },
+    {
+      "content": "并且预期这些文件相对于导入目录",
+      "from": 445.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 448.94
+    },
+    {
+      "content": "最后这部分",
+      "from": 448.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 450.3
+    },
+    {
+      "content": "我们也鼓励代理记住传入的文件路径",
+      "from": 450.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 455.16
+    },
+    {
+      "content": "应出现在可用文件列表中",
+      "from": 455.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 457.99
+    },
+    {
+      "content": "所以它应该实际检查这一点",
+      "from": 457.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 460.19
+    },
+    {
+      "content": "基于导入目录",
+      "from": 460.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 461.67
+    },
+    {
+      "content": "我们获取该文件的完整路径",
+      "from": 461.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 463.57
+    },
+    {
+      "content": "再次确认文件存在",
+      "from": 463.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 465.71
+    },
+    {
+      "content": "返回有用的错误信息",
+      "from": 465.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 466.95
+    },
+    {
+      "content": "如果文件不存在",
+      "from": 466.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 467.93
+    },
+    {
+      "content": "以便各方采取纠正措施",
+      "from": 467.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 470.919
+    },
+    {
+      "content": "如果文件存在",
+      "from": 471.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 472.559
+    },
+    {
+      "content": "我们将读取前100行并保存到内容中",
+      "from": 472.559,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 476.199
+    },
+    {
+      "content": "作为成功的工具调用返回",
+      "from": 476.199,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 479.05
+    },
+    {
+      "content": "如果发生任何错误",
+      "from": 479.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 480.75
+    },
+    {
+      "content": "我们将传递该错误作为对黄色语言模型的响应",
+      "from": 480.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 484.77
+    },
+    {
+      "content": "代理可以决定是否能处理",
+      "from": 484.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 487.61
+    },
+    {
+      "content": "或只需向用户报错",
+      "from": 487.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 490.99
+    },
+    {
+      "content": "你已赋予代理列出所有文件的能力",
+      "from": 490.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 493.45
+    },
+    {
+      "content": "查看这些文件",
+      "from": 493.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 494.87
+    },
+    {
+      "content": "现在它能基于这些文件和内容提出建议",
+      "from": 494.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 499.06
+    },
+    {
+      "content": "但代理认为用户需要的相关文件",
+      "from": 499.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 503.229
+    },
+    {
+      "content": "我们有一组工具实现此功能",
+      "from": 503.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 505.389
+    },
+    {
+      "content": "第一个是设置建议文件列表",
+      "from": 505.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 507.909
+    },
+    {
+      "content": "接受应为文件路径的字符串列表",
+      "from": 507.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 510.9
+    },
+    {
+      "content": "你可以在此添加额外检查",
+      "from": 510.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 512.86
+    },
+    {
+      "content": "确保传入的列表都是实际存在的文件",
+      "from": 512.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 518.33
+    },
+    {
+      "content": "我们在此稍作信任处理",
+      "from": 518.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 519.75
+    },
+    {
+      "content": "这个工具存在一定的冒险性",
+      "from": 519.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 521.45
+    },
+    {
+      "content": "当然可以改进",
+      "from": 521.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 522.77
+    },
+    {
+      "content": "你可以添加此检查",
+      "from": 522.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 524.5
+    },
+    {
+      "content": "另一方面",
+      "from": 524.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 525.82
+    },
+    {
+      "content": "我们将有一个获取建议文件的工具",
+      "from": 525.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 529.52
+    },
+    {
+      "content": "查看已建议的文件列表",
+      "from": 529.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 532.58
+    },
+    {
+      "content": "当代理成功确定相关文件后",
+      "from": 533.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 539.37
+    },
+    {
+      "content": "并向用户提出建议",
+      "from": 539.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 541.03
+    },
+    {
+      "content": "如果用户已批准",
+      "from": 541.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 542.21
+    },
+    {
+      "content": "当然",
+      "from": 542.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 542.77
+    },
+    {
+      "content": "将调用批准建议文件工具进行状态转移",
+      "from": 542.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 547.26
+    },
+    {
+      "content": "将建议文件状态转为已批准",
+      "from": 547.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 550.15
+    },
+    {
+      "content": "正如上一课中",
+      "from": 550.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 551.83
+    },
+    {
+      "content": "在调用此功能前我们将再次确认",
+      "from": 551.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 555.36
+    },
+    {
+      "content": "确保建议的文件确实存在于状态中",
+      "from": 555.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 558.16
+    },
+    {
+      "content": "若未建议则需让代理先查明情况再调用此工具",
+      "from": 558.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 563.81
+    },
+    {
+      "content": "如果已设置",
+      "from": 563.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 564.93
+    },
+    {
+      "content": "我将复制建议文件到批准文件并返回结果",
+      "from": 564.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 569.13
+    },
+    {
+      "content": "作为此工具调用的成功响应",
+      "from": 569.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 571.61
+    },
+    {
+      "content": "然后你可以将所有工具定义",
+      "from": 571.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 574.25
+    },
+    {
+      "content": "整理成列表",
+      "from": 574.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 575.79
+    },
+    {
+      "content": "并保存为文件建议代理工具",
+      "from": 575.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 578.57
+    },
+    {
+      "content": "我们将用于代理定义",
+      "from": 578.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 580.19
+    },
+    {
+      "content": "稍后即会看到",
+      "from": 580.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 581.39
+    },
+    {
+      "content": "现在你可以定义你的代理",
+      "from": 581.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 583.67
+    },
+    {
+      "content": "代理定义非常直接",
+      "from": 583.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 585.73
+    },
+    {
+      "content": "我们已完成了工具设置和提示定义",
+      "from": 585.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 589.03
+    },
+    {
+      "content": "只需将这些内容传入并创建代理",
+      "from": 589.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 592.19
+    },
+    {
+      "content": "拥有代理后",
+      "from": 593.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 594.819
+    },
+    {
+      "content": "现在可以与代理交互",
+      "from": 594.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 597.26
+    },
+    {
+      "content": "导入",
+      "from": 597.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 597.86
+    },
+    {
+      "content": "我们之前定义的make agent color助手",
+      "from": 597.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 600.44
+    },
+    {
+      "content": "然后使用该助手创建调用者",
+      "from": 600.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 603.7
+    },
+    {
+      "content": "这里只有一个细微不同之处",
+      "from": 603.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 606.84
+    },
+    {
+      "content": "当我们使用make agent color时",
+      "from": 606.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 608.74
+    },
+    {
+      "content": "只需直接调用代理",
+      "from": 608.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 610.94
+    },
+    {
+      "content": "我们想要执行",
+      "from": 610.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 612.37
+    },
+    {
+      "content": "注意这里我们用批准的用户目标初始化状态",
+      "from": 612.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 617.75
+    },
+    {
+      "content": "正如之前所说",
+      "from": 617.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 618.31
+    },
+    {
+      "content": "在工作流程开始时",
+      "from": 618.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 619.71
+    },
+    {
+      "content": "批准的用户目标",
+      "from": 619.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 620.87
+    },
+    {
+      "content": "是所有代理的总体方向",
+      "from": 620.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 623.39
+    },
+    {
+      "content": "以及它们要完成的任务",
+      "from": 623.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 624.85
+    },
+    {
+      "content": "因此在最终生产系统和多代理系统中必须设置此内容",
+      "from": 624.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 630.55
+    },
+    {
+      "content": "到此工作流程阶段时",
+      "from": 630.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 632.91
+    },
+    {
+      "content": "状态中已包含用户目标",
+      "from": 632.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 635.49
+    },
+    {
+      "content": "因为我们已完成了前期工作流程",
+      "from": 635.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 638.0
+    },
+    {
+      "content": "而此处尚未经历该阶段",
+      "from": 638.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 640.42
+    },
+    {
+      "content": "通过设置初始状态模拟此过程",
+      "from": 640.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 642.64
+    },
+    {
+      "content": "如同已批准一个需要进行供应链分析的用户目标",
+      "from": 642.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 648.13
+    },
+    {
+      "content": "描述涉及制造产品的多层次物料清单",
+      "from": 648.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 653.47
+    },
+    {
+      "content": "然后可以运行简短对话",
+      "from": 653.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 656.27
+    },
+    {
+      "content": "用户询问可用文件用于导入",
+      "from": 656.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 659.45
+    },
+    {
+      "content": "文件建议代理将执行所有处理",
+      "from": 659.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 663.29
+    },
+    {
+      "content": "确定可用文件及相关文件",
+      "from": 663.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 667.02
+    },
+    {
+      "content": "最终可用文件列表应包含目录中所有文件",
+      "from": 667.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 671.64
+    },
+    {
+      "content": "建议文件是其中子集",
+      "from": 671.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 673.86
+    },
+    {
+      "content": "希望仅为CSV文件",
+      "from": 673.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 676.12
+    },
+    {
+      "content": "这可能需要几秒钟处理",
+      "from": 676.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 678.42
+    },
+    {
+      "content": "因为语言模型",
+      "from": 678.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 679.92
+    },
+    {
+      "content": "当然",
+      "from": 679.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 680.24
+    },
+    {
+      "content": "正在分析所有找到的文件以判断相关性",
+      "from": 680.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 684.42
+    },
+    {
+      "content": "我们可以看到这个响应做得相当不错",
+      "from": 684.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 687.98
+    },
+    {
+      "content": "它已经识别出这些装配件的csv文件",
+      "from": 687.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 691.3
+    },
+    {
+      "content": "一些组件",
+      "from": 691.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 692.18
+    },
+    {
+      "content": "从零件到供应商的映射",
+      "from": 692.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 694.78
+    },
+    {
+      "content": "一些产品本身",
+      "from": 694.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 696.14
+    },
+    {
+      "content": "供应商本身",
+      "from": 696.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 697.24
+    },
+    {
+      "content": "还有一些完美的零件",
+      "from": 697.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 700.14
+    },
+    {
+      "content": "如果查看可用文件",
+      "from": 700.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 701.73
+    },
+    {
+      "content": "有很多额外文件",
+      "from": 701.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 703.09
+    },
+    {
+      "content": "特别是所有这些markdown文件",
+      "from": 703.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 705.15
+    },
+    {
+      "content": "它已经忽略了这些",
+      "from": 705.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 706.31
+    },
+    {
+      "content": "并正确建议了这些装配文件",
+      "from": 706.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 709.33
+    },
+    {
+      "content": "组件文件",
+      "from": 709.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 710.21
+    },
+    {
+      "content": "所有的csv文件",
+      "from": 710.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 711.49
+    },
+    {
+      "content": "太棒了",
+      "from": 711.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 712.83
+    },
+    {
+      "content": "由于代理提出了这些优秀建议",
+      "from": 713.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 716.35
+    },
+    {
+      "content": "你可以继续向代理发送新消息",
+      "from": 716.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 718.79
+    },
+    {
+      "content": "只需说同意",
+      "from": 718.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 719.67
+    },
+    {
+      "content": "我们来做吧",
+      "from": 719.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 720.55
+    },
+    {
+      "content": "可以重新表述这句话",
+      "from": 720.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 721.85
+    },
+    {
+      "content": "或许根据代理的回应",
+      "from": 721.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 724.09
+    },
+    {
+      "content": "这可能不是批准的好方法",
+      "from": 724.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 725.87
+    },
+    {
+      "content": "让我们试试这个",
+      "from": 725.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 727.17
+    },
+    {
+      "content": "代理对此非常满意",
+      "from": 727.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 729.839
+    },
+    {
+      "content": "应该调用工具以批准这些文件",
+      "from": 730.319,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 733.599
+    },
+    {
+      "content": "从会话状态可见，已批准文件与之前一致",
+      "from": 733.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 737.839
+    },
+    {
+      "content": "建议文件成功通过",
+      "from": 737.839,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 740.64
+    },
+    {
+      "content": "你现在已构建了两个代理",
+      "from": 740.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 742.72
+    },
+    {
+      "content": "构建结构化数据知识图谱的流程",
+      "from": 742.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 746.339
+    },
+    {
+      "content": "第一个确定用户意图",
+      "from": 746.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 748.919
+    },
+    {
+      "content": "下一个基于用户意图",
+      "from": 748.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 750.959
+    },
+    {
+      "content": "寻找可用的数据文件",
+      "from": 750.959,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 753.159
+    },
+    {
+      "content": "支持用户意图的文件",
+      "from": 753.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 755.42
+    },
+    {
+      "content": "在下一课中",
+      "from": 755.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 756.32
+    },
+    {
+      "content": "你将进行下一步操作",
+      "from": 756.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 757.42
+    },
+    {
+      "content": "在给定用户意图的情况下",
+      "from": 757.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 759.4
+    },
+    {
+      "content": "文件已可用",
+      "from": 759.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 760.64
+    },
+    {
+      "content": "知识图谱可能是什么样子",
+      "from": 760.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 762.92
+    }
+  ]
+}

@@ -1,0 +1,3196 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "你现在可以开始定义系统中的第一个代理",
+      "from": 0.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 3.22
+    },
+    {
+      "content": "用户意图代理",
+      "from": 3.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 5.18
+    },
+    {
+      "content": "其主要目标是帮助你构思可以构建的知识图谱类型",
+      "from": 5.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 10.3
+    },
+    {
+      "content": "以及你希望从图中回答的问题",
+      "from": 10.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 13.59
+    },
+    {
+      "content": "让我们开始编码",
+      "from": 13.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 15.29
+    },
+    {
+      "content": "回想一下我们在第二课中看到的示意图",
+      "from": 15.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 18.27
+    },
+    {
+      "content": "该图展示了整体知识图谱代理架构",
+      "from": 18.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 21.09
+    },
+    {
+      "content": "我们将逐步讲解结构化数据代理",
+      "from": 21.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 24.36
+    },
+    {
+      "content": "这是负责从CSV文件提取信息的子代理",
+      "from": 24.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 30.03
+    },
+    {
+      "content": "将数据转换为图谱",
+      "from": 30.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 32.87
+    },
+    {
+      "content": "现在我们将逐步完成这一过程",
+      "from": 32.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 35.61
+    },
+    {
+      "content": "我们将以这种方式逐步推进",
+      "from": 35.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 38.13
+    },
+    {
+      "content": "第一步是理解用户意图，这一阶段会发生什么",
+      "from": 38.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 43.96
+    },
+    {
+      "content": "当我们建立",
+      "from": 43.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 45.12
+    },
+    {
+      "content": "用户的目标是什么",
+      "from": 45.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 46.3
+    },
+    {
+      "content": "用户描述的意图将影响所有后续代理的操作",
+      "from": 46.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 51.3
+    },
+    {
+      "content": "这将为我们的目标设定总体方向",
+      "from": 51.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 54.14
+    },
+    {
+      "content": "所有代理都会据此做出响应",
+      "from": 54.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 57.03
+    },
+    {
+      "content": "这个代理只有一个主要任务",
+      "from": 57.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 60.65
+    },
+    {
+      "content": "其输出是保存到记忆中",
+      "from": 60.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 63.01
+    },
+    {
+      "content": "已批准的用户目标是什么",
+      "from": 63.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 65.349
+    },
+    {
+      "content": "为此它有两个工具可用",
+      "from": 65.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 68.26
+    },
+    {
+      "content": "它有一个工具用于初步感知",
+      "from": 68.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 71.5
+    },
+    {
+      "content": "用户的意图是什么",
+      "from": 71.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 72.54
+    },
+    {
+      "content": "基于与用户的对话互动",
+      "from": 72.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 76.39
+    },
+    {
+      "content": "根据其理解",
+      "from": 76.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 78.23
+    },
+    {
+      "content": "用户希望",
+      "from": 78.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 79.17
+    },
+    {
+      "content": "它只能回应",
+      "from": 79.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 80.77
+    },
+    {
+      "content": "好的",
+      "from": 80.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 81.19
+    },
+    {
+      "content": "这就是我感知到的需求",
+      "from": 81.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 82.99
+    },
+    {
+      "content": "因此它会调用工具来捕捉这一信息",
+      "from": 82.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 86.53
+    },
+    {
+      "content": "然后告知用户",
+      "from": 86.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 88.09
+    },
+    {
+      "content": "这就是我理解的需求",
+      "from": 88.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 89.55
+    },
+    {
+      "content": "用户可以选择确认",
+      "from": 89.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 91.89
+    },
+    {
+      "content": "正确或不正确",
+      "from": 91.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 92.93
+    },
+    {
+      "content": "不太准确",
+      "from": 92.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 94.05
+    },
+    {
+      "content": "再试一次",
+      "from": 94.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 95.21
+    },
+    {
+      "content": "如果你想重新尝试",
+      "from": 95.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 96.63
+    },
+    {
+      "content": "代理需要继续使用感知到的用户目标",
+      "from": 96.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 100.41
+    },
+    {
+      "content": "直到用户认为",
+      "from": 100.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 101.81
+    },
+    {
+      "content": "这就是正确答案",
+      "from": 101.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 102.87
+    },
+    {
+      "content": "我批准了",
+      "from": 102.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 104.28
+    },
+    {
+      "content": "只有当用户批准时",
+      "from": 104.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 106.2
+    },
+    {
+      "content": "代理应调用已批准的感知用户目标",
+      "from": 106.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 109.65
+    },
+    {
+      "content": "我们将看到这些工具如何协作",
+      "from": 109.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 111.31
+    },
+    {
+      "content": "更新记忆并捕获已批准的用户目标",
+      "from": 111.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 116.65
+    },
+    {
+      "content": "注意我通过批判性思考设定感知用户目标",
+      "from": 116.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 120.41
+    },
+    {
+      "content": "无法直接设定已批准用户目标",
+      "from": 120.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 123.49
+    },
+    {
+      "content": "只能通过调用此工具",
+      "from": 123.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 125.53
+    },
+    {
+      "content": "这个机制最终起到守门员作用",
+      "from": 125.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 127.75
+    },
+    {
+      "content": "确保我们有一个与用户确认的检查点",
+      "from": 127.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 129.79
+    },
+    {
+      "content": "用户是否明确亲自表示同意",
+      "from": 129.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 132.87
+    },
+    {
+      "content": "这很好",
+      "from": 132.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 133.53
+    },
+    {
+      "content": "我们就这样做吧",
+      "from": 133.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 134.87
+    },
+    {
+      "content": "好的",
+      "from": 134.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 135.31
+    },
+    {
+      "content": "考虑到代理的详细信息",
+      "from": 135.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 136.89
+    },
+    {
+      "content": "我们将继续进行常规设置并导入所需库",
+      "from": 136.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 140.91
+    },
+    {
+      "content": "并设置ln和快速验证检查",
+      "from": 143.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 146.62
+    },
+    {
+      "content": "让我们看看",
+      "from": 148.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 148.68
+    },
+    {
+      "content": "这次它的回应如何",
+      "from": 148.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 149.72
+    },
+    {
+      "content": "相当一致",
+      "from": 150.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 151.94
+    },
+    {
+      "content": "是的",
+      "from": 151.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 152.4
+    },
+    {
+      "content": "我准备好了",
+      "from": 152.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 152.8
+    },
+    {
+      "content": "今天我能为您做些什么",
+      "from": 152.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 154.88
+    },
+    {
+      "content": "因此我们可以定义用户意图代理本身",
+      "from": 156.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 160.04
+    },
+    {
+      "content": "我们将从逐步描述开始",
+      "from": 160.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 163.18
+    },
+    {
+      "content": "我们实际想要的提示是什么",
+      "from": 163.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 164.92
+    },
+    {
+      "content": "这个代理的指令是什么",
+      "from": 164.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 167.24
+    },
+    {
+      "content": "需要定义的第一个提示部分",
+      "from": 167.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 169.749
+    },
+    {
+      "content": "这个代理的角色是什么",
+      "from": 169.749,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 172.1
+    },
+    {
+      "content": "还有它的目标是什么",
+      "from": 172.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 174.16
+    },
+    {
+      "content": "在这里我们将说明",
+      "from": 174.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 175.66
+    },
+    {
+      "content": "这个代理是知识图谱用例专家",
+      "from": 175.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 180.18
+    },
+    {
+      "content": "主要目标是帮助用户构思知识图谱用例",
+      "from": 180.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 184.66
+    },
+    {
+      "content": "这基本上说明你的职责",
+      "from": 184.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 186.66
+    },
+    {
+      "content": "代理的任务是帮助用户进行创意构思",
+      "from": 186.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 190.18
+    },
+    {
+      "content": "它试图实现什么",
+      "from": 190.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 191.78
+    },
+    {
+      "content": "用户试图实现什么",
+      "from": 191.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 193.62
+    },
+    {
+      "content": "代理的目标是帮助用户明确自身目标",
+      "from": 193.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 198.019
+    },
+    {
+      "content": "接下来要添加的提示部分",
+      "from": 198.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 200.239
+    },
+    {
+      "content": "我称之为",
+      "from": 200.239,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 201.419
+    },
+    {
+      "content": "对话提示",
+      "from": 201.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 202.81
+    },
+    {
+      "content": "这有助于代理理解",
+      "from": 202.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 204.99
+    },
+    {
+      "content": "在其角色和目标的背景下",
+      "from": 204.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 208.87
+    },
+    {
+      "content": "应该如何开展工作",
+      "from": 208.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 211.149
+    },
+    {
+      "content": "在此情境下我们正在确定用户意图",
+      "from": 211.149,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 215.109
+    },
+    {
+      "content": "致力于与用户进行创意协作",
+      "from": 215.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 217.5
+    },
+    {
+      "content": "我们有一些基本想法",
+      "from": 217.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 219.42
+    },
+    {
+      "content": "如果用户不确定该怎么做",
+      "from": 219.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 221.1
+    },
+    {
+      "content": "可以提供建议",
+      "from": 221.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 222.64
+    },
+    {
+      "content": "特别是关于知识图谱的经典用例",
+      "from": 222.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 225.48
+    },
+    {
+      "content": "因为",
+      "from": 225.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 225.7
+    },
+    {
+      "content": "当然这个代理现在是知识图谱用例专家",
+      "from": 225.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 230.26
+    },
+    {
+      "content": "也许LMS已经了解很多知识图谱用例",
+      "from": 230.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 233.74
+    },
+    {
+      "content": "但如果你在构建内部生产系统",
+      "from": 233.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 236.6
+    },
+    {
+      "content": "某些企业L1可能不了解你的业务",
+      "from": 236.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 240.17
+    },
+    {
+      "content": "这是一个绝佳机会",
+      "from": 240.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 241.89
+    },
+    {
+      "content": "向代理解释你们业务的运作方式",
+      "from": 241.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 245.339
+    },
+    {
+      "content": "以及什么重要什么不重要",
+      "from": 245.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 246.999
+    },
+    {
+      "content": "在这里我列举了几种知识图谱的用例",
+      "from": 246.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 250.92
+    },
+    {
+      "content": "你可以将它们用于社交网络",
+      "from": 250.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 252.5
+    },
+    {
+      "content": "物流",
+      "from": 252.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 253.36
+    },
+    {
+      "content": "推荐系统",
+      "from": 253.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 254.5
+    },
+    {
+      "content": "欺诈检测",
+      "from": 254.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 255.649
+    },
+    {
+      "content": "或者",
+      "from": 255.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 255.849
+    },
+    {
+      "content": "当然像流行文化这类事物",
+      "from": 255.849,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 257.069
+    },
+    {
+      "content": "如果你想追踪电影",
+      "from": 257.069,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 258.389
+    },
+    {
+      "content": "书籍或音乐",
+      "from": 258.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 260.329
+    },
+    {
+      "content": "因为这对确定多亚洲系统的整体方向至关重要",
+      "from": 261.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 266.26
+    },
+    {
+      "content": "我进一步强化了",
+      "from": 266.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 267.74
+    },
+    {
+      "content": "比如",
+      "from": 267.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 268.02
+    },
+    {
+      "content": "用户目标实际上由什么构成",
+      "from": 268.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 271.22
+    },
+    {
+      "content": "在这里我通过提示描述用户目标包含两个组成部分",
+      "from": 271.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 275.51
+    },
+    {
+      "content": "一个是图的类型",
+      "from": 275.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 277.97
+    },
+    {
+      "content": "你是在创建社交图谱吗",
+      "from": 277.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 280.31
+    },
+    {
+      "content": "还是在创建物流图谱",
+      "from": 280.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 282.39
+    },
+    {
+      "content": "这可能是什么",
+      "from": 282.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 283.67
+    },
+    {
+      "content": "因此图的类型需用最多三个词描述",
+      "from": 283.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 290.69
+    },
+    {
+      "content": "我们正在创建的图是什么",
+      "from": 290.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 292.39
+    },
+    {
+      "content": "除了你创建的图的类型外",
+      "from": 292.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 295.54
+    },
+    {
+      "content": "还有描述该图的组件",
+      "from": 295.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 298.4
+    },
+    {
+      "content": "请提供几句话说明该图的意图",
+      "from": 298.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 302.4
+    },
+    {
+      "content": "例如",
+      "from": 302.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 303.92
+    },
+    {
+      "content": "如果我们说美国货运物流",
+      "from": 303.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 307.12
+    },
+    {
+      "content": "描述可能是动态路由和货物配送系统",
+      "from": 307.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 312.47
+    },
+    {
+      "content": "这是通过少量示例学习实现的",
+      "from": 312.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 315.65
+    },
+    {
+      "content": "明确向代理及语言模型强调",
+      "from": 315.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 319.73
+    },
+    {
+      "content": "你试图实现的目标是什么",
+      "from": 319.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 321.88
+    },
+    {
+      "content": "因为这非常重要",
+      "from": 321.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 323.28
+    },
+    {
+      "content": "值得重复强调",
+      "from": 323.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 324.22
+    },
+    {
+      "content": "既在提示中也将在后续工具描述中",
+      "from": 324.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 327.78
+    },
+    {
+      "content": "这些工具将实际使用用户目标",
+      "from": 327.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 330.57
+    },
+    {
+      "content": "在定义其内容时",
+      "from": 330.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 332.01
+    },
+    {
+      "content": "同时确认理解是否正确",
+      "from": 332.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 335.46
+    },
+    {
+      "content": "我们将整合提示的最后部分",
+      "from": 335.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 338.02
+    },
+    {
+      "content": "是思维链的指导方向",
+      "from": 338.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 340.38
+    },
+    {
+      "content": "思维链可以很简单，比如",
+      "from": 340.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 343.06
+    },
+    {
+      "content": "仔细思考，分步分析",
+      "from": 343.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 345.46
+    },
+    {
+      "content": "但这里需要更具体",
+      "from": 345.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 348.08
+    },
+    {
+      "content": "我们希望语言模型执行某些步骤",
+      "from": 348.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 351.48
+    },
+    {
+      "content": "因此我们将明确说明",
+      "from": 351.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 353.58
+    },
+    {
+      "content": "我需要你一步步执行以下操作",
+      "from": 353.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 356.15
+    },
+    {
+      "content": "代理可能会有不同变体",
+      "from": 356.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 358.37
+    },
+    {
+      "content": "但通过具体说明",
+      "from": 358.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 360.21
+    },
+    {
+      "content": "当我们明确",
+      "from": 360.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 361.07
+    },
+    {
+      "content": "希望代理执行的内容",
+      "from": 361.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 363.269
+    },
+    {
+      "content": "有助于集中注意力并确定处理方式",
+      "from": 363.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 366.929
+    },
+    {
+      "content": "根据用户的初始互动",
+      "from": 366.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 369.64
+    },
+    {
+      "content": "最重要的是需再次理解用户目标",
+      "from": 369.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 373.98
+    },
+    {
+      "content": "我们将再次强调",
+      "from": 373.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 374.8
+    },
+    {
+      "content": "这就是那种图表",
+      "from": 374.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 376.04
+    },
+    {
+      "content": "连同描述一起",
+      "from": 376.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 377.6
+    },
+    {
+      "content": "如果不能确定代理是否需要询问澄清问题",
+      "from": 377.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 382.32
+    },
+    {
+      "content": "然后只有当代理认为自己理解了用户目标时才调用集合",
+      "from": 382.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 387.64
+    },
+    {
+      "content": "感知用户目标工具",
+      "from": 387.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 389.24
+    },
+    {
+      "content": "这就是实际要记录到内存中的内容",
+      "from": 389.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 391.7
+    },
+    {
+      "content": "用户目标的理解包含两种组件的图表",
+      "from": 391.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 396.0
+    },
+    {
+      "content": "连同描述一起",
+      "from": 396.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 397.8
+    },
+    {
+      "content": "最后呈现这个感知用户目标",
+      "from": 398.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 400.82
+    },
+    {
+      "content": "通过让用户确认",
+      "from": 400.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 403.28
+    },
+    {
+      "content": "这就是我刚才听到的内容",
+      "from": 403.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 404.92
+    },
+    {
+      "content": "我说对了吗",
+      "from": 404.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 406.1
+    },
+    {
+      "content": "如果用户同意",
+      "from": 406.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 408.08
+    },
+    {
+      "content": "那么",
+      "from": 408.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 408.42
+    },
+    {
+      "content": "代理可以调用批准的流程目标工具吗",
+      "from": 408.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 412.52
+    },
+    {
+      "content": "我们提供了大量关于调用此工具的额外说明",
+      "from": 412.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 415.34
+    },
+    {
+      "content": "以便代理真正理解这个工具的作用",
+      "from": 415.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 418.98
+    },
+    {
+      "content": "调用此工具时当前感知目标将保存到状态",
+      "from": 418.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 424.13
+    },
+    {
+      "content": "在批准用户目标键下",
+      "from": 424.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 426.68
+    },
+    {
+      "content": "好的",
+      "from": 427.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 427.86
+    },
+    {
+      "content": "所有这些部分将组成提示",
+      "from": 427.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 430.76
+    },
+    {
+      "content": "我们将提供给代理以整合这些内容",
+      "from": 430.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 434.71
+    },
+    {
+      "content": "我们将使用Python字符串模板",
+      "from": 434.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 436.82
+    },
+    {
+      "content": "然后直接插入之前定义的变量",
+      "from": 436.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 440.86
+    },
+    {
+      "content": "代理角色和目标",
+      "from": 440.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 442.14
+    },
+    {
+      "content": "对话提示",
+      "from": 442.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 443.63
+    },
+    {
+      "content": "输出定义",
+      "from": 443.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 444.87
+    },
+    {
+      "content": "然后还有思维链指导",
+      "from": 444.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 446.67
+    },
+    {
+      "content": "我们将其打印到屏幕",
+      "from": 447.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 448.97
+    },
+    {
+      "content": "你可以看到整体结构",
+      "from": 448.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 452.15
+    },
+    {
+      "content": "现在可以定义这些工具",
+      "from": 456.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 459.48
+    },
+    {
+      "content": "第一个工具是设置感知用户目标",
+      "from": 460.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 464.02
+    },
+    {
+      "content": "在这里的注释中可以看到",
+      "from": 464.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 465.68
+    },
+    {
+      "content": "这是通过工具设置来促进与用户的协作",
+      "from": 465.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 469.99
+    },
+    {
+      "content": "仅通过该工具将感知值保存到内存",
+      "from": 469.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 475.61
+    },
+    {
+      "content": "我们真正帮助代理聚焦",
+      "from": 475.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 477.77
+    },
+    {
+      "content": "比如如何理解用户目标",
+      "from": 477.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 480.05
+    },
+    {
+      "content": "因为它必须调用此工具",
+      "from": 480.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 482.05
+    },
+    {
+      "content": "它知道需要这两个组件",
+      "from": 482.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 484.13
+    },
+    {
+      "content": "我们在提示中已说明",
+      "from": 484.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 485.47
+    },
+    {
+      "content": "然后在工具定义中",
+      "from": 485.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 487.25
+    },
+    {
+      "content": "可以看到这两个参数",
+      "from": 487.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 489.27
+    },
+    {
+      "content": "必须传入图表类型",
+      "from": 489.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 490.95
+    },
+    {
+      "content": "以及图表描述",
+      "from": 490.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 492.89
+    },
+    {
+      "content": "同时注意到工具上下文作为最后一个参数",
+      "from": 492.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 498.159
+    },
+    {
+      "content": "如果你记得之前的课程",
+      "from": 498.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 500.019
+    },
+    {
+      "content": "当最后一个参数是工具上下文时",
+      "from": 500.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 502.159
+    },
+    {
+      "content": "Adk会自动注入",
+      "from": 502.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 504.139
+    },
+    {
+      "content": "当此工具在工具描述中被调用时",
+      "from": 504.139,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 506.9
+    },
+    {
+      "content": "我们再次说明这是在保存感知用户目标",
+      "from": 508.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 512.059
+    },
+    {
+      "content": "包括这种类型的图表",
+      "from": 512.059,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 513.559
+    },
+    {
+      "content": "以及对其的描述",
+      "from": 513.559,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 515.159
+    },
+    {
+      "content": "我们还会描述这些参数",
+      "from": 515.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 517.819
+    },
+    {
+      "content": "这些必须与我们告诉代理的内容完全一致",
+      "from": 517.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 521.299
+    },
+    {
+      "content": "在之前的指令中",
+      "from": 521.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 522.639
+    },
+    {
+      "content": "这将成为提示的一部分",
+      "from": 522.639,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 524.359
+    },
+    {
+      "content": "现在工具定义本身会再次说明",
+      "from": 524.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 527.359
+    },
+    {
+      "content": "重复的次数越多",
+      "from": 527.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 528.879
+    },
+    {
+      "content": "语言模型越不可能出错",
+      "from": 528.879,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 531.399
+    },
+    {
+      "content": "在调用工具和工具内部",
+      "from": 531.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 533.91
+    },
+    {
+      "content": "其实很简单",
+      "from": 533.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 534.73
+    },
+    {
+      "content": "它只需组装一个小字典",
+      "from": 534.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 537.91
+    },
+    {
+      "content": "这是由这两个组件组成的用户目标数据",
+      "from": 537.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 541.68
+    },
+    {
+      "content": "这种类型的图表",
+      "from": 541.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 542.72
+    },
+    {
+      "content": "以及传入工具的图表描述",
+      "from": 542.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 545.87
+    },
+    {
+      "content": "这实际上只是简单封装如何访问记忆的方法",
+      "from": 545.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 550.61
+    },
+    {
+      "content": "同时聚焦记忆访问",
+      "from": 550.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 553.39
+    },
+    {
+      "content": "上下文状态会更新该字典",
+      "from": 553.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 556.52
+    },
+    {
+      "content": "因为这是更新操作",
+      "from": 556.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 558.36
+    },
+    {
+      "content": "ADK会检测到状态变化",
+      "from": 558.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 561.38
+    },
+    {
+      "content": "会将该差异传递给需要感知的其他方",
+      "from": 561.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 564.89
+    },
+    {
+      "content": "嗯",
+      "from": 564.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 565.41
+    },
+    {
+      "content": "在运行时环境中",
+      "from": 565.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 567.53
+    },
+    {
+      "content": "然后定义下一个工具",
+      "from": 569.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 571.66
+    },
+    {
+      "content": "用于批准感知到的用户目标",
+      "from": 571.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 574.63
+    },
+    {
+      "content": "这应在设置感知用户目标后触发",
+      "from": 574.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 579.33
+    },
+    {
+      "content": "然后用户也明确同意",
+      "from": 579.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 581.27
+    },
+    {
+      "content": "如果这两项都成立",
+      "from": 581.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 584.06
+    },
+    {
+      "content": "现在应调用此工具",
+      "from": 584.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 586.85
+    },
+    {
+      "content": "在可以时",
+      "from": 586.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 587.79
+    },
+    {
+      "content": "在可行且合理时",
+      "from": 587.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 589.77
+    },
+    {
+      "content": "在工具内部",
+      "from": 589.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 590.77
+    },
+    {
+      "content": "值得信任",
+      "from": 590.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 592.19
+    },
+    {
+      "content": "但需验证语言模型在此工具中的正确性",
+      "from": 592.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 596.579
+    },
+    {
+      "content": "这仅在用户批准后调用",
+      "from": 596.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 599.199
+    },
+    {
+      "content": "我们将再次迭代",
+      "from": 599.199,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 600.479
+    },
+    {
+      "content": "与语言模型",
+      "from": 600.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 601.879
+    },
+    {
+      "content": "嘿",
+      "from": 601.879,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 602.339
+    },
+    {
+      "content": "仅在用户批准后调用",
+      "from": 602.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 605.18
+    },
+    {
+      "content": "如果用户通过调用此工具批准",
+      "from": 605.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 607.98
+    },
+    {
+      "content": "工具将记录感知目标为已批准目标",
+      "from": 607.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 612.33
+    },
+    {
+      "content": "再次告知代理",
+      "from": 612.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 614.23
+    },
+    {
+      "content": "仅调用此工具",
+      "from": 614.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 615.39
+    },
+    {
+      "content": "若用户已在工具内明确批准感知目标",
+      "from": 615.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 622.15
+    },
+    {
+      "content": "因为我们已设置流程",
+      "from": 622.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 625.41
+    },
+    {
+      "content": "可在执行其他操作前先检查是否已设置",
+      "from": 625.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 629.01
+    },
+    {
+      "content": "现在",
+      "from": 629.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 629.55
+    },
+    {
+      "content": "如何处理此设置至关重要",
+      "from": 629.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 631.61
+    },
+    {
+      "content": "因为工具调用可能成功或出错",
+      "from": 631.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 636.09
+    },
+    {
+      "content": "这里我们可能返回特定错误",
+      "from": 636.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 639.53
+    },
+    {
+      "content": "如果感知到的用户目标不在当前上下文中",
+      "from": 639.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 642.979
+    },
+    {
+      "content": "如果它不在工具上下文状态中",
+      "from": 642.979,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 645.519
+    },
+    {
+      "content": "因此，代理的记忆",
+      "from": 645.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 646.999
+    },
+    {
+      "content": "如果感知到的用户目标不存在",
+      "from": 646.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 649.23
+    },
+    {
+      "content": "我们将继续从该工具返回错误",
+      "from": 649.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 651.61
+    },
+    {
+      "content": "我们将提供的错误信息旨在帮助语言模型理解",
+      "from": 651.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 656.49
+    },
+    {
+      "content": "这就是哪里出错了",
+      "from": 656.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 658.39
+    },
+    {
+      "content": "这就是你应该如何解决问题",
+      "from": 658.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 660.49
+    },
+    {
+      "content": "因此我们告知LLM过程用户目标未被设置",
+      "from": 660.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 664.22
+    },
+    {
+      "content": "并应先设置感知用户目标或询问澄清问题",
+      "from": 664.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 668.54
+    },
+    {
+      "content": "如果不确定用户的意图",
+      "from": 668.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 672.26
+    },
+    {
+      "content": "因此在所有这些地方反复强调给代理",
+      "from": 672.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 676.24
+    },
+    {
+      "content": "从提示到工具的定义",
+      "from": 676.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 678.98
+    },
+    {
+      "content": "再到工具返回的错误信息",
+      "from": 678.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 681.49
+    },
+    {
+      "content": "鼓励LLM根据实际情况采取正确行动",
+      "from": 681.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 685.69
+    },
+    {
+      "content": "如果成功的话",
+      "from": 685.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 686.87
+    },
+    {
+      "content": "我们只需将感知用户目标的状态复制到批准用户目标",
+      "from": 686.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 692.59
+    },
+    {
+      "content": "请注意只有在以下情况下才会发生",
+      "from": 692.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 694.71
+    },
+    {
+      "content": "由于我们没有向批准感知用户目标传递参数",
+      "from": 694.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 698.29
+    },
+    {
+      "content": "批准用户目标仅会被设置",
+      "from": 698.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 700.47
+    },
+    {
+      "content": "如果存在感知用户目标",
+      "from": 700.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 702.15
+    },
+    {
+      "content": "则会被复制",
+      "from": 702.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 703.39
+    },
+    {
+      "content": "此时感知和批准用户目标都应在状态中可用",
+      "from": 703.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 709.629
+    },
+    {
+      "content": "我们将这两个都添加到列表中",
+      "from": 709.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 711.189
+    },
+    {
+      "content": "因为我们知道在创建实际代理时需要传递列表",
+      "from": 711.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 715.12
+    },
+    {
+      "content": "我们有两个工具：设置感知用户目标和批准感知用户目标",
+      "from": 715.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 720.76
+    },
+    {
+      "content": "因此你可以定义用户意图代理",
+      "from": 720.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 723.54
+    },
+    {
+      "content": "你需要为其命名",
+      "from": 723.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 724.84
+    },
+    {
+      "content": "使用唯一的版本名称",
+      "from": 724.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 727.8
+    },
+    {
+      "content": "我们将使用之前定义的LLM",
+      "from": 727.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 730.58
+    },
+    {
+      "content": "这将是所有笔记本中相同的LLM",
+      "from": 730.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 732.88
+    },
+    {
+      "content": "未来可以直接跳过这一步",
+      "from": 732.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 735.31
+    },
+    {
+      "content": "描述非常重要",
+      "from": 735.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 736.79
+    },
+    {
+      "content": "该用户意图代理的目的是帮助用户构思知识图谱用例",
+      "from": 737.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 744.4
+    },
+    {
+      "content": "这有助于整个多代理系统",
+      "from": 744.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 746.74
+    },
+    {
+      "content": "判断何时使用该代理",
+      "from": 746.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 749.06
+    },
+    {
+      "content": "你之前从图表中回忆",
+      "from": 749.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 751.1
+    },
+    {
+      "content": "通过描述匹配该代理在工作流中的角色",
+      "from": 751.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 756.299
+    },
+    {
+      "content": "这将帮助协调者管理整个工作流",
+      "from": 756.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 289,
+      "to": 761.19
+    },
+    {
+      "content": "然后我们使用之前组装的完整代理指令",
+      "from": 764.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 290,
+      "to": 768.549
+    },
+    {
+      "content": "我们将传入这些指令",
+      "from": 768.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 769.869
+    },
+    {
+      "content": "当然我们还会传入",
+      "from": 769.869,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 771.389
+    },
+    {
+      "content": "可用的工具",
+      "from": 771.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 772.989
+    },
+    {
+      "content": "现在你已准备好完整的用户代理",
+      "from": 775.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 778.24
+    },
+    {
+      "content": "让我们与之交互",
+      "from": 778.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 780.4
+    },
+    {
+      "content": "你可以导入你的朋友",
+      "from": 780.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 781.91
+    },
+    {
+      "content": "创建代理调用器",
+      "from": 781.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 783.75
+    },
+    {
+      "content": "然后为用户意图代理创建一个调用器",
+      "from": 783.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 787.65
+    },
+    {
+      "content": "我们将调用用户意图调用器",
+      "from": 787.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 789.85
+    },
+    {
+      "content": "你可以注意这里的这个便签",
+      "from": 789.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 791.97
+    },
+    {
+      "content": "当然",
+      "from": 791.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 792.51
+    },
+    {
+      "content": "如果你要多次运行这个流程",
+      "from": 792.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 793.99
+    },
+    {
+      "content": "值得回来重新初始化状态",
+      "from": 793.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 796.89
+    },
+    {
+      "content": "如果事情有点失控的话",
+      "from": 796.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 800.21
+    },
+    {
+      "content": "现在我们来设置一个与用户意图代理的对话",
+      "from": 802.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 806.3
+    },
+    {
+      "content": "在实际交互前先获取会话",
+      "from": 806.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 809.04
+    },
+    {
+      "content": "这样可以看到当前会话状态",
+      "from": 809.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 811.3
+    },
+    {
+      "content": "这应该为空",
+      "from": 811.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 812.3
+    },
+    {
+      "content": "最初就像往常一样",
+      "from": 812.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 814.089
+    },
+    {
+      "content": "然后我们将创建一个脚本化对话",
+      "from": 814.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 817.469
+    },
+    {
+      "content": "这里只有两个调用步骤",
+      "from": 817.469,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 820.449
+    },
+    {
+      "content": "第一个调用",
+      "from": 820.449,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 822.05
+    },
+    {
+      "content": "这将是用户",
+      "from": 822.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 823.29
+    },
+    {
+      "content": "声明用户想要物料清单图或BM图",
+      "from": 823.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 828.44
+    },
+    {
+      "content": "并包含物料清单的所有层级",
+      "from": 828.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 831.78
+    },
+    {
+      "content": "从供应商到成品",
+      "from": 831.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 833.84
+    },
+    {
+      "content": "用户还指定需要这个物料清单图",
+      "from": 834.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 839.22
+    },
+    {
+      "content": "能够支持根本原因分析",
+      "from": 839.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 841.72
+    },
+    {
+      "content": "我现在去掉详细输出",
+      "from": 841.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 845.07
+    },
+    {
+      "content": "但你可以保留",
+      "from": 845.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 845.83
+    },
+    {
+      "content": "如果你想的话",
+      "from": 845.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 847.35
+    },
+    {
+      "content": "这是对话的重要部分",
+      "from": 847.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 849.64
+    },
+    {
+      "content": "有时当代理收到用户的初始消息时",
+      "from": 849.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 853.76
+    },
+    {
+      "content": "它可能会决定",
+      "from": 853.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 855.02
+    },
+    {
+      "content": "我需要进一步澄清",
+      "from": 855.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 857.22
+    },
+    {
+      "content": "如果发生这种情况",
+      "from": 857.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 859.05
+    },
+    {
+      "content": "则用户目标未被设置",
+      "from": 859.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 861.35
+    },
+    {
+      "content": "代理可能回应说嘿",
+      "from": 861.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 864.31
+    },
+    {
+      "content": "告诉我更多关于你的需求",
+      "from": 864.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 866.92
+    },
+    {
+      "content": "我们在此做假设",
+      "from": 866.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 868.08
+    },
+    {
+      "content": "如果会话状态中用户目标未设置",
+      "from": 868.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 871.3
+    },
+    {
+      "content": "假设LLM被要求提出澄清问题",
+      "from": 871.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 874.94
+    },
+    {
+      "content": "我们以用户身份提供澄清回答",
+      "from": 874.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 880.35
+    },
+    {
+      "content": "我担心可能的制造或供应商问题",
+      "from": 880.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 883.91
+    },
+    {
+      "content": "希望这些细节足够让代理满意",
+      "from": 883.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 886.81
+    },
+    {
+      "content": "并促使它调用用户目标工具",
+      "from": 886.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 891.06
+    },
+    {
+      "content": "乐观地",
+      "from": 891.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 892.34
+    },
+    {
+      "content": "如果我们走到这一步",
+      "from": 892.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 893.38
+    },
+    {
+      "content": "则流程目标已设置",
+      "from": 893.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 895.48
+    },
+    {
+      "content": "然后我们将说",
+      "from": 895.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 897.02
+    },
+    {
+      "content": "嗯",
+      "from": 897.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 897.32
+    },
+    {
+      "content": "听起来不错",
+      "from": 897.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 898.24
+    },
+    {
+      "content": "我批准这个目标",
+      "from": 898.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 899.9
+    },
+    {
+      "content": "你可能需要多次运行以防代理未设置用户目标",
+      "from": 899.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 905.34
+    },
+    {
+      "content": "它可能在某天决定先与用户多交流",
+      "from": 905.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 910.55
+    },
+    {
+      "content": "确定真正需要什么",
+      "from": 910.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 912.01
+    },
+    {
+      "content": "用户目标没问题",
+      "from": 912.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 915.96
+    },
+    {
+      "content": "我在最终调用批准目标时启用了调试",
+      "from": 915.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 348,
+      "to": 919.46
+    },
+    {
+      "content": "但你可以看到我们在此会话中的过程",
+      "from": 919.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 349,
+      "to": 921.4
+    },
+    {
+      "content": "会话开始时会话为空",
+      "from": 921.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 350,
+      "to": 924.339
+    },
+    {
+      "content": "内存状态为空",
+      "from": 924.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 351,
+      "to": 926.19
+    },
+    {
+      "content": "用户发送了初始消息并收到代理回应",
+      "from": 926.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 352,
+      "to": 929.89
+    },
+    {
+      "content": "实际上在询问澄清问题",
+      "from": 929.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 353,
+      "to": 932.44
+    },
+    {
+      "content": "所以它说嘿",
+      "from": 932.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 354,
+      "to": 933.32
+    },
+    {
+      "content": "你是在尝试从供应商追溯产品的组件",
+      "from": 933.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 355,
+      "to": 936.08
+    },
+    {
+      "content": "通过制造过程的各个阶段",
+      "from": 936.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 356,
+      "to": 938.46
+    },
+    {
+      "content": "这是代理的相当长的回答",
+      "from": 938.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 357,
+      "to": 940.96
+    },
+    {
+      "content": "这没问题",
+      "from": 940.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 358,
+      "to": 941.9
+    },
+    {
+      "content": "由于我们设置了检查机制",
+      "from": 941.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 359,
+      "to": 944.44
+    },
+    {
+      "content": "我们继续决定",
+      "from": 944.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 360,
+      "to": 946.16
+    },
+    {
+      "content": "好的",
+      "from": 946.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 361,
+      "to": 946.819
+    },
+    {
+      "content": "我们意识到用户的感知目标未设置",
+      "from": 946.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 362,
+      "to": 949.959
+    },
+    {
+      "content": "我们发送了额外消息给",
+      "from": 949.959,
+      "location": 2,
+      "music": 0.0,
+      "sid": 363,
+      "to": 951.459
+    },
+    {
+      "content": "我担心可能出现制造或供应问题",
+      "from": 951.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 364,
+      "to": 954.829
+    },
+    {
+      "content": "看来代理随后回应并决定",
+      "from": 955.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 365,
+      "to": 959.579
+    },
+    {
+      "content": "好的",
+      "from": 959.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 366,
+      "to": 959.779
+    },
+    {
+      "content": "这已足够继续",
+      "from": 959.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 367,
+      "to": 961.739
+    },
+    {
+      "content": "然后理解了我们的目标",
+      "from": 961.739,
+      "location": 2,
+      "music": 0.0,
+      "sid": 368,
+      "to": 964.67
+    },
+    {
+      "content": "并告诉我们",
+      "from": 964.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 369,
+      "to": 966.03
+    },
+    {
+      "content": "好的",
+      "from": 966.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 370,
+      "to": 966.98
+    },
+    {
+      "content": "这就是你想要的图表类型",
+      "from": 966.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 371,
+      "to": 968.16
+    },
+    {
+      "content": "我想你在尝试构建",
+      "from": 968.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 372,
+      "to": 969.46
+    },
+    {
+      "content": "这就是我的理解",
+      "from": 969.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 373,
+      "to": 971.02
+    },
+    {
+      "content": "你希望该图表描述的内容",
+      "from": 971.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 374,
+      "to": 974.01
+    },
+    {
+      "content": "最后它说道",
+      "from": 974.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 375,
+      "to": 975.41
+    },
+    {
+      "content": "正确",
+      "from": 975.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 376,
+      "to": 976.25
+    },
+    {
+      "content": "嘿",
+      "from": 976.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 377,
+      "to": 976.69
+    },
+    {
+      "content": "这是否符合你的意图",
+      "from": 976.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 378,
+      "to": 978.28
+    },
+    {
+      "content": "正是我们想要做的",
+      "from": 978.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 379,
+      "to": 980.04
+    },
+    {
+      "content": "我们想说",
+      "from": 980.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 380,
+      "to": 981.02
+    },
+    {
+      "content": "这就是我认为你在询问的内容",
+      "from": 981.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 381,
+      "to": 983.08
+    },
+    {
+      "content": "这正确吗",
+      "from": 983.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 382,
+      "to": 984.8
+    },
+    {
+      "content": "然后作为用户我们将批准该目标",
+      "from": 984.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 383,
+      "to": 988.44
+    },
+    {
+      "content": "这是我们之前决定的对话记录",
+      "from": 988.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 384,
+      "to": 991.11
+    },
+    {
+      "content": "可以看到在优化目标时",
+      "from": 991.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 385,
+      "to": 993.01
+    },
+    {
+      "content": "用户意图代理设置了感知用户目标",
+      "from": 993.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 386,
+      "to": 997.9
+    },
+    {
+      "content": "实际上尚未设置流程目标",
+      "from": 997.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 387,
+      "to": 1001.76
+    },
+    {
+      "content": "或再次调用它",
+      "from": 1001.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 388,
+      "to": 1003.16
+    },
+    {
+      "content": "看起来实际上",
+      "from": 1003.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 389,
+      "to": 1004.78
+    },
+    {
+      "content": "然后在设定感知用户目标后",
+      "from": 1004.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 390,
+      "to": 1009.93
+    },
+    {
+      "content": "因为用户已批准",
+      "from": 1009.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 391,
+      "to": 1011.47
+    },
+    {
+      "content": "调用已批准的感知用户目标",
+      "from": 1011.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 392,
+      "to": 1014.71
+    },
+    {
+      "content": "好的",
+      "from": 1015.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 393,
+      "to": 1016.4
+    },
+    {
+      "content": "你可以看到底部的最终回复",
+      "from": 1016.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 394,
+      "to": 1018.16
+    },
+    {
+      "content": "用户目标已成功批准",
+      "from": 1018.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 395,
+      "to": 1020.34
+    },
+    {
+      "content": "一切正常",
+      "from": 1020.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 396,
+      "to": 1022.12
+    },
+    {
+      "content": "工作流程现在明确了用户的目标方向",
+      "from": 1022.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 397,
+      "to": 1025.58
+    },
+    {
+      "content": "在多代理系统中构建知识图谱",
+      "from": 1025.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 398,
+      "to": 1029.12
+    }
+  ]
+}

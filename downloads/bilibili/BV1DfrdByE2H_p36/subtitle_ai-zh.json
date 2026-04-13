@@ -1,0 +1,3756 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "上节课你学习了如何使用Google Adk创建一个代理",
+      "from": 0.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 4.98
+    },
+    {
+      "content": "现在我们将创建多个代理",
+      "from": 4.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 7.3
+    },
+    {
+      "content": "一组协同工作的代理团队",
+      "from": 7.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 9.26
+    },
+    {
+      "content": "我们将有一个根代理",
+      "from": 9.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 10.74
+    },
+    {
+      "content": "然后构建两个子代理，基于之前的内容",
+      "from": 10.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 13.86
+    },
+    {
+      "content": "我们需要说",
+      "from": 13.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 14.78
+    },
+    {
+      "content": "你好",
+      "from": 14.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 15.0
+    },
+    {
+      "content": "代理",
+      "from": 15.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 15.56
+    },
+    {
+      "content": "我们将引入一个新代理来执行告别",
+      "from": 15.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 18.29
+    },
+    {
+      "content": "然后我们将创建另一个代理，将其整合为一个完整的多代理系统",
+      "from": 18.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 23.73
+    },
+    {
+      "content": "我们开始导入所需的库",
+      "from": 23.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 26.66
+    },
+    {
+      "content": "当然",
+      "from": 26.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 27.6
+    },
+    {
+      "content": "接下来设置我们将继续使用的语言模型",
+      "from": 27.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 30.46
+    },
+    {
+      "content": "这是OpenAI",
+      "from": 30.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 31.44
+    },
+    {
+      "content": "我们定义语言模型",
+      "from": 31.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 33.019
+    },
+    {
+      "content": "并通过传递消息进行快速验证",
+      "from": 33.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 36.159
+    },
+    {
+      "content": "确保系统已就绪",
+      "from": 36.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 37.98
+    },
+    {
+      "content": "总是有趣看看OpenAI当天会说什么",
+      "from": 38.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 42.22
+    },
+    {
+      "content": "通常会发送友好消息",
+      "from": 42.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 43.64
+    },
+    {
+      "content": "它会友好回应",
+      "from": 43.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 46.75
+    },
+    {
+      "content": "可以设置代理调用器",
+      "from": 46.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 48.51
+    },
+    {
+      "content": "我们将使用之前定义的同一类",
+      "from": 48.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 51.31
+    },
+    {
+      "content": "在第三课第一部分",
+      "from": 51.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 53.57
+    },
+    {
+      "content": "无需重复定义所有内容",
+      "from": 53.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 55.25
+    },
+    {
+      "content": "只需导入所需工具",
+      "from": 55.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 57.28
+    },
+    {
+      "content": "如果你还记得第一部分",
+      "from": 57.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 58.7
+    },
+    {
+      "content": "我们有一个辅助函数",
+      "from": 58.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 59.82
+    },
+    {
+      "content": "创建代理颜色",
+      "from": 59.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 60.88
+    },
+    {
+      "content": "将生成包含运行所需功能的代理颜色类",
+      "from": 60.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 64.759
+    },
+    {
+      "content": "所有准备就绪",
+      "from": 64.759,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 66.219
+    },
+    {
+      "content": "现在开始构建多代理系统",
+      "from": 66.219,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 68.94
+    },
+    {
+      "content": "创建多个专业代理",
+      "from": 68.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 71.42
+    },
+    {
+      "content": "每个负责特定功能",
+      "from": 71.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 74.25
+    },
+    {
+      "content": "创建一个负责问候的代理",
+      "from": 74.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 76.79
+    },
+    {
+      "content": "即说你好",
+      "from": 76.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 77.73
+    },
+    {
+      "content": "之前的代理负责问候，新代理将处理告别",
+      "from": 77.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 82.72
+    },
+    {
+      "content": "通过根代理将两者结合",
+      "from": 82.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 85.9
+    },
+    {
+      "content": "你会听到协调者或调度者等术语",
+      "from": 85.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 88.78
+    },
+    {
+      "content": "顶层代理",
+      "from": 88.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 90.14
+    },
+    {
+      "content": "本质上是封装其他代理的代理",
+      "from": 90.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 93.82
+    },
+    {
+      "content": "并管理其执行",
+      "from": 93.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 96.27
+    },
+    {
+      "content": "根代理将接收初始用户请求",
+      "from": 96.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 99.17
+    },
+    {
+      "content": "无论是问候还是用户指定的内容",
+      "from": 99.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 102.03
+    },
+    {
+      "content": "然后决定如何处理，自行执行或委托",
+      "from": 102.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 106.47
+    },
+    {
+      "content": "转交给子代理处理",
+      "from": 106.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 108.73
+    },
+    {
+      "content": "因此根代理",
+      "from": 108.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 109.83
+    },
+    {
+      "content": "这个顶层协调者将委托问候和告别任务",
+      "from": 109.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 114.21
+    },
+    {
+      "content": "希望由专门处理这些任务的子代理执行",
+      "from": 114.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 117.83
+    },
+    {
+      "content": "好的",
+      "from": 117.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 118.43
+    },
+    {
+      "content": "现在开始组装我们的多代理系统",
+      "from": 118.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 121.1
+    },
+    {
+      "content": "我们将使用之前提到的打招呼代理",
+      "from": 121.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 123.58
+    },
+    {
+      "content": "我们现在要添加一个道别代理",
+      "from": 123.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 125.2
+    },
+    {
+      "content": "然后我们将它们结合起来",
+      "from": 125.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 127.38
+    },
+    {
+      "content": "首先定义子代理的工具",
+      "from": 127.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 129.74
+    },
+    {
+      "content": "第一个工具是来自前一课的相同打招呼工具",
+      "from": 130.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 134.56
+    },
+    {
+      "content": "这是hello world函数",
+      "from": 134.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 136.26
+    },
+    {
+      "content": "接收人名并生成问候消息作为响应",
+      "from": 136.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 140.96
+    },
+    {
+      "content": "接下来我们将加入道别函数",
+      "from": 141.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 145.16
+    },
+    {
+      "content": "这个工具比打招呼更简单",
+      "from": 145.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 148.2
+    },
+    {
+      "content": "因为它不接受任何参数",
+      "from": 148.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 149.78
+    },
+    {
+      "content": "无论什么情况都会返回固定的回复",
+      "from": 149.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 154.189
+    },
+    {
+      "content": "无论你想做什么",
+      "from": 154.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 155.569
+    },
+    {
+      "content": "你将得到这样的响应",
+      "from": 155.569,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 157.629
+    },
+    {
+      "content": "用这两个工具向用户道别",
+      "from": 157.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 161.03
+    },
+    {
+      "content": "现在可以定义使用这些工具的代理",
+      "from": 161.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 163.97
+    },
+    {
+      "content": "现在我们将创建专门的问候代理和道别代理",
+      "from": 163.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 167.43
+    },
+    {
+      "content": "但你会发现非常简单",
+      "from": 167.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 170.77
+    },
+    {
+      "content": "在定义这些子代理时",
+      "from": 171.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 173.76
+    },
+    {
+      "content": "我特别强调最佳实践",
+      "from": 173.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 175.82
+    },
+    {
+      "content": "每个代理的详细描述非常重要",
+      "from": 175.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 180.26
+    },
+    {
+      "content": "以及传递给它们的指令",
+      "from": 180.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 182.36
+    },
+    {
+      "content": "一旦建立多代理系统",
+      "from": 182.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 183.86
+    },
+    {
+      "content": "大部分时间将用于",
+      "from": 183.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 186.09
+    },
+    {
+      "content": "在设置任何多代理系统后",
+      "from": 186.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 187.67
+    },
+    {
+      "content": "大部分时间将用于",
+      "from": 187.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 189.61
+    },
+    {
+      "content": "优化这些指令",
+      "from": 189.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 191.71
+    },
+    {
+      "content": "这回到经典提示工程",
+      "from": 191.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 195.8
+    },
+    {
+      "content": "同时重复前一课的内容",
+      "from": 195.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 198.74
+    },
+    {
+      "content": "描述让其他代理知道",
+      "from": 198.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 200.269
+    },
+    {
+      "content": "这个代理的功能",
+      "from": 200.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 203.79
+    },
+    {
+      "content": "以及何时调用该代理进行委派",
+      "from": 203.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 206.51
+    },
+    {
+      "content": "指令是让代理自身理解",
+      "from": 206.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 207.63
+    },
+    {
+      "content": "其目的",
+      "from": 207.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 208.87
+    },
+    {
+      "content": "要实现的目标",
+      "from": 208.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 210.65
+    },
+    {
+      "content": "可用的工具",
+      "from": 210.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 212.17
+    },
+    {
+      "content": "以及何时使用它们",
+      "from": 212.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 213.87
+    },
+    {
+      "content": "这是问候子代理",
+      "from": 213.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 218.13
+    },
+    {
+      "content": "它只能访问打招呼工具",
+      "from": 218.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 220.91
+    },
+    {
+      "content": "然后我们将添加道别代理",
+      "from": 220.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 223.43
+    },
+    {
+      "content": "与问候代理类似",
+      "from": 223.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 225.43
+    },
+    {
+      "content": "可以查看这里的指令描述",
+      "from": 225.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 228.45
+    },
+    {
+      "content": "这些指令值得仔细研究",
+      "from": 228.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 232.66
+    },
+    {
+      "content": "看起来很明显",
+      "from": 232.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 233.96
+    },
+    {
+      "content": "好的",
+      "from": 233.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 234.46
+    },
+    {
+      "content": "你的任务是作为道别代理回应",
+      "from": 234.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 237.37
+    },
+    {
+      "content": "当用户以某种方式说再见时",
+      "from": 237.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 240.03
+    },
+    {
+      "content": "人们用各种方式道别",
+      "from": 240.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 242.38
+    },
+    {
+      "content": "这是一个在代理指令中进行少量学习的小例子",
+      "from": 242.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 247.44
+    },
+    {
+      "content": "这里括号内有示例",
+      "from": 247.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 249.22
+    },
+    {
+      "content": "例如当用户使用像'再见'这样的词",
+      "from": 249.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 252.4
+    },
+    {
+      "content": "再见",
+      "from": 252.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 253.08
+    },
+    {
+      "content": "谢谢再见",
+      "from": 253.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 254.29
+    },
+    {
+      "content": "或者下次见",
+      "from": 254.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 255.51
+    },
+    {
+      "content": "这些都是告别的方式",
+      "from": 255.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 257.69
+    },
+    {
+      "content": "现在大多数LLM不需要额外的例子",
+      "from": 257.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 261.45
+    },
+    {
+      "content": "但总体来说这是一个好习惯，需要思考",
+      "from": 261.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 264.299
+    },
+    {
+      "content": "我该如何帮助LLM理解这个代理的目的",
+      "from": 264.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 268.019
+    },
+    {
+      "content": "以及何时执行和在角色中该做什么",
+      "from": 268.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 271.659
+    },
+    {
+      "content": "当然我们要交给它说再见",
+      "from": 271.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 273.459
+    },
+    {
+      "content": "我们之前定义的工具很棒",
+      "from": 273.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 275.939
+    },
+    {
+      "content": "你知道的",
+      "from": 275.939,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 276.379
+    },
+    {
+      "content": "我有两个子模块准备就绪",
+      "from": 276.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 278.53
+    },
+    {
+      "content": "现在我们需要将它们合并",
+      "from": 278.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 279.97
+    },
+    {
+      "content": "我们将通过定义根代理来实现",
+      "from": 279.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 282.49
+    },
+    {
+      "content": "它将理解这两个子代理",
+      "from": 282.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 284.97
+    },
+    {
+      "content": "并判断何时委派任务",
+      "from": 284.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 287.11
+    },
+    {
+      "content": "类似于调用工具",
+      "from": 287.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 289.0
+    },
+    {
+      "content": "但代理知道在与另一个代理对话",
+      "from": 289.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 291.64
+    },
+    {
+      "content": "因此整个对话历史会被传递",
+      "from": 291.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 294.22
+    },
+    {
+      "content": "并且对话控制权会转交给子代理",
+      "from": 294.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 298.079
+    },
+    {
+      "content": "这与调用略有不同",
+      "from": 298.079,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 299.999
+    },
+    {
+      "content": "但核心思想相同",
+      "from": 299.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 301.57
+    },
+    {
+      "content": "当前工作流将从负责的代理开始",
+      "from": 301.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 305.45
+    },
+    {
+      "content": "根代理到子代理之一",
+      "from": 305.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 307.9
+    },
+    {
+      "content": "这类似于调用工具",
+      "from": 307.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 309.62
+    },
+    {
+      "content": "但让我们仔细看看代理委派如何运作",
+      "from": 309.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 313.159
+    },
+    {
+      "content": "我们知道代理自身已描述了角色",
+      "from": 313.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 316.919
+    },
+    {
+      "content": "它们会说",
+      "from": 316.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 317.599
+    },
+    {
+      "content": "你好",
+      "from": 317.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 317.899
+    },
+    {
+      "content": "亚洲代理与告别代理",
+      "from": 317.899,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 319.519
+    },
+    {
+      "content": "两者都清楚自身职责",
+      "from": 319.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 322.379
+    },
+    {
+      "content": "它们的描述告知其他代理职责",
+      "from": 322.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 325.399
+    },
+    {
+      "content": "他们的工作是",
+      "from": 325.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 326.52
+    },
+    {
+      "content": "我们将进一步强调这一点",
+      "from": 326.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 328.12
+    },
+    {
+      "content": "在给根代理的指令中",
+      "from": 328.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 330.34
+    },
+    {
+      "content": "根代理需被告知其职责是协调子代理团队",
+      "from": 330.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 335.09
+    },
+    {
+      "content": "你可以在指令中看到这一点",
+      "from": 335.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 337.07
+    },
+    {
+      "content": "其主要目标是保持友好",
+      "from": 337.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 339.99
+    },
+    {
+      "content": "为了保持友好",
+      "from": 339.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 341.25
+    },
+    {
+      "content": "它拥有两个专用子代理",
+      "from": 341.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 343.53
+    },
+    {
+      "content": "因此需描述这些子代理",
+      "from": 343.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 344.75
+    },
+    {
+      "content": "以便代理知道何时使用子代理",
+      "from": 344.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 348.729
+    },
+    {
+      "content": "这类似于描述",
+      "from": 348.729,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 350.049
+    },
+    {
+      "content": "何时使用特定工具",
+      "from": 350.049,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 351.77
+    },
+    {
+      "content": "问候代理用于处理简单问候如你好或嗨",
+      "from": 351.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 356.09
+    },
+    {
+      "content": "当然告别代理用于说再见",
+      "from": 356.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 359.05
+    },
+    {
+      "content": "无论是'再见'或其他表达",
+      "from": 359.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 362.479
+    },
+    {
+      "content": "这里明确说明",
+      "from": 362.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 364.559
+    },
+    {
+      "content": "当收到用户消息时",
+      "from": 364.559,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 366.719
+    },
+    {
+      "content": "请委派子代理实际回应用户",
+      "from": 366.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 370.139
+    },
+    {
+      "content": "与其直接作为协调者回应",
+      "from": 370.139,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 372.96
+    },
+    {
+      "content": "所以如果这个方案有效",
+      "from": 372.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 374.12
+    },
+    {
+      "content": "协调者只需回答一般性问题",
+      "from": 374.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 377.61
+    },
+    {
+      "content": "当你说问候或告别时",
+      "from": 377.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 379.35
+    },
+    {
+      "content": "应转交给子代理执行响应",
+      "from": 379.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 382.77
+    },
+    {
+      "content": "或生成对用户的回复",
+      "from": 382.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 385.03
+    },
+    {
+      "content": "顶层协调者没有任何工具可用",
+      "from": 385.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 388.95
+    },
+    {
+      "content": "只能进行对话或转交子代理",
+      "from": 388.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 391.92
+    },
+    {
+      "content": "我们也将在此分发子代理列表",
+      "from": 391.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 394.2
+    },
+    {
+      "content": "在子代理的键中",
+      "from": 394.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 395.62
+    },
+    {
+      "content": "因此子代理包括问候子代理和告别子代理",
+      "from": 395.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 399.85
+    },
+    {
+      "content": "现在我们将所有代理整合成一个多代理系统",
+      "from": 399.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 403.29
+    },
+    {
+      "content": "让我们开始与之互动",
+      "from": 403.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 405.46
+    },
+    {
+      "content": "这与第三课第一部分类似",
+      "from": 405.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 408.68
+    },
+    {
+      "content": "我们有一个管理对话的异步函数",
+      "from": 408.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 412.5
+    },
+    {
+      "content": "因此对话可以和之前一样",
+      "from": 412.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 415.04
+    },
+    {
+      "content": "你好",
+      "from": 415.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 415.52
+    },
+    {
+      "content": "我 abbk",
+      "from": 415.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 416.3
+    },
+    {
+      "content": "然后稍后",
+      "from": 416.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 417.24
+    },
+    {
+      "content": "而不是说",
+      "from": 417.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 417.98
+    },
+    {
+      "content": "我很兴奋",
+      "from": 417.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 418.97
+    },
+    {
+      "content": "这段转录将显示",
+      "from": 418.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 421.03
+    },
+    {
+      "content": "谢谢再见",
+      "from": 421.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 421.81
+    },
+    {
+      "content": "这将是第二个用户消息",
+      "from": 421.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 424.42
+    },
+    {
+      "content": "我们还添加了这个true",
+      "from": 424.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 427.14
+    },
+    {
+      "content": "所以当你调用这个代理调用者时",
+      "from": 427.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 430.36
+    },
+    {
+      "content": "传入的第二个参数是是否开启详细响应",
+      "from": 430.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 434.81
+    },
+    {
+      "content": "我们将启用详细模式",
+      "from": 434.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 436.45
+    },
+    {
+      "content": "这样可以看到后台运行情况",
+      "from": 436.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 438.79
+    },
+    {
+      "content": "可以理解用户输入信息",
+      "from": 438.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 441.9
+    },
+    {
+      "content": "观察转交过程",
+      "from": 441.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 443.02
+    },
+    {
+      "content": "查看工具调用",
+      "from": 443.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 444.36
+    },
+    {
+      "content": "并看到响应结果",
+      "from": 444.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 445.84
+    },
+    {
+      "content": "内容较多需要梳理",
+      "from": 445.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 447.0
+    },
+    {
+      "content": "但至少走一遍有助于熟悉",
+      "from": 447.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 450.48
+    },
+    {
+      "content": "在调试代理时",
+      "from": 450.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 451.8
+    },
+    {
+      "content": "交互过程",
+      "from": 451.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 453.84
+    },
+    {
+      "content": "好的",
+      "from": 454.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 455.84
+    },
+    {
+      "content": "这开始看起来很正常",
+      "from": 455.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 457.6
+    },
+    {
+      "content": "接收用户消息",
+      "from": 457.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 459.02
+    },
+    {
+      "content": "你好",
+      "from": 459.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 459.48
+    },
+    {
+      "content": "我可能k，可以看到初始事件来自友好代理团队",
+      "from": 459.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 464.88
+    },
+    {
+      "content": "这就是顶层协调者",
+      "from": 464.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 466.82
+    },
+    {
+      "content": "将调用子代理的团队协调者",
+      "from": 466.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 469.83
+    },
+    {
+      "content": "可以看到它的第一个动作是转接到代理",
+      "from": 469.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 474.35
+    },
+    {
+      "content": "即转交或委托给子代理",
+      "from": 474.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 477.15
+    },
+    {
+      "content": "并将转接到问候子代理",
+      "from": 477.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 479.81
+    },
+    {
+      "content": "完美对应问候回应",
+      "from": 479.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 481.91
+    },
+    {
+      "content": "我可能k 顶层协调者意识到",
+      "from": 481.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 484.72
+    },
+    {
+      "content": "我有一个擅长问候的代理",
+      "from": 484.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 487.26
+    },
+    {
+      "content": "让我将控制权转交给那个代理",
+      "from": 487.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 490.12
+    },
+    {
+      "content": "所以响应的转移没有任何",
+      "from": 490.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 492.7
+    },
+    {
+      "content": "你知道的价值",
+      "from": 492.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 493.2
+    },
+    {
+      "content": " whatsoever",
+      "from": 493.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 493.72
+    },
+    {
+      "content": "它只是一个修女",
+      "from": 493.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 494.71
+    },
+    {
+      "content": "但接下来我们需要看到问候子代理接管控制",
+      "from": 494.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 497.77
+    },
+    {
+      "content": "所以这里又有一个事件",
+      "from": 497.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 499.57
+    },
+    {
+      "content": "但现在由问候子代理处理",
+      "from": 499.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 501.8
+    },
+    {
+      "content": "它将查看对话记录并分析用户消息",
+      "from": 501.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 505.72
+    },
+    {
+      "content": "并意识到",
+      "from": 505.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 506.96
+    },
+    {
+      "content": "现在我需要实际处理这个问题",
+      "from": 506.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 509.28
+    },
+    {
+      "content": "问候子代理将通过调用工具进行响应",
+      "from": 509.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 512.44
+    },
+    {
+      "content": "你可以看到此处的函数调用及目标函数名称",
+      "from": 513.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 517.14
+    },
+    {
+      "content": "Called",
+      "from": 517.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 517.48
+    },
+    {
+      "content": "Say hello",
+      "from": 517.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 518.28
+    },
+    {
+      "content": "并将传递一些参数",
+      "from": 518.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 520.1
+    },
+    {
+      "content": "其中传入的参数是人员名称为abk",
+      "from": 520.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 524.18
+    },
+    {
+      "content": "代理已从当前语句中识别出",
+      "from": 524.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 527.82
+    },
+    {
+      "content": "当然",
+      "from": 527.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 528.28
+    },
+    {
+      "content": "你好",
+      "from": 528.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 528.62
+    },
+    {
+      "content": "我是abk",
+      "from": 528.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 529.56
+    },
+    {
+      "content": "它成功提取了abk应为人员姓名",
+      "from": 529.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 532.8
+    },
+    {
+      "content": "并将调用工具函数传入该名称",
+      "from": 532.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 537.15
+    },
+    {
+      "content": "然后接收响应",
+      "from": 537.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 539.61
+    },
+    {
+      "content": "这里是函数响应，回复是向abk问好完美",
+      "from": 539.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 545.75
+    },
+    {
+      "content": "现在问候子代理已完成",
+      "from": 546.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 547.93
+    },
+    {
+      "content": "继续执行，最终消息为true",
+      "from": 547.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 551.21
+    },
+    {
+      "content": "这是表示已完成处理的标志",
+      "from": 551.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 553.91
+    },
+    {
+      "content": "我们可以终止此事件循环",
+      "from": 553.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 557.25
+    },
+    {
+      "content": "最终代理响应即为工具返回的结果",
+      "from": 557.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 561.97
+    },
+    {
+      "content": "向你问好abk",
+      "from": 561.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 564.349
+    },
+    {
+      "content": "我们发送第二个查询",
+      "from": 564.389,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 566.549
+    },
+    {
+      "content": "或用户的留言，用户说谢谢再见",
+      "from": 566.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 571.69
+    },
+    {
+      "content": "顶层代理将继续处理",
+      "from": 571.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 573.41
+    },
+    {
+      "content": "哦其实不是",
+      "from": 573.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 574.01
+    },
+    {
+      "content": "仍由问候子代理控制",
+      "from": 574.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 576.65
+    },
+    {
+      "content": "问候子代理自身会意识到",
+      "from": 576.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 579.09
+    },
+    {
+      "content": "好的",
+      "from": 579.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 579.37
+    },
+    {
+      "content": "这不是我该处理的内容",
+      "from": 579.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 580.98
+    },
+    {
+      "content": "请转交给告别子代理",
+      "from": 580.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 583.62
+    },
+    {
+      "content": "它已知晓可用的其他代理",
+      "from": 583.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 585.8
+    },
+    {
+      "content": "转交给告别子代理",
+      "from": 585.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 588.62
+    },
+    {
+      "content": "此处函数响应结束",
+      "from": 588.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 593.68
+    },
+    {
+      "content": "然后是告别子代理的留言",
+      "from": 593.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 596.96
+    },
+    {
+      "content": "再次查看对话记录",
+      "from": 596.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 598.84
+    },
+    {
+      "content": "在接管当前对话后",
+      "from": 598.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 601.71
+    },
+    {
+      "content": "首先会意识到",
+      "from": 601.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 603.47
+    },
+    {
+      "content": "好的",
+      "from": 603.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 603.67
+    },
+    {
+      "content": "用户说了再见",
+      "from": 603.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 605.51
+    },
+    {
+      "content": "我将调用说再见工具来生成响应",
+      "from": 605.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 609.56
+    },
+    {
+      "content": "这就是用于道别的函数调用",
+      "from": 609.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 612.18
+    },
+    {
+      "content": "当然它像预期的那样不接受任何参数",
+      "from": 612.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 616.32
+    },
+    {
+      "content": "但它的响应是我们之前在工具定义中看到的常量",
+      "from": 616.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 620.719
+    },
+    {
+      "content": "它将获取告别信息",
+      "from": 620.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 622.259
+    },
+    {
+      "content": "这是来自cipher的再见",
+      "from": 622.259,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 624.38
+    },
+    {
+      "content": "这再次是此事件循环的最终响应",
+      "from": 624.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 628.41
+    },
+    {
+      "content": "因此这将是最终的代理响应",
+      "from": 628.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 630.93
+    },
+    {
+      "content": "来自cypher的再见",
+      "from": 630.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 632.45
+    },
+    {
+      "content": "好的",
+      "from": 632.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 632.93
+    },
+    {
+      "content": "刚才讲解的内容很多",
+      "from": 632.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 634.49
+    },
+    {
+      "content": "花时间理解这些内容对后续工作很有帮助",
+      "from": 634.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 638.069
+    },
+    {
+      "content": "你可以看到所有工具调用的交互过程",
+      "from": 638.069,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 641.309
+    },
+    {
+      "content": "代理委托机制",
+      "from": 641.309,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 642.469
+    },
+    {
+      "content": "以及整体状态的变化和响应",
+      "from": 642.469,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 645.95
+    },
+    {
+      "content": "非常值得这样做",
+      "from": 645.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 647.43
+    },
+    {
+      "content": "我们不会在每个笔记本中都这样做",
+      "from": 647.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 649.11
+    },
+    {
+      "content": "但如果你有时间",
+      "from": 649.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 650.81
+    },
+    {
+      "content": "请务必花时间深入理解背后的原理",
+      "from": 650.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 654.16
+    },
+    {
+      "content": "因为幕后发生的事情会影响",
+      "from": 654.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 656.88
+    },
+    {
+      "content": "当然整体架构的定义方式",
+      "from": 656.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 660.06
+    },
+    {
+      "content": "以及代理编排流程",
+      "from": 660.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 662.609
+    },
+    {
+      "content": "你将在多代理系统中再进一步",
+      "from": 662.809,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 665.709
+    },
+    {
+      "content": "我们有一个代理的执行环境",
+      "from": 665.709,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 668.74
+    },
+    {
+      "content": "我们拥有多代理团队协同工作",
+      "from": 668.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 671.58
+    },
+    {
+      "content": "它们可以互相委托任务",
+      "from": 671.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 673.72
+    },
+    {
+      "content": "每个代理还拥有工具",
+      "from": 673.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 675.68
+    },
+    {
+      "content": "所有代理系统最重要的组件是记忆功能",
+      "from": 675.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 681.17
+    },
+    {
+      "content": "记忆就是内部状态",
+      "from": 681.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 682.97
+    },
+    {
+      "content": "在特定会话中涉及的任何代理之间持续存在",
+      "from": 682.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 687.83
+    },
+    {
+      "content": "当然还有用户自己",
+      "from": 687.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 690.099
+    },
+    {
+      "content": "什么是会话状态",
+      "from": 690.099,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 691.279
+    },
+    {
+      "content": "在Google Adk中默认的会话状态其实就是一个可用字典",
+      "from": 691.279,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 696.519
+    },
+    {
+      "content": "你可以更新该字典中的键值",
+      "from": 696.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 699.25
+    },
+    {
+      "content": "当你更新这些键的值时",
+      "from": 699.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 702.07
+    },
+    {
+      "content": "Google hk会追踪这些变化",
+      "from": 702.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 704.25
+    },
+    {
+      "content": "基本追踪状态的增量变化",
+      "from": 704.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 706.76
+    },
+    {
+      "content": "并更新整体会话状态以保持一致性",
+      "from": 706.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 711.13
+    },
+    {
+      "content": "无论代理是并行还是顺序运行",
+      "from": 711.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 714.01
+    },
+    {
+      "content": "因为系统本质上是异步的",
+      "from": 714.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 289,
+      "to": 716.45
+    },
+    {
+      "content": "它管理所有状态更新",
+      "from": 716.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 290,
+      "to": 719.24
+    },
+    {
+      "content": "代理有几种不同的状态交互方式",
+      "from": 719.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 722.349
+    },
+    {
+      "content": "其中一种我更推荐的方式",
+      "from": 722.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 724.349
+    },
+    {
+      "content": "与状态交互的主要方法是通过工具上下文",
+      "from": 724.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 728.189
+    },
+    {
+      "content": "每当调用工具时",
+      "from": 728.189,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 730.11
+    },
+    {
+      "content": "会有一个额外的参数可用",
+      "from": 730.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 732.25
+    },
+    {
+      "content": "即该工具被调用时的上下文",
+      "from": 732.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 735.91
+    },
+    {
+      "content": "基于此工具上下文",
+      "from": 735.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 737.49
+    },
+    {
+      "content": "工具本身可以访问当前状态或代理的记忆",
+      "from": 737.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 742.089
+    },
+    {
+      "content": "并利用这些记忆做出不同决策",
+      "from": 742.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 745.809
+    },
+    {
+      "content": "生成不同输出",
+      "from": 745.809,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 746.929
+    },
+    {
+      "content": "无论对内存是否合适",
+      "from": 746.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 749.01
+    },
+    {
+      "content": "代理还可以通过使用输出键与状态交互",
+      "from": 749.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 753.62
+    },
+    {
+      "content": "因此无需使用工具调用来更新某些内存",
+      "from": 753.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 756.7
+    },
+    {
+      "content": "以及访问内存时",
+      "from": 756.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 758.25
+    },
+    {
+      "content": "你可以获取代理最终响应的实际输出",
+      "from": 758.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 762.2
+    },
+    {
+      "content": "而不是仅将此结果作为代理的响应返回",
+      "from": 762.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 765.3
+    },
+    {
+      "content": "你可以通过定义输出键保存中间状态",
+      "from": 765.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 768.74
+    },
+    {
+      "content": "当你看到这个最终结果时",
+      "from": 768.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 771.25
+    },
+    {
+      "content": "与最终结果相关的信息",
+      "from": 771.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 773.27
+    },
+    {
+      "content": "此处应为文本内容",
+      "from": 773.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 774.43
+    },
+    {
+      "content": "再见信息可用于更新自身状态",
+      "from": 774.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 778.9
+    },
+    {
+      "content": "这有时非常方便",
+      "from": 778.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 780.24
+    },
+    {
+      "content": "稍后在这些笔记本中我们会稍作演示",
+      "from": 780.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 783.81
+    },
+    {
+      "content": "好的",
+      "from": 784.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 784.45
+    },
+    {
+      "content": "在下一步中我们将设置一些内存",
+      "from": 784.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 786.55
+    },
+    {
+      "content": "我们始终使用当前的内存会话",
+      "from": 786.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 790.569
+    },
+    {
+      "content": "因此内存仅保存在RAM中",
+      "from": 790.569,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 793.769
+    },
+    {
+      "content": "并未持久化到数据库",
+      "from": 793.769,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 795.69
+    },
+    {
+      "content": "当然这是生产系统的最佳做法",
+      "from": 795.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 798.05
+    },
+    {
+      "content": "但出于便利性",
+      "from": 798.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 799.19
+    },
+    {
+      "content": "使用内存状态完全没问题",
+      "from": 799.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 802.43
+    },
+    {
+      "content": "我们将更新两个工具以利用内存状态",
+      "from": 802.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 807.599
+    },
+    {
+      "content": "无论是打招呼还是道别",
+      "from": 807.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 809.959
+    },
+    {
+      "content": "我们将更新这些工具以利用工具上下文",
+      "from": 809.959,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 813.119
+    },
+    {
+      "content": "用于更新会话状态或内存",
+      "from": 813.119,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 816.639
+    },
+    {
+      "content": "应逐一进行并仔细对比差异",
+      "from": 816.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 820.89
+    },
+    {
+      "content": "你会发现我们导入了google adk的工具上下文",
+      "from": 820.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 824.41
+    },
+    {
+      "content": "工具上下文是管理会话状态的类",
+      "from": 824.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 828.65
+    },
+    {
+      "content": "除了其他对工具有用的功能",
+      "from": 828.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 832.96
+    },
+    {
+      "content": "我们将更新打招呼函数为状态化版本",
+      "from": 832.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 837.0
+    },
+    {
+      "content": "状态化",
+      "from": 837.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 837.98
+    },
+    {
+      "content": "仍接受用户姓名参数",
+      "from": 837.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 840.66
+    },
+    {
+      "content": "但新增了工具上下文参数",
+      "from": 840.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 844.3
+    },
+    {
+      "content": "工具上下文将让我们访问会话状态",
+      "from": 844.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 848.24
+    },
+    {
+      "content": "由执行环境传递的会话参数",
+      "from": 848.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 852.06
+    },
+    {
+      "content": "在工具上下文中有一个状态字典",
+      "from": 852.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 855.53
+    },
+    {
+      "content": "我们将更新用户名键",
+      "from": 855.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 858.31
+    },
+    {
+      "content": "使用函数传入的名称",
+      "from": 858.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 860.79
+    },
+    {
+      "content": "用于更新会话内存",
+      "from": 860.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 863.17
+    },
+    {
+      "content": "或会话状态中的用户名键",
+      "from": 863.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 866.11
+    },
+    {
+      "content": "这非常直接，用户名用户名",
+      "from": 866.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 869.23
+    },
+    {
+      "content": "现在有一个所有代理共享的字典",
+      "from": 869.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 872.59
+    },
+    {
+      "content": "所有工具均可访问此函数传入的值",
+      "from": 872.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 877.13
+    },
+    {
+      "content": "这是一种通过函数自然使用来跟踪信息的方式",
+      "from": 877.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 882.25
+    },
+    {
+      "content": "同时为后续调试保留这些信息",
+      "from": 882.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 887.0
+    },
+    {
+      "content": "当调用此工具时",
+      "from": 887.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 888.2
+    },
+    {
+      "content": "我们将打印会话状态的更新",
+      "from": 888.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 891.42
+    },
+    {
+      "content": "特别是用户名键",
+      "from": 891.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 348,
+      "to": 893.38
+    },
+    {
+      "content": "当然我们仍将执行之前的操作",
+      "from": 893.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 349,
+      "to": 895.66
+    },
+    {
+      "content": "说 hello",
+      "from": 895.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 350,
+      "to": 896.4
+    },
+    {
+      "content": "我们将向near发送一个查询请求，使用查询参数j",
+      "from": 896.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 351,
+      "to": 900.48
+    },
+    {
+      "content": "这就是用户名",
+      "from": 900.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 352,
+      "to": 901.94
+    },
+    {
+      "content": "现在你已经定义了，我们继续定义这个",
+      "from": 901.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 353,
+      "to": 905.99
+    },
+    {
+      "content": "你可以为say goodbye定义相同的内容，再次操作",
+      "from": 905.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 354,
+      "to": 909.57
+    },
+    {
+      "content": "在定义这个过程中",
+      "from": 909.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 355,
+      "to": 910.55
+    },
+    {
+      "content": "这只是对say goodbye的更新",
+      "from": 910.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 356,
+      "to": 912.21
+    },
+    {
+      "content": "我们之前定义的那个",
+      "from": 912.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 357,
+      "to": 913.579
+    },
+    {
+      "content": "现在不同的是这个say goodbye",
+      "from": 913.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 358,
+      "to": 915.499
+    },
+    {
+      "content": "尽管它不接受任何与用户相关的参数",
+      "from": 915.499,
+      "location": 2,
+      "music": 0.0,
+      "sid": 359,
+      "to": 919.54
+    },
+    {
+      "content": "这里没有自定义参数",
+      "from": 919.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 360,
+      "to": 921.58
+    },
+    {
+      "content": "但它会接收工具上下文",
+      "from": 921.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 361,
+      "to": 924.329
+    },
+    {
+      "content": "我需要说明这是Google ADK自动处理的",
+      "from": 924.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 362,
+      "to": 927.749
+    },
+    {
+      "content": "当检测到工具的最后一个参数是工具上下文时",
+      "from": 927.749,
+      "location": 2,
+      "music": 0.0,
+      "sid": 363,
+      "to": 932.48
+    },
+    {
+      "content": "会自动注入该上下文到工具调用中",
+      "from": 932.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 364,
+      "to": 935.349
+    },
+    {
+      "content": "当执行say goodbye",
+      "from": 935.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 365,
+      "to": 936.569
+    },
+    {
+      "content": "Stateful被调用时",
+      "from": 936.569,
+      "location": 2,
+      "music": 0.0,
+      "sid": 366,
+      "to": 938.029
+    },
+    {
+      "content": "将获取工具上下文但无其他内容",
+      "from": 938.029,
+      "location": 2,
+      "music": 0.0,
+      "sid": 367,
+      "to": 940.449
+    },
+    {
+      "content": "但因为say hello",
+      "from": 940.449,
+      "location": 2,
+      "music": 0.0,
+      "sid": 368,
+      "to": 942.529
+    },
+    {
+      "content": "Stateful设置了状态",
+      "from": 942.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 369,
+      "to": 944.915
+    },
+    {
+      "content": "将用户名存入状态",
+      "from": 945.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 370,
+      "to": 948.11
+    },
+    {
+      "content": "say goodbye",
+      "from": 948.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 371,
+      "to": 949.41
+    },
+    {
+      "content": "可以实际访问用户名",
+      "from": 949.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 372,
+      "to": 950.95
+    },
+    {
+      "content": "现在我们记住了用户的姓名",
+      "from": 950.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 373,
+      "to": 953.55
+    },
+    {
+      "content": "可以访问状态键为username的值",
+      "from": 953.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 374,
+      "to": 956.95
+    },
+    {
+      "content": "并设置默认值以防用户未自我标识",
+      "from": 956.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 375,
+      "to": 961.46
+    },
+    {
+      "content": "但可以从字典中获取",
+      "from": 961.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 376,
+      "to": 963.3
+    },
+    {
+      "content": "用户名或默认值",
+      "from": 963.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 377,
+      "to": 964.68
+    },
+    {
+      "content": "赋值给用户名变量",
+      "from": 964.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 378,
+      "to": 966.38
+    },
+    {
+      "content": "然后用于生成告别语句",
+      "from": 966.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 379,
+      "to": 970.54
+    },
+    {
+      "content": "你可以定义新的stateful代理处理告别",
+      "from": 972.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 380,
+      "to": 975.62
+    },
+    {
+      "content": "这与之前的联邦代理相同",
+      "from": 975.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 381,
+      "to": 979.1
+    },
+    {
+      "content": "但现在会调用say goodbye stateful工具",
+      "from": 979.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 382,
+      "to": 982.9
+    },
+    {
+      "content": "如同之前",
+      "from": 983.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 383,
+      "to": 984.4
+    },
+    {
+      "content": "可通过根代理或协调者将它们组合成多代理系统",
+      "from": 984.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 384,
+      "to": 989.48
+    },
+    {
+      "content": "由根代理或协调者使用这两个子代理",
+      "from": 989.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 385,
+      "to": 993.12
+    },
+    {
+      "content": "这与之前的根代理完全相同",
+      "from": 993.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 386,
+      "to": 997.28
+    },
+    {
+      "content": "现在仅使用核心基于状态的子代理",
+      "from": 997.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 387,
+      "to": 1002.119
+    },
+    {
+      "content": "这些具有状态管理的工具",
+      "from": 1002.119,
+      "location": 2,
+      "music": 0.0,
+      "sid": 388,
+      "to": 1004.77
+    },
+    {
+      "content": "现在拥有利用记忆的多代理系统",
+      "from": 1005.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 389,
+      "to": 1009.33
+    },
+    {
+      "content": "你可以尝试一下",
+      "from": 1009.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 390,
+      "to": 1011.3
+    },
+    {
+      "content": "使用朋友创建代理调用者，传入新root代理stateful",
+      "from": 1011.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 391,
+      "to": 1016.44
+    },
+    {
+      "content": "这是协调者的顶层",
+      "from": 1016.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 392,
+      "to": 1017.98
+    },
+    {
+      "content": "为该代理创建调用者以观察会话变化",
+      "from": 1017.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 393,
+      "to": 1022.1
+    },
+    {
+      "content": "我们直接从调用者获取会话",
+      "from": 1022.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 394,
+      "to": 1024.96
+    },
+    {
+      "content": "记得有获取会话的实用函数",
+      "from": 1024.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 395,
+      "to": 1027.06
+    },
+    {
+      "content": "查看亚洲调用者类",
+      "from": 1027.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 396,
+      "to": 1029.639
+    },
+    {
+      "content": "我们获取会话",
+      "from": 1029.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 397,
+      "to": 1031.199
+    },
+    {
+      "content": "基于该会话",
+      "from": 1031.199,
+      "location": 2,
+      "music": 0.0,
+      "sid": 398,
+      "to": 1032.399
+    },
+    {
+      "content": "打印创建时的初始状态",
+      "from": 1032.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 399,
+      "to": 1035.299
+    },
+    {
+      "content": "应看到当前状态为空",
+      "from": 1035.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 400,
+      "to": 1038.19
+    },
+    {
+      "content": "正如预期的那样",
+      "from": 1038.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 401,
+      "to": 1039.17
+    },
+    {
+      "content": "初始状态为空",
+      "from": 1039.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 402,
+      "to": 1041.03
+    },
+    {
+      "content": "你现在可以定义一个对话",
+      "from": 1042.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 403,
+      "to": 1044.22
+    },
+    {
+      "content": "这是我们一直在进行的对话，比如说你好",
+      "from": 1044.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 404,
+      "to": 1047.12
+    },
+    {
+      "content": "说再见",
+      "from": 1047.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 405,
+      "to": 1048.18
+    },
+    {
+      "content": "让我们看看会发生什么",
+      "from": 1048.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 406,
+      "to": 1050.11
+    },
+    {
+      "content": "实际上我现在要移除这些冗长的语句",
+      "from": 1050.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 407,
+      "to": 1053.89
+    },
+    {
+      "content": "你可以选择保留这些或添加它们",
+      "from": 1053.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 408,
+      "to": 1055.75
+    },
+    {
+      "content": "如果你想的话可以任选其一运行",
+      "from": 1055.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 409,
+      "to": 1057.76
+    },
+    {
+      "content": "但为了减少输出内容",
+      "from": 1057.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 410,
+      "to": 1059.68
+    },
+    {
+      "content": "我们先不带调试语句运行这段代码",
+      "from": 1059.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 411,
+      "to": 1062.97
+    },
+    {
+      "content": "这里真正重要的是我们看到初始状态为空",
+      "from": 1062.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 412,
+      "to": 1066.87
+    },
+    {
+      "content": "并且在这些调用完成后",
+      "from": 1066.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 413,
+      "to": 1069.87
+    },
+    {
+      "content": "初始状态应变为最终状态",
+      "from": 1069.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 414,
+      "to": 1072.54
+    },
+    {
+      "content": "现在我们再次获取它",
+      "from": 1072.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 415,
+      "to": 1074.44
+    },
+    {
+      "content": "最终状态应包含由调用定义的用户姓名",
+      "from": 1074.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 416,
+      "to": 1080.36
+    },
+    {
+      "content": "说你好",
+      "from": 1080.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 417,
+      "to": 1081.86
+    },
+    {
+      "content": "太棒了",
+      "from": 1084.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 418,
+      "to": 1085.5
+    },
+    {
+      "content": "我们的工具函数在这里打印了用户名更新",
+      "from": 1085.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 419,
+      "to": 1090.81
+    },
+    {
+      "content": "当我们获取会话时",
+      "from": 1090.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 420,
+      "to": 1093.01
+    },
+    {
+      "content": "然后从会话中获取状态，最终状态包含用户名abk",
+      "from": 1093.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 421,
+      "to": 1100.14
+    },
+    {
+      "content": "太好了",
+      "from": 1100.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 422,
+      "to": 1101.0
+    },
+    {
+      "content": "一切按预期运行",
+      "from": 1101.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 423,
+      "to": 1103.34
+    },
+    {
+      "content": "现在",
+      "from": 1104.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 424,
+      "to": 1105.12
+    },
+    {
+      "content": "如果你想的话",
+      "from": 1105.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 425,
+      "to": 1105.8
+    },
+    {
+      "content": "你可以在交互环境中运行这段代码",
+      "from": 1105.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 426,
+      "to": 1108.0
+    },
+    {
+      "content": "甚至在这个笔记本中",
+      "from": 1108.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 427,
+      "to": 1109.68
+    },
+    {
+      "content": "可以设置一个小的辅助函数",
+      "from": 1109.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 428,
+      "to": 1112.02
+    },
+    {
+      "content": "用于循环获取用户输入的消息",
+      "from": 1112.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 429,
+      "to": 1115.28
+    },
+    {
+      "content": "然后调用我们的caller函数传入该消息",
+      "from": 1115.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 430,
+      "to": 1118.78
+    },
+    {
+      "content": "只要用户不输入退出消息就会持续运行",
+      "from": 1118.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 431,
+      "to": 1124.04
+    },
+    {
+      "content": "当你设置好并运行它时",
+      "from": 1124.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 432,
+      "to": 1125.82
+    },
+    {
+      "content": "会弹出一个小窗口",
+      "from": 1125.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 433,
+      "to": 1127.85
+    },
+    {
+      "content": "当你运行交互会话时",
+      "from": 1127.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 434,
+      "to": 1129.85
+    },
+    {
+      "content": "可以输入消息并观察结果",
+      "from": 1129.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 435,
+      "to": 1132.65
+    },
+    {
+      "content": "我先不透露我的名字",
+      "from": 1135.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 436,
+      "to": 1136.96
+    },
+    {
+      "content": "看看会发生什么",
+      "from": 1136.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 437,
+      "to": 1138.32
+    },
+    {
+      "content": "好的",
+      "from": 1139.769,
+      "location": 2,
+      "music": 0.0,
+      "sid": 438,
+      "to": 1140.169
+    },
+    {
+      "content": "这有点有趣",
+      "from": 1140.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 439,
+      "to": 1141.129
+    },
+    {
+      "content": "语言模型推断出我的名字在这里",
+      "from": 1141.129,
+      "location": 2,
+      "music": 0.0,
+      "sid": 440,
+      "to": 1143.909
+    },
+    {
+      "content": "基于这条消息",
+      "from": 1143.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 441,
+      "to": 1145.209
+    },
+    {
+      "content": "这并不理想",
+      "from": 1145.209,
+      "location": 2,
+      "music": 0.0,
+      "sid": 442,
+      "to": 1146.649
+    },
+    {
+      "content": "让我们纠正它",
+      "from": 1146.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 443,
+      "to": 1147.689
+    },
+    {
+      "content": "让我们说",
+      "from": 1147.689,
+      "location": 2,
+      "music": 0.0,
+      "sid": 444,
+      "to": 1148.534
+    },
+    {
+      "content": "只需传入我的名字是abb",
+      "from": 1152.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 445,
+      "to": 1154.62
+    },
+    {
+      "content": "K 工具上下文已更新为abk",
+      "from": 1154.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 446,
+      "to": 1158.8
+    },
+    {
+      "content": "有一个名为say hello的工具",
+      "from": 1158.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 447,
+      "to": 1160.54
+    },
+    {
+      "content": "针对abk",
+      "from": 1160.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 448,
+      "to": 1161.69
+    },
+    {
+      "content": "因此语言模型正确识别",
+      "from": 1161.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 449,
+      "to": 1164.81
+    },
+    {
+      "content": "我的名字是abk",
+      "from": 1164.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 450,
+      "to": 1165.85
+    },
+    {
+      "content": "将此保存到内存中",
+      "from": 1165.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 451,
+      "to": 1167.15
+    },
+    {
+      "content": "这太棒了",
+      "from": 1167.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 452,
+      "to": 1168.17
+    },
+    {
+      "content": "如果我说再见",
+      "from": 1168.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 453,
+      "to": 1170.02
+    },
+    {
+      "content": "现在我们应该通过abk收到一条好消息",
+      "from": 1170.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 454,
+      "to": 1172.5
+    },
+    {
+      "content": "和之前一样",
+      "from": 1172.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 455,
+      "to": 1173.53
+    },
+    {
+      "content": "试试这个",
+      "from": 1173.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 456,
+      "to": 1174.43
+    },
+    {
+      "content": "与它互动并看看你能想到什么",
+      "from": 1174.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 457,
+      "to": 1176.33
+    },
+    {
+      "content": "而且",
+      "from": 1176.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 458,
+      "to": 1176.57
+    },
+    {
+      "content": "当然",
+      "from": 1176.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 459,
+      "to": 1176.93
+    },
+    {
+      "content": "如果你想修改代码结尾并观察其影响",
+      "from": 1176.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 460,
+      "to": 1181.27
+    },
+    {
+      "content": "好的",
+      "from": 1181.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 461,
+      "to": 1181.99
+    },
+    {
+      "content": "你已经完成了第三课的所有内容",
+      "from": 1181.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 462,
+      "to": 1185.07
+    },
+    {
+      "content": "你创建了一个基本的单体代理，它会说你好",
+      "from": 1185.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 463,
+      "to": 1189.77
+    },
+    {
+      "content": "然后你创建了一个多代理系统",
+      "from": 1189.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 464,
+      "to": 1192.15
+    },
+    {
+      "content": "包含两个子代理，分别擅长说你好或再见",
+      "from": 1192.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 465,
+      "to": 1195.57
+    },
+    {
+      "content": "然后根代理负责协调与用户的交互",
+      "from": 1195.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 466,
+      "to": 1199.79
+    },
+    {
+      "content": "有了这些",
+      "from": 1199.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 467,
+      "to": 1201.02
+    },
+    {
+      "content": "你已准备好继续进行遗传知识图谱构建",
+      "from": 1201.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 468,
+      "to": 1205.08
+    }
+  ]
+}

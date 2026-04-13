@@ -56,33 +56,11 @@ yt-dlp --print "%(id)s" -o "./downloads/temp" "$VIDEO_URL"
 
 ### Step 2: Download Subtitles
 
-**For Bilibili** (requires login cookies):
+**Platform-specific methods:**
 
-1. If `downloads/bilibili/bilibili-cookies.txt` does not exist:
-   - Export cookies from Chrome using "Get Cookies" or "Cookie-Editor" extension
-   - Save to: `downloads/bilibili/bilibili-cookies.txt`
-2. If cookies file exists, skip to next step
-3. Run:
-
-```bash
-python "$SKILL_DIR/scripts/get_bilibili_subtitle.py" \
-    "$AID" \
-    "$CID" \
-    "$OUTPUT_DIR" \
-    "./downloads/bilibili/bilibili-cookies.txt"
-
-# Convert to VTT/TXT
-python "$SKILL_DIR/scripts/convert_subtitle.py" \
-    "$OUTPUT_DIR/subtitle_ai-zh.json" \
-    "$OUTPUT_DIR"
-```
-
-**For YouTube/Other platforms:**
-
-```bash
-yt-dlp --write-subs --sub-lang zh-Hans,en --skip-download \
-    -o "$OUTPUT_DIR/subtitle" "$VIDEO_URL"
-```
+- **Bilibili**: See `$SKILL_DIR/reference/bilibili-method.md`
+- **deaepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
+- **YouTube/Other platforms**: `yt-dlp --write-subs --sub-lang zh-Hans,en --skip-download -o "$OUTPUT_DIR/subtitle" "$VIDEO_URL"`
 
 ### Step 3: Download Video/Audio (if no subtitles)
 
@@ -118,16 +96,23 @@ uv run "$SKILL_DIR/scripts/parallel_transcribe.py" \
 | `get_bilibili_subtitle.py` | Download Bilibili subtitles using cookie file |
 | `convert_subtitle.py` | Convert JSON subtitles to VTT/TXT |
 | `parallel_transcribe.py` | Transcribe audio using Whisper |
+| `generate_summary.py` | Generate AI summary with retry logic and fallback |
 
 ## Notes
 
-1. **Bilibili cookies**: Export from Chrome and save to `downloads/bilibili/bilibili-cookies.txt`
-2. **Workflow order**: Always try subtitles first, then transcribe if needed
-3. **Storage**: Files saved to `./downloads/<website>/<video_id>/`
-4. **Copyright**: For personal learning use only
+1. **Bilibili**: See `$SKILL_DIR/reference/bilibili-method.md` for cookie setup and full workflow
+2. **DeepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
+3. **Workflow order**: Always try subtitles first, then transcribe if needed
+4. **Storage**: Files saved to `./downloads/<website>/<video_id>/`
+5. **Copyright**: For personal learning use only
+
 
 ## Error Handling
 
 - **No subtitles**: Use parallel_transcribe.py for transcription
 - **Video too long**: The transcription script handles long files automatically
-- **Cookie issues**: Re-export cookies from browser (may expire)
+- **Bilibili cookie issues**: See `$SKILL_DIR/reference/bilibili-method.md` for cookie refresh steps
+- **DeepLearning.AI captions fail**: Fall back to VTT URL from `subtitleUrl` field
+- **API 529/Overloaded**: Retry with exponential backoff (3 attempts), fall back to transcript-only summary if all fail
+- **yt-dlp not found**: Use Python module `yt_dlp` instead of CLI; ensure venv is activated
+- **Encoding errors**: Always specify `encoding='utf-8'` when reading/writing files

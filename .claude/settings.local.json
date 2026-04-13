@@ -34,7 +34,32 @@
       "Bash(uv run:*)",
       "Bash(start:*)",
       "Bash(python:*)",
-      "Skill(claude-api)"
+      "Skill(claude-api)",
+      "Bash(p:/AI/my-agent-skills/venv/Scripts/Activate.ps1)",
+      "Bash(source:*)",
+      "Bash(VIDEO_URL=\"https://www.bilibili.com/video/BV1W2cgzREUj\")",
+      "Bash(yt-dlp --print \"%\\(id\\)s\" -o \"./downloads/temp\" \"$VIDEO_URL\")",
+      "Bash(yt-dlp --get-title --print \"%\\(id\\)s\" \"$VIDEO_URL\")",
+      "Bash(xxd)",
+      "Bash(python3 -c \":*)",
+      "Bash(mkdir -p \"P:/AI/my-agent-skills/downloads/bilibili/BV1W2cgzREUj\")",
+      "Bash(yt-dlp -x --audio-format mp3 --audio-quality 0 -o \"P:/AI/my-agent-skills/downloads/bilibili/BV1W2cgzREUj/audio.%\\(ext\\)s\" --cookies P:/AI/my-agent-skills/downloads/bilibili/bilibili-cookies-utf8.txt \"https://www.bilibili.com/video/BV1W2cgzREUj\")",
+      "Bash(yt-dlp -x --audio-format mp3 --audio-quality 0 -o \"P:/AI/my-agent-skills/downloads/bilibili/BV1W2cgzREUj/audio.%\\(ext\\)s\" --cookies P:/AI/my-agent-skills/downloads/bilibili/bilibili-cookies-clean.txt \"https://www.bilibili.com/video/BV1W2cgzREUj\")",
+      "Bash(choco install:*)",
+      "Bash(ls ffmpeg-*/bin/)",
+      "Bash(/tmp/ffmpeg-8.1-essentials_build/bin/ffmpeg.exe -i \"P:/AI/my-agent-skills/downloads/bilibili/BV1W2cgzREUj/audio.m4a\" -vn -acodec libmp3lame -aq 0 \"P:/AI/my-agent-skills/downloads/bilibili/BV1W2cgzREUj/audio.mp3\")",
+      "Bash(uvx faster-whisper:*)",
+      "Bash(pip uninstall:*)",
+      "Read(//c//**)",
+      "Read(//c/Users/chandlernie/AppData/Local/Temp/**)",
+      "Bash(uv pip:*)",
+      "Bash(wmic OS get FreePhysicalMemory /Value)",
+      "Bash(__NEW_LINE_3db4c1f862e0c43c__ SKILL_DIR=\"P:/AI/my-agent-skills/.claude/skills/video-summarizer\")",
+      "Bash(OUTPUT_DIR=\"./downloads/bilibili/BV11KQRBtESw_p2\")",
+      "Bash(__NEW_LINE_3db4c1f862e0c43c__ uv:*)",
+      "Bash(. /p/AI/my-agent-skills/venv/Scripts/Activate.ps1)",
+      "WebFetch(domain:learn.deeplearning.ai)",
+      "WebFetch(domain:platform-api.dlai.link)"
     ]
   }
 }
