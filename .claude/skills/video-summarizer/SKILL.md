@@ -43,15 +43,33 @@ When the user:
 bash "$SKILL_DIR/scripts/install_deps.sh"
 ```
 
+## Environment (Windows)
+
+When running on Windows with uv and Python installed via winget/pip:
+
+- **uv**: `C:\Users\chandlernie\AppData\Local\Microsoft\WinGet\Packages\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\uv.exe`
+- **Python**: `C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe`
+
+**Important**: `uv run python` may fail with "No Python" error. If so, use direct Python path:
+```bash
+"C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe" <script.py>
+```
+
+Or use PowerShell:
+```powershell
+& "C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe" script.py
+```
+
 ## Workflow
 
 ### Step 1: Get Video Info
 
 ```bash
 VIDEO_URL="https://www.bilibili.com/video/BV1qv6eBZErD"
+VIDEO_ID="BV1qv6eBZErD"
 
-# Extract video ID and create output directory
-yt-dlp --print "%(id)s" -o "./downloads/temp" "$VIDEO_URL"
+# Create output directory
+mkdir -p "./downloads/bilibili/${VIDEO_ID}/"
 ```
 
 ### Step 2: Download Subtitles
@@ -59,53 +77,48 @@ yt-dlp --print "%(id)s" -o "./downloads/temp" "$VIDEO_URL"
 **Platform-specific methods:**
 
 - **Bilibili**: See `$SKILL_DIR/reference/bilibili-method.md`
-- **deaepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
-- **YouTube/Other platforms**: `yt-dlp --write-subs --sub-lang zh-Hans,en --skip-download -o "$OUTPUT_DIR/subtitle" "$VIDEO_URL"`
+- **deepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
+- **YouTube/Other platforms**: Use PowerShell with direct paths
 
 ### Step 3: Download Video/Audio (if no subtitles)
 
-```bash
-yt-dlp -f "bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best" \
-    --merge-output-format mp4 \
-    -o "$OUTPUT_DIR/video.%(ext)s" "$VIDEO_URL"
-
-yt-dlp -x --audio-format mp3 -o "$OUTPUT_DIR/audio.%(ext)s" "$VIDEO_URL"
+```powershell
+# Use PowerShell with full paths
+& "C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe" -m yt_dlp -f "bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best" --merge-output-format mp4 -o "$OUTPUT_DIR/video.%(ext)s" "$VIDEO_URL"
 ```
 
 ### Step 4: Transcribe (if no subtitles)
 
-```bash
-uv run "$SKILL_DIR/scripts/parallel_transcribe.py" \
-    --input "$OUTPUT_DIR/audio.mp3" \
-    --output-dir "$OUTPUT_DIR" \
-    --model small
+```powershell
+& python313 "$SKILL_DIR/scripts/parallel_transcribe.py" --input "$OUTPUT_DIR/audio.mp3" --output-dir "$OUTPUT_DIR" --model small
 ```
 
 ### Step 5: Generate Summary
 
-1. Read prompt template from `$SKILL_DIR/reference/summary-prompt.md`
-2. Replace placeholders with video info and transcript
-3. Use Claude API to generate summary
-4. Save to `$OUTPUT_DIR/summary.md`
+```powershell
+& python313 "$SKILL_DIR/scripts/generate_summary.py" "$OUTPUT_DIR/transcript.txt" "$OUTPUT_DIR/summary.md" --title "视频标题" --url "$VIDEO_URL" --duration 视频时长秒数
+```
+
+Where `python313` is shorthand for `C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe`
 
 ## Scripts
 
-| Script | Description |
-|--------|-------------|
-| `install_deps.sh` | Install dependencies (uv, ffmpeg, yt-dlp) |
-| `get_bilibili_subtitle.py` | Download Bilibili subtitles using cookie file |
-| `convert_subtitle.py` | Convert JSON subtitles to VTT/TXT |
-| `parallel_transcribe.py` | Transcribe audio using Whisper |
-| `generate_summary.py` | Generate AI summary with retry logic and fallback |
+| Script | Description | Usage (Windows PowerShell) |
+|--------|-------------|---------------------------|
+| `get_bilibili_subtitle.py` | Download Bilibili subtitles using cookie file | `& python313 scripts/get_bilibili_subtitle.py <AID> <CID> <OUTPUT_DIR> [COOKIE_FILE]` |
+| `convert_subtitle.py` | Convert JSON subtitles to VTT/TXT | `& python313 scripts/convert_subtitle.py <INPUT_JSON> <OUTPUT_VTT>` |
+| `parallel_transcribe.py` | Transcribe audio using Whisper | `& python313 scripts/parallel_transcribe.py --input <AUDIO> --output-dir <DIR>` |
+| `generate_summary.py` | Generate AI summary with retry logic and fallback | `& python313 scripts/generate_summary.py <TRANSCRIPT> <OUTPUT> [OPTIONS]` |
 
 ## Notes
 
-1. **Bilibili**: See `$SKILL_DIR/reference/bilibili-method.md` for cookie setup and full workflow
-2. **DeepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
-3. **Workflow order**: Always try subtitles first, then transcribe if needed
-4. **Storage**: Files saved to `./downloads/<website>/<video_id>/`
-5. **Copyright**: For personal learning use only
-
+1. **Windows**: Use PowerShell with `& python313` or direct Python path — NOT `uv run python` which fails
+2. **Paths**: Use forward slashes in paths (/) or double quotes; avoid backslash escaping issues
+3. **Bilibili**: See `$SKILL_DIR/reference/bilibili-method.md` for cookie setup and full workflow
+4. **DeepLearning.AI**: See `$SKILL_DIR/reference/deeplearning-ai-course-method.md`
+5. **Workflow order**: Always try subtitles first, then transcribe if needed
+6. **Storage**: Files saved to `./downloads/<website>/<video_id>/`
+7. **Copyright**: For personal learning use only
 
 ## Error Handling
 
@@ -114,5 +127,4 @@ uv run "$SKILL_DIR/scripts/parallel_transcribe.py" \
 - **Bilibili cookie issues**: See `$SKILL_DIR/reference/bilibili-method.md` for cookie refresh steps
 - **DeepLearning.AI captions fail**: Fall back to VTT URL from `subtitleUrl` field
 - **API 529/Overloaded**: Retry with exponential backoff (3 attempts), fall back to transcript-only summary if all fail
-- **yt-dlp not found**: Use Python module `yt_dlp` instead of CLI; ensure venv is activated
 - **Encoding errors**: Always specify `encoding='utf-8'` when reading/writing files

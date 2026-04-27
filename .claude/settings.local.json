@@ -59,7 +59,22 @@
       "Bash(__NEW_LINE_3db4c1f862e0c43c__ uv:*)",
       "Bash(. /p/AI/my-agent-skills/venv/Scripts/Activate.ps1)",
       "WebFetch(domain:learn.deeplearning.ai)",
-      "WebFetch(domain:platform-api.dlai.link)"
+      "WebFetch(domain:platform-api.dlai.link)",
+      "Bash(./venv/Scripts/python.exe -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 ./venv/Scripts/python.exe \".claude/skills/video-summarizer/scripts/get_bilibili_subtitle.py\" \"116446495511710\" \"37711384238\" \"./downloads/bilibili/BV1DNoWBxEsx\" \"./downloads/bilibili/bilibili-cookies.txt\")",
+      "Bash(PYTHONIOENCODING=utf-8 ./venv/Scripts/python.exe \".claude/skills/video-summarizer/scripts/convert_subtitle.py\" \"./downloads/bilibili/BV1DNoWBxEsx/subtitle_ai-zh.json\" \"./downloads/bilibili/BV1DNoWBxEsx\")",
+      "Bash(PYTHONIOENCODING=utf-8 ./venv/Scripts/python.exe \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"./downloads/bilibili/BV1DNoWBxEsx/transcript.txt\" \"./downloads/bilibili/BV1DNoWBxEsx/summary.md\" --title \"大摩闭门会：原材料、风电、保险行业更新\" --url \"https://www.bilibili.com/video/BV1DNoWBxEsx\" --duration 3231)",
+      "Bash(python3 *)",
+      "Bash(C:/Python311/python.exe *)",
+      "Bash(./venv/Scripts/python .claude/skills/video-summarizer/scripts/generate_summary.py downloads/bilibili/BV1aQoNBGEPZ/transcript.txt downloads/bilibili/BV1aQoNBGEPZ/summary.md --title 大摩宏观策略：霍尔木兹博弈、AI资本开支与中国经济分化 --url https://www.bilibili.com/video/BV1aQoNBGEPZ --duration 3544 --subtitle-json downloads/bilibili/BV1aQoNBGEPZ/subtitle_ai-zh.json)",
+      "Bash(./venv/Scripts/python.exe .claude/skills/video-summarizer/scripts/generate_summary.py downloads/bilibili/BV1aQoNBGEPZ/transcript.txt downloads/bilibili/BV1aQoNBGEPZ/summary.md --title 大摩宏观策略：霍尔木兹博弈、AI资本开支与中国经济分化 --url https://www.bilibili.com/video/BV1aQoNBGEPZ --duration 3544 --subtitle-json downloads/bilibili/BV1aQoNBGEPZ/subtitle_ai-zh.json)",
+      "Bash(venv/Scripts/python.exe .claude/skills/video-summarizer/scripts/generate_summary.py \"downloads/bilibili/BV1aQoNBGEPZ\" --transcript \"downloads/bilibili/BV1aQoNBGEPZ/transcript.txt\")",
+      "Bash(powershell *)",
+      "Bash(cmd *)",
+      "Bash(/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
+      "Bash(UV_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" /c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
+      "Bash(PY_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" UV_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" /c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"downloads/bilibili/BV1aQoNBGEPZ/transcript.txt\" \"downloads/bilibili/BV1aQoNBGEPZ/summary_test.md\" --title \"大摩宏观策略谈\" --url \"https://www.bilibili.com/video/BV1aQoNBGEPZ/\" --duration 4400)"
     ]
   }
 }
