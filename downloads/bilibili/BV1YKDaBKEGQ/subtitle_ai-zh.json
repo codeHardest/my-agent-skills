@@ -1,0 +1,4556 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.32,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.32,
+      "to": 5.24,
+      "sid": 3,
+      "location": 2,
+      "content": "那最近呢一个是我感冒比较严重啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 7.42,
+      "sid": 4,
+      "location": 2,
+      "content": "但是这两天刚刚是完全恢复了",
+      "music": 0.0
+    },
+    {
+      "from": 7.42,
+      "to": 11.04,
+      "sid": 5,
+      "location": 2,
+      "content": "第二呢是确实也没有特别值得分享的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.04,
+      "to": 14.42,
+      "sid": 6,
+      "location": 2,
+      "content": "所以整个频道更新的频率是大幅下降了",
+      "music": 0.0
+    },
+    {
+      "from": 14.42,
+      "to": 15.66,
+      "sid": 7,
+      "location": 2,
+      "content": "也特别啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.66,
+      "to": 16.3,
+      "sid": 8,
+      "location": 2,
+      "content": "抱歉啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.3,
+      "to": 18.52,
+      "sid": 9,
+      "location": 2,
+      "content": "那最近呢绝大部分的研报都在盯着",
+      "music": 0.0
+    },
+    {
+      "from": 18.52,
+      "to": 20.62,
+      "sid": 10,
+      "location": 2,
+      "content": "霍尔木兹海峡的变化在更新",
+      "music": 0.0
+    },
+    {
+      "from": 20.62,
+      "to": 22.72,
+      "sid": 11,
+      "location": 2,
+      "content": "所以这类时效性的研报呢",
+      "music": 0.0
+    },
+    {
+      "from": 22.72,
+      "to": 23.64,
+      "sid": 12,
+      "location": 2,
+      "content": "我看到以后啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.64,
+      "to": 25.289,
+      "sid": 13,
+      "location": 2,
+      "content": "在录节目",
+      "music": 0.0
+    },
+    {
+      "from": 25.289,
+      "to": 26.789,
+      "sid": 14,
+      "location": 2,
+      "content": "然后再去剪视频",
+      "music": 0.0
+    },
+    {
+      "from": 26.789,
+      "to": 28.72,
+      "sid": 15,
+      "location": 2,
+      "content": "然后最终再呈现给大家呃",
+      "music": 0.0
+    },
+    {
+      "from": 28.72,
+      "to": 30.72,
+      "sid": 16,
+      "location": 2,
+      "content": "整个这个周期是比较长的啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.72,
+      "to": 32.42,
+      "sid": 17,
+      "location": 2,
+      "content": "通常至少需要一天的时间嘛",
+      "music": 0.0
+    },
+    {
+      "from": 32.42,
+      "to": 35.929,
+      "sid": 18,
+      "location": 2,
+      "content": "但是这一天之内可能特朗普又发表了新的表态",
+      "music": 0.0
+    },
+    {
+      "from": 35.929,
+      "to": 38.389,
+      "sid": 19,
+      "location": 2,
+      "content": "或者说整个霍尔木兹海峡又有了新的变化",
+      "music": 0.0
+    },
+    {
+      "from": 38.389,
+      "to": 41.94,
+      "sid": 20,
+      "location": 2,
+      "content": "所以简单来说这类报告都不太适合去做节目",
+      "music": 0.0
+    },
+    {
+      "from": 41.94,
+      "to": 43.06,
+      "sid": 21,
+      "location": 2,
+      "content": "跟大家去分享啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.06,
+      "to": 44.9,
+      "sid": 22,
+      "location": 2,
+      "content": "那也请大家多多的理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.9,
+      "to": 48.06,
+      "sid": 23,
+      "location": 2,
+      "content": "今天呢我们来分享一篇比较有意思的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 48.06,
+      "to": 50.3,
+      "sid": 24,
+      "location": 2,
+      "content": "就是大家在屏幕当中看到的这篇",
+      "music": 0.0
+    },
+    {
+      "from": 50.3,
+      "to": 51.76,
+      "sid": 25,
+      "location": 2,
+      "content": "cf40的宏观研报",
+      "music": 0.0
+    },
+    {
+      "from": 51.76,
+      "to": 53.0,
+      "sid": 26,
+      "location": 2,
+      "content": "这篇研报我读下来",
+      "music": 0.0
+    },
+    {
+      "from": 53.0,
+      "to": 54.5,
+      "sid": 27,
+      "location": 2,
+      "content": "为什么说比较有意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.5,
+      "to": 55.84,
+      "sid": 28,
+      "location": 2,
+      "content": "最核心的原因呢是",
+      "music": 0.0
+    },
+    {
+      "from": 55.84,
+      "to": 59.3,
+      "sid": 29,
+      "location": 2,
+      "content": "这篇研报的结论是相当的逆市场共识的",
+      "music": 0.0
+    },
+    {
+      "from": 59.3,
+      "to": 61.54,
+      "sid": 30,
+      "location": 2,
+      "content": "大家从这篇研报的标题就可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 61.54,
+      "to": 64.62,
+      "sid": 31,
+      "location": 2,
+      "content": "叫做中国居民资产负债表已开始修复",
+      "music": 0.0
+    },
+    {
+      "from": 64.62,
+      "to": 67.1,
+      "sid": 32,
+      "location": 2,
+      "content": "那当然很多人可能是不认同这个观点",
+      "music": 0.0
+    },
+    {
+      "from": 67.1,
+      "to": 70.17,
+      "sid": 33,
+      "location": 2,
+      "content": "特别是我们频道里面很多小伙伴平常在YOUTUBE吧",
+      "music": 0.0
+    },
+    {
+      "from": 70.17,
+      "to": 73.66,
+      "sid": 34,
+      "location": 2,
+      "content": "YOUTUBE上整体呢是相对还偏负面情绪一些",
+      "music": 0.0
+    },
+    {
+      "from": 73.66,
+      "to": 75.52,
+      "sid": 35,
+      "location": 2,
+      "content": "毕竟大家在国内可能更正能量",
+      "music": 0.0
+    },
+    {
+      "from": 75.52,
+      "to": 78.48,
+      "sid": 36,
+      "location": 2,
+      "content": "那么到YOUTUBE的话可能就是另一类的呃",
+      "music": 0.0
+    },
+    {
+      "from": 78.48,
+      "to": 81.31,
+      "sid": 37,
+      "location": 2,
+      "content": "这种啊视频或者说另一类的影片",
+      "music": 0.0
+    },
+    {
+      "from": 81.31,
+      "to": 83.27,
+      "sid": 38,
+      "location": 2,
+      "content": "相对来说更抓大家的眼球",
+      "music": 0.0
+    },
+    {
+      "from": 83.27,
+      "to": 87.88,
+      "sid": 39,
+      "location": 2,
+      "content": "那这篇研报本身显然是比较逆大家的共识的",
+      "music": 0.0
+    },
+    {
+      "from": 87.88,
+      "to": 89.62,
+      "sid": 40,
+      "location": 2,
+      "content": "另一个逆共识的点呢",
+      "music": 0.0
+    },
+    {
+      "from": 89.62,
+      "to": 93.19,
+      "sid": 41,
+      "location": 2,
+      "content": "就是实际上这篇研报的很多观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.19,
+      "to": 95.84,
+      "sid": 42,
+      "location": 2,
+      "content": "是在当前的一个资产定价方面",
+      "music": 0.0
+    },
+    {
+      "from": 95.84,
+      "to": 97.42,
+      "sid": 43,
+      "location": 2,
+      "content": "也没有完全的体现出来",
+      "music": 0.0
+    },
+    {
+      "from": 97.42,
+      "to": 100.5,
+      "sid": 44,
+      "location": 2,
+      "content": "简单来说呢就是目前无论是股债汇",
+      "music": 0.0
+    },
+    {
+      "from": 100.5,
+      "to": 102.24,
+      "sid": 45,
+      "location": 2,
+      "content": "似乎都没有呈现出",
+      "music": 0.0
+    },
+    {
+      "from": 102.24,
+      "to": 104.44,
+      "sid": 46,
+      "location": 2,
+      "content": "中国的居民资产负债表已经开始修复",
+      "music": 0.0
+    },
+    {
+      "from": 104.44,
+      "to": 107.429,
+      "sid": 47,
+      "location": 2,
+      "content": "甚至说中国经济已经开始进入到了",
+      "music": 0.0
+    },
+    {
+      "from": 107.429,
+      "to": 109.729,
+      "sid": 48,
+      "location": 2,
+      "content": "新一轮的宏观周期的一个起点",
+      "music": 0.0
+    },
+    {
+      "from": 109.729,
+      "to": 113.62,
+      "sid": 49,
+      "location": 2,
+      "content": "似乎从目前的各类股债汇的评价",
+      "music": 0.0
+    },
+    {
+      "from": 113.62,
+      "to": 115.2,
+      "sid": 50,
+      "location": 2,
+      "content": "没有反映出这样的一个现象",
+      "music": 0.0
+    },
+    {
+      "from": 115.2,
+      "to": 116.14,
+      "sid": 51,
+      "location": 2,
+      "content": "所以这也是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 116.14,
+      "to": 117.82,
+      "sid": 52,
+      "location": 2,
+      "content": "我觉得这篇研报比较有价值的点",
+      "music": 0.0
+    },
+    {
+      "from": 117.82,
+      "to": 120.48,
+      "sid": 53,
+      "location": 2,
+      "content": "就是他敢于提出一个相对这个",
+      "music": 0.0
+    },
+    {
+      "from": 120.48,
+      "to": 122.12,
+      "sid": 54,
+      "location": 2,
+      "content": "逆大家共识的观点",
+      "music": 0.0
+    },
+    {
+      "from": 122.12,
+      "to": 124.8,
+      "sid": 55,
+      "location": 2,
+      "content": "那接下来呢我就简单的来跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 124.8,
+      "to": 126.88,
+      "sid": 56,
+      "location": 2,
+      "content": "这篇研报的核心观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.88,
+      "to": 127.88,
+      "sid": 57,
+      "location": 2,
+      "content": "啊简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 127.88,
+      "to": 130.2,
+      "sid": 58,
+      "location": 2,
+      "content": "就是他们把居民资产负债表啊",
+      "music": 0.0
+    },
+    {
+      "from": 130.2,
+      "to": 131.16,
+      "sid": 59,
+      "location": 2,
+      "content": "他的一个修复",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 135.34,
+      "sid": 60,
+      "location": 2,
+      "content": "首先定义为了居民能够有效的积累净资产",
+      "music": 0.0
+    },
+    {
+      "from": 135.34,
+      "to": 139.56,
+      "sid": 61,
+      "location": 2,
+      "content": "那么把居民的净资产又做了一个进一步的拆分",
+      "music": 0.0
+    },
+    {
+      "from": 139.56,
+      "to": 140.56,
+      "sid": 62,
+      "location": 2,
+      "content": "分成了三部分",
+      "music": 0.0
+    },
+    {
+      "from": 140.56,
+      "to": 143.88,
+      "sid": 63,
+      "location": 2,
+      "content": "分别是当期盈余估值变化和负债增量",
+      "music": 0.0
+    },
+    {
+      "from": 143.88,
+      "to": 145.76,
+      "sid": 64,
+      "location": 2,
+      "content": "那么最终发现的结果呢是",
+      "music": 0.0
+    },
+    {
+      "from": 145.76,
+      "to": 148.34,
+      "sid": 65,
+      "location": 2,
+      "content": "本轮轮居民净资产增量的高点是在",
+      "music": 0.0
+    },
+    {
+      "from": 148.34,
+      "to": 149.78,
+      "sid": 66,
+      "location": 2,
+      "content": "2021年的二季度",
+      "music": 0.0
+    },
+    {
+      "from": 149.78,
+      "to": 153.12,
+      "sid": 67,
+      "location": 2,
+      "content": "而低点是在2024年的三季度",
+      "music": 0.0
+    },
+    {
+      "from": 153.12,
+      "to": 154.52,
+      "sid": 68,
+      "location": 2,
+      "content": "在2021年的二季度",
+      "music": 0.0
+    },
+    {
+      "from": 154.52,
+      "to": 155.92,
+      "sid": 69,
+      "location": 2,
+      "content": "到2024年三季度",
+      "music": 0.0
+    },
+    {
+      "from": 155.92,
+      "to": 156.959,
+      "sid": 70,
+      "location": 2,
+      "content": "这个期间",
+      "music": 0.0
+    },
+    {
+      "from": 156.959,
+      "to": 160.359,
+      "sid": 71,
+      "location": 2,
+      "content": "整体居民部门净资产增量是在持续收缩的",
+      "music": 0.0
+    },
+    {
+      "from": 160.359,
+      "to": 161.879,
+      "sid": 72,
+      "location": 2,
+      "content": "其中最主要的一个原因是",
+      "music": 0.0
+    },
+    {
+      "from": 161.879,
+      "to": 163.599,
+      "sid": 73,
+      "location": 2,
+      "content": "房地产估值在持续下降",
+      "music": 0.0
+    },
+    {
+      "from": 163.599,
+      "to": 166.2,
+      "sid": 74,
+      "location": 2,
+      "content": "说的直白一点就是房价在快速的下降",
+      "music": 0.0
+    },
+    {
+      "from": 166.2,
+      "to": 169.12,
+      "sid": 75,
+      "location": 2,
+      "content": "那么同时呢当期的这个盈余啊",
+      "music": 0.0
+    },
+    {
+      "from": 169.12,
+      "to": 171.76,
+      "sid": 76,
+      "location": 2,
+      "content": "也就是说我们收入减去必要的一些支出以外",
+      "music": 0.0
+    },
+    {
+      "from": 171.76,
+      "to": 173.58,
+      "sid": 77,
+      "location": 2,
+      "content": "剩下的可以用于储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 173.58,
+      "to": 176.88,
+      "sid": 78,
+      "location": 2,
+      "content": "可以用于投资向金融资产等等领域的啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.88,
+      "to": 179.05,
+      "sid": 79,
+      "location": 2,
+      "content": "钱本身是在受到影响",
+      "music": 0.0
+    },
+    {
+      "from": 179.05,
+      "to": 181.61,
+      "sid": 80,
+      "location": 2,
+      "content": "那这两方面叠加之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.61,
+      "to": 183.73,
+      "sid": 81,
+      "location": 2,
+      "content": "就造成了整个啊这个期间啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.73,
+      "to": 185.97,
+      "sid": 82,
+      "location": 2,
+      "content": "我们居民部门的净资产增量",
+      "music": 0.0
+    },
+    {
+      "from": 185.97,
+      "to": 187.53,
+      "sid": 83,
+      "location": 2,
+      "content": "是在持续的收缩的啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.53,
+      "to": 189.19,
+      "sid": 84,
+      "location": 2,
+      "content": "所以因此呢用房价下跌",
+      "music": 0.0
+    },
+    {
+      "from": 189.19,
+      "to": 192.37,
+      "sid": 85,
+      "location": 2,
+      "content": "导致居民净资产负债表持续受损啊",
+      "music": 0.0
+    },
+    {
+      "from": 192.37,
+      "to": 196.019,
+      "sid": 86,
+      "location": 2,
+      "content": "这个表述来描述这一阶段的话是中肯且准确的",
+      "music": 0.0
+    },
+    {
+      "from": 196.019,
+      "to": 197.579,
+      "sid": 87,
+      "location": 2,
+      "content": "那么接下来呢就是第二个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 197.579,
+      "to": 199.379,
+      "sid": 88,
+      "location": 2,
+      "content": "是从2024年的三季度",
+      "music": 0.0
+    },
+    {
+      "from": 199.379,
+      "to": 201.46,
+      "sid": 89,
+      "location": 2,
+      "content": "也就是刚刚提到的这个低点啊",
+      "music": 0.0
+    },
+    {
+      "from": 201.46,
+      "to": 202.94,
+      "sid": 90,
+      "location": 2,
+      "content": "开始往后看啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.94,
+      "to": 204.18,
+      "sid": 91,
+      "location": 2,
+      "content": "直直到今天",
+      "music": 0.0
+    },
+    {
+      "from": 204.18,
+      "to": 207.18,
+      "sid": 92,
+      "location": 2,
+      "content": "那么这三个因素呢都出现了同步改善啊",
+      "music": 0.0
+    },
+    {
+      "from": 207.18,
+      "to": 210.38,
+      "sid": 93,
+      "location": 2,
+      "content": "当然其中最大的贡献呢是当期盈余式",
+      "music": 0.0
+    },
+    {
+      "from": 210.38,
+      "to": 211.78,
+      "sid": 94,
+      "location": 2,
+      "content": "开始额增长了",
+      "music": 0.0
+    },
+    {
+      "from": 211.78,
+      "to": 215.04,
+      "sid": 95,
+      "location": 2,
+      "content": "那么再加上整个房房价下跌的速度在减缓",
+      "music": 0.0
+    },
+    {
+      "from": 215.04,
+      "to": 218.32,
+      "sid": 96,
+      "location": 2,
+      "content": "同时最近一段时间股票的市场表现不错",
+      "music": 0.0
+    },
+    {
+      "from": 218.32,
+      "to": 219.76,
+      "sid": 97,
+      "location": 2,
+      "content": "特别是在2025年啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.76,
+      "to": 221.76,
+      "sid": 98,
+      "location": 2,
+      "content": "整体股票市场的表现是不错的",
+      "music": 0.0
+    },
+    {
+      "from": 221.76,
+      "to": 223.66,
+      "sid": 99,
+      "location": 2,
+      "content": "那么这几个积极变化",
+      "music": 0.0
+    },
+    {
+      "from": 223.66,
+      "to": 227.32,
+      "sid": 100,
+      "location": 2,
+      "content": "共同造就了中国的居民净资产负债啊",
+      "music": 0.0
+    },
+    {
+      "from": 227.32,
+      "to": 230.36,
+      "sid": 101,
+      "location": 2,
+      "content": "这样或者说居民中国居民的净资产增量时",
+      "music": 0.0
+    },
+    {
+      "from": 230.36,
+      "to": 232.44,
+      "sid": 102,
+      "location": 2,
+      "content": "开始由负转正啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.44,
+      "to": 233.36,
+      "sid": 103,
+      "location": 2,
+      "content": "那我也给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 233.36,
+      "to": 235.48,
+      "sid": 104,
+      "location": 2,
+      "content": "这篇研报里面的一张关键的图啊",
+      "music": 0.0
+    },
+    {
+      "from": 235.48,
+      "to": 237.5,
+      "sid": 105,
+      "location": 2,
+      "content": "就是大家现在看到的这一张啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.5,
+      "to": 241.08,
+      "sid": 106,
+      "location": 2,
+      "content": "那这一张图里面橙色的部分呢是资产的增量啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.08,
+      "to": 243.28,
+      "sid": 107,
+      "location": 2,
+      "content": "蓝色部分呢是负债的增量啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.28,
+      "to": 245.1,
+      "sid": 108,
+      "location": 2,
+      "content": "简单来说刚才提到的那个指标",
+      "music": 0.0
+    },
+    {
+      "from": 245.1,
+      "to": 247.26,
+      "sid": 109,
+      "location": 2,
+      "content": "净资产增量就是这条绿色的线",
+      "music": 0.0
+    },
+    {
+      "from": 247.26,
+      "to": 248.34,
+      "sid": 110,
+      "location": 2,
+      "content": "可以看到它的周期",
+      "music": 0.0
+    },
+    {
+      "from": 248.34,
+      "to": 250.5,
+      "sid": 111,
+      "location": 2,
+      "content": "最高点是在2021年的6月",
+      "music": 0.0
+    },
+    {
+      "from": 250.5,
+      "to": 252.829,
+      "sid": 112,
+      "location": 2,
+      "content": "也就是2021年的二季度末",
+      "music": 0.0
+    },
+    {
+      "from": 252.829,
+      "to": 256.249,
+      "sid": 113,
+      "location": 2,
+      "content": "那么之后的话就持续的开始往下走啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.249,
+      "to": 258.269,
+      "sid": 114,
+      "location": 2,
+      "content": "最低点呢是在2024年的9月",
+      "music": 0.0
+    },
+    {
+      "from": 258.269,
+      "to": 261.35,
+      "sid": 115,
+      "location": 2,
+      "content": "当时的话整体的净资产增量已经为负值了",
+      "music": 0.0
+    },
+    {
+      "from": 261.35,
+      "to": 263.71,
+      "sid": 116,
+      "location": 2,
+      "content": "当然924政策出来以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 263.71,
+      "to": 265.54,
+      "sid": 117,
+      "location": 2,
+      "content": "其实也推动着股市的上行",
+      "music": 0.0
+    },
+    {
+      "from": 265.54,
+      "to": 268.86,
+      "sid": 118,
+      "location": 2,
+      "content": "那么尔呢推动整个中国经济开始阶段性的修复",
+      "music": 0.0
+    },
+    {
+      "from": 268.86,
+      "to": 269.78,
+      "sid": 119,
+      "location": 2,
+      "content": "再到2025年",
+      "music": 0.0
+    },
+    {
+      "from": 269.78,
+      "to": 271.16,
+      "sid": 120,
+      "location": 2,
+      "content": "整个股市表现不错",
+      "music": 0.0
+    },
+    {
+      "from": 271.16,
+      "to": 274.81,
+      "sid": 121,
+      "location": 2,
+      "content": "同时房价的跌幅虽然还在些个别城市",
+      "music": 0.0
+    },
+    {
+      "from": 274.81,
+      "to": 277.01,
+      "sid": 122,
+      "location": 2,
+      "content": "特别是一线城市有比较明显的加速",
+      "music": 0.0
+    },
+    {
+      "from": 277.01,
+      "to": 278.45,
+      "sid": 123,
+      "location": 2,
+      "content": "但是在一些弱能级城市",
+      "music": 0.0
+    },
+    {
+      "from": 278.45,
+      "to": 280.21,
+      "sid": 124,
+      "location": 2,
+      "content": "它的整体跌幅是开始收窄",
+      "music": 0.0
+    },
+    {
+      "from": 280.21,
+      "to": 284.35,
+      "sid": 125,
+      "location": 2,
+      "content": "所以整体啊我们看到的是居民的净资产增量啊",
+      "music": 0.0
+    },
+    {
+      "from": 284.35,
+      "to": 287.11,
+      "sid": 126,
+      "location": 2,
+      "content": "是开始企稳并且回升了",
+      "music": 0.0
+    },
+    {
+      "from": 287.43,
+      "to": 288.67,
+      "sid": 127,
+      "location": 2,
+      "content": "那么到摘要部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 288.67,
+      "to": 290.39,
+      "sid": 128,
+      "location": 2,
+      "content": "就基于上述的分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.39,
+      "to": 292.63,
+      "sid": 129,
+      "location": 2,
+      "content": "这篇研报是认为2026年啊",
+      "music": 0.0
+    },
+    {
+      "from": 292.63,
+      "to": 294.55,
+      "sid": 130,
+      "location": 2,
+      "content": "居民的这样一个净资产增量的",
+      "music": 0.0
+    },
+    {
+      "from": 294.55,
+      "to": 296.88,
+      "sid": 131,
+      "location": 2,
+      "content": "名义增速还会持续的改善",
+      "music": 0.0
+    },
+    {
+      "from": 296.88,
+      "to": 300.02,
+      "sid": 132,
+      "location": 2,
+      "content": "本轮经济复苏和通胀改善的持续性",
+      "music": 0.0
+    },
+    {
+      "from": 300.02,
+      "to": 301.82,
+      "sid": 133,
+      "location": 2,
+      "content": "可能会好于市场预期",
+      "music": 0.0
+    },
+    {
+      "from": 301.82,
+      "to": 304.52,
+      "sid": 134,
+      "location": 2,
+      "content": "也就是刚刚提到的逆市场共识这个观点",
+      "music": 0.0
+    },
+    {
+      "from": 304.52,
+      "to": 307.95,
+      "sid": 135,
+      "location": 2,
+      "content": "那同时呢从目前无论是股债汇啊",
+      "music": 0.0
+    },
+    {
+      "from": 307.95,
+      "to": 311.04,
+      "sid": 136,
+      "location": 2,
+      "content": "就股票长期利率和人民币汇率这三个方面",
+      "music": 0.0
+    },
+    {
+      "from": 311.04,
+      "to": 314.26,
+      "sid": 137,
+      "location": 2,
+      "content": "它的主要资产价格仍然是面临着重估",
+      "music": 0.0
+    },
+    {
+      "from": 314.26,
+      "to": 316.62,
+      "sid": 138,
+      "location": 2,
+      "content": "也就是说这三类资产的定价",
+      "music": 0.0
+    },
+    {
+      "from": 316.62,
+      "to": 321.43,
+      "sid": 139,
+      "location": 2,
+      "content": "还没有反映出中国经济这一轮宏观周期的开始",
+      "music": 0.0
+    },
+    {
+      "from": 321.43,
+      "to": 323.61,
+      "sid": 140,
+      "location": 2,
+      "content": "那接下来呢我就简单的跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 323.61,
+      "to": 325.74,
+      "sid": 141,
+      "location": 2,
+      "content": "这篇研报的整体推演逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 325.74,
+      "to": 326.98,
+      "sid": 142,
+      "location": 2,
+      "content": "前面的内容就不说了啊",
+      "music": 0.0
+    },
+    {
+      "from": 326.98,
+      "to": 328.5,
+      "sid": 143,
+      "location": 2,
+      "content": "我们先来看一下第一段落",
+      "music": 0.0
+    },
+    {
+      "from": 328.5,
+      "to": 331.86,
+      "sid": 144,
+      "location": 2,
+      "content": "叫做如何判断居民资产负债表在修复",
+      "music": 0.0
+    },
+    {
+      "from": 331.86,
+      "to": 333.74,
+      "sid": 145,
+      "location": 2,
+      "content": "那刚才其实已经给大家下了定义啊",
+      "music": 0.0
+    },
+    {
+      "from": 333.74,
+      "to": 335.34,
+      "sid": 146,
+      "location": 2,
+      "content": "这整体的一个推导过程呢",
+      "music": 0.0
+    },
+    {
+      "from": 335.34,
+      "to": 338.37,
+      "sid": 147,
+      "location": 2,
+      "content": "就是啊我们用净资产增量啊一个指标",
+      "music": 0.0
+    },
+    {
+      "from": 338.37,
+      "to": 339.69,
+      "sid": 148,
+      "location": 2,
+      "content": "而净资产增量本身呢",
+      "music": 0.0
+    },
+    {
+      "from": 339.69,
+      "to": 342.64,
+      "sid": 149,
+      "location": 2,
+      "content": "其实是用资产的增量减去负债的增量",
+      "music": 0.0
+    },
+    {
+      "from": 342.64,
+      "to": 345.72,
+      "sid": 150,
+      "location": 2,
+      "content": "而资产增量本身呢又可以进一步的拆分为",
+      "music": 0.0
+    },
+    {
+      "from": 345.72,
+      "to": 347.8,
+      "sid": 151,
+      "location": 2,
+      "content": "当期盈余和估值变化",
+      "music": 0.0
+    },
+    {
+      "from": 347.8,
+      "to": 350.28,
+      "sid": 152,
+      "location": 2,
+      "content": "所以就有了这样的一个公式啊",
+      "music": 0.0
+    },
+    {
+      "from": 350.28,
+      "to": 352.84,
+      "sid": 153,
+      "location": 2,
+      "content": "叫做净资产增量等于当期盈余",
+      "music": 0.0
+    },
+    {
+      "from": 352.84,
+      "to": 355.42,
+      "sid": 154,
+      "location": 2,
+      "content": "加上估值变化减去负债增量",
+      "music": 0.0
+    },
+    {
+      "from": 355.42,
+      "to": 356.88,
+      "sid": 155,
+      "location": 2,
+      "content": "这里面我们具体拆分一下",
+      "music": 0.0
+    },
+    {
+      "from": 356.88,
+      "to": 360.52,
+      "sid": 156,
+      "location": 2,
+      "content": "当期盈余本身反映的是居民部门能攒下多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 360.52,
+      "to": 362.12,
+      "sid": 157,
+      "location": 2,
+      "content": "来形成有效的资产",
+      "music": 0.0
+    },
+    {
+      "from": 362.12,
+      "to": 365.04,
+      "sid": 158,
+      "location": 2,
+      "content": "也就是说用收入减去你必要的一些支出以外",
+      "music": 0.0
+    },
+    {
+      "from": 365.04,
+      "to": 367.14,
+      "sid": 159,
+      "location": 2,
+      "content": "剩下的钱叫做当期盈余",
+      "music": 0.0
+    },
+    {
+      "from": 367.14,
+      "to": 368.36,
+      "sid": 160,
+      "location": 2,
+      "content": "那么估值变化呢",
+      "music": 0.0
+    },
+    {
+      "from": 368.36,
+      "to": 371.36,
+      "sid": 161,
+      "location": 2,
+      "content": "反映的是居民部门资产的增值或缩水",
+      "music": 0.0
+    },
+    {
+      "from": 371.36,
+      "to": 373.32,
+      "sid": 162,
+      "location": 2,
+      "content": "这里面主要当然是房子啊",
+      "music": 0.0
+    },
+    {
+      "from": 373.32,
+      "to": 375.03,
+      "sid": 163,
+      "location": 2,
+      "content": "当然也包括股票啊",
+      "music": 0.0
+    },
+    {
+      "from": 375.03,
+      "to": 376.01,
+      "sid": 164,
+      "location": 2,
+      "content": "股价的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 376.01,
+      "to": 378.37,
+      "sid": 165,
+      "location": 2,
+      "content": "房价的上涨显然对于估值变化是好的",
+      "music": 0.0
+    },
+    {
+      "from": 378.37,
+      "to": 380.41,
+      "sid": 166,
+      "location": 2,
+      "content": "那房价下跌的跌幅收窄啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.41,
+      "to": 382.2,
+      "sid": 167,
+      "location": 2,
+      "content": "对于估值变化其实也是好的",
+      "music": 0.0
+    },
+    {
+      "from": 382.2,
+      "to": 384.16,
+      "sid": 168,
+      "location": 2,
+      "content": "那第三块呢就是负债的增量",
+      "music": 0.0
+    },
+    {
+      "from": 384.16,
+      "to": 386.6,
+      "sid": 169,
+      "location": 2,
+      "content": "这里面主要反映的就是居民部门的借贷行为",
+      "music": 0.0
+    },
+    {
+      "from": 386.6,
+      "to": 388.2,
+      "sid": 170,
+      "location": 2,
+      "content": "是扩表还是缩表",
+      "music": 0.0
+    },
+    {
+      "from": 388.2,
+      "to": 390.8,
+      "sid": 171,
+      "location": 2,
+      "content": "那显然啊目前居民整体还是缩表",
+      "music": 0.0
+    },
+    {
+      "from": 390.8,
+      "to": 392.04,
+      "sid": 172,
+      "location": 2,
+      "content": "所以这三项啊",
+      "music": 0.0
+    },
+    {
+      "from": 392.04,
+      "to": 394.7,
+      "sid": 173,
+      "location": 2,
+      "content": "在最近一段时间确实都是在发生积极的变化",
+      "music": 0.0
+    },
+    {
+      "from": 394.7,
+      "to": 395.98,
+      "sid": 174,
+      "location": 2,
+      "content": "那说完定义以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 395.98,
+      "to": 396.86,
+      "sid": 175,
+      "location": 2,
+      "content": "我们就来说一下",
+      "music": 0.0
+    },
+    {
+      "from": 396.86,
+      "to": 399.66,
+      "sid": 176,
+      "location": 2,
+      "content": "居民部门资产负债表修复的两个主音啊",
+      "music": 0.0
+    },
+    {
+      "from": 399.66,
+      "to": 404.0,
+      "sid": 177,
+      "location": 2,
+      "content": "简单来说呢就是盈余的修复和股票估值的提高",
+      "music": 0.0
+    },
+    {
+      "from": 404.0,
+      "to": 405.3,
+      "sid": 178,
+      "location": 2,
+      "content": "那刚才讲到的盈余修复",
+      "music": 0.0
+    },
+    {
+      "from": 405.3,
+      "to": 406.9,
+      "sid": 179,
+      "location": 2,
+      "content": "就指的是当期盈余的修复啊",
+      "music": 0.0
+    },
+    {
+      "from": 406.9,
+      "to": 409.46,
+      "sid": 180,
+      "location": 2,
+      "content": "但现在我们来看一下当期盈余包含哪些内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.46,
+      "to": 412.3,
+      "sid": 181,
+      "location": 2,
+      "content": "主要包含的就是新增存款加上新增理财",
+      "music": 0.0
+    },
+    {
+      "from": 412.3,
+      "to": 414.54,
+      "sid": 182,
+      "location": 2,
+      "content": "加新增保险加新增货币基金",
+      "music": 0.0
+    },
+    {
+      "from": 414.54,
+      "to": 416.22,
+      "sid": 183,
+      "location": 2,
+      "content": "加上股票净流入",
+      "music": 0.0
+    },
+    {
+      "from": 416.22,
+      "to": 417.66,
+      "sid": 184,
+      "location": 2,
+      "content": "加上房地产净流入",
+      "music": 0.0
+    },
+    {
+      "from": 417.66,
+      "to": 419.58,
+      "sid": 185,
+      "location": 2,
+      "content": "也就把这些数据加到一起呢",
+      "music": 0.0
+    },
+    {
+      "from": 419.58,
+      "to": 422.47,
+      "sid": 186,
+      "location": 2,
+      "content": "我们就可以得到净资产增量的一个",
+      "music": 0.0
+    },
+    {
+      "from": 422.47,
+      "to": 425.43,
+      "sid": 187,
+      "location": 2,
+      "content": "按照季度的数据走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 425.43,
+      "to": 427.79,
+      "sid": 188,
+      "location": 2,
+      "content": "那其中橙色部分呢就是资产增量啊",
+      "music": 0.0
+    },
+    {
+      "from": 427.79,
+      "to": 429.23,
+      "sid": 189,
+      "location": 2,
+      "content": "蓝色部分是负债的增量",
+      "music": 0.0
+    },
+    {
+      "from": 429.23,
+      "to": 432.99,
+      "sid": 190,
+      "location": 2,
+      "content": "那绿色这条线呢就是净资产增量的一个走势图",
+      "music": 0.0
+    },
+    {
+      "from": 432.99,
+      "to": 434.33,
+      "sid": 191,
+      "location": 2,
+      "content": "当然这张图本身呢",
+      "music": 0.0
+    },
+    {
+      "from": 434.33,
+      "to": 437.32,
+      "sid": 192,
+      "location": 2,
+      "content": "它是一个相对波动性比较强的图",
+      "music": 0.0
+    },
+    {
+      "from": 437.32,
+      "to": 441.08,
+      "sid": 193,
+      "location": 2,
+      "content": "经过了这四期累加的一个平滑处理之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 441.08,
+      "to": 441.96,
+      "sid": 194,
+      "location": 2,
+      "content": "我们就得到了",
+      "music": 0.0
+    },
+    {
+      "from": 441.96,
+      "to": 444.78,
+      "sid": 195,
+      "location": 2,
+      "content": "刚刚在啊开篇时候给大家看到的这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 444.78,
+      "to": 447.58,
+      "sid": 196,
+      "location": 2,
+      "content": "啊这张图里面就呈现出了非常明显的特征啊",
+      "music": 0.0
+    },
+    {
+      "from": 447.58,
+      "to": 449.48,
+      "sid": 197,
+      "location": 2,
+      "content": "2022~2025年呢",
+      "music": 0.0
+    },
+    {
+      "from": 449.48,
+      "to": 451.58,
+      "sid": 198,
+      "location": 2,
+      "content": "是一个非常明显的U型啊",
+      "music": 0.0
+    },
+    {
+      "from": 451.58,
+      "to": 452.74,
+      "sid": 199,
+      "location": 2,
+      "content": "大家可以看到呃",
+      "music": 0.0
+    },
+    {
+      "from": 452.74,
+      "to": 453.92,
+      "sid": 200,
+      "location": 2,
+      "content": "其实这条蓝色的呃",
+      "music": 0.0
+    },
+    {
+      "from": 453.92,
+      "to": 454.8,
+      "sid": 201,
+      "location": 2,
+      "content": "这条绿色的线啊",
+      "music": 0.0
+    },
+    {
+      "from": 454.8,
+      "to": 456.92,
+      "sid": 202,
+      "location": 2,
+      "content": "是从2021年6月的高位啊",
+      "music": 0.0
+    },
+    {
+      "from": 456.92,
+      "to": 457.92,
+      "sid": 203,
+      "location": 2,
+      "content": "开始持续往下走",
+      "music": 0.0
+    },
+    {
+      "from": 457.92,
+      "to": 460.909,
+      "sid": 204,
+      "location": 2,
+      "content": "然后到24年的9月到低点之后开始反弹",
+      "music": 0.0
+    },
+    {
+      "from": 460.909,
+      "to": 461.709,
+      "sid": 205,
+      "location": 2,
+      "content": "简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 461.709,
+      "to": 463.869,
+      "sid": 206,
+      "location": 2,
+      "content": "就是本轮净资产增量的高点是在",
+      "music": 0.0
+    },
+    {
+      "from": 463.869,
+      "to": 465.269,
+      "sid": 207,
+      "location": 2,
+      "content": "2021年的二季度",
+      "music": 0.0
+    },
+    {
+      "from": 465.269,
+      "to": 467.389,
+      "sid": 208,
+      "location": 2,
+      "content": "那低点呢是在24年的三季度",
+      "music": 0.0
+    },
+    {
+      "from": 467.389,
+      "to": 470.5,
+      "sid": 209,
+      "location": 2,
+      "content": "这与本轮制造业产能周期的下行阶段",
+      "music": 0.0
+    },
+    {
+      "from": 470.5,
+      "to": 471.84,
+      "sid": 210,
+      "location": 2,
+      "content": "几乎是完全一致的",
+      "music": 0.0
+    },
+    {
+      "from": 471.84,
+      "to": 472.66,
+      "sid": 211,
+      "location": 2,
+      "content": "那这一阶段呢",
+      "music": 0.0
+    },
+    {
+      "from": 472.66,
+      "to": 475.64,
+      "sid": 212,
+      "location": 2,
+      "content": "居民部门净资产增量是在持续收缩的",
+      "music": 0.0
+    },
+    {
+      "from": 475.64,
+      "to": 478.49,
+      "sid": 213,
+      "location": 2,
+      "content": "居民部门经历的是一个双重的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 478.49,
+      "to": 481.65,
+      "sid": 214,
+      "location": 2,
+      "content": "也就是一方面我们看到的是累计盈余",
+      "music": 0.0
+    },
+    {
+      "from": 481.65,
+      "to": 483.47,
+      "sid": 215,
+      "location": 2,
+      "content": "也就是能攒下的钱在减少",
+      "music": 0.0
+    },
+    {
+      "from": 483.47,
+      "to": 486.33,
+      "sid": 216,
+      "location": 2,
+      "content": "另一方面呢是持有存量资产的估值",
+      "music": 0.0
+    },
+    {
+      "from": 486.33,
+      "to": 487.6,
+      "sid": 217,
+      "location": 2,
+      "content": "在持续的受损",
+      "music": 0.0
+    },
+    {
+      "from": 487.6,
+      "to": 489.08,
+      "sid": 218,
+      "location": 2,
+      "content": "这里面既包括房地产",
+      "music": 0.0
+    },
+    {
+      "from": 489.08,
+      "to": 490.02,
+      "sid": 219,
+      "location": 2,
+      "content": "也包括股票",
+      "music": 0.0
+    },
+    {
+      "from": 490.02,
+      "to": 491.88,
+      "sid": 220,
+      "location": 2,
+      "content": "因为在24年9月之前",
+      "music": 0.0
+    },
+    {
+      "from": 491.88,
+      "to": 494.2,
+      "sid": 221,
+      "location": 2,
+      "content": "实际上整个股市也是跌到了最低点",
+      "music": 0.0
+    },
+    {
+      "from": 494.2,
+      "to": 496.74,
+      "sid": 222,
+      "location": 2,
+      "content": "大概是2600点啊这样一个水平",
+      "music": 0.0
+    },
+    {
+      "from": 496.74,
+      "to": 498.24,
+      "sid": 223,
+      "location": 2,
+      "content": "而而到了2025年呢",
+      "music": 0.0
+    },
+    {
+      "from": 498.24,
+      "to": 500.64,
+      "sid": 224,
+      "location": 2,
+      "content": "这两股力量都在持续的改善啊",
+      "music": 0.0
+    },
+    {
+      "from": 500.64,
+      "to": 502.88,
+      "sid": 225,
+      "location": 2,
+      "content": "一方面呢是积累盈余的速度啊",
+      "music": 0.0
+    },
+    {
+      "from": 502.88,
+      "to": 503.72,
+      "sid": 226,
+      "location": 2,
+      "content": "迅速的修复",
+      "music": 0.0
+    },
+    {
+      "from": 503.72,
+      "to": 507.9,
+      "sid": 227,
+      "location": 2,
+      "content": "也就是说居民部门的收入呢还是在稳中有进的",
+      "music": 0.0
+    },
+    {
+      "from": 507.9,
+      "to": 509.58,
+      "sid": 228,
+      "location": 2,
+      "content": "tag呢就是估值的贡献啊",
+      "music": 0.0
+    },
+    {
+      "from": 509.58,
+      "to": 510.54,
+      "sid": 229,
+      "location": 2,
+      "content": "虽然依然是负的",
+      "music": 0.0
+    },
+    {
+      "from": 510.54,
+      "to": 511.78,
+      "sid": 230,
+      "location": 2,
+      "content": "也就是说房价还在下跌",
+      "music": 0.0
+    },
+    {
+      "from": 511.78,
+      "to": 515.789,
+      "sid": 231,
+      "location": 2,
+      "content": "但是呢整体负的这个速度是在减缓的",
+      "music": 0.0
+    },
+    {
+      "from": 515.789,
+      "to": 518.229,
+      "sid": 232,
+      "location": 2,
+      "content": "那我们具体再做一个进一步的拆分呢",
+      "music": 0.0
+    },
+    {
+      "from": 518.229,
+      "to": 519.469,
+      "sid": 233,
+      "location": 2,
+      "content": "就得到了这样一张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 519.469,
+      "to": 521.749,
+      "sid": 234,
+      "location": 2,
+      "content": "这张图是净资产变化的三个因素",
+      "music": 0.0
+    },
+    {
+      "from": 521.749,
+      "to": 523.559,
+      "sid": 235,
+      "location": 2,
+      "content": "分别是当期盈余啊",
+      "music": 0.0
+    },
+    {
+      "from": 523.559,
+      "to": 526.159,
+      "sid": 236,
+      "location": 2,
+      "content": "估值效应和负债增量这三部分啊",
+      "music": 0.0
+    },
+    {
+      "from": 526.159,
+      "to": 527.34,
+      "sid": 237,
+      "location": 2,
+      "content": "分别以橙色",
+      "music": 0.0
+    },
+    {
+      "from": 527.34,
+      "to": 529.28,
+      "sid": 238,
+      "location": 2,
+      "content": "蓝色和绿色去代表",
+      "music": 0.0
+    },
+    {
+      "from": 529.28,
+      "to": 532.6,
+      "sid": 239,
+      "location": 2,
+      "content": "那大家可以看到在整个U型的最高点的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 532.6,
+      "to": 535.52,
+      "sid": 240,
+      "location": 2,
+      "content": "那呃相对来说这个蓝色部分是表现最好的",
+      "music": 0.0
+    },
+    {
+      "from": 535.52,
+      "to": 538.44,
+      "sid": 241,
+      "location": 2,
+      "content": "也就是说整个房子和股票的估值",
+      "music": 0.0
+    },
+    {
+      "from": 538.44,
+      "to": 540.6,
+      "sid": 242,
+      "location": 2,
+      "content": "它的上涨幅度是最大的",
+      "music": 0.0
+    },
+    {
+      "from": 540.6,
+      "to": 541.64,
+      "sid": 243,
+      "location": 2,
+      "content": "在这之后的话",
+      "music": 0.0
+    },
+    {
+      "from": 541.64,
+      "to": 543.38,
+      "sid": 244,
+      "location": 2,
+      "content": "整个蓝色呢就由正啊",
+      "music": 0.0
+    },
+    {
+      "from": 543.38,
+      "to": 545.24,
+      "sid": 245,
+      "location": 2,
+      "content": "就是正向贡献转为负向贡献",
+      "music": 0.0
+    },
+    {
+      "from": 545.24,
+      "to": 546.16,
+      "sid": 246,
+      "location": 2,
+      "content": "也就是说啊",
+      "music": 0.0
+    },
+    {
+      "from": 546.16,
+      "to": 548.26,
+      "sid": 247,
+      "location": 2,
+      "content": "无论是房价还是股价啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.26,
+      "to": 549.62,
+      "sid": 248,
+      "location": 2,
+      "content": "都在开始往下走",
+      "music": 0.0
+    },
+    {
+      "from": 549.62,
+      "to": 553.18,
+      "sid": 249,
+      "location": 2,
+      "content": "其实它拖动着整个居民的净资产负债表",
+      "music": 0.0
+    },
+    {
+      "from": 553.18,
+      "to": 554.42,
+      "sid": 250,
+      "location": 2,
+      "content": "是在由正转负的",
+      "music": 0.0
+    },
+    {
+      "from": 554.42,
+      "to": 555.72,
+      "sid": 251,
+      "location": 2,
+      "content": "也就是这条黑色的线",
+      "music": 0.0
+    },
+    {
+      "from": 555.72,
+      "to": 558.64,
+      "sid": 252,
+      "location": 2,
+      "content": "而由于整个房地产市场开始往下走",
+      "music": 0.0
+    },
+    {
+      "from": 558.64,
+      "to": 559.88,
+      "sid": 253,
+      "location": 2,
+      "content": "房价的预期不好",
+      "music": 0.0
+    },
+    {
+      "from": 559.88,
+      "to": 562.64,
+      "sid": 254,
+      "location": 2,
+      "content": "大家可以看到负债的增量反而在减少的",
+      "music": 0.0
+    },
+    {
+      "from": 562.64,
+      "to": 563.82,
+      "sid": 255,
+      "location": 2,
+      "content": "就是这个绿色的部分",
+      "music": 0.0
+    },
+    {
+      "from": 563.82,
+      "to": 565.78,
+      "sid": 256,
+      "location": 2,
+      "content": "在整个21年的3月份",
+      "music": 0.0
+    },
+    {
+      "from": 565.78,
+      "to": 567.02,
+      "sid": 257,
+      "location": 2,
+      "content": "6月份是达到了最高点",
+      "music": 0.0
+    },
+    {
+      "from": 567.02,
+      "to": 568.66,
+      "sid": 258,
+      "location": 2,
+      "content": "那么之后的话绿色部分是在减少",
+      "music": 0.0
+    },
+    {
+      "from": 568.66,
+      "to": 570.12,
+      "sid": 259,
+      "location": 2,
+      "content": "就是大家贷款买房的时候",
+      "music": 0.0
+    },
+    {
+      "from": 570.12,
+      "to": 571.72,
+      "sid": 260,
+      "location": 2,
+      "content": "选择去杠杆买房",
+      "music": 0.0
+    },
+    {
+      "from": 571.72,
+      "to": 573.78,
+      "sid": 261,
+      "location": 2,
+      "content": "或者说低杠杆买房啊",
+      "music": 0.0
+    },
+    {
+      "from": 573.78,
+      "to": 575.0,
+      "sid": 262,
+      "location": 2,
+      "content": "显然是更多的",
+      "music": 0.0
+    },
+    {
+      "from": 575.0,
+      "to": 576.84,
+      "sid": 263,
+      "location": 2,
+      "content": "那从24年的9月开始",
+      "music": 0.0
+    },
+    {
+      "from": 576.84,
+      "to": 577.92,
+      "sid": 264,
+      "location": 2,
+      "content": "净资产啊",
+      "music": 0.0
+    },
+    {
+      "from": 577.92,
+      "to": 580.4,
+      "sid": 265,
+      "location": 2,
+      "content": "也就是条黑色的线开始由负转正",
+      "music": 0.0
+    },
+    {
+      "from": 580.4,
+      "to": 582.36,
+      "sid": 266,
+      "location": 2,
+      "content": "这里面最重要的动因",
+      "music": 0.0
+    },
+    {
+      "from": 582.36,
+      "to": 583.6,
+      "sid": 267,
+      "location": 2,
+      "content": "从数据上来看",
+      "music": 0.0
+    },
+    {
+      "from": 583.6,
+      "to": 585.76,
+      "sid": 268,
+      "location": 2,
+      "content": "似乎是当期盈余在增长",
+      "music": 0.0
+    },
+    {
+      "from": 585.76,
+      "to": 588.04,
+      "sid": 269,
+      "location": 2,
+      "content": "但实际上最核心的一个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 588.04,
+      "to": 590.72,
+      "sid": 270,
+      "location": 2,
+      "content": "我个人理解还是估值效应的反转",
+      "music": 0.0
+    },
+    {
+      "from": 590.72,
+      "to": 595.02,
+      "sid": 271,
+      "location": 2,
+      "content": "也就是说我们房价和股价的走势开始有了变化",
+      "music": 0.0
+    },
+    {
+      "from": 595.02,
+      "to": 597.26,
+      "sid": 272,
+      "location": 2,
+      "content": "比如说房价的跌幅开始逐渐的收窄",
+      "music": 0.0
+    },
+    {
+      "from": 597.26,
+      "to": 598.8,
+      "sid": 273,
+      "location": 2,
+      "content": "特别是在二三线城市",
+      "music": 0.0
+    },
+    {
+      "from": 598.8,
+      "to": 600.68,
+      "sid": 274,
+      "location": 2,
+      "content": "那么另外呢就是股价啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.68,
+      "to": 602.34,
+      "sid": 275,
+      "location": 2,
+      "content": "在24年9月啊",
+      "music": 0.0
+    },
+    {
+      "from": 604.94,
+      "to": 607.7,
+      "sid": 276,
+      "location": 2,
+      "content": "实际上股市从2600点到了现在的4000点",
+      "music": 0.0
+    },
+    {
+      "from": 607.7,
+      "to": 609.96,
+      "sid": 277,
+      "location": 2,
+      "content": "那么其实也是在持续修复的",
+      "music": 0.0
+    },
+    {
+      "from": 609.96,
+      "to": 612.56,
+      "sid": 278,
+      "location": 2,
+      "content": "这些其实共同的贡献了",
+      "music": 0.0
+    },
+    {
+      "from": 612.56,
+      "to": 615.72,
+      "sid": 279,
+      "location": 2,
+      "content": "我们看到的这样一个黑色的线从负转正",
+      "music": 0.0
+    },
+    {
+      "from": 615.72,
+      "to": 619.14,
+      "sid": 280,
+      "location": 2,
+      "content": "也就是居民的净资产开始由负转正了",
+      "music": 0.0
+    },
+    {
+      "from": 619.14,
+      "to": 621.5,
+      "sid": 281,
+      "location": 2,
+      "content": "那我们再做一个进一步的拆分呢",
+      "music": 0.0
+    },
+    {
+      "from": 621.5,
+      "to": 624.74,
+      "sid": 282,
+      "location": 2,
+      "content": "是把资产估值里面的股票和房地产",
+      "music": 0.0
+    },
+    {
+      "from": 624.74,
+      "to": 626.12,
+      "sid": 283,
+      "location": 2,
+      "content": "做一个具体的拆分",
+      "music": 0.0
+    },
+    {
+      "from": 626.12,
+      "to": 626.86,
+      "sid": 284,
+      "location": 2,
+      "content": "大家可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 626.86,
+      "to": 629.18,
+      "sid": 285,
+      "location": 2,
+      "content": "其实整体的走势也是非常类似的",
+      "music": 0.0
+    },
+    {
+      "from": 629.18,
+      "to": 631.48,
+      "sid": 286,
+      "location": 2,
+      "content": "高点呢也是在21年的6月",
+      "music": 0.0
+    },
+    {
+      "from": 631.48,
+      "to": 633.9,
+      "sid": 287,
+      "location": 2,
+      "content": "那么低点呢也是在24年的9月",
+      "music": 0.0
+    },
+    {
+      "from": 633.9,
+      "to": 637.46,
+      "sid": 288,
+      "location": 2,
+      "content": "当然这里面最核心的推动力量还是房地产",
+      "music": 0.0
+    },
+    {
+      "from": 637.46,
+      "to": 640.14,
+      "sid": 289,
+      "location": 2,
+      "content": "你可以看到房地产的估值在21年6月的时候",
+      "music": 0.0
+    },
+    {
+      "from": 640.14,
+      "to": 641.02,
+      "sid": 290,
+      "location": 2,
+      "content": "他是高歌猛进的",
+      "music": 0.0
+    },
+    {
+      "from": 641.02,
+      "to": 643.72,
+      "sid": 291,
+      "location": 2,
+      "content": "那么之后从啊22年开始转负",
+      "music": 0.0
+    },
+    {
+      "from": 643.72,
+      "to": 647.28,
+      "sid": 292,
+      "location": 2,
+      "content": "那么到负值最疯狂的时候是在24年的9月",
+      "music": 0.0
+    },
+    {
+      "from": 647.28,
+      "to": 648.32,
+      "sid": 293,
+      "location": 2,
+      "content": "那么在这之后的话",
+      "music": 0.0
+    },
+    {
+      "from": 648.32,
+      "to": 650.95,
+      "sid": 294,
+      "location": 2,
+      "content": "整个房地产的下跌仍然在持续",
+      "music": 0.0
+    },
+    {
+      "from": 650.95,
+      "to": 652.51,
+      "sid": 295,
+      "location": 2,
+      "content": "但是它的跌幅是在收窄的",
+      "music": 0.0
+    },
+    {
+      "from": 652.51,
+      "to": 654.28,
+      "sid": 296,
+      "location": 2,
+      "content": "呈现出的就是这条蓝色的线",
+      "music": 0.0
+    },
+    {
+      "from": 654.28,
+      "to": 656.84,
+      "sid": 297,
+      "location": 2,
+      "content": "对于居民的净资产的这样一个拖累",
+      "music": 0.0
+    },
+    {
+      "from": 656.84,
+      "to": 657.84,
+      "sid": 298,
+      "location": 2,
+      "content": "作用是在减弱的",
+      "music": 0.0
+    },
+    {
+      "from": 657.84,
+      "to": 659.52,
+      "sid": 299,
+      "location": 2,
+      "content": "同时在924之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 659.52,
+      "to": 662.16,
+      "sid": 300,
+      "location": 2,
+      "content": "我们看到股票开始持续的上行",
+      "music": 0.0
+    },
+    {
+      "from": 662.16,
+      "to": 666.32,
+      "sid": 301,
+      "location": 2,
+      "content": "而且他对于居民这样一个资产估值的贡献啊",
+      "music": 0.0
+    },
+    {
+      "from": 666.32,
+      "to": 668.52,
+      "sid": 302,
+      "location": 2,
+      "content": "是由负转正了",
+      "music": 0.0
+    },
+    {
+      "from": 668.96,
+      "to": 671.2,
+      "sid": 303,
+      "location": 2,
+      "content": "所以这篇报告呢也给出这样一个结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 671.2,
+      "to": 674.53,
+      "sid": 304,
+      "location": 2,
+      "content": "就是即使2025年房价下行还在呃",
+      "music": 0.0
+    },
+    {
+      "from": 674.53,
+      "to": 676.81,
+      "sid": 305,
+      "location": 2,
+      "content": "对居民资产负债表造成伤害",
+      "music": 0.0
+    },
+    {
+      "from": 676.81,
+      "to": 679.76,
+      "sid": 306,
+      "location": 2,
+      "content": "但是呢居民部门积累净资产的能力",
+      "music": 0.0
+    },
+    {
+      "from": 679.76,
+      "to": 680.68,
+      "sid": 307,
+      "location": 2,
+      "content": "已经在改善了",
+      "music": 0.0
+    },
+    {
+      "from": 680.68,
+      "to": 683.38,
+      "sid": 308,
+      "location": 2,
+      "content": "当期盈余和股票的估值的增加",
+      "music": 0.0
+    },
+    {
+      "from": 683.38,
+      "to": 686.26,
+      "sid": 309,
+      "location": 2,
+      "content": "带来了净资产增量的大幅增加",
+      "music": 0.0
+    },
+    {
+      "from": 686.26,
+      "to": 688.4,
+      "sid": 310,
+      "location": 2,
+      "content": "那么我国居民的资产负债表",
+      "music": 0.0
+    },
+    {
+      "from": 688.4,
+      "to": 690.31,
+      "sid": 311,
+      "location": 2,
+      "content": "已进入到了修复阶段",
+      "music": 0.0
+    },
+    {
+      "from": 690.31,
+      "to": 693.07,
+      "sid": 312,
+      "location": 2,
+      "content": "第三段呢是关于居民部门的购房行为",
+      "music": 0.0
+    },
+    {
+      "from": 693.07,
+      "to": 694.95,
+      "sid": 313,
+      "location": 2,
+      "content": "和投资行为的变化的啊",
+      "music": 0.0
+    },
+    {
+      "from": 694.95,
+      "to": 696.93,
+      "sid": 314,
+      "location": 2,
+      "content": "这里面呢针对于购房行为啊",
+      "music": 0.0
+    },
+    {
+      "from": 696.93,
+      "to": 699.829,
+      "sid": 315,
+      "location": 2,
+      "content": "这篇报告是给出了一个新的呃用词啊",
+      "music": 0.0
+    },
+    {
+      "from": 699.829,
+      "to": 702.109,
+      "sid": 316,
+      "location": 2,
+      "content": "叫做不加杠杆的购房支出",
+      "music": 0.0
+    },
+    {
+      "from": 702.109,
+      "to": 704.949,
+      "sid": 317,
+      "location": 2,
+      "content": "那么居民部门的不加杠杆购房支出呢",
+      "music": 0.0
+    },
+    {
+      "from": 704.949,
+      "to": 706.52,
+      "sid": 318,
+      "location": 2,
+      "content": "已经开始了企稳啊",
+      "music": 0.0
+    },
+    {
+      "from": 706.52,
+      "to": 708.18,
+      "sid": 319,
+      "location": 2,
+      "content": "大家可以看到这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.18,
+      "to": 711.28,
+      "sid": 320,
+      "location": 2,
+      "content": "其实啊图六里面呈现出一个非常明显的特征",
+      "music": 0.0
+    },
+    {
+      "from": 711.28,
+      "to": 714.8,
+      "sid": 321,
+      "location": 2,
+      "content": "就是居民的中长期贷款从2021年开始啊",
+      "music": 0.0
+    },
+    {
+      "from": 714.8,
+      "to": 718.22,
+      "sid": 322,
+      "location": 2,
+      "content": "整体是啊在下台阶的横轴呢是一季度到四季度",
+      "music": 0.0
+    },
+    {
+      "from": 718.22,
+      "to": 721.36,
+      "sid": 323,
+      "location": 2,
+      "content": "那么纵轴当然是居民中长期贷款的一个总金额",
+      "music": 0.0
+    },
+    {
+      "from": 721.36,
+      "to": 724.04,
+      "sid": 324,
+      "location": 2,
+      "content": "在2021年的时候是一个非常高的高位",
+      "music": 0.0
+    },
+    {
+      "from": 724.04,
+      "to": 727.04,
+      "sid": 325,
+      "location": 2,
+      "content": "那么之后的话从橙色线到蓝色线到2年",
+      "music": 0.0
+    },
+    {
+      "from": 727.04,
+      "to": 728.34,
+      "sid": 326,
+      "location": 2,
+      "content": "再到绿色线的23年",
+      "music": 0.0
+    },
+    {
+      "from": 728.34,
+      "to": 728.98,
+      "sid": 327,
+      "location": 2,
+      "content": "再到灰色",
+      "music": 0.0
+    },
+    {
+      "from": 728.98,
+      "to": 731.32,
+      "sid": 328,
+      "location": 2,
+      "content": "现在24年再到黑色现的25年",
+      "music": 0.0
+    },
+    {
+      "from": 731.32,
+      "to": 733.68,
+      "sid": 329,
+      "location": 2,
+      "content": "你会发现25年相较于24年",
+      "music": 0.0
+    },
+    {
+      "from": 733.68,
+      "to": 736.0,
+      "sid": 330,
+      "location": 2,
+      "content": "整体已经开始呈现出企稳了",
+      "music": 0.0
+    },
+    {
+      "from": 736.0,
+      "to": 740.0,
+      "sid": 331,
+      "location": 2,
+      "content": "也就是说目前居民在中长期贷款的总量上啊",
+      "music": 0.0
+    },
+    {
+      "from": 740.0,
+      "to": 741.2,
+      "sid": 332,
+      "location": 2,
+      "content": "其实是维持一个低位",
+      "music": 0.0
+    },
+    {
+      "from": 741.2,
+      "to": 743.66,
+      "sid": 333,
+      "location": 2,
+      "content": "但是已经不在进一步的恶化了",
+      "music": 0.0
+    },
+    {
+      "from": 743.66,
+      "to": 746.83,
+      "sid": 334,
+      "location": 2,
+      "content": "那么第二部分呢就是关于居民部门的风险",
+      "music": 0.0
+    },
+    {
+      "from": 746.83,
+      "to": 747.71,
+      "sid": 335,
+      "location": 2,
+      "content": "资产配置",
+      "music": 0.0
+    },
+    {
+      "from": 747.71,
+      "to": 748.59,
+      "sid": 336,
+      "location": 2,
+      "content": "长期以来呢",
+      "music": 0.0
+    },
+    {
+      "from": 748.59,
+      "to": 750.51,
+      "sid": 337,
+      "location": 2,
+      "content": "中国居民部门的资产配置行为",
+      "music": 0.0
+    },
+    {
+      "from": 750.51,
+      "to": 751.87,
+      "sid": 338,
+      "location": 2,
+      "content": "模式还是比较稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 751.87,
+      "to": 753.07,
+      "sid": 339,
+      "location": 2,
+      "content": "在过去15年里",
+      "music": 0.0
+    },
+    {
+      "from": 753.07,
+      "to": 755.44,
+      "sid": 340,
+      "location": 2,
+      "content": "基本上是按照八比二的比例",
+      "music": 0.0
+    },
+    {
+      "from": 755.44,
+      "to": 759.22,
+      "sid": 341,
+      "location": 2,
+      "content": "也就是说绝大部分的资产是用于配置养老的",
+      "music": 0.0
+    },
+    {
+      "from": 759.22,
+      "to": 760.12,
+      "sid": 342,
+      "location": 2,
+      "content": "储蓄型资产",
+      "music": 0.0
+    },
+    {
+      "from": 760.12,
+      "to": 763.34,
+      "sid": 343,
+      "location": 2,
+      "content": "也就是低风险偏好的这样一种类别的资产",
+      "music": 0.0
+    },
+    {
+      "from": 763.34,
+      "to": 766.96,
+      "sid": 344,
+      "location": 2,
+      "content": "那20%呢是配置为潜在的高收益",
+      "music": 0.0
+    },
+    {
+      "from": 766.96,
+      "to": 768.02,
+      "sid": 345,
+      "location": 2,
+      "content": "投机型资产",
+      "music": 0.0
+    },
+    {
+      "from": 768.02,
+      "to": 769.26,
+      "sid": 346,
+      "location": 2,
+      "content": "那这样的一个比例呢",
+      "music": 0.0
+    },
+    {
+      "from": 769.26,
+      "to": 771.14,
+      "sid": 347,
+      "location": 2,
+      "content": "在22年到24年期间啊",
+      "music": 0.0
+    },
+    {
+      "from": 771.14,
+      "to": 773.88,
+      "sid": 348,
+      "location": 2,
+      "content": "我们看到的是居民资产配置行为越来越保守",
+      "music": 0.0
+    },
+    {
+      "from": 773.88,
+      "to": 777.32,
+      "sid": 349,
+      "location": 2,
+      "content": "那集中的体现为大幅增加对安全资产的持有",
+      "music": 0.0
+    },
+    {
+      "from": 777.32,
+      "to": 780.55,
+      "sid": 350,
+      "location": 2,
+      "content": "并减少对股票类这种风险资产的配置",
+      "music": 0.0
+    },
+    {
+      "from": 780.75,
+      "to": 783.71,
+      "sid": 351,
+      "location": 2,
+      "content": "那大家可以从这张图的图七里面看到",
+      "music": 0.0
+    },
+    {
+      "from": 783.71,
+      "to": 784.86,
+      "sid": 352,
+      "location": 2,
+      "content": "类似的一个现象",
+      "music": 0.0
+    },
+    {
+      "from": 784.86,
+      "to": 786.3,
+      "sid": 353,
+      "location": 2,
+      "content": "就是这条橙色的线啊",
+      "music": 0.0
+    },
+    {
+      "from": 786.3,
+      "to": 788.02,
+      "sid": 354,
+      "location": 2,
+      "content": "就是股票净流入啊",
+      "music": 0.0
+    },
+    {
+      "from": 788.02,
+      "to": 791.14,
+      "sid": 355,
+      "location": 2,
+      "content": "这个其实指向的是居民部门对于风险类资产的",
+      "music": 0.0
+    },
+    {
+      "from": 791.14,
+      "to": 794.04,
+      "sid": 356,
+      "location": 2,
+      "content": "一个偏好态度在2021年啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.04,
+      "to": 795.94,
+      "sid": 357,
+      "location": 2,
+      "content": "当时到了一个相对高点吧",
+      "music": 0.0
+    },
+    {
+      "from": 795.94,
+      "to": 798.72,
+      "sid": 358,
+      "location": 2,
+      "content": "之后就开始呈现出了一个明显的下降",
+      "music": 0.0
+    },
+    {
+      "from": 798.72,
+      "to": 799.64,
+      "sid": 359,
+      "location": 2,
+      "content": "那么这样一个下行",
+      "music": 0.0
+    },
+    {
+      "from": 799.64,
+      "to": 802.06,
+      "sid": 360,
+      "location": 2,
+      "content": "一直走到了24年的9月份啊",
+      "music": 0.0
+    },
+    {
+      "from": 804.4,
+      "to": 805.26,
+      "sid": 361,
+      "location": 2,
+      "content": "才看到了",
+      "music": 0.0
+    },
+    {
+      "from": 805.26,
+      "to": 807.62,
+      "sid": 362,
+      "location": 2,
+      "content": "居民对于股票类资产的配置",
+      "music": 0.0
+    },
+    {
+      "from": 807.62,
+      "to": 809.36,
+      "sid": 363,
+      "location": 2,
+      "content": "热情开始逐渐的提高",
+      "music": 0.0
+    },
+    {
+      "from": 809.36,
+      "to": 811.14,
+      "sid": 364,
+      "location": 2,
+      "content": "而且这样一个提高啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.14,
+      "to": 813.72,
+      "sid": 365,
+      "location": 2,
+      "content": "或者说这样一个橙色线往上走的走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 813.72,
+      "to": 814.96,
+      "sid": 366,
+      "location": 2,
+      "content": "已经非常明显的",
+      "music": 0.0
+    },
+    {
+      "from": 814.96,
+      "to": 817.32,
+      "sid": 367,
+      "location": 2,
+      "content": "和绿色的这条线进行了一个交叉",
+      "music": 0.0
+    },
+    {
+      "from": 817.32,
+      "to": 818.8,
+      "sid": 368,
+      "location": 2,
+      "content": "那交叉这部分是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 818.8,
+      "to": 821.7,
+      "sid": 369,
+      "location": 2,
+      "content": "是针对于房地产方面的配置啊",
+      "music": 0.0
+    },
+    {
+      "from": 821.7,
+      "to": 822.42,
+      "sid": 370,
+      "location": 2,
+      "content": "这样一个流入",
+      "music": 0.0
+    },
+    {
+      "from": 822.42,
+      "to": 825.62,
+      "sid": 371,
+      "location": 2,
+      "content": "也就是目前各类资产净流入规模的占比",
+      "music": 0.0
+    },
+    {
+      "from": 825.62,
+      "to": 826.4,
+      "sid": 372,
+      "location": 2,
+      "content": "方面来看",
+      "music": 0.0
+    },
+    {
+      "from": 826.4,
+      "to": 829.62,
+      "sid": 373,
+      "location": 2,
+      "content": "股票类净流入已经超过了房地产",
+      "music": 0.0
+    },
+    {
+      "from": 829.62,
+      "to": 831.56,
+      "sid": 374,
+      "location": 2,
+      "content": "这其实也是历史上的第二次啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.56,
+      "to": 834.03,
+      "sid": 375,
+      "location": 2,
+      "content": "那上一次的话是在2016年",
+      "music": 0.0
+    },
+    {
+      "from": 834.03,
+      "to": 835.43,
+      "sid": 376,
+      "location": 2,
+      "content": "另一个值得关注的点呢",
+      "music": 0.0
+    },
+    {
+      "from": 835.43,
+      "to": 838.47,
+      "sid": 377,
+      "location": 2,
+      "content": "就是储蓄型金融资产的走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 838.47,
+      "to": 841.0,
+      "sid": 378,
+      "location": 2,
+      "content": "它其实这个占比是在持续下降的一种",
+      "music": 0.0
+    },
+    {
+      "from": 841.0,
+      "to": 843.22,
+      "sid": 379,
+      "location": 2,
+      "content": "24年的10月开始这样一个顶点",
+      "music": 0.0
+    },
+    {
+      "from": 843.22,
+      "to": 844.52,
+      "sid": 380,
+      "location": 2,
+      "content": "灰色这条线啊",
+      "music": 0.0
+    },
+    {
+      "from": 844.52,
+      "to": 845.78,
+      "sid": 381,
+      "location": 2,
+      "content": "储蓄金额资产",
+      "music": 0.0
+    },
+    {
+      "from": 845.78,
+      "to": 848.78,
+      "sid": 382,
+      "location": 2,
+      "content": "它的走势是呈现出一个大体往下走的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 848.78,
+      "to": 849.84,
+      "sid": 383,
+      "location": 2,
+      "content": "那也就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 849.84,
+      "to": 852.62,
+      "sid": 384,
+      "location": 2,
+      "content": "像居民部门的风险偏好是在逐渐提升的",
+      "music": 0.0
+    },
+    {
+      "from": 852.62,
+      "to": 855.52,
+      "sid": 385,
+      "location": 2,
+      "content": "当然这里面背后的的主要推动动力",
+      "music": 0.0
+    },
+    {
+      "from": 855.52,
+      "to": 858.63,
+      "sid": 386,
+      "location": 2,
+      "content": "其实是大幅下调的储蓄利率",
+      "music": 0.0
+    },
+    {
+      "from": 858.63,
+      "to": 860.05,
+      "sid": 387,
+      "location": 2,
+      "content": "但是不管怎么说啊",
+      "music": 0.0
+    },
+    {
+      "from": 860.05,
+      "to": 861.51,
+      "sid": 388,
+      "location": 2,
+      "content": "从这篇研报得到的结论",
+      "music": 0.0
+    },
+    {
+      "from": 861.51,
+      "to": 862.35,
+      "sid": 389,
+      "location": 2,
+      "content": "大家也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 862.35,
+      "to": 864.85,
+      "sid": 390,
+      "location": 2,
+      "content": "就是这表明居民部门的风险偏好",
+      "music": 0.0
+    },
+    {
+      "from": 864.85,
+      "to": 866.95,
+      "sid": 391,
+      "location": 2,
+      "content": "在24年的9月之后",
+      "music": 0.0
+    },
+    {
+      "from": 866.95,
+      "to": 868.71,
+      "sid": 392,
+      "location": 2,
+      "content": "实际上不仅已经企稳",
+      "music": 0.0
+    },
+    {
+      "from": 868.71,
+      "to": 871.53,
+      "sid": 393,
+      "location": 2,
+      "content": "甚至已经表现出了一定程度的改善",
+      "music": 0.0
+    },
+    {
+      "from": 871.53,
+      "to": 873.37,
+      "sid": 394,
+      "location": 2,
+      "content": "最后一段呢就来跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 873.37,
+      "to": 875.48,
+      "sid": 395,
+      "location": 2,
+      "content": "这篇报告的结论与含义啊",
+      "music": 0.0
+    },
+    {
+      "from": 875.48,
+      "to": 878.36,
+      "sid": 396,
+      "location": 2,
+      "content": "他们认为呢整个研究有如下三点的含义啊",
+      "music": 0.0
+    },
+    {
+      "from": 878.36,
+      "to": 880.74,
+      "sid": 397,
+      "location": 2,
+      "content": "第一呢是2025年名义增速的改善",
+      "music": 0.0
+    },
+    {
+      "from": 880.74,
+      "to": 882.18,
+      "sid": 398,
+      "location": 2,
+      "content": "或被普遍地低估了",
+      "music": 0.0
+    },
+    {
+      "from": 882.18,
+      "to": 885.18,
+      "sid": 399,
+      "location": 2,
+      "content": "2026年有较大概率可以延续这一趋势",
+      "music": 0.0
+    },
+    {
+      "from": 885.18,
+      "to": 888.74,
+      "sid": 400,
+      "location": 2,
+      "content": "也就是居民的净资产负债啊会持续的改善",
+      "music": 0.0
+    },
+    {
+      "from": 888.74,
+      "to": 891.14,
+      "sid": 401,
+      "location": 2,
+      "content": "那本轮带动居民部门修复资产费用",
+      "music": 0.0
+    },
+    {
+      "from": 891.14,
+      "to": 893.9,
+      "sid": 402,
+      "location": 2,
+      "content": "最主要的因素呢是当期盈余的改善",
+      "music": 0.0
+    },
+    {
+      "from": 893.9,
+      "to": 895.32,
+      "sid": 403,
+      "location": 2,
+      "content": "这似乎指向居民部",
+      "music": 0.0
+    },
+    {
+      "from": 895.32,
+      "to": 896.68,
+      "sid": 404,
+      "location": 2,
+      "content": "部门名义收入增速",
+      "music": 0.0
+    },
+    {
+      "from": 896.68,
+      "to": 899.08,
+      "sid": 405,
+      "location": 2,
+      "content": "在2025年出现了显著改善",
+      "music": 0.0
+    },
+    {
+      "from": 899.08,
+      "to": 900.08,
+      "sid": 406,
+      "location": 2,
+      "content": "针对这个结论",
+      "music": 0.0
+    },
+    {
+      "from": 900.08,
+      "to": 901.22,
+      "sid": 407,
+      "location": 2,
+      "content": "我是不太认可啊",
+      "music": 0.0
+    },
+    {
+      "from": 901.22,
+      "to": 903.54,
+      "sid": 408,
+      "location": 2,
+      "content": "啊我个人理解这里面最主要的一个动因呢",
+      "music": 0.0
+    },
+    {
+      "from": 903.54,
+      "to": 904.94,
+      "sid": 409,
+      "location": 2,
+      "content": "还是24年9月",
+      "music": 0.0
+    },
+    {
+      "from": 904.94,
+      "to": 908.02,
+      "sid": 410,
+      "location": 2,
+      "content": "当时对于房地产的这个支持政策里面",
+      "music": 0.0
+    },
+    {
+      "from": 908.02,
+      "to": 911.25,
+      "sid": 411,
+      "location": 2,
+      "content": "有一项就是大幅的下调存量房贷利率",
+      "music": 0.0
+    },
+    {
+      "from": 911.25,
+      "to": 912.91,
+      "sid": 412,
+      "location": 2,
+      "content": "那样的一项政策出台之后",
+      "music": 0.0
+    },
+    {
+      "from": 912.91,
+      "to": 915.43,
+      "sid": 413,
+      "location": 2,
+      "content": "其实让居民部门大幅的减少了",
+      "music": 0.0
+    },
+    {
+      "from": 915.43,
+      "to": 917.51,
+      "sid": 414,
+      "location": 2,
+      "content": "提前偿还房贷的意愿",
+      "music": 0.0
+    },
+    {
+      "from": 917.51,
+      "to": 922.05,
+      "sid": 415,
+      "location": 2,
+      "content": "那因此的话才得到了现在看到的当期盈余",
+      "music": 0.0
+    },
+    {
+      "from": 922.05,
+      "to": 923.94,
+      "sid": 416,
+      "location": 2,
+      "content": "这样一个数据的持续改善",
+      "music": 0.0
+    },
+    {
+      "from": 923.94,
+      "to": 924.62,
+      "sid": 417,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 924.62,
+      "to": 926.58,
+      "sid": 418,
+      "location": 2,
+      "content": "居民部门不再把每个月的收入",
+      "music": 0.0
+    },
+    {
+      "from": 926.58,
+      "to": 929.26,
+      "sid": 419,
+      "location": 2,
+      "content": "拿出很大的一笔啊去提前偿还贷款",
+      "music": 0.0
+    },
+    {
+      "from": 929.26,
+      "to": 931.47,
+      "sid": 420,
+      "location": 2,
+      "content": "而是按部就班的去偿还房贷",
+      "music": 0.0
+    },
+    {
+      "from": 931.47,
+      "to": 934.55,
+      "sid": 421,
+      "location": 2,
+      "content": "当然这篇研报呢给出了另一组数据去印证",
+      "music": 0.0
+    },
+    {
+      "from": 934.55,
+      "to": 936.87,
+      "sid": 422,
+      "location": 2,
+      "content": "居民部门的收入增速是在改善的",
+      "music": 0.0
+    },
+    {
+      "from": 936.87,
+      "to": 939.18,
+      "sid": 423,
+      "location": 2,
+      "content": "就是上市公司现金流变化",
+      "music": 0.0
+    },
+    {
+      "from": 939.18,
+      "to": 941.0,
+      "sid": 424,
+      "location": 2,
+      "content": "那2025年的前三季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 941.0,
+      "to": 942.06,
+      "sid": 425,
+      "location": 2,
+      "content": "剔除金融石油",
+      "music": 0.0
+    },
+    {
+      "from": 942.06,
+      "to": 944.92,
+      "sid": 426,
+      "location": 2,
+      "content": "石化后的5376家上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 944.92,
+      "to": 946.72,
+      "sid": 427,
+      "location": 2,
+      "content": "营业总收入和利润总额",
+      "music": 0.0
+    },
+    {
+      "from": 946.72,
+      "to": 950.58,
+      "sid": 428,
+      "location": 2,
+      "content": "同比增速分别是1.8%和4.1%",
+      "music": 0.0
+    },
+    {
+      "from": 950.58,
+      "to": 952.66,
+      "sid": 429,
+      "location": 2,
+      "content": "而2024年的前三季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 952.66,
+      "to": 955.1,
+      "sid": 430,
+      "location": 2,
+      "content": "这两个指标的增速分别是负的1.1%",
+      "music": 0.0
+    },
+    {
+      "from": 955.1,
+      "to": 956.82,
+      "sid": 431,
+      "location": 2,
+      "content": "和负的6.9%",
+      "music": 0.0
+    },
+    {
+      "from": 956.82,
+      "to": 957.82,
+      "sid": 432,
+      "location": 2,
+      "content": "特别是利润啊",
+      "music": 0.0
+    },
+    {
+      "from": 957.82,
+      "to": 959.62,
+      "sid": 433,
+      "location": 2,
+      "content": "可以看到从负的6.9%",
+      "music": 0.0
+    },
+    {
+      "from": 959.62,
+      "to": 961.66,
+      "sid": 434,
+      "location": 2,
+      "content": "转向了正的4.1%呃",
+      "music": 0.0
+    },
+    {
+      "from": 961.66,
+      "to": 963.42,
+      "sid": 435,
+      "location": 2,
+      "content": "因此这篇研报得到的结论是",
+      "music": 0.0
+    },
+    {
+      "from": 963.42,
+      "to": 966.17,
+      "sid": 436,
+      "location": 2,
+      "content": "居民部门的收入增速是有所改善的",
+      "music": 0.0
+    },
+    {
+      "from": 966.17,
+      "to": 969.77,
+      "sid": 437,
+      "location": 2,
+      "content": "那结合本文与之前研究的诸多结论呢",
+      "music": 0.0
+    },
+    {
+      "from": 969.77,
+      "to": 970.01,
+      "sid": 438,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 970.01,
+      "to": 971.05,
+      "sid": 439,
+      "location": 2,
+      "content": "这篇研报是认为",
+      "music": 0.0
+    },
+    {
+      "from": 971.05,
+      "to": 974.78,
+      "sid": 440,
+      "location": 2,
+      "content": "我国经济已经度过了下行压力最大的时期",
+      "music": 0.0
+    },
+    {
+      "from": 974.78,
+      "to": 978.62,
+      "sid": 441,
+      "location": 2,
+      "content": "当前正处于新一轮周期性复苏的早期阶段",
+      "music": 0.0
+    },
+    {
+      "from": 978.62,
+      "to": 982.32,
+      "sid": 442,
+      "location": 2,
+      "content": "本轮经济复苏过程更像是古典经济学",
+      "music": 0.0
+    },
+    {
+      "from": 982.32,
+      "to": 984.92,
+      "sid": 443,
+      "location": 2,
+      "content": "这描述的市场出清的过程",
+      "music": 0.0
+    },
+    {
+      "from": 984.92,
+      "to": 987.78,
+      "sid": 444,
+      "location": 2,
+      "content": "那也就意味着它是一种内生性的经济复苏",
+      "music": 0.0
+    },
+    {
+      "from": 987.78,
+      "to": 990.84,
+      "sid": 445,
+      "location": 2,
+      "content": "而不是依赖于大规模宏观政策刺激",
+      "music": 0.0
+    },
+    {
+      "from": 990.84,
+      "to": 993.68,
+      "sid": 446,
+      "location": 2,
+      "content": "所以这次我们观察到的复苏强度",
+      "music": 0.0
+    },
+    {
+      "from": 993.68,
+      "to": 997.43,
+      "sid": 447,
+      "location": 2,
+      "content": "会明显弱于此前几轮周期性复苏",
+      "music": 0.0
+    },
+    {
+      "from": 997.43,
+      "to": 998.41,
+      "sid": 448,
+      "location": 2,
+      "content": "但是啊",
+      "music": 0.0
+    },
+    {
+      "from": 998.41,
+      "to": 1002.11,
+      "sid": 449,
+      "location": 2,
+      "content": "只要这个政策支持的力度和外需能够保持稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1002.11,
+      "to": 1003.19,
+      "sid": 450,
+      "location": 2,
+      "content": "不出现重大变化",
+      "music": 0.0
+    },
+    {
+      "from": 1003.19,
+      "to": 1004.67,
+      "sid": 451,
+      "location": 2,
+      "content": "这样的一种复苏本身",
+      "music": 0.0
+    },
+    {
+      "from": 1004.67,
+      "to": 1007.549,
+      "sid": 452,
+      "location": 2,
+      "content": "在2026年有较大概率去延续",
+      "music": 0.0
+    },
+    {
+      "from": 1007.549,
+      "to": 1010.549,
+      "sid": 453,
+      "location": 2,
+      "content": "而且它可能会形成一个经济主体与部门之间的",
+      "music": 0.0
+    },
+    {
+      "from": 1010.549,
+      "to": 1012.079,
+      "sid": 454,
+      "location": 2,
+      "content": "正反馈过程",
+      "music": 0.0
+    },
+    {
+      "from": 1012.079,
+      "to": 1013.279,
+      "sid": 455,
+      "location": 2,
+      "content": "第二段结论呢是",
+      "music": 0.0
+    },
+    {
+      "from": 1013.279,
+      "to": 1015.919,
+      "sid": 456,
+      "location": 2,
+      "content": "本轮经济复苏和通胀改善的持续性",
+      "music": 0.0
+    },
+    {
+      "from": 1015.919,
+      "to": 1017.4,
+      "sid": 457,
+      "location": 2,
+      "content": "或好于市场预期",
+      "music": 0.0
+    },
+    {
+      "from": 1017.4,
+      "to": 1018.42,
+      "sid": 458,
+      "location": 2,
+      "content": "像股票啊",
+      "music": 0.0
+    },
+    {
+      "from": 1018.42,
+      "to": 1019.32,
+      "sid": 459,
+      "location": 2,
+      "content": "长期利率啊",
+      "music": 0.0
+    },
+    {
+      "from": 1019.32,
+      "to": 1019.96,
+      "sid": 460,
+      "location": 2,
+      "content": "人民币汇率啊",
+      "music": 0.0
+    },
+    {
+      "from": 1019.96,
+      "to": 1022.66,
+      "sid": 461,
+      "location": 2,
+      "content": "就我们所谓的股债汇三项重要资产",
+      "music": 0.0
+    },
+    {
+      "from": 1022.66,
+      "to": 1024.74,
+      "sid": 462,
+      "location": 2,
+      "content": "它的价格呢将面临重估",
+      "music": 0.0
+    },
+    {
+      "from": 1024.74,
+      "to": 1026.64,
+      "sid": 463,
+      "location": 2,
+      "content": "本轮经济复苏的持续性和韧性",
+      "music": 0.0
+    },
+    {
+      "from": 1026.64,
+      "to": 1027.94,
+      "sid": 464,
+      "location": 2,
+      "content": "或好于市场普遍预期",
+      "music": 0.0
+    },
+    {
+      "from": 1027.94,
+      "to": 1030.12,
+      "sid": 465,
+      "location": 2,
+      "content": "我们可以期待通胀利润",
+      "music": 0.0
+    },
+    {
+      "from": 1030.12,
+      "to": 1034.119,
+      "sid": 466,
+      "location": 2,
+      "content": "消费收入等宏观指标延续当前的缓慢修复",
+      "music": 0.0
+    },
+    {
+      "from": 1034.119,
+      "to": 1038.199,
+      "sid": 467,
+      "location": 2,
+      "content": "市场对经济复苏持续性的担忧也会逐渐的减弱",
+      "music": 0.0
+    },
+    {
+      "from": 1038.199,
+      "to": 1039.039,
+      "sid": 468,
+      "location": 2,
+      "content": "在这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1039.039,
+      "to": 1042.819,
+      "sid": 469,
+      "location": 2,
+      "content": "市场对走出上一轮低通胀状态的信心也会更强",
+      "music": 0.0
+    },
+    {
+      "from": 1042.819,
+      "to": 1044.199,
+      "sid": 470,
+      "location": 2,
+      "content": "而现阶段啊",
+      "music": 0.0
+    },
+    {
+      "from": 1044.199,
+      "to": 1047.579,
+      "sid": 471,
+      "location": 2,
+      "content": "股债汇三类主要的大类资产价格",
+      "music": 0.0
+    },
+    {
+      "from": 1047.579,
+      "to": 1050.44,
+      "sid": 472,
+      "location": 2,
+      "content": "似乎并未对此情形进行定价",
+      "music": 0.0
+    },
+    {
+      "from": 1050.44,
+      "to": 1052.72,
+      "sid": 473,
+      "location": 2,
+      "content": "因此若接下来宏观经济的走势",
+      "music": 0.0
+    },
+    {
+      "from": 1052.72,
+      "to": 1054.88,
+      "sid": 474,
+      "location": 2,
+      "content": "不断验证上述的判断",
+      "music": 0.0
+    },
+    {
+      "from": 1054.88,
+      "to": 1058.94,
+      "sid": 475,
+      "location": 2,
+      "content": "主要资产价格将面临一轮比较显著的重估啊",
+      "music": 0.0
+    },
+    {
+      "from": 1058.94,
+      "to": 1061.3,
+      "sid": 476,
+      "location": 2,
+      "content": "这也就意味着未来股票的市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 1061.3,
+      "to": 1062.54,
+      "sid": 477,
+      "location": 2,
+      "content": "可能我们会看到走强",
+      "music": 0.0
+    },
+    {
+      "from": 1062.54,
+      "to": 1065.25,
+      "sid": 478,
+      "location": 2,
+      "content": "同时长端利率可能会走高",
+      "music": 0.0
+    },
+    {
+      "from": 1065.25,
+      "to": 1068.27,
+      "sid": 479,
+      "location": 2,
+      "content": "那就意味着长端国债的价格可能会往下走",
+      "music": 0.0
+    },
+    {
+      "from": 1068.27,
+      "to": 1071.31,
+      "sid": 480,
+      "location": 2,
+      "content": "那人民币汇率啊可能会继续的走强",
+      "music": 0.0
+    },
+    {
+      "from": 1071.31,
+      "to": 1074.79,
+      "sid": 481,
+      "location": 2,
+      "content": "第三呢就是现阶段居民部门内部的差异和分化",
+      "music": 0.0
+    },
+    {
+      "from": 1074.79,
+      "to": 1076.17,
+      "sid": 482,
+      "location": 2,
+      "content": "仍然值得重视啊",
+      "music": 0.0
+    },
+    {
+      "from": 1076.17,
+      "to": 1078.45,
+      "sid": 483,
+      "location": 2,
+      "content": "如果未来房地产估值能够企稳",
+      "music": 0.0
+    },
+    {
+      "from": 1078.45,
+      "to": 1078.69,
+      "sid": 484,
+      "location": 2,
+      "content": "不",
+      "music": 0.0
+    },
+    {
+      "from": 1078.69,
+      "to": 1080.55,
+      "sid": 485,
+      "location": 2,
+      "content": "居民部门资产负债表修复",
+      "music": 0.0
+    },
+    {
+      "from": 1080.55,
+      "to": 1082.21,
+      "sid": 486,
+      "location": 2,
+      "content": "也会进入到新的阶段啊",
+      "music": 0.0
+    },
+    {
+      "from": 1082.21,
+      "to": 1083.57,
+      "sid": 487,
+      "location": 2,
+      "content": "居民部门作为一个整体",
+      "music": 0.0
+    },
+    {
+      "from": 1083.57,
+      "to": 1085.58,
+      "sid": 488,
+      "location": 2,
+      "content": "资产负债表也已经开始修复",
+      "music": 0.0
+    },
+    {
+      "from": 1085.58,
+      "to": 1087.18,
+      "sid": 489,
+      "location": 2,
+      "content": "但是这并不意味着",
+      "music": 0.0
+    },
+    {
+      "from": 1087.18,
+      "to": 1089.14,
+      "sid": 490,
+      "location": 2,
+      "content": "现阶段居民资资产负债表修复",
+      "music": 0.0
+    },
+    {
+      "from": 1089.14,
+      "to": 1091.78,
+      "sid": 491,
+      "location": 2,
+      "content": "是在居民部门内部普遍发生的",
+      "music": 0.0
+    },
+    {
+      "from": 1091.78,
+      "to": 1095.14,
+      "sid": 492,
+      "location": 2,
+      "content": "从驱动本轮居民资产负债表修复的因素看",
+      "music": 0.0
+    },
+    {
+      "from": 1095.14,
+      "to": 1097.94,
+      "sid": 493,
+      "location": 2,
+      "content": "资产估值的改善贡献了很大一部分增量",
+      "music": 0.0
+    },
+    {
+      "from": 1097.94,
+      "to": 1101.879,
+      "sid": 494,
+      "location": 2,
+      "content": "但是不同资产估值修复的含义有着本质区别",
+      "music": 0.0
+    },
+    {
+      "from": 1101.879,
+      "to": 1104.719,
+      "sid": 495,
+      "location": 2,
+      "content": "股票类资产的估值修复是由负转正",
+      "music": 0.0
+    },
+    {
+      "from": 1104.719,
+      "to": 1107.4,
+      "sid": 496,
+      "location": 2,
+      "content": "为居民部门贡献了正的估值",
+      "music": 0.0
+    },
+    {
+      "from": 1107.4,
+      "to": 1111.42,
+      "sid": 497,
+      "location": 2,
+      "content": "而房地产估值修复是新增的估值损失减少",
+      "music": 0.0
+    },
+    {
+      "from": 1111.42,
+      "to": 1112.94,
+      "sid": 498,
+      "location": 2,
+      "content": "但依然是一个拖累项",
+      "music": 0.0
+    },
+    {
+      "from": 1112.94,
+      "to": 1116.22,
+      "sid": 499,
+      "location": 2,
+      "content": "因此居民部门内部的差异和分化会非常明显啊",
+      "music": 0.0
+    },
+    {
+      "from": 1116.22,
+      "to": 1119.78,
+      "sid": 500,
+      "location": 2,
+      "content": "简单来说就是如果你是以金融资产为主的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1119.78,
+      "to": 1120.7,
+      "sid": 501,
+      "location": 2,
+      "content": "这样的居民啊",
+      "music": 0.0
+    },
+    {
+      "from": 1120.7,
+      "to": 1122.14,
+      "sid": 502,
+      "location": 2,
+      "content": "也就是说你是有钱人啊",
+      "music": 0.0
+    },
+    {
+      "from": 1122.14,
+      "to": 1124.14,
+      "sid": 503,
+      "location": 2,
+      "content": "你大部分的资产是居这个金融资产",
+      "music": 0.0
+    },
+    {
+      "from": 1124.14,
+      "to": 1125.44,
+      "sid": 504,
+      "location": 2,
+      "content": "而不是房地产",
+      "music": 0.0
+    },
+    {
+      "from": 1125.44,
+      "to": 1126.56,
+      "sid": 505,
+      "location": 2,
+      "content": "那么对你来说",
+      "music": 0.0
+    },
+    {
+      "from": 1126.56,
+      "to": 1128.94,
+      "sid": 506,
+      "location": 2,
+      "content": "这样的一个修复显然是更有意义的",
+      "music": 0.0
+    },
+    {
+      "from": 1128.94,
+      "to": 1131.2,
+      "sid": 507,
+      "location": 2,
+      "content": "而对于大部分普罗大众来说",
+      "music": 0.0
+    },
+    {
+      "from": 1131.2,
+      "to": 1132.08,
+      "sid": 508,
+      "location": 2,
+      "content": "没有炒股",
+      "music": 0.0
+    },
+    {
+      "from": 1132.08,
+      "to": 1135.8,
+      "sid": 509,
+      "location": 2,
+      "content": "或者说股票资产占它整体居民家庭资产的",
+      "music": 0.0
+    },
+    {
+      "from": 1135.8,
+      "to": 1137.9,
+      "sid": 510,
+      "location": 2,
+      "content": "这个比重非常小的这类人群来说",
+      "music": 0.0
+    },
+    {
+      "from": 1137.9,
+      "to": 1139.88,
+      "sid": 511,
+      "location": 2,
+      "content": "那么目前仍然是显现出了",
+      "music": 0.0
+    },
+    {
+      "from": 1139.88,
+      "to": 1142.62,
+      "sid": 512,
+      "location": 2,
+      "content": "整个居民资产负债表的一个受损",
+      "music": 0.0
+    },
+    {
+      "from": 1142.62,
+      "to": 1143.98,
+      "sid": 513,
+      "location": 2,
+      "content": "只不过这样一个受损啊",
+      "music": 0.0
+    },
+    {
+      "from": 1143.98,
+      "to": 1146.85,
+      "sid": 514,
+      "location": 2,
+      "content": "他的啊速度在逐渐的减缓而已",
+      "music": 0.0
+    },
+    {
+      "from": 1146.85,
+      "to": 1148.49,
+      "sid": 515,
+      "location": 2,
+      "content": "这篇研报最后其实也提到了",
+      "music": 0.0
+    },
+    {
+      "from": 1148.49,
+      "to": 1150.81,
+      "sid": 516,
+      "location": 2,
+      "content": "就是考虑到房地产的估值依然是负的",
+      "music": 0.0
+    },
+    {
+      "from": 1150.81,
+      "to": 1154.08,
+      "sid": 517,
+      "location": 2,
+      "content": "未来居民部门更加普不变的资产负债表改善",
+      "music": 0.0
+    },
+    {
+      "from": 1154.08,
+      "to": 1156.3,
+      "sid": 518,
+      "location": 2,
+      "content": "依然有赖于房地产估值的稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1156.3,
+      "to": 1160.04,
+      "sid": 519,
+      "location": 2,
+      "content": "届时居民部门资产负债表修复或进入新的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1160.04,
+      "to": 1160.56,
+      "sid": 520,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 1160.56,
+      "to": 1162.72,
+      "sid": 521,
+      "location": 2,
+      "content": "那就简单的跟大家分享一下这篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 1162.72,
+      "to": 1164.18,
+      "sid": 522,
+      "location": 2,
+      "content": "最后简单的谈两句",
+      "music": 0.0
+    },
+    {
+      "from": 1164.18,
+      "to": 1166.07,
+      "sid": 523,
+      "location": 2,
+      "content": "我个人对这篇研报的看法",
+      "music": 0.0
+    },
+    {
+      "from": 1166.07,
+      "to": 1168.47,
+      "sid": 524,
+      "location": 2,
+      "content": "就是我个人认为这篇研报所说的",
+      "music": 0.0
+    },
+    {
+      "from": 1168.47,
+      "to": 1170.98,
+      "sid": 525,
+      "location": 2,
+      "content": "居民资产负债表修复已经开始",
+      "music": 0.0
+    },
+    {
+      "from": 1170.98,
+      "to": 1172.88,
+      "sid": 526,
+      "location": 2,
+      "content": "这件事本身我是认可的",
+      "music": 0.0
+    },
+    {
+      "from": 1172.88,
+      "to": 1176.22,
+      "sid": 527,
+      "location": 2,
+      "content": "但是呢它背后可能我们要深度的剖析一下",
+      "music": 0.0
+    },
+    {
+      "from": 1176.22,
+      "to": 1177.36,
+      "sid": 528,
+      "location": 2,
+      "content": "主要的动因",
+      "music": 0.0
+    },
+    {
+      "from": 1177.36,
+      "to": 1178.36,
+      "sid": 529,
+      "location": 2,
+      "content": "那这个动因里面",
+      "music": 0.0
+    },
+    {
+      "from": 1178.36,
+      "to": 1180.72,
+      "sid": 530,
+      "location": 2,
+      "content": "我觉得有几方面是这篇研报忽视的",
+      "music": 0.0
+    },
+    {
+      "from": 1180.72,
+      "to": 1182.8,
+      "sid": 531,
+      "location": 2,
+      "content": "特别呢是在刚才讲到的",
+      "music": 0.0
+    },
+    {
+      "from": 1182.8,
+      "to": 1186.22,
+      "sid": 532,
+      "location": 2,
+      "content": "居民的这样一个呃当期盈余的改善啊",
+      "music": 0.0
+    },
+    {
+      "from": 1186.22,
+      "to": 1187.62,
+      "sid": 533,
+      "location": 2,
+      "content": "或者说持续贡献方面",
+      "music": 0.0
+    },
+    {
+      "from": 1187.62,
+      "to": 1190.2,
+      "sid": 534,
+      "location": 2,
+      "content": "这里面呢我觉得要考虑两方面的原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 1190.2,
+      "to": 1190.96,
+      "sid": 535,
+      "location": 2,
+      "content": "第一方面原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 1190.96,
+      "to": 1194.0,
+      "sid": 536,
+      "location": 2,
+      "content": "就是居民部门提前还房贷的这样一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 1194.0,
+      "to": 1197.16,
+      "sid": 537,
+      "location": 2,
+      "content": "在24年的9月存量房贷利率下调之后",
+      "music": 0.0
+    },
+    {
+      "from": 1197.16,
+      "to": 1199.52,
+      "sid": 538,
+      "location": 2,
+      "content": "其实是有比较明显的改善的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1199.52,
+      "to": 1202.4,
+      "sid": 539,
+      "location": 2,
+      "content": "那也就意味着居民部门不再提前偿还房贷",
+      "music": 0.0
+    },
+    {
+      "from": 1202.4,
+      "to": 1205.92,
+      "sid": 540,
+      "location": 2,
+      "content": "那在他当期的呃净现金流收入方面",
+      "music": 0.0
+    },
+    {
+      "from": 1205.92,
+      "to": 1208.8,
+      "sid": 541,
+      "location": 2,
+      "content": "可能能够有更多的资金盈余下来",
+      "music": 0.0
+    },
+    {
+      "from": 1208.8,
+      "to": 1209.68,
+      "sid": 542,
+      "location": 2,
+      "content": "第二个原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 1209.68,
+      "to": 1212.94,
+      "sid": 543,
+      "location": 2,
+      "content": "就是在整个这一次的经济周期之下吧",
+      "music": 0.0
+    },
+    {
+      "from": 1212.94,
+      "to": 1217.25,
+      "sid": 544,
+      "location": 2,
+      "content": "很多居民其实已经在消费方面有显著的降级了",
+      "music": 0.0
+    },
+    {
+      "from": 1217.25,
+      "to": 1218.1,
+      "sid": 545,
+      "location": 2,
+      "content": "那也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1218.1,
+      "to": 1219.9,
+      "sid": 546,
+      "location": 2,
+      "content": "现阶段当期的这个盈余",
+      "music": 0.0
+    },
+    {
+      "from": 1219.9,
+      "to": 1222.26,
+      "sid": 547,
+      "location": 2,
+      "content": "和之前当期的盈余是不可同日而语的",
+      "music": 0.0
+    },
+    {
+      "from": 1222.26,
+      "to": 1223.98,
+      "sid": 548,
+      "location": 2,
+      "content": "现在的这个当期盈余",
+      "music": 0.0
+    },
+    {
+      "from": 1223.98,
+      "to": 1227.84,
+      "sid": 549,
+      "location": 2,
+      "content": "更多的并不是由于大家的收入增长而带动的",
+      "music": 0.0
+    },
+    {
+      "from": 1227.84,
+      "to": 1229.08,
+      "sid": 550,
+      "location": 2,
+      "content": "像这篇研报所说的",
+      "music": 0.0
+    },
+    {
+      "from": 1229.08,
+      "to": 1230.48,
+      "sid": 551,
+      "location": 2,
+      "content": "居民可支配收入的增长",
+      "music": 0.0
+    },
+    {
+      "from": 1230.48,
+      "to": 1233.14,
+      "sid": 552,
+      "location": 2,
+      "content": "或者说上市公司的盈利的增长所带动",
+      "music": 0.0
+    },
+    {
+      "from": 1233.14,
+      "to": 1235.46,
+      "sid": 553,
+      "location": 2,
+      "content": "更多的其实是消费降级所带动的",
+      "music": 0.0
+    },
+    {
+      "from": 1235.46,
+      "to": 1237.66,
+      "sid": 554,
+      "location": 2,
+      "content": "也就是说花更少的钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 1237.66,
+      "to": 1240.68,
+      "sid": 555,
+      "location": 2,
+      "content": "那意味着当期盈余自然它就增加了",
+      "music": 0.0
+    },
+    {
+      "from": 1240.68,
+      "to": 1241.8,
+      "sid": 556,
+      "location": 2,
+      "content": "所以我个人的理解呢",
+      "music": 0.0
+    },
+    {
+      "from": 1241.8,
+      "to": 1243.17,
+      "sid": 557,
+      "location": 2,
+      "content": "就是这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 1243.17,
+      "to": 1246.07,
+      "sid": 558,
+      "location": 2,
+      "content": "还是一篇值得大家去思考和参考的研报",
+      "music": 0.0
+    },
+    {
+      "from": 1246.07,
+      "to": 1247.41,
+      "sid": 559,
+      "location": 2,
+      "content": "我有什么说的不对的地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 1247.41,
+      "to": 1249.34,
+      "sid": 560,
+      "location": 2,
+      "content": "还请大家多多的指正啊",
+      "music": 0.0
+    },
+    {
+      "from": 1249.34,
+      "to": 1250.7,
+      "sid": 561,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1250.7,
+      "to": 1251.46,
+      "sid": 562,
+      "location": 2,
+      "content": "还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 1251.46,
+      "to": 1252.94,
+      "sid": 563,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣的",
+      "music": 0.0
+    },
+    {
+      "from": 1252.94,
+      "to": 1255.06,
+      "sid": 564,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中",
+      "music": 0.0
+    },
+    {
+      "from": 1255.06,
+      "to": 1257.11,
+      "sid": 565,
+      "location": 2,
+      "content": "去获取谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 1257.11,
+      "to": 1258.59,
+      "sid": 566,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1258.59,
+      "to": 1260.15,
+      "sid": 567,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1260.15,
+      "to": 1260.88,
+      "sid": 568,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

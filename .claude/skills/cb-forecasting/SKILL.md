@@ -6,6 +6,10 @@ description: Analyze high-barrier cyclical tech companies to forecast future pro
 # C-B Forecasting Model
 ## Cycle & Barrier Profitability Forecasting for High-Capex Tech Companies
 
+> **Analysis Time Node (分析时间节点)**: 2026-05-11  
+> When beginning any analysis, explicitly state: *"Current analysis date: 2026-05-11. All financial data, quarterly results, and forward-looking statements should be evaluated relative to this date."*  
+> The year 2026 is used as the reference point for mid-cycle and long-term forecasts (2027, 2028, 2029+).
+
 A four-dimensional framework for systematically evaluating the future profit trajectory of companies characterized by **high capital expenditure, strong technical barriers, and pronounced cyclicality**.
 
 **Best suited for:** Semiconductor equipment, memory manufacturers, advanced packaging (CoWoS), foundries, GPU/AI chip designers, and any tech sector where capacity lead times exceed 18 months and margins are heavily influenced by yield rates.
@@ -97,6 +101,8 @@ When you complete the analysis, structure your output as:
 ```
 # [Company Name] C-B Analysis: [Year] Forecast
 
+> **Current Analysis Date**: 2026-05-11
+
 ## Dimension 1: Leading Indicators
 **Signal detected:** [None / Order Pre-pay / CapEx Transmission / Bottleneck]
 **Time to impact:** [1-2 quarters / 2-4 quarters / 4+ quarters]
@@ -125,14 +131,22 @@ When you complete the analysis, structure your output as:
 
 ---
 
-## Practical Application: 2027 Forecasting Checklist
+## Practical Application: Mid-to-Long Term Forecasting Checklist
 
-To predict a company's 2027 profit trajectory:
+> **Reference Date**: 2026-05-11 — "Current year" = 2026. Forecasts should evaluate 2026, 2027, 2028, and beyond relative to this date.
 
-1. **看订单**: Has Nvidia/Apple/Google issued 2027 purchase intentions? (Leading Indicators)
-2. **看竞争**: Has Samsung's yield caught up to the incumbent? (Quality of Moat)
-3. **看工厂**: Did the fab started in 2025 reach full production by 2027? (Capacity-Profit Lag)
-4. **看股价**: Does current PE already embed that new fab's profits? (Valuation Discounting)
+To predict a company's trajectory:
+
+1. **看订单**: Have major customers (Nvidia/Apple/Google/ByteDance/Tencent) issued 2026-2027 purchase intentions? (Leading Indicators)
+2. **看竞争**: Has a second supplier passed qualification, shifting bargaining power? (Quality of Moat)
+3. **看工厂**: Did capacity expansion started in 2024-2025 reach full production by 2026-2027? (Capacity-Profit Lag)
+4. **看股价**: Does current PE already embed that new capacity's profits? (Valuation Discounting)
+
+**Year Reference:**
+- "Current" = 2026 (as of 2026-05-11)
+- "Near-term" = next 4 quarters (H2 2026)
+- "Mid-term" = 2027
+- "Long-term" = 2028+
 
 ---
 

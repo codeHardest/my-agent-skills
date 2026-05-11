@@ -85,7 +85,16 @@
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/get_bilibili_subtitle.py\" 116524627008111 38117968922 \"./downloads/bilibili/BV1RERWBfEfm/\" \"./downloads/bilibili/bilibili-cookies.txt\")",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/convert_subtitle.py\" \"./downloads/bilibili/BV1RERWBfEfm/subtitle_ai-zh.json\" \"./downloads/bilibili/BV1RERWBfEfm/\")",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"./downloads/bilibili/BV1RERWBfEfm/transcript.txt\" \"./downloads/bilibili/BV1RERWBfEfm/summary.md\" --title \"4月房价再度转弱、新房销量降幅收窄，新能源车内销量持续低迷\" --url \"https://www.bilibili.com/video/BV1RERWBfEfm\" --duration 1201)",
-      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"./downloads/bilibili/BV1RERWBfEfm/summary.md\" \"./downloads/bilibili/catalog.md\")"
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"./downloads/bilibili/BV1RERWBfEfm/summary.md\" \"./downloads/bilibili/catalog.md\")",
+      "WebSearch",
+      "WebFetch(domain:www.longsys.com)",
+      "WebFetch(domain:vip.stock.finance.sina.com.cn)",
+      "WebFetch(domain:www.legulegu.com)",
+      "WebFetch(domain:money.finance.sina.com.cn)",
+      "WebFetch(domain:datacenter.eastmoney.com)",
+      "WebFetch(domain:stock.finance.qq.com)",
+      "WebFetch(domain:www.annualreports.com)",
+      "WebFetch(domain:www.cninfo.com.cn)"
     ]
   }
 }
