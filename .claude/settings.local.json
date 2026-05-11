@@ -79,7 +79,13 @@
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --print \"AID=%\\(aid\\)s\" --print \"CID=%\\(cid\\)s\" --print \"title=%\\(title\\)s\" --print \"duration=%\\(duration\\)s\" \"https://www.bilibili.com/video/BV17q9rBmEWz\" --skip-download --no-playlist)",
       "Bash('C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe' -c ' *)",
       "Bash(python313 *)",
-      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --list-subs \"https://www.bilibili.com/video/BV16c9fBNEdz\")"
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --list-subs \"https://www.bilibili.com/video/BV16c9fBNEdz\")",
+      "Bash(git -C \"P:/AI/my-agent-skills\" checkout -- \"downloads/bilibili/catalog.md\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --dump-json \"https://www.bilibili.com/video/BV1RERWBfEfm\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/get_bilibili_subtitle.py\" 116524627008111 38117968922 \"./downloads/bilibili/BV1RERWBfEfm/\" \"./downloads/bilibili/bilibili-cookies.txt\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/convert_subtitle.py\" \"./downloads/bilibili/BV1RERWBfEfm/subtitle_ai-zh.json\" \"./downloads/bilibili/BV1RERWBfEfm/\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"./downloads/bilibili/BV1RERWBfEfm/transcript.txt\" \"./downloads/bilibili/BV1RERWBfEfm/summary.md\" --title \"4月房价再度转弱、新房销量降幅收窄，新能源车内销量持续低迷\" --url \"https://www.bilibili.com/video/BV1RERWBfEfm\" --duration 1201)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"./downloads/bilibili/BV1RERWBfEfm/summary.md\" \"./downloads/bilibili/catalog.md\")"
     ]
   }
 }

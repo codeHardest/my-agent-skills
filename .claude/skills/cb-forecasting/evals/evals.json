@@ -1,0 +1,23 @@
+{
+  "skill_name": "cb-forecasting",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "分析SK海力士当前的盈利预测，重点关注其HBM产能扩张周期和毛利率变化趋势",
+      "expected_output": "Four-dimension C-B analysis covering leading indicators (HBM orders, pre-pay status), moat quality (premium vs cost-driven margins), capacity-profit lag (M16 factory yield ramp, depreciation phase), and valuation (PE vs cycle position)",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我评估一下台积电的CapEx周期和它对未来18个月盈利的影响",
+      "expected_output": "Analysis of TSMC's CapEx transmission to revenue, CoWoS bottleneck positioning, yield threshold status, and PE valuation timing — synthesized into the standard forecast format",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "英伟达现在的估值有没有透支未来的增长？",
+      "expected_output": "Valuation discounting analysis: current PE calibration, bull thesis exhaustion indicators, whether stock price reflects 2026 or 2027 earnings potential",
+      "files": []
+    }
+  ]
+}

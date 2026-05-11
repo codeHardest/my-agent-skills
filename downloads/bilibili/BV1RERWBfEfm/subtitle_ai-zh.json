@@ -1,0 +1,4436 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.28,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.28,
+      "to": 3.98,
+      "sid": 3,
+      "location": 2,
+      "content": "真的是好久不见啊",
+      "music": 0.0
+    },
+    {
+      "from": 3.98,
+      "to": 6.54,
+      "sid": 4,
+      "location": 2,
+      "content": "我五一呢也给自己放了一个小长假",
+      "music": 0.0
+    },
+    {
+      "from": 6.54,
+      "to": 8.82,
+      "sid": 5,
+      "location": 2,
+      "content": "带家人去阿那亚住了几天啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.82,
+      "to": 10.88,
+      "sid": 6,
+      "location": 2,
+      "content": "一会儿在这一期节目的最后吧",
+      "music": 0.0
+    },
+    {
+      "from": 10.88,
+      "to": 14.02,
+      "sid": 7,
+      "location": 2,
+      "content": "我也谈一谈我在阿那亚这几天的一些感触啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.02,
+      "to": 17.11,
+      "sid": 8,
+      "location": 2,
+      "content": "当然主要是在观察阿那亚的啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.11,
+      "to": 18.65,
+      "sid": 9,
+      "location": 2,
+      "content": "房价租金啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.65,
+      "to": 20.71,
+      "sid": 10,
+      "location": 2,
+      "content": "特别是我发现阿那亚的房价",
+      "music": 0.0
+    },
+    {
+      "from": 20.71,
+      "to": 23.04,
+      "sid": 11,
+      "location": 2,
+      "content": "似乎跌的是比周边的啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.04,
+      "to": 25.88,
+      "sid": 12,
+      "location": 2,
+      "content": "整个这个秦皇岛北戴河这个地区的啊",
+      "music": 0.0
+    },
+    {
+      "from": 25.88,
+      "to": 27.56,
+      "sid": 13,
+      "location": 2,
+      "content": "普遍的房价要小的",
+      "music": 0.0
+    },
+    {
+      "from": 27.56,
+      "to": 30.12,
+      "sid": 14,
+      "location": 2,
+      "content": "那其实我们也可以从这个逻辑来聊一聊",
+      "music": 0.0
+    },
+    {
+      "from": 30.12,
+      "to": 31.52,
+      "sid": 15,
+      "location": 2,
+      "content": "这个未来买房啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.52,
+      "to": 32.2,
+      "sid": 16,
+      "location": 2,
+      "content": "什么样的房子",
+      "music": 0.0
+    },
+    {
+      "from": 32.2,
+      "to": 33.8,
+      "sid": 17,
+      "location": 2,
+      "content": "可能它的房价会有支撑啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.8,
+      "to": 36.74,
+      "sid": 18,
+      "location": 2,
+      "content": "谈一谈我自己一点不成熟的观察啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.74,
+      "to": 38.46,
+      "sid": 19,
+      "location": 2,
+      "content": "当然我不是阿那亚的业主啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.46,
+      "to": 40.9,
+      "sid": 20,
+      "location": 2,
+      "content": "我只是作为一个观察者去那住了几天啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.9,
+      "to": 44.06,
+      "sid": 21,
+      "location": 2,
+      "content": "那今天呢我就跟大家来分享两篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.06,
+      "to": 45.879,
+      "sid": 22,
+      "location": 2,
+      "content": "因为整个五一假期期间",
+      "music": 0.0
+    },
+    {
+      "from": 45.879,
+      "to": 47.839,
+      "sid": 23,
+      "location": 2,
+      "content": "其实外资的投行也都没有",
+      "music": 0.0
+    },
+    {
+      "from": 47.839,
+      "to": 49.48,
+      "sid": 24,
+      "location": 2,
+      "content": "发什么特别好的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.48,
+      "to": 51.0,
+      "sid": 25,
+      "location": 2,
+      "content": "我刚才大概看了一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.0,
+      "to": 52.92,
+      "sid": 26,
+      "location": 2,
+      "content": "然后今天呢也是复工的第一天",
+      "music": 0.0
+    },
+    {
+      "from": 52.92,
+      "to": 54.6,
+      "sid": 27,
+      "location": 2,
+      "content": "我相信大家看到这期影片的时候",
+      "music": 0.0
+    },
+    {
+      "from": 54.6,
+      "to": 55.56,
+      "sid": 28,
+      "location": 2,
+      "content": "已经开始复工了",
+      "music": 0.0
+    },
+    {
+      "from": 55.56,
+      "to": 58.84,
+      "sid": 29,
+      "location": 2,
+      "content": "所以呢就跟大家简单的过一下4月份啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.84,
+      "to": 60.36,
+      "sid": 30,
+      "location": 2,
+      "content": "两个重点市场的表现",
+      "music": 0.0
+    },
+    {
+      "from": 60.36,
+      "to": 61.4,
+      "sid": 31,
+      "location": 2,
+      "content": "一个是房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 61.4,
+      "to": 62.64,
+      "sid": 32,
+      "location": 2,
+      "content": "一个是汽车市场",
+      "music": 0.0
+    },
+    {
+      "from": 62.64,
+      "to": 64.65,
+      "sid": 33,
+      "location": 2,
+      "content": "也就是我们说的房和车这两大件",
+      "music": 0.0
+    },
+    {
+      "from": 64.65,
+      "to": 67.41,
+      "sid": 34,
+      "location": 2,
+      "content": "那首先呢我们来看一下这篇房地产的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 67.41,
+      "to": 68.68,
+      "sid": 35,
+      "location": 2,
+      "content": "就是野村的这一篇",
+      "music": 0.0
+    },
+    {
+      "from": 68.68,
+      "to": 70.32,
+      "sid": 36,
+      "location": 2,
+      "content": "那这篇研报当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 70.32,
+      "to": 72.6,
+      "sid": 37,
+      "location": 2,
+      "content": "我们其实可以先看一下左边这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.6,
+      "to": 74.0,
+      "sid": 38,
+      "location": 2,
+      "content": "他就总结了啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.0,
+      "to": 78.04,
+      "sid": 39,
+      "location": 2,
+      "content": "4月份头部100个房企它的合约销售的情况",
+      "music": 0.0
+    },
+    {
+      "from": 78.04,
+      "to": 79.8,
+      "sid": 40,
+      "location": 2,
+      "content": "首先呢开篇第一句话就是",
+      "music": 0.0
+    },
+    {
+      "from": 79.8,
+      "to": 81.42,
+      "sid": 41,
+      "location": 2,
+      "content": "the decline narrow的further",
+      "music": 0.0
+    },
+    {
+      "from": 81.42,
+      "to": 84.04,
+      "sid": 42,
+      "location": 2,
+      "content": "就是这样的一个降幅是持续在收窄的",
+      "music": 0.0
+    },
+    {
+      "from": 84.04,
+      "to": 85.4,
+      "sid": 43,
+      "location": 2,
+      "content": "其实我们从左边这张图里面也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 85.4,
+      "to": 86.2,
+      "sid": 44,
+      "location": 2,
+      "content": "类似的现象",
+      "music": 0.0
+    },
+    {
+      "from": 86.2,
+      "to": 88.76,
+      "sid": 45,
+      "location": 2,
+      "content": "就2026年这条灰色的线",
+      "music": 0.0
+    },
+    {
+      "from": 88.76,
+      "to": 91.06,
+      "sid": 46,
+      "location": 2,
+      "content": "距离2025年这条黑色的线",
+      "music": 0.0
+    },
+    {
+      "from": 91.06,
+      "to": 93.84,
+      "sid": 47,
+      "location": 2,
+      "content": "它的差距啊在4月份的会进一步的收窄",
+      "music": 0.0
+    },
+    {
+      "from": 93.84,
+      "to": 96.12,
+      "sid": 48,
+      "location": 2,
+      "content": "从数据上呢我们也可以看到类似的现象",
+      "music": 0.0
+    },
+    {
+      "from": 96.12,
+      "to": 98.38,
+      "sid": 49,
+      "location": 2,
+      "content": "就从商品房的销售面积上来说",
+      "music": 0.0
+    },
+    {
+      "from": 98.38,
+      "to": 101.48,
+      "sid": 50,
+      "location": 2,
+      "content": "4月呢单月是同比降幅15.4%",
+      "music": 0.0
+    },
+    {
+      "from": 101.48,
+      "to": 104.14,
+      "sid": 51,
+      "location": 2,
+      "content": "但是呢相较于3月的负的18.1%",
+      "music": 0.0
+    },
+    {
+      "from": 104.14,
+      "to": 106.14,
+      "sid": 52,
+      "location": 2,
+      "content": "这样一个降幅还是有所收窄的",
+      "music": 0.0
+    },
+    {
+      "from": 106.14,
+      "to": 107.66,
+      "sid": 53,
+      "location": 2,
+      "content": "大概收窄了三个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 107.66,
+      "to": 110.26,
+      "sid": 54,
+      "location": 2,
+      "content": "从销售总金额的角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 110.26,
+      "to": 111.72,
+      "sid": 55,
+      "location": 2,
+      "content": "这个收窄是比较明显的",
+      "music": 0.0
+    },
+    {
+      "from": 111.72,
+      "to": 113.7,
+      "sid": 56,
+      "location": 2,
+      "content": "3月是负的16.2个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 113.7,
+      "to": 115.3,
+      "sid": 57,
+      "location": 2,
+      "content": "那到4月的时候是负的7.8",
+      "music": 0.0
+    },
+    {
+      "from": 115.3,
+      "to": 116.63,
+      "sid": 58,
+      "location": 2,
+      "content": "大概收窄了一半",
+      "music": 0.0
+    },
+    {
+      "from": 116.63,
+      "to": 119.75,
+      "sid": 59,
+      "location": 2,
+      "content": "那这里面我理解呢这收窄主要得益于两方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.75,
+      "to": 121.63,
+      "sid": 60,
+      "location": 2,
+      "content": "第一方面当然就是说卖好房子",
+      "music": 0.0
+    },
+    {
+      "from": 121.63,
+      "to": 123.76,
+      "sid": 61,
+      "location": 2,
+      "content": "卖一些高品质高价值的房子",
+      "music": 0.0
+    },
+    {
+      "from": 123.76,
+      "to": 125.8,
+      "sid": 62,
+      "location": 2,
+      "content": "第二个维度呢就是说核心城市",
+      "music": 0.0
+    },
+    {
+      "from": 125.8,
+      "to": 127.6,
+      "sid": 63,
+      "location": 2,
+      "content": "它的销售表现更好",
+      "music": 0.0
+    },
+    {
+      "from": 127.6,
+      "to": 131.11,
+      "sid": 64,
+      "location": 2,
+      "content": "而弱能级城市表现可能还是一如既往的差",
+      "music": 0.0
+    },
+    {
+      "from": 131.11,
+      "to": 133.17,
+      "sid": 65,
+      "location": 2,
+      "content": "因为核心城市它的房价比较高",
+      "music": 0.0
+    },
+    {
+      "from": 133.17,
+      "to": 136.03,
+      "sid": 66,
+      "location": 2,
+      "content": "虽然商品房的销售面积没有收窄这么多",
+      "music": 0.0
+    },
+    {
+      "from": 136.03,
+      "to": 139.34,
+      "sid": 67,
+      "location": 2,
+      "content": "但是在销售额方面还是有比较明显的收窄",
+      "music": 0.0
+    },
+    {
+      "from": 139.34,
+      "to": 141.52,
+      "sid": 68,
+      "location": 2,
+      "content": "那从具体的城市端的这个数据",
+      "music": 0.0
+    },
+    {
+      "from": 141.52,
+      "to": 143.49,
+      "sid": 69,
+      "location": 2,
+      "content": "我们也可以看到类似的一个结论",
+      "music": 0.0
+    },
+    {
+      "from": 143.49,
+      "to": 146.65,
+      "sid": 70,
+      "location": 2,
+      "content": "就是新房在20个重点城市的销售呢",
+      "music": 0.0
+    },
+    {
+      "from": 146.65,
+      "to": 148.86,
+      "sid": 71,
+      "location": 2,
+      "content": "是在4月份是由负转正了",
+      "music": 0.0
+    },
+    {
+      "from": 148.86,
+      "to": 150.94,
+      "sid": 72,
+      "location": 2,
+      "content": "3月份的时候呢同比是降5%",
+      "music": 0.0
+    },
+    {
+      "from": 150.94,
+      "to": 153.5,
+      "sid": 73,
+      "location": 2,
+      "content": "到4月的时候是同比增4.7%",
+      "music": 0.0
+    },
+    {
+      "from": 153.5,
+      "to": 154.24,
+      "sid": 74,
+      "location": 2,
+      "content": "这是新房",
+      "music": 0.0
+    },
+    {
+      "from": 154.24,
+      "to": 156.0,
+      "sid": 75,
+      "location": 2,
+      "content": "二手房的情况也是类似的",
+      "music": 0.0
+    },
+    {
+      "from": 156.0,
+      "to": 158.4,
+      "sid": 76,
+      "location": 2,
+      "content": "18个重点城市的二手房呢",
+      "music": 0.0
+    },
+    {
+      "from": 158.4,
+      "to": 161.02,
+      "sid": 77,
+      "location": 2,
+      "content": "在3月份是同比降2.9%",
+      "music": 0.0
+    },
+    {
+      "from": 161.02,
+      "to": 164.3,
+      "sid": 78,
+      "location": 2,
+      "content": "到4月的时候是同比增长13.9%",
+      "music": 0.0
+    },
+    {
+      "from": 164.3,
+      "to": 167.82,
+      "sid": 79,
+      "location": 2,
+      "content": "那也是得益于最近一段时间官方的叙事",
+      "music": 0.0
+    },
+    {
+      "from": 167.82,
+      "to": 170.26,
+      "sid": 80,
+      "location": 2,
+      "content": "以及二手房市场情绪的带动",
+      "music": 0.0
+    },
+    {
+      "from": 170.26,
+      "to": 172.08,
+      "sid": 81,
+      "location": 2,
+      "content": "但即便如此啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.08,
+      "to": 174.34,
+      "sid": 82,
+      "location": 2,
+      "content": "但是野村他们的一个判断是说",
+      "music": 0.0
+    },
+    {
+      "from": 174.34,
+      "to": 175.56,
+      "sid": 83,
+      "location": 2,
+      "content": "We do not think",
+      "music": 0.0
+    },
+    {
+      "from": 175.56,
+      "to": 178.2,
+      "sid": 84,
+      "location": 2,
+      "content": "就我们不认为beijing will Rush to deliver",
+      "music": 0.0
+    },
+    {
+      "from": 178.2,
+      "to": 179.8,
+      "sid": 85,
+      "location": 2,
+      "content": "Any major properties",
+      "music": 0.0
+    },
+    {
+      "from": 179.8,
+      "to": 181.26,
+      "sid": 86,
+      "location": 2,
+      "content": "stimulus nationwide啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.26,
+      "to": 184.14,
+      "sid": 87,
+      "location": 2,
+      "content": "就是全国范围内的房地产救市政策",
+      "music": 0.0
+    },
+    {
+      "from": 184.14,
+      "to": 186.34,
+      "sid": 88,
+      "location": 2,
+      "content": "在短期之内我们是看不到的啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.34,
+      "to": 188.44,
+      "sid": 89,
+      "location": 2,
+      "content": "实际上我们如果去回顾一下",
+      "music": 0.0
+    },
+    {
+      "from": 192.04,
+      "to": 192.96,
+      "sid": 90,
+      "location": 2,
+      "content": "其实都谈到了",
+      "music": 0.0
+    },
+    {
+      "from": 192.96,
+      "to": 194.04,
+      "sid": 91,
+      "location": 2,
+      "content": "就是房地产啊",
+      "music": 0.0
+    },
+    {
+      "from": 194.04,
+      "to": 196.04,
+      "sid": 92,
+      "location": 2,
+      "content": "开篇四个大字叫做因城施策",
+      "music": 0.0
+    },
+    {
+      "from": 196.04,
+      "to": 197.48,
+      "sid": 93,
+      "location": 2,
+      "content": "那回顾2025年",
+      "music": 0.0
+    },
+    {
+      "from": 197.48,
+      "to": 200.34,
+      "sid": 94,
+      "location": 2,
+      "content": "基本上全年没有任何全国范围的",
+      "music": 0.0
+    },
+    {
+      "from": 200.34,
+      "to": 201.7,
+      "sid": 95,
+      "location": 2,
+      "content": "房地产刺激政策",
+      "music": 0.0
+    },
+    {
+      "from": 201.7,
+      "to": 204.76,
+      "sid": 96,
+      "location": 2,
+      "content": "即便说去年下半年整个市场这么差的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 204.76,
+      "to": 206.06,
+      "sid": 97,
+      "location": 2,
+      "content": "那在2026年啊",
+      "music": 0.0
+    },
+    {
+      "from": 206.06,
+      "to": 209.2,
+      "sid": 98,
+      "location": 2,
+      "content": "这因城施策四个字又是写在房地产的这一段啊",
+      "music": 0.0
+    },
+    {
+      "from": 209.2,
+      "to": 211.6,
+      "sid": 99,
+      "location": 2,
+      "content": "所以整个市场在未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 211.6,
+      "to": 212.8,
+      "sid": 100,
+      "location": 2,
+      "content": "无论在多差",
+      "music": 0.0
+    },
+    {
+      "from": 212.8,
+      "to": 215.37,
+      "sid": 101,
+      "location": 2,
+      "content": "可能全国范围内的救市政策都看不到了",
+      "music": 0.0
+    },
+    {
+      "from": 215.37,
+      "to": 217.21,
+      "sid": 102,
+      "location": 2,
+      "content": "那另外呢就是野村啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.21,
+      "to": 218.65,
+      "sid": 103,
+      "location": 2,
+      "content": "呃由于他们是宏观研报",
+      "music": 0.0
+    },
+    {
+      "from": 218.65,
+      "to": 221.0,
+      "sid": 104,
+      "location": 2,
+      "content": "大家可以看到是野村的陆挺路首席",
+      "music": 0.0
+    },
+    {
+      "from": 221.0,
+      "to": 222.58,
+      "sid": 105,
+      "location": 2,
+      "content": "他的这个宏观团队在写啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.58,
+      "to": 225.36,
+      "sid": 106,
+      "location": 2,
+      "content": "所以他们仍然是相对偏谨慎的啊",
+      "music": 0.0
+    },
+    {
+      "from": 225.36,
+      "to": 228.61,
+      "sid": 107,
+      "location": 2,
+      "content": "我发现呃最近呢对于房地产市场比较乐观的",
+      "music": 0.0
+    },
+    {
+      "from": 228.61,
+      "to": 231.65,
+      "sid": 108,
+      "location": 2,
+      "content": "基本上都是房地产这研究团队的一些研报",
+      "music": 0.0
+    },
+    {
+      "from": 231.65,
+      "to": 232.61,
+      "sid": 109,
+      "location": 2,
+      "content": "比如说JPMORGAN",
+      "music": 0.0
+    },
+    {
+      "from": 232.61,
+      "to": 233.579,
+      "sid": 110,
+      "location": 2,
+      "content": "就是摩根大通",
+      "music": 0.0
+    },
+    {
+      "from": 233.579,
+      "to": 236.099,
+      "sid": 111,
+      "location": 2,
+      "content": "以及再往之前的高盛",
+      "music": 0.0
+    },
+    {
+      "from": 236.099,
+      "to": 239.419,
+      "sid": 112,
+      "location": 2,
+      "content": "但是呢每到宏观团队去写报告的时候",
+      "music": 0.0
+    },
+    {
+      "from": 239.419,
+      "to": 240.46,
+      "sid": 113,
+      "location": 2,
+      "content": "都是偏谨慎的啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.46,
+      "to": 242.5,
+      "sid": 114,
+      "location": 2,
+      "content": "野村的宏观团队也有类似的一个表率啊",
+      "music": 0.0
+    },
+    {
+      "from": 242.5,
+      "to": 246.02,
+      "sid": 115,
+      "location": 2,
+      "content": "他们认为房地产是不太可能在未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 246.02,
+      "to": 247.56,
+      "sid": 116,
+      "location": 2,
+      "content": "真正完成企稳的啊",
+      "music": 0.0
+    },
+    {
+      "from": 247.56,
+      "to": 250.76,
+      "sid": 117,
+      "location": 2,
+      "content": "的原话叫做unlikely to truly stabilize",
+      "music": 0.0
+    },
+    {
+      "from": 250.76,
+      "to": 251.5,
+      "sid": 118,
+      "location": 2,
+      "content": "Any only time",
+      "music": 0.0
+    },
+    {
+      "from": 251.5,
+      "to": 251.9,
+      "sid": 119,
+      "location": 2,
+      "content": "Soon",
+      "music": 0.0
+    },
+    {
+      "from": 251.9,
+      "to": 252.44,
+      "sid": 120,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 252.44,
+      "to": 255.48,
+      "sid": 121,
+      "location": 2,
+      "content": "是因为目前整体对于市场的情绪",
+      "music": 0.0
+    },
+    {
+      "from": 255.48,
+      "to": 256.84,
+      "sid": 122,
+      "location": 2,
+      "content": "仍然是偏悲观的",
+      "music": 0.0
+    },
+    {
+      "from": 256.84,
+      "to": 258.84,
+      "sid": 123,
+      "location": 2,
+      "content": "deeply pessimistic market sentiment啊",
+      "music": 0.0
+    },
+    {
+      "from": 258.84,
+      "to": 260.4,
+      "sid": 124,
+      "location": 2,
+      "content": "说完了野村这篇房地产的研报呢",
+      "music": 0.0
+    },
+    {
+      "from": 260.4,
+      "to": 262.52,
+      "sid": 125,
+      "location": 2,
+      "content": "我们再来看一下5月1号的时候",
+      "music": 0.0
+    },
+    {
+      "from": 262.52,
+      "to": 266.57,
+      "sid": 126,
+      "location": 2,
+      "content": "终止研究院发布的4月份的百城价格指数啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.57,
+      "to": 269.38,
+      "sid": 127,
+      "location": 2,
+      "content": "当然我们主要还是看二手房的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 269.38,
+      "to": 273.18,
+      "sid": 128,
+      "location": 2,
+      "content": "那么二手住宅环比下跌了0.46个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 273.18,
+      "to": 274.14,
+      "sid": 129,
+      "location": 2,
+      "content": "我们可以先记一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 274.14,
+      "to": 275.18,
+      "sid": 130,
+      "location": 2,
+      "content": "0.46个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 275.18,
+      "to": 277.18,
+      "sid": 131,
+      "location": 2,
+      "content": "另外就是50城的租金啊",
+      "music": 0.0
+    },
+    {
+      "from": 277.18,
+      "to": 279.7,
+      "sid": 132,
+      "location": 2,
+      "content": "是环比下跌了0.05个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 279.7,
+      "to": 281.46,
+      "sid": 133,
+      "location": 2,
+      "content": "如果大家还有印象的话",
+      "music": 0.0
+    },
+    {
+      "from": 281.46,
+      "to": 283.74,
+      "sid": 134,
+      "location": 2,
+      "content": "我在4月初的时候给大家分享过",
+      "music": 0.0
+    },
+    {
+      "from": 283.74,
+      "to": 285.27,
+      "sid": 135,
+      "location": 2,
+      "content": "终止研究院的图",
+      "music": 0.0
+    },
+    {
+      "from": 285.27,
+      "to": 286.81,
+      "sid": 136,
+      "location": 2,
+      "content": "那就是大家现在看到这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 286.81,
+      "to": 287.85,
+      "sid": 137,
+      "location": 2,
+      "content": "当然很遗憾啊",
+      "music": 0.0
+    },
+    {
+      "from": 287.85,
+      "to": 290.61,
+      "sid": 138,
+      "location": 2,
+      "content": "这张图我看他们是没有去公布啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.61,
+      "to": 292.13,
+      "sid": 139,
+      "location": 2,
+      "content": "4月份的数据没有更新啊",
+      "music": 0.0
+    },
+    {
+      "from": 292.13,
+      "to": 293.58,
+      "sid": 140,
+      "location": 2,
+      "content": "不知道是出于什么原因",
+      "music": 0.0
+    },
+    {
+      "from": 293.58,
+      "to": 295.02,
+      "sid": 141,
+      "location": 2,
+      "content": "我当时其实也跟大家分享过了",
+      "music": 0.0
+    },
+    {
+      "from": 295.02,
+      "to": 296.52,
+      "sid": 142,
+      "location": 2,
+      "content": "就是虽然说在3月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 296.52,
+      "to": 298.88,
+      "sid": 143,
+      "location": 2,
+      "content": "我们看到这房价的环比跌幅和租金表现",
+      "music": 0.0
+    },
+    {
+      "from": 298.88,
+      "to": 299.6,
+      "sid": 144,
+      "location": 2,
+      "content": "都是很好的",
+      "music": 0.0
+    },
+    {
+      "from": 299.6,
+      "to": 301.5,
+      "sid": 145,
+      "location": 2,
+      "content": "房价环比跌幅有大幅的收窄",
+      "music": 0.0
+    },
+    {
+      "from": 301.5,
+      "to": 304.67,
+      "sid": 146,
+      "location": 2,
+      "content": "那租金呢也是由跌转涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 304.67,
+      "to": 307.09,
+      "sid": 147,
+      "location": 2,
+      "content": "但是呢如果大家去看这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 307.09,
+      "to": 310.339,
+      "sid": 148,
+      "location": 2,
+      "content": "每一次的纸上的一个小高峰都都是3月份",
+      "music": 0.0
+    },
+    {
+      "from": 310.339,
+      "to": 311.999,
+      "sid": 149,
+      "location": 2,
+      "content": "所以小阳春结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 311.999,
+      "to": 314.52,
+      "sid": 150,
+      "location": 2,
+      "content": "整个市场还是会转冷的知识啊",
+      "music": 0.0
+    },
+    {
+      "from": 314.52,
+      "to": 315.9,
+      "sid": 151,
+      "location": 2,
+      "content": "刚才我也让大家记一下",
+      "music": 0.0
+    },
+    {
+      "from": 315.9,
+      "to": 318.8,
+      "sid": 152,
+      "location": 2,
+      "content": "二手房价格环比变化是0.46个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 318.8,
+      "to": 321.64,
+      "sid": 153,
+      "location": 2,
+      "content": "你可以看到相加3月的0.34个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 321.64,
+      "to": 323.46,
+      "sid": 154,
+      "location": 2,
+      "content": "也就是说虽然他们没有更新这张图",
+      "music": 0.0
+    },
+    {
+      "from": 323.46,
+      "to": 324.64,
+      "sid": 155,
+      "location": 2,
+      "content": "但如果更新的话",
+      "music": 0.0
+    },
+    {
+      "from": 324.64,
+      "to": 326.24,
+      "sid": 156,
+      "location": 2,
+      "content": "大概在我鼠标的这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 326.24,
+      "to": 329.15,
+      "sid": 157,
+      "location": 2,
+      "content": "又开始比较明显的下跌了",
+      "music": 0.0
+    },
+    {
+      "from": 329.15,
+      "to": 331.43,
+      "sid": 158,
+      "location": 2,
+      "content": "同时呢呃不仅刚才讲到",
+      "music": 0.0
+    },
+    {
+      "from": 331.43,
+      "to": 335.72,
+      "sid": 159,
+      "location": 2,
+      "content": "环比呢是从正的0.09又转为负的0.05",
+      "music": 0.0
+    },
+    {
+      "from": 335.72,
+      "to": 337.98,
+      "sid": 160,
+      "location": 2,
+      "content": "也就是说租金又开始下跌了",
+      "music": 0.0
+    },
+    {
+      "from": 337.98,
+      "to": 341.32,
+      "sid": 161,
+      "location": 2,
+      "content": "所以无论是二手房的房价还是租金",
+      "music": 0.0
+    },
+    {
+      "from": 341.32,
+      "to": 344.919,
+      "sid": 162,
+      "location": 2,
+      "content": "在3月份的一个回暖本身都是比较短暂的",
+      "music": 0.0
+    },
+    {
+      "from": 344.919,
+      "to": 347.259,
+      "sid": 163,
+      "location": 2,
+      "content": "在价格这一端也看到这样一个现象",
+      "music": 0.0
+    },
+    {
+      "from": 347.259,
+      "to": 351.04,
+      "sid": 164,
+      "location": 2,
+      "content": "那么如果我们继续按照往年的足迹",
+      "music": 0.0
+    },
+    {
+      "from": 351.04,
+      "to": 352.2,
+      "sid": 165,
+      "location": 2,
+      "content": "去展望未来的话",
+      "music": 0.0
+    },
+    {
+      "from": 352.2,
+      "to": 354.84,
+      "sid": 166,
+      "location": 2,
+      "content": "那么5月6月七月八月啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.84,
+      "to": 357.32,
+      "sid": 167,
+      "location": 2,
+      "content": "整个市场又都处于一个沉寂的状态",
+      "music": 0.0
+    },
+    {
+      "from": 357.32,
+      "to": 359.0,
+      "sid": 168,
+      "location": 2,
+      "content": "每年的5678都很难",
+      "music": 0.0
+    },
+    {
+      "from": 359.0,
+      "to": 360.8,
+      "sid": 169,
+      "location": 2,
+      "content": "当然90月份有一些小阳春",
+      "music": 0.0
+    },
+    {
+      "from": 360.8,
+      "to": 362.14,
+      "sid": 170,
+      "location": 2,
+      "content": "所以表现还好一些",
+      "music": 0.0
+    },
+    {
+      "from": 362.14,
+      "to": 365.72,
+      "sid": 171,
+      "location": 2,
+      "content": "但是56784个月可能是比较难的啊",
+      "music": 0.0
+    },
+    {
+      "from": 365.72,
+      "to": 367.6,
+      "sid": 172,
+      "location": 2,
+      "content": "那我们可能在未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 371.97,
+      "to": 373.05,
+      "sid": 173,
+      "location": 2,
+      "content": "那说完房地产呢",
+      "music": 0.0
+    },
+    {
+      "from": 373.05,
+      "to": 375.61,
+      "sid": 174,
+      "location": 2,
+      "content": "我们再来看一下野村的汽车行业研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 375.61,
+      "to": 379.069,
+      "sid": 175,
+      "location": 2,
+      "content": "呃他们这篇研报的开篇呢",
+      "music": 0.0
+    },
+    {
+      "from": 379.069,
+      "to": 381.249,
+      "sid": 176,
+      "location": 2,
+      "content": "野村就提到了一个核心观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 381.249,
+      "to": 383.74,
+      "sid": 177,
+      "location": 2,
+      "content": "就是目前的车市是严重的分化",
+      "music": 0.0
+    },
+    {
+      "from": 383.74,
+      "to": 387.06,
+      "sid": 178,
+      "location": 2,
+      "content": "这个分化主要其实是体现在出口端和内需端",
+      "music": 0.0
+    },
+    {
+      "from": 387.06,
+      "to": 390.52,
+      "sid": 179,
+      "location": 2,
+      "content": "也就是外需强内虚弱的现象仍然是在持续的",
+      "music": 0.0
+    },
+    {
+      "from": 390.52,
+      "to": 393.68,
+      "sid": 180,
+      "location": 2,
+      "content": "一会我给大家看一下几家车企的相关数据",
+      "music": 0.0
+    },
+    {
+      "from": 393.68,
+      "to": 396.289,
+      "sid": 181,
+      "location": 2,
+      "content": "其实也可以看到类似的一个现象非常明显",
+      "music": 0.0
+    },
+    {
+      "from": 396.289,
+      "to": 399.209,
+      "sid": 182,
+      "location": 2,
+      "content": "那他用的一个词呢也是比较的揪心",
+      "music": 0.0
+    },
+    {
+      "from": 399.209,
+      "to": 400.889,
+      "sid": 183,
+      "location": 2,
+      "content": "叫做local market demand",
+      "music": 0.0
+    },
+    {
+      "from": 400.889,
+      "to": 401.929,
+      "sid": 184,
+      "location": 2,
+      "content": "Remains concerning",
+      "music": 0.0
+    },
+    {
+      "from": 401.929,
+      "to": 405.0,
+      "sid": 185,
+      "location": 2,
+      "content": "也就是说目前本土市场的内需啊",
+      "music": 0.0
+    },
+    {
+      "from": 405.0,
+      "to": 406.6,
+      "sid": 186,
+      "location": 2,
+      "content": "表现是让人担忧的",
+      "music": 0.0
+    },
+    {
+      "from": 406.6,
+      "to": 409.79,
+      "sid": 187,
+      "location": 2,
+      "content": "基于他们对于一个汽车行业的专家啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.79,
+      "to": 411.23,
+      "sid": 188,
+      "location": 2,
+      "content": "这个专家呢在另一篇研报里",
+      "music": 0.0
+    },
+    {
+      "from": 411.23,
+      "to": 413.13,
+      "sid": 189,
+      "location": 2,
+      "content": "他们单独去写了一下呃",
+      "music": 0.0
+    },
+    {
+      "from": 413.13,
+      "to": 415.33,
+      "sid": 190,
+      "location": 2,
+      "content": "是这个car fans的孙少军啊",
+      "music": 0.0
+    },
+    {
+      "from": 415.33,
+      "to": 416.29,
+      "sid": 191,
+      "location": 2,
+      "content": "是他们的创始人啊",
+      "music": 0.0
+    },
+    {
+      "from": 416.29,
+      "to": 418.63,
+      "sid": 192,
+      "location": 2,
+      "content": "跟孙少军先生做了一个访谈",
+      "music": 0.0
+    },
+    {
+      "from": 418.63,
+      "to": 421.56,
+      "sid": 193,
+      "location": 2,
+      "content": "以及他们在线下实体店调研的情况",
+      "music": 0.0
+    },
+    {
+      "from": 421.56,
+      "to": 423.66,
+      "sid": 194,
+      "location": 2,
+      "content": "总结呢发现了有两个特点",
+      "music": 0.0
+    },
+    {
+      "from": 423.66,
+      "to": 426.82,
+      "sid": 195,
+      "location": 2,
+      "content": "第一个呢是进入4S店的一些新的",
+      "music": 0.0
+    },
+    {
+      "from": 426.82,
+      "to": 428.74,
+      "sid": 196,
+      "location": 2,
+      "content": "有需求购物车的人群",
+      "music": 0.0
+    },
+    {
+      "from": 428.74,
+      "to": 429.98,
+      "sid": 197,
+      "location": 2,
+      "content": "它的数量啊",
+      "music": 0.0
+    },
+    {
+      "from": 429.98,
+      "to": 432.74,
+      "sid": 198,
+      "location": 2,
+      "content": "就是说进店的数量就有明显的在下降",
+      "music": 0.0
+    },
+    {
+      "from": 432.74,
+      "to": 435.86,
+      "sid": 199,
+      "location": 2,
+      "content": "而且在最近的两个月是在持续的下降",
+      "music": 0.0
+    },
+    {
+      "from": 435.86,
+      "to": 438.74,
+      "sid": 200,
+      "location": 2,
+      "content": "也就是说啊install new customers traffic",
+      "music": 0.0
+    },
+    {
+      "from": 438.74,
+      "to": 441.4,
+      "sid": 201,
+      "location": 2,
+      "content": "这个看车的人是在明显的下降",
+      "music": 0.0
+    },
+    {
+      "from": 441.4,
+      "to": 444.22,
+      "sid": 202,
+      "location": 2,
+      "content": "第二个呢是这个订单量就是market order",
+      "music": 0.0
+    },
+    {
+      "from": 444.22,
+      "to": 447.309,
+      "sid": 203,
+      "location": 2,
+      "content": "订单量的复苏是weaker than expected",
+      "music": 0.0
+    },
+    {
+      "from": 447.309,
+      "to": 448.609,
+      "sid": 204,
+      "location": 2,
+      "content": "是低于预期的",
+      "music": 0.0
+    },
+    {
+      "from": 448.609,
+      "to": 450.469,
+      "sid": 205,
+      "location": 2,
+      "content": "所以展望未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 450.469,
+      "to": 451.369,
+      "sid": 206,
+      "location": 2,
+      "content": "可能内需",
+      "music": 0.0
+    },
+    {
+      "from": 451.369,
+      "to": 454.66,
+      "sid": 207,
+      "location": 2,
+      "content": "或者说我们国内的汽车消费的这个市场",
+      "music": 0.0
+    },
+    {
+      "from": 454.66,
+      "to": 456.76,
+      "sid": 208,
+      "location": 2,
+      "content": "仍然是持续的承压的",
+      "music": 0.0
+    },
+    {
+      "from": 456.76,
+      "to": 459.1,
+      "sid": 209,
+      "location": 2,
+      "content": "针针对于2026年的一个展望的就是",
+      "music": 0.0
+    },
+    {
+      "from": 459.1,
+      "to": 460.72,
+      "sid": 210,
+      "location": 2,
+      "content": "Maintain a cautious view",
+      "music": 0.0
+    },
+    {
+      "from": 460.72,
+      "to": 463.25,
+      "sid": 211,
+      "location": 2,
+      "content": "仍然是对国内的内需市场",
+      "music": 0.0
+    },
+    {
+      "from": 463.25,
+      "to": 465.67,
+      "sid": 212,
+      "location": 2,
+      "content": "持一个相对谨慎的观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 465.67,
+      "to": 467.37,
+      "sid": 213,
+      "location": 2,
+      "content": "认为整个2026年",
+      "music": 0.0
+    },
+    {
+      "from": 467.37,
+      "to": 470.22,
+      "sid": 214,
+      "location": 2,
+      "content": "可能本土市场表现都是平平的",
+      "music": 0.0
+    },
+    {
+      "from": 470.22,
+      "to": 473.08,
+      "sid": 215,
+      "location": 2,
+      "content": "那接下来呢我们再来看一下整个车市的一个",
+      "music": 0.0
+    },
+    {
+      "from": 473.08,
+      "to": 474.26,
+      "sid": 216,
+      "location": 2,
+      "content": "Divergent performance",
+      "music": 0.0
+    },
+    {
+      "from": 474.26,
+      "to": 476.3,
+      "sid": 217,
+      "location": 2,
+      "content": "就是相对分化的表现",
+      "music": 0.0
+    },
+    {
+      "from": 476.3,
+      "to": 479.19,
+      "sid": 218,
+      "location": 2,
+      "content": "首先呢车圈的这个规模大佬比亚迪",
+      "music": 0.0
+    },
+    {
+      "from": 479.19,
+      "to": 482.19,
+      "sid": 219,
+      "location": 2,
+      "content": "那比亚迪呢在4月一共是卖了31万",
+      "music": 0.0
+    },
+    {
+      "from": 482.19,
+      "to": 483.23,
+      "sid": 220,
+      "location": 2,
+      "content": "4000辆车",
+      "music": 0.0
+    },
+    {
+      "from": 483.23,
+      "to": 486.47,
+      "sid": 221,
+      "location": 2,
+      "content": "同比去年的4月是负了15.7%",
+      "music": 0.0
+    },
+    {
+      "from": 486.47,
+      "to": 489.07,
+      "sid": 222,
+      "location": 2,
+      "content": "当然相较于3月呢是环比有增长的",
+      "music": 0.0
+    },
+    {
+      "from": 489.07,
+      "to": 490.39,
+      "sid": 223,
+      "location": 2,
+      "content": "增长了6.2%",
+      "music": 0.0
+    },
+    {
+      "from": 490.39,
+      "to": 493.15,
+      "sid": 224,
+      "location": 2,
+      "content": "但是负的15.7%里面",
+      "music": 0.0
+    },
+    {
+      "from": 493.15,
+      "to": 496.27,
+      "sid": 225,
+      "location": 2,
+      "content": "其实隐含的是海外端的销量",
+      "music": 0.0
+    },
+    {
+      "from": 496.27,
+      "to": 498.78,
+      "sid": 226,
+      "location": 2,
+      "content": "同比增长了71%",
+      "music": 0.0
+    },
+    {
+      "from": 498.78,
+      "to": 499.66,
+      "sid": 227,
+      "location": 2,
+      "content": "那言下之意",
+      "music": 0.0
+    },
+    {
+      "from": 499.66,
+      "to": 500.14,
+      "sid": 228,
+      "location": 2,
+      "content": "就是说",
+      "music": 0.0
+    },
+    {
+      "from": 500.14,
+      "to": 504.19,
+      "sid": 229,
+      "location": 2,
+      "content": "内需或者说本土市场是同比跌了39%",
+      "music": 0.0
+    },
+    {
+      "from": 504.19,
+      "to": 505.47,
+      "sid": 230,
+      "location": 2,
+      "content": "即便这样一个数字",
+      "music": 0.0
+    },
+    {
+      "from": 505.47,
+      "to": 508.05,
+      "sid": 231,
+      "location": 2,
+      "content": "相较于3月的41%是有所好转的",
+      "music": 0.0
+    },
+    {
+      "from": 508.05,
+      "to": 510.49,
+      "sid": 232,
+      "location": 2,
+      "content": "但是仍然是一个比较差的水平",
+      "music": 0.0
+    },
+    {
+      "from": 510.49,
+      "to": 513.0,
+      "sid": 233,
+      "location": 2,
+      "content": "而比亚迪呢由于它的体量比较大啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.0,
+      "to": 514.82,
+      "sid": 234,
+      "location": 2,
+      "content": "基本上低端中端啊",
+      "music": 0.0
+    },
+    {
+      "from": 514.82,
+      "to": 516.3,
+      "sid": 235,
+      "location": 2,
+      "content": "甚至像仰望系啊",
+      "music": 0.0
+    },
+    {
+      "from": 516.3,
+      "to": 518.23,
+      "sid": 236,
+      "location": 2,
+      "content": "高端基本上是全覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 518.23,
+      "to": 521.51,
+      "sid": 237,
+      "location": 2,
+      "content": "所以我觉得比亚迪的数据可以作为EV啊",
+      "music": 0.0
+    },
+    {
+      "from": 521.51,
+      "to": 525.11,
+      "sid": 238,
+      "location": 2,
+      "content": "就我们说新能源汽车的一个整体市场的表现啊",
+      "music": 0.0
+    },
+    {
+      "from": 525.11,
+      "to": 526.92,
+      "sid": 239,
+      "location": 2,
+      "content": "就是外需强内虚弱",
+      "music": 0.0
+    },
+    {
+      "from": 526.92,
+      "to": 529.72,
+      "sid": 240,
+      "location": 2,
+      "content": "当然这里面他还提到了一些其他的汽车品牌",
+      "music": 0.0
+    },
+    {
+      "from": 529.72,
+      "to": 530.28,
+      "sid": 241,
+      "location": 2,
+      "content": "我就不说了",
+      "music": 0.0
+    },
+    {
+      "from": 530.28,
+      "to": 531.14,
+      "sid": 242,
+      "location": 2,
+      "content": "包括像吉利",
+      "music": 0.0
+    },
+    {
+      "from": 531.14,
+      "to": 532.96,
+      "sid": 243,
+      "location": 2,
+      "content": "包括像这个极客啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 532.96,
+      "to": 535.93,
+      "sid": 244,
+      "location": 2,
+      "content": "其实基本上都录得了类似的一个数据",
+      "music": 0.0
+    },
+    {
+      "from": 535.93,
+      "to": 537.45,
+      "sid": 245,
+      "location": 2,
+      "content": "那比亚迪呢",
+      "music": 0.0
+    },
+    {
+      "from": 537.45,
+      "to": 540.59,
+      "sid": 246,
+      "location": 2,
+      "content": "更何况在这基础之上还有一个额外的加持",
+      "music": 0.0
+    },
+    {
+      "from": 540.59,
+      "to": 542.45,
+      "sid": 247,
+      "location": 2,
+      "content": "就是应该是在北京车展之前",
+      "music": 0.0
+    },
+    {
+      "from": 542.45,
+      "to": 547.13,
+      "sid": 248,
+      "location": 2,
+      "content": "是发布了这个超快充和第二代的刀片电池",
+      "music": 0.0
+    },
+    {
+      "from": 547.49,
+      "to": 549.61,
+      "sid": 249,
+      "location": 2,
+      "content": "那这个其实也对应着野村",
+      "music": 0.0
+    },
+    {
+      "from": 549.61,
+      "to": 551.81,
+      "sid": 250,
+      "location": 2,
+      "content": "对于北京车展的几个观察啊",
+      "music": 0.0
+    },
+    {
+      "from": 551.81,
+      "to": 554.3,
+      "sid": 251,
+      "location": 2,
+      "content": "北京车展这块呢野村做了几个总结",
+      "music": 0.0
+    },
+    {
+      "from": 554.3,
+      "to": 556.8,
+      "sid": 252,
+      "location": 2,
+      "content": "第一个总结呢就是今年大型的",
+      "music": 0.0
+    },
+    {
+      "from": 556.8,
+      "to": 559.66,
+      "sid": 253,
+      "location": 2,
+      "content": "或者说这种家庭型六座的SUV",
+      "music": 0.0
+    },
+    {
+      "from": 559.66,
+      "to": 561.86,
+      "sid": 254,
+      "location": 2,
+      "content": "市场竞争极其激烈啊",
+      "music": 0.0
+    },
+    {
+      "from": 561.86,
+      "to": 564.86,
+      "sid": 255,
+      "location": 2,
+      "content": "那第二个呢就是车企目前在卷什么",
+      "music": 0.0
+    },
+    {
+      "from": 564.86,
+      "to": 568.02,
+      "sid": 256,
+      "location": 2,
+      "content": "主要呢是在卷超快充和纯电续航啊",
+      "music": 0.0
+    },
+    {
+      "from": 568.02,
+      "to": 570.76,
+      "sid": 257,
+      "location": 2,
+      "content": "但是这个纯电续航主要指的是增程车啊",
+      "music": 0.0
+    },
+    {
+      "from": 570.76,
+      "to": 572.84,
+      "sid": 258,
+      "location": 2,
+      "content": "目前都配备了更大的电池",
+      "music": 0.0
+    },
+    {
+      "from": 572.84,
+      "to": 574.6,
+      "sid": 259,
+      "location": 2,
+      "content": "比如最近我自己家的小区",
+      "music": 0.0
+    },
+    {
+      "from": 574.6,
+      "to": 577.96,
+      "sid": 260,
+      "location": 2,
+      "content": "电梯里面也也展示了大众的id9X啊",
+      "music": 0.0
+    },
+    {
+      "from": 577.96,
+      "to": 579.88,
+      "sid": 261,
+      "location": 2,
+      "content": "这是一款中国特供的id",
+      "music": 0.0
+    },
+    {
+      "from": 579.88,
+      "to": 581.56,
+      "sid": 262,
+      "location": 2,
+      "content": "大众的新能源汽车",
+      "music": 0.0
+    },
+    {
+      "from": 581.56,
+      "to": 584.18,
+      "sid": 263,
+      "location": 2,
+      "content": "那我大概看了一下它的纯电续航里程",
+      "music": 0.0
+    },
+    {
+      "from": 584.18,
+      "to": 586.18,
+      "sid": 264,
+      "location": 2,
+      "content": "甚至可以达到大概400km啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.18,
+      "to": 588.64,
+      "sid": 265,
+      "location": 2,
+      "content": "这对于一辆增程的新能源汽车来说",
+      "music": 0.0
+    },
+    {
+      "from": 588.64,
+      "to": 590.6,
+      "sid": 266,
+      "location": 2,
+      "content": "这个在原来应该是无法想象的",
+      "music": 0.0
+    },
+    {
+      "from": 590.6,
+      "to": 592.4,
+      "sid": 267,
+      "location": 2,
+      "content": "我印象当中原来的一些增程车",
+      "music": 0.0
+    },
+    {
+      "from": 592.4,
+      "to": 596.15,
+      "sid": 268,
+      "location": 2,
+      "content": "基本上是啊100多公里的一个纯电续航呃",
+      "music": 0.0
+    },
+    {
+      "from": 596.15,
+      "to": 599.35,
+      "sid": 269,
+      "location": 2,
+      "content": "另外呢车企目前还在卷的显然还是智驾啊",
+      "music": 0.0
+    },
+    {
+      "from": 599.35,
+      "to": 601.87,
+      "sid": 270,
+      "location": 2,
+      "content": "特别是L3L4级别的辅助驾驶啊",
+      "music": 0.0
+    },
+    {
+      "from": 601.87,
+      "to": 604.16,
+      "sid": 271,
+      "location": 2,
+      "content": "可能在未来一段时间都会推出",
+      "music": 0.0
+    },
+    {
+      "from": 604.16,
+      "to": 607.829,
+      "sid": 272,
+      "location": 2,
+      "content": "那我就简单跟大家说一下车圈的目前几个变化",
+      "music": 0.0
+    },
+    {
+      "from": 607.829,
+      "to": 611.489,
+      "sid": 273,
+      "location": 2,
+      "content": "第一个变化呢就是刚才提到的大型SUV的市场",
+      "music": 0.0
+    },
+    {
+      "from": 611.489,
+      "to": 613.069,
+      "sid": 274,
+      "location": 2,
+      "content": "这块的竞争是比较激烈的",
+      "music": 0.0
+    },
+    {
+      "from": 613.069,
+      "to": 615.029,
+      "sid": 275,
+      "location": 2,
+      "content": "首先就是20到30万的这种",
+      "music": 0.0
+    },
+    {
+      "from": 615.029,
+      "to": 617.1,
+      "sid": 276,
+      "location": 2,
+      "content": "中总价的大型SUV啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.1,
+      "to": 618.82,
+      "sid": 277,
+      "location": 2,
+      "content": "是发布了几款新车",
+      "music": 0.0
+    },
+    {
+      "from": 618.82,
+      "to": 620.28,
+      "sid": 278,
+      "location": 2,
+      "content": "包括比亚迪的大唐",
+      "music": 0.0
+    },
+    {
+      "from": 620.28,
+      "to": 622.5,
+      "sid": 279,
+      "location": 2,
+      "content": "包括吉利的这个银河M9",
+      "music": 0.0
+    },
+    {
+      "from": 622.5,
+      "to": 624.24,
+      "sid": 280,
+      "location": 2,
+      "content": "还有领跑的D19",
+      "music": 0.0
+    },
+    {
+      "from": 624.24,
+      "to": 625.62,
+      "sid": 281,
+      "location": 2,
+      "content": "另外呢在50万左右",
+      "music": 0.0
+    },
+    {
+      "from": 625.62,
+      "to": 628.22,
+      "sid": 282,
+      "location": 2,
+      "content": "这个市场呢也有像未来的es9",
+      "music": 0.0
+    },
+    {
+      "from": 628.22,
+      "to": 629.72,
+      "sid": 283,
+      "location": 2,
+      "content": "理想的L9leis",
+      "music": 0.0
+    },
+    {
+      "from": 629.72,
+      "to": 632.86,
+      "sid": 284,
+      "location": 2,
+      "content": "还有问界的M9和极客的9X等等",
+      "music": 0.0
+    },
+    {
+      "from": 632.86,
+      "to": 634.26,
+      "sid": 285,
+      "location": 2,
+      "content": "这个市场呢在野村",
+      "music": 0.0
+    },
+    {
+      "from": 634.26,
+      "to": 637.96,
+      "sid": 286,
+      "location": 2,
+      "content": "目前看来是将迎来一个比较激烈的今年的竞争",
+      "music": 0.0
+    },
+    {
+      "from": 637.96,
+      "to": 641.34,
+      "sid": 287,
+      "location": 2,
+      "content": "那第二个趋势呢就是新能源汽车的技术升级",
+      "music": 0.0
+    },
+    {
+      "from": 641.34,
+      "to": 643.799,
+      "sid": 288,
+      "location": 2,
+      "content": "首先呢就是市场的趋势呈现出",
+      "music": 0.0
+    },
+    {
+      "from": 643.799,
+      "to": 647.119,
+      "sid": 289,
+      "location": 2,
+      "content": "大家更倾向于去生产更大电池的汽车",
+      "music": 0.0
+    },
+    {
+      "from": 647.119,
+      "to": 648.879,
+      "sid": 290,
+      "location": 2,
+      "content": "也就是我刚才讲到的啊",
+      "music": 0.0
+    },
+    {
+      "from": 648.879,
+      "to": 649.879,
+      "sid": 291,
+      "location": 2,
+      "content": "即便增程车",
+      "music": 0.0
+    },
+    {
+      "from": 649.879,
+      "to": 652.26,
+      "sid": 292,
+      "location": 2,
+      "content": "它的纯电续航也从之前的100多公里",
+      "music": 0.0
+    },
+    {
+      "from": 652.26,
+      "to": 654.28,
+      "sid": 293,
+      "location": 2,
+      "content": "升级到了现在在400km左右",
+      "music": 0.0
+    },
+    {
+      "from": 654.28,
+      "to": 657.1,
+      "sid": 294,
+      "location": 2,
+      "content": "那第二呢是像比亚迪和宁德时代啊",
+      "music": 0.0
+    },
+    {
+      "from": 657.1,
+      "to": 659.22,
+      "sid": 295,
+      "location": 2,
+      "content": "都发布了新的一代的电池啊",
+      "music": 0.0
+    },
+    {
+      "from": 659.22,
+      "to": 661.02,
+      "sid": 296,
+      "location": 2,
+      "content": "都是这种超快充的电池",
+      "music": 0.0
+    },
+    {
+      "from": 661.02,
+      "to": 664.14,
+      "sid": 297,
+      "location": 2,
+      "content": "像比亚迪那是出了刚才说的第二代刀片电池",
+      "music": 0.0
+    },
+    {
+      "from": 664.14,
+      "to": 667.82,
+      "sid": 298,
+      "location": 2,
+      "content": "那么宁德时代呢是发布了神行三和麒麟三啊",
+      "music": 0.0
+    },
+    {
+      "from": 667.82,
+      "to": 670.06,
+      "sid": 299,
+      "location": 2,
+      "content": "基本上都是几分钟之内就可以充到",
+      "music": 0.0
+    },
+    {
+      "from": 670.06,
+      "to": 671.3,
+      "sid": 300,
+      "location": 2,
+      "content": "95%的电量",
+      "music": 0.0
+    },
+    {
+      "from": 671.3,
+      "to": 672.9,
+      "sid": 301,
+      "location": 2,
+      "content": "那这样的一个充电速度呢",
+      "music": 0.0
+    },
+    {
+      "from": 672.9,
+      "to": 676.93,
+      "sid": 302,
+      "location": 2,
+      "content": "基本上也和目前油车的加油速度接近了",
+      "music": 0.0
+    },
+    {
+      "from": 676.93,
+      "to": 678.05,
+      "sid": 303,
+      "location": 2,
+      "content": "那说到这呢",
+      "music": 0.0
+    },
+    {
+      "from": 678.05,
+      "to": 679.25,
+      "sid": 304,
+      "location": 2,
+      "content": "我也简单的吐槽一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 679.25,
+      "to": 681.58,
+      "sid": 305,
+      "location": 2,
+      "content": "这一次出行呢由于我也是开车出行啊",
+      "music": 0.0
+    },
+    {
+      "from": 681.58,
+      "to": 684.06,
+      "sid": 306,
+      "location": 2,
+      "content": "发现节假日高速服务区的充电桩啊",
+      "music": 0.0
+    },
+    {
+      "from": 684.06,
+      "to": 685.46,
+      "sid": 307,
+      "location": 2,
+      "content": "仍然是人满为患啊",
+      "music": 0.0
+    },
+    {
+      "from": 685.46,
+      "to": 687.24,
+      "sid": 308,
+      "location": 2,
+      "content": "大家基本上是需要排队的",
+      "music": 0.0
+    },
+    {
+      "from": 687.24,
+      "to": 689.12,
+      "sid": 309,
+      "location": 2,
+      "content": "所以即便说充电速度很快",
+      "music": 0.0
+    },
+    {
+      "from": 689.12,
+      "to": 692.45,
+      "sid": 310,
+      "location": 2,
+      "content": "但是呢基础设施似乎还是没有跟上",
+      "music": 0.0
+    },
+    {
+      "from": 692.45,
+      "to": 695.41,
+      "sid": 311,
+      "location": 2,
+      "content": "另一项车企们目前在卷的技术呢",
+      "music": 0.0
+    },
+    {
+      "from": 695.41,
+      "to": 696.93,
+      "sid": 312,
+      "location": 2,
+      "content": "就是线控底盘啊",
+      "music": 0.0
+    },
+    {
+      "from": 696.93,
+      "to": 698.59,
+      "sid": 313,
+      "location": 2,
+      "content": "包括了像线控的刹车",
+      "music": 0.0
+    },
+    {
+      "from": 698.59,
+      "to": 699.53,
+      "sid": 314,
+      "location": 2,
+      "content": "像线控的转向",
+      "music": 0.0
+    },
+    {
+      "from": 699.53,
+      "to": 700.02,
+      "sid": 315,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 700.02,
+      "to": 703.1,
+      "sid": 316,
+      "location": 2,
+      "content": "由原来这种机械零部件逐渐的转为线控",
+      "music": 0.0
+    },
+    {
+      "from": 703.1,
+      "to": 705.02,
+      "sid": 317,
+      "location": 2,
+      "content": "就是用电信号去控制转向",
+      "music": 0.0
+    },
+    {
+      "from": 705.02,
+      "to": 705.72,
+      "sid": 318,
+      "location": 2,
+      "content": "控制刹车",
+      "music": 0.0
+    },
+    {
+      "from": 705.72,
+      "to": 709.579,
+      "sid": 319,
+      "location": 2,
+      "content": "那这一项技术其实是也在不断的成熟和下放",
+      "music": 0.0
+    },
+    {
+      "from": 709.579,
+      "to": 710.579,
+      "sid": 320,
+      "location": 2,
+      "content": "在野村看来呢",
+      "music": 0.0
+    },
+    {
+      "from": 710.579,
+      "to": 711.739,
+      "sid": 321,
+      "location": 2,
+      "content": "线控底盘技术啊",
+      "music": 0.0
+    },
+    {
+      "from": 711.739,
+      "to": 715.179,
+      "sid": 322,
+      "location": 2,
+      "content": "是能够大幅的提高大家的驾驶体验的",
+      "music": 0.0
+    },
+    {
+      "from": 715.179,
+      "to": 718.059,
+      "sid": 323,
+      "location": 2,
+      "content": "其实也是有助于新能源汽车的渗透率",
+      "music": 0.0
+    },
+    {
+      "from": 718.059,
+      "to": 719.0,
+      "sid": 324,
+      "location": 2,
+      "content": "不断提升的",
+      "music": 0.0
+    },
+    {
+      "from": 719.0,
+      "to": 720.08,
+      "sid": 325,
+      "location": 2,
+      "content": "最后一项趋势呢",
+      "music": 0.0
+    },
+    {
+      "from": 720.08,
+      "to": 721.32,
+      "sid": 326,
+      "location": 2,
+      "content": "当然就是智驾了",
+      "music": 0.0
+    },
+    {
+      "from": 721.32,
+      "to": 723.08,
+      "sid": 327,
+      "location": 2,
+      "content": "在这块呢几家车企啊",
+      "music": 0.0
+    },
+    {
+      "from": 723.08,
+      "to": 724.12,
+      "sid": 328,
+      "location": 2,
+      "content": "基本上都表示",
+      "music": 0.0
+    },
+    {
+      "from": 724.12,
+      "to": 726.22,
+      "sid": 329,
+      "location": 2,
+      "content": "在未来的一年将会达到L3",
+      "music": 0.0
+    },
+    {
+      "from": 726.22,
+      "to": 729.02,
+      "sid": 330,
+      "location": 2,
+      "content": "甚至是L4级别的辅助驾驶水平",
+      "music": 0.0
+    },
+    {
+      "from": 729.02,
+      "to": 731.92,
+      "sid": 331,
+      "location": 2,
+      "content": "其中小鹏应该是这里面的领先者啊",
+      "music": 0.0
+    },
+    {
+      "from": 731.92,
+      "to": 734.36,
+      "sid": 332,
+      "location": 2,
+      "content": "他是计划在2026年",
+      "music": 0.0
+    },
+    {
+      "from": 734.36,
+      "to": 736.48,
+      "sid": 333,
+      "location": 2,
+      "content": "就达到L4级别的驾驶能力",
+      "music": 0.0
+    },
+    {
+      "from": 736.48,
+      "to": 737.6,
+      "sid": 334,
+      "location": 2,
+      "content": "那么像吉利啊",
+      "music": 0.0
+    },
+    {
+      "from": 737.6,
+      "to": 741.56,
+      "sid": 335,
+      "location": 2,
+      "content": "也是计划要推出这种全自动驾驶的出租汽车",
+      "music": 0.0
+    },
+    {
+      "from": 741.56,
+      "to": 743.16,
+      "sid": 336,
+      "location": 2,
+      "content": "另外一个玩家啊就是华为啊",
+      "music": 0.0
+    },
+    {
+      "from": 743.16,
+      "to": 747.0,
+      "sid": 337,
+      "location": 2,
+      "content": "那华为的智驾呢也是说在今年的北京车展之前",
+      "music": 0.0
+    },
+    {
+      "from": 747.0,
+      "to": 749.2,
+      "sid": 338,
+      "location": 2,
+      "content": "就要完成L3级别的辅助驾驶",
+      "music": 0.0
+    },
+    {
+      "from": 749.2,
+      "to": 750.68,
+      "sid": 339,
+      "location": 2,
+      "content": "那以上呢就是这两篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 750.68,
+      "to": 753.989,
+      "sid": 340,
+      "location": 2,
+      "content": "对于无论是房地产市场还是车市的一个",
+      "music": 0.0
+    },
+    {
+      "from": 753.989,
+      "to": 754.869,
+      "sid": 341,
+      "location": 2,
+      "content": "简单的总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 754.869,
+      "to": 757.229,
+      "sid": 342,
+      "location": 2,
+      "content": "那最后呢我就简单的跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 757.229,
+      "to": 760.46,
+      "sid": 343,
+      "location": 2,
+      "content": "我这几天在阿那亚的一些观察和感悟啊",
+      "music": 0.0
+    },
+    {
+      "from": 760.46,
+      "to": 763.3,
+      "sid": 344,
+      "location": 2,
+      "content": "首先呢就是刚才跟大家在开篇的时候提到了",
+      "music": 0.0
+    },
+    {
+      "from": 763.3,
+      "to": 765.54,
+      "sid": 345,
+      "location": 2,
+      "content": "阿那亚的房价的跌幅是比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 765.54,
+      "to": 766.88,
+      "sid": 346,
+      "location": 2,
+      "content": "我大概看了一下",
+      "music": 0.0
+    },
+    {
+      "from": 766.88,
+      "to": 768.41,
+      "sid": 347,
+      "location": 2,
+      "content": "应该说在秦皇岛",
+      "music": 0.0
+    },
+    {
+      "from": 768.41,
+      "to": 771.55,
+      "sid": 348,
+      "location": 2,
+      "content": "或者说在整个北戴河新区这个片区啊",
+      "music": 0.0
+    },
+    {
+      "from": 771.55,
+      "to": 773.33,
+      "sid": 349,
+      "location": 2,
+      "content": "跌幅在50%以上啊",
+      "music": 0.0
+    },
+    {
+      "from": 773.33,
+      "to": 775.47,
+      "sid": 350,
+      "location": 2,
+      "content": "我指的是相较于巅峰的房价跌幅",
+      "music": 0.0
+    },
+    {
+      "from": 775.47,
+      "to": 778.52,
+      "sid": 351,
+      "location": 2,
+      "content": "超过这个比例的房源应该是比比皆是的",
+      "music": 0.0
+    },
+    {
+      "from": 778.52,
+      "to": 780.88,
+      "sid": 352,
+      "location": 2,
+      "content": "但是整个阿那亚的区域园区内啊",
+      "music": 0.0
+    },
+    {
+      "from": 780.88,
+      "to": 781.6,
+      "sid": 353,
+      "location": 2,
+      "content": "它的房价跌幅",
+      "music": 0.0
+    },
+    {
+      "from": 781.6,
+      "to": 783.44,
+      "sid": 354,
+      "location": 2,
+      "content": "可能整体也就在20%到30",
+      "music": 0.0
+    },
+    {
+      "from": 783.44,
+      "to": 784.58,
+      "sid": 355,
+      "location": 2,
+      "content": "虽然也在下跌",
+      "music": 0.0
+    },
+    {
+      "from": 784.58,
+      "to": 786.78,
+      "sid": 356,
+      "location": 2,
+      "content": "但是这样一个跌幅呢应该说是比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 786.78,
+      "to": 789.65,
+      "sid": 357,
+      "location": 2,
+      "content": "甚至这个跌幅还是小于北上广深的",
+      "music": 0.0
+    },
+    {
+      "from": 789.65,
+      "to": 791.21,
+      "sid": 358,
+      "location": 2,
+      "content": "另外呢就从绝对的房价啊",
+      "music": 0.0
+    },
+    {
+      "from": 791.21,
+      "to": 792.44,
+      "sid": 359,
+      "location": 2,
+      "content": "我们也可以做一个对比",
+      "music": 0.0
+    },
+    {
+      "from": 792.44,
+      "to": 794.82,
+      "sid": 360,
+      "location": 2,
+      "content": "在阿那亚的园区一墙之隔",
+      "music": 0.0
+    },
+    {
+      "from": 794.82,
+      "to": 796.76,
+      "sid": 361,
+      "location": 2,
+      "content": "外面的这种二手房",
+      "music": 0.0
+    },
+    {
+      "from": 796.76,
+      "to": 799.829,
+      "sid": 362,
+      "location": 2,
+      "content": "目前的售价大概可能也就是五六千块钱",
+      "music": 0.0
+    },
+    {
+      "from": 799.829,
+      "to": 801.949,
+      "sid": 363,
+      "location": 2,
+      "content": "而阿那亚园区内的房子",
+      "music": 0.0
+    },
+    {
+      "from": 801.949,
+      "to": 803.909,
+      "sid": 364,
+      "location": 2,
+      "content": "房价虽然说挂牌价都在2万以上",
+      "music": 0.0
+    },
+    {
+      "from": 803.909,
+      "to": 807.13,
+      "sid": 365,
+      "location": 2,
+      "content": "但是大部分成交价可能是在2万左右",
+      "music": 0.0
+    },
+    {
+      "from": 807.13,
+      "to": 808.37,
+      "sid": 366,
+      "location": 2,
+      "content": "所以简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 808.37,
+      "to": 809.49,
+      "sid": 367,
+      "location": 2,
+      "content": "就是一墙之隔",
+      "music": 0.0
+    },
+    {
+      "from": 809.49,
+      "to": 811.81,
+      "sid": 368,
+      "location": 2,
+      "content": "这个房价就可以差3~4倍",
+      "music": 0.0
+    },
+    {
+      "from": 811.81,
+      "to": 813.53,
+      "sid": 369,
+      "location": 2,
+      "content": "那就引出了最核心的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 813.53,
+      "to": 816.13,
+      "sid": 370,
+      "location": 2,
+      "content": "到底是什么支撑了阿那亚的房价",
+      "music": 0.0
+    },
+    {
+      "from": 816.13,
+      "to": 817.49,
+      "sid": 371,
+      "location": 2,
+      "content": "我个人的理解呢",
+      "music": 0.0
+    },
+    {
+      "from": 817.49,
+      "to": 819.71,
+      "sid": 372,
+      "location": 2,
+      "content": "其实最核心的还是阿那亚的租金",
+      "music": 0.0
+    },
+    {
+      "from": 819.71,
+      "to": 822.41,
+      "sid": 373,
+      "location": 2,
+      "content": "也就是说因为租金比较高啊",
+      "music": 0.0
+    },
+    {
+      "from": 822.41,
+      "to": 824.2,
+      "sid": 374,
+      "location": 2,
+      "content": "那租金回报率自然就高",
+      "music": 0.0
+    },
+    {
+      "from": 824.2,
+      "to": 826.56,
+      "sid": 375,
+      "location": 2,
+      "content": "而租金回报率如果高到一定程度上",
+      "music": 0.0
+    },
+    {
+      "from": 826.56,
+      "to": 829.18,
+      "sid": 376,
+      "location": 2,
+      "content": "很多业主他就愿意去持有这个房产",
+      "music": 0.0
+    },
+    {
+      "from": 829.18,
+      "to": 830.84,
+      "sid": 377,
+      "location": 2,
+      "content": "我大概在小红书上看了一下",
+      "music": 0.0
+    },
+    {
+      "from": 830.84,
+      "to": 832.98,
+      "sid": 378,
+      "location": 2,
+      "content": "很多的这种运营的业主啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.98,
+      "to": 834.78,
+      "sid": 379,
+      "location": 2,
+      "content": "大概有报自己的收入啊",
+      "music": 0.0
+    },
+    {
+      "from": 834.78,
+      "to": 838.0,
+      "sid": 380,
+      "location": 2,
+      "content": "我大概看了一下一些运营比较好的业主反馈",
+      "music": 0.0
+    },
+    {
+      "from": 838.0,
+      "to": 840.76,
+      "sid": 381,
+      "location": 2,
+      "content": "这个净租金回报率一年可以达到5%啊",
+      "music": 0.0
+    },
+    {
+      "from": 840.76,
+      "to": 841.7,
+      "sid": 382,
+      "location": 2,
+      "content": "甚至6%的",
+      "music": 0.0
+    },
+    {
+      "from": 841.7,
+      "to": 843.2,
+      "sid": 383,
+      "location": 2,
+      "content": "那当然我只是净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 843.2,
+      "to": 846.52,
+      "sid": 384,
+      "location": 2,
+      "content": "如果我们看用租金去除以啊房价的话",
+      "music": 0.0
+    },
+    {
+      "from": 846.52,
+      "to": 848.18,
+      "sid": 385,
+      "location": 2,
+      "content": "显然这个要更高啊",
+      "music": 0.0
+    },
+    {
+      "from": 848.18,
+      "to": 850.56,
+      "sid": 386,
+      "location": 2,
+      "content": "但是这里面呢由于阿那亚它有淡淡季",
+      "music": 0.0
+    },
+    {
+      "from": 850.56,
+      "to": 851.08,
+      "sid": 387,
+      "location": 2,
+      "content": "有旺季",
+      "music": 0.0
+    },
+    {
+      "from": 851.08,
+      "to": 852.88,
+      "sid": 388,
+      "location": 2,
+      "content": "他有很多的空置期啊",
+      "music": 0.0
+    },
+    {
+      "from": 852.88,
+      "to": 854.64,
+      "sid": 389,
+      "location": 2,
+      "content": "再加上在运营过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 854.64,
+      "to": 855.76,
+      "sid": 390,
+      "location": 2,
+      "content": "阿南亚还要抽成",
+      "music": 0.0
+    },
+    {
+      "from": 855.76,
+      "to": 860.06,
+      "sid": 391,
+      "location": 2,
+      "content": "再加上房东啊可能会给租客送一些小礼物啊",
+      "music": 0.0
+    },
+    {
+      "from": 860.06,
+      "to": 863.26,
+      "sid": 392,
+      "location": 2,
+      "content": "去要一些好评等等这些原因加总啊",
+      "music": 0.0
+    },
+    {
+      "from": 863.26,
+      "to": 864.02,
+      "sid": 393,
+      "location": 2,
+      "content": "到一起的话",
+      "music": 0.0
+    },
+    {
+      "from": 864.02,
+      "to": 866.02,
+      "sid": 394,
+      "location": 2,
+      "content": "我们看到的净足球回报率其实没有那么高",
+      "music": 0.0
+    },
+    {
+      "from": 866.02,
+      "to": 868.24,
+      "sid": 395,
+      "location": 2,
+      "content": "但是5%到6%的一个净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 868.24,
+      "to": 871.02,
+      "sid": 396,
+      "location": 2,
+      "content": "仍然是可以大幅的跑赢定期存款利率",
+      "music": 0.0
+    },
+    {
+      "from": 871.02,
+      "to": 875.24,
+      "sid": 397,
+      "location": 2,
+      "content": "同时甚至可以跑赢你去买一些高股息的股票",
+      "music": 0.0
+    },
+    {
+      "from": 875.24,
+      "to": 876.76,
+      "sid": 398,
+      "location": 2,
+      "content": "它的分红水平",
+      "music": 0.0
+    },
+    {
+      "from": 876.76,
+      "to": 878.56,
+      "sid": 399,
+      "location": 2,
+      "content": "那我们下一个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 878.56,
+      "to": 881.76,
+      "sid": 400,
+      "location": 2,
+      "content": "就是阿那亚到底是什么支撑了他的租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 881.76,
+      "to": 884.72,
+      "sid": 401,
+      "location": 2,
+      "content": "我觉得最核心的还是阿那亚的这个社区运营",
+      "music": 0.0
+    },
+    {
+      "from": 884.72,
+      "to": 886.9,
+      "sid": 402,
+      "location": 2,
+      "content": "也就是说物业比较好",
+      "music": 0.0
+    },
+    {
+      "from": 886.9,
+      "to": 889.88,
+      "sid": 403,
+      "location": 2,
+      "content": "同时呢它有很多这种网红打卡的景点",
+      "music": 0.0
+    },
+    {
+      "from": 889.88,
+      "to": 892.02,
+      "sid": 404,
+      "location": 2,
+      "content": "包括一些呃这种商业啊",
+      "music": 0.0
+    },
+    {
+      "from": 892.02,
+      "to": 893.16,
+      "sid": 405,
+      "location": 2,
+      "content": "特别是很多的商业啊",
+      "music": 0.0
+    },
+    {
+      "from": 893.16,
+      "to": 894.32,
+      "sid": 406,
+      "location": 2,
+      "content": "都是河北地区的首店",
+      "music": 0.0
+    },
+    {
+      "from": 894.32,
+      "to": 896.36,
+      "sid": 407,
+      "location": 2,
+      "content": "因为它其实是对标的北京啊",
+      "music": 0.0
+    },
+    {
+      "from": 896.36,
+      "to": 899.16,
+      "sid": 408,
+      "location": 2,
+      "content": "啊那都能够吸引来除了北京以外",
+      "music": 0.0
+    },
+    {
+      "from": 899.16,
+      "to": 901.12,
+      "sid": 409,
+      "location": 2,
+      "content": "还有很多的游客到阿那亚啊",
+      "music": 0.0
+    },
+    {
+      "from": 901.12,
+      "to": 903.16,
+      "sid": 410,
+      "location": 2,
+      "content": "这个园区里面去购物啊",
+      "music": 0.0
+    },
+    {
+      "from": 903.16,
+      "to": 904.04,
+      "sid": 411,
+      "location": 2,
+      "content": "去逛商业",
+      "music": 0.0
+    },
+    {
+      "from": 904.04,
+      "to": 905.22,
+      "sid": 412,
+      "location": 2,
+      "content": "去打卡啊",
+      "music": 0.0
+    },
+    {
+      "from": 905.22,
+      "to": 906.78,
+      "sid": 413,
+      "location": 2,
+      "content": "甚至去拍照等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 906.78,
+      "to": 907.98,
+      "sid": 414,
+      "location": 2,
+      "content": "再加上整个老城区啊",
+      "music": 0.0
+    },
+    {
+      "from": 907.98,
+      "to": 909.64,
+      "sid": 415,
+      "location": 2,
+      "content": "他现在已经相当的成熟了",
+      "music": 0.0
+    },
+    {
+      "from": 909.64,
+      "to": 911.48,
+      "sid": 416,
+      "location": 2,
+      "content": "所以共同的推动了啊",
+      "music": 0.0
+    },
+    {
+      "from": 911.48,
+      "to": 913.12,
+      "sid": 417,
+      "location": 2,
+      "content": "有很多这种租赁需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 913.12,
+      "to": 916.42,
+      "sid": 418,
+      "location": 2,
+      "content": "就愿意进入到整个阿那亚园区里面啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.42,
+      "to": 917.48,
+      "sid": 419,
+      "location": 2,
+      "content": "去住民宿啊",
+      "music": 0.0
+    },
+    {
+      "from": 917.48,
+      "to": 918.98,
+      "sid": 420,
+      "location": 2,
+      "content": "所以我们简单做一个总结的话",
+      "music": 0.0
+    },
+    {
+      "from": 918.98,
+      "to": 919.82,
+      "sid": 421,
+      "location": 2,
+      "content": "我个人理解",
+      "music": 0.0
+    },
+    {
+      "from": 919.82,
+      "to": 922.8,
+      "sid": 422,
+      "location": 2,
+      "content": "最核心的支撑一个城市房价的逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 922.8,
+      "to": 925.18,
+      "sid": 423,
+      "location": 2,
+      "content": "就是要有持续的租赁需求",
+      "music": 0.0
+    },
+    {
+      "from": 925.18,
+      "to": 928.11,
+      "sid": 424,
+      "location": 2,
+      "content": "而租赁需求背后对应的其实就是产业",
+      "music": 0.0
+    },
+    {
+      "from": 928.11,
+      "to": 929.47,
+      "sid": 425,
+      "location": 2,
+      "content": "人口配套啊",
+      "music": 0.0
+    },
+    {
+      "from": 929.47,
+      "to": 930.23,
+      "sid": 426,
+      "location": 2,
+      "content": "这三个方面",
+      "music": 0.0
+    },
+    {
+      "from": 930.23,
+      "to": 932.39,
+      "sid": 427,
+      "location": 2,
+      "content": "也就是说你能在这找到工作啊",
+      "music": 0.0
+    },
+    {
+      "from": 932.39,
+      "to": 933.43,
+      "sid": 428,
+      "location": 2,
+      "content": "当然阿那亚不一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 933.43,
+      "to": 934.75,
+      "sid": 429,
+      "location": 2,
+      "content": "我只是做一个延伸",
+      "music": 0.0
+    },
+    {
+      "from": 934.75,
+      "to": 937.35,
+      "sid": 430,
+      "location": 2,
+      "content": "同时呢这个城市啊它有丰富的配套",
+      "music": 0.0
+    },
+    {
+      "from": 937.35,
+      "to": 938.11,
+      "sid": 431,
+      "location": 2,
+      "content": "有商业配套",
+      "music": 0.0
+    },
+    {
+      "from": 938.11,
+      "to": 939.11,
+      "sid": 432,
+      "location": 2,
+      "content": "有其他的一些配套",
+      "music": 0.0
+    },
+    {
+      "from": 939.11,
+      "to": 940.83,
+      "sid": 433,
+      "location": 2,
+      "content": "让让这个人愿意住下来",
+      "music": 0.0
+    },
+    {
+      "from": 940.83,
+      "to": 943.5,
+      "sid": 434,
+      "location": 2,
+      "content": "那么自然能够支撑这个当地的房价",
+      "music": 0.0
+    },
+    {
+      "from": 943.5,
+      "to": 944.34,
+      "sid": 435,
+      "location": 2,
+      "content": "但是另一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 944.34,
+      "to": 946.42,
+      "sid": 436,
+      "location": 2,
+      "content": "我觉得阿奈的房价长期来看",
+      "music": 0.0
+    },
+    {
+      "from": 946.42,
+      "to": 948.5,
+      "sid": 437,
+      "location": 2,
+      "content": "还是要持续的走下坡路的啊",
+      "music": 0.0
+    },
+    {
+      "from": 948.5,
+      "to": 950.85,
+      "sid": 438,
+      "location": 2,
+      "content": "第一呢就是我在贝壳上大概看了一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 950.85,
+      "to": 954.01,
+      "sid": 439,
+      "location": 2,
+      "content": "这个园区内目前所挂牌的这些房源",
+      "music": 0.0
+    },
+    {
+      "from": 954.01,
+      "to": 955.51,
+      "sid": 440,
+      "location": 2,
+      "content": "几乎都没有代看",
+      "music": 0.0
+    },
+    {
+      "from": 955.51,
+      "to": 956.37,
+      "sid": 441,
+      "location": 2,
+      "content": "最好的房源",
+      "music": 0.0
+    },
+    {
+      "from": 956.37,
+      "to": 959.46,
+      "sid": 442,
+      "location": 2,
+      "content": "可能30天内也就有那么一两次的待看啊",
+      "music": 0.0
+    },
+    {
+      "from": 959.46,
+      "to": 961.62,
+      "sid": 443,
+      "location": 2,
+      "content": "这个我觉得其实也就意味着啊",
+      "music": 0.0
+    },
+    {
+      "from": 961.62,
+      "to": 963.32,
+      "sid": 444,
+      "location": 2,
+      "content": "作为40年产权的这种商业",
+      "music": 0.0
+    },
+    {
+      "from": 963.32,
+      "to": 965.75,
+      "sid": 445,
+      "location": 2,
+      "content": "它本身的流动性还是比较差的啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.75,
+      "to": 967.43,
+      "sid": 446,
+      "location": 2,
+      "content": "如果大家是长期持有啊",
+      "music": 0.0
+    },
+    {
+      "from": 967.43,
+      "to": 968.59,
+      "sid": 447,
+      "location": 2,
+      "content": "没事自己去住一住",
+      "music": 0.0
+    },
+    {
+      "from": 968.59,
+      "to": 969.79,
+      "sid": 448,
+      "location": 2,
+      "content": "特别是淡季去自助",
+      "music": 0.0
+    },
+    {
+      "from": 969.79,
+      "to": 971.32,
+      "sid": 449,
+      "location": 2,
+      "content": "然后旺季出租啊",
+      "music": 0.0
+    },
+    {
+      "from": 971.32,
+      "to": 973.48,
+      "sid": 450,
+      "location": 2,
+      "content": "以这样的一个心态啊去持有房子",
+      "music": 0.0
+    },
+    {
+      "from": 973.48,
+      "to": 974.98,
+      "sid": 451,
+      "location": 2,
+      "content": "我觉得本身没有太大问题",
+      "music": 0.0
+    },
+    {
+      "from": 974.98,
+      "to": 978.93,
+      "sid": 452,
+      "location": 2,
+      "content": "但如果你是希望投机或者希望啊赚一个快钱",
+      "music": 0.0
+    },
+    {
+      "from": 978.93,
+      "to": 980.81,
+      "sid": 453,
+      "location": 2,
+      "content": "那似乎这不太适合你",
+      "music": 0.0
+    },
+    {
+      "from": 980.81,
+      "to": 983.49,
+      "sid": 454,
+      "location": 2,
+      "content": "第二个呢就是阿那亚是有租金管控的啊",
+      "music": 0.0
+    },
+    {
+      "from": 983.49,
+      "to": 985.58,
+      "sid": 455,
+      "location": 2,
+      "content": "我是怎么获取到这个信息的呢",
+      "music": 0.0
+    },
+    {
+      "from": 985.58,
+      "to": 987.1,
+      "sid": 456,
+      "location": 2,
+      "content": "是我在查啊",
+      "music": 0.0
+    },
+    {
+      "from": 987.1,
+      "to": 987.98,
+      "sid": 457,
+      "location": 2,
+      "content": "8月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 987.98,
+      "to": 991.59,
+      "sid": 458,
+      "location": 2,
+      "content": "可能计划在带娃去那边去游游泳啊",
+      "music": 0.0
+    },
+    {
+      "from": 991.59,
+      "to": 992.99,
+      "sid": 459,
+      "location": 2,
+      "content": "那我就发现呢",
+      "music": 0.0
+    },
+    {
+      "from": 992.99,
+      "to": 995.71,
+      "sid": 460,
+      "location": 2,
+      "content": "如果我按照某一个特定的类型的房源",
+      "music": 0.0
+    },
+    {
+      "from": 995.71,
+      "to": 996.79,
+      "sid": 461,
+      "location": 2,
+      "content": "在某一期啊",
+      "music": 0.0
+    },
+    {
+      "from": 996.79,
+      "to": 997.59,
+      "sid": 462,
+      "location": 2,
+      "content": "比如说举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 997.59,
+      "to": 1000.119,
+      "sid": 463,
+      "location": 2,
+      "content": "我在九七搜四居室那",
+      "music": 0.0
+    },
+    {
+      "from": 1000.119,
+      "to": 1003.41,
+      "sid": 464,
+      "location": 2,
+      "content": "发现按照租金从低到高牌啊",
+      "music": 0.0
+    },
+    {
+      "from": 1003.41,
+      "to": 1006.5,
+      "sid": 465,
+      "location": 2,
+      "content": "发现租金完全一样的房源至少有十几套",
+      "music": 0.0
+    },
+    {
+      "from": 1006.5,
+      "to": 1009.78,
+      "sid": 466,
+      "location": 2,
+      "content": "也就是说租金最低似乎是有一个底板的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1009.78,
+      "to": 1011.22,
+      "sid": 467,
+      "location": 2,
+      "content": "当然这个底板本身啊",
+      "music": 0.0
+    },
+    {
+      "from": 1011.22,
+      "to": 1014.53,
+      "sid": 468,
+      "location": 2,
+      "content": "我们作为租客是不能完全获知的",
+      "music": 0.0
+    },
+    {
+      "from": 1014.53,
+      "to": 1016.87,
+      "sid": 469,
+      "location": 2,
+      "content": "但是呢我们从这样一种方式是可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1016.87,
+      "to": 1017.55,
+      "sid": 470,
+      "location": 2,
+      "content": "就是阿那亚",
+      "music": 0.0
+    },
+    {
+      "from": 1017.55,
+      "to": 1021.52,
+      "sid": 471,
+      "location": 2,
+      "content": "他是在刻意的托举整个租赁市场的价格",
+      "music": 0.0
+    },
+    {
+      "from": 1021.52,
+      "to": 1023.6,
+      "sid": 472,
+      "location": 2,
+      "content": "也就是说业主或者房东",
+      "music": 0.0
+    },
+    {
+      "from": 1023.6,
+      "to": 1026.48,
+      "sid": 473,
+      "location": 2,
+      "content": "你如果自己的房子装修的不够好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1026.48,
+      "to": 1027.56,
+      "sid": 474,
+      "location": 2,
+      "content": "那你想出租的话",
+      "music": 0.0
+    },
+    {
+      "from": 1027.56,
+      "to": 1029.679,
+      "sid": 475,
+      "location": 2,
+      "content": "由于你不能自主的降价",
+      "music": 0.0
+    },
+    {
+      "from": 1029.679,
+      "to": 1032.639,
+      "sid": 476,
+      "location": 2,
+      "content": "那显然你就要面临长期的一个空置",
+      "music": 0.0
+    },
+    {
+      "from": 1032.639,
+      "to": 1035.059,
+      "sid": 477,
+      "location": 2,
+      "content": "所以他其实是在倒逼很多的业主",
+      "music": 0.0
+    },
+    {
+      "from": 1035.059,
+      "to": 1037.59,
+      "sid": 478,
+      "location": 2,
+      "content": "去把自己的房子装修的更好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1037.59,
+      "to": 1039.15,
+      "sid": 479,
+      "location": 2,
+      "content": "包括有更多的卖点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1039.15,
+      "to": 1040.75,
+      "sid": 480,
+      "location": 2,
+      "content": "比如说我们租的这个房子里面",
+      "music": 0.0
+    },
+    {
+      "from": 1040.75,
+      "to": 1042.97,
+      "sid": 481,
+      "location": 2,
+      "content": "可能就有一些小孩的玩具啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 1042.97,
+      "to": 1044.51,
+      "sid": 482,
+      "location": 2,
+      "content": "那其实阿那亚的这个运营方案",
+      "music": 0.0
+    },
+    {
+      "from": 1044.51,
+      "to": 1048.33,
+      "sid": 483,
+      "location": 2,
+      "content": "也是通过这种方式把业主和园区昂到了一起啊",
+      "music": 0.0
+    },
+    {
+      "from": 1048.33,
+      "to": 1049.57,
+      "sid": 484,
+      "location": 2,
+      "content": "作为一个利益共同体",
+      "music": 0.0
+    },
+    {
+      "from": 1049.57,
+      "to": 1052.3,
+      "sid": 485,
+      "location": 2,
+      "content": "也就是说你是不能完全市场化定价的",
+      "music": 0.0
+    },
+    {
+      "from": 1052.3,
+      "to": 1053.9,
+      "sid": 486,
+      "location": 2,
+      "content": "你要想增加你的租金收益",
+      "music": 0.0
+    },
+    {
+      "from": 1053.9,
+      "to": 1057.24,
+      "sid": 487,
+      "location": 2,
+      "content": "只能在最低的地板价管控之上",
+      "music": 0.0
+    },
+    {
+      "from": 1057.24,
+      "to": 1060.8,
+      "sid": 488,
+      "location": 2,
+      "content": "去想办法降低你自己房源的空置期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1060.8,
+      "to": 1061.889,
+      "sid": 489,
+      "location": 2,
+      "content": "是这样的一个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1061.889,
+      "to": 1063.849,
+      "sid": 490,
+      "location": 2,
+      "content": "但是背后呢其实也都映射出",
+      "music": 0.0
+    },
+    {
+      "from": 1063.849,
+      "to": 1065.289,
+      "sid": 491,
+      "location": 2,
+      "content": "如果有一些房东",
+      "music": 0.0
+    },
+    {
+      "from": 1065.289,
+      "to": 1066.97,
+      "sid": 492,
+      "location": 2,
+      "content": "他买了这个房子以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1066.97,
+      "to": 1068.09,
+      "sid": 493,
+      "location": 2,
+      "content": "又不愿意去装修",
+      "music": 0.0
+    },
+    {
+      "from": 1068.09,
+      "to": 1069.33,
+      "sid": 494,
+      "location": 2,
+      "content": "就想简单的出租",
+      "music": 0.0
+    },
+    {
+      "from": 1069.33,
+      "to": 1072.98,
+      "sid": 495,
+      "location": 2,
+      "content": "那租不出去以后可能收益率达不到预期的要求",
+      "music": 0.0
+    },
+    {
+      "from": 1072.98,
+      "to": 1076.29,
+      "sid": 496,
+      "location": 2,
+      "content": "那他可能就考虑不去持有这套房产啊",
+      "music": 0.0
+    },
+    {
+      "from": 1076.29,
+      "to": 1078.43,
+      "sid": 497,
+      "location": 2,
+      "content": "所以第三个呢就是阿那亚的城市啊",
+      "music": 0.0
+    },
+    {
+      "from": 1078.43,
+      "to": 1080.94,
+      "sid": 498,
+      "location": 2,
+      "content": "其实是在不断的扩张边界啊",
+      "music": 0.0
+    },
+    {
+      "from": 1080.94,
+      "to": 1083.98,
+      "sid": 499,
+      "location": 2,
+      "content": "老城区呢我个人理解应该是1~7期",
+      "music": 0.0
+    },
+    {
+      "from": 1083.98,
+      "to": 1085.78,
+      "sid": 500,
+      "location": 2,
+      "content": "这个区域刨去五期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1085.78,
+      "to": 1087.22,
+      "sid": 501,
+      "location": 2,
+      "content": "因为五期可能比较特殊",
+      "music": 0.0
+    },
+    {
+      "from": 1087.22,
+      "to": 1088.24,
+      "sid": 502,
+      "location": 2,
+      "content": "他是在内陆",
+      "music": 0.0
+    },
+    {
+      "from": 1088.24,
+      "to": 1090.06,
+      "sid": 503,
+      "location": 2,
+      "content": "那么其他的几期呢基本上都是沿海",
+      "music": 0.0
+    },
+    {
+      "from": 1090.06,
+      "to": 1092.54,
+      "sid": 504,
+      "location": 2,
+      "content": "但是四期它本身可能不在沿海",
+      "music": 0.0
+    },
+    {
+      "from": 1092.54,
+      "to": 1095.18,
+      "sid": 505,
+      "location": 2,
+      "content": "但是仍然是在主街上或者说主干道上",
+      "music": 0.0
+    },
+    {
+      "from": 1095.18,
+      "to": 1097.26,
+      "sid": 506,
+      "location": 2,
+      "content": "那这个区域呢相对比较成熟",
+      "music": 0.0
+    },
+    {
+      "from": 1097.26,
+      "to": 1099.08,
+      "sid": 507,
+      "location": 2,
+      "content": "他的租金也比较稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1099.08,
+      "to": 1101.38,
+      "sid": 508,
+      "location": 2,
+      "content": "而且呢空置相对来说比较少啊",
+      "music": 0.0
+    },
+    {
+      "from": 1101.38,
+      "to": 1103.66,
+      "sid": 509,
+      "location": 2,
+      "content": "当然核心的还是这里面有很多的网红",
+      "music": 0.0
+    },
+    {
+      "from": 1103.66,
+      "to": 1105.32,
+      "sid": 510,
+      "location": 2,
+      "content": "打卡点和商业比较发达",
+      "music": 0.0
+    },
+    {
+      "from": 1105.32,
+      "to": 1106.4,
+      "sid": 511,
+      "location": 2,
+      "content": "那么再往北",
+      "music": 0.0
+    },
+    {
+      "from": 1106.4,
+      "to": 1109.86,
+      "sid": 512,
+      "location": 2,
+      "content": "无论是从八旗到97~17",
+      "music": 0.0
+    },
+    {
+      "from": 1109.86,
+      "to": 1110.96,
+      "sid": 513,
+      "location": 2,
+      "content": "再到北岸三期",
+      "music": 0.0
+    },
+    {
+      "from": 1110.96,
+      "to": 1113.04,
+      "sid": 514,
+      "location": 2,
+      "content": "整体呢可能就没有这么成熟了",
+      "music": 0.0
+    },
+    {
+      "from": 1113.04,
+      "to": 1114.64,
+      "sid": 515,
+      "location": 2,
+      "content": "当然其中九七比较例外啊",
+      "music": 0.0
+    },
+    {
+      "from": 1114.64,
+      "to": 1117.7,
+      "sid": 516,
+      "location": 2,
+      "content": "因为九七有很多孩子啊去活动的空间",
+      "music": 0.0
+    },
+    {
+      "from": 1117.7,
+      "to": 1120.42,
+      "sid": 517,
+      "location": 2,
+      "content": "那么八旗和17可能更多的是适用于",
+      "music": 0.0
+    },
+    {
+      "from": 1120.42,
+      "to": 1122.97,
+      "sid": 518,
+      "location": 2,
+      "content": "那些嗯在阿那亚躺平的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1122.97,
+      "to": 1124.83,
+      "sid": 519,
+      "location": 2,
+      "content": "自助的一些啊需求的人",
+      "music": 0.0
+    },
+    {
+      "from": 1124.83,
+      "to": 1126.87,
+      "sid": 520,
+      "location": 2,
+      "content": "那北岸三期呢目前是刚刚交付啊",
+      "music": 0.0
+    },
+    {
+      "from": 1126.87,
+      "to": 1127.99,
+      "sid": 521,
+      "location": 2,
+      "content": "还不太好去评价",
+      "music": 0.0
+    },
+    {
+      "from": 1127.99,
+      "to": 1129.95,
+      "sid": 522,
+      "location": 2,
+      "content": "但是可以看到阿那亚城市",
+      "music": 0.0
+    },
+    {
+      "from": 1129.95,
+      "to": 1131.75,
+      "sid": 523,
+      "location": 2,
+      "content": "它在不断的边界扩张之后",
+      "music": 0.0
+    },
+    {
+      "from": 1131.75,
+      "to": 1134.56,
+      "sid": 524,
+      "location": 2,
+      "content": "其实也是会稀释整个园区内的房价的",
+      "music": 0.0
+    },
+    {
+      "from": 1134.56,
+      "to": 1137.08,
+      "sid": 525,
+      "location": 2,
+      "content": "因为呃本身阿那亚的这个需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 1137.08,
+      "to": 1139.9,
+      "sid": 526,
+      "location": 2,
+      "content": "大部分还是来自于北京的一些所谓的中产",
+      "music": 0.0
+    },
+    {
+      "from": 1139.9,
+      "to": 1142.459,
+      "sid": 527,
+      "location": 2,
+      "content": "但是这些人啊总量是有限的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1142.459,
+      "to": 1144.599,
+      "sid": 528,
+      "location": 2,
+      "content": "而城市边界在不断的扩张",
+      "music": 0.0
+    },
+    {
+      "from": 1144.599,
+      "to": 1146.259,
+      "sid": 529,
+      "location": 2,
+      "content": "其实还是会稀释租金",
+      "music": 0.0
+    },
+    {
+      "from": 1146.259,
+      "to": 1148.13,
+      "sid": 530,
+      "location": 2,
+      "content": "最终会传导到房价这一段",
+      "music": 0.0
+    },
+    {
+      "from": 1148.13,
+      "to": 1149.13,
+      "sid": 531,
+      "location": 2,
+      "content": "第四个逻辑呢",
+      "music": 0.0
+    },
+    {
+      "from": 1151.49,
+      "to": 1153.54,
+      "sid": 532,
+      "location": 2,
+      "content": "由于北京很多的央企啊",
+      "music": 0.0
+    },
+    {
+      "from": 1153.54,
+      "to": 1155.3,
+      "sid": 533,
+      "location": 2,
+      "content": "基本上在2027年",
+      "music": 0.0
+    },
+    {
+      "from": 1155.3,
+      "to": 1155.86,
+      "sid": 534,
+      "location": 2,
+      "content": "2028年",
+      "music": 0.0
+    },
+    {
+      "from": 1162.09,
+      "to": 1164.67,
+      "sid": 535,
+      "location": 2,
+      "content": "那距离阿那亚也就是北京的正东啊",
+      "music": 0.0
+    },
+    {
+      "from": 1164.67,
+      "to": 1166.17,
+      "sid": 536,
+      "location": 2,
+      "content": "其实是距离更远",
+      "music": 0.0
+    },
+    {
+      "from": 1166.17,
+      "to": 1168.42,
+      "sid": 537,
+      "location": 2,
+      "content": "大概要远上一个多小时的车程",
+      "music": 0.0
+    },
+    {
+      "from": 1168.42,
+      "to": 1171.32,
+      "sid": 538,
+      "location": 2,
+      "content": "所以最终的可能还是会导致阿那亚的需求",
+      "music": 0.0
+    },
+    {
+      "from": 1171.32,
+      "to": 1174.3,
+      "sid": 539,
+      "location": 2,
+      "content": "无论是旅游的需求还是购房的需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 1174.3,
+      "to": 1176.2,
+      "sid": 540,
+      "location": 2,
+      "content": "都会有比较明显的转弱",
+      "music": 0.0
+    },
+    {
+      "from": 1176.2,
+      "to": 1177.84,
+      "sid": 541,
+      "location": 2,
+      "content": "所以以上这几项叠加起来呢",
+      "music": 0.0
+    },
+    {
+      "from": 1177.84,
+      "to": 1178.92,
+      "sid": 542,
+      "location": 2,
+      "content": "我个人的判断是",
+      "music": 0.0
+    },
+    {
+      "from": 1178.92,
+      "to": 1182.38,
+      "sid": 543,
+      "location": 2,
+      "content": "阿那亚的房价可能还是会持续的往下走啊",
+      "music": 0.0
+    },
+    {
+      "from": 1182.38,
+      "to": 1185.54,
+      "sid": 544,
+      "location": 2,
+      "content": "如果我频道内有小伙伴啊想去阿那亚购房的话",
+      "music": 0.0
+    },
+    {
+      "from": 1185.54,
+      "to": 1186.8,
+      "sid": 545,
+      "location": 2,
+      "content": "大家可以去探讨一下",
+      "music": 0.0
+    },
+    {
+      "from": 1186.8,
+      "to": 1188.32,
+      "sid": 546,
+      "location": 2,
+      "content": "当然有什么说的不对的地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 1188.32,
+      "to": 1190.24,
+      "sid": 547,
+      "location": 2,
+      "content": "我也欢迎大家多多批评指正",
+      "music": 0.0
+    },
+    {
+      "from": 1190.24,
+      "to": 1192.16,
+      "sid": 548,
+      "location": 2,
+      "content": "那如果大家对这两篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 1192.16,
+      "to": 1194.76,
+      "sid": 549,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 1194.76,
+      "to": 1196.02,
+      "sid": 550,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 1196.02,
+      "to": 1197.7,
+      "sid": 551,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1197.7,
+      "to": 1199.38,
+      "sid": 552,
+      "location": 2,
+      "content": "有感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1199.38,
+      "to": 1200.18,
+      "sid": 553,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

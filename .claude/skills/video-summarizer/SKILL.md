@@ -101,6 +101,19 @@ mkdir -p "./downloads/bilibili/${VIDEO_ID}/"
 
 Where `python313` is shorthand for `C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe`
 
+### Step 6: Update Catalog
+
+After generating the summary, automatically add the video to the catalog:
+
+```powershell
+& python313 "$SKILL_DIR/scripts/update_catalog.py" "$OUTPUT_DIR/summary.md" "$CATALOG_PATH"
+```
+
+The `update_catalog.py` script will:
+1. Extract metadata (title, date, url) from summary.md
+2. Add a new entry to catalog.md under the appropriate date section
+3. Update the "最后更新" timestamp
+
 ## Scripts
 
 | Script | Description | Usage (Windows PowerShell) |
