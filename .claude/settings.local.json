@@ -74,7 +74,12 @@
       "Bash(/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
       "Bash(UV_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" /c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
       "Bash(PY_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" UV_PYTHON=\"C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe\" /c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe *)",
-      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"downloads/bilibili/BV1aQoNBGEPZ/transcript.txt\" \"downloads/bilibili/BV1aQoNBGEPZ/summary_test.md\" --title \"大摩宏观策略谈\" --url \"https://www.bilibili.com/video/BV1aQoNBGEPZ/\" --duration 4400)"
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"downloads/bilibili/BV1aQoNBGEPZ/transcript.txt\" \"downloads/bilibili/BV1aQoNBGEPZ/summary_test.md\" --title \"大摩宏观策略谈\" --url \"https://www.bilibili.com/video/BV1aQoNBGEPZ/\" --duration 4400)",
+      "Bash(C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe *)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --print \"AID=%\\(aid\\)s\" --print \"CID=%\\(cid\\)s\" --print \"title=%\\(title\\)s\" --print \"duration=%\\(duration\\)s\" \"https://www.bilibili.com/video/BV17q9rBmEWz\" --skip-download --no-playlist)",
+      "Bash('C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe' -c ' *)",
+      "Bash(python313 *)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --list-subs \"https://www.bilibili.com/video/BV16c9fBNEdz\")"
     ]
   }
 }

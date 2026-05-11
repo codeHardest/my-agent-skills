@@ -1,0 +1,2900 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.04,
+      "sid": 1,
+      "location": 2,
+      "content": "当所有人都觉得房地产市场还在谷底",
+      "music": 0.0
+    },
+    {
+      "from": 2.04,
+      "to": 2.66,
+      "sid": 2,
+      "location": 2,
+      "content": "挣扎的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2.66,
+      "to": 4.2,
+      "sid": 3,
+      "location": 2,
+      "content": "你知道有些城市的二手房成交量",
+      "music": 0.0
+    },
+    {
+      "from": 4.2,
+      "to": 6.22,
+      "sid": 4,
+      "location": 2,
+      "content": "已经悄悄创下16个月以来的新高了吗",
+      "music": 0.0
+    },
+    {
+      "from": 6.22,
+      "to": 7.58,
+      "sid": 5,
+      "location": 2,
+      "content": "欢迎来到草莓研报",
+      "music": 0.0
+    },
+    {
+      "from": 7.58,
+      "to": 8.12,
+      "sid": 6,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 8.12,
+      "to": 9.72,
+      "sid": 7,
+      "location": 2,
+      "content": "这可能是近期最让人意外",
+      "music": 0.0
+    },
+    {
+      "from": 9.72,
+      "to": 11.34,
+      "sid": 8,
+      "location": 2,
+      "content": "也最值得关注的一个市场变化了",
+      "music": 0.0
+    },
+    {
+      "from": 11.34,
+      "to": 12.98,
+      "sid": 9,
+      "location": 2,
+      "content": "很多人对房地产的印象还停留在",
+      "music": 0.0
+    },
+    {
+      "from": 12.98,
+      "to": 14.16,
+      "sid": 10,
+      "location": 2,
+      "content": "全国数据低迷的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 14.16,
+      "to": 16.54,
+      "sid": 11,
+      "location": 2,
+      "content": "但实际上如果我们把目光聚焦到核心城市",
+      "music": 0.0
+    },
+    {
+      "from": 16.54,
+      "to": 18.39,
+      "sid": 12,
+      "location": 2,
+      "content": "就会发现一副完全不同的景象",
+      "music": 0.0
+    },
+    {
+      "from": 18.39,
+      "to": 20.03,
+      "sid": 13,
+      "location": 2,
+      "content": "确实呢平时大家看到的新闻",
+      "music": 0.0
+    },
+    {
+      "from": 20.03,
+      "to": 21.39,
+      "sid": 14,
+      "location": 2,
+      "content": "好像都在说市场承压",
+      "music": 0.0
+    },
+    {
+      "from": 21.39,
+      "to": 22.79,
+      "sid": 15,
+      "location": 2,
+      "content": "刚才提到16个月的新高",
+      "music": 0.0
+    },
+    {
+      "from": 22.79,
+      "to": 25.43,
+      "sid": 16,
+      "location": 2,
+      "content": "这到底是个别城市的自嗨还是真实的整体回暖",
+      "music": 0.0
+    },
+    {
+      "from": 25.43,
+      "to": 27.19,
+      "sid": 17,
+      "location": 2,
+      "content": "这次绝对不是个别城市的特例",
+      "music": 0.0
+    },
+    {
+      "from": 27.19,
+      "to": 28.98,
+      "sid": 18,
+      "location": 2,
+      "content": "而是一种正在蔓延的广泛回暖",
+      "music": 0.0
+    },
+    {
+      "from": 28.98,
+      "to": 30.06,
+      "sid": 19,
+      "location": 2,
+      "content": "根据最新的监控数据",
+      "music": 0.0
+    },
+    {
+      "from": 30.06,
+      "to": 30.54,
+      "sid": 20,
+      "location": 2,
+      "content": "4月份",
+      "music": 0.0
+    },
+    {
+      "from": 30.54,
+      "to": 31.74,
+      "sid": 21,
+      "location": 2,
+      "content": "重点城市的二手房成交量",
+      "music": 0.0
+    },
+    {
+      "from": 31.74,
+      "to": 33.1,
+      "sid": 22,
+      "location": 2,
+      "content": "不仅同比上涨了10%",
+      "music": 0.0
+    },
+    {
+      "from": 33.1,
+      "to": 34.44,
+      "sid": 23,
+      "location": 2,
+      "content": "环比也上涨了9%",
+      "music": 0.0
+    },
+    {
+      "from": 34.44,
+      "to": 36.36,
+      "sid": 24,
+      "location": 2,
+      "content": "达到了每周3万1700套的水平",
+      "music": 0.0
+    },
+    {
+      "from": 36.36,
+      "to": 36.9,
+      "sid": 25,
+      "location": 2,
+      "content": "这个数据",
+      "music": 0.0
+    },
+    {
+      "from": 36.9,
+      "to": 39.23,
+      "sid": 26,
+      "location": 2,
+      "content": "直接刷新了自前年12月以来的最高纪录",
+      "music": 0.0
+    },
+    {
+      "from": 39.23,
+      "to": 40.17,
+      "sid": 27,
+      "location": 2,
+      "content": "每周3万多套",
+      "music": 0.0
+    },
+    {
+      "from": 40.17,
+      "to": 41.879,
+      "sid": 28,
+      "location": 2,
+      "content": "这个绝对量还是相当可观的",
+      "music": 0.0
+    },
+    {
+      "from": 41.879,
+      "to": 42.879,
+      "sid": 29,
+      "location": 2,
+      "content": "我猜这一波回暖",
+      "music": 0.0
+    },
+    {
+      "from": 42.879,
+      "to": 44.379,
+      "sid": 30,
+      "location": 2,
+      "content": "一线城市肯定还是领头羊吧",
+      "music": 0.0
+    },
+    {
+      "from": 44.379,
+      "to": 45.899,
+      "sid": 31,
+      "location": 2,
+      "content": "一线城市确实表现抢眼",
+      "music": 0.0
+    },
+    {
+      "from": 45.899,
+      "to": 47.459,
+      "sid": 32,
+      "location": 2,
+      "content": "整体同比上涨了16%",
+      "music": 0.0
+    },
+    {
+      "from": 47.459,
+      "to": 48.399,
+      "sid": 33,
+      "location": 2,
+      "content": "尤其是上海",
+      "music": 0.0
+    },
+    {
+      "from": 48.399,
+      "to": 50.76,
+      "sid": 34,
+      "location": 2,
+      "content": "二手房成交量甚至创下了5年来的新高",
+      "music": 0.0
+    },
+    {
+      "from": 50.76,
+      "to": 52.88,
+      "sid": 35,
+      "location": 2,
+      "content": "北京的成交量也达到了一年来的最高点",
+      "music": 0.0
+    },
+    {
+      "from": 52.88,
+      "to": 54.1,
+      "sid": 36,
+      "location": 2,
+      "content": "上海创下5年新高",
+      "music": 0.0
+    },
+    {
+      "from": 54.1,
+      "to": 55.4,
+      "sid": 37,
+      "location": 2,
+      "content": "这确实是个重磅信号",
+      "music": 0.0
+    },
+    {
+      "from": 55.4,
+      "to": 57.12,
+      "sid": 38,
+      "location": 2,
+      "content": "不过一线城市毕竟资源集中",
+      "music": 0.0
+    },
+    {
+      "from": 57.12,
+      "to": 58.94,
+      "sid": 39,
+      "location": 2,
+      "content": "他们的表现好似乎也在情理之中",
+      "music": 0.0
+    },
+    {
+      "from": 58.94,
+      "to": 61.18,
+      "sid": 40,
+      "location": 2,
+      "content": "这就引出了这份研究中最有价值的发现了",
+      "music": 0.0
+    },
+    {
+      "from": 61.18,
+      "to": 62.26,
+      "sid": 41,
+      "location": 2,
+      "content": "真正让人振奋的是",
+      "music": 0.0
+    },
+    {
+      "from": 62.26,
+      "to": 64.62,
+      "sid": 42,
+      "location": 2,
+      "content": "这种积极的市场情绪并没有局限在一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 64.62,
+      "to": 66.38,
+      "sid": 43,
+      "location": 2,
+      "content": "它已经明显蔓延到了更广泛的",
+      "music": 0.0
+    },
+    {
+      "from": 66.38,
+      "to": 67.8,
+      "sid": 44,
+      "location": 2,
+      "content": "二线以及强三线城市",
+      "music": 0.0
+    },
+    {
+      "from": 67.8,
+      "to": 69.36,
+      "sid": 45,
+      "location": 2,
+      "content": "有12个城市的二手房成交量",
+      "music": 0.0
+    },
+    {
+      "from": 69.36,
+      "to": 71.46,
+      "sid": 46,
+      "location": 2,
+      "content": "在4月份的同比增幅超过了40%",
+      "music": 0.0
+    },
+    {
+      "from": 71.46,
+      "to": 72.68,
+      "sid": 47,
+      "location": 2,
+      "content": "40%的增幅",
+      "music": 0.0
+    },
+    {
+      "from": 72.68,
+      "to": 75.009,
+      "sid": 48,
+      "location": 2,
+      "content": "这个数据在目前的市场环境下太罕见了",
+      "music": 0.0
+    },
+    {
+      "from": 75.009,
+      "to": 77.249,
+      "sid": 49,
+      "location": 2,
+      "content": "能具体说说都是哪些城市表现这么亮眼吗",
+      "music": 0.0
+    },
+    {
+      "from": 77.249,
+      "to": 78.389,
+      "sid": 50,
+      "location": 2,
+      "content": "表现最猛的是东莞",
+      "music": 0.0
+    },
+    {
+      "from": 78.389,
+      "to": 79.9,
+      "sid": 51,
+      "location": 2,
+      "content": "同比增幅高达74%",
+      "music": 0.0
+    },
+    {
+      "from": 79.9,
+      "to": 81.44,
+      "sid": 52,
+      "location": 2,
+      "content": "紧随其后的是徐州和无锡",
+      "music": 0.0
+    },
+    {
+      "from": 81.44,
+      "to": 83.3,
+      "sid": 53,
+      "location": 2,
+      "content": "增幅分别是72%和70%",
+      "music": 0.0
+    },
+    {
+      "from": 83.3,
+      "to": 84.42,
+      "sid": 54,
+      "location": 2,
+      "content": "其他比如宁波南昌",
+      "music": 0.0
+    },
+    {
+      "from": 84.42,
+      "to": 84.74,
+      "sid": 55,
+      "location": 2,
+      "content": "佛山",
+      "music": 0.0
+    },
+    {
+      "from": 84.74,
+      "to": 85.02,
+      "sid": 56,
+      "location": 2,
+      "content": "合肥",
+      "music": 0.0
+    },
+    {
+      "from": 85.02,
+      "to": 87.32,
+      "sid": 57,
+      "location": 2,
+      "content": "西安等城市也都保持了非常高的增长",
+      "music": 0.0
+    },
+    {
+      "from": 87.32,
+      "to": 88.94,
+      "sid": 58,
+      "location": 2,
+      "content": "仔细听你报的这些城市名单",
+      "music": 0.0
+    },
+    {
+      "from": 88.94,
+      "to": 90.35,
+      "sid": 59,
+      "location": 2,
+      "content": "我发现他们有一个共同点",
+      "music": 0.0
+    },
+    {
+      "from": 90.35,
+      "to": 92.95,
+      "sid": 60,
+      "location": 2,
+      "content": "这些大部分都是长三角和珠三角的制造业重镇",
+      "music": 0.0
+    },
+    {
+      "from": 92.95,
+      "to": 94.53,
+      "sid": 61,
+      "location": 2,
+      "content": "或者是区域性的经济中心呢",
+      "music": 0.0
+    },
+    {
+      "from": 94.53,
+      "to": 96.08,
+      "sid": 62,
+      "location": 2,
+      "content": "你的商业嗅觉非常敏锐",
+      "music": 0.0
+    },
+    {
+      "from": 96.08,
+      "to": 97.36,
+      "sid": 63,
+      "location": 2,
+      "content": "报告通过深入分析发现",
+      "music": 0.0
+    },
+    {
+      "from": 97.36,
+      "to": 99.72,
+      "sid": 64,
+      "location": 2,
+      "content": "这12个城市的成交量暴增并不是随机的",
+      "music": 0.0
+    },
+    {
+      "from": 99.72,
+      "to": 102.32,
+      "sid": 65,
+      "location": 2,
+      "content": "这种回暖趋势与这些城市的就业人口数据",
+      "music": 0.0
+    },
+    {
+      "from": 102.32,
+      "to": 103.74,
+      "sid": 66,
+      "location": 2,
+      "content": "表现出了极高的一致性",
+      "music": 0.0
+    },
+    {
+      "from": 103.74,
+      "to": 104.62,
+      "sid": 67,
+      "location": 2,
+      "content": "就业人口数据",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 106.86,
+      "sid": 68,
+      "location": 2,
+      "content": "也就是说是真实的刚需或者改善型需求",
+      "music": 0.0
+    },
+    {
+      "from": 106.86,
+      "to": 107.92,
+      "sid": 69,
+      "location": 2,
+      "content": "在支撑这种上涨啦",
+      "music": 0.0
+    },
+    {
+      "from": 107.92,
+      "to": 108.74,
+      "sid": 70,
+      "location": 2,
+      "content": "完全正确",
+      "music": 0.0
+    },
+    {
+      "from": 108.74,
+      "to": 109.92,
+      "sid": 71,
+      "location": 2,
+      "content": "虽然从全国层面来看",
+      "music": 0.0
+    },
+    {
+      "from": 109.92,
+      "to": 111.54,
+      "sid": 72,
+      "location": 2,
+      "content": "广泛的复苏还没有完全显现",
+      "music": 0.0
+    },
+    {
+      "from": 111.54,
+      "to": 112.98,
+      "sid": 73,
+      "location": 2,
+      "content": "但是在这些特定城市中",
+      "music": 0.0
+    },
+    {
+      "from": 112.98,
+      "to": 115.34,
+      "sid": 74,
+      "location": 2,
+      "content": "一部分富裕群体已经从产业升级中获得了",
+      "music": 0.0
+    },
+    {
+      "from": 115.34,
+      "to": 116.38,
+      "sid": 75,
+      "location": 2,
+      "content": "实实在在的红利",
+      "music": 0.0
+    },
+    {
+      "from": 116.38,
+      "to": 118.66,
+      "sid": 76,
+      "location": 2,
+      "content": "特别是科技等高附加值产业的快速发展",
+      "music": 0.0
+    },
+    {
+      "from": 118.66,
+      "to": 120.24,
+      "sid": 77,
+      "location": 2,
+      "content": "催生了大量的高收入人群",
+      "music": 0.0
+    },
+    {
+      "from": 120.24,
+      "to": 121.32,
+      "sid": 78,
+      "location": 2,
+      "content": "这点我深有体会",
+      "music": 0.0
+    },
+    {
+      "from": 121.32,
+      "to": 122.98,
+      "sid": 79,
+      "location": 2,
+      "content": "像无锡和苏州这几年在芯片",
+      "music": 0.0
+    },
+    {
+      "from": 122.98,
+      "to": 125.24,
+      "sid": 80,
+      "location": 2,
+      "content": "生物医药等领域确实跑出了很多优质企业",
+      "music": 0.0
+    },
+    {
+      "from": 125.24,
+      "to": 125.62,
+      "sid": 81,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 125.62,
+      "to": 128.139,
+      "sid": 82,
+      "location": 2,
+      "content": "今年香港市场的新股发行数量位居全球前列",
+      "music": 0.0
+    },
+    {
+      "from": 128.139,
+      "to": 129.779,
+      "sid": 83,
+      "location": 2,
+      "content": "其中很大一部分就是这类",
+      "music": 0.0
+    },
+    {
+      "from": 129.779,
+      "to": 131.359,
+      "sid": 84,
+      "location": 2,
+      "content": "冉冉升起的中国新兴企业",
+      "music": 0.0
+    },
+    {
+      "from": 131.359,
+      "to": 132.579,
+      "sid": 85,
+      "location": 2,
+      "content": "尤其是在长三角地区",
+      "music": 0.0
+    },
+    {
+      "from": 132.579,
+      "to": 134.059,
+      "sid": 86,
+      "location": 2,
+      "content": "几家成功的科技公司上市",
+      "music": 0.0
+    },
+    {
+      "from": 134.059,
+      "to": 136.42,
+      "sid": 87,
+      "location": 2,
+      "content": "就能直接触发当地市场的置业升级需求",
+      "music": 0.0
+    },
+    {
+      "from": 136.42,
+      "to": 138.3,
+      "sid": 88,
+      "location": 2,
+      "content": "看来产业升级对房地产的带动作用",
+      "music": 0.0
+    },
+    {
+      "from": 138.3,
+      "to": 139.54,
+      "sid": 89,
+      "location": 2,
+      "content": "比我们想象的还要直接",
+      "music": 0.0
+    },
+    {
+      "from": 139.54,
+      "to": 140.68,
+      "sid": 90,
+      "location": 2,
+      "content": "那么关于人口数据",
+      "music": 0.0
+    },
+    {
+      "from": 140.68,
+      "to": 142.46,
+      "sid": 91,
+      "location": 2,
+      "content": "具体有哪些硬核的支撑指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.46,
+      "to": 144.74,
+      "sid": 92,
+      "location": 2,
+      "content": "根据第五次全国人口普查的就业人口数据",
+      "music": 0.0
+    },
+    {
+      "from": 144.74,
+      "to": 146.76,
+      "sid": 93,
+      "location": 2,
+      "content": "这些城市的人口结构已经完成了升级",
+      "music": 0.0
+    },
+    {
+      "from": 146.76,
+      "to": 147.64,
+      "sid": 94,
+      "location": 2,
+      "content": "像成都苏州",
+      "music": 0.0
+    },
+    {
+      "from": 147.64,
+      "to": 147.96,
+      "sid": 95,
+      "location": 2,
+      "content": "东莞",
+      "music": 0.0
+    },
+    {
+      "from": 147.96,
+      "to": 148.68,
+      "sid": 96,
+      "location": 2,
+      "content": "杭州和宁波",
+      "music": 0.0
+    },
+    {
+      "from": 148.68,
+      "to": 150.94,
+      "sid": 97,
+      "location": 2,
+      "content": "他们的就业人口总数已经稳居全国前十",
+      "music": 0.0
+    },
+    {
+      "from": 150.94,
+      "to": 151.88,
+      "sid": 98,
+      "location": 2,
+      "content": "排在他们前面的",
+      "music": 0.0
+    },
+    {
+      "from": 151.88,
+      "to": 153.6,
+      "sid": 99,
+      "location": 2,
+      "content": "仅仅只有四个老牌一线城市而已",
+      "music": 0.0
+    },
+    {
+      "from": 153.6,
+      "to": 154.72,
+      "sid": 100,
+      "location": 2,
+      "content": "能进入全国前十",
+      "music": 0.0
+    },
+    {
+      "from": 154.72,
+      "to": 157.08,
+      "sid": 101,
+      "location": 2,
+      "content": "说明这些城市对劳动力的吸引力已经非常强了",
+      "music": 0.0
+    },
+    {
+      "from": 157.08,
+      "to": 158.8,
+      "sid": 102,
+      "location": 2,
+      "content": "我们来看具体的总人数就更直观了",
+      "music": 0.0
+    },
+    {
+      "from": 158.8,
+      "to": 160.96,
+      "sid": 103,
+      "location": 2,
+      "content": "深圳的就业人口高达1418万",
+      "music": 0.0
+    },
+    {
+      "from": 160.96,
+      "to": 162.26,
+      "sid": 104,
+      "location": 2,
+      "content": "苏州有1036万",
+      "music": 0.0
+    },
+    {
+      "from": 162.26,
+      "to": 164.13,
+      "sid": 105,
+      "location": 2,
+      "content": "东莞和杭州也都超过了850万",
+      "music": 0.0
+    },
+    {
+      "from": 164.13,
+      "to": 165.73,
+      "sid": 106,
+      "location": 2,
+      "content": "一个城市有上千万人在工作",
+      "music": 0.0
+    },
+    {
+      "from": 165.73,
+      "to": 168.17,
+      "sid": 107,
+      "location": 2,
+      "content": "这背后创造的财富和购买力真的是不可估量的",
+      "music": 0.0
+    },
+    {
+      "from": 168.17,
+      "to": 169.47,
+      "sid": 108,
+      "location": 2,
+      "content": "常住人口多是一回事",
+      "music": 0.0
+    },
+    {
+      "from": 169.47,
+      "to": 172.34,
+      "sid": 109,
+      "location": 2,
+      "content": "真正有工作能力和意愿的人多才是关键吧对的",
+      "music": 0.0
+    },
+    {
+      "from": 172.34,
+      "to": 174.04,
+      "sid": 110,
+      "location": 2,
+      "content": "所以报告强调了一个更关键的指标",
+      "music": 0.0
+    },
+    {
+      "from": 174.04,
+      "to": 175.92,
+      "sid": 111,
+      "location": 2,
+      "content": "就是就业人口占常住人口的比例",
+      "music": 0.0
+    },
+    {
+      "from": 175.92,
+      "to": 176.76,
+      "sid": 112,
+      "location": 2,
+      "content": "这个比例越高",
+      "music": 0.0
+    },
+    {
+      "from": 176.76,
+      "to": 178.12,
+      "sid": 113,
+      "location": 2,
+      "content": "说明这个城市里的打工人",
+      "music": 0.0
+    },
+    {
+      "from": 178.12,
+      "to": 179.54,
+      "sid": 114,
+      "location": 2,
+      "content": "也就是创造财富的人越多",
+      "music": 0.0
+    },
+    {
+      "from": 179.54,
+      "to": 180.94,
+      "sid": 115,
+      "location": 2,
+      "content": "比如深圳这个比例极高",
+      "music": 0.0
+    },
+    {
+      "from": 180.94,
+      "to": 182.16,
+      "sid": 116,
+      "location": 2,
+      "content": "达到了73%",
+      "music": 0.0
+    },
+    {
+      "from": 182.16,
+      "to": 183.32,
+      "sid": 117,
+      "location": 2,
+      "content": "东莞有65%",
+      "music": 0.0
+    },
+    {
+      "from": 183.32,
+      "to": 185.42,
+      "sid": 118,
+      "location": 2,
+      "content": "苏州和宁波也都在64%左右",
+      "music": 0.0
+    },
+    {
+      "from": 185.42,
+      "to": 186.1,
+      "sid": 119,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 186.1,
+      "to": 187.76,
+      "sid": 120,
+      "location": 2,
+      "content": "有些城市可能常住人口很多",
+      "music": 0.0
+    },
+    {
+      "from": 187.76,
+      "to": 189.24,
+      "sid": 121,
+      "location": 2,
+      "content": "但就业人口比例没那么高",
+      "music": 0.0
+    },
+    {
+      "from": 189.24,
+      "to": 191.0,
+      "sid": 122,
+      "location": 2,
+      "content": "房地产市场的支撑力就会弱一些",
+      "music": 0.0
+    },
+    {
+      "from": 191.0,
+      "to": 191.98,
+      "sid": 123,
+      "location": 2,
+      "content": "你的理解很透彻",
+      "music": 0.0
+    },
+    {
+      "from": 191.98,
+      "to": 194.12,
+      "sid": 124,
+      "location": 2,
+      "content": "这正是我们区分哪些城市能率先复苏的",
+      "music": 0.0
+    },
+    {
+      "from": 194.12,
+      "to": 194.72,
+      "sid": 125,
+      "location": 2,
+      "content": "核心指标",
+      "music": 0.0
+    },
+    {
+      "from": 194.72,
+      "to": 196.02,
+      "sid": 126,
+      "location": 2,
+      "content": "极高的就业人口比例",
+      "music": 0.0
+    },
+    {
+      "from": 196.02,
+      "to": 198.51,
+      "sid": 127,
+      "location": 2,
+      "content": "意味着城市里绝大多数人都有稳定的现金流",
+      "music": 0.0
+    },
+    {
+      "from": 198.51,
+      "to": 199.87,
+      "sid": 128,
+      "location": 2,
+      "content": "产业红利加上年轻化",
+      "music": 0.0
+    },
+    {
+      "from": 199.87,
+      "to": 200.87,
+      "sid": 129,
+      "location": 2,
+      "content": "高比例的就业大军",
+      "music": 0.0
+    },
+    {
+      "from": 200.87,
+      "to": 203.079,
+      "sid": 130,
+      "location": 2,
+      "content": "为楼市注入了源源不断的真实购买力",
+      "music": 0.0
+    },
+    {
+      "from": 203.079,
+      "to": 205.319,
+      "sid": 131,
+      "location": 2,
+      "content": "这完美解释了为什么整体数据看起来平淡",
+      "music": 0.0
+    },
+    {
+      "from": 205.319,
+      "to": 207.16,
+      "sid": 132,
+      "location": 2,
+      "content": "但局部核心市场却如此火热",
+      "music": 0.0
+    },
+    {
+      "from": 207.16,
+      "to": 208.82,
+      "sid": 133,
+      "location": 2,
+      "content": "那除了这些强二三线城市",
+      "music": 0.0
+    },
+    {
+      "from": 208.82,
+      "to": 210.1,
+      "sid": 134,
+      "location": 2,
+      "content": "一线城市里的高端市场",
+      "music": 0.0
+    },
+    {
+      "from": 210.1,
+      "to": 211.34,
+      "sid": 135,
+      "location": 2,
+      "content": "现在具体情况怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 211.34,
+      "to": 212.24,
+      "sid": 136,
+      "location": 2,
+      "content": "高端市场的表现",
+      "music": 0.0
+    },
+    {
+      "from": 212.24,
+      "to": 214.6,
+      "sid": 137,
+      "location": 2,
+      "content": "同样印证了我们刚才说的购买力分化逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 214.6,
+      "to": 216.46,
+      "sid": 138,
+      "location": 2,
+      "content": "尽管全国宏观数据依然疲软",
+      "music": 0.0
+    },
+    {
+      "from": 216.46,
+      "to": 219.08,
+      "sid": 139,
+      "location": 2,
+      "content": "但核心城市的高端需求实际上正在稳步复苏",
+      "music": 0.0
+    },
+    {
+      "from": 219.08,
+      "to": 219.76,
+      "sid": 140,
+      "location": 2,
+      "content": "研究发现",
+      "music": 0.0
+    },
+    {
+      "from": 219.76,
+      "to": 221.64,
+      "sid": 141,
+      "location": 2,
+      "content": "去年第四季度和今年第一季度",
+      "music": 0.0
+    },
+    {
+      "from": 221.64,
+      "to": 223.66,
+      "sid": 142,
+      "location": 2,
+      "content": "中高端购物中心的同店零售额",
+      "music": 0.0
+    },
+    {
+      "from": 223.66,
+      "to": 225.25,
+      "sid": 143,
+      "location": 2,
+      "content": "同比增长了大约10%",
+      "music": 0.0
+    },
+    {
+      "from": 225.25,
+      "to": 226.69,
+      "sid": 144,
+      "location": 2,
+      "content": "购物中心的销售额增长",
+      "music": 0.0
+    },
+    {
+      "from": 226.69,
+      "to": 228.69,
+      "sid": 145,
+      "location": 2,
+      "content": "通常是消费信心恢复的先行指标",
+      "music": 0.0
+    },
+    {
+      "from": 228.69,
+      "to": 229.99,
+      "sid": 146,
+      "location": 2,
+      "content": "这种富裕群体的信心",
+      "music": 0.0
+    },
+    {
+      "from": 229.99,
+      "to": 232.19,
+      "sid": 147,
+      "location": 2,
+      "content": "肯定也会传导到房地产的大宗交易上吧",
+      "music": 0.0
+    },
+    {
+      "from": 232.19,
+      "to": 233.63,
+      "sid": 148,
+      "location": 2,
+      "content": "传导的非常直接且明显",
+      "music": 0.0
+    },
+    {
+      "from": 233.63,
+      "to": 234.32,
+      "sid": 149,
+      "location": 2,
+      "content": "数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 234.32,
+      "to": 235.08,
+      "sid": 150,
+      "location": 2,
+      "content": "在一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 235.08,
+      "to": 237.44,
+      "sid": 151,
+      "location": 2,
+      "content": "总价超过3000万元人民币的高端住宅销售",
+      "music": 0.0
+    },
+    {
+      "from": 237.44,
+      "to": 239.38,
+      "sid": 152,
+      "location": 2,
+      "content": "在今年一季度同比实现了正增长",
+      "music": 0.0
+    },
+    {
+      "from": 239.38,
+      "to": 240.42,
+      "sid": 153,
+      "location": 2,
+      "content": "涨幅是2%",
+      "music": 0.0
+    },
+    {
+      "from": 240.42,
+      "to": 243.02,
+      "sid": 154,
+      "location": 2,
+      "content": "而且好几个高端新项目的去化率都非常强劲",
+      "music": 0.0
+    },
+    {
+      "from": 243.02,
+      "to": 244.519,
+      "sid": 155,
+      "location": 2,
+      "content": "买家入市的意愿很高",
+      "music": 0.0
+    },
+    {
+      "from": 244.519,
+      "to": 246.359,
+      "sid": 156,
+      "location": 2,
+      "content": "超过3000万的豪宅还能保持增长",
+      "music": 0.0
+    },
+    {
+      "from": 246.359,
+      "to": 247.319,
+      "sid": 157,
+      "location": 2,
+      "content": "这说明核心资产",
+      "music": 0.0
+    },
+    {
+      "from": 247.319,
+      "to": 249.24,
+      "sid": 158,
+      "location": 2,
+      "content": "依然是被高净值人群坚定看好的",
+      "music": 0.0
+    },
+    {
+      "from": 249.24,
+      "to": 250.58,
+      "sid": 159,
+      "location": 2,
+      "content": "所以我们现在的关注焦点",
+      "music": 0.0
+    },
+    {
+      "from": 250.58,
+      "to": 253.18,
+      "sid": 160,
+      "location": 2,
+      "content": "应该高度集中在排名前十的头部城市上",
+      "music": 0.0
+    },
+    {
+      "from": 253.18,
+      "to": 255.28,
+      "sid": 161,
+      "location": 2,
+      "content": "仅仅这十个城市就占据了整个行业",
+      "music": 0.0
+    },
+    {
+      "from": 255.28,
+      "to": 257.32,
+      "sid": 162,
+      "location": 2,
+      "content": "房地产公司81%的投资额",
+      "music": 0.0
+    },
+    {
+      "from": 257.32,
+      "to": 258.14,
+      "sid": 163,
+      "location": 2,
+      "content": "81%",
+      "music": 0.0
+    },
+    {
+      "from": 258.14,
+      "to": 259.58,
+      "sid": 164,
+      "location": 2,
+      "content": "这个资金集中度太惊人了",
+      "music": 0.0
+    },
+    {
+      "from": 259.58,
+      "to": 261.12,
+      "sid": 165,
+      "location": 2,
+      "content": "等于是房企把绝对主力的筹码",
+      "music": 0.0
+    },
+    {
+      "from": 261.12,
+      "to": 262.5,
+      "sid": 166,
+      "location": 2,
+      "content": "都押注在这十个城市了",
+      "music": 0.0
+    },
+    {
+      "from": 262.5,
+      "to": 262.86,
+      "sid": 167,
+      "location": 2,
+      "content": "听起来",
+      "music": 0.0
+    },
+    {
+      "from": 262.86,
+      "to": 264.26,
+      "sid": 168,
+      "location": 2,
+      "content": "这一轮房地产的复苏周期",
+      "music": 0.0
+    },
+    {
+      "from": 264.26,
+      "to": 266.42,
+      "sid": 169,
+      "location": 2,
+      "content": "和以往我们经历的周期好像有很大的不同呢",
+      "music": 0.0
+    },
+    {
+      "from": 266.42,
+      "to": 268.38,
+      "sid": 170,
+      "location": 2,
+      "content": "你敏锐地抓住了这份报告的另一个核心",
+      "music": 0.0
+    },
+    {
+      "from": 268.38,
+      "to": 268.76,
+      "sid": 171,
+      "location": 2,
+      "content": "发现",
+      "music": 0.0
+    },
+    {
+      "from": 268.76,
+      "to": 270.52,
+      "sid": 172,
+      "location": 2,
+      "content": "这一轮市场周期确实与以往",
+      "music": 0.0
+    },
+    {
+      "from": 270.52,
+      "to": 272.0,
+      "sid": 173,
+      "location": 2,
+      "content": "有着三个非常显著的差异",
+      "music": 0.0
+    },
+    {
+      "from": 272.0,
+      "to": 273.68,
+      "sid": 174,
+      "location": 2,
+      "content": "第一个差异体现在政策端的发力",
+      "music": 0.0
+    },
+    {
+      "from": 273.68,
+      "to": 274.16,
+      "sid": 175,
+      "location": 2,
+      "content": "实际上",
+      "music": 0.0
+    },
+    {
+      "from": 276.36,
+      "to": 277.88,
+      "sid": 176,
+      "location": 2,
+      "content": "宣布了地方性的宽松政策",
+      "music": 0.0
+    },
+    {
+      "from": 277.88,
+      "to": 278.66,
+      "sid": 177,
+      "location": 2,
+      "content": "但你要注意",
+      "music": 0.0
+    },
+    {
+      "from": 278.66,
+      "to": 280.24,
+      "sid": 178,
+      "location": 2,
+      "content": "这次政策出台的背景是",
+      "music": 0.0
+    },
+    {
+      "from": 280.24,
+      "to": 282.22,
+      "sid": 179,
+      "location": 2,
+      "content": "市场已经在自发回暖了哦",
+      "music": 0.0
+    },
+    {
+      "from": 282.22,
+      "to": 283.02,
+      "sid": 180,
+      "location": 2,
+      "content": "我懂了",
+      "music": 0.0
+    },
+    {
+      "from": 283.02,
+      "to": 284.74,
+      "sid": 181,
+      "location": 2,
+      "content": "以前往往是市场冷到不行了",
+      "music": 0.0
+    },
+    {
+      "from": 284.74,
+      "to": 286.24,
+      "sid": 182,
+      "location": 2,
+      "content": "政策才出来被动救市",
+      "music": 0.0
+    },
+    {
+      "from": 286.24,
+      "to": 287.52,
+      "sid": 183,
+      "location": 2,
+      "content": "这次变成了顺势而为",
+      "music": 0.0
+    },
+    {
+      "from": 287.52,
+      "to": 288.64,
+      "sid": 184,
+      "location": 2,
+      "content": "在市场有起色的时候",
+      "music": 0.0
+    },
+    {
+      "from": 288.64,
+      "to": 289.44,
+      "sid": 185,
+      "location": 2,
+      "content": "主动再推一把",
+      "music": 0.0
+    },
+    {
+      "from": 289.44,
+      "to": 290.46,
+      "sid": 186,
+      "location": 2,
+      "content": "效果肯定更好嘛",
+      "music": 0.0
+    },
+    {
+      "from": 290.46,
+      "to": 291.5,
+      "sid": 187,
+      "location": 2,
+      "content": "分析的非常到位",
+      "music": 0.0
+    },
+    {
+      "from": 291.5,
+      "to": 294.34,
+      "sid": 188,
+      "location": 2,
+      "content": "第二个差异在于二手房挂牌量的结构性变化",
+      "music": 0.0
+    },
+    {
+      "from": 294.34,
+      "to": 296.92,
+      "sid": 189,
+      "location": 2,
+      "content": "大家可能还记得去年第四季度到今年第一季度",
+      "music": 0.0
+    },
+    {
+      "from": 296.92,
+      "to": 298.82,
+      "sid": 190,
+      "location": 2,
+      "content": "很多城市放松了二手房限售",
+      "music": 0.0
+    },
+    {
+      "from": 298.82,
+      "to": 299.94,
+      "sid": 191,
+      "location": 2,
+      "content": "这导致了今年上半年",
+      "music": 0.0
+    },
+    {
+      "from": 299.94,
+      "to": 301.71,
+      "sid": 192,
+      "location": 2,
+      "content": "二手房挂牌量出现过一波激增",
+      "music": 0.0
+    },
+    {
+      "from": 301.71,
+      "to": 303.51,
+      "sid": 193,
+      "location": 2,
+      "content": "对那段时间很多人都在恐慌",
+      "music": 0.0
+    },
+    {
+      "from": 303.51,
+      "to": 304.83,
+      "sid": 194,
+      "location": 2,
+      "content": "担心会不会出现抛售潮",
+      "music": 0.0
+    },
+    {
+      "from": 304.83,
+      "to": 305.85,
+      "sid": 195,
+      "location": 2,
+      "content": "把市场彻底压垮",
+      "music": 0.0
+    },
+    {
+      "from": 305.85,
+      "to": 306.71,
+      "sid": 196,
+      "location": 2,
+      "content": "但研究表明",
+      "music": 0.0
+    },
+    {
+      "from": 306.71,
+      "to": 307.43,
+      "sid": 197,
+      "location": 2,
+      "content": "那一波激增",
+      "music": 0.0
+    },
+    {
+      "from": 307.43,
+      "to": 310.2,
+      "sid": 198,
+      "location": 2,
+      "content": "主要是积压已久的投资客急于套现抛售导致的",
+      "music": 0.0
+    },
+    {
+      "from": 310.2,
+      "to": 311.7,
+      "sid": 199,
+      "location": 2,
+      "content": "而这种集中抛售的压力",
+      "music": 0.0
+    },
+    {
+      "from": 311.7,
+      "to": 313.88,
+      "sid": 200,
+      "location": 2,
+      "content": "在2026年将不会再重复出现了",
+      "music": 0.0
+    },
+    {
+      "from": 313.88,
+      "to": 316.08,
+      "sid": 201,
+      "location": 2,
+      "content": "因为之前从2017年到2021年期间",
+      "music": 0.0
+    },
+    {
+      "from": 316.08,
+      "to": 317.48,
+      "sid": 202,
+      "location": 2,
+      "content": "入市的那些投资性质的房源",
+      "music": 0.0
+    },
+    {
+      "from": 317.48,
+      "to": 318.66,
+      "sid": 203,
+      "location": 2,
+      "content": "已经在过去的几年里",
+      "music": 0.0
+    },
+    {
+      "from": 318.66,
+      "to": 321.61,
+      "sid": 204,
+      "location": 2,
+      "content": "被刚需和改善型的最终用户基本消化完毕了",
+      "music": 0.0
+    },
+    {
+      "from": 321.61,
+      "to": 323.01,
+      "sid": 205,
+      "location": 2,
+      "content": "这真的是个天大的好消息",
+      "music": 0.0
+    },
+    {
+      "from": 323.01,
+      "to": 324.95,
+      "sid": 206,
+      "location": 2,
+      "content": "悬在头顶的堰塞湖终于排空了",
+      "music": 0.0
+    },
+    {
+      "from": 324.95,
+      "to": 325.63,
+      "sid": 207,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 325.63,
+      "to": 326.93,
+      "sid": 208,
+      "location": 2,
+      "content": "现在市场上的二手房供应",
+      "music": 0.0
+    },
+    {
+      "from": 326.93,
+      "to": 328.53,
+      "sid": 209,
+      "location": 2,
+      "content": "已经回到了一个相对健康的常态",
+      "music": 0.0
+    },
+    {
+      "from": 328.53,
+      "to": 329.69,
+      "sid": 210,
+      "location": 2,
+      "content": "没有那么多历史包袱了",
+      "music": 0.0
+    },
+    {
+      "from": 329.69,
+      "to": 330.05,
+      "sid": 211,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 330.05,
+      "to": 331.08,
+      "sid": 212,
+      "location": 2,
+      "content": "我们在北京杭州",
+      "music": 0.0
+    },
+    {
+      "from": 331.08,
+      "to": 331.36,
+      "sid": 213,
+      "location": 2,
+      "content": "南京",
+      "music": 0.0
+    },
+    {
+      "from": 331.36,
+      "to": 333.04,
+      "sid": 214,
+      "location": 2,
+      "content": "成都等八个重点城市的数据模型",
+      "music": 0.0
+    },
+    {
+      "from": 333.04,
+      "to": 334.18,
+      "sid": 215,
+      "location": 2,
+      "content": "都充分证实了这一点",
+      "music": 0.0
+    },
+    {
+      "from": 334.18,
+      "to": 335.5,
+      "sid": 216,
+      "location": 2,
+      "content": "唯一的例外可能是上海",
+      "music": 0.0
+    },
+    {
+      "from": 335.5,
+      "to": 337.56,
+      "sid": 217,
+      "location": 2,
+      "content": "因为它是从今年3月才刚刚开始释放",
+      "music": 0.0
+    },
+    {
+      "from": 337.56,
+      "to": 338.76,
+      "sid": 218,
+      "location": 2,
+      "content": "这部分二手房限制的",
+      "music": 0.0
+    },
+    {
+      "from": 338.76,
+      "to": 340.0,
+      "sid": 219,
+      "location": 2,
+      "content": "还需要一点时间消化",
+      "music": 0.0
+    },
+    {
+      "from": 340.0,
+      "to": 341.86,
+      "sid": 220,
+      "location": 2,
+      "content": "除了政策发力点和供需结构的改变",
+      "music": 0.0
+    },
+    {
+      "from": 341.86,
+      "to": 342.72,
+      "sid": 221,
+      "location": 2,
+      "content": "现在大家买房",
+      "music": 0.0
+    },
+    {
+      "from": 342.72,
+      "to": 344.84,
+      "sid": 222,
+      "location": 2,
+      "content": "好像还特别容易受到各种新闻资讯的影响",
+      "music": 0.0
+    },
+    {
+      "from": 344.84,
+      "to": 346.94,
+      "sid": 223,
+      "location": 2,
+      "content": "这恰好就是我们要说的第三个显著差异",
+      "music": 0.0
+    },
+    {
+      "from": 346.94,
+      "to": 347.98,
+      "sid": 224,
+      "location": 2,
+      "content": "社交媒体的影响力",
+      "music": 0.0
+    },
+    {
+      "from": 347.98,
+      "to": 349.74,
+      "sid": 225,
+      "location": 2,
+      "content": "在这一轮周期中被显著地放大了",
+      "music": 0.0
+    },
+    {
+      "from": 349.74,
+      "to": 351.94,
+      "sid": 226,
+      "location": 2,
+      "content": "从去年11月开始不断出现的积极新闻",
+      "music": 0.0
+    },
+    {
+      "from": 351.94,
+      "to": 354.12,
+      "sid": 227,
+      "location": 2,
+      "content": "正在潜移默化的重塑家庭的购房预期",
+      "music": 0.0
+    },
+    {
+      "from": 354.12,
+      "to": 356.46,
+      "sid": 228,
+      "location": 2,
+      "content": "我们观察到市场情绪一直在持续改善",
+      "music": 0.0
+    },
+    {
+      "from": 356.46,
+      "to": 358.169,
+      "sid": 229,
+      "location": 2,
+      "content": "买房人的信心在一点点重建",
+      "music": 0.0
+    },
+    {
+      "from": 358.169,
+      "to": 360.249,
+      "sid": 230,
+      "location": 2,
+      "content": "确实现在大家都在手机上刷资讯",
+      "music": 0.0
+    },
+    {
+      "from": 360.249,
+      "to": 362.109,
+      "sid": 231,
+      "location": 2,
+      "content": "利好消息很容易就能形成一种共识",
+      "music": 0.0
+    },
+    {
+      "from": 362.109,
+      "to": 364.089,
+      "sid": 232,
+      "location": 2,
+      "content": "而且这种预期的转变是非常关键的",
+      "music": 0.0
+    },
+    {
+      "from": 364.089,
+      "to": 365.66,
+      "sid": 233,
+      "location": 2,
+      "content": "它是所有实际行动的前提",
+      "music": 0.0
+    },
+    {
+      "from": 365.66,
+      "to": 367.9,
+      "sid": 234,
+      "location": 2,
+      "content": "我们发现像公积金政策放松这类措施",
+      "music": 0.0
+    },
+    {
+      "from": 367.9,
+      "to": 370.42,
+      "sid": 235,
+      "location": 2,
+      "content": "它其实并不是驱动市场回暖的原始核心动力",
+      "music": 0.0
+    },
+    {
+      "from": 370.42,
+      "to": 371.5,
+      "sid": 236,
+      "location": 2,
+      "content": "它的真正作用是",
+      "music": 0.0
+    },
+    {
+      "from": 371.5,
+      "to": 373.52,
+      "sid": 237,
+      "location": 2,
+      "content": "在购房者的预期已经转为积极之后",
+      "music": 0.0
+    },
+    {
+      "from": 373.52,
+      "to": 375.45,
+      "sid": 238,
+      "location": 2,
+      "content": "起到一个推波助澜的辅助效果",
+      "music": 0.0
+    },
+    {
+      "from": 375.45,
+      "to": 377.13,
+      "sid": 239,
+      "location": 2,
+      "content": "就是说大家心里想买房了",
+      "music": 0.0
+    },
+    {
+      "from": 377.13,
+      "to": 379.13,
+      "sid": 240,
+      "location": 2,
+      "content": "这时候公积金政策再给点实际优惠",
+      "music": 0.0
+    },
+    {
+      "from": 379.13,
+      "to": 380.45,
+      "sid": 241,
+      "location": 2,
+      "content": "大家就立刻签合同了",
+      "music": 0.0
+    },
+    {
+      "from": 380.45,
+      "to": 381.97,
+      "sid": 242,
+      "location": 2,
+      "content": "如果大家本来就不看好后市",
+      "music": 0.0
+    },
+    {
+      "from": 381.97,
+      "to": 382.97,
+      "sid": 243,
+      "location": 2,
+      "content": "你贷款利息再低",
+      "music": 0.0
+    },
+    {
+      "from": 382.97,
+      "to": 384.42,
+      "sid": 244,
+      "location": 2,
+      "content": "大家也还是会持币观望的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 384.42,
+      "to": 385.26,
+      "sid": 245,
+      "location": 2,
+      "content": "话糙理不糙",
+      "music": 0.0
+    },
+    {
+      "from": 385.26,
+      "to": 386.72,
+      "sid": 246,
+      "location": 2,
+      "content": "预期才是决定一切的根本",
+      "music": 0.0
+    },
+    {
+      "from": 386.72,
+      "to": 389.1,
+      "sid": 247,
+      "location": 2,
+      "content": "那么基于以上这些基本面的深刻变化",
+      "music": 0.0
+    },
+    {
+      "from": 389.1,
+      "to": 390.58,
+      "sid": 248,
+      "location": 2,
+      "content": "我们对整个房地产板块的投资",
+      "music": 0.0
+    },
+    {
+      "from": 390.58,
+      "to": 392.36,
+      "sid": 249,
+      "location": 2,
+      "content": "看法也发生了实质性的转变",
+      "music": 0.0
+    },
+    {
+      "from": 392.36,
+      "to": 394.88,
+      "sid": 250,
+      "location": 2,
+      "content": "随着34月份越来越令人鼓舞的市场数据出炉",
+      "music": 0.0
+    },
+    {
+      "from": 394.88,
+      "to": 397.2,
+      "sid": 251,
+      "location": 2,
+      "content": "我们已经将行业观点正式上调为积极",
+      "music": 0.0
+    },
+    {
+      "from": 397.2,
+      "to": 398.12,
+      "sid": 252,
+      "location": 2,
+      "content": "上调为积极",
+      "music": 0.0
+    },
+    {
+      "from": 398.12,
+      "to": 399.4,
+      "sid": 253,
+      "location": 2,
+      "content": "这在当下的宏观语境里",
+      "music": 0.0
+    },
+    {
+      "from": 399.4,
+      "to": 401.22,
+      "sid": 254,
+      "location": 2,
+      "content": "算是一个相当坚定的看多判断了",
+      "music": 0.0
+    },
+    {
+      "from": 401.22,
+      "to": 402.66,
+      "sid": 255,
+      "location": 2,
+      "content": "那么从具体的投资角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 402.66,
+      "to": 404.52,
+      "sid": 256,
+      "location": 2,
+      "content": "我们应该怎么去把握这种回暖的趋势呢",
+      "music": 0.0
+    },
+    {
+      "from": 404.52,
+      "to": 405.2,
+      "sid": 257,
+      "location": 2,
+      "content": "简单来说",
+      "music": 0.0
+    },
+    {
+      "from": 405.2,
+      "to": 405.62,
+      "sid": 258,
+      "location": 2,
+      "content": "4月份",
+      "music": 0.0
+    },
+    {
+      "from": 405.62,
+      "to": 407.42,
+      "sid": 259,
+      "location": 2,
+      "content": "重点城市的新房和二手房成交量",
+      "music": 0.0
+    },
+    {
+      "from": 407.42,
+      "to": 408.82,
+      "sid": 260,
+      "location": 2,
+      "content": "都已经转为同比正增长",
+      "music": 0.0
+    },
+    {
+      "from": 408.82,
+      "to": 410.68,
+      "sid": 261,
+      "location": 2,
+      "content": "同时急于出手的卖家数量在减少",
+      "music": 0.0
+    },
+    {
+      "from": 410.68,
+      "to": 411.98,
+      "sid": 262,
+      "location": 2,
+      "content": "在政策的持续支持下",
+      "music": 0.0
+    },
+    {
+      "from": 411.98,
+      "to": 412.44,
+      "sid": 263,
+      "location": 2,
+      "content": "我们认为",
+      "music": 0.0
+    },
+    {
+      "from": 412.44,
+      "to": 413.88,
+      "sid": 264,
+      "location": 2,
+      "content": "重点城市的这种缓慢复苏",
+      "music": 0.0
+    },
+    {
+      "from": 413.88,
+      "to": 416.02,
+      "sid": 265,
+      "location": 2,
+      "content": "是房地产企业目前能遇到的最优剧本",
+      "music": 0.0
+    },
+    {
+      "from": 416.02,
+      "to": 417.06,
+      "sid": 266,
+      "location": 2,
+      "content": "因为如果复苏太快",
+      "music": 0.0
+    },
+    {
+      "from": 417.06,
+      "to": 419.0,
+      "sid": 267,
+      "location": 2,
+      "content": "过热可能会引发新的政策收紧",
+      "music": 0.0
+    },
+    {
+      "from": 419.0,
+      "to": 420.46,
+      "sid": 268,
+      "location": 2,
+      "content": "而缓慢且坚定的复苏",
+      "music": 0.0
+    },
+    {
+      "from": 420.46,
+      "to": 423.17,
+      "sid": 269,
+      "location": 2,
+      "content": "足以让优质房企获得喘息和战略扩张的空间",
+      "music": 0.0
+    },
+    {
+      "from": 423.17,
+      "to": 423.93,
+      "sid": 270,
+      "location": 2,
+      "content": "很有道理",
+      "music": 0.0
+    },
+    {
+      "from": 423.93,
+      "to": 425.59,
+      "sid": 271,
+      "location": 2,
+      "content": "稳扎稳打的复苏才是最健康的",
+      "music": 0.0
+    },
+    {
+      "from": 425.59,
+      "to": 427.18,
+      "sid": 272,
+      "location": 2,
+      "content": "暴涨暴跌对谁都没有好处",
+      "music": 0.0
+    },
+    {
+      "from": 427.18,
+      "to": 429.46,
+      "sid": 273,
+      "location": 2,
+      "content": "那在具体的标的选择上有什么明确的逻辑吗",
+      "music": 0.0
+    },
+    {
+      "from": 429.46,
+      "to": 431.04,
+      "sid": 274,
+      "location": 2,
+      "content": "我们的选股逻辑非常清晰",
+      "music": 0.0
+    },
+    {
+      "from": 431.04,
+      "to": 432.72,
+      "sid": 275,
+      "location": 2,
+      "content": "主要看重两个前瞻性指标",
+      "music": 0.0
+    },
+    {
+      "from": 432.72,
+      "to": 434.38,
+      "sid": 276,
+      "location": 2,
+      "content": "第一是看房企在去年土地储备",
+      "music": 0.0
+    },
+    {
+      "from": 434.38,
+      "to": 435.43,
+      "sid": 277,
+      "location": 2,
+      "content": "购买上的增长情况",
+      "music": 0.0
+    },
+    {
+      "from": 435.43,
+      "to": 437.59,
+      "sid": 278,
+      "location": 2,
+      "content": "第二是看他们在今年是否有充足的",
+      "music": 0.0
+    },
+    {
+      "from": 437.59,
+      "to": 439.03,
+      "sid": 279,
+      "location": 2,
+      "content": "可快速变现的可售资源",
+      "music": 0.0
+    },
+    {
+      "from": 439.03,
+      "to": 440.71,
+      "sid": 280,
+      "location": 2,
+      "content": "只有手里有充足好牌的房企",
+      "music": 0.0
+    },
+    {
+      "from": 440.71,
+      "to": 442.39,
+      "sid": 281,
+      "location": 2,
+      "content": "才能在这一波复苏中抢占先机",
+      "music": 0.0
+    },
+    {
+      "from": 442.39,
+      "to": 443.43,
+      "sid": 282,
+      "location": 2,
+      "content": "扩大市场份额",
+      "music": 0.0
+    },
+    {
+      "from": 443.43,
+      "to": 445.37,
+      "sid": 283,
+      "location": 2,
+      "content": "也就是所谓的巧妇难为无米之炊",
+      "music": 0.0
+    },
+    {
+      "from": 445.37,
+      "to": 447.67,
+      "sid": 284,
+      "location": 2,
+      "content": "手头有核心城市优质土地和项目的公司",
+      "music": 0.0
+    },
+    {
+      "from": 447.67,
+      "to": 448.77,
+      "sid": 285,
+      "location": 2,
+      "content": "自然能吃到红利",
+      "music": 0.0
+    },
+    {
+      "from": 448.77,
+      "to": 450.13,
+      "sid": 286,
+      "location": 2,
+      "content": "有没有什么具体的代表性企业",
+      "music": 0.0
+    },
+    {
+      "from": 450.13,
+      "to": 451.13,
+      "sid": 287,
+      "location": 2,
+      "content": "可以跟我们分享一下的",
+      "music": 0.0
+    },
+    {
+      "from": 451.13,
+      "to": 452.57,
+      "sid": 288,
+      "location": 2,
+      "content": "比如中海地产和中国经贸",
+      "music": 0.0
+    },
+    {
+      "from": 452.57,
+      "to": 453.25,
+      "sid": 289,
+      "location": 2,
+      "content": "这两家企业",
+      "music": 0.0
+    },
+    {
+      "from": 453.25,
+      "to": 455.51,
+      "sid": 290,
+      "location": 2,
+      "content": "在前四个月都已经实现了销售额的逆势增长",
+      "music": 0.0
+    },
+    {
+      "from": 455.51,
+      "to": 456.47,
+      "sid": 291,
+      "location": 2,
+      "content": "还有华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 456.47,
+      "to": 459.2,
+      "sid": 292,
+      "location": 2,
+      "content": "保利发展也都是我们在开发商领域的首选目标",
+      "music": 0.0
+    },
+    {
+      "from": 459.2,
+      "to": 460.96,
+      "sid": 293,
+      "location": 2,
+      "content": "这些企业普遍财务相对稳健",
+      "music": 0.0
+    },
+    {
+      "from": 460.96,
+      "to": 462.72,
+      "sid": 294,
+      "location": 2,
+      "content": "且在头部城市的布局非常深厚",
+      "music": 0.0
+    },
+    {
+      "from": 462.72,
+      "to": 464.62,
+      "sid": 295,
+      "location": 2,
+      "content": "也就是资金更倾向于基本面扎实",
+      "music": 0.0
+    },
+    {
+      "from": 464.62,
+      "to": 466.0,
+      "sid": 296,
+      "location": 2,
+      "content": "布局合理的行业龙头",
+      "music": 0.0
+    },
+    {
+      "from": 466.0,
+      "to": 466.84,
+      "sid": 297,
+      "location": 2,
+      "content": "估值方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 466.84,
+      "to": 468.86,
+      "sid": 298,
+      "location": 2,
+      "content": "现在的股价是否已经提前透支了这些利好",
+      "music": 0.0
+    },
+    {
+      "from": 468.86,
+      "to": 469.5,
+      "sid": 299,
+      "location": 2,
+      "content": "恰恰相反",
+      "music": 0.0
+    },
+    {
+      "from": 469.5,
+      "to": 470.58,
+      "sid": 300,
+      "location": 2,
+      "content": "从估值的角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 470.58,
+      "to": 472.48,
+      "sid": 301,
+      "location": 2,
+      "content": "现在仍是一个非常难得的窗口期",
+      "music": 0.0
+    },
+    {
+      "from": 472.48,
+      "to": 474.0,
+      "sid": 302,
+      "location": 2,
+      "content": "很多优质房企的股价相比",
+      "music": 0.0
+    },
+    {
+      "from": 474.0,
+      "to": 476.36,
+      "sid": 303,
+      "location": 2,
+      "content": "他们的净资产依然存在非常大的折价",
+      "music": 0.0
+    },
+    {
+      "from": 476.36,
+      "to": 477.48,
+      "sid": 304,
+      "location": 2,
+      "content": "折价有多夸张呢",
+      "music": 0.0
+    },
+    {
+      "from": 477.48,
+      "to": 478.92,
+      "sid": 305,
+      "location": 2,
+      "content": "能不能用具体数据说明一下",
+      "music": 0.0
+    },
+    {
+      "from": 478.92,
+      "to": 480.3,
+      "sid": 306,
+      "location": 2,
+      "content": "比如刚才提到的保利发展",
+      "music": 0.0
+    },
+    {
+      "from": 480.3,
+      "to": 481.18,
+      "sid": 307,
+      "location": 2,
+      "content": "根据我们的估算",
+      "music": 0.0
+    },
+    {
+      "from": 481.18,
+      "to": 483.46,
+      "sid": 308,
+      "location": 2,
+      "content": "他的净资产折价率甚至达到了81%",
+      "music": 0.0
+    },
+    {
+      "from": 483.46,
+      "to": 485.22,
+      "sid": 309,
+      "location": 2,
+      "content": "中海地产和华润置地的折价率",
+      "music": 0.0
+    },
+    {
+      "from": 485.22,
+      "to": 486.52,
+      "sid": 310,
+      "location": 2,
+      "content": "也都超过了50%",
+      "music": 0.0
+    },
+    {
+      "from": 486.52,
+      "to": 488.22,
+      "sid": 311,
+      "location": 2,
+      "content": "同时像华润置地这样的优质企业",
+      "music": 0.0
+    },
+    {
+      "from": 488.22,
+      "to": 490.299,
+      "sid": 312,
+      "location": 2,
+      "content": "它的预期股息收益率能达到4.2%",
+      "music": 0.0
+    },
+    {
+      "from": 490.299,
+      "to": 492.799,
+      "sid": 313,
+      "location": 2,
+      "content": "极高的净资产折价加上可观的股息收益率",
+      "music": 0.0
+    },
+    {
+      "from": 492.799,
+      "to": 494.45,
+      "sid": 314,
+      "location": 2,
+      "content": "确实提供了很厚的安全边际",
+      "music": 0.0
+    },
+    {
+      "from": 494.45,
+      "to": 495.45,
+      "sid": 315,
+      "location": 2,
+      "content": "那除了开发商",
+      "music": 0.0
+    },
+    {
+      "from": 495.45,
+      "to": 497.25,
+      "sid": 316,
+      "location": 2,
+      "content": "现在二手房交易量爆发的这么厉害",
+      "music": 0.0
+    },
+    {
+      "from": 497.25,
+      "to": 499.64,
+      "sid": 317,
+      "location": 2,
+      "content": "中介服务平台应该也是个不错的投资方向吧",
+      "music": 0.0
+    },
+    {
+      "from": 499.64,
+      "to": 500.54,
+      "sid": 318,
+      "location": 2,
+      "content": "你的思路很开阔",
+      "music": 0.0
+    },
+    {
+      "from": 500.54,
+      "to": 502.12,
+      "sid": 319,
+      "location": 2,
+      "content": "也和我们的研究结果不谋而合",
+      "music": 0.0
+    },
+    {
+      "from": 502.12,
+      "to": 503.8,
+      "sid": 320,
+      "location": 2,
+      "content": "正是因为我们看到从4月份开始",
+      "music": 0.0
+    },
+    {
+      "from": 503.8,
+      "to": 505.82,
+      "sid": 321,
+      "location": 2,
+      "content": "二手房交易量出现了大面积的强劲增长",
+      "music": 0.0
+    },
+    {
+      "from": 505.82,
+      "to": 506.98,
+      "sid": 322,
+      "location": 2,
+      "content": "所以我们也同时看好",
+      "music": 0.0
+    },
+    {
+      "from": 508.68,
+      "to": 511.08,
+      "sid": 323,
+      "location": 2,
+      "content": "他们不需要承担拿地建房的重资产风险",
+      "music": 0.0
+    },
+    {
+      "from": 511.08,
+      "to": 512.88,
+      "sid": 324,
+      "location": 2,
+      "content": "能够直接从二手房市场的活跃度提升中",
+      "music": 0.0
+    },
+    {
+      "from": 512.88,
+      "to": 514.2,
+      "sid": 325,
+      "location": 2,
+      "content": "获得实实在在的业绩增长",
+      "music": 0.0
+    },
+    {
+      "from": 514.2,
+      "to": 515.28,
+      "sid": 326,
+      "location": 2,
+      "content": "听完你的详细剖析",
+      "music": 0.0
+    },
+    {
+      "from": 515.28,
+      "to": 517.4,
+      "sid": 327,
+      "location": 2,
+      "content": "我觉得对整个市场的认知豁然开朗了",
+      "music": 0.0
+    },
+    {
+      "from": 517.4,
+      "to": 518.96,
+      "sid": 328,
+      "location": 2,
+      "content": "原来在大家没关注到的深水区",
+      "music": 0.0
+    },
+    {
+      "from": 518.96,
+      "to": 521.28,
+      "sid": 329,
+      "location": 2,
+      "content": "房地产市场已经发生了这么深刻的结构性变化",
+      "music": 0.0
+    },
+    {
+      "from": 521.28,
+      "to": 523.16,
+      "sid": 330,
+      "location": 2,
+      "content": "是的市场永远是在绝望中孕育",
+      "music": 0.0
+    },
+    {
+      "from": 523.16,
+      "to": 525.18,
+      "sid": 331,
+      "location": 2,
+      "content": "希望在分化中寻找新的平衡点",
+      "music": 0.0
+    },
+    {
+      "from": 525.18,
+      "to": 527.18,
+      "sid": 332,
+      "location": 2,
+      "content": "从核心城市到强二三线城市",
+      "music": 0.0
+    },
+    {
+      "from": 527.18,
+      "to": 529.88,
+      "sid": 333,
+      "location": 2,
+      "content": "由产业升级和高素质人口结构带来的真实需求",
+      "music": 0.0
+    },
+    {
+      "from": 529.88,
+      "to": 531.42,
+      "sid": 334,
+      "location": 2,
+      "content": "正在筑起坚实的市场底部",
+      "music": 0.0
+    },
+    {
+      "from": 531.42,
+      "to": 533.3,
+      "sid": 335,
+      "location": 2,
+      "content": "历史遗留的投资客库存被逐步消化",
+      "music": 0.0
+    },
+    {
+      "from": 533.3,
+      "to": 534.52,
+      "sid": 336,
+      "location": 2,
+      "content": "政策又开始顺势发力",
+      "music": 0.0
+    },
+    {
+      "from": 534.52,
+      "to": 535.72,
+      "sid": 337,
+      "location": 2,
+      "content": "预期的拐点已经出现",
+      "music": 0.0
+    },
+    {
+      "from": 535.72,
+      "to": 538.32,
+      "sid": 338,
+      "location": 2,
+      "content": "我们可以确认中国优质房产的缓慢复苏之路",
+      "music": 0.0
+    },
+    {
+      "from": 538.32,
+      "to": 539.64,
+      "sid": 339,
+      "location": 2,
+      "content": "其实已经悄然扑救了",
+      "music": 0.0
+    },
+    {
+      "from": 539.64,
+      "to": 540.2,
+      "sid": 340,
+      "location": 2,
+      "content": "那么简单",
+      "music": 0.0
+    },
+    {
+      "from": 540.2,
+      "to": 541.81,
+      "sid": 341,
+      "location": 2,
+      "content": "总结一下今天分享的核心内容",
+      "music": 0.0
+    },
+    {
+      "from": 541.81,
+      "to": 543.17,
+      "sid": 342,
+      "location": 2,
+      "content": "重点城市的二手房交易量",
+      "music": 0.0
+    },
+    {
+      "from": 543.17,
+      "to": 544.41,
+      "sid": 343,
+      "location": 2,
+      "content": "已经创下16个月新高",
+      "music": 0.0
+    },
+    {
+      "from": 544.41,
+      "to": 546.97,
+      "sid": 344,
+      "location": 2,
+      "content": "并且这种热度正向有硬核产业和人口支撑的二",
+      "music": 0.0
+    },
+    {
+      "from": 546.97,
+      "to": 548.25,
+      "sid": 345,
+      "location": 2,
+      "content": "三线城市迅速蔓延",
+      "music": 0.0
+    },
+    {
+      "from": 548.25,
+      "to": 550.13,
+      "sid": 346,
+      "location": 2,
+      "content": "一线城市高端市场依然坚挺",
+      "music": 0.0
+    },
+    {
+      "from": 550.13,
+      "to": 551.69,
+      "sid": 347,
+      "location": 2,
+      "content": "前几年的抛售压力基本出清",
+      "music": 0.0
+    },
+    {
+      "from": 551.69,
+      "to": 554.34,
+      "sid": 348,
+      "location": 2,
+      "content": "配合着逐渐改善的购房预期和顺势而为的政策",
+      "music": 0.0
+    },
+    {
+      "from": 554.34,
+      "to": 556.48,
+      "sid": 349,
+      "location": 2,
+      "content": "楼市正在迎来一波健康的缓慢复苏",
+      "music": 0.0
+    },
+    {
+      "from": 556.48,
+      "to": 557.64,
+      "sid": 350,
+      "location": 2,
+      "content": "而在这个大趋势中",
+      "music": 0.0
+    },
+    {
+      "from": 557.64,
+      "to": 559.98,
+      "sid": 351,
+      "location": 2,
+      "content": "土储充足的优质开发商和头部中介平台",
+      "music": 0.0
+    },
+    {
+      "from": 559.98,
+      "to": 561.58,
+      "sid": 352,
+      "location": 2,
+      "content": "将迎来最好的价值重估机遇",
+      "music": 0.0
+    },
+    {
+      "from": 561.58,
+      "to": 562.58,
+      "sid": 353,
+      "location": 2,
+      "content": "总结的很全面",
+      "music": 0.0
+    },
+    {
+      "from": 562.58,
+      "to": 563.06,
+      "sid": 354,
+      "location": 2,
+      "content": "很精准",
+      "music": 0.0
+    },
+    {
+      "from": 563.06,
+      "to": 564.38,
+      "sid": 355,
+      "location": 2,
+      "content": "对于投资者和购房者来说",
+      "music": 0.0
+    },
+    {
+      "from": 564.38,
+      "to": 566.18,
+      "sid": 356,
+      "location": 2,
+      "content": "现在是时候放下过去的悲观情绪",
+      "music": 0.0
+    },
+    {
+      "from": 566.18,
+      "to": 568.42,
+      "sid": 357,
+      "location": 2,
+      "content": "重新审视这些核心城市里的优质资产了",
+      "music": 0.0
+    },
+    {
+      "from": 568.42,
+      "to": 571.04,
+      "sid": 358,
+      "location": 2,
+      "content": "市场的机会总是留给那些能透过数据表象",
+      "music": 0.0
+    },
+    {
+      "from": 571.04,
+      "to": 572.62,
+      "sid": 359,
+      "location": 2,
+      "content": "看到底层逻辑变化的人",
+      "music": 0.0
+    },
+    {
+      "from": 572.62,
+      "to": 573.7,
+      "sid": 360,
+      "location": 2,
+      "content": "感谢收看草莓研报",
+      "music": 0.0
+    },
+    {
+      "from": 573.7,
+      "to": 574.52,
+      "sid": 361,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0.0
+    }
+  ]
+}

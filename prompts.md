@@ -12,4 +12,6 @@
 * 字幕窗口可拖动和调整长宽
 
 * 问题未修复， 且点击右下方和上面的按钮， 字幕窗口会往下反瞬移
+update skill vedio-summarizer:  你应该了解两点1.该技能运行在windows 上，2.uv 和python 的完整路径分别是 C:\Users\chandlernie\AppData\Local\Microsoft\WinGet\Packages\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\uv.exe 和 C:\Users\chandlernie\AppData\Local\Programs\Python\Python311\python.exe
+避免执行过程中的各种路径错误
 * 
