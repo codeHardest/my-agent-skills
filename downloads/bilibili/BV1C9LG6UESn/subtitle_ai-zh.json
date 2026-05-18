@@ -1,0 +1,772 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.12,
+      "sid": 1,
+      "location": 2,
+      "content": "我们今天的主题是",
+      "music": 0.0
+    },
+    {
+      "from": 5.09,
+      "to": 7.77,
+      "sid": 2,
+      "location": 2,
+      "content": "以及它的这个铝土矿自给率提升",
+      "music": 0.0
+    },
+    {
+      "from": 7.77,
+      "to": 10.45,
+      "sid": 3,
+      "location": 2,
+      "content": "和它的成本控制这方面的一些新的进展",
+      "music": 0.0
+    },
+    {
+      "from": 10.45,
+      "to": 11.7,
+      "sid": 4,
+      "location": 2,
+      "content": "嗯好的",
+      "music": 0.0
+    },
+    {
+      "from": 11.7,
+      "to": 13.88,
+      "sid": 5,
+      "location": 2,
+      "content": "这些变化确实非常值得关注",
+      "music": 0.0
+    },
+    {
+      "from": 13.88,
+      "to": 15.44,
+      "sid": 6,
+      "location": 2,
+      "content": "那我们就开始吧",
+      "music": 0.0
+    },
+    {
+      "from": 15.44,
+      "to": 18.39,
+      "sid": 7,
+      "location": 2,
+      "content": "首先我们要讨论的呢是来自花旗",
+      "music": 0.0
+    },
+    {
+      "from": 18.39,
+      "to": 22.12,
+      "sid": 8,
+      "location": 2,
+      "content": "2026年中国杰出企业日的一些最新的消息",
+      "music": 0.0
+    },
+    {
+      "from": 24.18,
+      "to": 26.4,
+      "sid": 9,
+      "location": 2,
+      "content": "对于2026年的一些产量",
+      "music": 0.0
+    },
+    {
+      "from": 26.4,
+      "to": 28.4,
+      "sid": 10,
+      "location": 2,
+      "content": "还有这个自给率的展望",
+      "music": 0.0
+    },
+    {
+      "from": 32.039,
+      "to": 32.979,
+      "sid": 11,
+      "location": 2,
+      "content": "氧化铝",
+      "music": 0.0
+    },
+    {
+      "from": 32.979,
+      "to": 34.239,
+      "sid": 12,
+      "location": 2,
+      "content": "还有铝土矿",
+      "music": 0.0
+    },
+    {
+      "from": 34.239,
+      "to": 38.55,
+      "sid": 13,
+      "location": 2,
+      "content": "这三种产品的产量和自给率的目标是多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 38.55,
+      "to": 39.67,
+      "sid": 14,
+      "location": 2,
+      "content": "具体来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.81,
+      "to": 45.28,
+      "sid": 15,
+      "location": 2,
+      "content": "原铝的产量会和去年持平",
+      "music": 0.0
+    },
+    {
+      "from": 45.28,
+      "to": 48.95,
+      "sid": 16,
+      "location": 2,
+      "content": "然后产能利用率还是会保持在一个满产的状态",
+      "music": 0.0
+    },
+    {
+      "from": 48.95,
+      "to": 52.15,
+      "sid": 17,
+      "location": 2,
+      "content": "氧化铝的产量呢会同比下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.15,
+      "to": 55.36,
+      "sid": 18,
+      "location": 2,
+      "content": "就是为了去匹配自身的这个铝业务的需求",
+      "music": 0.0
+    },
+    {
+      "from": 55.36,
+      "to": 59.1,
+      "sid": 19,
+      "location": 2,
+      "content": "那铝土矿呢是计划增产200到300万吨",
+      "music": 0.0
+    },
+    {
+      "from": 59.1,
+      "to": 62.6,
+      "sid": 20,
+      "location": 2,
+      "content": "这样的话自给率就会提升到70%以上啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.6,
+      "to": 65.76,
+      "sid": 21,
+      "location": 2,
+      "content": "比2025年的66%是有一个提升的",
+      "music": 0.0
+    },
+    {
+      "from": 65.76,
+      "to": 66.44,
+      "sid": 22,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 68.36,
+      "to": 70.36,
+      "sid": 23,
+      "location": 2,
+      "content": "几个重点的项目的进展",
+      "music": 0.0
+    },
+    {
+      "from": 70.36,
+      "to": 73.09,
+      "sid": 24,
+      "location": 2,
+      "content": "以及他们在成本控制上面的一些举措",
+      "music": 0.0
+    },
+    {
+      "from": 73.09,
+      "to": 75.09,
+      "sid": 25,
+      "location": 2,
+      "content": "那包括几内亚的这个铝土矿",
+      "music": 0.0
+    },
+    {
+      "from": 75.09,
+      "to": 76.99,
+      "sid": 26,
+      "location": 2,
+      "content": "还有大连的氧化铝项目",
+      "music": 0.0
+    },
+    {
+      "from": 76.99,
+      "to": 78.78,
+      "sid": 27,
+      "location": 2,
+      "content": "他们现在的进展是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 78.78,
+      "to": 80.9,
+      "sid": 28,
+      "location": 2,
+      "content": "然后未来会怎么影响公司的这个",
+      "music": 0.0
+    },
+    {
+      "from": 80.9,
+      "to": 82.42,
+      "sid": 29,
+      "location": 2,
+      "content": "自给率和盈利能力呢",
+      "music": 0.0
+    },
+    {
+      "from": 82.42,
+      "to": 83.78,
+      "sid": 30,
+      "location": 2,
+      "content": "几内亚的铝土矿",
+      "music": 0.0
+    },
+    {
+      "from": 83.78,
+      "to": 86.39,
+      "sid": 31,
+      "location": 2,
+      "content": "现在的产能是每年1500万吨",
+      "music": 0.0
+    },
+    {
+      "from": 89.19,
+      "to": 91.09,
+      "sid": 32,
+      "location": 2,
+      "content": "到每年2500万吨",
+      "music": 0.0
+    },
+    {
+      "from": 91.09,
+      "to": 93.71,
+      "sid": 33,
+      "location": 2,
+      "content": "预计是2026年可以投产",
+      "music": 0.0
+    },
+    {
+      "from": 93.71,
+      "to": 97.31,
+      "sid": 34,
+      "location": 2,
+      "content": "那这也会直接带动2027年的铝土矿的",
+      "music": 0.0
+    },
+    {
+      "from": 97.31,
+      "to": 99.34,
+      "sid": 35,
+      "location": 2,
+      "content": "产量和自给率继续的提升",
+      "music": 0.0
+    },
+    {
+      "from": 99.34,
+      "to": 101.32,
+      "sid": 36,
+      "location": 2,
+      "content": "诶这确实是个好消息",
+      "music": 0.0
+    },
+    {
+      "from": 101.32,
+      "to": 103.66,
+      "sid": 37,
+      "location": 2,
+      "content": "那大连氧化铝项目现在是什么情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.66,
+      "to": 106.68,
+      "sid": 38,
+      "location": 2,
+      "content": "大连的氧化铝项目现在是在等政府的批复",
+      "music": 0.0
+    },
+    {
+      "from": 106.68,
+      "to": 108.98,
+      "sid": 39,
+      "location": 2,
+      "content": "管理层是很有信心很快会获批",
+      "music": 0.0
+    },
+    {
+      "from": 108.98,
+      "to": 111.44,
+      "sid": 40,
+      "location": 2,
+      "content": "然后建设周期大概是一年对",
+      "music": 0.0
+    },
+    {
+      "from": 111.44,
+      "to": 114.57,
+      "sid": 41,
+      "location": 2,
+      "content": "然后另外就是公司还计划在未来的三到5年",
+      "music": 0.0
+    },
+    {
+      "from": 114.57,
+      "to": 117.03,
+      "sid": 42,
+      "location": 2,
+      "content": "把部分的冶金及氧化铝产线",
+      "music": 0.0
+    },
+    {
+      "from": 117.03,
+      "to": 119.41,
+      "sid": 43,
+      "location": 2,
+      "content": "转产成盈利能力更高的化学剂",
+      "music": 0.0
+    },
+    {
+      "from": 119.41,
+      "to": 120.67,
+      "sid": 44,
+      "location": 2,
+      "content": "氧化铝好的",
+      "music": 0.0
+    },
+    {
+      "from": 120.67,
+      "to": 121.83,
+      "sid": 45,
+      "location": 2,
+      "content": "那2026年",
+      "music": 0.0
+    },
+    {
+      "from": 121.83,
+      "to": 124.65,
+      "sid": 46,
+      "location": 2,
+      "content": "中国铝业在成本控制上面有什么新的举措吗",
+      "music": 0.0
+    },
+    {
+      "from": 124.65,
+      "to": 126.79,
+      "sid": 47,
+      "location": 2,
+      "content": "然后包括他们的资本开支和分红政策",
+      "music": 0.0
+    },
+    {
+      "from": 126.79,
+      "to": 127.63,
+      "sid": 48,
+      "location": 2,
+      "content": "是怎么定的呢",
+      "music": 0.0
+    },
+    {
+      "from": 127.63,
+      "to": 128.85,
+      "sid": 49,
+      "location": 2,
+      "content": "关于成本控制呢",
+      "music": 0.0
+    },
+    {
+      "from": 128.85,
+      "to": 132.439,
+      "sid": 50,
+      "location": 2,
+      "content": "管理层的计划是通过铝土矿的降价",
+      "music": 0.0
+    },
+    {
+      "from": 132.439,
+      "to": 134.579,
+      "sid": 51,
+      "location": 2,
+      "content": "和一些其他的成本管控的手段",
+      "music": 0.0
+    },
+    {
+      "from": 134.579,
+      "to": 137.12,
+      "sid": 52,
+      "location": 2,
+      "content": "来降低氧化铝的生产成本",
+      "music": 0.0
+    },
+    {
+      "from": 137.12,
+      "to": 139.04,
+      "sid": 53,
+      "location": 2,
+      "content": "那虽然说煤价是涨了",
+      "music": 0.0
+    },
+    {
+      "from": 139.04,
+      "to": 140.58,
+      "sid": 54,
+      "location": 2,
+      "content": "但是因为自备电的比例",
+      "music": 0.0
+    },
+    {
+      "from": 140.58,
+      "to": 143.18,
+      "sid": 55,
+      "location": 2,
+      "content": "其实在整个用电当中还不到20%",
+      "music": 0.0
+    },
+    {
+      "from": 143.18,
+      "to": 145.529,
+      "sid": 56,
+      "location": 2,
+      "content": "所以对整体的影响是有限的",
+      "music": 0.0
+    },
+    {
+      "from": 145.529,
+      "to": 147.069,
+      "sid": 57,
+      "location": 2,
+      "content": "那资本开支方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 147.069,
+      "to": 147.909,
+      "sid": 58,
+      "location": 2,
+      "content": "未来几年",
+      "music": 0.0
+    },
+    {
+      "from": 147.909,
+      "to": 151.23,
+      "sid": 59,
+      "location": 2,
+      "content": "每年的预算大概是在150亿元左右",
+      "music": 0.0
+    },
+    {
+      "from": 151.23,
+      "to": 155.03,
+      "sid": 60,
+      "location": 2,
+      "content": "然后分红的话是计划逐步的提高分红的比例",
+      "music": 0.0
+    },
+    {
+      "from": 155.03,
+      "to": 155.959,
+      "sid": 61,
+      "location": 2,
+      "content": "了解了",
+      "music": 0.0
+    },
+    {
+      "from": 155.959,
+      "to": 157.859,
+      "sid": 62,
+      "location": 2,
+      "content": "那紧接着咱们就要来看看",
+      "music": 0.0
+    },
+    {
+      "from": 157.859,
+      "to": 161.709,
+      "sid": 63,
+      "location": 2,
+      "content": "花旗是怎么给中国铝业的H股来进行估值的",
+      "music": 0.0
+    },
+    {
+      "from": 161.709,
+      "to": 163.869,
+      "sid": 64,
+      "location": 2,
+      "content": "然后他给出的目标价是多少",
+      "music": 0.0
+    },
+    {
+      "from": 163.869,
+      "to": 165.569,
+      "sid": 65,
+      "location": 2,
+      "content": "他的核心的假设是什么",
+      "music": 0.0
+    },
+    {
+      "from": 169.409,
+      "to": 170.79,
+      "sid": 66,
+      "location": 2,
+      "content": "九毛四港币",
+      "music": 0.0
+    },
+    {
+      "from": 170.79,
+      "to": 175.51,
+      "sid": 67,
+      "location": 2,
+      "content": "这个是相当于2026年的市净率2.81倍",
+      "music": 0.0
+    },
+    {
+      "from": 175.51,
+      "to": 179.23,
+      "sid": 68,
+      "location": 2,
+      "content": "那这个市净率是比历史的均值1.25倍",
+      "music": 0.0
+    },
+    {
+      "from": 179.23,
+      "to": 181.769,
+      "sid": 69,
+      "location": 2,
+      "content": "要高出2.25个标准差",
+      "music": 0.0
+    },
+    {
+      "from": 181.769,
+      "to": 182.989,
+      "sid": 70,
+      "location": 2,
+      "content": "那背后的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 182.989,
+      "to": 184.409,
+      "sid": 71,
+      "location": 2,
+      "content": "就是因为花旗预测",
+      "music": 0.0
+    },
+    {
+      "from": 184.409,
+      "to": 187.449,
+      "sid": 72,
+      "location": 2,
+      "content": "公司在2026~2027年的这个ROE",
+      "music": 0.0
+    },
+    {
+      "from": 187.449,
+      "to": 188.99,
+      "sid": 73,
+      "location": 2,
+      "content": "会高于历史平均",
+      "music": 0.0
+    },
+    {
+      "from": 188.99,
+      "to": 191.53,
+      "sid": 74,
+      "location": 2,
+      "content": "主要是受益于铝价的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 191.53,
+      "to": 192.17,
+      "sid": 75,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 192.17,
+      "to": 193.25,
+      "sid": 76,
+      "location": 2,
+      "content": "那花旗认为",
+      "music": 0.0
+    },
+    {
+      "from": 196.93,
+      "to": 199.39,
+      "sid": 77,
+      "location": 2,
+      "content": "嗯下行风险主要有四点",
+      "music": 0.0
+    },
+    {
+      "from": 199.39,
+      "to": 203.59,
+      "sid": 78,
+      "location": 2,
+      "content": "第一呢是铝和氧化铝的价格要是涨不到逾期",
+      "music": 0.0
+    },
+    {
+      "from": 203.59,
+      "to": 205.71,
+      "sid": 79,
+      "location": 2,
+      "content": "第二是成本要是降不下来",
+      "music": 0.0
+    },
+    {
+      "from": 205.71,
+      "to": 207.29,
+      "sid": 80,
+      "location": 2,
+      "content": "反而比预期的要高",
+      "music": 0.0
+    },
+    {
+      "from": 207.29,
+      "to": 211.12,
+      "sid": 81,
+      "location": 2,
+      "content": "第三呢是如果说出现了比较大额的资产减值",
+      "music": 0.0
+    },
+    {
+      "from": 211.12,
+      "to": 212.54,
+      "sid": 82,
+      "location": 2,
+      "content": "第四是政府",
+      "music": 0.0
+    },
+    {
+      "from": 212.54,
+      "to": 214.66,
+      "sid": 83,
+      "location": 2,
+      "content": "如果说因为铝价涨得太高了",
+      "music": 0.0
+    },
+    {
+      "from": 214.66,
+      "to": 216.95,
+      "sid": 84,
+      "location": 2,
+      "content": "然后放松了这个减产的政策",
+      "music": 0.0
+    },
+    {
+      "from": 216.95,
+      "to": 219.23,
+      "sid": 85,
+      "location": 2,
+      "content": "那这四个都是主要的下行风险",
+      "music": 0.0
+    },
+    {
+      "from": 223.46,
+      "to": 224.4,
+      "sid": 86,
+      "location": 2,
+      "content": "成本的控制",
+      "music": 0.0
+    },
+    {
+      "from": 224.4,
+      "to": 227.01,
+      "sid": 87,
+      "location": 2,
+      "content": "项目的进展以及它的估值和风险",
+      "music": 0.0
+    },
+    {
+      "from": 227.01,
+      "to": 228.39,
+      "sid": 88,
+      "location": 2,
+      "content": "都给大家梳理了一遍",
+      "music": 0.0
+    },
+    {
+      "from": 228.39,
+      "to": 230.53,
+      "sid": 89,
+      "location": 2,
+      "content": "大家应该对公司未来的这个走向",
+      "music": 0.0
+    },
+    {
+      "from": 230.53,
+      "to": 232.01,
+      "sid": 90,
+      "location": 2,
+      "content": "有一个比较清晰的认识了",
+      "music": 0.0
+    },
+    {
+      "from": 232.01,
+      "to": 232.41,
+      "sid": 91,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 232.41,
+      "to": 234.44,
+      "sid": 92,
+      "location": 2,
+      "content": "那我们这期节目就到这里啦",
+      "music": 0.0
+    },
+    {
+      "from": 234.44,
+      "to": 235.82,
+      "sid": 93,
+      "location": 2,
+      "content": "然后感谢大家的收听",
+      "music": 0.0
+    },
+    {
+      "from": 235.82,
+      "to": 237.1,
+      "sid": 94,
+      "location": 2,
+      "content": "咱们下期再见",
+      "music": 0.0
+    },
+    {
+      "from": 237.1,
+      "to": 237.98,
+      "sid": 95,
+      "location": 2,
+      "content": "拜拜拜拜",
+      "music": 0.0
+    }
+  ]
+}

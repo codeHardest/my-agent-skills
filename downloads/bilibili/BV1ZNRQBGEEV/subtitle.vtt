@@ -1,0 +1,1115 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.680
+Right now, tech giants in China are placing these massive, I mean, multi-billion dollar orders
+
+00:00:07.680 --> 00:00:12.400
+for AI chips that are technically speaking at least two generations obsolete.
+
+00:00:12.400 --> 00:00:14.640
+Right. Completely outdated by industry standards.
+
+00:00:14.640 --> 00:00:20.240
+Exactly. They're buying hardware that, on paper, should be entirely uncompetitive.
+
+00:00:20.800 --> 00:00:27.280
+Yet, the company making these older chips Huawei is seeing its AI processor revenues
+
+00:00:27.280 --> 00:00:32.960
+absolutely skyrocket. Oh, the projections are wild. Yeah, we're talking a jump from 7.5 billion
+
+00:00:32.960 --> 00:00:36.720
+dollars in 2025 to 12 billion dollars this year.
+
+00:00:36.944 --> 00:00:38.824
+That is a 60% jump.
+
+00:00:38.824 --> 00:00:39.824
+Which is just staggering.
+
+00:00:39.824 --> 00:00:40.824
+Right.
+
+00:00:40.824 --> 00:00:42.344
+I mean, welcome to today's deep dive.
+
+00:00:42.344 --> 00:00:46.444
+We're so glad you could join us because in an industry where just, you know, securing
+
+00:00:46.444 --> 00:00:50.064
+wafer allocation and getting silicon out the door is a total logistical nightmare.
+
+00:00:50.064 --> 00:00:51.064
+Absolutely.
+
+00:00:51.064 --> 00:00:54.464
+Capturing an actor four and a half billion dollars in a single year with older technology
+
+00:00:54.464 --> 00:00:56.144
+is just, well, it's a glaring contradiction.
+
+00:00:56.144 --> 00:00:57.144
+Yeah.
+
+00:00:57.144 --> 00:00:59.944
+And what's fascinating here is that this completely upends the traditional Silicon
+
+00:00:59.944 --> 00:01:00.944
+Valley narrative.
+
+00:01:00.944 --> 00:01:06.924
+Well, we are wired to assume that the fastest, most power efficient processor, automatic
+
+00:01:06.924 --> 00:01:12.524
+wins the market, right? Like best specs win. Sure. That's tech 101. Exactly. But the sources we are
+
+00:01:12.524 --> 00:01:17.804
+looking at today reveal a completely different reality. This massive revenue surge. It's not
+
+00:01:17.804 --> 00:01:24.524
+about making a faster chip. It's a masterclass in how a company leverages structural market forces
+
+00:01:24.524 --> 00:01:30.124
+and navigates this unprecedented web of global regulations. They're essentially
+
+00:01:30.124 --> 00:01:34.284
+rearchitecting their whole approach to AI just to play the hand they redoubt.
+
+00:01:34.284 --> 00:01:36.444
+Precisely. They're playing the board, not just the cards.
+
+00:01:36.444 --> 00:01:40.704
+Okay, let's unpack this hand they were dealt, because getting to $12 billion, that's not
+
+00:01:40.704 --> 00:01:42.204
+just theoretical futures, right?
+
+00:01:42.204 --> 00:01:43.204
+This is happening right now.
+
+00:01:43.204 --> 00:01:44.204
+Yeah.
+
+00:01:44.204 --> 00:01:47.724
+The reports indicate that Chinese tech groups are actively taking delivery of this specific
+
+00:01:47.724 --> 00:01:49.724
+processor called the 950PR.
+
+00:01:49.724 --> 00:01:51.124
+Right, the PR model.
+
+00:01:51.124 --> 00:01:55.084
+And it just entered mass production in March, so it is fresh off the line and demand is
+
+00:01:55.084 --> 00:01:57.724
+already way outstripping supply.
+
+00:01:57.724 --> 00:02:01.884
+Plus they have an upgraded version, the 950DT, slated for the fourth quarter.
+
+00:02:01.884 --> 00:02:04.204
+Yeah, the roadmap is aggressive.
+
+00:02:04.204 --> 00:02:08.124
+But designing a chip architecture, that's really only half the battle.
+
+00:02:08.124 --> 00:02:09.124
+Oh for sure.
+
+00:02:09.124 --> 00:02:13.604
+Actually, manufacturing 7 nanometer or even older node silicon at this kind of blistering
+
+00:02:13.604 --> 00:02:17.884
+scale, it requires massive physical infrastructure.
+
+00:02:17.884 --> 00:02:23.044
+So for Huawei to scale up production by 60% in a heavily sanctioned environment, they
+
+00:02:23.044 --> 00:02:26.004
+need serious manufacturing muscle inside China.
+
+00:02:26.004 --> 00:02:28.324
+So how are they physically pulling this off?
+
+00:02:28.324 --> 00:02:31.164
+They are leaning almost entirely on SMEC.
+
+00:02:31.164 --> 00:02:33.724
+That's the Semiconductor Manufacturing International Corporation.
+
+00:02:33.724 --> 00:02:36.404
+Okay, SMIC. Yeah, SEMMIC is China's leading
+
+00:02:36.404 --> 00:02:41.584
+Dementic Fabrication Plan. And to handle this kind of volume, especially on older
+
+00:02:41.584 --> 00:02:45.924
+lithography equipment, you basically had to throw brute force and just sheer
+
+00:02:45.924 --> 00:02:48.964
+physical space at the problem. Because they don't have the newest machines.
+
+00:02:48.964 --> 00:02:53.924
+Right, because they cannot access the most advanced extreme ultraviolet
+
+00:02:53.924 --> 00:02:58.404
+lithography machines, the UV machines. So manufacturing these chips involves
+
+00:02:58.404 --> 00:03:03.324
+these really complex multi-patterning processes. And that naturally leads to
+
+00:03:03.324 --> 00:03:07.244
+lower yields per wafer. You just get fewer working chips out of every batch.
+
+00:03:07.244 --> 00:03:12.044
+Ah, okay. So you're putting in the same amount of work but getting less usable product at the end?
+
+00:03:12.044 --> 00:03:17.884
+Exactly. So to compensate for those lower yields and still hit that $12 billion revenue mark,
+
+00:03:17.884 --> 00:03:23.164
+SecMIC is scaling up super aggressively. Later this year, two additional fabrication
+
+00:03:23.164 --> 00:03:28.604
+plants are scheduled to launch and they are dedicated specifically to Huawei's AI chip needs.
+
+00:03:28.604 --> 00:03:32.124
+Wow. So they are essentially building their way out of a yield problem.
+
+00:03:32.124 --> 00:03:35.964
+Basically, if you can't get as many good chips out of a single silicon wafer
+
+00:03:35.964 --> 00:03:41.324
+You just build entire new factories to process way more wafers just flood the zone with sheer volume
+
+00:03:41.324 --> 00:03:46.964
+But wait that still leaves the fundamental performance gap the sources explicitly state that even the newest
+
+00:03:47.484 --> 00:03:53.444
+950 PR lags Nvidia's advanced products by what two generations at least two generations
+
+00:03:53.444 --> 00:03:58.164
+Yeah, and in the semiconductor world a two generation gap is a lifetime
+
+00:03:58.164 --> 00:04:04.084
+I mean, it's like, okay, imagine you need to run a massive enterprise logistics company,
+
+00:04:04.084 --> 00:04:09.484
+but you can only buy independent locally made delivery vans instead of the top of the line
+
+00:04:09.484 --> 00:04:10.484
+freight trucks.
+
+00:04:10.484 --> 00:04:11.484
+Right.
+
+00:04:11.484 --> 00:04:12.724
+Your whole fleet is inherently slower.
+
+00:04:12.724 --> 00:04:13.724
+Exactly.
+
+00:04:13.724 --> 00:04:19.844
+So how do you capture a cutting edge AI market when your physical engines are just fundamentally
+
+00:04:19.844 --> 00:04:20.844
+slower?
+
+00:04:20.844 --> 00:04:25.924
+Because Market Access dictates the winner before specifications even factor into the
+
+00:04:25.924 --> 00:04:26.924
+equation.
+
+00:04:26.924 --> 00:04:27.924
+Okay, explain that.
+
+00:04:27.924 --> 00:04:33.284
+going back to your analogy. If you cannot legally purchase the freight truck, its horsepower is
+
+00:04:33.284 --> 00:04:38.164
+entirely irrelevant to your logistics business. You still have to move the freight so you buy
+
+00:04:38.164 --> 00:04:43.044
+the local delivery vans, even if it means buying more of them and driving them a lot harder.
+
+00:04:43.044 --> 00:04:47.684
+The technical capabilities of the hardware have become totally secondary to the geopolitical
+
+00:04:47.684 --> 00:04:52.964
+reality of who is allowed to sell what to whom. And that geopolitical reality is really the
+
+00:04:52.964 --> 00:04:55.204
+the only reason Huawei has this opening.
+
+00:04:55.204 --> 00:04:57.964
+To understand the 950PR's dominance,
+
+00:04:57.964 --> 00:05:00.404
+we have to look at what happened to the incumbent
+
+00:05:00.404 --> 00:05:03.324
+because NVIDIA absolutely owned this space, right?
+
+00:05:03.324 --> 00:05:04.524
+Oh, they dominated it.
+
+00:05:04.524 --> 00:05:06.204
+In their fiscal year 2025,
+
+00:05:06.204 --> 00:05:10.164
+they sold $17.1 billion worth of chips in China.
+
+00:05:10.164 --> 00:05:12.204
+$17.1 billion?
+
+00:05:12.204 --> 00:05:14.444
+Yes, but here's the catch.
+
+00:05:14.444 --> 00:05:16.444
+That wasn't their flagship hardware.
+
+00:05:16.444 --> 00:05:18.924
+NVIDIA had to engineer this highly specific
+
+00:05:18.924 --> 00:05:21.044
+watered-down chip called the H20.
+
+00:05:21.044 --> 00:05:22.164
+Right, the H20.
+
+00:05:22.164 --> 00:05:27.084
+They poured millions into designing a processor that deliberately throttled its own interconnect
+
+00:05:27.084 --> 00:05:31.844
+speeds in its compute performance just to stay a hair below the thresholds that would
+
+00:05:31.844 --> 00:05:33.884
+trigger U.S. export controls.
+
+00:05:33.884 --> 00:05:35.364
+That is wild to think about.
+
+00:05:35.364 --> 00:05:39.004
+They engineered a product solely to fit through a regulatory loophole.
+
+00:05:39.004 --> 00:05:40.004
+Exactly.
+
+00:05:40.004 --> 00:05:43.084
+The H-20 was Nvidia's lifeline to the Chinese market.
+
+00:05:43.084 --> 00:05:46.484
+It allowed them to comply with Washington's rules while still providing Chinese tech
+
+00:05:46.484 --> 00:05:51.884
+firms with the familiar Nvidia software ecosystem, even if it was on slightly degraded hardware.
+
+00:05:51.884 --> 00:05:57.164
+But then Washington closed the loophole, a year ago the US government outright banned
+
+00:05:57.164 --> 00:06:03.504
+the sale of the H20 to China, the legal threshold moved, and suddenly Nvidia's $17 billion revenue
+
+00:06:03.504 --> 00:06:06.484
+stream was just cut off.
+
+00:06:06.484 --> 00:06:11.584
+So since then, Nvidia has been desperately trying to navigate a path back in.
+
+00:06:11.584 --> 00:06:15.104
+Which brings us to their newest hardware, the H200.
+
+00:06:15.104 --> 00:06:19.984
+And back in March, Nvidia CEO Jensen Huang announced that the company had finally secured
+
+00:06:19.984 --> 00:06:25.584
+U.S. export licenses to sell the new H-200 chips to Chinese clients.
+
+00:06:25.584 --> 00:06:28.464
+Right. And on paper, it looked like the freeze was over.
+
+00:06:28.464 --> 00:06:30.304
+Yeah, everyone thought, okay, they're back in business.
+
+00:06:30.304 --> 00:06:34.064
+It appeared that way to the market, but the actual logistics on the ground tell a completely
+
+00:06:34.064 --> 00:06:38.624
+different story. The sources highlight this staggering detail. Despite Nvidia holding
+
+00:06:38.624 --> 00:06:43.904
+those U.S. licenses since March, exactly zero shipments of the H-200 have been made to China.
+
+00:06:43.904 --> 00:06:45.824
+Wait, zero? Not a single chip?
+
+00:06:45.824 --> 00:06:47.664
+Not a single chip has cranked the border.
+
+00:06:47.664 --> 00:06:51.504
+Because holding a U.S. license only satisfies one half of the equation.
+
+00:06:51.504 --> 00:06:52.064
+Exactly.
+
+00:06:52.064 --> 00:06:56.304
+We are looking at this bizarre regulatory riddle where two competing governments
+
+00:06:56.304 --> 00:06:59.984
+have issued mandates that basically physically freeze the supply chain.
+
+00:06:59.984 --> 00:07:04.304
+It's a complete stalemate. On one side you have U.S. regulators
+
+00:07:04.304 --> 00:07:08.144
+requiring that any invidia chips ordered by Chinese clients
+
+00:07:08.144 --> 00:07:12.784
+must only be deployed and used inside China. The hardware cannot leave the country.
+
+00:07:12.784 --> 00:07:15.264
+Right, to prevent it from going to third parties I assume.
+
+00:07:15.264 --> 00:07:20.864
+Exactly. But meanwhile, Beijing has issued its own strict directives. They told Chinese tech
+
+00:07:20.864 --> 00:07:26.224
+companies to buy domestic hardware, like Huawei, for all internal domestic data centers.
+
+00:07:26.224 --> 00:07:26.864
+Okay.
+
+00:07:26.864 --> 00:07:32.624
+And they actively restricted any use of Nvidia chips to only their overseas operations.
+
+00:07:32.624 --> 00:07:35.424
+Wait, so the conditions are mutually exclusive?
+
+00:07:35.424 --> 00:07:39.024
+Completely. The US demands the chips stay inside China,
+
+00:07:39.024 --> 00:07:42.144
+and Beijing demands the chips only be used outside of China.
+
+00:07:42.144 --> 00:07:47.424
+Oh my god, it's like two divorced parents dictating roles for a teenager with a family car.
+
+00:07:47.424 --> 00:07:50.224
+Mom says you are only allowed to drive the car on the highway.
+
+00:07:50.224 --> 00:07:52.944
+Dad says you're only allowed to drive the car in the driveway.
+
+00:07:52.944 --> 00:07:54.304
+That's the perfect analogy.
+
+00:07:54.304 --> 00:07:55.984
+The result isn't a compromise.
+
+00:07:55.984 --> 00:07:59.904
+The result is the car literally sits parked with the engine off.
+
+00:07:59.904 --> 00:08:03.184
+There's literally no customs clearance for the H-200.
+
+00:08:03.184 --> 00:08:04.944
+None. You have willing buyers.
+
+00:08:04.944 --> 00:08:05.904
+You have willing sellers.
+
+00:08:05.904 --> 00:08:07.824
+You have the inventory sitting there,
+
+00:08:07.824 --> 00:08:11.664
+but the product cannot legally exist in any physical location.
+
+00:08:11.664 --> 00:08:17.504
+That is just mind-bending. And so this stalemate forces the hands of the Chinese tech giants.
+
+00:08:17.504 --> 00:08:21.824
+They have no choice. I mean, they have these aggressive roadmaps for deploying large language
+
+00:08:21.824 --> 00:08:26.784
+models, right? They cannot sit around waiting for Washington and Beijing to resolve a geopolitical
+
+00:08:26.784 --> 00:08:31.904
+standoff. Right. The compute demand is immediate. Exactly. So this gridlock is exactly what hands
+
+00:08:31.904 --> 00:08:38.704
+Huawei a captive multi-billion dollar market. But having a captive market doesn't automatically
+
+00:08:38.704 --> 00:08:42.624
+mean your product works for the end user. I mean, if I'm a Chinese tech giant building
+
+00:08:42.624 --> 00:08:48.064
+the next massive AI agent, I still have to deliver a product that processes user prompts instantly.
+
+00:08:48.064 --> 00:08:51.904
+You still have a business to run. Yeah, I can't apologize to my users for
+
+00:08:51.904 --> 00:08:55.664
+high latency just because I was forced by regulators to buy older Silicon.
+
+00:08:55.664 --> 00:08:58.864
+Huawei still has to take hardware that is two generations behind
+
+00:08:58.864 --> 00:09:01.984
+and somehow make it viable for state-of-the-art AI.
+
+00:09:01.984 --> 00:09:06.224
+And that requires a massive shift in how the hardware is actually utilized.
+
+00:09:06.224 --> 00:09:11.664
+See, Huawei recognized pretty quickly they could not win a head-to-head race on raw computing power,
+
+00:09:12.304 --> 00:09:17.744
+so they changed the race. They executed this really brilliant strategic technical pivot.
+
+00:09:18.384 --> 00:09:23.984
+Rather than trying to match Nvidia in the brutally compute heavy phase of AI model training,
+
+00:09:23.984 --> 00:09:28.544
+Huawei positioned the 950PR architecture specifically for inference.
+
+00:09:28.544 --> 00:09:31.584
+Okay, let's define those terms for the lesson because it's a crucial distinction.
+
+00:09:31.584 --> 00:09:36.944
+And anyone building models knows that training is like studying for a massive final exam.
+
+00:09:36.944 --> 00:09:39.544
+You're reading all the books, making millions of connections.
+
+00:09:39.544 --> 00:09:45.224
+It requires moving massive matrices, constantly updating billions of parameters across thousands
+
+00:09:45.224 --> 00:09:46.224
+of GPUs.
+
+00:09:46.224 --> 00:09:47.224
+Right.
+
+00:09:47.224 --> 00:09:48.224
+It requires insane compute density.
+
+00:09:48.224 --> 00:09:49.504
+That's a lawless memory bandwidth.
+
+00:09:49.504 --> 00:09:52.024
+But inference, that's actually taking the test.
+
+00:09:52.024 --> 00:09:56.184
+That's the forward pass, where the model is simply generating a response, like when
+
+00:09:56.184 --> 00:09:57.944
+you type a prompt into an LLN.
+
+00:09:57.944 --> 00:09:58.944
+Exactly.
+
+00:09:58.944 --> 00:10:00.184
+And inference is a totally different beast.
+
+00:10:00.184 --> 00:10:03.464
+is highly memory bandwidth constrained, sure,
+
+00:10:03.464 --> 00:10:07.144
+but it requires significantly fewer raw compute cycles
+
+00:10:07.144 --> 00:10:09.864
+per operation than the training phase.
+
+00:10:09.864 --> 00:10:13.024
+So Huawei is placing a huge bet here.
+
+00:10:13.024 --> 00:10:16.184
+A massive debt on the long-term economics of AI.
+
+00:10:16.184 --> 00:10:17.264
+Think about it.
+
+00:10:17.264 --> 00:10:19.264
+Training a trillion parameter model
+
+00:10:19.264 --> 00:10:22.064
+is this massive episodic capital expenditure.
+
+00:10:22.064 --> 00:10:23.264
+It happens periodically.
+
+00:10:23.264 --> 00:10:25.144
+Right, you do it once every few months or whatever.
+
+00:10:25.144 --> 00:10:27.064
+Exactly, but inference.
+
+00:10:27.064 --> 00:10:31.124
+Inference happens every single time a user queries an AI
+
+00:10:31.124 --> 00:10:35.804
+assistant or asks a car to navigate or has a customer
+
+00:10:35.804 --> 00:10:37.364
+service bot rewrite an email.
+
+00:10:37.364 --> 00:10:38.084
+Oh, wow.
+
+00:10:38.084 --> 00:10:41.924
+So as AI agents scale globally, the sheer volume of daily
+
+00:10:41.924 --> 00:10:43.844
+inference requests will just absolutely
+
+00:10:43.844 --> 00:10:46.524
+dwarf the compute cycles spent on training.
+
+00:10:46.524 --> 00:10:47.964
+By orders of magnitude.
+
+00:10:47.964 --> 00:10:50.844
+By tailoring the 950 PR for inference workloads,
+
+00:10:50.844 --> 00:10:53.524
+Huawei is positioning itself at the largest choke point
+
+00:10:53.524 --> 00:10:54.884
+of future AI demand.
+
+00:10:54.884 --> 00:10:59.684
+Okay, but optimizing for inference doesn't magically erase a two-generation hardware lag.
+
+00:10:59.684 --> 00:11:05.884
+Inference still requires shuffling massive amounts of data across the chip incredibly fast to generate those tokens without a delay.
+
+00:11:05.884 --> 00:11:13.184
+So if an individual 950PR is still slower than an Nvidia counterpart, how are they keeping the end user experience from feeling totally sluggish?
+
+00:11:13.184 --> 00:11:20.684
+This is where it gets really clever. They mitigate the individual chip weakness by leveraging their historical core competency.
+
+00:11:20.684 --> 00:11:25.764
+You have to remember, before Huawei was an AI chip manufacturer, they were one of the
+
+00:11:25.764 --> 00:11:27.964
+world's largest telecommunications companies.
+
+00:11:27.964 --> 00:11:28.964
+Oh, right.
+
+00:11:28.964 --> 00:11:29.964
+Telecom.
+
+00:11:29.964 --> 00:11:33.164
+Their foundational expertise is in networking.
+
+00:11:33.164 --> 00:11:39.004
+So they take these 950PR processors and wire them together using highly advanced proprietary
+
+00:11:39.004 --> 00:11:40.364
+interconnects.
+
+00:11:40.364 --> 00:11:45.444
+They build these massive computing clusters where the latency between the chips is minimized.
+
+00:11:45.444 --> 00:11:50.444
+So it's like realizing your single-star player isn't as fast as the opponent, so you
+
+00:11:50.444 --> 00:11:55.884
+You build a highly coordinated team of slightly slower players who pass the ball perfectly.
+
+00:11:55.884 --> 00:11:57.124
+That's exactly it.
+
+00:11:57.124 --> 00:11:59.284
+The network essentially becomes the computer.
+
+00:11:59.284 --> 00:12:03.084
+If your single processor can't handle the parameter weights fast enough, you distribute
+
+00:12:03.084 --> 00:12:05.924
+the load across a highly coordinated cluster.
+
+00:12:05.924 --> 00:12:10.204
+It's all about how efficiently they can pass data east to west inside the data center,
+
+00:12:10.204 --> 00:12:13.324
+totally bypassing the bottleneck of the individual silicon.
+
+00:12:13.324 --> 00:12:16.324
+And we actually have real-world proof that this is working, right?
+
+00:12:16.324 --> 00:12:17.324
+We do.
+
+00:12:17.324 --> 00:12:21.604
+The sources provide concrete proof that this distributed architecture is functioning at
+
+00:12:21.604 --> 00:12:25.044
+the absolute frontier of AI development.
+
+00:12:25.044 --> 00:12:29.844
+DeepSeq, which has shocked the industry recently with its highly efficient models, they utilized
+
+00:12:29.844 --> 00:12:34.884
+Huawei's 950PR for their latest DeepSeq V4 architecture.
+
+00:12:34.884 --> 00:12:39.364
+And DeepSeq is the perfect test case for this, because they are notoriously obsessed
+
+00:12:39.364 --> 00:12:41.524
+with driving down compute costs.
+
+00:12:41.524 --> 00:12:42.724
+They really are.
+
+00:12:42.724 --> 00:12:47.644
+And according to the reports, by deploying Huawei's clustered chips, Deepseq achieved
+
+00:12:47.644 --> 00:12:53.164
+improved inference efficiency, and they noticeably reduced their operating costs compared to foreign
+
+00:12:53.164 --> 00:12:54.164
+hardware alternatives.
+
+00:12:54.164 --> 00:12:55.164
+Wow.
+
+00:12:55.164 --> 00:12:56.164
+Yeah.
+
+00:12:56.164 --> 00:12:59.244
+Huawei proved their networking architecture could genuinely compensate for older lithography
+
+00:12:59.244 --> 00:13:00.244
+at scale.
+
+00:13:00.244 --> 00:13:03.284
+But, and this is a big, but let's look at the critical nuance buried in that Deepseq
+
+00:13:03.284 --> 00:13:04.284
+report.
+
+00:13:04.284 --> 00:13:06.964
+Deepseq deployed the 950PR specifically for inference.
+
+00:13:06.964 --> 00:13:07.964
+Right.
+
+00:13:07.964 --> 00:13:11.244
+But the sources explicitly state that the vast majority of the computationally punishing
+
+00:13:11.244 --> 00:13:15.644
+work, the actual training of the V4 model was still executed on NVIDIA's chips.
+
+00:13:15.644 --> 00:13:21.404
+Huawei's networking clusters are impressive, but NVIDIA's raw compute dominance in the training phase
+
+00:13:21.404 --> 00:13:27.164
+remains largely unbroken. It highlights a really fractured pipeline. We are seeing companies
+
+00:13:27.164 --> 00:13:32.764
+train their foundational models on whatever advanced NVIDIA silicon they managed to hoard
+
+00:13:32.764 --> 00:13:36.604
+before the expert controls tightened. Right, their stockpiles. Yeah, their stockpiles.
+
+00:13:36.604 --> 00:13:41.164
+And then they deploy the finished model onto massive clusters of Huawei chips
+
+00:13:41.164 --> 00:13:43.604
+for the daily inference workloads.
+
+00:13:43.604 --> 00:13:46.524
+But hardware clustering only solves the physical bottleneck.
+
+00:13:46.524 --> 00:13:48.844
+I mean, silicon is basically just expensive sand
+
+00:13:48.844 --> 00:13:50.564
+without the software to run it.
+
+00:13:50.564 --> 00:13:51.284
+Very true.
+
+00:13:51.284 --> 00:13:53.884
+And here's where it gets really interesting.
+
+00:13:53.884 --> 00:13:57.124
+Because NVIDIA's true moat, the reason developers
+
+00:13:57.124 --> 00:13:59.444
+so aggressively defend using their chips,
+
+00:13:59.444 --> 00:14:02.004
+isn't just the physical hardware, it's CUDA.
+
+00:14:02.004 --> 00:14:02.884
+CUDA, yes.
+
+00:14:02.884 --> 00:14:05.644
+NVIDIA's proprietary software platform.
+
+00:14:05.644 --> 00:14:08.324
+It is arguably the most dominant ecosystem
+
+00:14:08.324 --> 00:14:09.684
+in modern technology.
+
+00:14:09.684 --> 00:14:11.084
+It's insane.
+
+00:14:11.084 --> 00:14:17.004
+If we connect this to the bigger picture, CUDA is the invisible gravity holding NVIDIA's
+
+00:14:17.004 --> 00:14:19.604
+entire monopoly together.
+
+00:14:19.604 --> 00:14:25.164
+They have spent over 15 years building out these libraries, optimizing primitives, refining
+
+00:14:25.164 --> 00:14:30.884
+the tools that developers use to compile code for their GPUs, and entire generations
+
+00:14:30.884 --> 00:14:35.324
+of AI researchers have built their careers exclusively writing in CUDA.
+
+00:14:35.324 --> 00:14:41.044
+It is deeply, deeply embedded in the academic and commercial foundation of artificial intelligence.
+
+00:14:41.044 --> 00:14:45.244
+So to compete with Nvidia, you don't just have to manufacture a viable chip.
+
+00:14:45.244 --> 00:14:49.724
+You have to convince a global workforce of developers to abandon a 15-year-old highly
+
+00:14:49.724 --> 00:14:53.124
+optimized language and learn yours completely from scratch.
+
+00:14:53.124 --> 00:14:55.404
+And that's Huawei's biggest bottleneck.
+
+00:14:55.404 --> 00:14:59.404
+Because they're alternative, their software ecosystem, which is called CAN, it started
+
+00:14:59.404 --> 00:15:01.604
+development a full decade after CUDA.
+
+00:15:01.604 --> 00:15:03.164
+A decade late to the party.
+
+00:15:03.164 --> 00:15:04.164
+Yeah.
+
+00:15:04.164 --> 00:15:07.204
+And that decade-long head start translates into massive friction on the ground.
+
+00:15:07.204 --> 00:15:10.984
+The sources are really clear that developers inside China frequently struggle with CAN.
+
+00:15:10.984 --> 00:15:11.984
+I can imagine.
+
+00:15:11.984 --> 00:15:16.744
+It just lacks that deep reservoir of pre-built libraries that CUDA offers.
+
+00:15:16.744 --> 00:15:21.304
+When a developer encounters, say, a memory leak or a performance bottleneck, CUDA has
+
+00:15:21.304 --> 00:15:26.224
+a massive community and sophisticated debugging tools to solve it almost instantly.
+
+00:15:26.224 --> 00:15:27.504
+But with CAN?
+
+00:15:27.504 --> 00:15:31.984
+With CAN, developers often have to write low-level kernels from scratch and spend weeks debugging
+
+00:15:31.984 --> 00:15:35.504
+issues that would have taken literally hours on NVIDIA's platform.
+
+00:15:35.504 --> 00:15:36.504
+Wow.
+
+00:15:36.504 --> 00:15:41.464
+totally shifts the cost equation. Like the DeepSeap report mentioned reduced costs for inference,
+
+00:15:41.464 --> 00:15:46.344
+but if you are an enterprise client adopting Huawei hardware, the savings you get on the physical
+
+00:15:46.344 --> 00:15:51.224
+chips could easily be obliterated by the increased labor costs of your engineering team
+
+00:15:51.224 --> 00:15:56.104
+to struggling to optimize code on CAN. The engineering overhead is severe. Now Huawei is
+
+00:15:56.104 --> 00:16:00.664
+aggressively updating the software, pushing new releases constantly, but the developers themselves
+
+00:16:00.664 --> 00:16:05.704
+report that the gap in usability and efficiency compared to CUDA is still a major barrier to
+
+00:16:05.704 --> 00:16:10.064
+adoption. So they have hardware that's two generations behind and software that
+
+00:16:10.064 --> 00:16:14.344
+developers find frustrating to use. Despite all of that, despite this massive
+
+00:16:14.344 --> 00:16:18.344
+software friction and the inherent limitations of 7 nanometer hardware,
+
+00:16:18.344 --> 00:16:23.384
+the financial forecasts for Huawei's trajectory are just staggering. We have a
+
+00:16:23.384 --> 00:16:26.464
+detailed projection here from Morgan Stanley that completely reframes the
+
+00:16:26.464 --> 00:16:29.784
+scale of this shift. Yeah, Morgan Stanley's analysis is fascinating
+
+00:16:29.784 --> 00:16:34.184
+because it looks past the immediate technical bottlenecks and focuses on the
+
+00:16:34.184 --> 00:16:40.024
+underlying macro trends. They estimate that the domestic AI chip market in China currently sits
+
+00:16:40.024 --> 00:16:46.424
+at roughly $21 billion. Okay, $21 billion this year. But by 2030, they forecast that market will
+
+00:16:46.424 --> 00:16:53.944
+expand to a massive $67 billion. That is huge. And the critical data point in their forecast
+
+00:16:53.944 --> 00:16:58.584
+isn't just the size of the market, it's who owns it. Morden Stanley projects that by 2030,
+
+00:16:58.584 --> 00:17:03.704
+86 percent of that 67 billion dollar market will be supplied by Chinese domestic players like
+
+00:17:03.704 --> 00:17:07.464
+Huawei. 86 percent. I mean that essentially represents total market capture. It effectively
+
+00:17:07.464 --> 00:17:12.504
+shuts out foreign silicon from the world's second largest economy. But how does an investment bank
+
+00:17:12.504 --> 00:17:18.744
+look at an ecosystem severely hindered by older hardware and a highly fractured software platform
+
+00:17:18.744 --> 00:17:25.224
+like CAN and confidently predict total dominance? Like how does that make sense? Because they view
+
+00:17:25.224 --> 00:17:30.264
+the regulatory environment not as a passing storm but as the new permanent climate.
+
+00:17:30.264 --> 00:17:36.184
+Oh interesting. Yeah the analysts explicitly noted that two structural forces are shaping this
+
+00:17:36.184 --> 00:17:41.464
+reality. First is the exponential rise in demand for AI inference we discussed earlier. Right.
+
+00:17:41.464 --> 00:17:47.064
+But second and more importantly are the persistent export controls. Morgan Stanley argues these
+
+00:17:47.064 --> 00:17:51.784
+controls make localization a long duration feature of a market rather than just some
+
+00:17:51.784 --> 00:17:56.424
+temporary policy response. A long duration feature. They're acknowledging that the geopolitical lines
+
+00:17:56.424 --> 00:18:00.344
+have been drawn in permanent ink. Exactly. The export restrictions aren't going to just be lifted
+
+00:18:00.344 --> 00:18:04.824
+in the year or two. Right. And when a multi-billion dollar market is permanently isolated from the
+
+00:18:04.824 --> 00:18:10.344
+global supply chain, domestic companies have a guaranteed highly lucrative captive audience.
+
+00:18:11.624 --> 00:18:16.184
+So that guaranteed revenue, like the 12 billion Huawei is pulling in just this year,
+
+00:18:16.824 --> 00:18:21.464
+that funds the iterative research they need to eventually solve the software friction with
+
+00:18:21.464 --> 00:18:24.984
+can and push their lithography forward.
+
+00:18:24.984 --> 00:18:26.504
+You hit the nail on the head.
+
+00:18:26.504 --> 00:18:32.284
+When survival requires localization, the domestic ecosystem will eventually adapt.
+
+00:18:32.284 --> 00:18:37.424
+They will brute force the software optimizations because they literally have no other choice.
+
+00:18:37.424 --> 00:18:42.224
+And this forced evolution is exactly what NVIDIA's leadership is monitoring with intense
+
+00:18:42.224 --> 00:18:43.224
+concern.
+
+00:18:43.224 --> 00:18:48.424
+Yeah, the sources include a really revealing quote from NVIDIA CEO Jensen Phuong.
+
+00:18:48.424 --> 00:18:51.824
+This was during a recent interview with podcaster Duarkash Patel.
+
+00:18:51.824 --> 00:18:56.664
+They were specifically discussing the possibility of a top tier lab like DeepSeq optimizing their
+
+00:18:56.664 --> 00:19:01.744
+next massive frontier model to run natively on Huawei's architecture first rather than
+
+00:19:01.744 --> 00:19:03.504
+treating it as a secondary port.
+
+00:19:03.504 --> 00:19:05.064
+And Huang did not mince words.
+
+00:19:05.064 --> 00:19:08.984
+He stated unequivocally, that is a horrible outcome for our nation.
+
+00:19:08.984 --> 00:19:09.984
+Notice the phrasing there.
+
+00:19:09.984 --> 00:19:13.144
+He didn't frame it as a threat to Nvidia's quarterly earnings.
+
+00:19:13.144 --> 00:19:15.264
+He didn't say it's a problem for corporate market share.
+
+00:19:15.264 --> 00:19:16.264
+No, not at all.
+
+00:19:16.264 --> 00:19:22.264
+elevated it to a national security and technological sovereignty issue, a horrible outcome for our
+
+00:19:22.264 --> 00:19:23.264
+nation.
+
+00:19:23.264 --> 00:19:27.224
+Because he understands the endpoint of Morgan Stanley's structural forces.
+
+00:19:27.224 --> 00:19:32.904
+If the world's second largest economy is forced to build a completely independent parallel
+
+00:19:32.904 --> 00:19:36.944
+tech stack from the silicon layer up through the software primitives and right into the
+
+00:19:36.944 --> 00:19:41.744
+frontier models, it breaks the unified global ecosystem.
+
+00:19:41.744 --> 00:19:42.744
+Right.
+
+00:19:42.744 --> 00:19:48.184
+Hong warned that this trajectory leads directly to a scenario where, and I'll quote him again,
+
+00:19:48.184 --> 00:19:52.744
+AI models around the world are developed and they run best on non-American hardware.
+
+00:19:52.744 --> 00:19:57.144
+Wow, so what does this all mean for you, the listener? We started this deep dive with a
+
+00:19:57.144 --> 00:20:01.624
+contradiction, right? Billions of dollars flowing into two-generation old hardware.
+
+00:20:01.624 --> 00:20:02.744
+Seemed crazy at first.
+
+00:20:02.744 --> 00:20:08.024
+Totally. But as we've peeled back the layers, the logic of this tectonic shift becomes undeniably
+
+00:20:08.024 --> 00:20:14.024
+We've seen how SUMIC is scaling physical infrastructure to basically outbuild their lithography limits.
+
+00:20:14.024 --> 00:20:20.024
+We've navigated that absurd regulatory catch-22 that has physically frozen NVIDIA's H-200 shipments.
+
+00:20:20.024 --> 00:20:22.024
+The driveway versus highway rule.
+
+00:20:22.024 --> 00:20:27.024
+Exactly. And we've explored Huawei's brilliant strategic pivot away from raw compute training
+
+00:20:27.024 --> 00:20:34.024
+and toward memory bandwidth-heavy inference, utilizing their telecom IP to build those massive networking clusters.
+
+00:20:34.024 --> 00:20:39.704
+And finally, we've examined how the frictions of the CAN software platform are being slowly
+
+00:20:39.704 --> 00:20:45.304
+eroded by the sheer financial force of a permanent $67 billion captive market.
+
+00:20:45.304 --> 00:20:50.024
+The foundational takeaway here is that the physical layer of the global AI economy
+
+00:20:50.024 --> 00:20:51.624
+is bifurcating.
+
+00:20:51.624 --> 00:20:57.224
+The silicon and the code that will power autonomous agents, scientific research, global logistics,
+
+00:20:57.224 --> 00:21:01.184
+they're splitting into two entirely distinct parallel ecosystems.
+
+00:21:01.184 --> 00:21:05.344
+they're being shaped more by export controls than by pure technological merit.
+
+00:21:05.344 --> 00:21:09.304
+Which leaves me with a final, slightly unsettling thought for you to consider.
+
+00:21:09.304 --> 00:21:14.024
+Jensen Huang fears a future where the best models run natively on non-American hardware.
+
+00:21:14.024 --> 00:21:18.464
+But let's take that a step further into the daily inference you will actually rely on.
+
+00:21:18.464 --> 00:21:22.384
+If the underlying logic, the memory management, and the networking architecture
+
+00:21:22.384 --> 00:21:26.784
+of AI models become fundamentally optimized for completely different hardware
+
+00:21:26.784 --> 00:21:30.464
+and software ecosystems depending on where they are deployed,
+
+00:21:30.464 --> 00:21:33.904
+Will the actual intelligence of these systems begin to diverge?
+
+00:21:33.904 --> 00:21:34.624
+Oh, wow.
+
+00:21:34.624 --> 00:21:37.264
+Could we be heading toward a fractured reality where
+
+00:21:37.264 --> 00:21:40.904
+an AI assistance reasoning its efficiency and its capabilities
+
+00:21:40.904 --> 00:21:43.664
+are fundamentally different simply because of the silicon
+
+00:21:43.664 --> 00:21:44.904
+it was forced to run on?
+
+00:21:44.904 --> 00:21:48.184
+It's a complex structural shift, and the implications
+
+00:21:48.184 --> 00:21:51.584
+will touch every single layer of technology moving forward.
+
+00:21:51.584 --> 00:21:53.504
+Thank you for joining us on this deep dive.
+
+00:21:53.504 --> 00:21:55.384
+Keep questioning the physical realities
+
+00:21:55.384 --> 00:21:57.424
+beneath the software you use every day,
+
+00:21:57.424 --> 00:21:59.664
+and we'll see you next time.
+

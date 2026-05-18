@@ -1,0 +1,3628 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 3.38,
+      "sid": 1,
+      "location": 2,
+      "content": "今天我们要聊的呢是人工智能的供应链啊",
+      "music": 0.0
+    },
+    {
+      "from": 3.38,
+      "to": 5.84,
+      "sid": 2,
+      "location": 2,
+      "content": "以及工业企业的利润回升",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 8.64,
+      "sid": 3,
+      "location": 2,
+      "content": "是如何带动中国一线城市的房地产",
+      "music": 0.0
+    },
+    {
+      "from": 8.64,
+      "to": 9.92,
+      "sid": 4,
+      "location": 2,
+      "content": "需求和价格的",
+      "music": 0.0
+    },
+    {
+      "from": 9.92,
+      "to": 10.92,
+      "sid": 5,
+      "location": 2,
+      "content": "还有为什么",
+      "music": 0.0
+    },
+    {
+      "from": 10.92,
+      "to": 14.44,
+      "sid": 6,
+      "location": 2,
+      "content": "现在这个房地产的投资机会主要集中在那些",
+      "music": 0.0
+    },
+    {
+      "from": 14.44,
+      "to": 16.92,
+      "sid": 7,
+      "location": 2,
+      "content": "在一线城市有大量布局的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 16.92,
+      "to": 19.02,
+      "sid": 8,
+      "location": 2,
+      "content": "没错这个话题最近真的很火",
+      "music": 0.0
+    },
+    {
+      "from": 19.02,
+      "to": 20.92,
+      "sid": 9,
+      "location": 2,
+      "content": "那我们就直接开始今天的讨论吧",
+      "music": 0.0
+    },
+    {
+      "from": 20.92,
+      "to": 22.52,
+      "sid": 10,
+      "location": 2,
+      "content": "好的我们先来说一下",
+      "music": 0.0
+    },
+    {
+      "from": 22.52,
+      "to": 25.47,
+      "sid": 11,
+      "location": 2,
+      "content": "就是中国房地产行业的需求端的变化",
+      "music": 0.0
+    },
+    {
+      "from": 25.47,
+      "to": 27.41,
+      "sid": 12,
+      "location": 2,
+      "content": "以及我们对于未来的价格",
+      "music": 0.0
+    },
+    {
+      "from": 27.41,
+      "to": 28.87,
+      "sid": 13,
+      "location": 2,
+      "content": "到底是一个什么样的判断",
+      "music": 0.0
+    },
+    {
+      "from": 28.87,
+      "to": 30.77,
+      "sid": 14,
+      "location": 2,
+      "content": "首先我想问的就是",
+      "music": 0.0
+    },
+    {
+      "from": 30.77,
+      "to": 33.77,
+      "sid": 15,
+      "location": 2,
+      "content": "最近我们对于中国房地产行业的看法",
+      "music": 0.0
+    },
+    {
+      "from": 33.77,
+      "to": 35.25,
+      "sid": 16,
+      "location": 2,
+      "content": "是不是变得更积极了",
+      "music": 0.0
+    },
+    {
+      "from": 35.25,
+      "to": 36.47,
+      "sid": 17,
+      "location": 2,
+      "content": "如果是的话",
+      "music": 0.0
+    },
+    {
+      "from": 36.47,
+      "to": 39.07,
+      "sid": 18,
+      "location": 2,
+      "content": "有哪些核心的因素导致了这个变化",
+      "music": 0.0
+    },
+    {
+      "from": 39.07,
+      "to": 41.19,
+      "sid": 19,
+      "location": 2,
+      "content": "是有变得更积极",
+      "music": 0.0
+    },
+    {
+      "from": 41.19,
+      "to": 42.98,
+      "sid": 20,
+      "location": 2,
+      "content": "其实主要是有三个因素吧",
+      "music": 0.0
+    },
+    {
+      "from": 42.98,
+      "to": 45.4,
+      "sid": 21,
+      "location": 2,
+      "content": "第一个呢就是工业企业的利润在上升",
+      "music": 0.0
+    },
+    {
+      "from": 45.4,
+      "to": 46.42,
+      "sid": 22,
+      "location": 2,
+      "content": "特别是人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 46.42,
+      "to": 48.97,
+      "sid": 23,
+      "location": 2,
+      "content": "供应链相关的一些工业企业的利润在上升",
+      "music": 0.0
+    },
+    {
+      "from": 48.97,
+      "to": 51.09,
+      "sid": 24,
+      "location": 2,
+      "content": "然后呢就是PPI也转正了啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.09,
+      "to": 54.04,
+      "sid": 25,
+      "location": 2,
+      "content": "这是我们在呃策略报告里面有讲到过的",
+      "music": 0.0
+    },
+    {
+      "from": 54.04,
+      "to": 57.14,
+      "sid": 26,
+      "location": 2,
+      "content": "就是经济已经出现了一些复苏的苗头哦",
+      "music": 0.0
+    },
+    {
+      "from": 59.34,
+      "to": 60.9,
+      "sid": 27,
+      "location": 2,
+      "content": "带动了房地产的预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.9,
+      "to": 61.7,
+      "sid": 28,
+      "location": 2,
+      "content": "没错没错",
+      "music": 0.0
+    },
+    {
+      "from": 61.7,
+      "to": 62.7,
+      "sid": 29,
+      "location": 2,
+      "content": "然后第二个呢",
+      "music": 0.0
+    },
+    {
+      "from": 62.7,
+      "to": 65.65,
+      "sid": 30,
+      "location": 2,
+      "content": "就是呃企业的盈利能力提升了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 65.65,
+      "to": 67.49,
+      "sid": 31,
+      "location": 2,
+      "content": "它的股价也在上涨",
+      "music": 0.0
+    },
+    {
+      "from": 67.49,
+      "to": 70.5,
+      "sid": 32,
+      "location": 2,
+      "content": "对所以这带来了比较强的财富效应",
+      "music": 0.0
+    },
+    {
+      "from": 70.5,
+      "to": 73.56,
+      "sid": 33,
+      "location": 2,
+      "content": "然后这些企业又大多都集中在北京上海",
+      "music": 0.0
+    },
+    {
+      "from": 73.56,
+      "to": 76.06,
+      "sid": 34,
+      "location": 2,
+      "content": "所以这也让核心城市的房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 76.06,
+      "to": 77.66,
+      "sid": 35,
+      "location": 2,
+      "content": "需求更加的明确",
+      "music": 0.0
+    },
+    {
+      "from": 77.66,
+      "to": 82.49,
+      "sid": 36,
+      "location": 2,
+      "content": "第三个呢就是一线城市的郊区的空置率在下降",
+      "music": 0.0
+    },
+    {
+      "from": 82.49,
+      "to": 84.65,
+      "sid": 37,
+      "location": 2,
+      "content": "就是之前的一些所谓的影子库存",
+      "music": 0.0
+    },
+    {
+      "from": 84.65,
+      "to": 86.49,
+      "sid": 38,
+      "location": 2,
+      "content": "基本上已经消化完了哦",
+      "music": 0.0
+    },
+    {
+      "from": 86.49,
+      "to": 88.41,
+      "sid": 39,
+      "location": 2,
+      "content": "哦那我们具体来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 88.41,
+      "to": 90.449,
+      "sid": 40,
+      "location": 2,
+      "content": "就是2026和2027年",
+      "music": 0.0
+    },
+    {
+      "from": 90.449,
+      "to": 93.189,
+      "sid": 41,
+      "location": 2,
+      "content": "我们对于一二线城市的房价是怎么看的",
+      "music": 0.0
+    },
+    {
+      "from": 93.189,
+      "to": 96.149,
+      "sid": 42,
+      "location": 2,
+      "content": "然后在投资的选择上面有哪些具体的建议",
+      "music": 0.0
+    },
+    {
+      "from": 96.149,
+      "to": 99.049,
+      "sid": 43,
+      "location": 2,
+      "content": "我们的预测是2026年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 99.049,
+      "to": 101.069,
+      "sid": 44,
+      "location": 2,
+      "content": "一线城市的房价会企稳",
+      "music": 0.0
+    },
+    {
+      "from": 101.069,
+      "to": 102.729,
+      "sid": 45,
+      "location": 2,
+      "content": "就不会再像之前一样说",
+      "music": 0.0
+    },
+    {
+      "from": 102.729,
+      "to": 104.55,
+      "sid": 46,
+      "location": 2,
+      "content": "我们预测是要跌10%",
+      "music": 0.0
+    },
+    {
+      "from": 104.55,
+      "to": 106.03,
+      "sid": 47,
+      "location": 2,
+      "content": "现在就是不跌了",
+      "music": 0.0
+    },
+    {
+      "from": 106.03,
+      "to": 107.35,
+      "sid": 48,
+      "location": 2,
+      "content": "然后二线城市呢",
+      "music": 0.0
+    },
+    {
+      "from": 107.35,
+      "to": 109.69,
+      "sid": 49,
+      "location": 2,
+      "content": "可能还是会有5%左右的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 109.69,
+      "to": 111.83,
+      "sid": 50,
+      "location": 2,
+      "content": "但是也比之前的预期要好一些",
+      "music": 0.0
+    },
+    {
+      "from": 111.83,
+      "to": 113.98,
+      "sid": 51,
+      "location": 2,
+      "content": "之前我们是觉得要跌10%",
+      "music": 0.0
+    },
+    {
+      "from": 113.98,
+      "to": 116.02,
+      "sid": 52,
+      "location": 2,
+      "content": "感觉这个分化还是挺明显的",
+      "music": 0.0
+    },
+    {
+      "from": 116.02,
+      "to": 119.06,
+      "sid": 53,
+      "location": 2,
+      "content": "对那2027年呢是不是会有一些变化",
+      "music": 0.0
+    },
+    {
+      "from": 119.06,
+      "to": 120.9,
+      "sid": 54,
+      "location": 2,
+      "content": "对到2027年的话",
+      "music": 0.0
+    },
+    {
+      "from": 120.9,
+      "to": 124.02,
+      "sid": 55,
+      "location": 2,
+      "content": "我们就觉得一线城市会有2%的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 124.02,
+      "to": 127.28,
+      "sid": 56,
+      "location": 2,
+      "content": "然后二线城市呢就会止跌持平",
+      "music": 0.0
+    },
+    {
+      "from": 127.28,
+      "to": 128.48,
+      "sid": 57,
+      "location": 2,
+      "content": "所以投资的话",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 130.18,
+      "sid": 58,
+      "location": 2,
+      "content": "我们就建议是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 130.18,
+      "to": 133.0,
+      "sid": 59,
+      "location": 2,
+      "content": "高比例布局在一线城市的这些开发商",
+      "music": 0.0
+    },
+    {
+      "from": 133.0,
+      "to": 134.97,
+      "sid": 60,
+      "location": 2,
+      "content": "比如说我们把这个中海外",
+      "music": 0.0
+    },
+    {
+      "from": 134.97,
+      "to": 139.66,
+      "sid": 61,
+      "location": 2,
+      "content": "还有贝壳经贸和建发国际都调到了买入",
+      "music": 0.0
+    },
+    {
+      "from": 139.66,
+      "to": 141.74,
+      "sid": 62,
+      "location": 2,
+      "content": "然后我们也比较看好华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 141.74,
+      "to": 144.06,
+      "sid": 63,
+      "location": 2,
+      "content": "因为它不仅在一线城市的占比高",
+      "music": 0.0
+    },
+    {
+      "from": 144.06,
+      "to": 146.78,
+      "sid": 64,
+      "location": 2,
+      "content": "还有他这个资产证券化也有比较大的空间",
+      "music": 0.0
+    },
+    {
+      "from": 146.78,
+      "to": 147.72,
+      "sid": 65,
+      "location": 2,
+      "content": "可以释放价值",
+      "music": 0.0
+    },
+    {
+      "from": 147.72,
+      "to": 148.48,
+      "sid": 66,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 148.48,
+      "to": 151.76,
+      "sid": 67,
+      "location": 2,
+      "content": "下面我们来看一下新兴产业的公司总部的分布",
+      "music": 0.0
+    },
+    {
+      "from": 151.76,
+      "to": 154.38,
+      "sid": 68,
+      "location": 2,
+      "content": "以及他们是怎么来影响房地产需求的",
+      "music": 0.0
+    },
+    {
+      "from": 154.38,
+      "to": 157.27,
+      "sid": 69,
+      "location": 2,
+      "content": "对就这一轮的工业企业利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 157.27,
+      "to": 159.59,
+      "sid": 70,
+      "location": 2,
+      "content": "主要是靠哪些行业在拉动",
+      "music": 0.0
+    },
+    {
+      "from": 159.59,
+      "to": 162.13,
+      "sid": 71,
+      "location": 2,
+      "content": "然后他们的总部都集中在哪些城市",
+      "music": 0.0
+    },
+    {
+      "from": 162.13,
+      "to": 164.49,
+      "sid": 72,
+      "location": 2,
+      "content": "其实这一轮利润的大幅增长啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.49,
+      "to": 166.01,
+      "sid": 73,
+      "location": 2,
+      "content": "15%的增长",
+      "music": 0.0
+    },
+    {
+      "from": 166.01,
+      "to": 167.51,
+      "sid": 74,
+      "location": 2,
+      "content": "它的驱动力有几个",
+      "music": 0.0
+    },
+    {
+      "from": 167.51,
+      "to": 171.12,
+      "sid": 75,
+      "location": 2,
+      "content": "一个是人工智能相关的材料的需求暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 171.12,
+      "to": 174.44,
+      "sid": 76,
+      "location": 2,
+      "content": "然后另外一个是政府的这个反内卷的政策",
+      "music": 0.0
+    },
+    {
+      "from": 174.44,
+      "to": 176.34,
+      "sid": 77,
+      "location": 2,
+      "content": "还有就是出口的高增长",
+      "music": 0.0
+    },
+    {
+      "from": 176.34,
+      "to": 178.42,
+      "sid": 78,
+      "location": 2,
+      "content": "那这里面呢呃计算机",
+      "music": 0.0
+    },
+    {
+      "from": 178.42,
+      "to": 181.78,
+      "sid": 79,
+      "location": 2,
+      "content": "通信和电子设备这几个行业是增长最快的",
+      "music": 0.0
+    },
+    {
+      "from": 181.78,
+      "to": 185.64,
+      "sid": 80,
+      "location": 2,
+      "content": "然后还有有色金属和化工也有非常亮眼的表现",
+      "music": 0.0
+    },
+    {
+      "from": 185.64,
+      "to": 189.14,
+      "sid": 81,
+      "location": 2,
+      "content": "那这些公司呢大部分的总部都设在北京",
+      "music": 0.0
+    },
+    {
+      "from": 189.14,
+      "to": 190.44,
+      "sid": 82,
+      "location": 2,
+      "content": "上海苏州",
+      "music": 0.0
+    },
+    {
+      "from": 190.44,
+      "to": 191.73,
+      "sid": 83,
+      "location": 2,
+      "content": "还有东莞诶",
+      "music": 0.0
+    },
+    {
+      "from": 191.73,
+      "to": 194.69,
+      "sid": 84,
+      "location": 2,
+      "content": "这些城市好像今年的二手房市场也特别活跃",
+      "music": 0.0
+    },
+    {
+      "from": 194.69,
+      "to": 195.77,
+      "sid": 85,
+      "location": 2,
+      "content": "是不是跟这个也有关系",
+      "music": 0.0
+    },
+    {
+      "from": 195.77,
+      "to": 196.48,
+      "sid": 86,
+      "location": 2,
+      "content": "是的是的",
+      "music": 0.0
+    },
+    {
+      "from": 196.48,
+      "to": 197.5,
+      "sid": 87,
+      "location": 2,
+      "content": "就这些城市",
+      "music": 0.0
+    },
+    {
+      "from": 197.5,
+      "to": 199.48,
+      "sid": 88,
+      "location": 2,
+      "content": "今年的二手房的交易量",
+      "music": 0.0
+    },
+    {
+      "from": 199.48,
+      "to": 201.7,
+      "sid": 89,
+      "location": 2,
+      "content": "是明显比其他城市要高的",
+      "music": 0.0
+    },
+    {
+      "from": 201.7,
+      "to": 205.75,
+      "sid": 90,
+      "location": 2,
+      "content": "那工业企业的利润和一线城市的房价的相",
+      "music": 0.0
+    },
+    {
+      "from": 205.75,
+      "to": 208.25,
+      "sid": 91,
+      "location": 2,
+      "content": "关系数是高达0.63的",
+      "music": 0.0
+    },
+    {
+      "from": 208.25,
+      "to": 210.27,
+      "sid": 92,
+      "location": 2,
+      "content": "所以这一轮的房地产的回暖",
+      "music": 0.0
+    },
+    {
+      "from": 210.27,
+      "to": 214.14,
+      "sid": 93,
+      "location": 2,
+      "content": "其实它的核心的动力是企业的盈利改善",
+      "music": 0.0
+    },
+    {
+      "from": 214.14,
+      "to": 216.88,
+      "sid": 94,
+      "location": 2,
+      "content": "而不是像以前一样是靠政策刺激",
+      "music": 0.0
+    },
+    {
+      "from": 216.88,
+      "to": 218.02,
+      "sid": 95,
+      "location": 2,
+      "content": "说的很有道理啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.02,
+      "to": 219.02,
+      "sid": 96,
+      "location": 2,
+      "content": "我们再来讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 219.02,
+      "to": 222.12,
+      "sid": 97,
+      "location": 2,
+      "content": "关于房地产的供给端和这个库存的情况",
+      "music": 0.0
+    },
+    {
+      "from": 222.12,
+      "to": 224.15,
+      "sid": 98,
+      "location": 2,
+      "content": "就是最近这一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 224.15,
+      "to": 227.81,
+      "sid": 99,
+      "location": 2,
+      "content": "一线城市的郊区的空置率和新房的供应",
+      "music": 0.0
+    },
+    {
+      "from": 227.81,
+      "to": 229.27,
+      "sid": 100,
+      "location": 2,
+      "content": "都出现了哪些新的变化",
+      "music": 0.0
+    },
+    {
+      "from": 229.27,
+      "to": 230.01,
+      "sid": 101,
+      "location": 2,
+      "content": "实际上呢",
+      "music": 0.0
+    },
+    {
+      "from": 230.01,
+      "to": 234.23,
+      "sid": 102,
+      "location": 2,
+      "content": "就是一线城市的二手房的挂牌量是在减少的",
+      "music": 0.0
+    },
+    {
+      "from": 234.23,
+      "to": 234.87,
+      "sid": 103,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 234.87,
+      "to": 238.18,
+      "sid": 104,
+      "location": 2,
+      "content": "郊区的这个空置率也比3年前有明显的下降",
+      "music": 0.0
+    },
+    {
+      "from": 238.18,
+      "to": 239.06,
+      "sid": 105,
+      "location": 2,
+      "content": "那未来的话",
+      "music": 0.0
+    },
+    {
+      "from": 239.06,
+      "to": 242.14,
+      "sid": 106,
+      "location": 2,
+      "content": "我们觉得无论是商品房还是保障房的供应",
+      "music": 0.0
+    },
+    {
+      "from": 242.14,
+      "to": 243.4,
+      "sid": 107,
+      "location": 2,
+      "content": "都会继续的收紧",
+      "music": 0.0
+    },
+    {
+      "from": 243.4,
+      "to": 246.9,
+      "sid": 108,
+      "location": 2,
+      "content": "因为过去3年新开工的面积和土地的成交",
+      "music": 0.0
+    },
+    {
+      "from": 246.9,
+      "to": 249.43,
+      "sid": 109,
+      "location": 2,
+      "content": "都是在大幅的下滑的哦",
+      "music": 0.0
+    },
+    {
+      "from": 249.43,
+      "to": 250.23,
+      "sid": 110,
+      "location": 2,
+      "content": "嘶说到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 250.23,
+      "to": 251.05,
+      "sid": 111,
+      "location": 2,
+      "content": "我有个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.05,
+      "to": 253.63,
+      "sid": 112,
+      "location": 2,
+      "content": "就是现在这个房地产板块的估值",
+      "music": 0.0
+    },
+    {
+      "from": 253.63,
+      "to": 254.87,
+      "sid": 113,
+      "location": 2,
+      "content": "处于一个什么样的水平",
+      "music": 0.0
+    },
+    {
+      "from": 254.87,
+      "to": 257.75,
+      "sid": 114,
+      "location": 2,
+      "content": "目前板块的市净率是0.66倍",
+      "music": 0.0
+    },
+    {
+      "from": 257.75,
+      "to": 261.28,
+      "sid": 115,
+      "location": 2,
+      "content": "那如果说它能够回升到过去15年的均值",
+      "music": 0.0
+    },
+    {
+      "from": 261.28,
+      "to": 263.04,
+      "sid": 116,
+      "location": 2,
+      "content": "0.85倍的话",
+      "music": 0.0
+    },
+    {
+      "from": 263.04,
+      "to": 265.28,
+      "sid": 117,
+      "location": 2,
+      "content": "其实还有30%的上涨空间",
+      "music": 0.0
+    },
+    {
+      "from": 265.28,
+      "to": 267.4,
+      "sid": 118,
+      "location": 2,
+      "content": "听起来好像是个不错的投资机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.4,
+      "to": 270.48,
+      "sid": 119,
+      "location": 2,
+      "content": "那具体到公司有没有哪些是你特别看好的",
+      "music": 0.0
+    },
+    {
+      "from": 270.48,
+      "to": 272.48,
+      "sid": 120,
+      "location": 2,
+      "content": "我们还是比较倾向于高比例布局",
+      "music": 0.0
+    },
+    {
+      "from": 272.48,
+      "to": 274.04,
+      "sid": 121,
+      "location": 2,
+      "content": "在一线城市的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 274.04,
+      "to": 278.14,
+      "sid": 122,
+      "location": 2,
+      "content": "比如说我们特别看好的是中海外建发国际金贸",
+      "music": 0.0
+    },
+    {
+      "from": 278.14,
+      "to": 279.19,
+      "sid": 123,
+      "location": 2,
+      "content": "还有贝壳",
+      "music": 0.0
+    },
+    {
+      "from": 279.19,
+      "to": 283.47,
+      "sid": 124,
+      "location": 2,
+      "content": "这几个一线城市的占比都超过了41%",
+      "music": 0.0
+    },
+    {
+      "from": 283.47,
+      "to": 285.51,
+      "sid": 125,
+      "location": 2,
+      "content": "明显高于行业的中位数",
+      "music": 0.0
+    },
+    {
+      "from": 285.51,
+      "to": 287.51,
+      "sid": 126,
+      "location": 2,
+      "content": "然后我们也上调了华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 287.51,
+      "to": 289.19,
+      "sid": 127,
+      "location": 2,
+      "content": "和建发股份的目标价",
+      "music": 0.0
+    },
+    {
+      "from": 289.19,
+      "to": 291.05,
+      "sid": 128,
+      "location": 2,
+      "content": "并且维持买入的评级",
+      "music": 0.0
+    },
+    {
+      "from": 291.05,
+      "to": 293.49,
+      "sid": 129,
+      "location": 2,
+      "content": "OK那我们就来进入下一个环节啊",
+      "music": 0.0
+    },
+    {
+      "from": 293.49,
+      "to": 297.08,
+      "sid": 130,
+      "location": 2,
+      "content": "就是说这个房地产市场和工业企业之间的",
+      "music": 0.0
+    },
+    {
+      "from": 297.08,
+      "to": 299.82,
+      "sid": 131,
+      "location": 2,
+      "content": "这个负反馈的机制到底是怎么形成的",
+      "music": 0.0
+    },
+    {
+      "from": 299.82,
+      "to": 301.54,
+      "sid": 132,
+      "location": 2,
+      "content": "以及为什么过去几年",
+      "music": 0.0
+    },
+    {
+      "from": 301.54,
+      "to": 304.31,
+      "sid": 133,
+      "location": 2,
+      "content": "总是会有这种房地产复苏的假象",
+      "music": 0.0
+    },
+    {
+      "from": 304.31,
+      "to": 307.21,
+      "sid": 134,
+      "location": 2,
+      "content": "其实过去5年就是因为就业不好",
+      "music": 0.0
+    },
+    {
+      "from": 307.21,
+      "to": 308.87,
+      "sid": 135,
+      "location": 2,
+      "content": "企业的盈利也不好",
+      "music": 0.0
+    },
+    {
+      "from": 308.87,
+      "to": 312.19,
+      "sid": 136,
+      "location": 2,
+      "content": "然后市场上又有大量的这种空置的房子",
+      "music": 0.0
+    },
+    {
+      "from": 312.19,
+      "to": 314.32,
+      "sid": 137,
+      "location": 2,
+      "content": "也就是所谓的影子库存",
+      "music": 0.0
+    },
+    {
+      "from": 314.32,
+      "to": 316.14,
+      "sid": 138,
+      "location": 2,
+      "content": "不断的在增加供应",
+      "music": 0.0
+    },
+    {
+      "from": 316.14,
+      "to": 319.01,
+      "sid": 139,
+      "location": 2,
+      "content": "所以每次有一点点政策的利好",
+      "music": 0.0
+    },
+    {
+      "from": 319.01,
+      "to": 320.97,
+      "sid": 140,
+      "location": 2,
+      "content": "看起来好像是要复苏了",
+      "music": 0.0
+    },
+    {
+      "from": 320.97,
+      "to": 322.61,
+      "sid": 141,
+      "location": 2,
+      "content": "但其实都是很短暂的",
+      "music": 0.0
+    },
+    {
+      "from": 322.61,
+      "to": 325.99,
+      "sid": 142,
+      "location": 2,
+      "content": "怪不得大家老是觉得这个回暖就是昙花一现",
+      "music": 0.0
+    },
+    {
+      "from": 325.99,
+      "to": 328.909,
+      "sid": 143,
+      "location": 2,
+      "content": "原来是背后有这么多的结构性的压力",
+      "music": 0.0
+    },
+    {
+      "from": 328.909,
+      "to": 329.929,
+      "sid": 144,
+      "location": 2,
+      "content": "在这没错没错",
+      "music": 0.0
+    },
+    {
+      "from": 329.929,
+      "to": 332.45,
+      "sid": 145,
+      "location": 2,
+      "content": "而且房地产这个行业它的产业链特别长",
+      "music": 0.0
+    },
+    {
+      "from": 332.45,
+      "to": 334.99,
+      "sid": 146,
+      "location": 2,
+      "content": "所以一旦销售和价格开始下滑的话",
+      "music": 0.0
+    },
+    {
+      "from": 334.99,
+      "to": 338.05,
+      "sid": 147,
+      "location": 2,
+      "content": "就会马上拖累工业企业的需求和利润",
+      "music": 0.0
+    },
+    {
+      "from": 338.05,
+      "to": 339.909,
+      "sid": 148,
+      "location": 2,
+      "content": "然后企业就不得不去裁员",
+      "music": 0.0
+    },
+    {
+      "from": 339.909,
+      "to": 342.129,
+      "sid": 149,
+      "location": 2,
+      "content": "大家的收入预期也会变得悲观",
+      "music": 0.0
+    },
+    {
+      "from": 342.129,
+      "to": 345.289,
+      "sid": 150,
+      "location": 2,
+      "content": "这反过来又会让购房的需求进一步的萎缩",
+      "music": 0.0
+    },
+    {
+      "from": 345.289,
+      "to": 347.44,
+      "sid": 151,
+      "location": 2,
+      "content": "就形成了这种恶性循环",
+      "music": 0.0
+    },
+    {
+      "from": 347.44,
+      "to": 348.72,
+      "sid": 152,
+      "location": 2,
+      "content": "所以这就是为什么",
+      "music": 0.0
+    },
+    {
+      "from": 348.72,
+      "to": 351.28,
+      "sid": 153,
+      "location": 2,
+      "content": "工业企业的利润和一线城市的房价会有",
+      "music": 0.0
+    },
+    {
+      "from": 351.28,
+      "to": 353.4,
+      "sid": 154,
+      "location": 2,
+      "content": "0.63这么高的一个相关性",
+      "music": 0.0
+    },
+    {
+      "from": 353.4,
+      "to": 354.06,
+      "sid": 155,
+      "location": 2,
+      "content": "我懂了",
+      "music": 0.0
+    },
+    {
+      "from": 354.06,
+      "to": 356.34,
+      "sid": 156,
+      "location": 2,
+      "content": "那今年这个工业企业的利润",
+      "music": 0.0
+    },
+    {
+      "from": 356.34,
+      "to": 357.92,
+      "sid": 157,
+      "location": 2,
+      "content": "和PPI到底表现怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 357.92,
+      "to": 360.76,
+      "sid": 158,
+      "location": 2,
+      "content": "然后到底是哪些行业是最大的驱动力",
+      "music": 0.0
+    },
+    {
+      "from": 360.76,
+      "to": 362.15,
+      "sid": 159,
+      "location": 2,
+      "content": "今年一季度的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 362.15,
+      "to": 363.99,
+      "sid": 160,
+      "location": 2,
+      "content": "整体的工业企业的利润",
+      "music": 0.0
+    },
+    {
+      "from": 363.99,
+      "to": 365.79,
+      "sid": 161,
+      "location": 2,
+      "content": "是同比增长了15%",
+      "music": 0.0
+    },
+    {
+      "from": 365.79,
+      "to": 368.43,
+      "sid": 162,
+      "location": 2,
+      "content": "然后PPI也是结束了长时间的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 368.43,
+      "to": 369.45,
+      "sid": 163,
+      "location": 2,
+      "content": "开始转正",
+      "music": 0.0
+    },
+    {
+      "from": 369.45,
+      "to": 372.13,
+      "sid": 164,
+      "location": 2,
+      "content": "那这里面呢贡献最大的就是",
+      "music": 0.0
+    },
+    {
+      "from": 372.13,
+      "to": 374.19,
+      "sid": 165,
+      "location": 2,
+      "content": "跟人工智能相关的一些制造业",
+      "music": 0.0
+    },
+    {
+      "from": 374.19,
+      "to": 375.19,
+      "sid": 166,
+      "location": 2,
+      "content": "比如说计算机",
+      "music": 0.0
+    },
+    {
+      "from": 375.19,
+      "to": 377.35,
+      "sid": 167,
+      "location": 2,
+      "content": "通信和其他电子设备",
+      "music": 0.0
+    },
+    {
+      "from": 377.35,
+      "to": 378.87,
+      "sid": 168,
+      "location": 2,
+      "content": "这个子行业的利润",
+      "music": 0.0
+    },
+    {
+      "from": 378.87,
+      "to": 381.789,
+      "sid": 169,
+      "location": 2,
+      "content": "同比暴涨了125%",
+      "music": 0.0
+    },
+    {
+      "from": 381.789,
+      "to": 384.549,
+      "sid": 170,
+      "location": 2,
+      "content": "而且它在整个工业利润里面的占比",
+      "music": 0.0
+    },
+    {
+      "from": 384.549,
+      "to": 386.59,
+      "sid": 171,
+      "location": 2,
+      "content": "已经达到了13%哇",
+      "music": 0.0
+    },
+    {
+      "from": 386.59,
+      "to": 389.85,
+      "sid": 172,
+      "location": 2,
+      "content": "这个人工智能相关的制造业真的是一飞冲天啊",
+      "music": 0.0
+    },
+    {
+      "from": 389.85,
+      "to": 391.83,
+      "sid": 173,
+      "location": 2,
+      "content": "那其他行业呢有没有表现比较好的",
+      "music": 0.0
+    },
+    {
+      "from": 391.83,
+      "to": 392.63,
+      "sid": 174,
+      "location": 2,
+      "content": "还有两个行业",
+      "music": 0.0
+    },
+    {
+      "from": 392.63,
+      "to": 395.37,
+      "sid": 175,
+      "location": 2,
+      "content": "就是有色金属的冶炼和压延加工业",
+      "music": 0.0
+    },
+    {
+      "from": 395.37,
+      "to": 398.07,
+      "sid": 176,
+      "location": 2,
+      "content": "以及化学原料和化学制品制造业",
+      "music": 0.0
+    },
+    {
+      "from": 398.07,
+      "to": 399.83,
+      "sid": 177,
+      "location": 2,
+      "content": "这两个行业利润的提升",
+      "music": 0.0
+    },
+    {
+      "from": 399.83,
+      "to": 402.69,
+      "sid": 178,
+      "location": 2,
+      "content": "主要是因为嗯大宗商品的价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 402.69,
+      "to": 404.19,
+      "sid": 179,
+      "location": 2,
+      "content": "还有就是产能的缩减",
+      "music": 0.0
+    },
+    {
+      "from": 404.19,
+      "to": 406.7,
+      "sid": 180,
+      "location": 2,
+      "content": "以及政府的这个反内卷的政策",
+      "music": 0.0
+    },
+    {
+      "from": 406.7,
+      "to": 408.26,
+      "sid": 181,
+      "location": 2,
+      "content": "然后我们如果去拆解",
+      "music": 0.0
+    },
+    {
+      "from": 408.26,
+      "to": 410.38,
+      "sid": 182,
+      "location": 2,
+      "content": "这个15%的利润增长的话",
+      "music": 0.0
+    },
+    {
+      "from": 410.38,
+      "to": 411.08,
+      "sid": 183,
+      "location": 2,
+      "content": "计算机",
+      "music": 0.0
+    },
+    {
+      "from": 411.08,
+      "to": 414.4,
+      "sid": 184,
+      "location": 2,
+      "content": "通信和电子设备就贡献了8.2个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 414.4,
+      "to": 417.02,
+      "sid": 185,
+      "location": 2,
+      "content": "有色金属贡献了5.2个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 417.02,
+      "to": 420.38,
+      "sid": 186,
+      "location": 2,
+      "content": "化学原料和制品贡献了2.8个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 420.38,
+      "to": 424.25,
+      "sid": 187,
+      "location": 2,
+      "content": "那我们再来看一下最近的这个科技板块的出口",
+      "music": 0.0
+    },
+    {
+      "from": 424.25,
+      "to": 427.45,
+      "sid": 188,
+      "location": 2,
+      "content": "对于整个中国在全球的AI供应链的地位",
+      "music": 0.0
+    },
+    {
+      "from": 427.45,
+      "to": 428.42,
+      "sid": 189,
+      "location": 2,
+      "content": "有什么样的影响",
+      "music": 0.0
+    },
+    {
+      "from": 428.42,
+      "to": 431.34,
+      "sid": 190,
+      "location": 2,
+      "content": "就是到了2026年4月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 431.34,
+      "to": 435.53,
+      "sid": 191,
+      "location": 2,
+      "content": "我们国家的出口同比增速加快到了14%",
+      "music": 0.0
+    },
+    {
+      "from": 435.53,
+      "to": 436.61,
+      "sid": 192,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 436.61,
+      "to": 439.77,
+      "sid": 193,
+      "location": 2,
+      "content": "科技类的出口环比还增长了0.5%",
+      "music": 0.0
+    },
+    {
+      "from": 439.77,
+      "to": 441.81,
+      "sid": 194,
+      "location": 2,
+      "content": "那这种持续的强势",
+      "music": 0.0
+    },
+    {
+      "from": 441.81,
+      "to": 445.47,
+      "sid": 195,
+      "location": 2,
+      "content": "就说明中国正在更深入地融入到全球的",
+      "music": 0.0
+    },
+    {
+      "from": 445.47,
+      "to": 447.11,
+      "sid": 196,
+      "location": 2,
+      "content": "人工智能的供应链当中",
+      "music": 0.0
+    },
+    {
+      "from": 447.11,
+      "to": 448.97,
+      "sid": 197,
+      "location": 2,
+      "content": "那就是说最近这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 448.97,
+      "to": 451.98,
+      "sid": 198,
+      "location": 2,
+      "content": "股价表现特别突出的那些大市值公司",
+      "music": 0.0
+    },
+    {
+      "from": 451.98,
+      "to": 453.96,
+      "sid": 199,
+      "location": 2,
+      "content": "他们主要是集中在哪些城市",
+      "music": 0.0
+    },
+    {
+      "from": 453.96,
+      "to": 455.14,
+      "sid": 200,
+      "location": 2,
+      "content": "我们筛选了一下",
+      "music": 0.0
+    },
+    {
+      "from": 455.14,
+      "to": 458.95,
+      "sid": 201,
+      "location": 2,
+      "content": "就是过去一年涨幅超过50%",
+      "music": 0.0
+    },
+    {
+      "from": 458.95,
+      "to": 461.29,
+      "sid": 202,
+      "location": 2,
+      "content": "然后市值又超过10亿人民币的",
+      "music": 0.0
+    },
+    {
+      "from": 461.29,
+      "to": 463.18,
+      "sid": 203,
+      "location": 2,
+      "content": "这514家公司",
+      "music": 0.0
+    },
+    {
+      "from": 463.18,
+      "to": 465.04,
+      "sid": 204,
+      "location": 2,
+      "content": "他们大部分都是在北京",
+      "music": 0.0
+    },
+    {
+      "from": 465.04,
+      "to": 466.44,
+      "sid": 205,
+      "location": 2,
+      "content": "上海和深圳",
+      "music": 0.0
+    },
+    {
+      "from": 466.44,
+      "to": 468.02,
+      "sid": 206,
+      "location": 2,
+      "content": "尤其是北京和上海",
+      "music": 0.0
+    },
+    {
+      "from": 468.02,
+      "to": 470.95,
+      "sid": 207,
+      "location": 2,
+      "content": "因为这两个城市聚集了最多的人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 470.95,
+      "to": 472.73,
+      "sid": 208,
+      "location": 2,
+      "content": "以及相关供应链的企业",
+      "music": 0.0
+    },
+    {
+      "from": 472.73,
+      "to": 476.15,
+      "sid": 209,
+      "location": 2,
+      "content": "所以这也直接带动了当地二手房市场的活跃",
+      "music": 0.0
+    },
+    {
+      "from": 476.15,
+      "to": 478.37,
+      "sid": 210,
+      "location": 2,
+      "content": "OK我们现在来关注一下",
+      "music": 0.0
+    },
+    {
+      "from": 478.37,
+      "to": 481.26,
+      "sid": 211,
+      "location": 2,
+      "content": "一线城市的郊区的这个空置率的问题",
+      "music": 0.0
+    },
+    {
+      "from": 481.26,
+      "to": 483.14,
+      "sid": 212,
+      "location": 2,
+      "content": "以及它的库存是怎么变化的",
+      "music": 0.0
+    },
+    {
+      "from": 483.14,
+      "to": 486.85,
+      "sid": 213,
+      "location": 2,
+      "content": "为什么过去5年这些地方的空置率会特别的高",
+      "music": 0.0
+    },
+    {
+      "from": 486.85,
+      "to": 489.21,
+      "sid": 214,
+      "location": 2,
+      "content": "然后对整个市场带来了哪些压力",
+      "music": 0.0
+    },
+    {
+      "from": 489.21,
+      "to": 492.669,
+      "sid": 215,
+      "location": 2,
+      "content": "其实在这一轮5年的下行周期里面呢",
+      "music": 0.0
+    },
+    {
+      "from": 492.669,
+      "to": 495.369,
+      "sid": 216,
+      "location": 2,
+      "content": "市场是低估了这个库存的压力的",
+      "music": 0.0
+    },
+    {
+      "from": 495.369,
+      "to": 497.469,
+      "sid": 217,
+      "location": 2,
+      "content": "因为有很多本来空着的房子",
+      "music": 0.0
+    },
+    {
+      "from": 497.469,
+      "to": 500.7,
+      "sid": 218,
+      "location": 2,
+      "content": "他开始大量的进入二手房和租赁市场",
+      "music": 0.0
+    },
+    {
+      "from": 500.7,
+      "to": 503.09,
+      "sid": 219,
+      "location": 2,
+      "content": "所以导致挂牌量明显的增加",
+      "music": 0.0
+    },
+    {
+      "from": 503.09,
+      "to": 505.01,
+      "sid": 220,
+      "location": 2,
+      "content": "所以就是说新房的集中交付",
+      "music": 0.0
+    },
+    {
+      "from": 505.01,
+      "to": 507.15,
+      "sid": 221,
+      "location": 2,
+      "content": "和之前的这种投机性的购房",
+      "music": 0.0
+    },
+    {
+      "from": 507.15,
+      "to": 508.77,
+      "sid": 222,
+      "location": 2,
+      "content": "最后都变成了市场的压力",
+      "music": 0.0
+    },
+    {
+      "from": 508.77,
+      "to": 512.85,
+      "sid": 223,
+      "location": 2,
+      "content": "是尤其是一线城市的郊区新房交付量最大",
+      "music": 0.0
+    },
+    {
+      "from": 512.85,
+      "to": 515.85,
+      "sid": 224,
+      "location": 2,
+      "content": "所以它的控制率一度是高于市区的",
+      "music": 0.0
+    },
+    {
+      "from": 515.85,
+      "to": 517.71,
+      "sid": 225,
+      "location": 2,
+      "content": "那在2022~2025年",
+      "music": 0.0
+    },
+    {
+      "from": 517.71,
+      "to": 518.63,
+      "sid": 226,
+      "location": 2,
+      "content": "这几年",
+      "music": 0.0
+    },
+    {
+      "from": 518.63,
+      "to": 521.27,
+      "sid": 227,
+      "location": 2,
+      "content": "这些空置的房子又不断的流入市场",
+      "music": 0.0
+    },
+    {
+      "from": 521.27,
+      "to": 524.72,
+      "sid": 228,
+      "location": 2,
+      "content": "所以就进一步的压低了租金和房价",
+      "music": 0.0
+    },
+    {
+      "from": 524.72,
+      "to": 526.16,
+      "sid": 229,
+      "location": 2,
+      "content": "对了你有没有发现",
+      "music": 0.0
+    },
+    {
+      "from": 526.16,
+      "to": 530.28,
+      "sid": 230,
+      "location": 2,
+      "content": "就是最近一线城市的郊区和杭州的这个空置率",
+      "music": 0.0
+    },
+    {
+      "from": 530.28,
+      "to": 531.42,
+      "sid": 231,
+      "location": 2,
+      "content": "有什么新的动向",
+      "music": 0.0
+    },
+    {
+      "from": 531.42,
+      "to": 533.0,
+      "sid": 232,
+      "location": 2,
+      "content": "有一个非常积极的信号",
+      "music": 0.0
+    },
+    {
+      "from": 533.0,
+      "to": 536.29,
+      "sid": 233,
+      "location": 2,
+      "content": "就是到2026年4月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 536.29,
+      "to": 540.099,
+      "sid": 234,
+      "location": 2,
+      "content": "我们看到一线城市和杭州的郊区的空置率",
+      "music": 0.0
+    },
+    {
+      "from": 540.099,
+      "to": 541.819,
+      "sid": 235,
+      "location": 2,
+      "content": "都出现了明显的改善",
+      "music": 0.0
+    },
+    {
+      "from": 541.819,
+      "to": 546.13,
+      "sid": 236,
+      "location": 2,
+      "content": "这是我们过去3年以来头一次看到这种情况诶",
+      "music": 0.0
+    },
+    {
+      "from": 546.13,
+      "to": 547.33,
+      "sid": 237,
+      "location": 2,
+      "content": "这是个好消息啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.33,
+      "to": 549.67,
+      "sid": 238,
+      "location": 2,
+      "content": "那这个变化背后的原因是什么",
+      "music": 0.0
+    },
+    {
+      "from": 549.67,
+      "to": 550.77,
+      "sid": 239,
+      "location": 2,
+      "content": "主要有两个原因",
+      "music": 0.0
+    },
+    {
+      "from": 550.77,
+      "to": 553.28,
+      "sid": 240,
+      "location": 2,
+      "content": "第一个呢就是近一两年",
+      "music": 0.0
+    },
+    {
+      "from": 553.28,
+      "to": 556.16,
+      "sid": 241,
+      "location": 2,
+      "content": "这些地方的新房的完工量是下降的",
+      "music": 0.0
+    },
+    {
+      "from": 556.16,
+      "to": 559.97,
+      "sid": 242,
+      "location": 2,
+      "content": "第二个呢就是之前积压的这些空置房",
+      "music": 0.0
+    },
+    {
+      "from": 559.97,
+      "to": 560.73,
+      "sid": 243,
+      "location": 2,
+      "content": "有不少",
+      "music": 0.0
+    },
+    {
+      "from": 560.73,
+      "to": 563.11,
+      "sid": 244,
+      "location": 2,
+      "content": "已经通过出租或者是转卖的方式",
+      "music": 0.0
+    },
+    {
+      "from": 563.11,
+      "to": 564.59,
+      "sid": 245,
+      "location": 2,
+      "content": "被市场消化掉了",
+      "music": 0.0
+    },
+    {
+      "from": 564.59,
+      "to": 567.15,
+      "sid": 246,
+      "location": 2,
+      "content": "那如果说未来的新房",
+      "music": 0.0
+    },
+    {
+      "from": 567.15,
+      "to": 568.03,
+      "sid": 247,
+      "location": 2,
+      "content": "二手房",
+      "music": 0.0
+    },
+    {
+      "from": 568.03,
+      "to": 568.85,
+      "sid": 248,
+      "location": 2,
+      "content": "租赁房",
+      "music": 0.0
+    },
+    {
+      "from": 568.85,
+      "to": 569.93,
+      "sid": 249,
+      "location": 2,
+      "content": "还有保障房",
+      "music": 0.0
+    },
+    {
+      "from": 569.93,
+      "to": 571.97,
+      "sid": 250,
+      "location": 2,
+      "content": "这四个方面的供应都在减少",
+      "music": 0.0
+    },
+    {
+      "from": 571.97,
+      "to": 573.89,
+      "sid": 251,
+      "location": 2,
+      "content": "主要是因为哪些因素在起作用",
+      "music": 0.0
+    },
+    {
+      "from": 573.89,
+      "to": 577.29,
+      "sid": 252,
+      "location": 2,
+      "content": "其实主要就是因为土地的成交和新开工面积",
+      "music": 0.0
+    },
+    {
+      "from": 577.29,
+      "to": 579.15,
+      "sid": 253,
+      "location": 2,
+      "content": "连续几年都是下降的",
+      "music": 0.0
+    },
+    {
+      "from": 579.15,
+      "to": 582.51,
+      "sid": 254,
+      "location": 2,
+      "content": "然后政府也在减少保障房的新建的计划",
+      "music": 0.0
+    },
+    {
+      "from": 582.51,
+      "to": 584.829,
+      "sid": 255,
+      "location": 2,
+      "content": "所以这几个渠道的住房供应",
+      "music": 0.0
+    },
+    {
+      "from": 584.829,
+      "to": 586.509,
+      "sid": 256,
+      "location": 2,
+      "content": "都是在同步的收缩的",
+      "music": 0.0
+    },
+    {
+      "from": 586.509,
+      "to": 589.789,
+      "sid": 257,
+      "location": 2,
+      "content": "你是怎么去测算这些大城市的郊区的",
+      "music": 0.0
+    },
+    {
+      "from": 589.789,
+      "to": 591.049,
+      "sid": 258,
+      "location": 2,
+      "content": "这个住房的空置率的",
+      "music": 0.0
+    },
+    {
+      "from": 591.049,
+      "to": 592.9,
+      "sid": 259,
+      "location": 2,
+      "content": "然后最近有没有什么新的数据",
+      "music": 0.0
+    },
+    {
+      "from": 592.9,
+      "to": 596.16,
+      "sid": 260,
+      "location": 2,
+      "content": "我们是通过收集了这五个城市",
+      "music": 0.0
+    },
+    {
+      "from": 596.16,
+      "to": 597.82,
+      "sid": 261,
+      "location": 2,
+      "content": "北京上海广州",
+      "music": 0.0
+    },
+    {
+      "from": 597.82,
+      "to": 599.41,
+      "sid": 262,
+      "location": 2,
+      "content": "深圳和杭州",
+      "music": 0.0
+    },
+    {
+      "from": 599.41,
+      "to": 603.37,
+      "sid": 263,
+      "location": 2,
+      "content": "他们各个郊区板块的二手房的挂牌数据",
+      "music": 0.0
+    },
+    {
+      "from": 603.37,
+      "to": 607.12,
+      "sid": 264,
+      "location": 2,
+      "content": "分别在2023年的6月和2026年的4月",
+      "music": 0.0
+    },
+    {
+      "from": 607.12,
+      "to": 608.41,
+      "sid": 265,
+      "location": 2,
+      "content": "两次收集",
+      "music": 0.0
+    },
+    {
+      "from": 608.41,
+      "to": 611.09,
+      "sid": 266,
+      "location": 2,
+      "content": "然后我们不光是统计了总的挂牌量",
+      "music": 0.0
+    },
+    {
+      "from": 611.09,
+      "to": 612.85,
+      "sid": 267,
+      "location": 2,
+      "content": "还把其中的毛坯房",
+      "music": 0.0
+    },
+    {
+      "from": 612.85,
+      "to": 615.77,
+      "sid": 268,
+      "location": 2,
+      "content": "也就是还没有人住过的房子单独拎出来",
+      "music": 0.0
+    },
+    {
+      "from": 615.77,
+      "to": 618.37,
+      "sid": 269,
+      "location": 2,
+      "content": "用毛坯房的数量除以总的挂牌量",
+      "music": 0.0
+    },
+    {
+      "from": 618.37,
+      "to": 620.37,
+      "sid": 270,
+      "location": 2,
+      "content": "就得到了一个近似的空置率",
+      "music": 0.0
+    },
+    {
+      "from": 620.37,
+      "to": 621.08,
+      "sid": 271,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 621.08,
+      "to": 622.44,
+      "sid": 272,
+      "location": 2,
+      "content": "那从数据上面来看",
+      "music": 0.0
+    },
+    {
+      "from": 622.44,
+      "to": 623.88,
+      "sid": 273,
+      "location": 2,
+      "content": "这两年多的时间",
+      "music": 0.0
+    },
+    {
+      "from": 623.88,
+      "to": 625.48,
+      "sid": 274,
+      "location": 2,
+      "content": "这个空置率有什么变化",
+      "music": 0.0
+    },
+    {
+      "from": 625.48,
+      "to": 627.32,
+      "sid": 275,
+      "location": 2,
+      "content": "我们4月的数据显示啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.32,
+      "to": 630.41,
+      "sid": 276,
+      "location": 2,
+      "content": "所有的这些城市的郊区的空置率",
+      "music": 0.0
+    },
+    {
+      "from": 630.41,
+      "to": 633.67,
+      "sid": 277,
+      "location": 2,
+      "content": "都是比2023年6月的时候要低的",
+      "music": 0.0
+    },
+    {
+      "from": 633.67,
+      "to": 637.33,
+      "sid": 278,
+      "location": 2,
+      "content": "然后它下降的幅度是在0.6到10.1个",
+      "music": 0.0
+    },
+    {
+      "from": 637.33,
+      "to": 638.85,
+      "sid": 279,
+      "location": 2,
+      "content": "百分点之间好",
+      "music": 0.0
+    },
+    {
+      "from": 638.85,
+      "to": 640.07,
+      "sid": 280,
+      "location": 2,
+      "content": "那我们再来讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 640.07,
+      "to": 643.11,
+      "sid": 281,
+      "location": 2,
+      "content": "就是我们对于2026和2027年",
+      "music": 0.0
+    },
+    {
+      "from": 643.11,
+      "to": 646.12,
+      "sid": 282,
+      "location": 2,
+      "content": "中国房地产市场主要指标的一些新的预测",
+      "music": 0.0
+    },
+    {
+      "from": 646.12,
+      "to": 648.76,
+      "sid": 283,
+      "location": 2,
+      "content": "以及这些预测背后的核心的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 648.76,
+      "to": 653.05,
+      "sid": 284,
+      "location": 2,
+      "content": "我们现在是基于一线城市的二手房的回暖",
+      "music": 0.0
+    },
+    {
+      "from": 653.05,
+      "to": 656.88,
+      "sid": 285,
+      "location": 2,
+      "content": "我们判断就是一线的房价会率先企稳",
+      "music": 0.0
+    },
+    {
+      "from": 656.88,
+      "to": 659.12,
+      "sid": 286,
+      "location": 2,
+      "content": "如果这个势头能够延续的话",
+      "music": 0.0
+    },
+    {
+      "from": 659.12,
+      "to": 662.96,
+      "sid": 287,
+      "location": 2,
+      "content": "我们觉得二线城市可能也会跟着逐步的走稳",
+      "music": 0.0
+    },
+    {
+      "from": 662.96,
+      "to": 664.86,
+      "sid": 288,
+      "location": 2,
+      "content": "所以我们把2026年的",
+      "music": 0.0
+    },
+    {
+      "from": 664.86,
+      "to": 668.44,
+      "sid": 289,
+      "location": 2,
+      "content": "全国的销售面积和金额的降幅都收窄了",
+      "music": 0.0
+    },
+    {
+      "from": 668.44,
+      "to": 671.58,
+      "sid": 290,
+      "location": 2,
+      "content": "然后预计2027年可能会基本持平",
+      "music": 0.0
+    },
+    {
+      "from": 671.58,
+      "to": 673.66,
+      "sid": 291,
+      "location": 2,
+      "content": "听起来比之前乐观了不少啊",
+      "music": 0.0
+    },
+    {
+      "from": 673.66,
+      "to": 675.5,
+      "sid": 292,
+      "location": 2,
+      "content": "那具体到房价和销售",
+      "music": 0.0
+    },
+    {
+      "from": 675.5,
+      "to": 677.62,
+      "sid": 293,
+      "location": 2,
+      "content": "你觉得一二线城市会有什么不一样",
+      "music": 0.0
+    },
+    {
+      "from": 677.62,
+      "to": 681.86,
+      "sid": 294,
+      "location": 2,
+      "content": "我们的预测是一线城市2026年房价会持平",
+      "music": 0.0
+    },
+    {
+      "from": 681.86,
+      "to": 684.88,
+      "sid": 295,
+      "location": 2,
+      "content": "然后2027年是上涨2%",
+      "music": 0.0
+    },
+    {
+      "from": 684.88,
+      "to": 686.26,
+      "sid": 296,
+      "location": 2,
+      "content": "二线城市的话",
+      "music": 0.0
+    },
+    {
+      "from": 686.26,
+      "to": 688.94,
+      "sid": 297,
+      "location": 2,
+      "content": "2026年还是会下跌5%",
+      "music": 0.0
+    },
+    {
+      "from": 688.94,
+      "to": 692.099,
+      "sid": 298,
+      "location": 2,
+      "content": "但是2027年就会止住下跌",
+      "music": 0.0
+    },
+    {
+      "from": 692.099,
+      "to": 695.479,
+      "sid": 299,
+      "location": 2,
+      "content": "然后全国的商品房销售面积和金额",
+      "music": 0.0
+    },
+    {
+      "from": 695.479,
+      "to": 696.459,
+      "sid": 300,
+      "location": 2,
+      "content": "2026年",
+      "music": 0.0
+    },
+    {
+      "from": 696.459,
+      "to": 699.54,
+      "sid": 301,
+      "location": 2,
+      "content": "我们预计是下降3%和7%",
+      "music": 0.0
+    },
+    {
+      "from": 699.54,
+      "to": 702.08,
+      "sid": 302,
+      "location": 2,
+      "content": "然后前100强的开发商的销售",
+      "music": 0.0
+    },
+    {
+      "from": 702.08,
+      "to": 704.97,
+      "sid": 303,
+      "location": 2,
+      "content": "我们预计是2026年下降10%",
+      "music": 0.0
+    },
+    {
+      "from": 704.97,
+      "to": 707.17,
+      "sid": 304,
+      "location": 2,
+      "content": "2027年回升5%",
+      "music": 0.0
+    },
+    {
+      "from": 707.17,
+      "to": 710.319,
+      "sid": 305,
+      "location": 2,
+      "content": "主要也是因为市场的集中度在提升诶",
+      "music": 0.0
+    },
+    {
+      "from": 710.319,
+      "to": 712.479,
+      "sid": 306,
+      "location": 2,
+      "content": "那你觉得2026~2027年",
+      "music": 0.0
+    },
+    {
+      "from": 712.479,
+      "to": 715.319,
+      "sid": 307,
+      "location": 2,
+      "content": "全国房地产新开工面积和竣工面积",
+      "music": 0.0
+    },
+    {
+      "from": 715.319,
+      "to": 716.199,
+      "sid": 308,
+      "location": 2,
+      "content": "会有什么样的变化",
+      "music": 0.0
+    },
+    {
+      "from": 716.199,
+      "to": 717.339,
+      "sid": 309,
+      "location": 2,
+      "content": "新开工的话",
+      "music": 0.0
+    },
+    {
+      "from": 717.339,
+      "to": 719.139,
+      "sid": 310,
+      "location": 2,
+      "content": "我们觉得2026年的降幅",
+      "music": 0.0
+    },
+    {
+      "from": 719.139,
+      "to": 721.639,
+      "sid": 311,
+      "location": 2,
+      "content": "会比2025年有所收窄",
+      "music": 0.0
+    },
+    {
+      "from": 721.639,
+      "to": 724.99,
+      "sid": 312,
+      "location": 2,
+      "content": "然后2027年就会基本稳定",
+      "music": 0.0
+    },
+    {
+      "from": 724.99,
+      "to": 727.85,
+      "sid": 313,
+      "location": 2,
+      "content": "如果说一线的销售能够持续回暖的话",
+      "music": 0.0
+    },
+    {
+      "from": 727.85,
+      "to": 731.319,
+      "sid": 314,
+      "location": 2,
+      "content": "开发商可能会加快在这些城市拿地和开工",
+      "music": 0.0
+    },
+    {
+      "from": 731.319,
+      "to": 733.719,
+      "sid": 315,
+      "location": 2,
+      "content": "而且现在全国的新开工面积",
+      "music": 0.0
+    },
+    {
+      "from": 733.719,
+      "to": 736.49,
+      "sid": 316,
+      "location": 2,
+      "content": "只是新房销售的55%",
+      "music": 0.0
+    },
+    {
+      "from": 736.49,
+      "to": 738.17,
+      "sid": 317,
+      "location": 2,
+      "content": "这个是不可持续的",
+      "music": 0.0
+    },
+    {
+      "from": 738.17,
+      "to": 741.41,
+      "sid": 318,
+      "location": 2,
+      "content": "所以我们觉得可能到2028年或者之后",
+      "music": 0.0
+    },
+    {
+      "from": 741.41,
+      "to": 743.25,
+      "sid": 319,
+      "location": 2,
+      "content": "会有一个回升的空间",
+      "music": 0.0
+    },
+    {
+      "from": 743.25,
+      "to": 744.51,
+      "sid": 320,
+      "location": 2,
+      "content": "竣工的话",
+      "music": 0.0
+    },
+    {
+      "from": 744.51,
+      "to": 746.81,
+      "sid": 321,
+      "location": 2,
+      "content": "因为2023~2025年的新开工",
+      "music": 0.0
+    },
+    {
+      "from": 746.81,
+      "to": 748.06,
+      "sid": 322,
+      "location": 2,
+      "content": "是大幅下滑的",
+      "music": 0.0
+    },
+    {
+      "from": 748.06,
+      "to": 748.94,
+      "sid": 323,
+      "location": 2,
+      "content": "所以我们预计",
+      "music": 0.0
+    },
+    {
+      "from": 748.94,
+      "to": 751.68,
+      "sid": 324,
+      "location": 2,
+      "content": "2026年和2027年的竣工面积",
+      "music": 0.0
+    },
+    {
+      "from": 751.68,
+      "to": 755.38,
+      "sid": 325,
+      "location": 2,
+      "content": "同比分别会下降25%和15%",
+      "music": 0.0
+    },
+    {
+      "from": 755.38,
+      "to": 757.66,
+      "sid": 326,
+      "location": 2,
+      "content": "那2026和2027年",
+      "music": 0.0
+    },
+    {
+      "from": 757.66,
+      "to": 759.66,
+      "sid": 327,
+      "location": 2,
+      "content": "房地产投资和二手房交易",
+      "music": 0.0
+    },
+    {
+      "from": 759.66,
+      "to": 761.2,
+      "sid": 328,
+      "location": 2,
+      "content": "又会是一个什么样的走势呢",
+      "music": 0.0
+    },
+    {
+      "from": 761.2,
+      "to": 762.28,
+      "sid": 329,
+      "location": 2,
+      "content": "投资的话",
+      "music": 0.0
+    },
+    {
+      "from": 762.28,
+      "to": 765.26,
+      "sid": 330,
+      "location": 2,
+      "content": "我们预计2026年是下降4%",
+      "music": 0.0
+    },
+    {
+      "from": 765.26,
+      "to": 767.68,
+      "sid": 331,
+      "location": 2,
+      "content": "然后2027年是持平",
+      "music": 0.0
+    },
+    {
+      "from": 767.68,
+      "to": 769.0,
+      "sid": 332,
+      "location": 2,
+      "content": "二手房的话",
+      "music": 0.0
+    },
+    {
+      "from": 769.0,
+      "to": 771.52,
+      "sid": 333,
+      "location": 2,
+      "content": "我们觉得会比新房的表现更好一些",
+      "music": 0.0
+    },
+    {
+      "from": 771.52,
+      "to": 773.76,
+      "sid": 334,
+      "location": 2,
+      "content": "因为它主要是靠一线城市带动嘛",
+      "music": 0.0
+    },
+    {
+      "from": 773.76,
+      "to": 775.36,
+      "sid": 335,
+      "location": 2,
+      "content": "所以我们预计2026年的",
+      "music": 0.0
+    },
+    {
+      "from": 775.36,
+      "to": 777.99,
+      "sid": 336,
+      "location": 2,
+      "content": "二手房的交易额是上涨7%",
+      "music": 0.0
+    },
+    {
+      "from": 777.99,
+      "to": 780.73,
+      "sid": 337,
+      "location": 2,
+      "content": "然后2027年是上涨8%",
+      "music": 0.0
+    },
+    {
+      "from": 780.73,
+      "to": 781.27,
+      "sid": 338,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 781.27,
+      "to": 784.66,
+      "sid": 339,
+      "location": 2,
+      "content": "我们现在来看看这个行业的库存和去化的情况",
+      "music": 0.0
+    },
+    {
+      "from": 784.66,
+      "to": 787.36,
+      "sid": 340,
+      "location": 2,
+      "content": "你觉得全国范围的去库存的进程",
+      "music": 0.0
+    },
+    {
+      "from": 787.36,
+      "to": 788.68,
+      "sid": 341,
+      "location": 2,
+      "content": "会在什么时候结束",
+      "music": 0.0
+    },
+    {
+      "from": 788.68,
+      "to": 791.3,
+      "sid": 342,
+      "location": 2,
+      "content": "然后不同等级的城市会有时间差吗",
+      "music": 0.0
+    },
+    {
+      "from": 791.3,
+      "to": 793.31,
+      "sid": 343,
+      "location": 2,
+      "content": "按照我们最新的模型测算的话",
+      "music": 0.0
+    },
+    {
+      "from": 793.31,
+      "to": 795.2,
+      "sid": 344,
+      "location": 2,
+      "content": "全国的房地产库存",
+      "music": 0.0
+    },
+    {
+      "from": 795.2,
+      "to": 799.52,
+      "sid": 345,
+      "location": 2,
+      "content": "会在2027年的2月份左右去化完成",
+      "music": 0.0
+    },
+    {
+      "from": 799.52,
+      "to": 801.78,
+      "sid": 346,
+      "location": 2,
+      "content": "这比我们之前的判断要快一些",
+      "music": 0.0
+    },
+    {
+      "from": 801.78,
+      "to": 803.73,
+      "sid": 347,
+      "location": 2,
+      "content": "之前我们觉得可能要到年终",
+      "music": 0.0
+    },
+    {
+      "from": 803.73,
+      "to": 805.31,
+      "sid": 348,
+      "location": 2,
+      "content": "那到那个时候的话",
+      "music": 0.0
+    },
+    {
+      "from": 805.31,
+      "to": 807.46,
+      "sid": 349,
+      "location": 2,
+      "content": "房价也会逐步的走稳",
+      "music": 0.0
+    },
+    {
+      "from": 807.46,
+      "to": 809.96,
+      "sid": 350,
+      "location": 2,
+      "content": "其实一线城市已经率先企稳了",
+      "music": 0.0
+    },
+    {
+      "from": 809.96,
+      "to": 813.18,
+      "sid": 351,
+      "location": 2,
+      "content": "那二线城市可能要到2026年的下半年",
+      "music": 0.0
+    },
+    {
+      "from": 813.18,
+      "to": 814.27,
+      "sid": 352,
+      "location": 2,
+      "content": "才会稳住",
+      "music": 0.0
+    },
+    {
+      "from": 814.27,
+      "to": 817.63,
+      "sid": 353,
+      "location": 2,
+      "content": "那最近这个全国主要城市的二手房的交易量",
+      "music": 0.0
+    },
+    {
+      "from": 817.63,
+      "to": 819.49,
+      "sid": 354,
+      "location": 2,
+      "content": "和挂牌量有什么新的变化",
+      "music": 0.0
+    },
+    {
+      "from": 819.49,
+      "to": 821.579,
+      "sid": 355,
+      "location": 2,
+      "content": "到2026年的5月初",
+      "music": 0.0
+    },
+    {
+      "from": 821.579,
+      "to": 825.31,
+      "sid": 356,
+      "location": 2,
+      "content": "我们看到12个重点城市的二手房的交易量",
+      "music": 0.0
+    },
+    {
+      "from": 825.31,
+      "to": 828.19,
+      "sid": 357,
+      "location": 2,
+      "content": "比去年同期是增长了15%的",
+      "music": 0.0
+    },
+    {
+      "from": 828.19,
+      "to": 829.05,
+      "sid": 358,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 829.05,
+      "to": 830.83,
+      "sid": 359,
+      "location": 2,
+      "content": "绝对水平已经超过了",
+      "music": 0.0
+    },
+    {
+      "from": 830.83,
+      "to": 833.589,
+      "sid": 360,
+      "location": 2,
+      "content": "2023和2024年的同期",
+      "music": 0.0
+    },
+    {
+      "from": 833.589,
+      "to": 836.129,
+      "sid": 361,
+      "location": 2,
+      "content": "但是挂牌量呢是在分化的",
+      "music": 0.0
+    },
+    {
+      "from": 836.129,
+      "to": 837.689,
+      "sid": 362,
+      "location": 2,
+      "content": "就是全国50个城市",
+      "music": 0.0
+    },
+    {
+      "from": 837.689,
+      "to": 840.1,
+      "sid": 363,
+      "location": 2,
+      "content": "整体是上升了3.1%",
+      "music": 0.0
+    },
+    {
+      "from": 840.1,
+      "to": 843.849,
+      "sid": 364,
+      "location": 2,
+      "content": "但是一线城市反而下降了8.5%",
+      "music": 0.0
+    },
+    {
+      "from": 843.849,
+      "to": 848.009,
+      "sid": 365,
+      "location": 2,
+      "content": "那现在不同层级城市的住房的库存和去化周期",
+      "music": 0.0
+    },
+    {
+      "from": 848.009,
+      "to": 848.949,
+      "sid": 366,
+      "location": 2,
+      "content": "是一个什么样的情况",
+      "music": 0.0
+    },
+    {
+      "from": 848.949,
+      "to": 850.08,
+      "sid": 367,
+      "location": 2,
+      "content": "整体来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 850.08,
+      "to": 853.18,
+      "sid": 368,
+      "location": 2,
+      "content": "80个大中城市的库存的去化周期",
+      "music": 0.0
+    },
+    {
+      "from": 853.18,
+      "to": 855.329,
+      "sid": 369,
+      "location": 2,
+      "content": "是34.6个月",
+      "music": 0.0
+    },
+    {
+      "from": 855.329,
+      "to": 858.39,
+      "sid": 370,
+      "location": 2,
+      "content": "然后一线城市是25.2个月",
+      "music": 0.0
+    },
+    {
+      "from": 858.39,
+      "to": 862.39,
+      "sid": 371,
+      "location": 2,
+      "content": "二线和更低级别的城市库存压力还是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 862.39,
+      "to": 863.65,
+      "sid": 372,
+      "location": 2,
+      "content": "去花的时间也更长",
+      "music": 0.0
+    },
+    {
+      "from": 863.65,
+      "to": 864.53,
+      "sid": 373,
+      "location": 2,
+      "content": "没错没错",
+      "music": 0.0
+    },
+    {
+      "from": 864.53,
+      "to": 866.15,
+      "sid": 374,
+      "location": 2,
+      "content": "那我们接下来要聊的就是",
+      "music": 0.0
+    },
+    {
+      "from": 866.15,
+      "to": 868.37,
+      "sid": 375,
+      "location": 2,
+      "content": "开发商的这个选股的标准",
+      "music": 0.0
+    },
+    {
+      "from": 868.37,
+      "to": 871.41,
+      "sid": 376,
+      "location": 2,
+      "content": "以及我们在一线和非一线城市布局上面",
+      "music": 0.0
+    },
+    {
+      "from": 871.41,
+      "to": 872.319,
+      "sid": 377,
+      "location": 2,
+      "content": "有哪些分化",
+      "music": 0.0
+    },
+    {
+      "from": 872.319,
+      "to": 874.419,
+      "sid": 378,
+      "location": 2,
+      "content": "那我们在挑选地产股的时候",
+      "music": 0.0
+    },
+    {
+      "from": 874.419,
+      "to": 877.099,
+      "sid": 379,
+      "location": 2,
+      "content": "主要会看哪些跟城市布局有关的指标",
+      "music": 0.0
+    },
+    {
+      "from": 877.099,
+      "to": 878.74,
+      "sid": 380,
+      "location": 2,
+      "content": "我们最关注的有三点",
+      "music": 0.0
+    },
+    {
+      "from": 878.74,
+      "to": 881.7,
+      "sid": 381,
+      "location": 2,
+      "content": "第一个呢是这个开发商在一线和香港",
+      "music": 0.0
+    },
+    {
+      "from": 881.7,
+      "to": 883.81,
+      "sid": 382,
+      "location": 2,
+      "content": "的可售资源有多少",
+      "music": 0.0
+    },
+    {
+      "from": 883.81,
+      "to": 887.119,
+      "sid": 383,
+      "location": 2,
+      "content": "第二个呢是他在2025年的拿地力度",
+      "music": 0.0
+    },
+    {
+      "from": 887.119,
+      "to": 889.859,
+      "sid": 384,
+      "location": 2,
+      "content": "第三个呢是他2025年拿的地里面",
+      "music": 0.0
+    },
+    {
+      "from": 889.859,
+      "to": 892.199,
+      "sid": 385,
+      "location": 2,
+      "content": "一线和香港的占比是多少",
+      "music": 0.0
+    },
+    {
+      "from": 892.199,
+      "to": 893.479,
+      "sid": 386,
+      "location": 2,
+      "content": "那像中海外",
+      "music": 0.0
+    },
+    {
+      "from": 893.479,
+      "to": 894.579,
+      "sid": 387,
+      "location": 2,
+      "content": "建发国际",
+      "music": 0.0
+    },
+    {
+      "from": 894.579,
+      "to": 896.4,
+      "sid": 388,
+      "location": 2,
+      "content": "华润置地和经贸",
+      "music": 0.0
+    },
+    {
+      "from": 896.4,
+      "to": 899.72,
+      "sid": 389,
+      "location": 2,
+      "content": "这几个是在这三个方面都比较突出的",
+      "music": 0.0
+    },
+    {
+      "from": 899.72,
+      "to": 900.42,
+      "sid": 390,
+      "location": 2,
+      "content": "懂了",
+      "music": 0.0
+    },
+    {
+      "from": 900.42,
+      "to": 902.6,
+      "sid": 391,
+      "location": 2,
+      "content": "那就是说2026年",
+      "music": 0.0
+    },
+    {
+      "from": 902.6,
+      "to": 905.3,
+      "sid": 392,
+      "location": 2,
+      "content": "这些主流的开发商在一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 905.3,
+      "to": 907.22,
+      "sid": 393,
+      "location": 2,
+      "content": "可售资源的占比有多少",
+      "music": 0.0
+    },
+    {
+      "from": 907.22,
+      "to": 908.92,
+      "sid": 394,
+      "location": 2,
+      "content": "这个占比差别其实很大",
+      "music": 0.0
+    },
+    {
+      "from": 908.92,
+      "to": 909.92,
+      "sid": 395,
+      "location": 2,
+      "content": "像华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 909.92,
+      "to": 912.46,
+      "sid": 396,
+      "location": 2,
+      "content": "中海外越秀和建发国际",
+      "music": 0.0
+    },
+    {
+      "from": 912.46,
+      "to": 915.02,
+      "sid": 397,
+      "location": 2,
+      "content": "他们2026年的可售资源里面",
+      "music": 0.0
+    },
+    {
+      "from": 915.02,
+      "to": 917.38,
+      "sid": 398,
+      "location": 2,
+      "content": "有46%到57%",
+      "music": 0.0
+    },
+    {
+      "from": 917.38,
+      "to": 919.099,
+      "sid": 399,
+      "location": 2,
+      "content": "都是在一线和香港",
+      "music": 0.0
+    },
+    {
+      "from": 919.099,
+      "to": 920.459,
+      "sid": 400,
+      "location": 2,
+      "content": "那像建发股份",
+      "music": 0.0
+    },
+    {
+      "from": 920.459,
+      "to": 921.119,
+      "sid": 401,
+      "location": 2,
+      "content": "绿城",
+      "music": 0.0
+    },
+    {
+      "from": 921.119,
+      "to": 922.499,
+      "sid": 402,
+      "location": 2,
+      "content": "保利龙湖",
+      "music": 0.0
+    },
+    {
+      "from": 922.499,
+      "to": 923.53,
+      "sid": 403,
+      "location": 2,
+      "content": "还有新城",
+      "music": 0.0
+    },
+    {
+      "from": 923.53,
+      "to": 925.57,
+      "sid": 404,
+      "location": 2,
+      "content": "他们的占比就明显要低一些",
+      "music": 0.0
+    },
+    {
+      "from": 925.57,
+      "to": 926.13,
+      "sid": 405,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 926.13,
+      "to": 928.31,
+      "sid": 406,
+      "location": 2,
+      "content": "然后我们来聚焦一下2025年",
+      "music": 0.0
+    },
+    {
+      "from": 928.31,
+      "to": 931.55,
+      "sid": 407,
+      "location": 2,
+      "content": "开发商的拿地的力度和拿地的结构",
+      "music": 0.0
+    },
+    {
+      "from": 931.55,
+      "to": 934.47,
+      "sid": 408,
+      "location": 2,
+      "content": "比如说他们在补充土地储备上面",
+      "music": 0.0
+    },
+    {
+      "from": 934.47,
+      "to": 935.86,
+      "sid": 409,
+      "location": 2,
+      "content": "整体是一个什么样的态度",
+      "music": 0.0
+    },
+    {
+      "from": 935.86,
+      "to": 937.9,
+      "sid": 410,
+      "location": 2,
+      "content": "然后有哪些企业是比较积极的",
+      "music": 0.0
+    },
+    {
+      "from": 937.9,
+      "to": 940.52,
+      "sid": 411,
+      "location": 2,
+      "content": "2025年整体的市场是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 940.52,
+      "to": 943.45,
+      "sid": 412,
+      "location": 2,
+      "content": "所以大部分的开发商都是在加快去库存",
+      "music": 0.0
+    },
+    {
+      "from": 943.45,
+      "to": 946.25,
+      "sid": 413,
+      "location": 2,
+      "content": "拿地的速度是明显慢于销售的",
+      "music": 0.0
+    },
+    {
+      "from": 946.25,
+      "to": 948.53,
+      "sid": 414,
+      "location": 2,
+      "content": "只有建发是一个例外",
+      "music": 0.0
+    },
+    {
+      "from": 948.53,
+      "to": 951.43,
+      "sid": 415,
+      "location": 2,
+      "content": "拿地的力度反而比销售还要猛",
+      "music": 0.0
+    },
+    {
+      "from": 951.43,
+      "to": 953.07,
+      "sid": 416,
+      "location": 2,
+      "content": "然后向建发国际",
+      "music": 0.0
+    },
+    {
+      "from": 953.07,
+      "to": 954.79,
+      "sid": 417,
+      "location": 2,
+      "content": "中海外和绿城",
+      "music": 0.0
+    },
+    {
+      "from": 954.79,
+      "to": 957.05,
+      "sid": 418,
+      "location": 2,
+      "content": "他们也是属于拿地比较积极的",
+      "music": 0.0
+    },
+    {
+      "from": 957.05,
+      "to": 960.55,
+      "sid": 419,
+      "location": 2,
+      "content": "就是新获取的可售资源和合同销售的比例",
+      "music": 0.0
+    },
+    {
+      "from": 960.55,
+      "to": 962.32,
+      "sid": 420,
+      "location": 2,
+      "content": "是在0.9左右",
+      "music": 0.0
+    },
+    {
+      "from": 962.32,
+      "to": 962.64,
+      "sid": 421,
+      "location": 2,
+      "content": "唉",
+      "music": 0.0
+    },
+    {
+      "from": 962.64,
+      "to": 965.92,
+      "sid": 422,
+      "location": 2,
+      "content": "那2025年开发商在拿地金额上面",
+      "music": 0.0
+    },
+    {
+      "from": 965.92,
+      "to": 968.28,
+      "sid": 423,
+      "location": 2,
+      "content": "和2024年相比有什么变化吗",
+      "music": 0.0
+    },
+    {
+      "from": 968.28,
+      "to": 969.86,
+      "sid": 424,
+      "location": 2,
+      "content": "除了越秀和龙湖之外",
+      "music": 0.0
+    },
+    {
+      "from": 969.86,
+      "to": 970.84,
+      "sid": 425,
+      "location": 2,
+      "content": "其他的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 970.84,
+      "to": 972.4,
+      "sid": 426,
+      "location": 2,
+      "content": "2025年的拿地金额",
+      "music": 0.0
+    },
+    {
+      "from": 972.4,
+      "to": 974.53,
+      "sid": 427,
+      "location": 2,
+      "content": "都是比2024年要多的",
+      "music": 0.0
+    },
+    {
+      "from": 974.53,
+      "to": 976.83,
+      "sid": 428,
+      "location": 2,
+      "content": "整体是增长了25%",
+      "music": 0.0
+    },
+    {
+      "from": 976.83,
+      "to": 981.11,
+      "sid": 429,
+      "location": 2,
+      "content": "那其中建发国际经贸和中海外是最激进的",
+      "music": 0.0
+    },
+    {
+      "from": 981.11,
+      "to": 983.97,
+      "sid": 430,
+      "location": 2,
+      "content": "他们的拿地金额的增幅都在33%",
+      "music": 0.0
+    },
+    {
+      "from": 983.97,
+      "to": 985.81,
+      "sid": 431,
+      "location": 2,
+      "content": "到62%之间",
+      "music": 0.0
+    },
+    {
+      "from": 985.81,
+      "to": 986.46,
+      "sid": 432,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 986.46,
+      "to": 989.52,
+      "sid": 433,
+      "location": 2,
+      "content": "那就是2025年开发商在拿地的时候",
+      "music": 0.0
+    },
+    {
+      "from": 989.52,
+      "to": 992.08,
+      "sid": 434,
+      "location": 2,
+      "content": "在城市的选择上面有什么新的偏好吗",
+      "music": 0.0
+    },
+    {
+      "from": 992.08,
+      "to": 994.32,
+      "sid": 435,
+      "location": 2,
+      "content": "2025年大家明显更谨慎了",
+      "music": 0.0
+    },
+    {
+      "from": 994.32,
+      "to": 997.05,
+      "sid": 436,
+      "location": 2,
+      "content": "就是更愿意把钱投到一线和香港",
+      "music": 0.0
+    },
+    {
+      "from": 997.05,
+      "to": 999.43,
+      "sid": 437,
+      "location": 2,
+      "content": "平均有57%的拿地金额",
+      "music": 0.0
+    },
+    {
+      "from": 999.43,
+      "to": 1001.0,
+      "sid": 438,
+      "location": 2,
+      "content": "都是花在这些城市",
+      "music": 0.0
+    },
+    {
+      "from": 1001.0,
+      "to": 1003.46,
+      "sid": 439,
+      "location": 2,
+      "content": "那其中像越秀中海外",
+      "music": 0.0
+    },
+    {
+      "from": 1003.46,
+      "to": 1005.62,
+      "sid": 440,
+      "location": 2,
+      "content": "华润金茂和龙湖",
+      "music": 0.0
+    },
+    {
+      "from": 1005.62,
+      "to": 1008.38,
+      "sid": 441,
+      "location": 2,
+      "content": "他们有61%到77%",
+      "music": 0.0
+    },
+    {
+      "from": 1008.38,
+      "to": 1010.9,
+      "sid": 442,
+      "location": 2,
+      "content": "的新增土地都是在一线和香港",
+      "music": 0.0
+    },
+    {
+      "from": 1010.9,
+      "to": 1011.48,
+      "sid": 443,
+      "location": 2,
+      "content": "Ok",
+      "music": 0.0
+    },
+    {
+      "from": 1011.48,
+      "to": 1013.5,
+      "sid": 444,
+      "location": 2,
+      "content": "那么今天我们把这个AI产业链",
+      "music": 0.0
+    },
+    {
+      "from": 1013.5,
+      "to": 1015.15,
+      "sid": 445,
+      "location": 2,
+      "content": "带动工业利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 1015.15,
+      "to": 1018.13,
+      "sid": 446,
+      "location": 2,
+      "content": "然后再到一线城市的房地产市场的复苏",
+      "music": 0.0
+    },
+    {
+      "from": 1018.13,
+      "to": 1021.4,
+      "sid": 447,
+      "location": 2,
+      "content": "以及我们怎么去挑选那些最受益的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 1021.4,
+      "to": 1023.28,
+      "sid": 448,
+      "location": 2,
+      "content": "整个的逻辑给大家梳理了一遍",
+      "music": 0.0
+    },
+    {
+      "from": 1023.28,
+      "to": 1023.68,
+      "sid": 449,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 1023.68,
+      "to": 1024.9,
+      "sid": 450,
+      "location": 2,
+      "content": "感谢大家的收听",
+      "music": 0.0
+    },
+    {
+      "from": 1024.9,
+      "to": 1026.34,
+      "sid": 451,
+      "location": 2,
+      "content": "我们下期节目再见吧",
+      "music": 0.0
+    },
+    {
+      "from": 1026.34,
+      "to": 1027.48,
+      "sid": 452,
+      "location": 2,
+      "content": "拜拜拜拜",
+      "music": 0.0
+    }
+  ]
+}

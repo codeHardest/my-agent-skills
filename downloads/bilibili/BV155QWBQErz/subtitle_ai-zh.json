@@ -1,0 +1,4564 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.32,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.32,
+      "to": 4.88,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢跟大家分享一篇高盛的宏观研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.88,
+      "to": 6.52,
+      "sid": 4,
+      "location": 2,
+      "content": "但是在分享这篇研报之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 6.52,
+      "to": 8.8,
+      "sid": 5,
+      "location": 2,
+      "content": "我们先来回顾一下周六的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 8.8,
+      "to": 9.96,
+      "sid": 6,
+      "location": 2,
+      "content": "是给大家分享了",
+      "music": 0.0
+    },
+    {
+      "from": 9.96,
+      "to": 12.74,
+      "sid": 7,
+      "location": 2,
+      "content": "高盛地产团队的最新一篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.74,
+      "to": 15.6,
+      "sid": 8,
+      "location": 2,
+      "content": "说的是他们认为2026年第四季度",
+      "music": 0.0
+    },
+    {
+      "from": 15.6,
+      "to": 17.72,
+      "sid": 9,
+      "location": 2,
+      "content": "也就是今年的年末之前",
+      "music": 0.0
+    },
+    {
+      "from": 17.72,
+      "to": 20.18,
+      "sid": 10,
+      "location": 2,
+      "content": "上海和深圳的房价将完成止跌",
+      "music": 0.0
+    },
+    {
+      "from": 20.18,
+      "to": 21.96,
+      "sid": 11,
+      "location": 2,
+      "content": "并且在未来两年",
+      "music": 0.0
+    },
+    {
+      "from": 21.96,
+      "to": 24.2,
+      "sid": 12,
+      "location": 2,
+      "content": "也就是到2028年末的时候",
+      "music": 0.0
+    },
+    {
+      "from": 24.2,
+      "to": 27.86,
+      "sid": 13,
+      "location": 2,
+      "content": "这两个城市的房价将有15%的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 27.86,
+      "to": 30.66,
+      "sid": 14,
+      "location": 2,
+      "content": "而且呢他们给出了上海和深圳",
+      "music": 0.0
+    },
+    {
+      "from": 30.66,
+      "to": 32.56,
+      "sid": 15,
+      "location": 2,
+      "content": "房价止跌的四个支撑逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 32.56,
+      "to": 34.46,
+      "sid": 16,
+      "location": 2,
+      "content": "分别是人口收入",
+      "music": 0.0
+    },
+    {
+      "from": 34.46,
+      "to": 36.94,
+      "sid": 17,
+      "location": 2,
+      "content": "可负担性和供需关系啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.94,
+      "to": 40.05,
+      "sid": 18,
+      "location": 2,
+      "content": "其中人口收入和供需关系这三项",
+      "music": 0.0
+    },
+    {
+      "from": 40.05,
+      "to": 43.19,
+      "sid": 19,
+      "location": 2,
+      "content": "上海和深圳相较于香港更有优势",
+      "music": 0.0
+    },
+    {
+      "from": 43.19,
+      "to": 46.97,
+      "sid": 20,
+      "location": 2,
+      "content": "而可负担性本身呢虽然相较于香港是有差距的",
+      "music": 0.0
+    },
+    {
+      "from": 46.97,
+      "to": 48.47,
+      "sid": 21,
+      "location": 2,
+      "content": "但是这个差距在收窄",
+      "music": 0.0
+    },
+    {
+      "from": 48.47,
+      "to": 50.19,
+      "sid": 22,
+      "location": 2,
+      "content": "那除了这四项因素以外呢",
+      "music": 0.0
+    },
+    {
+      "from": 50.19,
+      "to": 51.63,
+      "sid": 23,
+      "location": 2,
+      "content": "还有一个额外的因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.63,
+      "to": 52.36,
+      "sid": 24,
+      "location": 2,
+      "content": "去推动",
+      "music": 0.0
+    },
+    {
+      "from": 52.36,
+      "to": 55.12,
+      "sid": 25,
+      "location": 2,
+      "content": "也就是内地资本市场带来的财富效应",
+      "music": 0.0
+    },
+    {
+      "from": 55.12,
+      "to": 56.44,
+      "sid": 26,
+      "location": 2,
+      "content": "向房地产市场的转移",
+      "music": 0.0
+    },
+    {
+      "from": 56.44,
+      "to": 58.9,
+      "sid": 27,
+      "location": 2,
+      "content": "上海和深圳由于都是金融中心",
+      "music": 0.0
+    },
+    {
+      "from": 58.9,
+      "to": 60.9,
+      "sid": 28,
+      "location": 2,
+      "content": "这两个城市的高净值人群",
+      "music": 0.0
+    },
+    {
+      "from": 60.9,
+      "to": 63.64,
+      "sid": 29,
+      "location": 2,
+      "content": "他们的金融资产相对来说比较多",
+      "music": 0.0
+    },
+    {
+      "from": 63.64,
+      "to": 65.82,
+      "sid": 30,
+      "location": 2,
+      "content": "从而能够得益于股市的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 65.82,
+      "to": 68.539,
+      "sid": 31,
+      "location": 2,
+      "content": "那在股市赚到的钱去房地产市场买房",
+      "music": 0.0
+    },
+    {
+      "from": 68.539,
+      "to": 69.779,
+      "sid": 32,
+      "location": 2,
+      "content": "那在那期影片里呢",
+      "music": 0.0
+    },
+    {
+      "from": 69.779,
+      "to": 71.739,
+      "sid": 33,
+      "location": 2,
+      "content": "我也谈了我个人的看法",
+      "music": 0.0
+    },
+    {
+      "from": 71.739,
+      "to": 73.859,
+      "sid": 34,
+      "location": 2,
+      "content": "就是高盛地产团队的这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 73.859,
+      "to": 75.43,
+      "sid": 35,
+      "location": 2,
+      "content": "可能目的并不单纯",
+      "music": 0.0
+    },
+    {
+      "from": 75.43,
+      "to": 77.71,
+      "sid": 36,
+      "location": 2,
+      "content": "也许是为了出货而写的",
+      "music": 0.0
+    },
+    {
+      "from": 77.71,
+      "to": 79.19,
+      "sid": 37,
+      "location": 2,
+      "content": "他是一篇命题作文",
+      "music": 0.0
+    },
+    {
+      "from": 79.19,
+      "to": 81.37,
+      "sid": 38,
+      "location": 2,
+      "content": "先有论点再去找论据",
+      "music": 0.0
+    },
+    {
+      "from": 81.37,
+      "to": 82.81,
+      "sid": 39,
+      "location": 2,
+      "content": "因为他的论点很明确",
+      "music": 0.0
+    },
+    {
+      "from": 82.81,
+      "to": 85.59,
+      "sid": 40,
+      "location": 2,
+      "content": "就是那四只啊房企的股票",
+      "music": 0.0
+    },
+    {
+      "from": 85.59,
+      "to": 89.25,
+      "sid": 41,
+      "location": 2,
+      "content": "所以我当时也是觉得他可能类似于半夏的李贝",
+      "music": 0.0
+    },
+    {
+      "from": 89.25,
+      "to": 90.02,
+      "sid": 42,
+      "location": 2,
+      "content": "是在出货",
+      "music": 0.0
+    },
+    {
+      "from": 90.02,
+      "to": 90.82,
+      "sid": 43,
+      "location": 2,
+      "content": "那期影片里呢",
+      "music": 0.0
+    },
+    {
+      "from": 90.82,
+      "to": 92.86,
+      "sid": 44,
+      "location": 2,
+      "content": "我也提到了高盛宏观团队",
+      "music": 0.0
+    },
+    {
+      "from": 92.86,
+      "to": 95.78,
+      "sid": 45,
+      "location": 2,
+      "content": "就是今天要给大家分享的是在当时的同一天",
+      "music": 0.0
+    },
+    {
+      "from": 95.78,
+      "to": 96.94,
+      "sid": 46,
+      "location": 2,
+      "content": "也是4月9号的时候",
+      "music": 0.0
+    },
+    {
+      "from": 96.94,
+      "to": 98.68,
+      "sid": 47,
+      "location": 2,
+      "content": "同样发表了一篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 98.68,
+      "to": 102.25,
+      "sid": 48,
+      "location": 2,
+      "content": "来谈内地四个一线城市房价止跌的判断",
+      "music": 0.0
+    },
+    {
+      "from": 102.25,
+      "to": 104.71,
+      "sid": 49,
+      "location": 2,
+      "content": "但是结论呢和地产团队的研报",
+      "music": 0.0
+    },
+    {
+      "from": 104.71,
+      "to": 106.04,
+      "sid": 50,
+      "location": 2,
+      "content": "明显是不一致的啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.04,
+      "to": 109.76,
+      "sid": 51,
+      "location": 2,
+      "content": "第一呢是没有说26年四季度房价能够止跌",
+      "music": 0.0
+    },
+    {
+      "from": 109.76,
+      "to": 111.12,
+      "sid": 52,
+      "location": 2,
+      "content": "上海深圳的房价能止跌",
+      "music": 0.0
+    },
+    {
+      "from": 111.12,
+      "to": 114.3,
+      "sid": 53,
+      "location": 2,
+      "content": "只是说上海和深圳相较于其他的一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 114.3,
+      "to": 115.1,
+      "sid": 54,
+      "location": 2,
+      "content": "更有优势",
+      "music": 0.0
+    },
+    {
+      "from": 115.1,
+      "to": 116.73,
+      "sid": 55,
+      "location": 2,
+      "content": "能够先行止列",
+      "music": 0.0
+    },
+    {
+      "from": 116.73,
+      "to": 119.61,
+      "sid": 56,
+      "location": 2,
+      "content": "那另外呢也没有说在未来的两年",
+      "music": 0.0
+    },
+    {
+      "from": 119.61,
+      "to": 123.09,
+      "sid": 57,
+      "location": 2,
+      "content": "上海和深圳隐含着15%的房价涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 123.09,
+      "to": 126.32,
+      "sid": 58,
+      "location": 2,
+      "content": "所以显然呢相对于地产团队的研报来说",
+      "music": 0.0
+    },
+    {
+      "from": 126.32,
+      "to": 129.16,
+      "sid": 59,
+      "location": 2,
+      "content": "宏观团队的这篇研报更加客观",
+      "music": 0.0
+    },
+    {
+      "from": 129.16,
+      "to": 131.3,
+      "sid": 60,
+      "location": 2,
+      "content": "我今天呢就和大家来分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 131.3,
+      "to": 133.31,
+      "sid": 61,
+      "location": 2,
+      "content": "高盛宏观团队的这篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.31,
+      "to": 136.71,
+      "sid": 62,
+      "location": 2,
+      "content": "首先呢和大家分享一下这篇研报的核心结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.71,
+      "to": 139.6,
+      "sid": 63,
+      "location": 2,
+      "content": "这篇报告首先提到的呢就是说长期以来",
+      "music": 0.0
+    },
+    {
+      "from": 139.6,
+      "to": 142.6,
+      "sid": 64,
+      "location": 2,
+      "content": "香港和内地一线城市的房价走势",
+      "music": 0.0
+    },
+    {
+      "from": 142.6,
+      "to": 144.8,
+      "sid": 65,
+      "location": 2,
+      "content": "是呈现高度的正相关",
+      "music": 0.0
+    },
+    {
+      "from": 144.8,
+      "to": 147.72,
+      "sid": 66,
+      "location": 2,
+      "content": "但是呢这里面历史上有两次的差异",
+      "music": 0.0
+    },
+    {
+      "from": 147.72,
+      "to": 149.96,
+      "sid": 67,
+      "location": 2,
+      "content": "第一次呢是在一六到17年",
+      "music": 0.0
+    },
+    {
+      "from": 152.52,
+      "to": 155.75,
+      "sid": 68,
+      "location": 2,
+      "content": "其实推动内地的房价逆势上涨",
+      "music": 0.0
+    },
+    {
+      "from": 155.75,
+      "to": 158.17,
+      "sid": 69,
+      "location": 2,
+      "content": "和香港的房价之间形成了一个差异",
+      "music": 0.0
+    },
+    {
+      "from": 158.17,
+      "to": 162.44,
+      "sid": 70,
+      "location": 2,
+      "content": "另一次的背离呢就是在2025年二季度至今",
+      "music": 0.0
+    },
+    {
+      "from": 162.44,
+      "to": 165.94,
+      "sid": 71,
+      "location": 2,
+      "content": "香港和北上广深的房价走势呈现了明显的背离",
+      "music": 0.0
+    },
+    {
+      "from": 165.94,
+      "to": 169.84,
+      "sid": 72,
+      "location": 2,
+      "content": "这篇报告呢分析了导致这种背离的四项成因",
+      "music": 0.0
+    },
+    {
+      "from": 169.84,
+      "to": 170.58,
+      "sid": 73,
+      "location": 2,
+      "content": "分别是",
+      "music": 0.0
+    },
+    {
+      "from": 170.58,
+      "to": 174.71,
+      "sid": 74,
+      "location": 2,
+      "content": "香港与内地一线城市之间的政策刺激力度差异",
+      "music": 0.0
+    },
+    {
+      "from": 174.71,
+      "to": 176.68,
+      "sid": 75,
+      "location": 2,
+      "content": "外来需求厚度的差异",
+      "music": 0.0
+    },
+    {
+      "from": 176.68,
+      "to": 180.2,
+      "sid": 76,
+      "location": 2,
+      "content": "内需复苏程度的差异和疤痕效应的差异",
+      "music": 0.0
+    },
+    {
+      "from": 180.2,
+      "to": 182.64,
+      "sid": 77,
+      "location": 2,
+      "content": "我简单说一下这四项差异啊",
+      "music": 0.0
+    },
+    {
+      "from": 182.64,
+      "to": 184.94,
+      "sid": 78,
+      "location": 2,
+      "content": "第一个呢是政策刺激力度的差异",
+      "music": 0.0
+    },
+    {
+      "from": 184.94,
+      "to": 187.56,
+      "sid": 79,
+      "location": 2,
+      "content": "主要说的其实是限购的放松幅度",
+      "music": 0.0
+    },
+    {
+      "from": 187.56,
+      "to": 189.62,
+      "sid": 80,
+      "location": 2,
+      "content": "和购房税费减免的程度",
+      "music": 0.0
+    },
+    {
+      "from": 189.62,
+      "to": 190.98,
+      "sid": 81,
+      "location": 2,
+      "content": "我相信大家都理解对吧",
+      "music": 0.0
+    },
+    {
+      "from": 190.98,
+      "to": 192.26,
+      "sid": 82,
+      "location": 2,
+      "content": "国内特别是北京",
+      "music": 0.0
+    },
+    {
+      "from": 192.26,
+      "to": 194.12,
+      "sid": 83,
+      "location": 2,
+      "content": "上海目前的限购还没有完全放松",
+      "music": 0.0
+    },
+    {
+      "from": 194.12,
+      "to": 196.3,
+      "sid": 84,
+      "location": 2,
+      "content": "而香港在2024年早就放松了",
+      "music": 0.0
+    },
+    {
+      "from": 196.3,
+      "to": 198.869,
+      "sid": 85,
+      "location": 2,
+      "content": "同时香港的撤蜡之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.869,
+      "to": 200.629,
+      "sid": 86,
+      "location": 2,
+      "content": "他的税费是大幅减免了",
+      "music": 0.0
+    },
+    {
+      "from": 200.629,
+      "to": 202.41,
+      "sid": 87,
+      "location": 2,
+      "content": "一会我也会再给大家分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 202.41,
+      "to": 204.85,
+      "sid": 88,
+      "location": 2,
+      "content": "第二个呢就是外来需求厚度的差异",
+      "music": 0.0
+    },
+    {
+      "from": 204.85,
+      "to": 206.23,
+      "sid": 89,
+      "location": 2,
+      "content": "这个主要指的是香港",
+      "music": 0.0
+    },
+    {
+      "from": 206.23,
+      "to": 208.53,
+      "sid": 90,
+      "location": 2,
+      "content": "特别是香港的豪宅市场",
+      "music": 0.0
+    },
+    {
+      "from": 208.53,
+      "to": 209.28,
+      "sid": 91,
+      "location": 2,
+      "content": "买家当中",
+      "music": 0.0
+    },
+    {
+      "from": 209.28,
+      "to": 212.7,
+      "sid": 92,
+      "location": 2,
+      "content": "有一半是来自于内地的高净值人群卖掉的",
+      "music": 0.0
+    },
+    {
+      "from": 212.7,
+      "to": 216.0,
+      "sid": 93,
+      "location": 2,
+      "content": "那另外呢就叠加香港从2023年开始的",
+      "music": 0.0
+    },
+    {
+      "from": 216.0,
+      "to": 217.34,
+      "sid": 94,
+      "location": 2,
+      "content": "高材优才计划",
+      "music": 0.0
+    },
+    {
+      "from": 217.34,
+      "to": 221.33,
+      "sid": 95,
+      "location": 2,
+      "content": "对内地高层次人才的吸引力是在逐渐加强的",
+      "music": 0.0
+    },
+    {
+      "from": 221.33,
+      "to": 223.97,
+      "sid": 96,
+      "location": 2,
+      "content": "第三呢是内需复苏程度的差异",
+      "music": 0.0
+    },
+    {
+      "from": 223.97,
+      "to": 226.36,
+      "sid": 97,
+      "location": 2,
+      "content": "这个主要指的是香港的经济复苏",
+      "music": 0.0
+    },
+    {
+      "from": 226.36,
+      "to": 228.88,
+      "sid": 98,
+      "location": 2,
+      "content": "和内地经济复苏的支撑逻辑不一样",
+      "music": 0.0
+    },
+    {
+      "from": 228.88,
+      "to": 232.16,
+      "sid": 99,
+      "location": 2,
+      "content": "香港的经济复苏主要依赖的是内需",
+      "music": 0.0
+    },
+    {
+      "from": 232.16,
+      "to": 233.76,
+      "sid": 100,
+      "location": 2,
+      "content": "消费的复苏啊",
+      "music": 0.0
+    },
+    {
+      "from": 233.76,
+      "to": 236.72,
+      "sid": 101,
+      "location": 2,
+      "content": "说白了还是因为大家的收入是有增长的",
+      "music": 0.0
+    },
+    {
+      "from": 236.72,
+      "to": 240.04,
+      "sid": 102,
+      "location": 2,
+      "content": "而内地的经济复苏主要靠的是出口拉动",
+      "music": 0.0
+    },
+    {
+      "from": 240.04,
+      "to": 242.5,
+      "sid": 103,
+      "location": 2,
+      "content": "而内需呢是仍然疲软的",
+      "music": 0.0
+    },
+    {
+      "from": 242.5,
+      "to": 243.88,
+      "sid": 104,
+      "location": 2,
+      "content": "通缩还在持续",
+      "music": 0.0
+    },
+    {
+      "from": 243.88,
+      "to": 247.71,
+      "sid": 105,
+      "location": 2,
+      "content": "即便我们看到PPI在3月份是如期转正了",
+      "music": 0.0
+    },
+    {
+      "from": 247.71,
+      "to": 249.37,
+      "sid": 106,
+      "location": 2,
+      "content": "有正的0.5的增长",
+      "music": 0.0
+    },
+    {
+      "from": 249.37,
+      "to": 252.19,
+      "sid": 107,
+      "location": 2,
+      "content": "但是如果我们去看GDP的平减指数啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.19,
+      "to": 254.02,
+      "sid": 108,
+      "location": 2,
+      "content": "可能是一个更好的标尺",
+      "music": 0.0
+    },
+    {
+      "from": 254.02,
+      "to": 255.62,
+      "sid": 109,
+      "location": 2,
+      "content": "那这个GDP的平均指数呢",
+      "music": 0.0
+    },
+    {
+      "from": 255.62,
+      "to": 259.16,
+      "sid": 110,
+      "location": 2,
+      "content": "之前大摩给出的观点是只会增长正的0.2",
+      "music": 0.0
+    },
+    {
+      "from": 259.16,
+      "to": 262.22,
+      "sid": 111,
+      "location": 2,
+      "content": "也就是说它是属于一个微通胀的状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 262.22,
+      "to": 265.019,
+      "sid": 112,
+      "location": 2,
+      "content": "那显然从大家的体感来说啊",
+      "music": 0.0
+    },
+    {
+      "from": 265.019,
+      "to": 266.74,
+      "sid": 113,
+      "location": 2,
+      "content": "国内的通缩也是在持续",
+      "music": 0.0
+    },
+    {
+      "from": 266.74,
+      "to": 268.98,
+      "sid": 114,
+      "location": 2,
+      "content": "那第四项呢就是疤痕效应的差异",
+      "music": 0.0
+    },
+    {
+      "from": 268.98,
+      "to": 270.5,
+      "sid": 115,
+      "location": 2,
+      "content": "这主要指的是内地",
+      "music": 0.0
+    },
+    {
+      "from": 270.5,
+      "to": 272.96,
+      "sid": 116,
+      "location": 2,
+      "content": "在烂尾楼和房价持续下跌之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.96,
+      "to": 275.92,
+      "sid": 117,
+      "location": 2,
+      "content": "潜在的购房人倾向于滞后买房需求",
+      "music": 0.0
+    },
+    {
+      "from": 275.92,
+      "to": 279.52,
+      "sid": 118,
+      "location": 2,
+      "content": "同时呢倾向于去买一些现房或者是二手房",
+      "music": 0.0
+    },
+    {
+      "from": 279.52,
+      "to": 283.289,
+      "sid": 119,
+      "location": 2,
+      "content": "那此外呢内地由于此前房价上涨",
+      "music": 0.0
+    },
+    {
+      "from": 283.289,
+      "to": 286.08,
+      "sid": 120,
+      "location": 2,
+      "content": "也催生了大量的投机购房需求",
+      "music": 0.0
+    },
+    {
+      "from": 286.08,
+      "to": 290.5,
+      "sid": 121,
+      "location": 2,
+      "content": "这些房子在当下也形成了市场上的隐性库存",
+      "music": 0.0
+    },
+    {
+      "from": 290.5,
+      "to": 292.46,
+      "sid": 122,
+      "location": 2,
+      "content": "或者说隐性的净供给",
+      "music": 0.0
+    },
+    {
+      "from": 292.46,
+      "to": 294.28,
+      "sid": 123,
+      "location": 2,
+      "content": "这些房子的挂牌出售",
+      "music": 0.0
+    },
+    {
+      "from": 294.28,
+      "to": 297.07,
+      "sid": 124,
+      "location": 2,
+      "content": "会分流本就有限的购房需求",
+      "music": 0.0
+    },
+    {
+      "from": 297.07,
+      "to": 300.13,
+      "sid": 125,
+      "location": 2,
+      "content": "从而对房价形成持续的负向压力",
+      "music": 0.0
+    },
+    {
+      "from": 300.13,
+      "to": 302.01,
+      "sid": 126,
+      "location": 2,
+      "content": "之前呢也有专家学者测算",
+      "music": 0.0
+    },
+    {
+      "from": 302.01,
+      "to": 305.33,
+      "sid": 127,
+      "location": 2,
+      "content": "大概这种纯投机而买的房子",
+      "music": 0.0
+    },
+    {
+      "from": 305.33,
+      "to": 309.31,
+      "sid": 128,
+      "location": 2,
+      "content": "占到全国总的存量房当中的20%之多啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.31,
+      "to": 311.159,
+      "sid": 129,
+      "location": 2,
+      "content": "这也是非常夸张的一个数字",
+      "music": 0.0
+    },
+    {
+      "from": 311.159,
+      "to": 312.959,
+      "sid": 130,
+      "location": 2,
+      "content": "那除了上述的差异之外呢",
+      "music": 0.0
+    },
+    {
+      "from": 312.959,
+      "to": 313.979,
+      "sid": 131,
+      "location": 2,
+      "content": "不同于香港啊",
+      "music": 0.0
+    },
+    {
+      "from": 313.979,
+      "to": 318.039,
+      "sid": 132,
+      "location": 2,
+      "content": "当前内地一线城市的净租金回报率仍然是负的",
+      "music": 0.0
+    },
+    {
+      "from": 318.039,
+      "to": 321.42,
+      "sid": 133,
+      "location": 2,
+      "content": "也就是说租金回报率呢是低于房贷利率的",
+      "music": 0.0
+    },
+    {
+      "from": 321.42,
+      "to": 322.86,
+      "sid": 134,
+      "location": 2,
+      "content": "这个其实我也反复给大家分享",
+      "music": 0.0
+    },
+    {
+      "from": 322.86,
+      "to": 323.66,
+      "sid": 135,
+      "location": 2,
+      "content": "我相信啊",
+      "music": 0.0
+    },
+    {
+      "from": 323.66,
+      "to": 325.94,
+      "sid": 136,
+      "location": 2,
+      "content": "现在啊但凡是我这个频道的观众",
+      "music": 0.0
+    },
+    {
+      "from": 325.94,
+      "to": 328.64,
+      "sid": 137,
+      "location": 2,
+      "content": "应该都很清楚的理解这样的一个逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.64,
+      "to": 330.36,
+      "sid": 138,
+      "location": 2,
+      "content": "租和买之间哪个更划算啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.36,
+      "to": 333.32,
+      "sid": 139,
+      "location": 2,
+      "content": "当然在高盛的这篇地产团队的研报里面",
+      "music": 0.0
+    },
+    {
+      "from": 333.32,
+      "to": 336.8,
+      "sid": 140,
+      "location": 2,
+      "content": "他其实分析了为什么租比买划算",
+      "music": 0.0
+    },
+    {
+      "from": 336.8,
+      "to": 339.88,
+      "sid": 141,
+      "location": 2,
+      "content": "这里面一个主要原因是持有房子本身",
+      "music": 0.0
+    },
+    {
+      "from": 339.88,
+      "to": 342.26,
+      "sid": 142,
+      "location": 2,
+      "content": "或者说能把自己的户口落在房子里",
+      "music": 0.0
+    },
+    {
+      "from": 342.26,
+      "to": 344.309,
+      "sid": 143,
+      "location": 2,
+      "content": "本身有更多的附加属性",
+      "music": 0.0
+    },
+    {
+      "from": 344.309,
+      "to": 345.689,
+      "sid": 144,
+      "location": 2,
+      "content": "比如说社保医保",
+      "music": 0.0
+    },
+    {
+      "from": 345.689,
+      "to": 349.029,
+      "sid": 145,
+      "location": 2,
+      "content": "孩子的上学的机会以及高考的考题",
+      "music": 0.0
+    },
+    {
+      "from": 349.029,
+      "to": 350.869,
+      "sid": 146,
+      "location": 2,
+      "content": "能够相较于其他省份更简单",
+      "music": 0.0
+    },
+    {
+      "from": 350.869,
+      "to": 355.47,
+      "sid": 147,
+      "location": 2,
+      "content": "这都是附加在房子本身的属性之上的一些价值",
+      "music": 0.0
+    },
+    {
+      "from": 355.47,
+      "to": 356.85,
+      "sid": 148,
+      "location": 2,
+      "content": "但不管怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 356.85,
+      "to": 359.08,
+      "sid": 149,
+      "location": 2,
+      "content": "目前如果你单纯的是为了住",
+      "music": 0.0
+    },
+    {
+      "from": 359.08,
+      "to": 359.52,
+      "sid": 150,
+      "location": 2,
+      "content": "租",
+      "music": 0.0
+    },
+    {
+      "from": 359.52,
+      "to": 360.88,
+      "sid": 151,
+      "location": 2,
+      "content": "仍然是比买划算的",
+      "music": 0.0
+    },
+    {
+      "from": 360.88,
+      "to": 362.66,
+      "sid": 152,
+      "location": 2,
+      "content": "即便在四个核心一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 362.66,
+      "to": 365.54,
+      "sid": 153,
+      "location": 2,
+      "content": "那除了刚才讲到的净租金回报率差异",
+      "music": 0.0
+    },
+    {
+      "from": 365.54,
+      "to": 367.46,
+      "sid": 154,
+      "location": 2,
+      "content": "内地四个一线城市相较于香港以外",
+      "music": 0.0
+    },
+    {
+      "from": 367.46,
+      "to": 369.52,
+      "sid": 155,
+      "location": 2,
+      "content": "再叠加的就是除了深圳以外",
+      "music": 0.0
+    },
+    {
+      "from": 369.52,
+      "to": 373.44,
+      "sid": 156,
+      "location": 2,
+      "content": "其他一线城市的库存仍然显著的高于香港",
+      "music": 0.0
+    },
+    {
+      "from": 373.44,
+      "to": 375.46,
+      "sid": 157,
+      "location": 2,
+      "content": "因此呢高盛宏观团队认为",
+      "music": 0.0
+    },
+    {
+      "from": 375.46,
+      "to": 377.62,
+      "sid": 158,
+      "location": 2,
+      "content": "内地一线城市的房价复苏",
+      "music": 0.0
+    },
+    {
+      "from": 377.62,
+      "to": 381.1,
+      "sid": 159,
+      "location": 2,
+      "content": "仍然是一个渐进的供需再平衡过程",
+      "music": 0.0
+    },
+    {
+      "from": 381.1,
+      "to": 383.26,
+      "sid": 160,
+      "location": 2,
+      "content": "你可以看到他的用词呢叫做",
+      "music": 0.0
+    },
+    {
+      "from": 383.26,
+      "to": 384.7,
+      "sid": 161,
+      "location": 2,
+      "content": "A gradual rebalancing",
+      "music": 0.0
+    },
+    {
+      "from": 384.7,
+      "to": 385.34,
+      "sid": 162,
+      "location": 2,
+      "content": "而且呢",
+      "music": 0.0
+    },
+    {
+      "from": 385.34,
+      "to": 388.66,
+      "sid": 163,
+      "location": 2,
+      "content": "考虑到楼市大规模刺激的门槛也在逐渐的提高",
+      "music": 0.0
+    },
+    {
+      "from": 388.66,
+      "to": 389.14,
+      "sid": 164,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 389.14,
+      "to": 393.02,
+      "sid": 165,
+      "location": 2,
+      "content": "决策层更倾向于将有限的财政资源用于去支持",
+      "music": 0.0
+    },
+    {
+      "from": 393.02,
+      "to": 394.16,
+      "sid": 166,
+      "location": 2,
+      "content": "比如说能源安全",
+      "music": 0.0
+    },
+    {
+      "from": 394.16,
+      "to": 395.02,
+      "sid": 167,
+      "location": 2,
+      "content": "粮食安全",
+      "music": 0.0
+    },
+    {
+      "from": 395.02,
+      "to": 396.32,
+      "sid": 168,
+      "location": 2,
+      "content": "科技自立自强",
+      "music": 0.0
+    },
+    {
+      "from": 396.32,
+      "to": 398.36,
+      "sid": 169,
+      "location": 2,
+      "content": "即便说退而求其次",
+      "music": 0.0
+    },
+    {
+      "from": 398.36,
+      "to": 400.28,
+      "sid": 170,
+      "location": 2,
+      "content": "也更倾向于去支持消费",
+      "music": 0.0
+    },
+    {
+      "from": 400.28,
+      "to": 401.28,
+      "sid": 171,
+      "location": 2,
+      "content": "而不是房地产",
+      "music": 0.0
+    },
+    {
+      "from": 401.28,
+      "to": 404.85,
+      "sid": 172,
+      "location": 2,
+      "content": "甚至房地产可能是目前财政资源当中",
+      "music": 0.0
+    },
+    {
+      "from": 404.85,
+      "to": 407.43,
+      "sid": 173,
+      "location": 2,
+      "content": "最后去支持的一个领域",
+      "music": 0.0
+    },
+    {
+      "from": 407.43,
+      "to": 410.41,
+      "sid": 174,
+      "location": 2,
+      "content": "那除非呢看到房价再次加速下跌",
+      "music": 0.0
+    },
+    {
+      "from": 410.41,
+      "to": 412.83,
+      "sid": 175,
+      "location": 2,
+      "content": "甚至引发系统性金融风险",
+      "music": 0.0
+    },
+    {
+      "from": 412.83,
+      "to": 413.77,
+      "sid": 176,
+      "location": 2,
+      "content": "不然的话",
+      "music": 0.0
+    },
+    {
+      "from": 413.77,
+      "to": 415.75,
+      "sid": 177,
+      "location": 2,
+      "content": "整体对于房地产的政策",
+      "music": 0.0
+    },
+    {
+      "from": 415.75,
+      "to": 418.45,
+      "sid": 178,
+      "location": 2,
+      "content": "仍然延续的就是这样一个托而不举的思路",
+      "music": 0.0
+    },
+    {
+      "from": 418.45,
+      "to": 420.1,
+      "sid": 179,
+      "location": 2,
+      "content": "因此呢核心城市的房价",
+      "music": 0.0
+    },
+    {
+      "from": 420.1,
+      "to": 422.18,
+      "sid": 180,
+      "location": 2,
+      "content": "按照高盛宏观团队的判断",
+      "music": 0.0
+    },
+    {
+      "from": 422.18,
+      "to": 424.62,
+      "sid": 181,
+      "location": 2,
+      "content": "止跌至少还需要一到两年啊",
+      "music": 0.0
+    },
+    {
+      "from": 424.62,
+      "to": 425.5,
+      "sid": 182,
+      "location": 2,
+      "content": "他的原话叫做",
+      "music": 0.0
+    },
+    {
+      "from": 425.5,
+      "to": 427.1,
+      "sid": 183,
+      "location": 2,
+      "content": "We expect more tire one",
+      "music": 0.0
+    },
+    {
+      "from": 427.1,
+      "to": 428.77,
+      "sid": 184,
+      "location": 2,
+      "content": "Tire two cities to achieve",
+      "music": 0.0
+    },
+    {
+      "from": 428.77,
+      "to": 432.84,
+      "sid": 185,
+      "location": 2,
+      "content": "Local home price stabilization within the next one or two years",
+      "music": 0.0
+    },
+    {
+      "from": 432.84,
+      "to": 433.92,
+      "sid": 186,
+      "location": 2,
+      "content": "这样的一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 433.92,
+      "to": 437.32,
+      "sid": 187,
+      "location": 2,
+      "content": "显然比之前高盛地产团队的一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 437.32,
+      "to": 439.56,
+      "sid": 188,
+      "location": 2,
+      "content": "就是在今年的四季度就完成职业",
+      "music": 0.0
+    },
+    {
+      "from": 439.56,
+      "to": 443.32,
+      "sid": 189,
+      "location": 2,
+      "content": "也就是说在未来的大概九个月就能够完成止跌",
+      "music": 0.0
+    },
+    {
+      "from": 443.32,
+      "to": 445.74,
+      "sid": 190,
+      "location": 2,
+      "content": "这样一个判断更加的客观一些",
+      "music": 0.0
+    },
+    {
+      "from": 445.74,
+      "to": 447.26,
+      "sid": 191,
+      "location": 2,
+      "content": "同时呢这篇研报也提到啊",
+      "music": 0.0
+    },
+    {
+      "from": 447.26,
+      "to": 450.1,
+      "sid": 192,
+      "location": 2,
+      "content": "就是考虑到深圳和上海的净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 450.1,
+      "to": 451.26,
+      "sid": 193,
+      "location": 2,
+      "content": "更接近于转正",
+      "music": 0.0
+    },
+    {
+      "from": 451.26,
+      "to": 453.15,
+      "sid": 194,
+      "location": 2,
+      "content": "同时库存相对比较少",
+      "music": 0.0
+    },
+    {
+      "from": 453.15,
+      "to": 455.19,
+      "sid": 195,
+      "location": 2,
+      "content": "那因此呢这两个城市的房价",
+      "music": 0.0
+    },
+    {
+      "from": 455.19,
+      "to": 457.249,
+      "sid": 196,
+      "location": 2,
+      "content": "是有望优先指别的啊",
+      "music": 0.0
+    },
+    {
+      "from": 457.249,
+      "to": 458.329,
+      "sid": 197,
+      "location": 2,
+      "content": "Likely to lead",
+      "music": 0.0
+    },
+    {
+      "from": 458.329,
+      "to": 461.769,
+      "sid": 198,
+      "location": 2,
+      "content": "但是呢对于内地绝大部分第一线城市而言",
+      "music": 0.0
+    },
+    {
+      "from": 461.769,
+      "to": 462.769,
+      "sid": 199,
+      "location": 2,
+      "content": "由于高库存",
+      "music": 0.0
+    },
+    {
+      "from": 462.769,
+      "to": 463.9,
+      "sid": 200,
+      "location": 2,
+      "content": "人口净流出",
+      "music": 0.0
+    },
+    {
+      "from": 463.9,
+      "to": 465.48,
+      "sid": 201,
+      "location": 2,
+      "content": "地方财政压力更大",
+      "music": 0.0
+    },
+    {
+      "from": 465.48,
+      "to": 467.86,
+      "sid": 202,
+      "location": 2,
+      "content": "尚未看到房价止跌的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 467.86,
+      "to": 469.84,
+      "sid": 203,
+      "location": 2,
+      "content": "这是这篇研报的核心结论",
+      "music": 0.0
+    },
+    {
+      "from": 469.84,
+      "to": 471.32,
+      "sid": 204,
+      "location": 2,
+      "content": "那我们接下来呢就来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 471.32,
+      "to": 473.64,
+      "sid": 205,
+      "location": 2,
+      "content": "整个这篇研报的一个推演逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 473.64,
+      "to": 475.4,
+      "sid": 206,
+      "location": 2,
+      "content": "首先呢开篇就是这张图",
+      "music": 0.0
+    },
+    {
+      "from": 475.4,
+      "to": 477.2,
+      "sid": 207,
+      "location": 2,
+      "content": "我相信大家都已经非常熟悉了",
+      "music": 0.0
+    },
+    {
+      "from": 477.2,
+      "to": 479.32,
+      "sid": 208,
+      "location": 2,
+      "content": "是来自于中原地产的一张图",
+      "music": 0.0
+    },
+    {
+      "from": 479.32,
+      "to": 481.42,
+      "sid": 209,
+      "location": 2,
+      "content": "那么这张图里面呢有香港上海",
+      "music": 0.0
+    },
+    {
+      "from": 481.42,
+      "to": 484.1,
+      "sid": 210,
+      "location": 2,
+      "content": "北京深圳广州的房价走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 484.1,
+      "to": 486.36,
+      "sid": 211,
+      "location": 2,
+      "content": "从巅峰到现在的一个走势",
+      "music": 0.0
+    },
+    {
+      "from": 486.36,
+      "to": 487.94,
+      "sid": 212,
+      "location": 2,
+      "content": "你可以看到非常明显的是",
+      "music": 0.0
+    },
+    {
+      "from": 487.94,
+      "to": 490.52,
+      "sid": 213,
+      "location": 2,
+      "content": "香港的房价已经开始转涨了",
+      "music": 0.0
+    },
+    {
+      "from": 490.52,
+      "to": 492.46,
+      "sid": 214,
+      "location": 2,
+      "content": "而四个一线城市目前仍然在下跌",
+      "music": 0.0
+    },
+    {
+      "from": 492.46,
+      "to": 493.74,
+      "sid": 215,
+      "location": 2,
+      "content": "到现在为止啊",
+      "music": 0.0
+    },
+    {
+      "from": 493.74,
+      "to": 497.0,
+      "sid": 216,
+      "location": 2,
+      "content": "四个一线城市平均的跌幅是40%",
+      "music": 0.0
+    },
+    {
+      "from": 497.0,
+      "to": 498.92,
+      "sid": 217,
+      "location": 2,
+      "content": "已经较巅峰跌了40%",
+      "music": 0.0
+    },
+    {
+      "from": 498.92,
+      "to": 501.25,
+      "sid": 218,
+      "location": 2,
+      "content": "是一个相当大的房价回撤了",
+      "music": 0.0
+    },
+    {
+      "from": 501.25,
+      "to": 502.29,
+      "sid": 219,
+      "location": 2,
+      "content": "那除此之外的话",
+      "music": 0.0
+    },
+    {
+      "from": 502.29,
+      "to": 503.93,
+      "sid": 220,
+      "location": 2,
+      "content": "我们可以再看一下图二啊",
+      "music": 0.0
+    },
+    {
+      "from": 503.93,
+      "to": 506.98,
+      "sid": 221,
+      "location": 2,
+      "content": "图二其实也非常明显的表征了这样一个现象啊",
+      "music": 0.0
+    },
+    {
+      "from": 506.98,
+      "to": 511.22,
+      "sid": 222,
+      "location": 2,
+      "content": "这里面呢红色线表征的是四个内地的一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 511.22,
+      "to": 512.94,
+      "sid": 223,
+      "location": 2,
+      "content": "蓝色线的是香港是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 512.94,
+      "to": 515.71,
+      "sid": 224,
+      "location": 2,
+      "content": "是房价的同比涨跌幅",
+      "music": 0.0
+    },
+    {
+      "from": 515.71,
+      "to": 516.75,
+      "sid": 225,
+      "location": 2,
+      "content": "那你可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 516.75,
+      "to": 519.75,
+      "sid": 226,
+      "location": 2,
+      "content": "其实除了16年到17年这个时间点",
+      "music": 0.0
+    },
+    {
+      "from": 519.75,
+      "to": 521.639,
+      "sid": 227,
+      "location": 2,
+      "content": "以及当下其他时间",
+      "music": 0.0
+    },
+    {
+      "from": 521.639,
+      "to": 524.159,
+      "sid": 228,
+      "location": 2,
+      "content": "基本上四个一线城市和香港的房价",
+      "music": 0.0
+    },
+    {
+      "from": 524.159,
+      "to": 526.45,
+      "sid": 229,
+      "location": 2,
+      "content": "还是高度的同频共振的",
+      "music": 0.0
+    },
+    {
+      "from": 526.45,
+      "to": 527.89,
+      "sid": 230,
+      "location": 2,
+      "content": "那一六到17年",
+      "music": 0.0
+    },
+    {
+      "from": 527.89,
+      "to": 529.17,
+      "sid": 231,
+      "location": 2,
+      "content": "大家如果还有印象",
+      "music": 0.0
+    },
+    {
+      "from": 532.63,
+      "to": 536.1,
+      "sid": 232,
+      "location": 2,
+      "content": "刺激了一波房地产市场再次的繁荣吧",
+      "music": 0.0
+    },
+    {
+      "from": 536.1,
+      "to": 537.8,
+      "sid": 233,
+      "location": 2,
+      "content": "但是现在其实有很多争论",
+      "music": 0.0
+    },
+    {
+      "from": 537.8,
+      "to": 540.18,
+      "sid": 234,
+      "location": 2,
+      "content": "就是当时那一轮政策是不是应该刺激",
+      "music": 0.0
+    },
+    {
+      "from": 540.18,
+      "to": 540.88,
+      "sid": 235,
+      "location": 2,
+      "content": "不过当时呢",
+      "music": 0.0
+    },
+    {
+      "from": 540.88,
+      "to": 544.06,
+      "sid": 236,
+      "location": 2,
+      "content": "我相信政策制定者还是考虑到了很多问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 544.06,
+      "to": 546.96,
+      "sid": 237,
+      "location": 2,
+      "content": "包括当时经济的增长也是有压力的啊",
+      "music": 0.0
+    },
+    {
+      "from": 546.96,
+      "to": 548.92,
+      "sid": 238,
+      "location": 2,
+      "content": "国内呢又在去产能啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.92,
+      "to": 550.04,
+      "sid": 239,
+      "location": 2,
+      "content": "大家可能还记得啊",
+      "music": 0.0
+    },
+    {
+      "from": 550.04,
+      "to": 552.91,
+      "sid": 240,
+      "location": 2,
+      "content": "供给侧改革1.0等等一系列的原因",
+      "music": 0.0
+    },
+    {
+      "from": 555.21,
+      "to": 558.23,
+      "sid": 241,
+      "location": 2,
+      "content": "所以经济增长是势必要拉动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 558.23,
+      "to": 560.79,
+      "sid": 242,
+      "location": 2,
+      "content": "因此当时是浩浩荡荡地推动了",
+      "music": 0.0
+    },
+    {
+      "from": 560.79,
+      "to": 562.81,
+      "sid": 243,
+      "location": 2,
+      "content": "一六到17年的棚户区改造",
+      "music": 0.0
+    },
+    {
+      "from": 562.81,
+      "to": 564.97,
+      "sid": 244,
+      "location": 2,
+      "content": "那么另一次背离就是当下",
+      "music": 0.0
+    },
+    {
+      "from": 564.97,
+      "to": 568.13,
+      "sid": 245,
+      "location": 2,
+      "content": "你可以看到香港的房价已经开始止跌转涨",
+      "music": 0.0
+    },
+    {
+      "from": 568.13,
+      "to": 570.31,
+      "sid": 246,
+      "location": 2,
+      "content": "同比呢录得了正增的门",
+      "music": 0.0
+    },
+    {
+      "from": 570.31,
+      "to": 571.95,
+      "sid": 247,
+      "location": 2,
+      "content": "四个一线城市的房价",
+      "music": 0.0
+    },
+    {
+      "from": 571.95,
+      "to": 573.37,
+      "sid": 248,
+      "location": 2,
+      "content": "特别是在去年的下半年",
+      "music": 0.0
+    },
+    {
+      "from": 573.37,
+      "to": 576.13,
+      "sid": 249,
+      "location": 2,
+      "content": "是呈现出一个加速下跌的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 576.13,
+      "to": 577.57,
+      "sid": 250,
+      "location": 2,
+      "content": "这篇研报就在探讨",
+      "music": 0.0
+    },
+    {
+      "from": 577.57,
+      "to": 581.36,
+      "sid": 251,
+      "location": 2,
+      "content": "为什么这一轮香港和四个内地的一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 581.36,
+      "to": 582.68,
+      "sid": 252,
+      "location": 2,
+      "content": "走势是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 582.68,
+      "to": 586.22,
+      "sid": 253,
+      "location": 2,
+      "content": "这里面呢主要就是刚才谈到的四项成因啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.22,
+      "to": 588.5,
+      "sid": 254,
+      "location": 2,
+      "content": "第一项呢就是政策的刺激力度",
+      "music": 0.0
+    },
+    {
+      "from": 588.5,
+      "to": 592.0,
+      "sid": 255,
+      "location": 2,
+      "content": "首先呢就是香港在2024年是全面的废止了",
+      "music": 0.0
+    },
+    {
+      "from": 592.0,
+      "to": 593.33,
+      "sid": 256,
+      "location": 2,
+      "content": "购买的呃",
+      "music": 0.0
+    },
+    {
+      "from": 593.33,
+      "to": 594.07,
+      "sid": 257,
+      "location": 2,
+      "content": "限制政策",
+      "music": 0.0
+    },
+    {
+      "from": 594.07,
+      "to": 596.41,
+      "sid": 258,
+      "location": 2,
+      "content": "无论你是哪儿的人都可以来香港买房",
+      "music": 0.0
+    },
+    {
+      "from": 596.41,
+      "to": 599.38,
+      "sid": 259,
+      "location": 2,
+      "content": "同时呢当时是有一个浩浩荡荡的撤蜡",
+      "music": 0.0
+    },
+    {
+      "from": 599.38,
+      "to": 600.56,
+      "sid": 260,
+      "location": 2,
+      "content": "在车蜡之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 600.56,
+      "to": 602.7,
+      "sid": 261,
+      "location": 2,
+      "content": "对于香港本地的居民来说",
+      "music": 0.0
+    },
+    {
+      "from": 602.7,
+      "to": 604.36,
+      "sid": 262,
+      "location": 2,
+      "content": "是要交15%的印花税",
+      "music": 0.0
+    },
+    {
+      "from": 604.36,
+      "to": 608.16,
+      "sid": 263,
+      "location": 2,
+      "content": "对于非香港本地居民去买香港的房子的话",
+      "music": 0.0
+    },
+    {
+      "from": 608.16,
+      "to": 611.78,
+      "sid": 264,
+      "location": 2,
+      "content": "总的税费是要交到30%的购房款",
+      "music": 0.0
+    },
+    {
+      "from": 611.78,
+      "to": 615.27,
+      "sid": 265,
+      "location": 2,
+      "content": "也就是说1000万的一套香港的房子",
+      "music": 0.0
+    },
+    {
+      "from": 615.27,
+      "to": 617.89,
+      "sid": 266,
+      "location": 2,
+      "content": "对于非香港居民来说",
+      "music": 0.0
+    },
+    {
+      "from": 617.89,
+      "to": 620.46,
+      "sid": 267,
+      "location": 2,
+      "content": "要交300万港币的税啊",
+      "music": 0.0
+    },
+    {
+      "from": 620.46,
+      "to": 621.7,
+      "sid": 268,
+      "location": 2,
+      "content": "那这个很夸张啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.7,
+      "to": 623.12,
+      "sid": 269,
+      "location": 2,
+      "content": "你要花1300万",
+      "music": 0.0
+    },
+    {
+      "from": 623.12,
+      "to": 626.02,
+      "sid": 270,
+      "location": 2,
+      "content": "才能买到一套1000万港币的房子",
+      "music": 0.0
+    },
+    {
+      "from": 626.02,
+      "to": 627.74,
+      "sid": 271,
+      "location": 2,
+      "content": "那么在撤那之后",
+      "music": 0.0
+    },
+    {
+      "from": 627.74,
+      "to": 629.64,
+      "sid": 272,
+      "location": 2,
+      "content": "这个税费减免到多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 629.64,
+      "to": 631.5,
+      "sid": 273,
+      "location": 2,
+      "content": "对于同样的1000万港币的房子",
+      "music": 0.0
+    },
+    {
+      "from": 631.5,
+      "to": 633.76,
+      "sid": 274,
+      "location": 2,
+      "content": "只需要交37万的税",
+      "music": 0.0
+    },
+    {
+      "from": 633.76,
+      "to": 634.92,
+      "sid": 275,
+      "location": 2,
+      "content": "是大幅的下降了",
+      "music": 0.0
+    },
+    {
+      "from": 634.92,
+      "to": 636.92,
+      "sid": 276,
+      "location": 2,
+      "content": "单从税的这个缴纳比例来说",
+      "music": 0.0
+    },
+    {
+      "from": 636.92,
+      "to": 638.97,
+      "sid": 277,
+      "location": 2,
+      "content": "是下降了将近90%",
+      "music": 0.0
+    },
+    {
+      "from": 638.97,
+      "to": 640.33,
+      "sid": 278,
+      "location": 2,
+      "content": "具体的一个测算呢",
+      "music": 0.0
+    },
+    {
+      "from": 640.33,
+      "to": 641.93,
+      "sid": 279,
+      "location": 2,
+      "content": "对于香港本地居民呢",
+      "music": 0.0
+    },
+    {
+      "from": 641.93,
+      "to": 644.59,
+      "sid": 280,
+      "location": 2,
+      "content": "这个税费是减免了11%",
+      "music": 0.0
+    },
+    {
+      "from": 644.59,
+      "to": 646.879,
+      "sid": 281,
+      "location": 2,
+      "content": "对于非香港本地居民的话",
+      "music": 0.0
+    },
+    {
+      "from": 646.879,
+      "to": 650.8,
+      "sid": 282,
+      "location": 2,
+      "content": "税费减免额至多是可以来到26%",
+      "music": 0.0
+    },
+    {
+      "from": 650.8,
+      "to": 652.9,
+      "sid": 283,
+      "location": 2,
+      "content": "这是非常夸张的一个比例了",
+      "music": 0.0
+    },
+    {
+      "from": 652.9,
+      "to": 654.2,
+      "sid": 284,
+      "location": 2,
+      "content": "那作为对比的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 654.2,
+      "to": 657.32,
+      "sid": 285,
+      "location": 2,
+      "content": "我们看到香港有这么大的政策刺激楼市",
+      "music": 0.0
+    },
+    {
+      "from": 657.32,
+      "to": 659.67,
+      "sid": 286,
+      "location": 2,
+      "content": "而内地的四个一线城市也好",
+      "music": 0.0
+    },
+    {
+      "from": 659.67,
+      "to": 661.07,
+      "sid": 287,
+      "location": 2,
+      "content": "包括整个内地也好啊",
+      "music": 0.0
+    },
+    {
+      "from": 661.07,
+      "to": 664.63,
+      "sid": 288,
+      "location": 2,
+      "content": "对于房地产的刺激政策仍然是非常谨慎的",
+      "music": 0.0
+    },
+    {
+      "from": 664.63,
+      "to": 666.23,
+      "sid": 289,
+      "location": 2,
+      "content": "他的用词叫做more measured",
+      "music": 0.0
+    },
+    {
+      "from": 666.23,
+      "to": 668.4,
+      "sid": 290,
+      "location": 2,
+      "content": "还是相机抉择",
+      "music": 0.0
+    },
+    {
+      "from": 668.4,
+      "to": 669.34,
+      "sid": 291,
+      "location": 2,
+      "content": "破而不举的",
+      "music": 0.0
+    },
+    {
+      "from": 669.34,
+      "to": 671.7,
+      "sid": 292,
+      "location": 2,
+      "content": "这里面主要反映的也是政策制定者",
+      "music": 0.0
+    },
+    {
+      "from": 671.7,
+      "to": 675.76,
+      "sid": 293,
+      "location": 2,
+      "content": "可能对于内地经济的调结构关注度更高",
+      "music": 0.0
+    },
+    {
+      "from": 675.76,
+      "to": 679.16,
+      "sid": 294,
+      "location": 2,
+      "content": "更倾向于把有限的资源从房地产逐渐的转向",
+      "music": 0.0
+    },
+    {
+      "from": 679.16,
+      "to": 680.38,
+      "sid": 295,
+      "location": 2,
+      "content": "比如说高科技",
+      "music": 0.0
+    },
+    {
+      "from": 680.38,
+      "to": 681.3,
+      "sid": 296,
+      "location": 2,
+      "content": "高端制造业",
+      "music": 0.0
+    },
+    {
+      "from": 681.3,
+      "to": 683.22,
+      "sid": 297,
+      "location": 2,
+      "content": "甚至是转向去支持消费",
+      "music": 0.0
+    },
+    {
+      "from": 683.22,
+      "to": 687.01,
+      "sid": 298,
+      "location": 2,
+      "content": "而不是继续围绕着房地产去拉动经济了",
+      "music": 0.0
+    },
+    {
+      "from": 687.01,
+      "to": 689.57,
+      "sid": 299,
+      "location": 2,
+      "content": "那我们看到的一个结果呢",
+      "music": 0.0
+    },
+    {
+      "from": 689.57,
+      "to": 694.21,
+      "sid": 300,
+      "location": 2,
+      "content": "就是由于这样的政策支持相对来说比较的有限",
+      "music": 0.0
+    },
+    {
+      "from": 694.21,
+      "to": 696.349,
+      "sid": 301,
+      "location": 2,
+      "content": "再叠加内地的需求",
+      "music": 0.0
+    },
+    {
+      "from": 696.349,
+      "to": 698.349,
+      "sid": 302,
+      "location": 2,
+      "content": "从我们的就业市场也好",
+      "music": 0.0
+    },
+    {
+      "from": 698.349,
+      "to": 699.509,
+      "sid": 303,
+      "location": 2,
+      "content": "从房价预期也好",
+      "music": 0.0
+    },
+    {
+      "from": 699.509,
+      "to": 701.009,
+      "sid": 304,
+      "location": 2,
+      "content": "一直是在逐渐的转弱",
+      "music": 0.0
+    },
+    {
+      "from": 701.009,
+      "to": 704.37,
+      "sid": 305,
+      "location": 2,
+      "content": "所以整个内地的四个一线城市的房价",
+      "music": 0.0
+    },
+    {
+      "from": 704.37,
+      "to": 706.33,
+      "sid": 306,
+      "location": 2,
+      "content": "就有比较明显的一个下行压力",
+      "music": 0.0
+    },
+    {
+      "from": 706.33,
+      "to": 707.63,
+      "sid": 307,
+      "location": 2,
+      "content": "而在此基础之上",
+      "music": 0.0
+    },
+    {
+      "from": 707.63,
+      "to": 708.59,
+      "sid": 308,
+      "location": 2,
+      "content": "到现在为止",
+      "music": 0.0
+    },
+    {
+      "from": 708.59,
+      "to": 712.55,
+      "sid": 309,
+      "location": 2,
+      "content": "北京和上海仍然是没有完全放开限购政策",
+      "music": 0.0
+    },
+    {
+      "from": 712.55,
+      "to": 714.25,
+      "sid": 310,
+      "location": 2,
+      "content": "那这是第一项原因",
+      "music": 0.0
+    },
+    {
+      "from": 714.25,
+      "to": 716.61,
+      "sid": 311,
+      "location": 2,
+      "content": "第二项呢就是刚才提到的",
+      "music": 0.0
+    },
+    {
+      "from": 716.61,
+      "to": 718.55,
+      "sid": 312,
+      "location": 2,
+      "content": "客户购房需求的厚度啊",
+      "music": 0.0
+    },
+    {
+      "from": 718.55,
+      "to": 720.51,
+      "sid": 313,
+      "location": 2,
+      "content": "香港的这一轮复苏里面",
+      "music": 0.0
+    },
+    {
+      "from": 720.51,
+      "to": 723.21,
+      "sid": 314,
+      "location": 2,
+      "content": "其实不光是香港本地居民在买房",
+      "music": 0.0
+    },
+    {
+      "from": 723.21,
+      "to": 727.19,
+      "sid": 315,
+      "location": 2,
+      "content": "更多的是来自于内地的高净值人群的啊",
+      "music": 0.0
+    },
+    {
+      "from": 727.19,
+      "to": 727.96,
+      "sid": 316,
+      "location": 2,
+      "content": "买房需求",
+      "music": 0.0
+    },
+    {
+      "from": 727.96,
+      "to": 730.22,
+      "sid": 317,
+      "location": 2,
+      "content": "首先呢就是自2023年以来",
+      "music": 0.0
+    },
+    {
+      "from": 730.22,
+      "to": 733.66,
+      "sid": 318,
+      "location": 2,
+      "content": "香港已经累计批准了12万的申请人",
+      "music": 0.0
+    },
+    {
+      "from": 733.66,
+      "to": 736.7,
+      "sid": 319,
+      "location": 2,
+      "content": "从我高才和优才计划进入到香港",
+      "music": 0.0
+    },
+    {
+      "from": 736.7,
+      "to": 739.65,
+      "sid": 320,
+      "location": 2,
+      "content": "其中有90%就12万当中的",
+      "music": 0.0
+    },
+    {
+      "from": 739.65,
+      "to": 742.19,
+      "sid": 321,
+      "location": 2,
+      "content": "11万左右的这个申请者",
+      "music": 0.0
+    },
+    {
+      "from": 742.19,
+      "to": 744.8,
+      "sid": 322,
+      "location": 2,
+      "content": "都是来自于中国大陆的",
+      "music": 0.0
+    },
+    {
+      "from": 744.8,
+      "to": 747.38,
+      "sid": 323,
+      "location": 2,
+      "content": "那这样的一些高净值人群",
+      "music": 0.0
+    },
+    {
+      "from": 747.38,
+      "to": 749.3,
+      "sid": 324,
+      "location": 2,
+      "content": "高才优才的进入",
+      "music": 0.0
+    },
+    {
+      "from": 749.3,
+      "to": 752.3,
+      "sid": 325,
+      "location": 2,
+      "content": "再加上整个香港对于限购政策的放松",
+      "music": 0.0
+    },
+    {
+      "from": 752.3,
+      "to": 753.64,
+      "sid": 326,
+      "location": 2,
+      "content": "我们看到的一个结果呢",
+      "music": 0.0
+    },
+    {
+      "from": 753.64,
+      "to": 756.33,
+      "sid": 327,
+      "location": 2,
+      "content": "就是整个香港的豪宅市场当中",
+      "music": 0.0
+    },
+    {
+      "from": 756.33,
+      "to": 759.17,
+      "sid": 328,
+      "location": 2,
+      "content": "内地的买家占到了将近50%",
+      "music": 0.0
+    },
+    {
+      "from": 759.17,
+      "to": 761.19,
+      "sid": 329,
+      "location": 2,
+      "content": "我们可以看一下右下角这张图",
+      "music": 0.0
+    },
+    {
+      "from": 761.19,
+      "to": 762.1,
+      "sid": 330,
+      "location": 2,
+      "content": "横轴是时间",
+      "music": 0.0
+    },
+    {
+      "from": 762.1,
+      "to": 764.14,
+      "sid": 331,
+      "location": 2,
+      "content": "纵轴是内地买家的占比",
+      "music": 0.0
+    },
+    {
+      "from": 764.14,
+      "to": 765.66,
+      "sid": 332,
+      "location": 2,
+      "content": "在整个豪宅市场上",
+      "music": 0.0
+    },
+    {
+      "from": 765.66,
+      "to": 766.22,
+      "sid": 333,
+      "location": 2,
+      "content": "你可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 766.22,
+      "to": 767.52,
+      "sid": 334,
+      "location": 2,
+      "content": "从22年末",
+      "music": 0.0
+    },
+    {
+      "from": 767.52,
+      "to": 768.9,
+      "sid": 335,
+      "location": 2,
+      "content": "23年初开始",
+      "music": 0.0
+    },
+    {
+      "from": 768.9,
+      "to": 772.62,
+      "sid": 336,
+      "location": 2,
+      "content": "内地买家去买豪宅的这个占比就在不断提升",
+      "music": 0.0
+    },
+    {
+      "from": 772.62,
+      "to": 774.26,
+      "sid": 337,
+      "location": 2,
+      "content": "而目前的中枢非常稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 774.26,
+      "to": 776.06,
+      "sid": 338,
+      "location": 2,
+      "content": "维持在大概45%的水平",
+      "music": 0.0
+    },
+    {
+      "from": 776.06,
+      "to": 777.18,
+      "sid": 339,
+      "location": 2,
+      "content": "即便我们不看豪宅",
+      "music": 0.0
+    },
+    {
+      "from": 777.18,
+      "to": 780.38,
+      "sid": 340,
+      "location": 2,
+      "content": "就看整个广泛意义上的香港楼市的话",
+      "music": 0.0
+    },
+    {
+      "from": 780.38,
+      "to": 783.94,
+      "sid": 341,
+      "location": 2,
+      "content": "内地的买房也贡献了20%的需求",
+      "music": 0.0
+    },
+    {
+      "from": 783.94,
+      "to": 789.32,
+      "sid": 342,
+      "location": 2,
+      "content": "而这些需求除了对香港的楼市形成了贡献以外",
+      "music": 0.0
+    },
+    {
+      "from": 789.32,
+      "to": 793.06,
+      "sid": 343,
+      "location": 2,
+      "content": "实际上它也分流了四个核心一线城市的需求",
+      "music": 0.0
+    },
+    {
+      "from": 793.06,
+      "to": 794.74,
+      "sid": 344,
+      "location": 2,
+      "content": "也就是说内地的高净值人群",
+      "music": 0.0
+    },
+    {
+      "from": 794.74,
+      "to": 797.26,
+      "sid": 345,
+      "location": 2,
+      "content": "可能原来是考虑在核心一线城市买房",
+      "music": 0.0
+    },
+    {
+      "from": 797.26,
+      "to": 797.98,
+      "sid": 346,
+      "location": 2,
+      "content": "比如去上海买",
+      "music": 0.0
+    },
+    {
+      "from": 797.98,
+      "to": 799.42,
+      "sid": 347,
+      "location": 2,
+      "content": "但是现在可以去香港买",
+      "music": 0.0
+    },
+    {
+      "from": 799.42,
+      "to": 801.53,
+      "sid": 348,
+      "location": 2,
+      "content": "而且去香港买不需要交那么多的税",
+      "music": 0.0
+    },
+    {
+      "from": 801.53,
+      "to": 803.81,
+      "sid": 349,
+      "location": 2,
+      "content": "所以这些钱呢都流向了香港",
+      "music": 0.0
+    },
+    {
+      "from": 803.81,
+      "to": 807.73,
+      "sid": 350,
+      "location": 2,
+      "content": "而且香港本身它的资本跨境管制也比较的松啊",
+      "music": 0.0
+    },
+    {
+      "from": 807.73,
+      "to": 809.21,
+      "sid": 351,
+      "location": 2,
+      "content": "所以对于这些高净值人群",
+      "music": 0.0
+    },
+    {
+      "from": 809.21,
+      "to": 811.12,
+      "sid": 352,
+      "location": 2,
+      "content": "去在香港配置一些资产",
+      "music": 0.0
+    },
+    {
+      "from": 811.12,
+      "to": 813.5,
+      "sid": 353,
+      "location": 2,
+      "content": "也比在上海配置资产更有优势",
+      "music": 0.0
+    },
+    {
+      "from": 813.5,
+      "to": 817.0,
+      "sid": 354,
+      "location": 2,
+      "content": "所以它其实是吸收了很多内地一线城市的",
+      "music": 0.0
+    },
+    {
+      "from": 817.0,
+      "to": 819.28,
+      "sid": 355,
+      "location": 2,
+      "content": "原本可能流入的需求",
+      "music": 0.0
+    },
+    {
+      "from": 819.28,
+      "to": 823.5,
+      "sid": 356,
+      "location": 2,
+      "content": "那第三项原因呢就是香港的经济复苏",
+      "music": 0.0
+    },
+    {
+      "from": 823.5,
+      "to": 825.36,
+      "sid": 357,
+      "location": 2,
+      "content": "更多的依靠是内需",
+      "music": 0.0
+    },
+    {
+      "from": 825.36,
+      "to": 826.32,
+      "sid": 358,
+      "location": 2,
+      "content": "特别是消费",
+      "music": 0.0
+    },
+    {
+      "from": 826.32,
+      "to": 830.85,
+      "sid": 359,
+      "location": 2,
+      "content": "而内地的经济复苏主要依靠的是出口驱动",
+      "music": 0.0
+    },
+    {
+      "from": 830.85,
+      "to": 833.11,
+      "sid": 360,
+      "location": 2,
+      "content": "那这两个之间是有非常明显的差异",
+      "music": 0.0
+    },
+    {
+      "from": 833.11,
+      "to": 835.76,
+      "sid": 361,
+      "location": 2,
+      "content": "因为如果是靠消费拉动的",
+      "music": 0.0
+    },
+    {
+      "from": 835.76,
+      "to": 839.68,
+      "sid": 362,
+      "location": 2,
+      "content": "就意味着香港居民的收入是在增长的",
+      "music": 0.0
+    },
+    {
+      "from": 839.68,
+      "to": 842.17,
+      "sid": 363,
+      "location": 2,
+      "content": "而内地呢如果是靠出口拉动",
+      "music": 0.0
+    },
+    {
+      "from": 842.17,
+      "to": 844.29,
+      "sid": 364,
+      "location": 2,
+      "content": "也就是说只有跟出口相关的部门",
+      "music": 0.0
+    },
+    {
+      "from": 844.29,
+      "to": 845.73,
+      "sid": 365,
+      "location": 2,
+      "content": "他的收入可能会有增长",
+      "music": 0.0
+    },
+    {
+      "from": 845.73,
+      "to": 847.48,
+      "sid": 366,
+      "location": 2,
+      "content": "包括和比如说高端制造业",
+      "music": 0.0
+    },
+    {
+      "from": 847.48,
+      "to": 847.94,
+      "sid": 367,
+      "location": 2,
+      "content": "芯片",
+      "music": 0.0
+    },
+    {
+      "from": 847.94,
+      "to": 849.4,
+      "sid": 368,
+      "location": 2,
+      "content": "高科技这些相关的部门",
+      "music": 0.0
+    },
+    {
+      "from": 849.4,
+      "to": 850.24,
+      "sid": 369,
+      "location": 2,
+      "content": "他的收入有增长",
+      "music": 0.0
+    },
+    {
+      "from": 850.24,
+      "to": 852.2,
+      "sid": 370,
+      "location": 2,
+      "content": "但是对于普罗大众来说",
+      "music": 0.0
+    },
+    {
+      "from": 852.2,
+      "to": 853.97,
+      "sid": 371,
+      "location": 2,
+      "content": "收入是在下降",
+      "music": 0.0
+    },
+    {
+      "from": 853.97,
+      "to": 855.67,
+      "sid": 372,
+      "location": 2,
+      "content": "或者说能够企稳就不错",
+      "music": 0.0
+    },
+    {
+      "from": 855.67,
+      "to": 858.68,
+      "sid": 373,
+      "location": 2,
+      "content": "那么导致的结果就是在买房的购买力上",
+      "music": 0.0
+    },
+    {
+      "from": 858.68,
+      "to": 861.32,
+      "sid": 374,
+      "location": 2,
+      "content": "显然香港是要强于内地的",
+      "music": 0.0
+    },
+    {
+      "from": 861.32,
+      "to": 862.56,
+      "sid": 375,
+      "location": 2,
+      "content": "这我们也看到这样一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 862.56,
+      "to": 865.38,
+      "sid": 376,
+      "location": 2,
+      "content": "你如果去看PMI和房价之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 865.38,
+      "to": 865.86,
+      "sid": 377,
+      "location": 2,
+      "content": "你会发现",
+      "music": 0.0
+    },
+    {
+      "from": 865.86,
+      "to": 868.38,
+      "sid": 378,
+      "location": 2,
+      "content": "香港的PMI和房价之间的关系是非常强的",
+      "music": 0.0
+    },
+    {
+      "from": 868.38,
+      "to": 870.26,
+      "sid": 379,
+      "location": 2,
+      "content": "正相关红色线是PMI",
+      "music": 0.0
+    },
+    {
+      "from": 870.26,
+      "to": 872.14,
+      "sid": 380,
+      "location": 2,
+      "content": "蓝色线是香港的房价",
+      "music": 0.0
+    },
+    {
+      "from": 872.14,
+      "to": 873.1,
+      "sid": 381,
+      "location": 2,
+      "content": "按照时间推移",
+      "music": 0.0
+    },
+    {
+      "from": 873.1,
+      "to": 875.08,
+      "sid": 382,
+      "location": 2,
+      "content": "他们其实基本上是保持正相关的",
+      "music": 0.0
+    },
+    {
+      "from": 875.08,
+      "to": 878.13,
+      "sid": 383,
+      "location": 2,
+      "content": "也就是说产业传导到大家的收入",
+      "music": 0.0
+    },
+    {
+      "from": 878.13,
+      "to": 881.0,
+      "sid": 384,
+      "location": 2,
+      "content": "再传导到房价是一个连贯的过程",
+      "music": 0.0
+    },
+    {
+      "from": 881.0,
+      "to": 881.8,
+      "sid": 385,
+      "location": 2,
+      "content": "而内地的话",
+      "music": 0.0
+    },
+    {
+      "from": 881.8,
+      "to": 884.64,
+      "sid": 386,
+      "location": 2,
+      "content": "这两条线之间的相关系数只有0.2",
+      "music": 0.0
+    },
+    {
+      "from": 884.64,
+      "to": 886.47,
+      "sid": 387,
+      "location": 2,
+      "content": "也就是说基本上没什么关系",
+      "music": 0.0
+    },
+    {
+      "from": 886.47,
+      "to": 889.53,
+      "sid": 388,
+      "location": 2,
+      "content": "最后一项呢就是香港相较于内地",
+      "music": 0.0
+    },
+    {
+      "from": 889.53,
+      "to": 891.68,
+      "sid": 389,
+      "location": 2,
+      "content": "经历了更少的疤痕效应",
+      "music": 0.0
+    },
+    {
+      "from": 891.68,
+      "to": 893.4,
+      "sid": 390,
+      "location": 2,
+      "content": "内地经历了哪些疤痕效应呢",
+      "music": 0.0
+    },
+    {
+      "from": 893.4,
+      "to": 895.12,
+      "sid": 391,
+      "location": 2,
+      "content": "简单来说就是房企的违约",
+      "music": 0.0
+    },
+    {
+      "from": 895.12,
+      "to": 896.81,
+      "sid": 392,
+      "location": 2,
+      "content": "房地产的烂尾",
+      "music": 0.0
+    },
+    {
+      "from": 896.81,
+      "to": 898.33,
+      "sid": 393,
+      "location": 2,
+      "content": "房价的快速下跌",
+      "music": 0.0
+    },
+    {
+      "from": 898.33,
+      "to": 900.13,
+      "sid": 394,
+      "location": 2,
+      "content": "导致很多人真的是不敢买房",
+      "music": 0.0
+    },
+    {
+      "from": 900.13,
+      "to": 902.49,
+      "sid": 395,
+      "location": 2,
+      "content": "或者说延后自己的买房需求的释放",
+      "music": 0.0
+    },
+    {
+      "from": 902.49,
+      "to": 903.939,
+      "sid": 396,
+      "location": 2,
+      "content": "除非孩子上学",
+      "music": 0.0
+    },
+    {
+      "from": 903.939,
+      "to": 905.019,
+      "sid": 397,
+      "location": 2,
+      "content": "或者说要结婚",
+      "music": 0.0
+    },
+    {
+      "from": 905.019,
+      "to": 905.759,
+      "sid": 398,
+      "location": 2,
+      "content": "不得不买",
+      "music": 0.0
+    },
+    {
+      "from": 905.759,
+      "to": 908.01,
+      "sid": 399,
+      "location": 2,
+      "content": "不然的话尽可能去延后",
+      "music": 0.0
+    },
+    {
+      "from": 908.01,
+      "to": 908.85,
+      "sid": 400,
+      "location": 2,
+      "content": "除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 908.85,
+      "to": 911.77,
+      "sid": 401,
+      "location": 2,
+      "content": "由于之前内地的房价持续的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 911.77,
+      "to": 913.9,
+      "sid": 402,
+      "location": 2,
+      "content": "其实催生了很多的投机需求",
+      "music": 0.0
+    },
+    {
+      "from": 913.9,
+      "to": 916.98,
+      "sid": 403,
+      "location": 2,
+      "content": "而现在呢甚至这些投机的房子",
+      "music": 0.0
+    },
+    {
+      "from": 916.98,
+      "to": 919.34,
+      "sid": 404,
+      "location": 2,
+      "content": "因为一般情况下都是在一些城市的新区啊",
+      "music": 0.0
+    },
+    {
+      "from": 919.34,
+      "to": 920.829,
+      "sid": 405,
+      "location": 2,
+      "content": "他们的跌幅更广",
+      "music": 0.0
+    },
+    {
+      "from": 920.829,
+      "to": 922.669,
+      "sid": 406,
+      "location": 2,
+      "content": "甚至呢已经跌穿了",
+      "music": 0.0
+    },
+    {
+      "from": 922.669,
+      "to": 925.129,
+      "sid": 407,
+      "location": 2,
+      "content": "也就是说他是一个净的负资产",
+      "music": 0.0
+    },
+    {
+      "from": 925.129,
+      "to": 927.19,
+      "sid": 408,
+      "location": 2,
+      "content": "对于持有房产的人来说",
+      "music": 0.0
+    },
+    {
+      "from": 927.19,
+      "to": 929.09,
+      "sid": 409,
+      "location": 2,
+      "content": "剩余需要偿还的贷款",
+      "music": 0.0
+    },
+    {
+      "from": 929.09,
+      "to": 932.32,
+      "sid": 410,
+      "location": 2,
+      "content": "甚至都多于这套房子剩余的价值了",
+      "music": 0.0
+    },
+    {
+      "from": 932.32,
+      "to": 933.48,
+      "sid": 411,
+      "location": 2,
+      "content": "那这种情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 933.48,
+      "to": 936.52,
+      "sid": 412,
+      "location": 2,
+      "content": "这些房子未来都会形成市场上的净供给",
+      "music": 0.0
+    },
+    {
+      "from": 936.52,
+      "to": 939.55,
+      "sid": 413,
+      "location": 2,
+      "content": "无论是通过这个业主主动的卖房",
+      "music": 0.0
+    },
+    {
+      "from": 939.55,
+      "to": 942.13,
+      "sid": 414,
+      "location": 2,
+      "content": "还是通过法拍会形成竞供级",
+      "music": 0.0
+    },
+    {
+      "from": 942.13,
+      "to": 944.67,
+      "sid": 415,
+      "location": 2,
+      "content": "也会分流很多的购房需求",
+      "music": 0.0
+    },
+    {
+      "from": 944.67,
+      "to": 948.72,
+      "sid": 416,
+      "location": 2,
+      "content": "导致内地的挂牌量会持续的维持高位",
+      "music": 0.0
+    },
+    {
+      "from": 948.72,
+      "to": 951.16,
+      "sid": 417,
+      "location": 2,
+      "content": "供需之间的失衡还是在持续的",
+      "music": 0.0
+    },
+    {
+      "from": 951.16,
+      "to": 954.5,
+      "sid": 418,
+      "location": 2,
+      "content": "那对于房价的复苏也形成了负向的压力",
+      "music": 0.0
+    },
+    {
+      "from": 954.5,
+      "to": 956.72,
+      "sid": 419,
+      "location": 2,
+      "content": "按照一些专家学者的测算",
+      "music": 0.0
+    },
+    {
+      "from": 956.72,
+      "to": 960.45,
+      "sid": 420,
+      "location": 2,
+      "content": "中国内地的城镇空置率在2020年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 960.45,
+      "to": 962.77,
+      "sid": 421,
+      "location": 2,
+      "content": "基本上是来到了20%",
+      "music": 0.0
+    },
+    {
+      "from": 962.77,
+      "to": 965.45,
+      "sid": 422,
+      "location": 2,
+      "content": "这是一个非常夸张的数字啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.89,
+      "to": 967.87,
+      "sid": 423,
+      "location": 2,
+      "content": "除了刚才讲到的内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 967.87,
+      "to": 970.81,
+      "sid": 424,
+      "location": 2,
+      "content": "最核心的仍然是净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 970.81,
+      "to": 975.1,
+      "sid": 425,
+      "location": 2,
+      "content": "也就是租金回报率减去房贷利率的这个差额",
+      "music": 0.0
+    },
+    {
+      "from": 975.1,
+      "to": 977.86,
+      "sid": 426,
+      "location": 2,
+      "content": "在内地的四个一线城市仍然为负",
+      "music": 0.0
+    },
+    {
+      "from": 977.86,
+      "to": 982.46,
+      "sid": 427,
+      "location": 2,
+      "content": "即便内地的房贷利率已经持续的下行多年",
+      "music": 0.0
+    },
+    {
+      "from": 982.46,
+      "to": 984.42,
+      "sid": 428,
+      "location": 2,
+      "content": "那而香港呢则正好相反啊",
+      "music": 0.0
+    },
+    {
+      "from": 984.42,
+      "to": 987.19,
+      "sid": 429,
+      "location": 2,
+      "content": "它的净租金回报率目前是正的",
+      "music": 0.0
+    },
+    {
+      "from": 987.19,
+      "to": 989.25,
+      "sid": 430,
+      "location": 2,
+      "content": "也就是说相较于租来说",
+      "music": 0.0
+    },
+    {
+      "from": 989.25,
+      "to": 990.96,
+      "sid": 431,
+      "location": 2,
+      "content": "买似乎更加的划算",
+      "music": 0.0
+    },
+    {
+      "from": 990.96,
+      "to": 993.4,
+      "sid": 432,
+      "location": 2,
+      "content": "我们呢可以看一下左边这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 993.4,
+      "to": 996.98,
+      "sid": 433,
+      "location": 2,
+      "content": "就是香港和内地的房贷利率",
+      "music": 0.0
+    },
+    {
+      "from": 996.98,
+      "to": 999.54,
+      "sid": 434,
+      "location": 2,
+      "content": "红色这条线呢是内地的房贷利率",
+      "music": 0.0
+    },
+    {
+      "from": 999.54,
+      "to": 1001.68,
+      "sid": 435,
+      "location": 2,
+      "content": "虽然经历了大幅的下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 1001.68,
+      "to": 1005.18,
+      "sid": 436,
+      "location": 2,
+      "content": "但是目前也基本上只是和香港的房贷利率持平",
+      "music": 0.0
+    },
+    {
+      "from": 1005.18,
+      "to": 1008.22,
+      "sid": 437,
+      "location": 2,
+      "content": "而香港之前的房贷利率可以香到什么程度啊",
+      "music": 0.0
+    },
+    {
+      "from": 1008.22,
+      "to": 1010.03,
+      "sid": 438,
+      "location": 2,
+      "content": "在08年金融危机之后",
+      "music": 0.0
+    },
+    {
+      "from": 1010.03,
+      "to": 1012.28,
+      "sid": 439,
+      "location": 2,
+      "content": "香港的房贷利率长期维持在一点几",
+      "music": 0.0
+    },
+    {
+      "from": 1012.28,
+      "to": 1012.96,
+      "sid": 440,
+      "location": 2,
+      "content": "这样一个水平",
+      "music": 0.0
+    },
+    {
+      "from": 1012.96,
+      "to": 1014.28,
+      "sid": 441,
+      "location": 2,
+      "content": "其实在09年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1014.28,
+      "to": 1016.8,
+      "sid": 442,
+      "location": 2,
+      "content": "香港的房贷利率可以低至0.9%",
+      "music": 0.0
+    },
+    {
+      "from": 1016.8,
+      "to": 1019.85,
+      "sid": 443,
+      "location": 2,
+      "content": "这个在内地到目前为止大家都是不敢想象的",
+      "music": 0.0
+    },
+    {
+      "from": 1019.85,
+      "to": 1020.85,
+      "sid": 444,
+      "location": 2,
+      "content": "右边这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1020.85,
+      "to": 1024.849,
+      "sid": 445,
+      "location": 2,
+      "content": "是香港和内地四个一线城市的租金回报率水平",
+      "music": 0.0
+    },
+    {
+      "from": 1024.849,
+      "to": 1027.809,
+      "sid": 446,
+      "location": 2,
+      "content": "你可以看到香港的租金回报率仍然是非常之高",
+      "music": 0.0
+    },
+    {
+      "from": 1027.809,
+      "to": 1029.91,
+      "sid": 447,
+      "location": 2,
+      "content": "在目前呢是来到了3.5",
+      "music": 0.0
+    },
+    {
+      "from": 1029.91,
+      "to": 1031.91,
+      "sid": 448,
+      "location": 2,
+      "content": "那么3.5的租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1031.91,
+      "to": 1035.4,
+      "sid": 449,
+      "location": 2,
+      "content": "面对的是不到3.5的一个房贷利率",
+      "music": 0.0
+    },
+    {
+      "from": 1035.4,
+      "to": 1038.44,
+      "sid": 450,
+      "location": 2,
+      "content": "显然呢买房要比租房更加划算",
+      "music": 0.0
+    },
+    {
+      "from": 1038.44,
+      "to": 1039.95,
+      "sid": 451,
+      "location": 2,
+      "content": "因为租房的话更贵",
+      "music": 0.0
+    },
+    {
+      "from": 1039.95,
+      "to": 1041.85,
+      "sid": 452,
+      "location": 2,
+      "content": "而对于内地来说的话",
+      "music": 0.0
+    },
+    {
+      "from": 1041.85,
+      "to": 1042.85,
+      "sid": 453,
+      "location": 2,
+      "content": "我们看到的是",
+      "music": 0.0
+    },
+    {
+      "from": 1042.85,
+      "to": 1045.51,
+      "sid": 454,
+      "location": 2,
+      "content": "房贷利率目前仍然在3.05的水平",
+      "music": 0.0
+    },
+    {
+      "from": 1045.51,
+      "to": 1049.679,
+      "sid": 455,
+      "location": 2,
+      "content": "而租金回报率即便在房价下跌之后",
+      "music": 0.0
+    },
+    {
+      "from": 1049.679,
+      "to": 1051.059,
+      "sid": 456,
+      "location": 2,
+      "content": "开始有明显的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 1051.059,
+      "to": 1054.01,
+      "sid": 457,
+      "location": 2,
+      "content": "也只不过从1.4涨到现在1.8",
+      "music": 0.0
+    },
+    {
+      "from": 1054.01,
+      "to": 1056.63,
+      "sid": 458,
+      "location": 2,
+      "content": "也就是说你租房成本只有1.8个点",
+      "music": 0.0
+    },
+    {
+      "from": 1056.63,
+      "to": 1059.17,
+      "sid": 459,
+      "location": 2,
+      "content": "但买房的话成本是3.05个点",
+      "music": 0.0
+    },
+    {
+      "from": 1059.17,
+      "to": 1061.58,
+      "sid": 460,
+      "location": 2,
+      "content": "显然租还是比买更加划算",
+      "music": 0.0
+    },
+    {
+      "from": 1061.58,
+      "to": 1064.82,
+      "sid": 461,
+      "location": 2,
+      "content": "加总起来呢就是图吧当中左边这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1064.82,
+      "to": 1068.27,
+      "sid": 462,
+      "location": 2,
+      "content": "大家可以看到香港的净租金回报率目前是正的",
+      "music": 0.0
+    },
+    {
+      "from": 1068.27,
+      "to": 1070.43,
+      "sid": 463,
+      "location": 2,
+      "content": "体现出的是买比租划算",
+      "music": 0.0
+    },
+    {
+      "from": 1070.43,
+      "to": 1073.55,
+      "sid": 464,
+      "location": 2,
+      "content": "而内地四个一线城市的净租金回报率是负的",
+      "music": 0.0
+    },
+    {
+      "from": 1073.55,
+      "to": 1076.53,
+      "sid": 465,
+      "location": 2,
+      "content": "而且是付超过1%租",
+      "music": 0.0
+    },
+    {
+      "from": 1076.53,
+      "to": 1078.83,
+      "sid": 466,
+      "location": 2,
+      "content": "远远的比买还要更划算",
+      "music": 0.0
+    },
+    {
+      "from": 1078.83,
+      "to": 1081.79,
+      "sid": 467,
+      "location": 2,
+      "content": "那图八当中右边那张图呢就更加的直观啊",
+      "music": 0.0
+    },
+    {
+      "from": 1081.79,
+      "to": 1084.19,
+      "sid": 468,
+      "location": 2,
+      "content": "看到香港的净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1084.19,
+      "to": 1085.93,
+      "sid": 469,
+      "location": 2,
+      "content": "和房价之间的一个关系",
+      "music": 0.0
+    },
+    {
+      "from": 1085.93,
+      "to": 1089.33,
+      "sid": 470,
+      "location": 2,
+      "content": "其中深蓝色这条线呢是香港的净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1089.33,
+      "to": 1092.58,
+      "sid": 471,
+      "location": 2,
+      "content": "红色这条线呢是香港房价的一个同比变化",
+      "music": 0.0
+    },
+    {
+      "from": 1092.58,
+      "to": 1095.86,
+      "sid": 472,
+      "location": 2,
+      "content": "这两条线之间呈现出了高度的正相关性",
+      "music": 0.0
+    },
+    {
+      "from": 1095.86,
+      "to": 1099.62,
+      "sid": 473,
+      "location": 2,
+      "content": "同时呢深蓝色这条线是稍稍领先于红色",
+      "music": 0.0
+    },
+    {
+      "from": 1099.62,
+      "to": 1100.14,
+      "sid": 474,
+      "location": 2,
+      "content": "这条线",
+      "music": 0.0
+    },
+    {
+      "from": 1100.14,
+      "to": 1102.86,
+      "sid": 475,
+      "location": 2,
+      "content": "也就呈现出净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1102.86,
+      "to": 1105.09,
+      "sid": 476,
+      "location": 2,
+      "content": "如果转正不久的未来",
+      "music": 0.0
+    },
+    {
+      "from": 1105.09,
+      "to": 1107.92,
+      "sid": 477,
+      "location": 2,
+      "content": "香港的房价就会同比正增长",
+      "music": 0.0
+    },
+    {
+      "from": 1107.92,
+      "to": 1110.56,
+      "sid": 478,
+      "location": 2,
+      "content": "而如果净租金回报率转负",
+      "music": 0.0
+    },
+    {
+      "from": 1110.56,
+      "to": 1112.92,
+      "sid": 479,
+      "location": 2,
+      "content": "那么香港的房价就会同比负增长",
+      "music": 0.0
+    },
+    {
+      "from": 1112.92,
+      "to": 1114.0,
+      "sid": 480,
+      "location": 2,
+      "content": "那现阶段的话",
+      "music": 0.0
+    },
+    {
+      "from": 1114.0,
+      "to": 1116.36,
+      "sid": 481,
+      "location": 2,
+      "content": "由于香港的净租金回报率是正的",
+      "music": 0.0
+    },
+    {
+      "from": 1116.36,
+      "to": 1118.98,
+      "sid": 482,
+      "location": 2,
+      "content": "所以因此呢香港的房价也就是正的",
+      "music": 0.0
+    },
+    {
+      "from": 1118.98,
+      "to": 1120.06,
+      "sid": 483,
+      "location": 2,
+      "content": "这样的一套逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1120.06,
+      "to": 1122.68,
+      "sid": 484,
+      "location": 2,
+      "content": "如果印证到四个内地的一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 1122.68,
+      "to": 1124.52,
+      "sid": 485,
+      "location": 2,
+      "content": "那么也就意味着什么时候",
+      "music": 0.0
+    },
+    {
+      "from": 1124.52,
+      "to": 1126.52,
+      "sid": 486,
+      "location": 2,
+      "content": "红色这条线在左边那张图当中",
+      "music": 0.0
+    },
+    {
+      "from": 1126.52,
+      "to": 1127.7,
+      "sid": 487,
+      "location": 2,
+      "content": "红色这条线转正了",
+      "music": 0.0
+    },
+    {
+      "from": 1127.7,
+      "to": 1128.32,
+      "sid": 488,
+      "location": 2,
+      "content": "什么时候",
+      "music": 0.0
+    },
+    {
+      "from": 1128.32,
+      "to": 1130.86,
+      "sid": 489,
+      "location": 2,
+      "content": "北上广深的房价才有望止跌",
+      "music": 0.0
+    },
+    {
+      "from": 1130.86,
+      "to": 1132.52,
+      "sid": 490,
+      "location": 2,
+      "content": "除了净租金回报率呢",
+      "music": 0.0
+    },
+    {
+      "from": 1132.52,
+      "to": 1134.94,
+      "sid": 491,
+      "location": 2,
+      "content": "我们再来看一下库存的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1134.94,
+      "to": 1138.4,
+      "sid": 492,
+      "location": 2,
+      "content": "高盛呢是做了一个当前库存",
+      "music": 0.0
+    },
+    {
+      "from": 1138.4,
+      "to": 1141.7,
+      "sid": 493,
+      "location": 2,
+      "content": "相较于历史均值的对比",
+      "music": 0.0
+    },
+    {
+      "from": 1141.7,
+      "to": 1142.54,
+      "sid": 494,
+      "location": 2,
+      "content": "发现呢",
+      "music": 0.0
+    },
+    {
+      "from": 1142.54,
+      "to": 1146.76,
+      "sid": 495,
+      "location": 2,
+      "content": "只有深圳的库存是相较于历史均值有所下降的",
+      "music": 0.0
+    },
+    {
+      "from": 1146.76,
+      "to": 1149.0,
+      "sid": 496,
+      "location": 2,
+      "content": "而北京和广州是基本持平",
+      "music": 0.0
+    },
+    {
+      "from": 1149.0,
+      "to": 1150.84,
+      "sid": 497,
+      "location": 2,
+      "content": "上海呢是略有增长",
+      "music": 0.0
+    },
+    {
+      "from": 1150.84,
+      "to": 1153.36,
+      "sid": 498,
+      "location": 2,
+      "content": "也就呈现出了大家看到的图九",
+      "music": 0.0
+    },
+    {
+      "from": 1153.36,
+      "to": 1155.4,
+      "sid": 499,
+      "location": 2,
+      "content": "横轴是净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1155.4,
+      "to": 1157.14,
+      "sid": 500,
+      "location": 2,
+      "content": "这条竖轴啊是零",
+      "music": 0.0
+    },
+    {
+      "from": 1157.14,
+      "to": 1160.56,
+      "sid": 501,
+      "location": 2,
+      "content": "也就是说四个一线城市仍然是低于零的",
+      "music": 0.0
+    },
+    {
+      "from": 1160.56,
+      "to": 1162.5,
+      "sid": 502,
+      "location": 2,
+      "content": "而香港呢目前已经转正了",
+      "music": 0.0
+    },
+    {
+      "from": 1162.5,
+      "to": 1165.28,
+      "sid": 503,
+      "location": 2,
+      "content": "纵轴呢是2025年第四季度的库存",
+      "music": 0.0
+    },
+    {
+      "from": 1165.28,
+      "to": 1169.04,
+      "sid": 504,
+      "location": 2,
+      "content": "相较于2022年第四季度的库存的一个变化",
+      "music": 0.0
+    },
+    {
+      "from": 1169.04,
+      "to": 1169.92,
+      "sid": 505,
+      "location": 2,
+      "content": "大家可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1169.92,
+      "to": 1171.0,
+      "sid": 506,
+      "location": 2,
+      "content": "上海的库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 1171.0,
+      "to": 1174.26,
+      "sid": 507,
+      "location": 2,
+      "content": "其实相较于2022年末是显著增长",
+      "music": 0.0
+    },
+    {
+      "from": 1174.26,
+      "to": 1176.1,
+      "sid": 508,
+      "location": 2,
+      "content": "北京和广州基本上是持平",
+      "music": 0.0
+    },
+    {
+      "from": 1176.1,
+      "to": 1178.62,
+      "sid": 509,
+      "location": 2,
+      "content": "而深圳的库存是有所下降的",
+      "music": 0.0
+    },
+    {
+      "from": 1178.62,
+      "to": 1179.46,
+      "sid": 510,
+      "location": 2,
+      "content": "同时呢",
+      "music": 0.0
+    },
+    {
+      "from": 1179.46,
+      "to": 1182.0,
+      "sid": 511,
+      "location": 2,
+      "content": "这四个城市的净租金回报率",
+      "music": 0.0
+    },
+    {
+      "from": 1182.0,
+      "to": 1184.72,
+      "sid": 512,
+      "location": 2,
+      "content": "相较于2022年末确实是有所好转",
+      "music": 0.0
+    },
+    {
+      "from": 1184.72,
+      "to": 1187.32,
+      "sid": 513,
+      "location": 2,
+      "content": "但是距离香港这样一个点位啊",
+      "music": 0.0
+    },
+    {
+      "from": 1187.32,
+      "to": 1189.3,
+      "sid": 514,
+      "location": 2,
+      "content": "仍然是具有一定的距离",
+      "music": 0.0
+    },
+    {
+      "from": 1189.3,
+      "to": 1191.26,
+      "sid": 515,
+      "location": 2,
+      "content": "那高盛的逻辑呢就是什么时候",
+      "music": 0.0
+    },
+    {
+      "from": 1191.26,
+      "to": 1195.27,
+      "sid": 516,
+      "location": 2,
+      "content": "这四个一线城市在这张图当中的点位",
+      "music": 0.0
+    },
+    {
+      "from": 1195.27,
+      "to": 1197.19,
+      "sid": 517,
+      "location": 2,
+      "content": "落到了第四象限",
+      "music": 0.0
+    },
+    {
+      "from": 1197.19,
+      "to": 1201.139,
+      "sid": 518,
+      "location": 2,
+      "content": "什么时候这四个一线城市的房价就有望止跌了",
+      "music": 0.0
+    },
+    {
+      "from": 1201.139,
+      "to": 1204.379,
+      "sid": 519,
+      "location": 2,
+      "content": "那最后呢我们就来看一下高盛的结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 1204.379,
+      "to": 1207.28,
+      "sid": 520,
+      "location": 2,
+      "content": "首先呢他们预计未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 1207.28,
+      "to": 1211.82,
+      "sid": 521,
+      "location": 2,
+      "content": "中国内地的房地产刺激政策还会陆续的出台",
+      "music": 0.0
+    },
+    {
+      "from": 1211.82,
+      "to": 1214.1,
+      "sid": 522,
+      "location": 2,
+      "content": "去推动楼市的再平衡",
+      "music": 0.0
+    },
+    {
+      "from": 1214.1,
+      "to": 1218.67,
+      "sid": 523,
+      "location": 2,
+      "content": "但是呢目前大规模刺激的门槛是在提升的",
+      "music": 0.0
+    },
+    {
+      "from": 1218.67,
+      "to": 1221.59,
+      "sid": 524,
+      "location": 2,
+      "content": "所以因此整体对于房地产市场的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 1221.59,
+      "to": 1224.8,
+      "sid": 525,
+      "location": 2,
+      "content": "仍然是一个托而不举的渐进过程",
+      "music": 0.0
+    },
+    {
+      "from": 1224.8,
+      "to": 1227.72,
+      "sid": 526,
+      "location": 2,
+      "content": "除非我们看到房价的大幅下跌",
+      "music": 0.0
+    },
+    {
+      "from": 1227.72,
+      "to": 1230.6,
+      "sid": 527,
+      "location": 2,
+      "content": "或者甚至是引发系统性金融风险",
+      "music": 0.0
+    },
+    {
+      "from": 1230.6,
+      "to": 1234.52,
+      "sid": 528,
+      "location": 2,
+      "content": "才会有广泛的这种全国范围内的大规模刺激",
+      "music": 0.0
+    },
+    {
+      "from": 1234.52,
+      "to": 1237.19,
+      "sid": 529,
+      "location": 2,
+      "content": "这种情形呢高盛仍然是认为",
+      "music": 0.0
+    },
+    {
+      "from": 1237.19,
+      "to": 1240.25,
+      "sid": 530,
+      "location": 2,
+      "content": "在楼市托而不举的这样一个大背景之下",
+      "music": 0.0
+    },
+    {
+      "from": 1240.25,
+      "to": 1243.77,
+      "sid": 531,
+      "location": 2,
+      "content": "一线和二线城市在未来的一到两年",
+      "music": 0.0
+    },
+    {
+      "from": 1243.77,
+      "to": 1246.11,
+      "sid": 532,
+      "location": 2,
+      "content": "有望看到房价的企稳",
+      "music": 0.0
+    },
+    {
+      "from": 1246.11,
+      "to": 1249.81,
+      "sid": 533,
+      "location": 2,
+      "content": "那当然高盛的宏观团队是特意提到了一句话",
+      "music": 0.0
+    },
+    {
+      "from": 1249.81,
+      "to": 1251.07,
+      "sid": 534,
+      "location": 2,
+      "content": "就是这样一个判断呢",
+      "music": 0.0
+    },
+    {
+      "from": 1251.07,
+      "to": 1254.56,
+      "sid": 535,
+      "location": 2,
+      "content": "和他们地产研究团队的判断是基本一致的",
+      "music": 0.0
+    },
+    {
+      "from": 1254.56,
+      "to": 1257.72,
+      "sid": 536,
+      "location": 2,
+      "content": "当然我个人理解这个还是有比较明显的差异啊",
+      "music": 0.0
+    },
+    {
+      "from": 1257.72,
+      "to": 1260.86,
+      "sid": 537,
+      "location": 2,
+      "content": "因为地产研究团队是认为在未来的8~9个月",
+      "music": 0.0
+    },
+    {
+      "from": 1260.86,
+      "to": 1263.62,
+      "sid": 538,
+      "location": 2,
+      "content": "上海和深圳的房价就完成了止跌",
+      "music": 0.0
+    },
+    {
+      "from": 1263.62,
+      "to": 1265.86,
+      "sid": 539,
+      "location": 2,
+      "content": "而高盛的宏观团队是说",
+      "music": 0.0
+    },
+    {
+      "from": 1265.86,
+      "to": 1267.55,
+      "sid": 540,
+      "location": 2,
+      "content": "至少需要一到两年的时间",
+      "music": 0.0
+    },
+    {
+      "from": 1267.55,
+      "to": 1270.09,
+      "sid": 541,
+      "location": 2,
+      "content": "当然他们完全一致的判断是",
+      "music": 0.0
+    },
+    {
+      "from": 1270.09,
+      "to": 1274.3,
+      "sid": 542,
+      "location": 2,
+      "content": "上海和深圳将会领先于其他城市完成止跌",
+      "music": 0.0
+    },
+    {
+      "from": 1274.3,
+      "to": 1275.72,
+      "sid": 543,
+      "location": 2,
+      "content": "那也就言下之意",
+      "music": 0.0
+    },
+    {
+      "from": 1275.72,
+      "to": 1277.3,
+      "sid": 544,
+      "location": 2,
+      "content": "如果你在北京",
+      "music": 0.0
+    },
+    {
+      "from": 1277.3,
+      "to": 1278.02,
+      "sid": 545,
+      "location": 2,
+      "content": "广州",
+      "music": 0.0
+    },
+    {
+      "from": 1278.02,
+      "to": 1278.7,
+      "sid": 546,
+      "location": 2,
+      "content": "成都",
+      "music": 0.0
+    },
+    {
+      "from": 1278.7,
+      "to": 1281.739,
+      "sid": 547,
+      "location": 2,
+      "content": "杭州或者其他的强二线城市",
+      "music": 0.0
+    },
+    {
+      "from": 1281.739,
+      "to": 1282.859,
+      "sid": 548,
+      "location": 2,
+      "content": "你的买房时机呢",
+      "music": 0.0
+    },
+    {
+      "from": 1282.859,
+      "to": 1286.639,
+      "sid": 549,
+      "location": 2,
+      "content": "可以考虑优先观测上海和深圳的止跌是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1286.639,
+      "to": 1288.14,
+      "sid": 550,
+      "location": 2,
+      "content": "上海和深圳止跌之后",
+      "music": 0.0
+    },
+    {
+      "from": 1288.14,
+      "to": 1289.3,
+      "sid": 551,
+      "location": 2,
+      "content": "你去下手买房",
+      "music": 0.0
+    },
+    {
+      "from": 1289.3,
+      "to": 1291.1,
+      "sid": 552,
+      "location": 2,
+      "content": "基本上是可以抄在一个底部的",
+      "music": 0.0
+    },
+    {
+      "from": 1291.1,
+      "to": 1292.86,
+      "sid": 553,
+      "location": 2,
+      "content": "但是对于第一线城市来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 1292.86,
+      "to": 1297.25,
+      "sid": 554,
+      "location": 2,
+      "content": "高盛是认为目前看不到止跌的希望",
+      "music": 0.0
+    },
+    {
+      "from": 1297.25,
+      "to": 1298.91,
+      "sid": 555,
+      "location": 2,
+      "content": "因为库存更高",
+      "music": 0.0
+    },
+    {
+      "from": 1298.91,
+      "to": 1300.17,
+      "sid": 556,
+      "location": 2,
+      "content": "人口在净流出",
+      "music": 0.0
+    },
+    {
+      "from": 1300.17,
+      "to": 1302.49,
+      "sid": 557,
+      "location": 2,
+      "content": "同时地方的财政压力更大",
+      "music": 0.0
+    },
+    {
+      "from": 1302.49,
+      "to": 1305.34,
+      "sid": 558,
+      "location": 2,
+      "content": "那也就意味着拉动经济的能力更弱",
+      "music": 0.0
+    },
+    {
+      "from": 1305.34,
+      "to": 1308.22,
+      "sid": 559,
+      "location": 2,
+      "content": "所以上呢是这篇研报的核心观点",
+      "music": 0.0
+    },
+    {
+      "from": 1308.22,
+      "to": 1311.46,
+      "sid": 560,
+      "location": 2,
+      "content": "不知道大家是不是认为这篇宏观的研报",
+      "music": 0.0
+    },
+    {
+      "from": 1311.46,
+      "to": 1314.06,
+      "sid": 561,
+      "location": 2,
+      "content": "相较于他们地产团队的研报更加的客观呢",
+      "music": 0.0
+    },
+    {
+      "from": 1314.06,
+      "to": 1316.54,
+      "sid": 562,
+      "location": 2,
+      "content": "也欢迎大家在评论区一起来探讨啊",
+      "music": 0.0
+    },
+    {
+      "from": 1316.54,
+      "to": 1317.46,
+      "sid": 563,
+      "location": 2,
+      "content": "还是老规矩",
+      "music": 0.0
+    },
+    {
+      "from": 1317.46,
+      "to": 1319.02,
+      "sid": 564,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 1319.02,
+      "to": 1321.58,
+      "sid": 565,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 1321.58,
+      "to": 1322.91,
+      "sid": 566,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 1322.91,
+      "to": 1323.99,
+      "sid": 567,
+      "location": 2,
+      "content": "今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1323.99,
+      "to": 1325.71,
+      "sid": 568,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1325.71,
+      "to": 1326.52,
+      "sid": 569,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

@@ -121,6 +121,57 @@
 | | 20年房产中介透露买房砍价内幕 | [summary.md](downloads/bilibili/BV1DaX1BkEPb/summary.md) |
 
 
+
+### 2026-05-12
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 【完整高清字幕版】大摩关门会：邢自强、Laura Wang：AI与投资超级周期走向？260511全网最快（推荐程度：6星必看） | [summary.md](downloads/bilibili/BV1Rt5s6wExz/summary.md) |
+
+### 2026-05-12
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 中金AI行情走到哪一步远吗 2026.5.11 | [summary.md](downloads/bilibili/BV12z5s6XEkH/summary.md) |
+
+
+
+
+### 2026-05-13
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| DeepLearning AI | Building Agentic RAG with Llamaindex（吴恩达 x LlamaIndexJerry Liu）完整课程总结 | [summary.md](../deeplearning/building-agentic-rag-with-llamaindex/course-summary.md) |
+| | 5.13 股市复盘：护指板块全线飘红，情绪龙头断层领先/ | [summary.md](downloads/bilibili/BV1Ni5C6BEsA/summary.md) |
+
+### 2026-05-13
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 【关键时刻】AI芯片行业深度分析：中国推荐公司寻找英伟达替代方案Vol.0117 | [summary.md](downloads/bilibili/BV1ZNRQBGEEV/summary.md) |
+
+### 2026-05-13
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 外资净流入4%酿成踩踏为哪般？摩根大通披露惊人细节，中国已无处可逃 | [summary.md](downloads/bilibili/BV13L5j6MEei/summary.md) |
+
+
+
+### 2026-05-17
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| 老厉害的YOUTUBE频道 | 借鉴香港房价止跌路径，内地核心城市房价1-2年内有望止跌 | [summary.md](downloads/bilibili/BV155QWBQErz/summary.md) |
+| | （深度）用2个指标观察房价合理了么？| [summary.md](downloads/bilibili/BV14C5B6tEbt/summary.md) |
+
+### 2026-05-18
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 瑞银闭门会：中国房地产解读 260514（推荐程度：4星选看） | [summary.md](downloads/bilibili/BV1d15q6TEiQ/summary.md) |
+
+
 ---
 
-*最后更新: 2026-05-11*
+*最后更新: 2026-05-17*

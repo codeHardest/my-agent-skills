@@ -1,0 +1,371 @@
+Right now, tech giants in China are placing these massive, I mean, multi-billion dollar orders
+for AI chips that are technically speaking at least two generations obsolete.
+Right. Completely outdated by industry standards.
+Exactly. They're buying hardware that, on paper, should be entirely uncompetitive.
+Yet, the company making these older chips Huawei is seeing its AI processor revenues
+absolutely skyrocket. Oh, the projections are wild. Yeah, we're talking a jump from 7.5 billion
+dollars in 2025 to 12 billion dollars this year.
+That is a 60% jump.
+Which is just staggering.
+Right.
+I mean, welcome to today's deep dive.
+We're so glad you could join us because in an industry where just, you know, securing
+wafer allocation and getting silicon out the door is a total logistical nightmare.
+Absolutely.
+Capturing an actor four and a half billion dollars in a single year with older technology
+is just, well, it's a glaring contradiction.
+Yeah.
+And what's fascinating here is that this completely upends the traditional Silicon
+Valley narrative.
+Well, we are wired to assume that the fastest, most power efficient processor, automatic
+wins the market, right? Like best specs win. Sure. That's tech 101. Exactly. But the sources we are
+looking at today reveal a completely different reality. This massive revenue surge. It's not
+about making a faster chip. It's a masterclass in how a company leverages structural market forces
+and navigates this unprecedented web of global regulations. They're essentially
+rearchitecting their whole approach to AI just to play the hand they redoubt.
+Precisely. They're playing the board, not just the cards.
+Okay, let's unpack this hand they were dealt, because getting to $12 billion, that's not
+just theoretical futures, right?
+This is happening right now.
+Yeah.
+The reports indicate that Chinese tech groups are actively taking delivery of this specific
+processor called the 950PR.
+Right, the PR model.
+And it just entered mass production in March, so it is fresh off the line and demand is
+already way outstripping supply.
+Plus they have an upgraded version, the 950DT, slated for the fourth quarter.
+Yeah, the roadmap is aggressive.
+But designing a chip architecture, that's really only half the battle.
+Oh for sure.
+Actually, manufacturing 7 nanometer or even older node silicon at this kind of blistering
+scale, it requires massive physical infrastructure.
+So for Huawei to scale up production by 60% in a heavily sanctioned environment, they
+need serious manufacturing muscle inside China.
+So how are they physically pulling this off?
+They are leaning almost entirely on SMEC.
+That's the Semiconductor Manufacturing International Corporation.
+Okay, SMIC. Yeah, SEMMIC is China's leading
+Dementic Fabrication Plan. And to handle this kind of volume, especially on older
+lithography equipment, you basically had to throw brute force and just sheer
+physical space at the problem. Because they don't have the newest machines.
+Right, because they cannot access the most advanced extreme ultraviolet
+lithography machines, the UV machines. So manufacturing these chips involves
+these really complex multi-patterning processes. And that naturally leads to
+lower yields per wafer. You just get fewer working chips out of every batch.
+Ah, okay. So you're putting in the same amount of work but getting less usable product at the end?
+Exactly. So to compensate for those lower yields and still hit that $12 billion revenue mark,
+SecMIC is scaling up super aggressively. Later this year, two additional fabrication
+plants are scheduled to launch and they are dedicated specifically to Huawei's AI chip needs.
+Wow. So they are essentially building their way out of a yield problem.
+Basically, if you can't get as many good chips out of a single silicon wafer
+You just build entire new factories to process way more wafers just flood the zone with sheer volume
+But wait that still leaves the fundamental performance gap the sources explicitly state that even the newest
+950 PR lags Nvidia's advanced products by what two generations at least two generations
+Yeah, and in the semiconductor world a two generation gap is a lifetime
+I mean, it's like, okay, imagine you need to run a massive enterprise logistics company,
+but you can only buy independent locally made delivery vans instead of the top of the line
+freight trucks.
+Right.
+Your whole fleet is inherently slower.
+Exactly.
+So how do you capture a cutting edge AI market when your physical engines are just fundamentally
+slower?
+Because Market Access dictates the winner before specifications even factor into the
+equation.
+Okay, explain that.
+going back to your analogy. If you cannot legally purchase the freight truck, its horsepower is
+entirely irrelevant to your logistics business. You still have to move the freight so you buy
+the local delivery vans, even if it means buying more of them and driving them a lot harder.
+The technical capabilities of the hardware have become totally secondary to the geopolitical
+reality of who is allowed to sell what to whom. And that geopolitical reality is really the
+the only reason Huawei has this opening.
+To understand the 950PR's dominance,
+we have to look at what happened to the incumbent
+because NVIDIA absolutely owned this space, right?
+Oh, they dominated it.
+In their fiscal year 2025,
+they sold $17.1 billion worth of chips in China.
+$17.1 billion?
+Yes, but here's the catch.
+That wasn't their flagship hardware.
+NVIDIA had to engineer this highly specific
+watered-down chip called the H20.
+Right, the H20.
+They poured millions into designing a processor that deliberately throttled its own interconnect
+speeds in its compute performance just to stay a hair below the thresholds that would
+trigger U.S. export controls.
+That is wild to think about.
+They engineered a product solely to fit through a regulatory loophole.
+Exactly.
+The H-20 was Nvidia's lifeline to the Chinese market.
+It allowed them to comply with Washington's rules while still providing Chinese tech
+firms with the familiar Nvidia software ecosystem, even if it was on slightly degraded hardware.
+But then Washington closed the loophole, a year ago the US government outright banned
+the sale of the H20 to China, the legal threshold moved, and suddenly Nvidia's $17 billion revenue
+stream was just cut off.
+So since then, Nvidia has been desperately trying to navigate a path back in.
+Which brings us to their newest hardware, the H200.
+And back in March, Nvidia CEO Jensen Huang announced that the company had finally secured
+U.S. export licenses to sell the new H-200 chips to Chinese clients.
+Right. And on paper, it looked like the freeze was over.
+Yeah, everyone thought, okay, they're back in business.
+It appeared that way to the market, but the actual logistics on the ground tell a completely
+different story. The sources highlight this staggering detail. Despite Nvidia holding
+those U.S. licenses since March, exactly zero shipments of the H-200 have been made to China.
+Wait, zero? Not a single chip?
+Not a single chip has cranked the border.
+Because holding a U.S. license only satisfies one half of the equation.
+Exactly.
+We are looking at this bizarre regulatory riddle where two competing governments
+have issued mandates that basically physically freeze the supply chain.
+It's a complete stalemate. On one side you have U.S. regulators
+requiring that any invidia chips ordered by Chinese clients
+must only be deployed and used inside China. The hardware cannot leave the country.
+Right, to prevent it from going to third parties I assume.
+Exactly. But meanwhile, Beijing has issued its own strict directives. They told Chinese tech
+companies to buy domestic hardware, like Huawei, for all internal domestic data centers.
+Okay.
+And they actively restricted any use of Nvidia chips to only their overseas operations.
+Wait, so the conditions are mutually exclusive?
+Completely. The US demands the chips stay inside China,
+and Beijing demands the chips only be used outside of China.
+Oh my god, it's like two divorced parents dictating roles for a teenager with a family car.
+Mom says you are only allowed to drive the car on the highway.
+Dad says you're only allowed to drive the car in the driveway.
+That's the perfect analogy.
+The result isn't a compromise.
+The result is the car literally sits parked with the engine off.
+There's literally no customs clearance for the H-200.
+None. You have willing buyers.
+You have willing sellers.
+You have the inventory sitting there,
+but the product cannot legally exist in any physical location.
+That is just mind-bending. And so this stalemate forces the hands of the Chinese tech giants.
+They have no choice. I mean, they have these aggressive roadmaps for deploying large language
+models, right? They cannot sit around waiting for Washington and Beijing to resolve a geopolitical
+standoff. Right. The compute demand is immediate. Exactly. So this gridlock is exactly what hands
+Huawei a captive multi-billion dollar market. But having a captive market doesn't automatically
+mean your product works for the end user. I mean, if I'm a Chinese tech giant building
+the next massive AI agent, I still have to deliver a product that processes user prompts instantly.
+You still have a business to run. Yeah, I can't apologize to my users for
+high latency just because I was forced by regulators to buy older Silicon.
+Huawei still has to take hardware that is two generations behind
+and somehow make it viable for state-of-the-art AI.
+And that requires a massive shift in how the hardware is actually utilized.
+See, Huawei recognized pretty quickly they could not win a head-to-head race on raw computing power,
+so they changed the race. They executed this really brilliant strategic technical pivot.
+Rather than trying to match Nvidia in the brutally compute heavy phase of AI model training,
+Huawei positioned the 950PR architecture specifically for inference.
+Okay, let's define those terms for the lesson because it's a crucial distinction.
+And anyone building models knows that training is like studying for a massive final exam.
+You're reading all the books, making millions of connections.
+It requires moving massive matrices, constantly updating billions of parameters across thousands
+of GPUs.
+Right.
+It requires insane compute density.
+That's a lawless memory bandwidth.
+But inference, that's actually taking the test.
+That's the forward pass, where the model is simply generating a response, like when
+you type a prompt into an LLN.
+Exactly.
+And inference is a totally different beast.
+is highly memory bandwidth constrained, sure,
+but it requires significantly fewer raw compute cycles
+per operation than the training phase.
+So Huawei is placing a huge bet here.
+A massive debt on the long-term economics of AI.
+Think about it.
+Training a trillion parameter model
+is this massive episodic capital expenditure.
+It happens periodically.
+Right, you do it once every few months or whatever.
+Exactly, but inference.
+Inference happens every single time a user queries an AI
+assistant or asks a car to navigate or has a customer
+service bot rewrite an email.
+Oh, wow.
+So as AI agents scale globally, the sheer volume of daily
+inference requests will just absolutely
+dwarf the compute cycles spent on training.
+By orders of magnitude.
+By tailoring the 950 PR for inference workloads,
+Huawei is positioning itself at the largest choke point
+of future AI demand.
+Okay, but optimizing for inference doesn't magically erase a two-generation hardware lag.
+Inference still requires shuffling massive amounts of data across the chip incredibly fast to generate those tokens without a delay.
+So if an individual 950PR is still slower than an Nvidia counterpart, how are they keeping the end user experience from feeling totally sluggish?
+This is where it gets really clever. They mitigate the individual chip weakness by leveraging their historical core competency.
+You have to remember, before Huawei was an AI chip manufacturer, they were one of the
+world's largest telecommunications companies.
+Oh, right.
+Telecom.
+Their foundational expertise is in networking.
+So they take these 950PR processors and wire them together using highly advanced proprietary
+interconnects.
+They build these massive computing clusters where the latency between the chips is minimized.
+So it's like realizing your single-star player isn't as fast as the opponent, so you
+You build a highly coordinated team of slightly slower players who pass the ball perfectly.
+That's exactly it.
+The network essentially becomes the computer.
+If your single processor can't handle the parameter weights fast enough, you distribute
+the load across a highly coordinated cluster.
+It's all about how efficiently they can pass data east to west inside the data center,
+totally bypassing the bottleneck of the individual silicon.
+And we actually have real-world proof that this is working, right?
+We do.
+The sources provide concrete proof that this distributed architecture is functioning at
+the absolute frontier of AI development.
+DeepSeq, which has shocked the industry recently with its highly efficient models, they utilized
+Huawei's 950PR for their latest DeepSeq V4 architecture.
+And DeepSeq is the perfect test case for this, because they are notoriously obsessed
+with driving down compute costs.
+They really are.
+And according to the reports, by deploying Huawei's clustered chips, Deepseq achieved
+improved inference efficiency, and they noticeably reduced their operating costs compared to foreign
+hardware alternatives.
+Wow.
+Yeah.
+Huawei proved their networking architecture could genuinely compensate for older lithography
+at scale.
+But, and this is a big, but let's look at the critical nuance buried in that Deepseq
+report.
+Deepseq deployed the 950PR specifically for inference.
+Right.
+But the sources explicitly state that the vast majority of the computationally punishing
+work, the actual training of the V4 model was still executed on NVIDIA's chips.
+Huawei's networking clusters are impressive, but NVIDIA's raw compute dominance in the training phase
+remains largely unbroken. It highlights a really fractured pipeline. We are seeing companies
+train their foundational models on whatever advanced NVIDIA silicon they managed to hoard
+before the expert controls tightened. Right, their stockpiles. Yeah, their stockpiles.
+And then they deploy the finished model onto massive clusters of Huawei chips
+for the daily inference workloads.
+But hardware clustering only solves the physical bottleneck.
+I mean, silicon is basically just expensive sand
+without the software to run it.
+Very true.
+And here's where it gets really interesting.
+Because NVIDIA's true moat, the reason developers
+so aggressively defend using their chips,
+isn't just the physical hardware, it's CUDA.
+CUDA, yes.
+NVIDIA's proprietary software platform.
+It is arguably the most dominant ecosystem
+in modern technology.
+It's insane.
+If we connect this to the bigger picture, CUDA is the invisible gravity holding NVIDIA's
+entire monopoly together.
+They have spent over 15 years building out these libraries, optimizing primitives, refining
+the tools that developers use to compile code for their GPUs, and entire generations
+of AI researchers have built their careers exclusively writing in CUDA.
+It is deeply, deeply embedded in the academic and commercial foundation of artificial intelligence.
+So to compete with Nvidia, you don't just have to manufacture a viable chip.
+You have to convince a global workforce of developers to abandon a 15-year-old highly
+optimized language and learn yours completely from scratch.
+And that's Huawei's biggest bottleneck.
+Because they're alternative, their software ecosystem, which is called CAN, it started
+development a full decade after CUDA.
+A decade late to the party.
+Yeah.
+And that decade-long head start translates into massive friction on the ground.
+The sources are really clear that developers inside China frequently struggle with CAN.
+I can imagine.
+It just lacks that deep reservoir of pre-built libraries that CUDA offers.
+When a developer encounters, say, a memory leak or a performance bottleneck, CUDA has
+a massive community and sophisticated debugging tools to solve it almost instantly.
+But with CAN?
+With CAN, developers often have to write low-level kernels from scratch and spend weeks debugging
+issues that would have taken literally hours on NVIDIA's platform.
+Wow.
+totally shifts the cost equation. Like the DeepSeap report mentioned reduced costs for inference,
+but if you are an enterprise client adopting Huawei hardware, the savings you get on the physical
+chips could easily be obliterated by the increased labor costs of your engineering team
+to struggling to optimize code on CAN. The engineering overhead is severe. Now Huawei is
+aggressively updating the software, pushing new releases constantly, but the developers themselves
+report that the gap in usability and efficiency compared to CUDA is still a major barrier to
+adoption. So they have hardware that's two generations behind and software that
+developers find frustrating to use. Despite all of that, despite this massive
+software friction and the inherent limitations of 7 nanometer hardware,
+the financial forecasts for Huawei's trajectory are just staggering. We have a
+detailed projection here from Morgan Stanley that completely reframes the
+scale of this shift. Yeah, Morgan Stanley's analysis is fascinating
+because it looks past the immediate technical bottlenecks and focuses on the
+underlying macro trends. They estimate that the domestic AI chip market in China currently sits
+at roughly $21 billion. Okay, $21 billion this year. But by 2030, they forecast that market will
+expand to a massive $67 billion. That is huge. And the critical data point in their forecast
+isn't just the size of the market, it's who owns it. Morden Stanley projects that by 2030,
+86 percent of that 67 billion dollar market will be supplied by Chinese domestic players like
+Huawei. 86 percent. I mean that essentially represents total market capture. It effectively
+shuts out foreign silicon from the world's second largest economy. But how does an investment bank
+look at an ecosystem severely hindered by older hardware and a highly fractured software platform
+like CAN and confidently predict total dominance? Like how does that make sense? Because they view
+the regulatory environment not as a passing storm but as the new permanent climate.
+Oh interesting. Yeah the analysts explicitly noted that two structural forces are shaping this
+reality. First is the exponential rise in demand for AI inference we discussed earlier. Right.
+But second and more importantly are the persistent export controls. Morgan Stanley argues these
+controls make localization a long duration feature of a market rather than just some
+temporary policy response. A long duration feature. They're acknowledging that the geopolitical lines
+have been drawn in permanent ink. Exactly. The export restrictions aren't going to just be lifted
+in the year or two. Right. And when a multi-billion dollar market is permanently isolated from the
+global supply chain, domestic companies have a guaranteed highly lucrative captive audience.
+So that guaranteed revenue, like the 12 billion Huawei is pulling in just this year,
+that funds the iterative research they need to eventually solve the software friction with
+can and push their lithography forward.
+You hit the nail on the head.
+When survival requires localization, the domestic ecosystem will eventually adapt.
+They will brute force the software optimizations because they literally have no other choice.
+And this forced evolution is exactly what NVIDIA's leadership is monitoring with intense
+concern.
+Yeah, the sources include a really revealing quote from NVIDIA CEO Jensen Phuong.
+This was during a recent interview with podcaster Duarkash Patel.
+They were specifically discussing the possibility of a top tier lab like DeepSeq optimizing their
+next massive frontier model to run natively on Huawei's architecture first rather than
+treating it as a secondary port.
+And Huang did not mince words.
+He stated unequivocally, that is a horrible outcome for our nation.
+Notice the phrasing there.
+He didn't frame it as a threat to Nvidia's quarterly earnings.
+He didn't say it's a problem for corporate market share.
+No, not at all.
+elevated it to a national security and technological sovereignty issue, a horrible outcome for our
+nation.
+Because he understands the endpoint of Morgan Stanley's structural forces.
+If the world's second largest economy is forced to build a completely independent parallel
+tech stack from the silicon layer up through the software primitives and right into the
+frontier models, it breaks the unified global ecosystem.
+Right.
+Hong warned that this trajectory leads directly to a scenario where, and I'll quote him again,
+AI models around the world are developed and they run best on non-American hardware.
+Wow, so what does this all mean for you, the listener? We started this deep dive with a
+contradiction, right? Billions of dollars flowing into two-generation old hardware.
+Seemed crazy at first.
+Totally. But as we've peeled back the layers, the logic of this tectonic shift becomes undeniably
+We've seen how SUMIC is scaling physical infrastructure to basically outbuild their lithography limits.
+We've navigated that absurd regulatory catch-22 that has physically frozen NVIDIA's H-200 shipments.
+The driveway versus highway rule.
+Exactly. And we've explored Huawei's brilliant strategic pivot away from raw compute training
+and toward memory bandwidth-heavy inference, utilizing their telecom IP to build those massive networking clusters.
+And finally, we've examined how the frictions of the CAN software platform are being slowly
+eroded by the sheer financial force of a permanent $67 billion captive market.
+The foundational takeaway here is that the physical layer of the global AI economy
+is bifurcating.
+The silicon and the code that will power autonomous agents, scientific research, global logistics,
+they're splitting into two entirely distinct parallel ecosystems.
+they're being shaped more by export controls than by pure technological merit.
+Which leaves me with a final, slightly unsettling thought for you to consider.
+Jensen Huang fears a future where the best models run natively on non-American hardware.
+But let's take that a step further into the daily inference you will actually rely on.
+If the underlying logic, the memory management, and the networking architecture
+of AI models become fundamentally optimized for completely different hardware
+and software ecosystems depending on where they are deployed,
+Will the actual intelligence of these systems begin to diverge?
+Oh, wow.
+Could we be heading toward a fractured reality where
+an AI assistance reasoning its efficiency and its capabilities
+are fundamentally different simply because of the silicon
+it was forced to run on?
+It's a complex structural shift, and the implications
+will touch every single layer of technology moving forward.
+Thank you for joining us on this deep dive.
+Keep questioning the physical realities
+beneath the software you use every day,
+and we'll see you next time.

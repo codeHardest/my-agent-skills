@@ -94,7 +94,19 @@
       "WebFetch(domain:datacenter.eastmoney.com)",
       "WebFetch(domain:stock.finance.qq.com)",
       "WebFetch(domain:www.annualreports.com)",
-      "WebFetch(domain:www.cninfo.com.cn)"
+      "WebFetch(domain:www.cninfo.com.cn)",
+      "Bash(C:/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe *)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --write-info-json --output \"%\\(id\\)s.%\\(ext\\)s\" --no-playlist \"https://www.bilibili.com/video/BV1Rt5s6wExz/\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --dump-json \"https://www.bilibili.com/video/BV13L5j6MEei/\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(d.get\\('aid',''\\), d.get\\('cid',''\\), d.get\\('title',''\\)\\)\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/get_bilibili_subtitle.py\" \"116543904028394\" \"38211618155\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/\" \"P:/AI/my-agent-skills/downloads/bilibili/bilibili-cookies.txt\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp -f \"bestvideo[height<=1080][ext=mp4]+bestaudio[ext=m4a]/best\" --merge-output-format mp4 -o \"video.%\\(ext\\)s\" \"https://www.bilibili.com/video/BV1ZNRQBGEEV\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp -x --audio-format mp3 -o \"audio.%\\(ext\\)s\" \"https://www.bilibili.com/video/BV1ZNRQBGEEV\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/parallel_transcribe.py\" --input \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/audio.mp3\" --output-dir \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/\" --model small)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m pip list)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m pip install faster-whisper --quiet)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/transcript.txt\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/summary.md\" --title \"【关键时刻】AI芯片行业深度分析：中国推荐公司寻找英伟达替代方案Vol.0117\" --url \"https://www.bilibili.com/video/BV1ZNRQBGEEV\" --duration 2638)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")"
     ]
   }
 }
