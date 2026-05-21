@@ -165,13 +165,62 @@
 | 老厉害的YOUTUBE频道 | 借鉴香港房价止跌路径，内地核心城市房价1-2年内有望止跌 | [summary.md](downloads/bilibili/BV155QWBQErz/summary.md) |
 | | （深度）用2个指标观察房价合理了么？| [summary.md](downloads/bilibili/BV14C5B6tEbt/summary.md) |
 
+
 ### 2026-05-18
 
 | 发布者 | 标题 | 链接 |
 |--------|------|------|
+| | BV13bL763EtL | [summary.md](downloads/bilibili/BV13bL763EtL/summary.md) |
+
+### 2026-05-18
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| 花旗 | 花旗闭门会：中国铝业 260516全网最快（推荐程度：4星选看） | [summary.md](downloads/bilibili/BV1C9LG6UESn/summary.md) |
 | | 瑞银闭门会：中国房地产解读 260514（推荐程度：4星选看） | [summary.md](downloads/bilibili/BV1d15q6TEiQ/summary.md) |
+
+
+### 2026-05-19
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 高盛：中国房地产跟踪，成交环比反弹，但领先指标普遍转弱 | [summary.md](downloads/bilibili/BV1jZLM68EkA/summary.md) |
+
+
+
+
+### 2026-05-20
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 老厉害了0518：高盛、野村4月中国经济数据研报解读 | [summary.md](downloads/bilibili/BV1jPLC6WEWh/summary.md) |
+
+### 2026-05-20
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 大摩关闭会：中国房地产市场拐点出现还是昙花一现？260520全网最快（推荐程度：5星必看） | [summary.md](downloads/bilibili/BV1pkLS6QEST/summary.md) |
+
+### 2026-05-20
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 大摩闭门会：汽车、房地产、电解铝行业更新 260520全网最快（推荐程度：5星必看） | [summary.md](downloads/bilibili/BV1pYLC6eE34/summary.md) |
+
+### 2026-05-20
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| DeepLearning AI | A Conversation with Andrew Ng - RAG 课程开场对话 | [summary.md](../deeplearning/retrieval-augmented-generation/rrngb/summary.md) |
+
+
+### 2026-05-21
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 花旗：铝正在迎接50年来最强势格局 | [summary.md](downloads/bilibili/BV1JzLC68Exr/summary.md) |
 
 
 ---
 
-*最后更新: 2026-05-17*
+*最后更新: 2026-05-21*

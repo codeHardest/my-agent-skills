@@ -1,0 +1,1436 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.24,
+      "sid": 1,
+      "location": 2,
+      "content": "你以为铝只是一个",
+      "music": 0.0
+    },
+    {
+      "from": 1.24,
+      "to": 4.14,
+      "sid": 2,
+      "location": 2,
+      "content": "随经济周期波动的传统工业金属吗",
+      "music": 0.0
+    },
+    {
+      "from": 4.14,
+      "to": 5.28,
+      "sid": 3,
+      "location": 2,
+      "content": "花旗告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 5.28,
+      "to": 7.29,
+      "sid": 4,
+      "location": 2,
+      "content": "这一次的逻辑完全不同",
+      "music": 0.0
+    },
+    {
+      "from": 7.29,
+      "to": 9.99,
+      "sid": 5,
+      "location": 2,
+      "content": "当前的供应冲击是供给驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 9.99,
+      "to": 13.03,
+      "sid": 6,
+      "location": 2,
+      "content": "即便出现严重衰退级别的需求破坏",
+      "music": 0.0
+    },
+    {
+      "from": 13.03,
+      "to": 14.89,
+      "sid": 7,
+      "location": 2,
+      "content": "也不足以重建库存",
+      "music": 0.0
+    },
+    {
+      "from": 14.89,
+      "to": 16.129,
+      "sid": 8,
+      "location": 2,
+      "content": "更关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 16.129,
+      "to": 18.67,
+      "sid": 9,
+      "location": 2,
+      "content": "铝的需求结构已经发生质变",
+      "music": 0.0
+    },
+    {
+      "from": 18.67,
+      "to": 19.63,
+      "sid": 10,
+      "location": 2,
+      "content": "能源转型",
+      "music": 0.0
+    },
+    {
+      "from": 19.63,
+      "to": 22.99,
+      "sid": 11,
+      "location": 2,
+      "content": "相关需求已占中国铝消费的近1/4",
+      "music": 0.0
+    },
+    {
+      "from": 22.99,
+      "to": 25.41,
+      "sid": 12,
+      "location": 2,
+      "content": "下行敏感度远低于以往",
+      "music": 0.0
+    },
+    {
+      "from": 25.41,
+      "to": 26.45,
+      "sid": 13,
+      "location": 2,
+      "content": "花旗认为",
+      "music": 0.0
+    },
+    {
+      "from": 26.45,
+      "to": 29.71,
+      "sid": 14,
+      "location": 2,
+      "content": "吕政站在50年来最强势的格局之上",
+      "music": 0.0
+    },
+    {
+      "from": 29.71,
+      "to": 31.91,
+      "sid": 15,
+      "location": 2,
+      "content": "目标价4000美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 31.91,
+      "to": 33.61,
+      "sid": 16,
+      "location": 2,
+      "content": "花旗究竟看到了什么",
+      "music": 0.0
+    },
+    {
+      "from": 33.61,
+      "to": 36.57,
+      "sid": 17,
+      "location": 2,
+      "content": "咱们一层层揭开这份报告的核心逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 36.57,
+      "to": 38.92,
+      "sid": 18,
+      "location": 2,
+      "content": "首先也是最关键的一点",
+      "music": 0.0
+    },
+    {
+      "from": 38.92,
+      "to": 40.84,
+      "sid": 19,
+      "location": 2,
+      "content": "铝市场刚刚遭遇了",
+      "music": 0.0
+    },
+    {
+      "from": 40.84,
+      "to": 44.06,
+      "sid": 20,
+      "location": 2,
+      "content": "现代历史上最严重的供应冲击之一",
+      "music": 0.0
+    },
+    {
+      "from": 44.06,
+      "to": 45.5,
+      "sid": 21,
+      "location": 2,
+      "content": "华奇明确指出",
+      "music": 0.0
+    },
+    {
+      "from": 45.5,
+      "to": 47.06,
+      "sid": 22,
+      "location": 2,
+      "content": "这种规模的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 47.06,
+      "to": 49.92,
+      "sid": 23,
+      "location": 2,
+      "content": "上一次出现还是在20世纪70年代",
+      "music": 0.0
+    },
+    {
+      "from": 49.92,
+      "to": 53.08,
+      "sid": 24,
+      "location": 2,
+      "content": "那是第一次和第二次石油危机爆发的年代",
+      "music": 0.0
+    },
+    {
+      "from": 53.08,
+      "to": 54.06,
+      "sid": 25,
+      "location": 2,
+      "content": "能源价格暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 54.06,
+      "to": 56.17,
+      "sid": 26,
+      "location": 2,
+      "content": "导致大量铝厂被迫减产",
+      "music": 0.0
+    },
+    {
+      "from": 56.17,
+      "to": 59.49,
+      "sid": 27,
+      "location": 2,
+      "content": "如今中东地区的地缘政治冲突正在重演",
+      "music": 0.0
+    },
+    {
+      "from": 59.49,
+      "to": 60.35,
+      "sid": 28,
+      "location": 2,
+      "content": "这一幕",
+      "music": 0.0
+    },
+    {
+      "from": 60.35,
+      "to": 62.67,
+      "sid": 29,
+      "location": 2,
+      "content": "超过300万吨的铝产能损失",
+      "music": 0.0
+    },
+    {
+      "from": 62.67,
+      "to": 64.81,
+      "sid": 30,
+      "location": 2,
+      "content": "已经被纳入花旗的最新预测",
+      "music": 0.0
+    },
+    {
+      "from": 64.81,
+      "to": 68.23,
+      "sid": 31,
+      "location": 2,
+      "content": "而产能恢复的路径本身充满了高度不确定性",
+      "music": 0.0
+    },
+    {
+      "from": 68.23,
+      "to": 70.61,
+      "sid": 32,
+      "location": 2,
+      "content": "这不仅取决于冲突持续的时间",
+      "music": 0.0
+    },
+    {
+      "from": 70.61,
+      "to": 73.03,
+      "sid": 33,
+      "location": 2,
+      "content": "还涉及基础设施修复时间表",
+      "music": 0.0
+    },
+    {
+      "from": 73.03,
+      "to": 74.49,
+      "sid": 34,
+      "location": 2,
+      "content": "物流恢复正常化",
+      "music": 0.0
+    },
+    {
+      "from": 74.49,
+      "to": 77.27,
+      "sid": 35,
+      "location": 2,
+      "content": "以及原材料重新储备等多重因素",
+      "music": 0.0
+    },
+    {
+      "from": 77.27,
+      "to": 78.41,
+      "sid": 36,
+      "location": 2,
+      "content": "在华西看来",
+      "music": 0.0
+    },
+    {
+      "from": 78.41,
+      "to": 81.39,
+      "sid": 37,
+      "location": 2,
+      "content": "市场不太可能出现快速的V型反弹",
+      "music": 0.0
+    },
+    {
+      "from": 81.39,
+      "to": 83.99,
+      "sid": 38,
+      "location": 2,
+      "content": "其次也是理解这份报告的关键",
+      "music": 0.0
+    },
+    {
+      "from": 83.99,
+      "to": 87.03,
+      "sid": 39,
+      "location": 2,
+      "content": "全球铝市场的供应弹性已经大幅下降",
+      "music": 0.0
+    },
+    {
+      "from": 87.03,
+      "to": 90.01,
+      "sid": 40,
+      "location": 2,
+      "content": "中国在经历了多年的供给侧改革后",
+      "music": 0.0
+    },
+    {
+      "from": 90.01,
+      "to": 92.509,
+      "sid": 41,
+      "location": 2,
+      "content": "实际上已经触及了产能上限",
+      "music": 0.0
+    },
+    {
+      "from": 92.509,
+      "to": 93.809,
+      "sid": 42,
+      "location": 2,
+      "content": "而全球范围内",
+      "music": 0.0
+    },
+    {
+      "from": 93.809,
+      "to": 97.47,
+      "sid": 43,
+      "location": 2,
+      "content": "目前大多数盈利的产能已经在全力运转",
+      "music": 0.0
+    },
+    {
+      "from": 97.47,
+      "to": 99.31,
+      "sid": 44,
+      "location": 2,
+      "content": "印度尼西亚是为数不多",
+      "music": 0.0
+    },
+    {
+      "from": 99.31,
+      "to": 102.729,
+      "sid": 45,
+      "location": 2,
+      "content": "能够提供实质性非中国产能增长的地区",
+      "music": 0.0
+    },
+    {
+      "from": 102.729,
+      "to": 104.829,
+      "sid": 46,
+      "location": 2,
+      "content": "但其扩张的步伐和时间",
+      "music": 0.0
+    },
+    {
+      "from": 104.829,
+      "to": 107.309,
+      "sid": 47,
+      "location": 2,
+      "content": "仍然面临直行和爬坡风险",
+      "music": 0.0
+    },
+    {
+      "from": 107.309,
+      "to": 108.49,
+      "sid": 48,
+      "location": 2,
+      "content": "这意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 108.49,
+      "to": 109.55,
+      "sid": 49,
+      "location": 2,
+      "content": "花旗认为",
+      "music": 0.0
+    },
+    {
+      "from": 109.55,
+      "to": 112.25,
+      "sid": 50,
+      "location": 2,
+      "content": "铝市场不再需要强劲的需求增长",
+      "music": 0.0
+    },
+    {
+      "from": 112.25,
+      "to": 114.539,
+      "sid": 51,
+      "location": 2,
+      "content": "来维持结构性的紧张状态",
+      "music": 0.0
+    },
+    {
+      "from": 114.539,
+      "to": 116.979,
+      "sid": 52,
+      "location": 2,
+      "content": "即使是相对疲软的需求增长",
+      "music": 0.0
+    },
+    {
+      "from": 116.979,
+      "to": 120.179,
+      "sid": 53,
+      "location": 2,
+      "content": "现在也足以产生持续的供需缺口",
+      "music": 0.0
+    },
+    {
+      "from": 120.179,
+      "to": 121.449,
+      "sid": 54,
+      "location": 2,
+      "content": "在基准情景下",
+      "music": 0.0
+    },
+    {
+      "from": 121.449,
+      "to": 122.289,
+      "sid": 55,
+      "location": 2,
+      "content": "花旗预计",
+      "music": 0.0
+    },
+    {
+      "from": 122.289,
+      "to": 126.029,
+      "sid": 56,
+      "location": 2,
+      "content": "今年铝市场将出现约270万吨的供需缺口",
+      "music": 0.0
+    },
+    {
+      "from": 126.029,
+      "to": 127.429,
+      "sid": 57,
+      "location": 2,
+      "content": "更令人震惊的是",
+      "music": 0.0
+    },
+    {
+      "from": 127.429,
+      "to": 128.519,
+      "sid": 58,
+      "location": 2,
+      "content": "花旗指出",
+      "music": 0.0
+    },
+    {
+      "from": 128.519,
+      "to": 130.559,
+      "sid": 59,
+      "location": 2,
+      "content": "只有与沃尔克时代衰退",
+      "music": 0.0
+    },
+    {
+      "from": 130.559,
+      "to": 134.099,
+      "sid": 60,
+      "location": 2,
+      "content": "或2008年金融危机相当的那种严重衰退",
+      "music": 0.0
+    },
+    {
+      "from": 134.099,
+      "to": 136.62,
+      "sid": 61,
+      "location": 2,
+      "content": "才有可能稳定住库存水平",
+      "music": 0.0
+    },
+    {
+      "from": 136.62,
+      "to": 137.66,
+      "sid": 62,
+      "location": 2,
+      "content": "换句话说",
+      "music": 0.0
+    },
+    {
+      "from": 137.66,
+      "to": 140.28,
+      "sid": 63,
+      "location": 2,
+      "content": "除非全球经济陷入深度衰退",
+      "music": 0.0
+    },
+    {
+      "from": 140.28,
+      "to": 142.94,
+      "sid": 64,
+      "location": 2,
+      "content": "否则铝的供需失衡将难以缓解",
+      "music": 0.0
+    },
+    {
+      "from": 142.94,
+      "to": 145.94,
+      "sid": 65,
+      "location": 2,
+      "content": "这里有一个重要的结构性变化值得特别关注",
+      "music": 0.0
+    },
+    {
+      "from": 145.94,
+      "to": 148.09,
+      "sid": 66,
+      "location": 2,
+      "content": "与以往的经济下行周期不同",
+      "music": 0.0
+    },
+    {
+      "from": 148.09,
+      "to": 149.77,
+      "sid": 67,
+      "location": 2,
+      "content": "当时铝的需求放缓",
+      "music": 0.0
+    },
+    {
+      "from": 149.77,
+      "to": 152.53,
+      "sid": 68,
+      "location": 2,
+      "content": "通常伴随着价格下跌和利润压缩",
+      "music": 0.0
+    },
+    {
+      "from": 152.53,
+      "to": 154.45,
+      "sid": 69,
+      "location": 2,
+      "content": "最终迫使生产商减产",
+      "music": 0.0
+    },
+    {
+      "from": 154.45,
+      "to": 156.06,
+      "sid": 70,
+      "location": 2,
+      "content": "从而缓解市场紧张",
+      "music": 0.0
+    },
+    {
+      "from": 156.06,
+      "to": 157.28,
+      "sid": 71,
+      "location": 2,
+      "content": "但这一次不同",
+      "music": 0.0
+    },
+    {
+      "from": 157.28,
+      "to": 159.82,
+      "sid": 72,
+      "location": 2,
+      "content": "当前的冲击是供给驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 159.82,
+      "to": 162.6,
+      "sid": 73,
+      "location": 2,
+      "content": "而且相当一部分损害已经造成",
+      "music": 0.0
+    },
+    {
+      "from": 162.6,
+      "to": 165.42,
+      "sid": 74,
+      "location": 2,
+      "content": "即使是严重衰退级别的需求破坏",
+      "music": 0.0
+    },
+    {
+      "from": 165.42,
+      "to": 167.44,
+      "sid": 75,
+      "location": 2,
+      "content": "现在似乎也不足以产生",
+      "music": 0.0
+    },
+    {
+      "from": 167.44,
+      "to": 170.68,
+      "sid": 76,
+      "location": 2,
+      "content": "以往下行周期中那种大规模的库存重建",
+      "music": 0.0
+    },
+    {
+      "from": 170.68,
+      "to": 172.079,
+      "sid": 77,
+      "location": 2,
+      "content": "花旗还特别指出",
+      "music": 0.0
+    },
+    {
+      "from": 172.079,
+      "to": 175.579,
+      "sid": 78,
+      "location": 2,
+      "content": "今天的铝需求结构与以前的衰退周期相比",
+      "music": 0.0
+    },
+    {
+      "from": 175.579,
+      "to": 178.079,
+      "sid": 79,
+      "location": 2,
+      "content": "已经变得更加不具备周期性",
+      "music": 0.0
+    },
+    {
+      "from": 178.079,
+      "to": 178.959,
+      "sid": 80,
+      "location": 2,
+      "content": "历史上",
+      "music": 0.0
+    },
+    {
+      "from": 178.959,
+      "to": 182.459,
+      "sid": 81,
+      "location": 2,
+      "content": "铝需求增长严重依赖传统工业周期性波动",
+      "music": 0.0
+    },
+    {
+      "from": 182.459,
+      "to": 185.77,
+      "sid": 82,
+      "location": 2,
+      "content": "但现在铝需求中有更大比例与电网",
+      "music": 0.0
+    },
+    {
+      "from": 185.77,
+      "to": 186.61,
+      "sid": 83,
+      "location": 2,
+      "content": "可再生能源",
+      "music": 0.0
+    },
+    {
+      "from": 186.61,
+      "to": 189.62,
+      "sid": 84,
+      "location": 2,
+      "content": "基础设施和电气化供应链相关联",
+      "music": 0.0
+    },
+    {
+      "from": 189.62,
+      "to": 192.41,
+      "sid": 85,
+      "location": 2,
+      "content": "花旗的中国终端需求追踪器显示",
+      "music": 0.0
+    },
+    {
+      "from": 192.41,
+      "to": 194.07,
+      "sid": 86,
+      "location": 2,
+      "content": "能源转型相关需求",
+      "music": 0.0
+    },
+    {
+      "from": 194.07,
+      "to": 196.81,
+      "sid": 87,
+      "location": 2,
+      "content": "已经占据中国铝消费的近1/4",
+      "music": 0.0
+    },
+    {
+      "from": 196.81,
+      "to": 200.51,
+      "sid": 88,
+      "location": 2,
+      "content": "这意味着铝需求对周期性放缓的下行敏感度",
+      "music": 0.0
+    },
+    {
+      "from": 202.97,
+      "to": 204.45,
+      "sid": 89,
+      "location": 2,
+      "content": "从价格预测来看",
+      "music": 0.0
+    },
+    {
+      "from": 204.45,
+      "to": 206.88,
+      "sid": 90,
+      "location": 2,
+      "content": "花旗给出了清晰的三种情景",
+      "music": 0.0
+    },
+    {
+      "from": 206.88,
+      "to": 208.32,
+      "sid": 91,
+      "location": 2,
+      "content": "最乐观的牛市情景",
+      "music": 0.0
+    },
+    {
+      "from": 208.32,
+      "to": 209.92,
+      "sid": 92,
+      "location": 2,
+      "content": "给予30%的权重",
+      "music": 0.0
+    },
+    {
+      "from": 209.92,
+      "to": 212.0,
+      "sid": 93,
+      "location": 2,
+      "content": "预计铝价将在今年下半年",
+      "music": 0.0
+    },
+    {
+      "from": 212.0,
+      "to": 213.88,
+      "sid": 94,
+      "location": 2,
+      "content": "平均达到4000美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 213.88,
+      "to": 214.72,
+      "sid": 95,
+      "location": 2,
+      "content": "2027年",
+      "music": 0.0
+    },
+    {
+      "from": 214.72,
+      "to": 217.78,
+      "sid": 96,
+      "location": 2,
+      "content": "平均更将攀升至5350美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 217.78,
+      "to": 220.41,
+      "sid": 97,
+      "location": 2,
+      "content": "基准情景给予50%的权重",
+      "music": 0.0
+    },
+    {
+      "from": 220.41,
+      "to": 224.13,
+      "sid": 98,
+      "location": 2,
+      "content": "预计铝价在接下来0~3个月内达到4000美元",
+      "music": 0.0
+    },
+    {
+      "from": 224.13,
+      "to": 224.65,
+      "sid": 99,
+      "location": 2,
+      "content": "每吨",
+      "music": 0.0
+    },
+    {
+      "from": 224.65,
+      "to": 227.5,
+      "sid": 100,
+      "location": 2,
+      "content": "6~12个月后维持在4000美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 227.5,
+      "to": 230.88,
+      "sid": 101,
+      "location": 2,
+      "content": "2026年全年平均3580美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 230.88,
+      "to": 234.74,
+      "sid": 102,
+      "location": 2,
+      "content": "而熊市情景则预计铝价回落至3000美元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 234.74,
+      "to": 237.43,
+      "sid": 103,
+      "location": 2,
+      "content": "花旗同时给出了两个具体的交易建议",
+      "music": 0.0
+    },
+    {
+      "from": 237.43,
+      "to": 240.05,
+      "sid": 104,
+      "location": 2,
+      "content": "做多2026年12月期货合约",
+      "music": 0.0
+    },
+    {
+      "from": 240.05,
+      "to": 242.47,
+      "sid": 105,
+      "location": 2,
+      "content": "以及做多3300美元至",
+      "music": 0.0
+    },
+    {
+      "from": 242.47,
+      "to": 245.34,
+      "sid": 106,
+      "location": 2,
+      "content": "3600美元的看涨价差组合",
+      "music": 0.0
+    },
+    {
+      "from": 245.34,
+      "to": 247.52,
+      "sid": 107,
+      "location": 2,
+      "content": "这些建议在1月份就已经建立",
+      "music": 0.0
+    },
+    {
+      "from": 247.52,
+      "to": 249.35,
+      "sid": 108,
+      "location": 2,
+      "content": "目前仍在持仓中",
+      "music": 0.0
+    },
+    {
+      "from": 249.35,
+      "to": 253.03,
+      "sid": 109,
+      "location": 2,
+      "content": "那么铝价上涨的驱动力究竟来自何方",
+      "music": 0.0
+    },
+    {
+      "from": 253.03,
+      "to": 255.78,
+      "sid": 110,
+      "location": 2,
+      "content": "花旗的分析揭示了一个核心机制",
+      "music": 0.0
+    },
+    {
+      "from": 255.78,
+      "to": 258.3,
+      "sid": 111,
+      "location": 2,
+      "content": "当消费持续超过生产时",
+      "music": 0.0
+    },
+    {
+      "from": 258.3,
+      "to": 259.36,
+      "sid": 112,
+      "location": 2,
+      "content": "供需失衡",
+      "music": 0.0
+    },
+    {
+      "from": 259.36,
+      "to": 262.42,
+      "sid": 113,
+      "location": 2,
+      "content": "最终必须通过库存消耗来吸收库存",
+      "music": 0.0
+    },
+    {
+      "from": 262.42,
+      "to": 264.35,
+      "sid": 114,
+      "location": 2,
+      "content": "并非无限可用的缓冲",
+      "music": 0.0
+    },
+    {
+      "from": 264.35,
+      "to": 265.55,
+      "sid": 115,
+      "location": 2,
+      "content": "隐藏库存",
+      "music": 0.0
+    },
+    {
+      "from": 265.55,
+      "to": 266.65,
+      "sid": 116,
+      "location": 2,
+      "content": "融资库存",
+      "music": 0.0
+    },
+    {
+      "from": 266.65,
+      "to": 268.59,
+      "sid": 117,
+      "location": 2,
+      "content": "商户库存和管道库存",
+      "music": 0.0
+    },
+    {
+      "from": 268.59,
+      "to": 271.36,
+      "sid": 118,
+      "location": 2,
+      "content": "可以在一段时间内悄悄吸收短缺",
+      "music": 0.0
+    },
+    {
+      "from": 271.36,
+      "to": 273.82,
+      "sid": 119,
+      "location": 2,
+      "content": "而不会立即引发激烈的价格反应",
+      "music": 0.0
+    },
+    {
+      "from": 273.82,
+      "to": 277.52,
+      "sid": 120,
+      "location": 2,
+      "content": "这正是大宗商品紧张周期通常在初期表现动荡",
+      "music": 0.0
+    },
+    {
+      "from": 277.52,
+      "to": 278.5,
+      "sid": 121,
+      "location": 2,
+      "content": "令人沮丧",
+      "music": 0.0
+    },
+    {
+      "from": 278.5,
+      "to": 280.68,
+      "sid": 122,
+      "location": 2,
+      "content": "且受宏观因素驱动的原因",
+      "music": 0.0
+    },
+    {
+      "from": 280.68,
+      "to": 282.7,
+      "sid": 123,
+      "location": 2,
+      "content": "然而随着时间推移",
+      "music": 0.0
+    },
+    {
+      "from": 282.7,
+      "to": 285.57,
+      "sid": 124,
+      "location": 2,
+      "content": "库存消耗开始改变市场结构本身",
+      "music": 0.0
+    },
+    {
+      "from": 285.57,
+      "to": 287.97,
+      "sid": 125,
+      "location": 2,
+      "content": "铝库存不仅代表了物理缓冲",
+      "music": 0.0
+    },
+    {
+      "from": 287.97,
+      "to": 290.09,
+      "sid": 126,
+      "location": 2,
+      "content": "还通过融资和套利结构",
+      "music": 0.0
+    },
+    {
+      "from": 290.09,
+      "to": 293.15,
+      "sid": 127,
+      "location": 2,
+      "content": "承载了大量的嵌入式期货空头对冲",
+      "music": 0.0
+    },
+    {
+      "from": 293.15,
+      "to": 294.51,
+      "sid": 128,
+      "location": 2,
+      "content": "当库存下降时",
+      "music": 0.0
+    },
+    {
+      "from": 294.51,
+      "to": 298.47,
+      "sid": 129,
+      "location": 2,
+      "content": "持有实物的参与者会同步减少相关的空头对冲",
+      "music": 0.0
+    },
+    {
+      "from": 298.47,
+      "to": 301.45,
+      "sid": 130,
+      "location": 2,
+      "content": "逐渐压缩市场的嵌入式空头基础",
+      "music": 0.0
+    },
+    {
+      "from": 301.45,
+      "to": 304.09,
+      "sid": 131,
+      "location": 2,
+      "content": "这就是为什么大宗商品挤压的后期阶段",
+      "music": 0.0
+    },
+    {
+      "from": 304.09,
+      "to": 306.159,
+      "sid": 132,
+      "location": 2,
+      "content": "往往变得越来越非线性",
+      "music": 0.0
+    },
+    {
+      "from": 306.159,
+      "to": 308.779,
+      "sid": 133,
+      "location": 2,
+      "content": "当库存不再充当有效缓冲时",
+      "music": 0.0
+    },
+    {
+      "from": 308.779,
+      "to": 310.359,
+      "sid": 134,
+      "location": 2,
+      "content": "近期紧张加剧",
+      "music": 0.0
+    },
+    {
+      "from": 310.359,
+      "to": 312.199,
+      "sid": 135,
+      "location": 2,
+      "content": "现货贴水结构陡峭",
+      "music": 0.0
+    },
+    {
+      "from": 312.199,
+      "to": 313.789,
+      "sid": 136,
+      "location": 2,
+      "content": "实物期权消失",
+      "music": 0.0
+    },
+    {
+      "from": 313.789,
+      "to": 315.169,
+      "sid": 137,
+      "location": 2,
+      "content": "在这些条件下",
+      "music": 0.0
+    },
+    {
+      "from": 315.169,
+      "to": 317.149,
+      "sid": 138,
+      "location": 2,
+      "content": "相对较小的额外短缺",
+      "music": 0.0
+    },
+    {
+      "from": 317.149,
+      "to": 320.649,
+      "sid": 139,
+      "location": 2,
+      "content": "就可能开始产生不成比例的大幅价格反应",
+      "music": 0.0
+    },
+    {
+      "from": 320.649,
+      "to": 323.11,
+      "sid": 140,
+      "location": 2,
+      "content": "因此铝市场面临的关键风险",
+      "music": 0.0
+    },
+    {
+      "from": 323.11,
+      "to": 325.19,
+      "sid": 141,
+      "location": 2,
+      "content": "不一定是需求疲弱本身",
+      "music": 0.0
+    },
+    {
+      "from": 325.19,
+      "to": 328.25,
+      "sid": 142,
+      "location": 2,
+      "content": "而是相对于结构性受限的供给而言",
+      "music": 0.0
+    },
+    {
+      "from": 328.25,
+      "to": 330.21,
+      "sid": 143,
+      "location": 2,
+      "content": "需求破坏的力度不足",
+      "music": 0.0
+    },
+    {
+      "from": 330.21,
+      "to": 334.08,
+      "sid": 144,
+      "location": 2,
+      "content": "铝不再需要异常强劲的全球增长来进一步收紧",
+      "music": 0.0
+    },
+    {
+      "from": 334.08,
+      "to": 336.0,
+      "sid": 145,
+      "location": 2,
+      "content": "他只需要需求不要崩溃",
+      "music": 0.0
+    },
+    {
+      "from": 336.0,
+      "to": 337.24,
+      "sid": 146,
+      "location": 2,
+      "content": "花旗明确表示",
+      "music": 0.0
+    },
+    {
+      "from": 337.24,
+      "to": 339.96,
+      "sid": 147,
+      "location": 2,
+      "content": "虽然近期铝价走势可能保持波动",
+      "music": 0.0
+    },
+    {
+      "from": 339.96,
+      "to": 341.61,
+      "sid": 148,
+      "location": 2,
+      "content": "并受宏观因素主导",
+      "music": 0.0
+    },
+    {
+      "from": 341.61,
+      "to": 344.47,
+      "sid": 149,
+      "location": 2,
+      "content": "但下行空间在严重衰退情景之外",
+      "music": 0.0
+    },
+    {
+      "from": 344.47,
+      "to": 346.39,
+      "sid": 150,
+      "location": 2,
+      "content": "似乎正变得越来越有限",
+      "music": 0.0
+    },
+    {
+      "from": 346.39,
+      "to": 347.96,
+      "sid": 151,
+      "location": 2,
+      "content": "宏观驱动的去风险",
+      "music": 0.0
+    },
+    {
+      "from": 347.96,
+      "to": 350.74,
+      "sid": 152,
+      "location": 2,
+      "content": "跨资产情绪疲弱以及持仓削减",
+      "music": 0.0
+    },
+    {
+      "from": 350.74,
+      "to": 353.16,
+      "sid": 153,
+      "location": 2,
+      "content": "可能仍会引发剧烈的短期回调",
+      "music": 0.0
+    },
+    {
+      "from": 353.16,
+      "to": 355.46,
+      "sid": 154,
+      "location": 2,
+      "content": "然而除非需求破坏大到",
+      "music": 0.0
+    },
+    {
+      "from": 355.46,
+      "to": 357.64,
+      "sid": 155,
+      "location": 2,
+      "content": "足以抵消当前的供应损失",
+      "music": 0.0
+    },
+    {
+      "from": 357.64,
+      "to": 361.46,
+      "sid": 156,
+      "location": 2,
+      "content": "否则库存收紧很可能会随着时间推移而持续",
+      "music": 0.0
+    },
+    {
+      "from": 361.46,
+      "to": 362.46,
+      "sid": 157,
+      "location": 2,
+      "content": "回顾历史",
+      "music": 0.0
+    },
+    {
+      "from": 362.46,
+      "to": 366.1,
+      "sid": 158,
+      "location": 2,
+      "content": "大宗商品挤压很少以直线上涨开始紧张",
+      "music": 0.0
+    },
+    {
+      "from": 366.1,
+      "to": 368.52,
+      "sid": 159,
+      "location": 2,
+      "content": "最初通过库存消耗悄然而现",
+      "music": 0.0
+    },
+    {
+      "from": 368.52,
+      "to": 371.02,
+      "sid": 160,
+      "location": 2,
+      "content": "然后逐步重塑市场结构本身",
+      "music": 0.0
+    },
+    {
+      "from": 371.02,
+      "to": 372.2,
+      "sid": 161,
+      "location": 2,
+      "content": "随着库存下降",
+      "music": 0.0
+    },
+    {
+      "from": 372.2,
+      "to": 374.22,
+      "sid": 162,
+      "location": 2,
+      "content": "市场不仅失去物理缓冲",
+      "music": 0.0
+    },
+    {
+      "from": 374.22,
+      "to": 377.24,
+      "sid": 163,
+      "location": 2,
+      "content": "还失去了与融资和套利结构相关的",
+      "music": 0.0
+    },
+    {
+      "from": 377.24,
+      "to": 378.68,
+      "sid": 164,
+      "location": 2,
+      "content": "嵌入式空头对冲",
+      "music": 0.0
+    },
+    {
+      "from": 378.68,
+      "to": 379.53,
+      "sid": 165,
+      "location": 2,
+      "content": "展望未来",
+      "music": 0.0
+    },
+    {
+      "from": 379.53,
+      "to": 380.29,
+      "sid": 166,
+      "location": 2,
+      "content": "花旗认为",
+      "music": 0.0
+    },
+    {
+      "from": 380.29,
+      "to": 383.21,
+      "sid": 167,
+      "location": 2,
+      "content": "如果能源冲击最终对经济活动的损害",
+      "music": 0.0
+    },
+    {
+      "from": 383.21,
+      "to": 385.27,
+      "sid": 168,
+      "location": 2,
+      "content": "小于市场目前所担心的",
+      "music": 0.0
+    },
+    {
+      "from": 385.27,
+      "to": 388.83,
+      "sid": 169,
+      "location": 2,
+      "content": "那么最大的上行风险将会显现在这种情景下",
+      "music": 0.0
+    },
+    {
+      "from": 388.83,
+      "to": 392.44,
+      "sid": 170,
+      "location": 2,
+      "content": "持续的供需赤字和持续的库存消耗",
+      "music": 0.0
+    },
+    {
+      "from": 392.44,
+      "to": 394.0,
+      "sid": 171,
+      "location": 2,
+      "content": "可能会逐步收紧",
+      "music": 0.0
+    },
+    {
+      "from": 394.0,
+      "to": 397.24,
+      "sid": 172,
+      "location": 2,
+      "content": "市场结构增加周期后段非线性上行",
+      "music": 0.0
+    },
+    {
+      "from": 397.24,
+      "to": 398.4,
+      "sid": 173,
+      "location": 2,
+      "content": "价格反应的概率",
+      "music": 0.0
+    },
+    {
+      "from": 398.4,
+      "to": 400.11,
+      "sid": 174,
+      "location": 2,
+      "content": "最后需要强调的是",
+      "music": 0.0
+    },
+    {
+      "from": 400.11,
+      "to": 401.61,
+      "sid": 175,
+      "location": 2,
+      "content": "研报观点仅供参考",
+      "music": 0.0
+    },
+    {
+      "from": 401.61,
+      "to": 403.37,
+      "sid": 176,
+      "location": 2,
+      "content": "不构成任何投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 403.37,
+      "to": 404.45,
+      "sid": 177,
+      "location": 2,
+      "content": "市场有风险",
+      "music": 0.0
+    },
+    {
+      "from": 404.45,
+      "to": 405.44,
+      "sid": 178,
+      "location": 2,
+      "content": "决策需谨慎",
+      "music": 0.0
+    }
+  ]
+}

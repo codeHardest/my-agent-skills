@@ -106,7 +106,18 @@
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m pip list)",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m pip install faster-whisper --quiet)",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/transcript.txt\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/summary.md\" --title \"【关键时刻】AI芯片行业深度分析：中国推荐公司寻找英伟达替代方案Vol.0117\" --url \"https://www.bilibili.com/video/BV1ZNRQBGEEV\" --duration 2638)",
-      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")"
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1ZNRQBGEEV/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")",
+      "Bash(chcp 65001)",
+      "Bash(PYTHONIOENCODING=utf-8 python *)",
+      "WebFetch(domain:www.deeplearning.ai)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --list-subs \"https://learn.deeplearning.ai/courses/retrieval-augmented-generation/lesson/rrngb/a-conversation-with-andrew-ng\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --dump-json \"https://www.bilibili.com/video/BV1pYLC6eE34/\")",
+      "Bash(/c/Users/chandlernie/AppData/Local/Programs/Python/Python313/python.exe *)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m yt_dlp --dump-json \"https://www.bilibili.com/video/BV1JzLC68Exr\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/get_bilibili_subtitle.py\" 116604889274173 38467535924 \"./downloads/bilibili/BV1JzLC68Exr/\" \"./downloads/bilibili/bilibili-cookies.txt\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/convert_subtitle.py\" \"./downloads/bilibili/BV1JzLC68Exr/subtitle_ai-zh.json\" \"./downloads/bilibili/BV1JzLC68Exr/\")",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"./downloads/bilibili/BV1JzLC68Exr/transcript.txt\" \"./downloads/bilibili/BV1JzLC68Exr/summary.md\" --title \"花旗：铝正在迎接50年来最强势格局\" --url \"https://www.bilibili.com/video/BV1JzLC68Exr\" --duration 406)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"./downloads/bilibili/BV1JzLC68Exr/summary.md\" \"./downloads/bilibili/catalog.md\")"
     ]
   }
 }

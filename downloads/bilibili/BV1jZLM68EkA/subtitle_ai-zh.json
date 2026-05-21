@@ -1,0 +1,3564 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.52,
+      "sid": 1,
+      "location": 2,
+      "content": "今天呢我们要聊一聊中国房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 3.52,
+      "to": 6.76,
+      "sid": 2,
+      "location": 2,
+      "content": "在2026年的第20个星期",
+      "music": 0.0
+    },
+    {
+      "from": 6.76,
+      "to": 9.34,
+      "sid": 3,
+      "location": 2,
+      "content": "也就是5月中旬的这个表现啊",
+      "music": 0.0
+    },
+    {
+      "from": 9.34,
+      "to": 11.68,
+      "sid": 4,
+      "location": 2,
+      "content": "包括政策面有什么新的动向",
+      "music": 0.0
+    },
+    {
+      "from": 11.68,
+      "to": 14.14,
+      "sid": 5,
+      "location": 2,
+      "content": "然后市场交易价格",
+      "music": 0.0
+    },
+    {
+      "from": 14.14,
+      "to": 17.84,
+      "sid": 6,
+      "location": 2,
+      "content": "库存这些关键的指标有什么新的变化",
+      "music": 0.0
+    },
+    {
+      "from": 17.84,
+      "to": 20.22,
+      "sid": 7,
+      "location": 2,
+      "content": "以及地产股的估值情况",
+      "music": 0.0
+    },
+    {
+      "from": 20.22,
+      "to": 21.82,
+      "sid": 8,
+      "location": 2,
+      "content": "嗯是的是的",
+      "music": 0.0
+    },
+    {
+      "from": 21.82,
+      "to": 23.88,
+      "sid": 9,
+      "location": 2,
+      "content": "这些内容都是大家非常关心的",
+      "music": 0.0
+    },
+    {
+      "from": 23.88,
+      "to": 24.84,
+      "sid": 10,
+      "location": 2,
+      "content": "那我们就开始吧",
+      "music": 0.0
+    },
+    {
+      "from": 24.84,
+      "to": 26.74,
+      "sid": 11,
+      "location": 2,
+      "content": "我们先来关注一下政策面啊",
+      "music": 0.0
+    },
+    {
+      "from": 26.74,
+      "to": 30.58,
+      "sid": 12,
+      "location": 2,
+      "content": "最近中央对于城市更新这块又有了新的部署",
+      "music": 0.0
+    },
+    {
+      "from": 30.58,
+      "to": 33.6,
+      "sid": 13,
+      "location": 2,
+      "content": "那这个新的部署到底都聚焦在哪些方面",
+      "music": 0.0
+    },
+    {
+      "from": 35.44,
+      "to": 38.18,
+      "sid": 14,
+      "location": 2,
+      "content": "其实把城市更新放在了非常突出的位置",
+      "music": 0.0
+    },
+    {
+      "from": 38.18,
+      "to": 39.72,
+      "sid": 15,
+      "location": 2,
+      "content": "就是中国的城市发展",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 42.68,
+      "sid": 16,
+      "location": 2,
+      "content": "已经从之前的那种大规模的增量建设",
+      "music": 0.0
+    },
+    {
+      "from": 42.68,
+      "to": 47.4,
+      "sid": 17,
+      "location": 2,
+      "content": "转向了存量的体制和增量的结构调整并重哦",
+      "music": 0.0
+    },
+    {
+      "from": 47.4,
+      "to": 51.07,
+      "sid": 18,
+      "location": 2,
+      "content": "那这个时候呢城市更新就更强调精准发力",
+      "music": 0.0
+    },
+    {
+      "from": 51.07,
+      "to": 52.81,
+      "sid": 19,
+      "location": 2,
+      "content": "然后更强调前瞻性",
+      "music": 0.0
+    },
+    {
+      "from": 52.81,
+      "to": 54.87,
+      "sid": 20,
+      "location": 2,
+      "content": "看来这个城市更新已经变成了",
+      "music": 0.0
+    },
+    {
+      "from": 57.99,
+      "to": 59.37,
+      "sid": 21,
+      "location": 2,
+      "content": "而且他的目标很明确",
+      "music": 0.0
+    },
+    {
+      "from": 59.37,
+      "to": 62.049,
+      "sid": 22,
+      "location": 2,
+      "content": "就是要建设创新宜居",
+      "music": 0.0
+    },
+    {
+      "from": 62.049,
+      "to": 63.589,
+      "sid": 23,
+      "location": 2,
+      "content": "绿色人文",
+      "music": 0.0
+    },
+    {
+      "from": 63.589,
+      "to": 67.039,
+      "sid": 24,
+      "location": 2,
+      "content": "韧性智慧这些要素都具备的新型城市",
+      "music": 0.0
+    },
+    {
+      "from": 67.039,
+      "to": 69.599,
+      "sid": 25,
+      "location": 2,
+      "content": "让城市更适合人们居住和生活",
+      "music": 0.0
+    },
+    {
+      "from": 69.599,
+      "to": 71.639,
+      "sid": 26,
+      "location": 2,
+      "content": "那广州最近在房地产政策上面",
+      "music": 0.0
+    },
+    {
+      "from": 71.639,
+      "to": 73.08,
+      "sid": 27,
+      "location": 2,
+      "content": "有什么比较新的动作啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.08,
+      "to": 75.64,
+      "sid": 28,
+      "location": 2,
+      "content": "广州出台了很多支持性的措施啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.64,
+      "to": 79.0,
+      "sid": 29,
+      "location": 2,
+      "content": "比如说他有一个高质量的住宅社区",
+      "music": 0.0
+    },
+    {
+      "from": 79.0,
+      "to": 81.009,
+      "sid": 30,
+      "location": 2,
+      "content": "城区的建设行动计划",
+      "music": 0.0
+    },
+    {
+      "from": 81.009,
+      "to": 84.149,
+      "sid": 31,
+      "location": 2,
+      "content": "他的目的就是要打造安全舒适",
+      "music": 0.0
+    },
+    {
+      "from": 84.149,
+      "to": 86.509,
+      "sid": 32,
+      "location": 2,
+      "content": "绿色智能的这种居住环境",
+      "music": 0.0
+    },
+    {
+      "from": 86.97,
+      "to": 89.73,
+      "sid": 33,
+      "location": 2,
+      "content": "然后另外呢他还特别允许了",
+      "music": 0.0
+    },
+    {
+      "from": 89.73,
+      "to": 91.67,
+      "sid": 34,
+      "location": 2,
+      "content": "在一些新建商品住宅",
+      "music": 0.0
+    },
+    {
+      "from": 91.67,
+      "to": 94.45,
+      "sid": 35,
+      "location": 2,
+      "content": "库存去化周期小于18个月的区域",
+      "music": 0.0
+    },
+    {
+      "from": 94.45,
+      "to": 98.94,
+      "sid": 36,
+      "location": 2,
+      "content": "开发商可以把之前规定的必须要自持的公寓",
+      "music": 0.0
+    },
+    {
+      "from": 98.94,
+      "to": 99.72,
+      "sid": 37,
+      "location": 2,
+      "content": "办公楼",
+      "music": 0.0
+    },
+    {
+      "from": 99.72,
+      "to": 102.3,
+      "sid": 38,
+      "location": 2,
+      "content": "商铺等等变成可售的哦",
+      "music": 0.0
+    },
+    {
+      "from": 102.3,
+      "to": 104.39,
+      "sid": 39,
+      "location": 2,
+      "content": "但是要补交土地出让金",
+      "music": 0.0
+    },
+    {
+      "from": 104.39,
+      "to": 107.05,
+      "sid": 40,
+      "location": 2,
+      "content": "并且按照一定的节奏来销售哇",
+      "music": 0.0
+    },
+    {
+      "from": 107.05,
+      "to": 109.09,
+      "sid": 41,
+      "location": 2,
+      "content": "这个政策确实很有针对性啊",
+      "music": 0.0
+    },
+    {
+      "from": 109.09,
+      "to": 110.88,
+      "sid": 42,
+      "location": 2,
+      "content": "那有没有什么别的政策呢",
+      "music": 0.0
+    },
+    {
+      "from": 110.88,
+      "to": 113.9,
+      "sid": 43,
+      "location": 2,
+      "content": "还有就是南沙区的一个本地的国企",
+      "music": 0.0
+    },
+    {
+      "from": 113.9,
+      "to": 116.44,
+      "sid": 44,
+      "location": 2,
+      "content": "他启动了一个规模达到30亿的住房",
+      "music": 0.0
+    },
+    {
+      "from": 116.44,
+      "to": 117.9,
+      "sid": 45,
+      "location": 2,
+      "content": "以旧换新的项目",
+      "music": 0.0
+    },
+    {
+      "from": 117.9,
+      "to": 121.36,
+      "sid": 46,
+      "location": 2,
+      "content": "那这个项目呢就是收购全市范围内",
+      "music": 0.0
+    },
+    {
+      "from": 121.36,
+      "to": 123.4,
+      "sid": 47,
+      "location": 2,
+      "content": "楼龄不超过30年的一些二手房",
+      "music": 0.0
+    },
+    {
+      "from": 123.4,
+      "to": 125.36,
+      "sid": 48,
+      "location": 2,
+      "content": "然后卖了二手房的这些人",
+      "music": 0.0
+    },
+    {
+      "from": 125.36,
+      "to": 129.86,
+      "sid": 49,
+      "location": 2,
+      "content": "他的钱可以用来买南沙的八个指定的新盘哦",
+      "music": 0.0
+    },
+    {
+      "from": 129.86,
+      "to": 130.6,
+      "sid": 50,
+      "location": 2,
+      "content": "这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 130.6,
+      "to": 133.4,
+      "sid": 51,
+      "location": 2,
+      "content": "其实就打通了新房和二手房的一个流通的通道",
+      "music": 0.0
+    },
+    {
+      "from": 133.4,
+      "to": 134.59,
+      "sid": 52,
+      "location": 2,
+      "content": "听起来很不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 134.59,
+      "to": 137.03,
+      "sid": 53,
+      "location": 2,
+      "content": "那市场表现和主要的指标变化",
+      "music": 0.0
+    },
+    {
+      "from": 137.03,
+      "to": 139.76,
+      "sid": 54,
+      "location": 2,
+      "content": "最近这个新房和二手房的成交量",
+      "music": 0.0
+    },
+    {
+      "from": 139.76,
+      "to": 141.14,
+      "sid": 55,
+      "location": 2,
+      "content": "有什么大的波动吗",
+      "music": 0.0
+    },
+    {
+      "from": 141.14,
+      "to": 142.3,
+      "sid": 56,
+      "location": 2,
+      "content": "这个礼拜的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.3,
+      "to": 144.95,
+      "sid": 57,
+      "location": 2,
+      "content": "就是新房和二手房的网签量",
+      "music": 0.0
+    },
+    {
+      "from": 144.95,
+      "to": 148.45,
+      "sid": 58,
+      "location": 2,
+      "content": "环比分别上涨了21%和32%",
+      "music": 0.0
+    },
+    {
+      "from": 148.45,
+      "to": 151.73,
+      "sid": 59,
+      "location": 2,
+      "content": "然后同比的话也都有10%几的一个增长",
+      "music": 0.0
+    },
+    {
+      "from": 151.73,
+      "to": 154.91,
+      "sid": 60,
+      "location": 2,
+      "content": "但是呢领先指标其实是在走弱的",
+      "music": 0.0
+    },
+    {
+      "from": 154.91,
+      "to": 156.8,
+      "sid": 61,
+      "location": 2,
+      "content": "比如说新房的搜索量",
+      "music": 0.0
+    },
+    {
+      "from": 156.8,
+      "to": 158.56,
+      "sid": 62,
+      "location": 2,
+      "content": "它是环比下降了4%",
+      "music": 0.0
+    },
+    {
+      "from": 158.56,
+      "to": 161.58,
+      "sid": 63,
+      "location": 2,
+      "content": "那二手房的认筹的销量和待看量",
+      "music": 0.0
+    },
+    {
+      "from": 161.58,
+      "to": 164.56,
+      "sid": 64,
+      "location": 2,
+      "content": "也分别减少了4%和5%哦",
+      "music": 0.0
+    },
+    {
+      "from": 164.56,
+      "to": 167.62,
+      "sid": 65,
+      "location": 2,
+      "content": "那就是说虽然这个成交量短期反弹了",
+      "music": 0.0
+    },
+    {
+      "from": 167.62,
+      "to": 170.64,
+      "sid": 66,
+      "location": 2,
+      "content": "但是其实买房的热情并没有进一步的升温",
+      "music": 0.0
+    },
+    {
+      "from": 170.64,
+      "to": 172.47,
+      "sid": 67,
+      "location": 2,
+      "content": "对更值得注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 172.47,
+      "to": 174.55,
+      "sid": 68,
+      "location": 2,
+      "content": "无论是中介还是房主",
+      "music": 0.0
+    },
+    {
+      "from": 174.55,
+      "to": 177.78,
+      "sid": 69,
+      "location": 2,
+      "content": "他们对于未来房价的预期都在下滑",
+      "music": 0.0
+    },
+    {
+      "from": 177.78,
+      "to": 180.72,
+      "sid": 70,
+      "location": 2,
+      "content": "然后新挂牌的房源量也是持平的",
+      "music": 0.0
+    },
+    {
+      "from": 180.72,
+      "to": 182.5,
+      "sid": 71,
+      "location": 2,
+      "content": "就是比2026年4月份",
+      "music": 0.0
+    },
+    {
+      "from": 182.5,
+      "to": 184.56,
+      "sid": 72,
+      "location": 2,
+      "content": "和2025年5月份都要低",
+      "music": 0.0
+    },
+    {
+      "from": 184.56,
+      "to": 186.92,
+      "sid": 73,
+      "location": 2,
+      "content": "但是整体的价格还是比较平稳的",
+      "music": 0.0
+    },
+    {
+      "from": 186.92,
+      "to": 190.05,
+      "sid": 74,
+      "location": 2,
+      "content": "了解了那2026年5月份以来",
+      "music": 0.0
+    },
+    {
+      "from": 190.05,
+      "to": 193.65,
+      "sid": 75,
+      "location": 2,
+      "content": "这个新房和二手房的销售面积的累计",
+      "music": 0.0
+    },
+    {
+      "from": 193.65,
+      "to": 195.78,
+      "sid": 76,
+      "location": 2,
+      "content": "同比和环比都是什么样的水平",
+      "music": 0.0
+    },
+    {
+      "from": 195.78,
+      "to": 197.16,
+      "sid": 77,
+      "location": 2,
+      "content": "愉悦到现在为止呢",
+      "music": 0.0
+    },
+    {
+      "from": 197.16,
+      "to": 199.839,
+      "sid": 78,
+      "location": 2,
+      "content": "新房的销售面积的中位数",
+      "music": 0.0
+    },
+    {
+      "from": 199.839,
+      "to": 201.839,
+      "sid": 79,
+      "location": 2,
+      "content": "环比是上升了3%",
+      "music": 0.0
+    },
+    {
+      "from": 201.839,
+      "to": 204.19,
+      "sid": 80,
+      "location": 2,
+      "content": "但是同比还是减少了10%",
+      "music": 0.0
+    },
+    {
+      "from": 204.19,
+      "to": 207.61,
+      "sid": 81,
+      "location": 2,
+      "content": "那二手房的话呢环比是下降了10%",
+      "music": 0.0
+    },
+    {
+      "from": 207.61,
+      "to": 209.91,
+      "sid": 82,
+      "location": 2,
+      "content": "但是同比是增加了14%",
+      "music": 0.0
+    },
+    {
+      "from": 209.91,
+      "to": 210.79,
+      "sid": 83,
+      "location": 2,
+      "content": "那今年以来",
+      "music": 0.0
+    },
+    {
+      "from": 210.79,
+      "to": 213.69,
+      "sid": 84,
+      "location": 2,
+      "content": "整体的这个市场和过去两年比有多大差距",
+      "music": 0.0
+    },
+    {
+      "from": 213.69,
+      "to": 216.09,
+      "sid": 85,
+      "location": 2,
+      "content": "如果看今年年初到现在的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 216.09,
+      "to": 218.86,
+      "sid": 86,
+      "location": 2,
+      "content": "新房的销售面积的平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 218.86,
+      "to": 221.66,
+      "sid": 87,
+      "location": 2,
+      "content": "比去年同期是减少了15%",
+      "music": 0.0
+    },
+    {
+      "from": 221.66,
+      "to": 225.24,
+      "sid": 88,
+      "location": 2,
+      "content": "然后比2024年和2023年的全年水平",
+      "music": 0.0
+    },
+    {
+      "from": 225.24,
+      "to": 227.82,
+      "sid": 89,
+      "location": 2,
+      "content": "分别低了15%和50%",
+      "music": 0.0
+    },
+    {
+      "from": 227.82,
+      "to": 231.709,
+      "sid": 90,
+      "location": 2,
+      "content": "二手房的话呢累计同比只减少了2%",
+      "music": 0.0
+    },
+    {
+      "from": 231.709,
+      "to": 235.469,
+      "sid": 91,
+      "location": 2,
+      "content": "但是比2024年和2023年的全年水平",
+      "music": 0.0
+    },
+    {
+      "from": 235.469,
+      "to": 237.76,
+      "sid": 92,
+      "location": 2,
+      "content": "分别高了23%和5%",
+      "music": 0.0
+    },
+    {
+      "from": 237.76,
+      "to": 240.04,
+      "sid": 93,
+      "location": 2,
+      "content": "那库存情况呢最近有没有什么变化",
+      "music": 0.0
+    },
+    {
+      "from": 240.04,
+      "to": 240.9,
+      "sid": 94,
+      "location": 2,
+      "content": "库存的话",
+      "music": 0.0
+    },
+    {
+      "from": 240.9,
+      "to": 244.48,
+      "sid": 95,
+      "location": 2,
+      "content": "就是这个礼拜是环比微降了0.3%",
+      "music": 0.0
+    },
+    {
+      "from": 247.68,
+      "to": 250.32,
+      "sid": 96,
+      "location": 2,
+      "content": "比2026年4月份的平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 250.32,
+      "to": 252.42,
+      "sid": 97,
+      "location": 2,
+      "content": "29个半月是略低的好的",
+      "music": 0.0
+    },
+    {
+      "from": 252.42,
+      "to": 255.26,
+      "sid": 98,
+      "location": 2,
+      "content": "那我们接下来看一下这个房地产行业里面",
+      "music": 0.0
+    },
+    {
+      "from": 255.26,
+      "to": 256.769,
+      "sid": 99,
+      "location": 2,
+      "content": "不同类型的企业",
+      "music": 0.0
+    },
+    {
+      "from": 256.769,
+      "to": 258.469,
+      "sid": 100,
+      "location": 2,
+      "content": "他们的股价表现怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 258.469,
+      "to": 259.849,
+      "sid": 101,
+      "location": 2,
+      "content": "表现还是有分化的",
+      "music": 0.0
+    },
+    {
+      "from": 259.849,
+      "to": 262.99,
+      "sid": 102,
+      "location": 2,
+      "content": "就是呃比较优质的国企开发商",
+      "music": 0.0
+    },
+    {
+      "from": 262.99,
+      "to": 265.81,
+      "sid": 103,
+      "location": 2,
+      "content": "他们的股价整体是下跌了9%",
+      "music": 0.0
+    },
+    {
+      "from": 265.81,
+      "to": 269.77,
+      "sid": 104,
+      "location": 2,
+      "content": "但是其中呢像中国海外发展和华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 269.77,
+      "to": 271.67,
+      "sid": 105,
+      "location": 2,
+      "content": "他们的表现是相对较好的",
+      "music": 0.0
+    },
+    {
+      "from": 271.67,
+      "to": 274.11,
+      "sid": 106,
+      "location": 2,
+      "content": "分别只跌了3%和6%",
+      "music": 0.0
+    },
+    {
+      "from": 274.11,
+      "to": 277.23,
+      "sid": 107,
+      "location": 2,
+      "content": "那民企开发商和其他的国企开发商的话",
+      "music": 0.0
+    },
+    {
+      "from": 277.23,
+      "to": 278.95,
+      "sid": 108,
+      "location": 2,
+      "content": "他们的股价平均都下跌了",
+      "music": 0.0
+    },
+    {
+      "from": 278.95,
+      "to": 280.36,
+      "sid": 109,
+      "location": 2,
+      "content": "13%和9%",
+      "music": 0.0
+    },
+    {
+      "from": 280.36,
+      "to": 282.52,
+      "sid": 110,
+      "location": 2,
+      "content": "看来市场对于不同的开发商的信心",
+      "music": 0.0
+    },
+    {
+      "from": 282.52,
+      "to": 283.96,
+      "sid": 111,
+      "location": 2,
+      "content": "还是有明显的区别的",
+      "music": 0.0
+    },
+    {
+      "from": 283.96,
+      "to": 287.33,
+      "sid": 112,
+      "location": 2,
+      "content": "没错现在我们跟踪的这些港股的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 287.33,
+      "to": 291.67,
+      "sid": 113,
+      "location": 2,
+      "content": "他们的股价相对于2026年年底的预期",
+      "music": 0.0
+    },
+    {
+      "from": 291.67,
+      "to": 294.07,
+      "sid": 114,
+      "location": 2,
+      "content": "净资产值有22%的折价",
+      "music": 0.0
+    },
+    {
+      "from": 294.07,
+      "to": 296.55,
+      "sid": 115,
+      "location": 2,
+      "content": "然后市盈率是0.6倍",
+      "music": 0.0
+    },
+    {
+      "from": 296.55,
+      "to": 298.43,
+      "sid": 116,
+      "location": 2,
+      "content": "那A股的开发商的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 298.43,
+      "to": 301.25,
+      "sid": 117,
+      "location": 2,
+      "content": "是相对于2026年年底的预期",
+      "music": 0.0
+    },
+    {
+      "from": 301.25,
+      "to": 303.61,
+      "sid": 118,
+      "location": 2,
+      "content": "净资产值有18%的折价",
+      "music": 0.0
+    },
+    {
+      "from": 303.61,
+      "to": 305.78,
+      "sid": 119,
+      "location": 2,
+      "content": "然后市盈率是0.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 305.78,
+      "to": 307.46,
+      "sid": 120,
+      "location": 2,
+      "content": "那我们下面来分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 307.46,
+      "to": 309.76,
+      "sid": 121,
+      "location": 2,
+      "content": "这个行业的一些关键的指标的走势",
+      "music": 0.0
+    },
+    {
+      "from": 309.76,
+      "to": 311.57,
+      "sid": 122,
+      "location": 2,
+      "content": "和它的一些隐含的影响",
+      "music": 0.0
+    },
+    {
+      "from": 311.57,
+      "to": 313.33,
+      "sid": 123,
+      "location": 2,
+      "content": "那2026年5月份",
+      "music": 0.0
+    },
+    {
+      "from": 313.33,
+      "to": 315.97,
+      "sid": 124,
+      "location": 2,
+      "content": "这些开发商的销售情况到底怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 315.97,
+      "to": 319.59,
+      "sid": 125,
+      "location": 2,
+      "content": "从我们统计的大约75个城市的情况来看",
+      "music": 0.0
+    },
+    {
+      "from": 319.59,
+      "to": 322.89,
+      "sid": 126,
+      "location": 2,
+      "content": "5月份百强开发商的销售合同金额",
+      "music": 0.0
+    },
+    {
+      "from": 322.89,
+      "to": 325.2,
+      "sid": 127,
+      "location": 2,
+      "content": "跟去年同期差不多持平",
+      "music": 0.0
+    },
+    {
+      "from": 325.2,
+      "to": 328.16,
+      "sid": 128,
+      "location": 2,
+      "content": "但是比4月份的同比下滑10%",
+      "music": 0.0
+    },
+    {
+      "from": 328.16,
+      "to": 329.52,
+      "sid": 129,
+      "location": 2,
+      "content": "是有明显的改善的",
+      "music": 0.0
+    },
+    {
+      "from": 329.52,
+      "to": 330.68,
+      "sid": 130,
+      "location": 2,
+      "content": "听起来还不错哈",
+      "music": 0.0
+    },
+    {
+      "from": 330.68,
+      "to": 332.7,
+      "sid": 131,
+      "location": 2,
+      "content": "那房屋的竣工和新开工",
+      "music": 0.0
+    },
+    {
+      "from": 332.7,
+      "to": 334.2,
+      "sid": 132,
+      "location": 2,
+      "content": "这两个数据有什么变化吗",
+      "music": 0.0
+    },
+    {
+      "from": 334.2,
+      "to": 335.61,
+      "sid": 133,
+      "location": 2,
+      "content": "你竣工的话呃",
+      "music": 0.0
+    },
+    {
+      "from": 335.61,
+      "to": 338.09,
+      "sid": 134,
+      "location": 2,
+      "content": "我们的这个JSPC跟踪数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 338.09,
+      "to": 340.61,
+      "sid": 135,
+      "location": 2,
+      "content": "2026年5月到现在为止",
+      "music": 0.0
+    },
+    {
+      "from": 340.61,
+      "to": 343.0,
+      "sid": 136,
+      "location": 2,
+      "content": "是同比下降了10%几",
+      "music": 0.0
+    },
+    {
+      "from": 346.56,
+      "to": 348.76,
+      "sid": 137,
+      "location": 2,
+      "content": "还有我们的估算都要收窄的",
+      "music": 0.0
+    },
+    {
+      "from": 348.76,
+      "to": 350.28,
+      "sid": 138,
+      "location": 2,
+      "content": "然后新开工的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 350.28,
+      "to": 352.68,
+      "sid": 139,
+      "location": 2,
+      "content": "是同比下降了20%出头",
+      "music": 0.0
+    },
+    {
+      "from": 352.68,
+      "to": 355.48,
+      "sid": 140,
+      "location": 2,
+      "content": "这个也是比4月份的27%的降幅",
+      "music": 0.0
+    },
+    {
+      "from": 355.48,
+      "to": 356.95,
+      "sid": 141,
+      "location": 2,
+      "content": "要小的哦",
+      "music": 0.0
+    },
+    {
+      "from": 356.95,
+      "to": 359.7,
+      "sid": 142,
+      "location": 2,
+      "content": "那这个二手房和新房的市场",
+      "music": 0.0
+    },
+    {
+      "from": 359.7,
+      "to": 363.22,
+      "sid": 143,
+      "location": 2,
+      "content": "在2026年第一季度和4月份到5月中旬",
+      "music": 0.0
+    },
+    {
+      "from": 363.22,
+      "to": 366.38,
+      "sid": 144,
+      "location": 2,
+      "content": "的总交易额同比的变化分别是多少",
+      "music": 0.0
+    },
+    {
+      "from": 366.38,
+      "to": 367.82,
+      "sid": 145,
+      "location": 2,
+      "content": "贝壳平台的话",
+      "music": 0.0
+    },
+    {
+      "from": 367.82,
+      "to": 370.74,
+      "sid": 146,
+      "location": 2,
+      "content": "他的二手房和新房的总交易额",
+      "music": 0.0
+    },
+    {
+      "from": 370.74,
+      "to": 373.02,
+      "sid": 147,
+      "location": 2,
+      "content": "在2026年第一季度",
+      "music": 0.0
+    },
+    {
+      "from": 373.02,
+      "to": 374.98,
+      "sid": 148,
+      "location": 2,
+      "content": "是同比下降了16%",
+      "music": 0.0
+    },
+    {
+      "from": 374.98,
+      "to": 377.6,
+      "sid": 149,
+      "location": 2,
+      "content": "其中新房是同比下降28%",
+      "music": 0.0
+    },
+    {
+      "from": 377.6,
+      "to": 379.789,
+      "sid": 150,
+      "location": 2,
+      "content": "二手房是同比下降11%",
+      "music": 0.0
+    },
+    {
+      "from": 379.789,
+      "to": 382.189,
+      "sid": 151,
+      "location": 2,
+      "content": "那到了4月份到5月中旬的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 382.189,
+      "to": 384.97,
+      "sid": 152,
+      "location": 2,
+      "content": "总交易额是同比上升了5%",
+      "music": 0.0
+    },
+    {
+      "from": 384.97,
+      "to": 387.15,
+      "sid": 153,
+      "location": 2,
+      "content": "新房是同比下降5%",
+      "music": 0.0
+    },
+    {
+      "from": 387.15,
+      "to": 389.27,
+      "sid": 154,
+      "location": 2,
+      "content": "二手房是同比上升9%",
+      "music": 0.0
+    },
+    {
+      "from": 389.27,
+      "to": 391.93,
+      "sid": 155,
+      "location": 2,
+      "content": "下面我们来看一下这个一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 391.93,
+      "to": 394.49,
+      "sid": 156,
+      "location": 2,
+      "content": "也就是新房市场的一些成交的情况",
+      "music": 0.0
+    },
+    {
+      "from": 394.49,
+      "to": 397.07,
+      "sid": 157,
+      "location": 2,
+      "content": "那2026年第20个星期",
+      "music": 0.0
+    },
+    {
+      "from": 397.07,
+      "to": 401.08,
+      "sid": 158,
+      "location": 2,
+      "content": "全国大概75个城市新房的成交面积",
+      "music": 0.0
+    },
+    {
+      "from": 401.08,
+      "to": 405.36,
+      "sid": 159,
+      "location": 2,
+      "content": "环比和同比以及累计同比是多少",
+      "music": 0.0
+    },
+    {
+      "from": 405.36,
+      "to": 406.64,
+      "sid": 160,
+      "location": 2,
+      "content": "第20个星期",
+      "music": 0.0
+    },
+    {
+      "from": 406.64,
+      "to": 409.37,
+      "sid": 161,
+      "location": 2,
+      "content": "这75个城市的新房成交面积",
+      "music": 0.0
+    },
+    {
+      "from": 409.37,
+      "to": 411.63,
+      "sid": 162,
+      "location": 2,
+      "content": "环比是上升了21%",
+      "music": 0.0
+    },
+    {
+      "from": 411.63,
+      "to": 414.179,
+      "sid": 163,
+      "location": 2,
+      "content": "然后同比也是上升了11%",
+      "music": 0.0
+    },
+    {
+      "from": 414.179,
+      "to": 416.139,
+      "sid": 164,
+      "location": 2,
+      "content": "但是年初到现在的累计",
+      "music": 0.0
+    },
+    {
+      "from": 416.139,
+      "to": 418.58,
+      "sid": 165,
+      "location": 2,
+      "content": "同比是下降了15%哦",
+      "music": 0.0
+    },
+    {
+      "from": 418.58,
+      "to": 419.92,
+      "sid": 166,
+      "location": 2,
+      "content": "那这个累计的数据",
+      "music": 0.0
+    },
+    {
+      "from": 419.92,
+      "to": 422.46,
+      "sid": 167,
+      "location": 2,
+      "content": "跟2024年和2023年比呢",
+      "music": 0.0
+    },
+    {
+      "from": 422.46,
+      "to": 425.46,
+      "sid": 168,
+      "location": 2,
+      "content": "今年前五个月的新房的成交面积",
+      "music": 0.0
+    },
+    {
+      "from": 425.46,
+      "to": 428.96,
+      "sid": 169,
+      "location": 2,
+      "content": "比2024年同期是低了15%",
+      "music": 0.0
+    },
+    {
+      "from": 428.96,
+      "to": 432.35,
+      "sid": 170,
+      "location": 2,
+      "content": "然后比2023年同期是低了50%",
+      "music": 0.0
+    },
+    {
+      "from": 432.35,
+      "to": 432.95,
+      "sid": 171,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 432.95,
+      "to": 436.91,
+      "sid": 172,
+      "location": 2,
+      "content": "那这个二手房市场在2026年第20个星期",
+      "music": 0.0
+    },
+    {
+      "from": 436.91,
+      "to": 440.09,
+      "sid": 173,
+      "location": 2,
+      "content": "和今年以来的这个表现是什么样的情况",
+      "music": 0.0
+    },
+    {
+      "from": 440.09,
+      "to": 442.01,
+      "sid": 174,
+      "location": 2,
+      "content": "在第20个星期的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 442.01,
+      "to": 444.11,
+      "sid": 175,
+      "location": 2,
+      "content": "我们跟踪了大约20个城市",
+      "music": 0.0
+    },
+    {
+      "from": 444.11,
+      "to": 447.38,
+      "sid": 176,
+      "location": 2,
+      "content": "二手房的成交面积是环比上涨了32%",
+      "music": 0.0
+    },
+    {
+      "from": 447.38,
+      "to": 449.63,
+      "sid": 177,
+      "location": 2,
+      "content": "然后同比是上涨了12%",
+      "music": 0.0
+    },
+    {
+      "from": 449.63,
+      "to": 451.41,
+      "sid": 178,
+      "location": 2,
+      "content": "那年初到现在的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 451.41,
+      "to": 453.67,
+      "sid": 179,
+      "location": 2,
+      "content": "累计是同比微降了2%",
+      "music": 0.0
+    },
+    {
+      "from": 453.67,
+      "to": 456.61,
+      "sid": 180,
+      "location": 2,
+      "content": "那二手房的价格预期最近有什么变化吗",
+      "music": 0.0
+    },
+    {
+      "from": 456.61,
+      "to": 458.51,
+      "sid": 181,
+      "location": 2,
+      "content": "从我们的数据来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 458.51,
+      "to": 461.11,
+      "sid": 182,
+      "location": 2,
+      "content": "就是这个中原地产的这个经纪人指数",
+      "music": 0.0
+    },
+    {
+      "from": 461.11,
+      "to": 464.19,
+      "sid": 183,
+      "location": 2,
+      "content": "和中原报价指数都是有所下滑的",
+      "music": 0.0
+    },
+    {
+      "from": 464.19,
+      "to": 468.2,
+      "sid": 184,
+      "location": 2,
+      "content": "嗯那这个就反映出无论是中介还是房主",
+      "music": 0.0
+    },
+    {
+      "from": 468.2,
+      "to": 472.24,
+      "sid": 185,
+      "location": 2,
+      "content": "他们对于房价上涨的信心都是在减弱的好的",
+      "music": 0.0
+    },
+    {
+      "from": 472.24,
+      "to": 475.26,
+      "sid": 186,
+      "location": 2,
+      "content": "那这个库存的情况最近有什么新的变化吗",
+      "music": 0.0
+    },
+    {
+      "from": 475.26,
+      "to": 476.66,
+      "sid": 187,
+      "location": 2,
+      "content": "最新的数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 476.66,
+      "to": 479.88,
+      "sid": 188,
+      "location": 2,
+      "content": "20个城市的新房的库存总量",
+      "music": 0.0
+    },
+    {
+      "from": 479.88,
+      "to": 482.27,
+      "sid": 189,
+      "location": 2,
+      "content": "是环比减少了0.3%",
+      "music": 0.0
+    },
+    {
+      "from": 482.27,
+      "to": 483.23,
+      "sid": 190,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 483.23,
+      "to": 486.63,
+      "sid": 191,
+      "location": 2,
+      "content": "比2025年年末是下降了3.4%",
+      "music": 0.0
+    },
+    {
+      "from": 490.26,
+      "to": 493.1,
+      "sid": 192,
+      "location": 2,
+      "content": "比2025年年末是上升了2%",
+      "music": 0.0
+    },
+    {
+      "from": 493.1,
+      "to": 494.38,
+      "sid": 193,
+      "location": 2,
+      "content": "看来库存的压力",
+      "music": 0.0
+    },
+    {
+      "from": 494.38,
+      "to": 496.8,
+      "sid": 194,
+      "location": 2,
+      "content": "整体还是比2025年年末要大一些的",
+      "music": 0.0
+    },
+    {
+      "from": 496.8,
+      "to": 497.23,
+      "sid": 195,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 497.23,
+      "to": 499.69,
+      "sid": 196,
+      "location": 2,
+      "content": "那不同城市能级之间有什么分化吗",
+      "music": 0.0
+    },
+    {
+      "from": 499.69,
+      "to": 501.54,
+      "sid": 197,
+      "location": 2,
+      "content": "其实分化还是挺明显的",
+      "music": 0.0
+    },
+    {
+      "from": 501.54,
+      "to": 505.34,
+      "sid": 198,
+      "location": 2,
+      "content": "一线城市的库存去化的速度是相对快一些的",
+      "music": 0.0
+    },
+    {
+      "from": 505.34,
+      "to": 508.55,
+      "sid": 199,
+      "location": 2,
+      "content": "那二三线城市的库存压力依然比较突出",
+      "music": 0.0
+    },
+    {
+      "from": 508.55,
+      "to": 509.99,
+      "sid": 200,
+      "location": 2,
+      "content": "去化周期也比较长",
+      "music": 0.0
+    },
+    {
+      "from": 509.99,
+      "to": 510.67,
+      "sid": 201,
+      "location": 2,
+      "content": "了解了",
+      "music": 0.0
+    },
+    {
+      "from": 510.67,
+      "to": 512.75,
+      "sid": 202,
+      "location": 2,
+      "content": "那这个房地产的竣工面积",
+      "music": 0.0
+    },
+    {
+      "from": 512.75,
+      "to": 514.43,
+      "sid": 203,
+      "location": 2,
+      "content": "最近有没有什么新的数据",
+      "music": 0.0
+    },
+    {
+      "from": 514.43,
+      "to": 517.5,
+      "sid": 204,
+      "location": 2,
+      "content": "根据我们的JSPC竣工的跟踪模型",
+      "music": 0.0
+    },
+    {
+      "from": 517.5,
+      "to": 520.38,
+      "sid": 205,
+      "location": 2,
+      "content": "2026年5月到现在为止",
+      "music": 0.0
+    },
+    {
+      "from": 520.38,
+      "to": 524.38,
+      "sid": 206,
+      "location": 2,
+      "content": "全国的房屋竣工面积是同比下降了10%几",
+      "music": 0.0
+    },
+    {
+      "from": 524.38,
+      "to": 527.9,
+      "sid": 207,
+      "location": 2,
+      "content": "嗯那这个降幅呢是比4月份要有所收窄的",
+      "music": 0.0
+    },
+    {
+      "from": 527.9,
+      "to": 531.04,
+      "sid": 208,
+      "location": 2,
+      "content": "然后全年的话我们预计是同比基本持平",
+      "music": 0.0
+    },
+    {
+      "from": 531.04,
+      "to": 532.86,
+      "sid": 209,
+      "location": 2,
+      "content": "那你这个GSPC模型",
+      "music": 0.0
+    },
+    {
+      "from": 532.86,
+      "to": 535.82,
+      "sid": 210,
+      "location": 2,
+      "content": "主要是靠什么数据来预测竣工情况的呢",
+      "music": 0.0
+    },
+    {
+      "from": 535.82,
+      "to": 538.22,
+      "sid": 211,
+      "location": 2,
+      "content": "我们这个模型是基于与中国的这个",
+      "music": 0.0
+    },
+    {
+      "from": 538.22,
+      "to": 540.4,
+      "sid": 212,
+      "location": 2,
+      "content": "浮法玻璃的行业的供需情况",
+      "music": 0.0
+    },
+    {
+      "from": 540.4,
+      "to": 542.76,
+      "sid": 213,
+      "location": 2,
+      "content": "然后加上我们自己独有的这个玻璃的",
+      "music": 0.0
+    },
+    {
+      "from": 542.76,
+      "to": 544.9,
+      "sid": 214,
+      "location": 2,
+      "content": "需求的周度模型来测算的",
+      "music": 0.0
+    },
+    {
+      "from": 544.9,
+      "to": 548.76,
+      "sid": 215,
+      "location": 2,
+      "content": "所以它能够比较及时的反映出下游的房地产",
+      "music": 0.0
+    },
+    {
+      "from": 548.76,
+      "to": 551.21,
+      "sid": 216,
+      "location": 2,
+      "content": "行业的施工和竣工的动态",
+      "music": 0.0
+    },
+    {
+      "from": 551.21,
+      "to": 554.37,
+      "sid": 217,
+      "location": 2,
+      "content": "好的那最近这个开发商的估值情况怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 554.37,
+      "to": 555.93,
+      "sid": 218,
+      "location": 2,
+      "content": "包括在二级市场上面",
+      "music": 0.0
+    },
+    {
+      "from": 555.93,
+      "to": 556.99,
+      "sid": 219,
+      "location": 2,
+      "content": "不同的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 556.99,
+      "to": 558.65,
+      "sid": 220,
+      "location": 2,
+      "content": "他们的股价表现是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 558.65,
+      "to": 559.84,
+      "sid": 221,
+      "location": 2,
+      "content": "过去的一个星期",
+      "music": 0.0
+    },
+    {
+      "from": 559.84,
+      "to": 562.88,
+      "sid": 222,
+      "location": 2,
+      "content": "就是我们跟踪的这些比较优质的国企开发商",
+      "music": 0.0
+    },
+    {
+      "from": 562.88,
+      "to": 565.69,
+      "sid": 223,
+      "location": 2,
+      "content": "他们的股价平均是下跌了9%",
+      "music": 0.0
+    },
+    {
+      "from": 565.69,
+      "to": 570.05,
+      "sid": 224,
+      "location": 2,
+      "content": "但是呢中国海外发展和华润置地是相对抗跌的",
+      "music": 0.0
+    },
+    {
+      "from": 570.05,
+      "to": 573.14,
+      "sid": 225,
+      "location": 2,
+      "content": "它们分别只下跌了3%和6%",
+      "music": 0.0
+    },
+    {
+      "from": 573.14,
+      "to": 574.9,
+      "sid": 226,
+      "location": 2,
+      "content": "那民企开发商的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 574.9,
+      "to": 576.92,
+      "sid": 227,
+      "location": 2,
+      "content": "平均是下跌了13%",
+      "music": 0.0
+    },
+    {
+      "from": 576.92,
+      "to": 580.0,
+      "sid": 228,
+      "location": 2,
+      "content": "其他的国企开发商是下跌了9%诶",
+      "music": 0.0
+    },
+    {
+      "from": 580.0,
+      "to": 582.06,
+      "sid": 229,
+      "location": 2,
+      "content": "那港股和A股的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 582.06,
+      "to": 584.04,
+      "sid": 230,
+      "location": 2,
+      "content": "在估值上面有什么差异吗",
+      "music": 0.0
+    },
+    {
+      "from": 584.04,
+      "to": 585.48,
+      "sid": 231,
+      "location": 2,
+      "content": "港股的开发商的话",
+      "music": 0.0
+    },
+    {
+      "from": 585.48,
+      "to": 587.86,
+      "sid": 232,
+      "location": 2,
+      "content": "它是整体是下跌了10%",
+      "music": 0.0
+    },
+    {
+      "from": 587.86,
+      "to": 590.86,
+      "sid": 233,
+      "location": 2,
+      "content": "然后相对于2026年年底的预期",
+      "music": 0.0
+    },
+    {
+      "from": 590.86,
+      "to": 593.54,
+      "sid": 234,
+      "location": 2,
+      "content": "净资产值是有22%的折价",
+      "music": 0.0
+    },
+    {
+      "from": 593.54,
+      "to": 595.69,
+      "sid": 235,
+      "location": 2,
+      "content": "市盈率是0.6倍",
+      "music": 0.0
+    },
+    {
+      "from": 595.69,
+      "to": 599.52,
+      "sid": 236,
+      "location": 2,
+      "content": "那A股的开发商的话呢也是下跌了10%",
+      "music": 0.0
+    },
+    {
+      "from": 599.52,
+      "to": 602.2,
+      "sid": 237,
+      "location": 2,
+      "content": "相对于2026年年底的预期",
+      "music": 0.0
+    },
+    {
+      "from": 602.2,
+      "to": 604.59,
+      "sid": 238,
+      "location": 2,
+      "content": "净资产值是有18%的折价",
+      "music": 0.0
+    },
+    {
+      "from": 604.59,
+      "to": 606.43,
+      "sid": 239,
+      "location": 2,
+      "content": "然后市盈率是0.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 606.43,
+      "to": 607.15,
+      "sid": 240,
+      "location": 2,
+      "content": "了解了",
+      "music": 0.0
+    },
+    {
+      "from": 607.15,
+      "to": 610.39,
+      "sid": 241,
+      "location": 2,
+      "content": "那我们下面这个环节就进入到具体的公司的",
+      "music": 0.0
+    },
+    {
+      "from": 610.39,
+      "to": 613.03,
+      "sid": 242,
+      "location": 2,
+      "content": "和行业的一些财务数据的披露",
+      "music": 0.0
+    },
+    {
+      "from": 613.03,
+      "to": 614.63,
+      "sid": 243,
+      "location": 2,
+      "content": "那这些数据里面呢",
+      "music": 0.0
+    },
+    {
+      "from": 614.63,
+      "to": 616.109,
+      "sid": 244,
+      "location": 2,
+      "content": "其实我们看到有一些",
+      "music": 0.0
+    },
+    {
+      "from": 616.109,
+      "to": 618.489,
+      "sid": 245,
+      "location": 2,
+      "content": "比如说有一些是这个投资评级呀",
+      "music": 0.0
+    },
+    {
+      "from": 618.489,
+      "to": 620.149,
+      "sid": 246,
+      "location": 2,
+      "content": "然后有一些是目标价呀",
+      "music": 0.0
+    },
+    {
+      "from": 620.149,
+      "to": 621.449,
+      "sid": 247,
+      "location": 2,
+      "content": "有一些是市值啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.449,
+      "to": 624.34,
+      "sid": 248,
+      "location": 2,
+      "content": "有一些是估值的指标啊等等之类的",
+      "music": 0.0
+    },
+    {
+      "from": 624.34,
+      "to": 628.74,
+      "sid": 249,
+      "location": 2,
+      "content": "这些数据具体都透露了哪些关于这个公司的",
+      "music": 0.0
+    },
+    {
+      "from": 628.74,
+      "to": 630.78,
+      "sid": 250,
+      "location": 2,
+      "content": "或者说关于这个行业的一些信息呢",
+      "music": 0.0
+    },
+    {
+      "from": 630.78,
+      "to": 632.58,
+      "sid": 251,
+      "location": 2,
+      "content": "我们在看这个表格的时候",
+      "music": 0.0
+    },
+    {
+      "from": 632.58,
+      "to": 635.829,
+      "sid": 252,
+      "location": 2,
+      "content": "首先要看的是公司的市值的大小",
+      "music": 0.0
+    },
+    {
+      "from": 635.829,
+      "to": 638.269,
+      "sid": 253,
+      "location": 2,
+      "content": "然后他的投资评级是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 638.269,
+      "to": 639.529,
+      "sid": 254,
+      "location": 2,
+      "content": "目标价是多少",
+      "music": 0.0
+    },
+    {
+      "from": 639.529,
+      "to": 640.949,
+      "sid": 255,
+      "location": 2,
+      "content": "相对于现在的价格",
+      "music": 0.0
+    },
+    {
+      "from": 640.949,
+      "to": 643.569,
+      "sid": 256,
+      "location": 2,
+      "content": "是有多少的上涨或者下跌的空间",
+      "music": 0.0
+    },
+    {
+      "from": 643.569,
+      "to": 647.72,
+      "sid": 257,
+      "location": 2,
+      "content": "然后还有就是它相对于净资产值是有多少的",
+      "music": 0.0
+    },
+    {
+      "from": 647.72,
+      "to": 649.01,
+      "sid": 258,
+      "location": 2,
+      "content": "折价或者溢价",
+      "music": 0.0
+    },
+    {
+      "from": 649.01,
+      "to": 650.61,
+      "sid": 259,
+      "location": 2,
+      "content": "以及它的市盈率",
+      "music": 0.0
+    },
+    {
+      "from": 650.61,
+      "to": 651.43,
+      "sid": 260,
+      "location": 2,
+      "content": "市净率",
+      "music": 0.0
+    },
+    {
+      "from": 651.43,
+      "to": 652.37,
+      "sid": 261,
+      "location": 2,
+      "content": "股息率",
+      "music": 0.0
+    },
+    {
+      "from": 652.37,
+      "to": 653.77,
+      "sid": 262,
+      "location": 2,
+      "content": "这些都是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 653.77,
+      "to": 657.08,
+      "sid": 263,
+      "location": 2,
+      "content": "是的那这些数据在不同的开发商之间",
+      "music": 0.0
+    },
+    {
+      "from": 657.08,
+      "to": 660.34,
+      "sid": 264,
+      "location": 2,
+      "content": "比如说国企开发商和民企开发商之间",
+      "music": 0.0
+    },
+    {
+      "from": 660.34,
+      "to": 661.98,
+      "sid": 265,
+      "location": 2,
+      "content": "有什么显著的区别吗",
+      "music": 0.0
+    },
+    {
+      "from": 661.98,
+      "to": 663.48,
+      "sid": 266,
+      "location": 2,
+      "content": "区别还是很明显的",
+      "music": 0.0
+    },
+    {
+      "from": 663.48,
+      "to": 665.48,
+      "sid": 267,
+      "location": 2,
+      "content": "就是国企开发商的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 665.48,
+      "to": 667.44,
+      "sid": 268,
+      "location": 2,
+      "content": "它的市值普遍比较大",
+      "music": 0.0
+    },
+    {
+      "from": 667.44,
+      "to": 670.14,
+      "sid": 269,
+      "location": 2,
+      "content": "然后估值的折价也比较小",
+      "music": 0.0
+    },
+    {
+      "from": 670.14,
+      "to": 672.01,
+      "sid": 270,
+      "location": 2,
+      "content": "股息率也比较高",
+      "music": 0.0
+    },
+    {
+      "from": 672.01,
+      "to": 674.11,
+      "sid": 271,
+      "location": 2,
+      "content": "那民企开发商的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 674.11,
+      "to": 676.63,
+      "sid": 272,
+      "location": 2,
+      "content": "它的估值的折价就非常的大",
+      "music": 0.0
+    },
+    {
+      "from": 676.63,
+      "to": 679.8,
+      "sid": 273,
+      "location": 2,
+      "content": "然后市盈率和市净率都非常的低",
+      "music": 0.0
+    },
+    {
+      "from": 679.8,
+      "to": 682.36,
+      "sid": 274,
+      "location": 2,
+      "content": "但是它的风险也相对来说更高一些",
+      "music": 0.0
+    },
+    {
+      "from": 682.36,
+      "to": 685.02,
+      "sid": 275,
+      "location": 2,
+      "content": "好的那我们下面要聊的这个话题呢",
+      "music": 0.0
+    },
+    {
+      "from": 685.02,
+      "to": 687.72,
+      "sid": 276,
+      "location": 2,
+      "content": "其实是跟这个研究报告本身的",
+      "music": 0.0
+    },
+    {
+      "from": 687.72,
+      "to": 689.53,
+      "sid": 277,
+      "location": 2,
+      "content": "一些作者的认证啊",
+      "music": 0.0
+    },
+    {
+      "from": 689.53,
+      "to": 691.67,
+      "sid": 278,
+      "location": 2,
+      "content": "以及一些分析的方法呀",
+      "music": 0.0
+    },
+    {
+      "from": 691.67,
+      "to": 693.25,
+      "sid": 279,
+      "location": 2,
+      "content": "一些重要的披露啊",
+      "music": 0.0
+    },
+    {
+      "from": 693.25,
+      "to": 694.17,
+      "sid": 280,
+      "location": 2,
+      "content": "是相关的",
+      "music": 0.0
+    },
+    {
+      "from": 694.17,
+      "to": 697.21,
+      "sid": 281,
+      "location": 2,
+      "content": "对那这些东西其实看起来好像很枯燥",
+      "music": 0.0
+    },
+    {
+      "from": 697.21,
+      "to": 701.8,
+      "sid": 282,
+      "location": 2,
+      "content": "但是他其实对于我们判断这个报告的可信度",
+      "music": 0.0
+    },
+    {
+      "from": 701.8,
+      "to": 705.72,
+      "sid": 283,
+      "location": 2,
+      "content": "以及他的一些潜在的利益冲突是非常关键的",
+      "music": 0.0
+    },
+    {
+      "from": 705.72,
+      "to": 709.24,
+      "sid": 284,
+      "location": 2,
+      "content": "对那我们就先来聊一下这个报告的主要的作者",
+      "music": 0.0
+    },
+    {
+      "from": 709.24,
+      "to": 710.22,
+      "sid": 285,
+      "location": 2,
+      "content": "他们都是谁",
+      "music": 0.0
+    },
+    {
+      "from": 710.22,
+      "to": 712.18,
+      "sid": 286,
+      "location": 2,
+      "content": "然后他们都具备什么样的资质",
+      "music": 0.0
+    },
+    {
+      "from": 712.18,
+      "to": 714.4,
+      "sid": 287,
+      "location": 2,
+      "content": "以及他们在写这个报告的时候",
+      "music": 0.0
+    },
+    {
+      "from": 714.4,
+      "to": 717.09,
+      "sid": 288,
+      "location": 2,
+      "content": "是不是有一些他们要遵守的一些标准",
+      "music": 0.0
+    },
+    {
+      "from": 719.67,
+      "to": 721.319,
+      "sid": 289,
+      "location": 2,
+      "content": "徐实景凯燕",
+      "music": 0.0
+    },
+    {
+      "from": 721.319,
+      "to": 723.519,
+      "sid": 290,
+      "location": 2,
+      "content": "他们都有什么样的专业的认证",
+      "music": 0.0
+    },
+    {
+      "from": 723.519,
+      "to": 725.159,
+      "sid": 291,
+      "location": 2,
+      "content": "他们三个人都有正式的认证",
+      "music": 0.0
+    },
+    {
+      "from": 725.159,
+      "to": 728.159,
+      "sid": 292,
+      "location": 2,
+      "content": "就是他们都有签署这个rap AC的认证",
+      "music": 0.0
+    },
+    {
+      "from": 728.159,
+      "to": 730.73,
+      "sid": 293,
+      "location": 2,
+      "content": "那个认证就意味着他们保证",
+      "music": 0.0
+    },
+    {
+      "from": 730.73,
+      "to": 733.73,
+      "sid": 294,
+      "location": 2,
+      "content": "这个报告里面的观点都是他们自己的观点",
+      "music": 0.0
+    },
+    {
+      "from": 733.73,
+      "to": 735.95,
+      "sid": 295,
+      "location": 2,
+      "content": "然后他们的薪酬的任何部分",
+      "music": 0.0
+    },
+    {
+      "from": 735.95,
+      "to": 738.62,
+      "sid": 296,
+      "location": 2,
+      "content": "都没有和这个报告里面的具体的推荐",
+      "music": 0.0
+    },
+    {
+      "from": 738.62,
+      "to": 740.24,
+      "sid": 297,
+      "location": 2,
+      "content": "直接或者间接的挂钩",
+      "music": 0.0
+    },
+    {
+      "from": 740.24,
+      "to": 742.86,
+      "sid": 298,
+      "location": 2,
+      "content": "那这个JS的这个factor profile",
+      "music": 0.0
+    },
+    {
+      "from": 742.86,
+      "to": 745.62,
+      "sid": 299,
+      "location": 2,
+      "content": "它到底是怎么用一些关键的指标",
+      "music": 0.0
+    },
+    {
+      "from": 745.62,
+      "to": 748.14,
+      "sid": 300,
+      "location": 2,
+      "content": "来给一个股票进行多维度的画像呢",
+      "music": 0.0
+    },
+    {
+      "from": 748.14,
+      "to": 751.9,
+      "sid": 301,
+      "location": 2,
+      "content": "这个其实就是呃JS的factor profile",
+      "music": 0.0
+    },
+    {
+      "from": 751.9,
+      "to": 754.24,
+      "sid": 302,
+      "location": 2,
+      "content": "会从growth就是成长",
+      "music": 0.0
+    },
+    {
+      "from": 754.24,
+      "to": 756.92,
+      "sid": 303,
+      "location": 2,
+      "content": "然后financial returns就是财务回报",
+      "music": 0.0
+    },
+    {
+      "from": 756.92,
+      "to": 758.86,
+      "sid": 304,
+      "location": 2,
+      "content": "multiple就是估值倍数",
+      "music": 0.0
+    },
+    {
+      "from": 758.86,
+      "to": 760.26,
+      "sid": 305,
+      "location": 2,
+      "content": "还有就是integrated",
+      "music": 0.0
+    },
+    {
+      "from": 760.26,
+      "to": 763.05,
+      "sid": 306,
+      "location": 2,
+      "content": "就是一个综合的评分这四个维度",
+      "music": 0.0
+    },
+    {
+      "from": 763.05,
+      "to": 766.29,
+      "sid": 307,
+      "location": 2,
+      "content": "然后每个维度呢都会把这个股票和它的行业",
+      "music": 0.0
+    },
+    {
+      "from": 766.29,
+      "to": 768.15,
+      "sid": 308,
+      "location": 2,
+      "content": "以及整个市场去做一个比较",
+      "music": 0.0
+    },
+    {
+      "from": 768.15,
+      "to": 771.07,
+      "sid": 309,
+      "location": 2,
+      "content": "最后会得出一个从1%到100%",
+      "music": 0.0
+    },
+    {
+      "from": 771.07,
+      "to": 771.79,
+      "sid": 310,
+      "location": 2,
+      "content": "的一个分数",
+      "music": 0.0
+    },
+    {
+      "from": 771.79,
+      "to": 772.51,
+      "sid": 311,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 772.51,
+      "to": 774.99,
+      "sid": 312,
+      "location": 2,
+      "content": "那这些具体的成长啊",
+      "music": 0.0
+    },
+    {
+      "from": 774.99,
+      "to": 776.17,
+      "sid": 313,
+      "location": 2,
+      "content": "财务回报啊",
+      "music": 0.0
+    },
+    {
+      "from": 776.17,
+      "to": 777.23,
+      "sid": 314,
+      "location": 2,
+      "content": "估值倍数啊",
+      "music": 0.0
+    },
+    {
+      "from": 777.23,
+      "to": 779.05,
+      "sid": 315,
+      "location": 2,
+      "content": "这些东西都是怎么算出来的",
+      "music": 0.0
+    },
+    {
+      "from": 779.05,
+      "to": 782.61,
+      "sid": 316,
+      "location": 2,
+      "content": "成长的话一般就是看未来的销售增长率",
+      "music": 0.0
+    },
+    {
+      "from": 782.61,
+      "to": 784.27,
+      "sid": 317,
+      "location": 2,
+      "content": "EBITDA的增长率",
+      "music": 0.0
+    },
+    {
+      "from": 784.27,
+      "to": 786.02,
+      "sid": 318,
+      "location": 2,
+      "content": "然后EP的增长率",
+      "music": 0.0
+    },
+    {
+      "from": 786.02,
+      "to": 789.82,
+      "sid": 319,
+      "location": 2,
+      "content": "财务回报的话就是看ROEROCE",
+      "music": 0.0
+    },
+    {
+      "from": 789.82,
+      "to": 791.44,
+      "sid": 320,
+      "location": 2,
+      "content": "然后CROCI",
+      "music": 0.0
+    },
+    {
+      "from": 791.44,
+      "to": 795.42,
+      "sid": 321,
+      "location": 2,
+      "content": "那估值倍数的话就是看PEPBPD",
+      "music": 0.0
+    },
+    {
+      "from": 795.42,
+      "to": 798.41,
+      "sid": 322,
+      "location": 2,
+      "content": "还有EV比1B代利等等这些指标",
+      "music": 0.0
+    },
+    {
+      "from": 798.41,
+      "to": 801.11,
+      "sid": 323,
+      "location": 2,
+      "content": "然后最后那个综合的分数呢就是成长",
+      "music": 0.0
+    },
+    {
+      "from": 801.11,
+      "to": 804.13,
+      "sid": 324,
+      "location": 2,
+      "content": "财务回报和估值倍数的一个组合的分数",
+      "music": 0.0
+    },
+    {
+      "from": 804.13,
+      "to": 804.74,
+      "sid": 325,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 804.74,
+      "to": 807.78,
+      "sid": 326,
+      "location": 2,
+      "content": "那这个JS的这个m n a rank",
+      "music": 0.0
+    },
+    {
+      "from": 807.78,
+      "to": 810.92,
+      "sid": 327,
+      "location": 2,
+      "content": "在分析一个公司被收购的可能性上面",
+      "music": 0.0
+    },
+    {
+      "from": 810.92,
+      "to": 812.18,
+      "sid": 328,
+      "location": 2,
+      "content": "是怎么来运作的",
+      "music": 0.0
+    },
+    {
+      "from": 812.18,
+      "to": 815.73,
+      "sid": 329,
+      "location": 2,
+      "content": "就是我们会从定性和定量两个方面去衡量",
+      "music": 0.0
+    },
+    {
+      "from": 815.73,
+      "to": 816.99,
+      "sid": 330,
+      "location": 2,
+      "content": "然后每一家公司呢",
+      "music": 0.0
+    },
+    {
+      "from": 816.99,
+      "to": 819.94,
+      "sid": 331,
+      "location": 2,
+      "content": "都会被我们赋予一个从1~3的一个分数",
+      "music": 0.0
+    },
+    {
+      "from": 819.94,
+      "to": 823.04,
+      "sid": 332,
+      "location": 2,
+      "content": "那这个一就代表着有30%到50%",
+      "music": 0.0
+    },
+    {
+      "from": 823.04,
+      "to": 824.37,
+      "sid": 333,
+      "location": 2,
+      "content": "的可能性会被收购",
+      "music": 0.0
+    },
+    {
+      "from": 824.37,
+      "to": 827.49,
+      "sid": 334,
+      "location": 2,
+      "content": "二的话就是15%到33%的话",
+      "music": 0.0
+    },
+    {
+      "from": 827.49,
+      "to": 829.94,
+      "sid": 335,
+      "location": 2,
+      "content": "就是0%到15%哦",
+      "music": 0.0
+    },
+    {
+      "from": 829.94,
+      "to": 831.72,
+      "sid": 336,
+      "location": 2,
+      "content": "那被评为一和二的公司",
+      "music": 0.0
+    },
+    {
+      "from": 831.72,
+      "to": 833.66,
+      "sid": 337,
+      "location": 2,
+      "content": "在你们的这个目标价里面",
+      "music": 0.0
+    },
+    {
+      "from": 833.66,
+      "to": 835.28,
+      "sid": 338,
+      "location": 2,
+      "content": "会有什么样的特殊的处理吗",
+      "music": 0.0
+    },
+    {
+      "from": 835.28,
+      "to": 835.72,
+      "sid": 339,
+      "location": 2,
+      "content": "会的",
+      "music": 0.0
+    },
+    {
+      "from": 835.72,
+      "to": 837.02,
+      "sid": 340,
+      "location": 2,
+      "content": "如果是一和二的话",
+      "music": 0.0
+    },
+    {
+      "from": 837.02,
+      "to": 838.72,
+      "sid": 341,
+      "location": 2,
+      "content": "我们会在我们的目标价里面",
+      "music": 0.0
+    },
+    {
+      "from": 838.72,
+      "to": 842.47,
+      "sid": 342,
+      "location": 2,
+      "content": "就直接把这个并购的可能带来的影响考虑进去",
+      "music": 0.0
+    },
+    {
+      "from": 842.47,
+      "to": 843.27,
+      "sid": 343,
+      "location": 2,
+      "content": "如果是三的话",
+      "music": 0.0
+    },
+    {
+      "from": 843.27,
+      "to": 845.45,
+      "sid": 344,
+      "location": 2,
+      "content": "我们一般就不考虑这个并购的因素了",
+      "music": 0.0
+    },
+    {
+      "from": 845.45,
+      "to": 848.69,
+      "sid": 345,
+      "location": 2,
+      "content": "然后也可能不会在报告里面专门的去讨论好的",
+      "music": 0.0
+    },
+    {
+      "from": 848.69,
+      "to": 850.839,
+      "sid": 346,
+      "location": 2,
+      "content": "那这个quantum这个数据库",
+      "music": 0.0
+    },
+    {
+      "from": 850.839,
+      "to": 853.879,
+      "sid": 347,
+      "location": 2,
+      "content": "它到底能够帮我们做什么样的深度的分析",
+      "music": 0.0
+    },
+    {
+      "from": 853.879,
+      "to": 854.359,
+      "sid": 348,
+      "location": 2,
+      "content": "Pantum",
+      "music": 0.0
+    },
+    {
+      "from": 854.359,
+      "to": 858.31,
+      "sid": 349,
+      "location": 2,
+      "content": "其实它是一个非常强大的财务数据的平台",
+      "music": 0.0
+    },
+    {
+      "from": 858.31,
+      "to": 862.73,
+      "sid": 350,
+      "location": 2,
+      "content": "它可以让你去提取一个公司很多年的财务报表",
+      "music": 0.0
+    },
+    {
+      "from": 862.73,
+      "to": 865.329,
+      "sid": 351,
+      "location": 2,
+      "content": "然后他的各种预测还有各种比率",
+      "music": 0.0
+    },
+    {
+      "from": 865.329,
+      "to": 867.809,
+      "sid": 352,
+      "location": 2,
+      "content": "并且它也可以让你去很方便地",
+      "music": 0.0
+    },
+    {
+      "from": 867.809,
+      "to": 869.24,
+      "sid": 353,
+      "location": 2,
+      "content": "在不同的公司之间",
+      "music": 0.0
+    },
+    {
+      "from": 869.24,
+      "to": 870.44,
+      "sid": 354,
+      "location": 2,
+      "content": "不同的行业之间",
+      "music": 0.0
+    },
+    {
+      "from": 870.44,
+      "to": 872.38,
+      "sid": 355,
+      "location": 2,
+      "content": "甚至不同的国家之间去做比较",
+      "music": 0.0
+    },
+    {
+      "from": 872.38,
+      "to": 872.8,
+      "sid": 356,
+      "location": 2,
+      "content": "Ok",
+      "music": 0.0
+    },
+    {
+      "from": 872.8,
+      "to": 874.92,
+      "sid": 357,
+      "location": 2,
+      "content": "那这个投资评级的分布",
+      "music": 0.0
+    },
+    {
+      "from": 874.92,
+      "to": 877.32,
+      "sid": 358,
+      "location": 2,
+      "content": "以及投资银行的关系的这个披露",
+      "music": 0.0
+    },
+    {
+      "from": 877.32,
+      "to": 879.32,
+      "sid": 359,
+      "location": 2,
+      "content": "到底告诉了我们一些什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 879.32,
+      "to": 882.3,
+      "sid": 360,
+      "location": 2,
+      "content": "关于这个研究覆盖和利益冲突的信息",
+      "music": 0.0
+    },
+    {
+      "from": 882.3,
+      "to": 883.42,
+      "sid": 361,
+      "location": 2,
+      "content": "这个表格里面",
+      "music": 0.0
+    },
+    {
+      "from": 883.42,
+      "to": 887.19,
+      "sid": 362,
+      "location": 2,
+      "content": "其实是把全球的股票研究的覆盖的universe",
+      "music": 0.0
+    },
+    {
+      "from": 887.19,
+      "to": 888.61,
+      "sid": 363,
+      "location": 2,
+      "content": "分成了买入",
+      "music": 0.0
+    },
+    {
+      "from": 888.61,
+      "to": 890.569,
+      "sid": 364,
+      "location": 2,
+      "content": "持有和卖出",
+      "music": 0.0
+    },
+    {
+      "from": 890.569,
+      "to": 893.689,
+      "sid": 365,
+      "location": 2,
+      "content": "然后同时呢他也披露了在每一个类别里面",
+      "music": 0.0
+    },
+    {
+      "from": 893.689,
+      "to": 897.2,
+      "sid": 366,
+      "location": 2,
+      "content": "有多少比例的公司是在过去的12个月里面",
+      "music": 0.0
+    },
+    {
+      "from": 897.2,
+      "to": 900.3,
+      "sid": 367,
+      "location": 2,
+      "content": "曾经接受过高盛的投资银行服务的",
+      "music": 0.0
+    },
+    {
+      "from": 900.76,
+      "to": 903.64,
+      "sid": 368,
+      "location": 2,
+      "content": "所以这个其实就是帮助投资者去看清楚",
+      "music": 0.0
+    },
+    {
+      "from": 903.64,
+      "to": 906.86,
+      "sid": 369,
+      "location": 2,
+      "content": "这个投资银行的业务和这个研究的评级之间",
+      "music": 0.0
+    },
+    {
+      "from": 906.86,
+      "to": 909.08,
+      "sid": 370,
+      "location": 2,
+      "content": "到底有没有一些潜在的利益冲突",
+      "music": 0.0
+    },
+    {
+      "from": 909.08,
+      "to": 912.86,
+      "sid": 371,
+      "location": 2,
+      "content": "比如说现在全球的这个股票研究的universe里面",
+      "music": 0.0
+    },
+    {
+      "from": 912.86,
+      "to": 916.53,
+      "sid": 372,
+      "location": 2,
+      "content": "买入持有卖出他们的占比是多少",
+      "music": 0.0
+    },
+    {
+      "from": 916.53,
+      "to": 919.47,
+      "sid": 373,
+      "location": 2,
+      "content": "现在的话呢就是买入是占了50%",
+      "music": 0.0
+    },
+    {
+      "from": 919.47,
+      "to": 921.09,
+      "sid": 374,
+      "location": 2,
+      "content": "持有是34%",
+      "music": 0.0
+    },
+    {
+      "from": 921.09,
+      "to": 923.11,
+      "sid": 375,
+      "location": 2,
+      "content": "卖出是16%哦",
+      "music": 0.0
+    },
+    {
+      "from": 923.11,
+      "to": 927.239,
+      "sid": 376,
+      "location": 2,
+      "content": "那同时呢就是呃接受过投资银行服务的公司",
+      "music": 0.0
+    },
+    {
+      "from": 927.239,
+      "to": 929.299,
+      "sid": 377,
+      "location": 2,
+      "content": "在买入里面是占65%",
+      "music": 0.0
+    },
+    {
+      "from": 929.299,
+      "to": 931.259,
+      "sid": 378,
+      "location": 2,
+      "content": "在持有里面是占60%",
+      "music": 0.0
+    },
+    {
+      "from": 931.259,
+      "to": 933.219,
+      "sid": 379,
+      "location": 2,
+      "content": "在卖出里面是占45%",
+      "music": 0.0
+    },
+    {
+      "from": 933.219,
+      "to": 933.95,
+      "sid": 380,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 933.95,
+      "to": 935.41,
+      "sid": 381,
+      "location": 2,
+      "content": "那美国的这个法规",
+      "music": 0.0
+    },
+    {
+      "from": 935.41,
+      "to": 938.93,
+      "sid": 382,
+      "location": 2,
+      "content": "对于研究报告里面的公司的特定的披露",
+      "music": 0.0
+    },
+    {
+      "from": 938.93,
+      "to": 939.73,
+      "sid": 383,
+      "location": 2,
+      "content": "有什么要求",
+      "music": 0.0
+    },
+    {
+      "from": 939.73,
+      "to": 940.67,
+      "sid": 384,
+      "location": 2,
+      "content": "在美国的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 940.67,
+      "to": 944.82,
+      "sid": 385,
+      "location": 2,
+      "content": "就是呃每一个研究报告里面都必须要披露",
+      "music": 0.0
+    },
+    {
+      "from": 944.82,
+      "to": 948.82,
+      "sid": 386,
+      "location": 2,
+      "content": "高盛有没有在最近的这个公司的证券发行里面",
+      "music": 0.0
+    },
+    {
+      "from": 948.82,
+      "to": 949.84,
+      "sid": 387,
+      "location": 2,
+      "content": "担任过经理",
+      "music": 0.0
+    },
+    {
+      "from": 949.84,
+      "to": 951.73,
+      "sid": 388,
+      "location": 2,
+      "content": "或者是说联席经理嗯",
+      "music": 0.0
+    },
+    {
+      "from": 951.73,
+      "to": 953.57,
+      "sid": 389,
+      "location": 2,
+      "content": "然后高盛或者他的分析师",
+      "music": 0.0
+    },
+    {
+      "from": 953.57,
+      "to": 956.85,
+      "sid": 390,
+      "location": 2,
+      "content": "有没有持有这个公司1%以上的股权",
+      "music": 0.0
+    },
+    {
+      "from": 956.85,
+      "to": 959.6,
+      "sid": 391,
+      "location": 2,
+      "content": "然后包括有没有什么其他的一些补偿安排啊",
+      "music": 0.0
+    },
+    {
+      "from": 959.6,
+      "to": 960.32,
+      "sid": 392,
+      "location": 2,
+      "content": "等等之类的",
+      "music": 0.0
+    },
+    {
+      "from": 960.32,
+      "to": 963.0,
+      "sid": 393,
+      "location": 2,
+      "content": "那这些东西其实都是直接关系到这个报告的",
+      "music": 0.0
+    },
+    {
+      "from": 963.0,
+      "to": 964.24,
+      "sid": 394,
+      "location": 2,
+      "content": "独立性和客观性的",
+      "music": 0.0
+    },
+    {
+      "from": 964.24,
+      "to": 965.02,
+      "sid": 395,
+      "location": 2,
+      "content": "没错没错",
+      "music": 0.0
+    },
+    {
+      "from": 965.02,
+      "to": 968.66,
+      "sid": 396,
+      "location": 2,
+      "content": "而且这个里面还会披露分析师和他的家庭成员",
+      "music": 0.0
+    },
+    {
+      "from": 968.66,
+      "to": 970.85,
+      "sid": 397,
+      "location": 2,
+      "content": "有没有在这个公司里面担任什么职位",
+      "music": 0.0
+    },
+    {
+      "from": 970.85,
+      "to": 972.67,
+      "sid": 398,
+      "location": 2,
+      "content": "然后高盛有没有在做事",
+      "music": 0.0
+    },
+    {
+      "from": 972.67,
+      "to": 976.64,
+      "sid": 399,
+      "location": 2,
+      "content": "或者说有没有在做这个公司的股票的specialist对",
+      "music": 0.0
+    },
+    {
+      "from": 976.64,
+      "to": 977.68,
+      "sid": 400,
+      "location": 2,
+      "content": "然后包括高盛",
+      "music": 0.0
+    },
+    {
+      "from": 977.68,
+      "to": 979.8,
+      "sid": 401,
+      "location": 2,
+      "content": "可能会在这个公司的债务",
+      "music": 0.0
+    },
+    {
+      "from": 979.8,
+      "to": 981.48,
+      "sid": 402,
+      "location": 2,
+      "content": "证券上面做自营的交易",
+      "music": 0.0
+    },
+    {
+      "from": 981.48,
+      "to": 982.52,
+      "sid": 403,
+      "location": 2,
+      "content": "那高盛的分析师",
+      "music": 0.0
+    },
+    {
+      "from": 982.52,
+      "to": 985.5,
+      "sid": 404,
+      "location": 2,
+      "content": "他们自己在持股薪酬",
+      "music": 0.0
+    },
+    {
+      "from": 985.5,
+      "to": 988.29,
+      "sid": 405,
+      "location": 2,
+      "content": "担任职位上面有什么严格的规定吗",
+      "music": 0.0
+    },
+    {
+      "from": 988.29,
+      "to": 991.35,
+      "sid": 406,
+      "location": 2,
+      "content": "呃高盛的分析师是不可以持有",
+      "music": 0.0
+    },
+    {
+      "from": 991.35,
+      "to": 993.65,
+      "sid": 407,
+      "location": 2,
+      "content": "自己覆盖的公司的股票的",
+      "music": 0.0
+    },
+    {
+      "from": 993.65,
+      "to": 996.09,
+      "sid": 408,
+      "location": 2,
+      "content": "然后他们的家庭成员也是不可以的",
+      "music": 0.0
+    },
+    {
+      "from": 996.09,
+      "to": 999.61,
+      "sid": 409,
+      "location": 2,
+      "content": "他们的薪酬是会跟公司整体的盈利挂钩的",
+      "music": 0.0
+    },
+    {
+      "from": 999.61,
+      "to": 1001.579,
+      "sid": 410,
+      "location": 2,
+      "content": "包括投资银行的收入",
+      "music": 0.0
+    },
+    {
+      "from": 1002.179,
+      "to": 1004.659,
+      "sid": 411,
+      "location": 2,
+      "content": "然后他们也不可以在自己覆盖的公司里面",
+      "music": 0.0
+    },
+    {
+      "from": 1004.659,
+      "to": 1005.759,
+      "sid": 412,
+      "location": 2,
+      "content": "担任任何的职位",
+      "music": 0.0
+    },
+    {
+      "from": 1005.759,
+      "to": 1007.659,
+      "sid": 413,
+      "location": 2,
+      "content": "他们的家庭成员也是不可以的",
+      "music": 0.0
+    },
+    {
+      "from": 1007.659,
+      "to": 1008.299,
+      "sid": 414,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 1008.299,
+      "to": 1010.8,
+      "sid": 415,
+      "location": 2,
+      "content": "那如果是非美国的分析师呢",
+      "music": 0.0
+    },
+    {
+      "from": 1010.8,
+      "to": 1013.36,
+      "sid": 416,
+      "location": 2,
+      "content": "他们在这些方面的规则上面会有什么不一样吗",
+      "music": 0.0
+    },
+    {
+      "from": 1013.36,
+      "to": 1016.45,
+      "sid": 417,
+      "location": 2,
+      "content": "非美国的分析师可能不是高盛",
+      "music": 0.0
+    },
+    {
+      "from": 1018.589,
+      "to": 1021.749,
+      "sid": 418,
+      "location": 2,
+      "content": "所以他们可能不会受到FINRA的",
+      "music": 0.0
+    },
+    {
+      "from": 1021.749,
+      "to": 1024.57,
+      "sid": 419,
+      "location": 2,
+      "content": "R241规则和R242规则的限制",
+      "music": 0.0
+    },
+    {
+      "from": 1024.57,
+      "to": 1026.91,
+      "sid": 420,
+      "location": 2,
+      "content": "比如说他们在跟上市公司沟通",
+      "music": 0.0
+    },
+    {
+      "from": 1026.91,
+      "to": 1029.63,
+      "sid": 421,
+      "location": 2,
+      "content": "或者是说公开露面以及交易方面",
+      "music": 0.0
+    },
+    {
+      "from": 1029.63,
+      "to": 1031.39,
+      "sid": 422,
+      "location": 2,
+      "content": "可能会有一些不一样的规则",
+      "music": 0.0
+    },
+    {
+      "from": 1031.39,
+      "to": 1035.619,
+      "sid": 423,
+      "location": 2,
+      "content": "OK那其他国家和地区对于这个研究报告的披露",
+      "music": 0.0
+    },
+    {
+      "from": 1035.619,
+      "to": 1036.999,
+      "sid": 424,
+      "location": 2,
+      "content": "还有什么特别的要求吗",
+      "music": 0.0
+    },
+    {
+      "from": 1036.999,
+      "to": 1038.439,
+      "sid": 425,
+      "location": 2,
+      "content": "比如说在澳大利亚的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1038.439,
+      "to": 1042.619,
+      "sid": 426,
+      "location": 2,
+      "content": "高盛是不可以向零售客户发送这个研究报告的",
+      "music": 0.0
+    },
+    {
+      "from": 1042.619,
+      "to": 1044.31,
+      "sid": 427,
+      "location": 2,
+      "content": "除非他们特别的同意",
+      "music": 0.0
+    },
+    {
+      "from": 1044.31,
+      "to": 1047.79,
+      "sid": 428,
+      "location": 2,
+      "content": "然后在巴西的话呢是要求披露哦",
+      "music": 0.0
+    },
+    {
+      "from": 1047.79,
+      "to": 1051.939,
+      "sid": 429,
+      "location": 2,
+      "content": "CV m resolution n20相关的一些信息哦",
+      "music": 0.0
+    },
+    {
+      "from": 1051.939,
+      "to": 1053.219,
+      "sid": 430,
+      "location": 2,
+      "content": "那在加拿大的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1053.219,
+      "to": 1056.639,
+      "sid": 431,
+      "location": 2,
+      "content": "是不可以直接向加拿大的居民去推销证券的",
+      "music": 0.0
+    },
+    {
+      "from": 1056.639,
+      "to": 1057.059,
+      "sid": 432,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1057.059,
+      "to": 1060.65,
+      "sid": 433,
+      "location": 2,
+      "content": "那今天我们也是梳理了一下中国房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 1060.65,
+      "to": 1062.75,
+      "sid": 434,
+      "location": 2,
+      "content": "最新的这个政策的动向",
+      "music": 0.0
+    },
+    {
+      "from": 1062.75,
+      "to": 1064.61,
+      "sid": 435,
+      "location": 2,
+      "content": "然后包括一些成交的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1064.61,
+      "to": 1065.73,
+      "sid": 436,
+      "location": 2,
+      "content": "库存的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1065.73,
+      "to": 1067.53,
+      "sid": 437,
+      "location": 2,
+      "content": "还有地产股的表现",
+      "music": 0.0
+    },
+    {
+      "from": 1067.53,
+      "to": 1070.33,
+      "sid": 438,
+      "location": 2,
+      "content": "对最后还讲了讲这些研究报告背后的",
+      "music": 0.0
+    },
+    {
+      "from": 1070.33,
+      "to": 1072.85,
+      "sid": 439,
+      "location": 2,
+      "content": "一些方法论和合规的信息",
+      "music": 0.0
+    },
+    {
+      "from": 1072.85,
+      "to": 1073.39,
+      "sid": 440,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 1073.39,
+      "to": 1075.11,
+      "sid": 441,
+      "location": 2,
+      "content": "那今天的节目咱们就到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 1075.11,
+      "to": 1076.61,
+      "sid": 442,
+      "location": 2,
+      "content": "然后感谢大家的收听",
+      "music": 0.0
+    },
+    {
+      "from": 1076.61,
+      "to": 1078.07,
+      "sid": 443,
+      "location": 2,
+      "content": "咱们下期再见吧",
+      "music": 0.0
+    },
+    {
+      "from": 1078.07,
+      "to": 1079.24,
+      "sid": 444,
+      "location": 2,
+      "content": "拜拜拜拜",
+      "music": 0.0
+    }
+  ]
+}
