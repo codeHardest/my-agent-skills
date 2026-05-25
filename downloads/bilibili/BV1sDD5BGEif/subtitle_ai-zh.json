@@ -1,0 +1,1684 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.7,
+      "sid": 1,
+      "location": 2,
+      "content": "你可能没想到",
+      "music": 0.0
+    },
+    {
+      "from": 0.7,
+      "to": 2.1,
+      "sid": 2,
+      "location": 2,
+      "content": "在当前市场环境下",
+      "music": 0.0
+    },
+    {
+      "from": 2.1,
+      "to": 4.7,
+      "sid": 3,
+      "location": 2,
+      "content": "有一组中国股票自2023年以来",
+      "music": 0.0
+    },
+    {
+      "from": 4.7,
+      "to": 6.99,
+      "sid": 4,
+      "location": 2,
+      "content": "累计回报率达到101%",
+      "music": 0.0
+    },
+    {
+      "from": 6.99,
+      "to": 10.95,
+      "sid": 5,
+      "location": 2,
+      "content": "而同期MISCI中国指数仅上涨18%",
+      "music": 0.0
+    },
+    {
+      "from": 10.95,
+      "to": 14.749,
+      "sid": 6,
+      "location": 2,
+      "content": "这83个百分点的超额收益究竟来自哪里",
+      "music": 0.0
+    },
+    {
+      "from": 14.749,
+      "to": 17.009,
+      "sid": 7,
+      "location": 2,
+      "content": "今天我们就来解读摩根士丹利",
+      "music": 0.0
+    },
+    {
+      "from": 17.009,
+      "to": 19.289,
+      "sid": 8,
+      "location": 2,
+      "content": "2026年3月发布的重磅研报",
+      "music": 0.0
+    },
+    {
+      "from": 19.289,
+      "to": 24.24,
+      "sid": 9,
+      "location": 2,
+      "content": "中国股票策略推出中国最佳商贸市第二版",
+      "music": 0.0
+    },
+    {
+      "from": 24.4,
+      "to": 26.1,
+      "sid": 10,
+      "location": 2,
+      "content": "摩根史丹利在这份研报中",
+      "music": 0.0
+    },
+    {
+      "from": 26.1,
+      "to": 27.24,
+      "sid": 11,
+      "location": 2,
+      "content": "筛选出26家",
+      "music": 0.0
+    },
+    {
+      "from": 27.24,
+      "to": 29.96,
+      "sid": 12,
+      "location": 2,
+      "content": "具有可持续竞争优势的中国上公司",
+      "music": 0.0
+    },
+    {
+      "from": 29.96,
+      "to": 32.58,
+      "sid": 13,
+      "location": 2,
+      "content": "这些公司的roe达到约17%",
+      "music": 0.0
+    },
+    {
+      "from": 32.58,
+      "to": 34.82,
+      "sid": 14,
+      "location": 2,
+      "content": "是基准指数的1.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 34.82,
+      "to": 36.58,
+      "sid": 15,
+      "location": 2,
+      "content": "夏普比率约1.2",
+      "music": 0.0
+    },
+    {
+      "from": 36.58,
+      "to": 37.94,
+      "sid": 16,
+      "location": 2,
+      "content": "远超m s sci",
+      "music": 0.0
+    },
+    {
+      "from": 37.94,
+      "to": 39.3,
+      "sid": 17,
+      "location": 2,
+      "content": "中国的0.32",
+      "music": 0.0
+    },
+    {
+      "from": 39.3,
+      "to": 40.66,
+      "sid": 18,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 40.66,
+      "to": 43.48,
+      "sid": 19,
+      "location": 2,
+      "content": "在快速变化高轮动的市场环境中",
+      "music": 0.0
+    },
+    {
+      "from": 43.48,
+      "to": 47.11,
+      "sid": 20,
+      "location": 2,
+      "content": "质量因子是过去10年重要的超额收益来源",
+      "music": 0.0
+    },
+    {
+      "from": 47.11,
+      "to": 49.82,
+      "sid": 21,
+      "location": 2,
+      "content": "这26家公司通过AI适应性",
+      "music": 0.0
+    },
+    {
+      "from": 49.82,
+      "to": 52.58,
+      "sid": 22,
+      "location": 2,
+      "content": "全球主题对齐和主动行业配置",
+      "music": 0.0
+    },
+    {
+      "from": 52.58,
+      "to": 56.69,
+      "sid": 23,
+      "location": 2,
+      "content": "有望在中期持续产生可持续的阿尔法收益",
+      "music": 0.0
+    },
+    {
+      "from": 56.69,
+      "to": 59.85,
+      "sid": 24,
+      "location": 2,
+      "content": "首先我们来看摩根士丹利的选股框架升级",
+      "music": 0.0
+    },
+    {
+      "from": 59.85,
+      "to": 60.95,
+      "sid": 25,
+      "location": 2,
+      "content": "摩根士丹利指出",
+      "music": 0.0
+    },
+    {
+      "from": 60.95,
+      "to": 62.77,
+      "sid": 26,
+      "location": 2,
+      "content": "中国最佳商业模式第二版",
+      "music": 0.0
+    },
+    {
+      "from": 62.77,
+      "to": 66.01,
+      "sid": 27,
+      "location": 2,
+      "content": "在原有框架基础上引入了三大新维度",
+      "music": 0.0
+    },
+    {
+      "from": 66.01,
+      "to": 68.88,
+      "sid": 28,
+      "location": 2,
+      "content": "一是AI敞口作为关键选股视角",
+      "music": 0.0
+    },
+    {
+      "from": 68.88,
+      "to": 70.96,
+      "sid": 29,
+      "location": 2,
+      "content": "将公司分为AI赋能者",
+      "music": 0.0
+    },
+    {
+      "from": 70.96,
+      "to": 74.03,
+      "sid": 30,
+      "location": 2,
+      "content": "AI采用者和受AI影响有限的公司",
+      "music": 0.0
+    },
+    {
+      "from": 74.03,
+      "to": 77.37,
+      "sid": 31,
+      "location": 2,
+      "content": "排除面临AI结构性颠覆不确定性的企业",
+      "music": 0.0
+    },
+    {
+      "from": 77.37,
+      "to": 80.17,
+      "sid": 32,
+      "location": 2,
+      "content": "AI赋能者是指提供AI发展所需",
+      "music": 0.0
+    },
+    {
+      "from": 80.17,
+      "to": 82.03,
+      "sid": 33,
+      "location": 2,
+      "content": "基础设施和工具的公司",
+      "music": 0.0
+    },
+    {
+      "from": 82.03,
+      "to": 84.03,
+      "sid": 34,
+      "location": 2,
+      "content": "AI采用者则是利用AI",
+      "music": 0.0
+    },
+    {
+      "from": 84.03,
+      "to": 86.1,
+      "sid": 35,
+      "location": 2,
+      "content": "提升生产率和利润率的公司",
+      "music": 0.0
+    },
+    {
+      "from": 86.1,
+      "to": 88.04,
+      "sid": 36,
+      "location": 2,
+      "content": "受AI影响有限的公司",
+      "music": 0.0
+    },
+    {
+      "from": 88.04,
+      "to": 91.83,
+      "sid": 37,
+      "location": 2,
+      "content": "通常拥有实物资产支持或主要开展线下业务",
+      "music": 0.0
+    },
+    {
+      "from": 91.83,
+      "to": 93.95,
+      "sid": 38,
+      "location": 2,
+      "content": "结构上不容易被AI颠覆",
+      "music": 0.0
+    },
+    {
+      "from": 93.95,
+      "to": 97.02,
+      "sid": 39,
+      "location": 2,
+      "content": "二是与摩根士丹利四大全球主题对齐",
+      "music": 0.0
+    },
+    {
+      "from": 97.02,
+      "to": 98.38,
+      "sid": 40,
+      "location": 2,
+      "content": "包括AI与技术",
+      "music": 0.0
+    },
+    {
+      "from": 98.38,
+      "to": 101.889,
+      "sid": 41,
+      "location": 2,
+      "content": "扩散能源未来多极世界和社会变迁",
+      "music": 0.0
+    },
+    {
+      "from": 101.889,
+      "to": 103.769,
+      "sid": 42,
+      "location": 2,
+      "content": "AI与技术扩散主题下",
+      "music": 0.0
+    },
+    {
+      "from": 103.769,
+      "to": 106.929,
+      "sid": 43,
+      "location": 2,
+      "content": "AI正从科技领域向更多行业扩散",
+      "music": 0.0
+    },
+    {
+      "from": 106.929,
+      "to": 109.08,
+      "sid": 44,
+      "location": 2,
+      "content": "为采用者创造新机会",
+      "music": 0.0
+    },
+    {
+      "from": 109.08,
+      "to": 111.14,
+      "sid": 45,
+      "location": 2,
+      "content": "赋能者也能持续受益",
+      "music": 0.0
+    },
+    {
+      "from": 111.14,
+      "to": 113.5,
+      "sid": 46,
+      "location": 2,
+      "content": "能源未来主题聚焦能源安全",
+      "music": 0.0
+    },
+    {
+      "from": 113.5,
+      "to": 117.6,
+      "sid": 47,
+      "location": 2,
+      "content": "AI突破性技术和电气化对全球能源供需的重塑",
+      "music": 0.0
+    },
+    {
+      "from": 117.6,
+      "to": 120.62,
+      "sid": 48,
+      "location": 2,
+      "content": "多极世界主题关注贸易紧张背景下",
+      "music": 0.0
+    },
+    {
+      "from": 120.62,
+      "to": 122.84,
+      "sid": 49,
+      "location": 2,
+      "content": "多极世界的复杂性和跨政治",
+      "music": 0.0
+    },
+    {
+      "from": 122.84,
+      "to": 124.43,
+      "sid": 50,
+      "location": 2,
+      "content": "经济中心的商业动态",
+      "music": 0.0
+    },
+    {
+      "from": 124.43,
+      "to": 127.31,
+      "sid": 51,
+      "location": 2,
+      "content": "社会变迁主题则围绕AI驱动的劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 127.31,
+      "to": 127.89,
+      "sid": 52,
+      "location": 2,
+      "content": "颠覆",
+      "music": 0.0
+    },
+    {
+      "from": 130.78,
+      "to": 133.25,
+      "sid": 53,
+      "location": 2,
+      "content": "三是更主动的行业配置策略",
+      "music": 0.0
+    },
+    {
+      "from": 133.25,
+      "to": 134.51,
+      "sid": 54,
+      "location": 2,
+      "content": "摩根士丹利强调",
+      "music": 0.0
+    },
+    {
+      "from": 134.51,
+      "to": 135.91,
+      "sid": 55,
+      "location": 2,
+      "content": "长期增长轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 135.91,
+      "to": 138.01,
+      "sid": 56,
+      "location": 2,
+      "content": "政策支持和战略相关性",
+      "music": 0.0
+    },
+    {
+      "from": 138.01,
+      "to": 140.14,
+      "sid": 57,
+      "location": 2,
+      "content": "不再严格锚定基准权重",
+      "music": 0.0
+    },
+    {
+      "from": 144.7,
+      "to": 147.57,
+      "sid": 58,
+      "location": 2,
+      "content": "其次是行业配置的重大调整",
+      "music": 0.0
+    },
+    {
+      "from": 147.57,
+      "to": 148.93,
+      "sid": 59,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 148.93,
+      "to": 149.91,
+      "sid": 60,
+      "location": 2,
+      "content": "信息科技",
+      "music": 0.0
+    },
+    {
+      "from": 149.91,
+      "to": 150.97,
+      "sid": 61,
+      "location": 2,
+      "content": "材料和工业",
+      "music": 0.0
+    },
+    {
+      "from": 150.97,
+      "to": 155.19,
+      "sid": 62,
+      "location": 2,
+      "content": "是当前中国股市结构性增长的三大核心板块",
+      "music": 0.0
+    },
+    {
+      "from": 155.19,
+      "to": 156.25,
+      "sid": 63,
+      "location": 2,
+      "content": "研报显示",
+      "music": 0.0
+    },
+    {
+      "from": 156.25,
+      "to": 159.71,
+      "sid": 64,
+      "location": 2,
+      "content": "信息科技在MSCI中国全职中的权重",
+      "music": 0.0
+    },
+    {
+      "from": 159.71,
+      "to": 161.9,
+      "sid": 65,
+      "location": 2,
+      "content": "从2020年1月的7%",
+      "music": 0.0
+    },
+    {
+      "from": 161.9,
+      "to": 164.649,
+      "sid": 66,
+      "location": 2,
+      "content": "上升至2026年2月的14%",
+      "music": 0.0
+    },
+    {
+      "from": 164.649,
+      "to": 167.509,
+      "sid": 67,
+      "location": 2,
+      "content": "材料板块从4%升至9%",
+      "music": 0.0
+    },
+    {
+      "from": 167.509,
+      "to": 170.28,
+      "sid": 68,
+      "location": 2,
+      "content": "工业板块从8%升至9%",
+      "music": 0.0
+    },
+    {
+      "from": 174.24,
+      "to": 177.36,
+      "sid": 69,
+      "location": 2,
+      "content": "高端制造和自给自足战略高度契合",
+      "music": 0.0
+    },
+    {
+      "from": 177.36,
+      "to": 180.32,
+      "sid": 70,
+      "location": 2,
+      "content": "因此中国最佳商业模式第二版",
+      "music": 0.0
+    },
+    {
+      "from": 180.32,
+      "to": 184.17,
+      "sid": 71,
+      "location": 2,
+      "content": "在这些板块的超配比例显著高于基准指数",
+      "music": 0.0
+    },
+    {
+      "from": 184.17,
+      "to": 185.27,
+      "sid": 72,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 185.27,
+      "to": 186.09,
+      "sid": 73,
+      "location": 2,
+      "content": "房地产",
+      "music": 0.0
+    },
+    {
+      "from": 186.09,
+      "to": 186.69,
+      "sid": 74,
+      "location": 2,
+      "content": "金融",
+      "music": 0.0
+    },
+    {
+      "from": 186.69,
+      "to": 187.13,
+      "sid": 75,
+      "location": 2,
+      "content": "必需",
+      "music": 0.0
+    },
+    {
+      "from": 187.13,
+      "to": 188.65,
+      "sid": 76,
+      "location": 2,
+      "content": "消费品和通信服务",
+      "music": 0.0
+    },
+    {
+      "from": 188.65,
+      "to": 191.92,
+      "sid": 77,
+      "location": 2,
+      "content": "等板块的权重下降了2~4个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 191.92,
+      "to": 195.62,
+      "sid": 78,
+      "location": 2,
+      "content": "此外我们来了解26家入选公司的核心特征",
+      "music": 0.0
+    },
+    {
+      "from": 195.62,
+      "to": 197.7,
+      "sid": 79,
+      "location": 2,
+      "content": "摩根士丹利筛选出26家公司",
+      "music": 0.0
+    },
+    {
+      "from": 197.7,
+      "to": 199.25,
+      "sid": 80,
+      "location": 2,
+      "content": "覆盖16个行业组",
+      "music": 0.0
+    },
+    {
+      "from": 199.25,
+      "to": 201.089,
+      "sid": 81,
+      "location": 2,
+      "content": "其中包括腾讯控股",
+      "music": 0.0
+    },
+    {
+      "from": 201.089,
+      "to": 202.809,
+      "sid": 82,
+      "location": 2,
+      "content": "目标价650港元",
+      "music": 0.0
+    },
+    {
+      "from": 202.809,
+      "to": 204.849,
+      "sid": 83,
+      "location": 2,
+      "content": "潜在涨幅31.2%",
+      "music": 0.0
+    },
+    {
+      "from": 204.849,
+      "to": 207.409,
+      "sid": 84,
+      "location": 2,
+      "content": "阿里巴巴目标价180美元",
+      "music": 0.0
+    },
+    {
+      "from": 207.409,
+      "to": 209.579,
+      "sid": 85,
+      "location": 2,
+      "content": "潜在涨幅43.5%",
+      "music": 0.0
+    },
+    {
+      "from": 209.579,
+      "to": 212.379,
+      "sid": 86,
+      "location": 2,
+      "content": "宁德时代目标价530元人民币",
+      "music": 0.0
+    },
+    {
+      "from": 212.379,
+      "to": 214.6,
+      "sid": 87,
+      "location": 2,
+      "content": "潜在涨幅31.7%",
+      "music": 0.0
+    },
+    {
+      "from": 214.6,
+      "to": 217.3,
+      "sid": 88,
+      "location": 2,
+      "content": "中国平安目标价95港元",
+      "music": 0.0
+    },
+    {
+      "from": 217.3,
+      "to": 219.55,
+      "sid": 89,
+      "location": 2,
+      "content": "潜在涨幅63.4%",
+      "music": 0.0
+    },
+    {
+      "from": 219.55,
+      "to": 222.19,
+      "sid": 90,
+      "location": 2,
+      "content": "紫金矿业目标价59港元",
+      "music": 0.0
+    },
+    {
+      "from": 222.19,
+      "to": 224.39,
+      "sid": 91,
+      "location": 2,
+      "content": "潜在涨幅74.1%",
+      "music": 0.0
+    },
+    {
+      "from": 224.39,
+      "to": 227.37,
+      "sid": 92,
+      "location": 2,
+      "content": "北方华创目标价550元人民币",
+      "music": 0.0
+    },
+    {
+      "from": 227.37,
+      "to": 229.51,
+      "sid": 93,
+      "location": 2,
+      "content": "潜在涨幅23.3%",
+      "music": 0.0
+    },
+    {
+      "from": 229.51,
+      "to": 232.43,
+      "sid": 94,
+      "location": 2,
+      "content": "立讯精密目标价77元人民币",
+      "music": 0.0
+    },
+    {
+      "from": 232.43,
+      "to": 234.72,
+      "sid": 95,
+      "location": 2,
+      "content": "潜在涨幅53.4%",
+      "music": 0.0
+    },
+    {
+      "from": 234.72,
+      "to": 237.78,
+      "sid": 96,
+      "location": 2,
+      "content": "附图控股目标价246美元",
+      "music": 0.0
+    },
+    {
+      "from": 237.78,
+      "to": 240.04,
+      "sid": 97,
+      "location": 2,
+      "content": "潜在涨幅80.4%等",
+      "music": 0.0
+    },
+    {
+      "from": 243.46,
+      "to": 246.9,
+      "sid": 98,
+      "location": 2,
+      "content": "平均较摩根士丹利目标价有37.9%",
+      "music": 0.0
+    },
+    {
+      "from": 246.9,
+      "to": 247.96,
+      "sid": 99,
+      "location": 2,
+      "content": "的上涨空间",
+      "music": 0.0
+    },
+    {
+      "from": 247.96,
+      "to": 251.06,
+      "sid": 100,
+      "location": 2,
+      "content": "中位数潜在涨幅为36.7%",
+      "music": 0.0
+    },
+    {
+      "from": 251.06,
+      "to": 252.42,
+      "sid": 101,
+      "location": 2,
+      "content": "并且摩根士丹利",
+      "music": 0.0
+    },
+    {
+      "from": 252.42,
+      "to": 255.34,
+      "sid": 102,
+      "location": 2,
+      "content": "对其中24家公司给出超配评级",
+      "music": 0.0
+    },
+    {
+      "from": 255.34,
+      "to": 257.649,
+      "sid": 103,
+      "location": 2,
+      "content": "两家给出标配评级",
+      "music": 0.0
+    },
+    {
+      "from": 257.649,
+      "to": 260.49,
+      "sid": 104,
+      "location": 2,
+      "content": "接下来是估值与盈利能力分析",
+      "music": 0.0
+    },
+    {
+      "from": 260.49,
+      "to": 261.79,
+      "sid": 105,
+      "location": 2,
+      "content": "摩根士丹利指出",
+      "music": 0.0
+    },
+    {
+      "from": 261.79,
+      "to": 263.13,
+      "sid": 106,
+      "location": 2,
+      "content": "中国最佳香模式",
+      "music": 0.0
+    },
+    {
+      "from": 263.13,
+      "to": 266.4,
+      "sid": 107,
+      "location": 2,
+      "content": "第二版组合的前瞻市盈率为14.4倍",
+      "music": 0.0
+    },
+    {
+      "from": 266.4,
+      "to": 267.64,
+      "sid": 108,
+      "location": 2,
+      "content": "叫MSCI",
+      "music": 0.0
+    },
+    {
+      "from": 267.64,
+      "to": 268.9,
+      "sid": 109,
+      "location": 2,
+      "content": "中国的10.9倍",
+      "music": 0.0
+    },
+    {
+      "from": 268.9,
+      "to": 270.289,
+      "sid": 110,
+      "location": 2,
+      "content": "溢价32%",
+      "music": 0.0
+    },
+    {
+      "from": 270.289,
+      "to": 273.709,
+      "sid": 111,
+      "location": 2,
+      "content": "这一溢价处于5年区间第六十五百分位",
+      "music": 0.0
+    },
+    {
+      "from": 273.709,
+      "to": 275.909,
+      "sid": 112,
+      "location": 2,
+      "content": "组合的市净率为2.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 275.909,
+      "to": 278.97,
+      "sid": 113,
+      "location": 2,
+      "content": "较基准的1.6倍溢价58%",
+      "music": 0.0
+    },
+    {
+      "from": 278.97,
+      "to": 281.63,
+      "sid": 114,
+      "location": 2,
+      "content": "处于5年区间第九十八百分位",
+      "music": 0.0
+    },
+    {
+      "from": 281.63,
+      "to": 282.95,
+      "sid": 115,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 282.95,
+      "to": 285.89,
+      "sid": 116,
+      "location": 2,
+      "content": "这一估值溢价由其roe优势支撑",
+      "music": 0.0
+    },
+    {
+      "from": 285.89,
+      "to": 286.47,
+      "sid": 117,
+      "location": 2,
+      "content": "组合",
+      "music": 0.0
+    },
+    {
+      "from": 286.47,
+      "to": 289.47,
+      "sid": 118,
+      "location": 2,
+      "content": "2026年预期roe为17.4%",
+      "music": 0.0
+    },
+    {
+      "from": 289.47,
+      "to": 292.73,
+      "sid": 119,
+      "location": 2,
+      "content": "2027年预期roe达到19.1%",
+      "music": 0.0
+    },
+    {
+      "from": 292.73,
+      "to": 296.59,
+      "sid": 120,
+      "location": 2,
+      "content": "显著高于MSCI中国的11.2%",
+      "music": 0.0
+    },
+    {
+      "from": 296.59,
+      "to": 298.67,
+      "sid": 121,
+      "location": 2,
+      "content": "然后我们来看历史回测表现",
+      "music": 0.0
+    },
+    {
+      "from": 298.67,
+      "to": 300.33,
+      "sid": 122,
+      "location": 2,
+      "content": "摩根士丹利回测显示",
+      "music": 0.0
+    },
+    {
+      "from": 300.33,
+      "to": 303.15,
+      "sid": 123,
+      "location": 2,
+      "content": "自2023年2月至2026年3月",
+      "music": 0.0
+    },
+    {
+      "from": 303.15,
+      "to": 304.73,
+      "sid": 124,
+      "location": 2,
+      "content": "这组股票等权组合",
+      "music": 0.0
+    },
+    {
+      "from": 304.73,
+      "to": 307.21,
+      "sid": 125,
+      "location": 2,
+      "content": "累计回报率达101%",
+      "music": 0.0
+    },
+    {
+      "from": 307.21,
+      "to": 310.669,
+      "sid": 126,
+      "location": 2,
+      "content": "而MSCI中国指数仅上涨18%",
+      "music": 0.0
+    },
+    {
+      "from": 310.669,
+      "to": 312.509,
+      "sid": 127,
+      "location": 2,
+      "content": "在风险调整收益方面",
+      "music": 0.0
+    },
+    {
+      "from": 312.509,
+      "to": 313.629,
+      "sid": 128,
+      "location": 2,
+      "content": "组合的一年期",
+      "music": 0.0
+    },
+    {
+      "from": 313.629,
+      "to": 316.829,
+      "sid": 129,
+      "location": 2,
+      "content": "3年期和5年期夏普比率分别为2.51",
+      "music": 0.0
+    },
+    {
+      "from": 316.829,
+      "to": 318.72,
+      "sid": 130,
+      "location": 2,
+      "content": "1.16和0.53",
+      "music": 0.0
+    },
+    {
+      "from": 318.72,
+      "to": 320.9,
+      "sid": 131,
+      "location": 2,
+      "content": "远超基准的-0.05",
+      "music": 0.0
+    },
+    {
+      "from": 320.9,
+      "to": 322.99,
+      "sid": 132,
+      "location": 2,
+      "content": "0.32和-0.24",
+      "music": 0.0
+    },
+    {
+      "from": 322.99,
+      "to": 324.29,
+      "sid": 133,
+      "location": 2,
+      "content": "摩根士丹利强调",
+      "music": 0.0
+    },
+    {
+      "from": 324.29,
+      "to": 327.45,
+      "sid": 134,
+      "location": 2,
+      "content": "尽管近期组合出现约8.5%的回撤",
+      "music": 0.0
+    },
+    {
+      "from": 327.45,
+      "to": 331.08,
+      "sid": 135,
+      "location": 2,
+      "content": "相对m s sci中国指数落后约1.5个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 331.08,
+      "to": 334.46,
+      "sid": 136,
+      "location": 2,
+      "content": "但这主要源于宏观避险情绪和地缘政治风险",
+      "music": 0.0
+    },
+    {
+      "from": 334.46,
+      "to": 335.98,
+      "sid": 137,
+      "location": 2,
+      "content": "而非基本面恶化",
+      "music": 0.0
+    },
+    {
+      "from": 335.98,
+      "to": 338.28,
+      "sid": 138,
+      "location": 2,
+      "content": "因此被视为暂时性疲软",
+      "music": 0.0
+    },
+    {
+      "from": 338.28,
+      "to": 341.04,
+      "sid": 139,
+      "location": 2,
+      "content": "摩根士丹利对选股框架依然保持信心",
+      "music": 0.0
+    },
+    {
+      "from": 342.12,
+      "to": 344.23,
+      "sid": 140,
+      "location": 2,
+      "content": "再来看方法论的核心逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 344.23,
+      "to": 346.87,
+      "sid": 141,
+      "location": 2,
+      "content": "摩根士丹利采用两阶段筛选流程",
+      "music": 0.0
+    },
+    {
+      "from": 346.87,
+      "to": 348.79,
+      "sid": 142,
+      "location": 2,
+      "content": "第一阶段聚焦质量指标",
+      "music": 0.0
+    },
+    {
+      "from": 348.79,
+      "to": 350.35,
+      "sid": 143,
+      "location": 2,
+      "content": "包括盈利能力",
+      "music": 0.0
+    },
+    {
+      "from": 350.35,
+      "to": 353.75,
+      "sid": 144,
+      "location": 2,
+      "content": "其中净经营资产回报率及其5年Z分数",
+      "music": 0.0
+    },
+    {
+      "from": 353.75,
+      "to": 355.13,
+      "sid": 145,
+      "location": 2,
+      "content": "权重50%",
+      "music": 0.0
+    },
+    {
+      "from": 355.13,
+      "to": 357.64,
+      "sid": 146,
+      "location": 2,
+      "content": "总应计项目权重15%",
+      "music": 0.0
+    },
+    {
+      "from": 357.64,
+      "to": 358.92,
+      "sid": 147,
+      "location": 2,
+      "content": "资本使用效率",
+      "music": 0.0
+    },
+    {
+      "from": 358.92,
+      "to": 361.74,
+      "sid": 148,
+      "location": 2,
+      "content": "资本支出与折旧比权重15%",
+      "music": 0.0
+    },
+    {
+      "from": 361.74,
+      "to": 362.8,
+      "sid": 149,
+      "location": 2,
+      "content": "风险指标",
+      "music": 0.0
+    },
+    {
+      "from": 362.8,
+      "to": 366.789,
+      "sid": 150,
+      "location": 2,
+      "content": "5年净债务与资产比率标准差权重20%",
+      "music": 0.0
+    },
+    {
+      "from": 366.789,
+      "to": 368.95,
+      "sid": 151,
+      "location": 2,
+      "content": "第二阶段引入估值维度",
+      "music": 0.0
+    },
+    {
+      "from": 368.95,
+      "to": 370.75,
+      "sid": 152,
+      "location": 2,
+      "content": "包括深度价值指标",
+      "music": 0.0
+    },
+    {
+      "from": 370.75,
+      "to": 371.65,
+      "sid": 153,
+      "location": 2,
+      "content": "市净率",
+      "music": 0.0
+    },
+    {
+      "from": 371.65,
+      "to": 372.97,
+      "sid": 154,
+      "location": 2,
+      "content": "现金市值比",
+      "music": 0.0
+    },
+    {
+      "from": 372.97,
+      "to": 373.83,
+      "sid": 155,
+      "location": 2,
+      "content": "企业价值",
+      "music": 0.0
+    },
+    {
+      "from": 373.83,
+      "to": 375.57,
+      "sid": 156,
+      "location": 2,
+      "content": "销售比权重60%",
+      "music": 0.0
+    },
+    {
+      "from": 375.57,
+      "to": 377.049,
+      "sid": 157,
+      "location": 2,
+      "content": "当前价值指标",
+      "music": 0.0
+    },
+    {
+      "from": 377.049,
+      "to": 378.929,
+      "sid": 158,
+      "location": 2,
+      "content": "企业价值EBITDA",
+      "music": 0.0
+    },
+    {
+      "from": 378.929,
+      "to": 382.37,
+      "sid": 159,
+      "location": 2,
+      "content": "比自由现金流收益率权重40%",
+      "music": 0.0
+    },
+    {
+      "from": 382.61,
+      "to": 385.39,
+      "sid": 160,
+      "location": 2,
+      "content": "摩根士丹利还对第一版方法论进行了反思",
+      "music": 0.0
+    },
+    {
+      "from": 385.39,
+      "to": 388.41,
+      "sid": 161,
+      "location": 2,
+      "content": "摩根士丹利承认中国最佳商业模式",
+      "music": 0.0
+    },
+    {
+      "from": 388.41,
+      "to": 391.54,
+      "sid": 162,
+      "location": 2,
+      "content": "第一版自2023年2月至2026年3月",
+      "music": 0.0
+    },
+    {
+      "from": 391.54,
+      "to": 393.24,
+      "sid": 163,
+      "location": 2,
+      "content": "累计回报9.3%",
+      "music": 0.0
+    },
+    {
+      "from": 393.24,
+      "to": 396.53,
+      "sid": 164,
+      "location": 2,
+      "content": "同期MSCI中国上涨16.1%",
+      "music": 0.0
+    },
+    {
+      "from": 396.53,
+      "to": 398.59,
+      "sid": 165,
+      "location": 2,
+      "content": "落后基准约七个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 398.59,
+      "to": 401.88,
+      "sid": 166,
+      "location": 2,
+      "content": "主要原因在于对消费相关板块敞口过高",
+      "music": 0.0
+    },
+    {
+      "from": 401.88,
+      "to": 404.08,
+      "sid": 167,
+      "location": 2,
+      "content": "占组合权重约32%",
+      "music": 0.0
+    },
+    {
+      "from": 404.08,
+      "to": 406.65,
+      "sid": 168,
+      "location": 2,
+      "content": "在长期通缩环境下表现滞后",
+      "music": 0.0
+    },
+    {
+      "from": 406.65,
+      "to": 409.29,
+      "sid": 169,
+      "location": 2,
+      "content": "同时对科技相关板块敞口有限",
+      "music": 0.0
+    },
+    {
+      "from": 409.29,
+      "to": 410.99,
+      "sid": 170,
+      "location": 2,
+      "content": "错过了2025年1月",
+      "music": 0.0
+    },
+    {
+      "from": 410.99,
+      "to": 414.31,
+      "sid": 171,
+      "location": 2,
+      "content": "deep six时刻后的AI相关股票强劲上涨",
+      "music": 0.0
+    },
+    {
+      "from": 414.31,
+      "to": 416.71,
+      "sid": 172,
+      "location": 2,
+      "content": "因此在第二版中进行了改进",
+      "music": 0.0
+    },
+    {
+      "from": 416.71,
+      "to": 418.77,
+      "sid": 173,
+      "location": 2,
+      "content": "采用更主动的行业配置",
+      "music": 0.0
+    },
+    {
+      "from": 418.77,
+      "to": 421.29,
+      "sid": 174,
+      "location": 2,
+      "content": "更明确纳入AI发展的投资影响",
+      "music": 0.0
+    },
+    {
+      "from": 421.29,
+      "to": 424.84,
+      "sid": 175,
+      "location": 2,
+      "content": "强调具有更强盈利增长可见性的板块",
+      "music": 0.0
+    },
+    {
+      "from": 424.84,
+      "to": 426.56,
+      "sid": 176,
+      "location": 2,
+      "content": "最后我们来总结一下",
+      "music": 0.0
+    },
+    {
+      "from": 426.56,
+      "to": 429.179,
+      "sid": 177,
+      "location": 2,
+      "content": "这份研报的核心内容和投资启示",
+      "music": 0.0
+    },
+    {
+      "from": 429.179,
+      "to": 432.199,
+      "sid": 178,
+      "location": 2,
+      "content": "摩根士丹利的中国最佳商业模式第二版",
+      "music": 0.0
+    },
+    {
+      "from": 432.199,
+      "to": 434.099,
+      "sid": 179,
+      "location": 2,
+      "content": "通过系统性的质量筛选",
+      "music": 0.0
+    },
+    {
+      "from": 434.099,
+      "to": 434.859,
+      "sid": 180,
+      "location": 2,
+      "content": "AI敞口",
+      "music": 0.0
+    },
+    {
+      "from": 434.859,
+      "to": 438.36,
+      "sid": 181,
+      "location": 2,
+      "content": "评估全球主题对齐和主动行业配置",
+      "music": 0.0
+    },
+    {
+      "from": 438.36,
+      "to": 439.76,
+      "sid": 182,
+      "location": 2,
+      "content": "识别出26家",
+      "music": 0.0
+    },
+    {
+      "from": 439.76,
+      "to": 443.02,
+      "sid": 183,
+      "location": 2,
+      "content": "具有可持续竞争优势的中国优质企业",
+      "music": 0.0
+    },
+    {
+      "from": 443.02,
+      "to": 445.08,
+      "sid": 184,
+      "location": 2,
+      "content": "这些公司在盈利能力",
+      "music": 0.0
+    },
+    {
+      "from": 445.08,
+      "to": 447.8,
+      "sid": 185,
+      "location": 2,
+      "content": "估值吸引力和风险调整收益方面",
+      "music": 0.0
+    },
+    {
+      "from": 447.8,
+      "to": 450.03,
+      "sid": 186,
+      "location": 2,
+      "content": "均显著优于基准指数",
+      "music": 0.0
+    },
+    {
+      "from": 450.03,
+      "to": 452.75,
+      "sid": 187,
+      "location": 2,
+      "content": "展现出穿越周期的韧性",
+      "music": 0.0
+    },
+    {
+      "from": 452.99,
+      "to": 454.31,
+      "sid": 188,
+      "location": 2,
+      "content": "摩根史丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 454.31,
+      "to": 456.05,
+      "sid": 189,
+      "location": 2,
+      "content": "在当前市场环境下",
+      "music": 0.0
+    },
+    {
+      "from": 456.05,
+      "to": 458.54,
+      "sid": 190,
+      "location": 2,
+      "content": "投资者应关注三个核心维度",
+      "music": 0.0
+    },
+    {
+      "from": 458.54,
+      "to": 462.23,
+      "sid": 191,
+      "location": 2,
+      "content": "一是企业的AI适应性和技术转型能力",
+      "music": 0.0
+    },
+    {
+      "from": 462.23,
+      "to": 464.85,
+      "sid": 192,
+      "location": 2,
+      "content": "要看公司是属于AI赋能者",
+      "music": 0.0
+    },
+    {
+      "from": 464.85,
+      "to": 468.28,
+      "sid": 193,
+      "location": 2,
+      "content": "AI采用者还是受AI影响有限的公司",
+      "music": 0.0
+    },
+    {
+      "from": 468.28,
+      "to": 472.32,
+      "sid": 194,
+      "location": 2,
+      "content": "尽量避开面临AI结构性颠覆不确定性的企业",
+      "music": 0.0
+    },
+    {
+      "from": 476.82,
+      "to": 478.22,
+      "sid": 195,
+      "location": 2,
+      "content": "像信息科技",
+      "music": 0.0
+    },
+    {
+      "from": 478.22,
+      "to": 480.96,
+      "sid": 196,
+      "location": 2,
+      "content": "材料和工业这些符合硬核科技",
+      "music": 0.0
+    },
+    {
+      "from": 480.96,
+      "to": 484.929,
+      "sid": 197,
+      "location": 2,
+      "content": "高端制造和自给自足战略的板块值得重点关注",
+      "music": 0.0
+    },
+    {
+      "from": 484.929,
+      "to": 489.549,
+      "sid": 198,
+      "location": 2,
+      "content": "三是公司的LE和估值是否具备持续性优势",
+      "music": 0.0
+    },
+    {
+      "from": 489.549,
+      "to": 491.38,
+      "sid": 199,
+      "location": 2,
+      "content": "要选择roe较高",
+      "music": 0.0
+    },
+    {
+      "from": 491.38,
+      "to": 494.6,
+      "sid": 200,
+      "location": 2,
+      "content": "估值相对合理且有溢价支撑的公司",
+      "music": 0.0
+    },
+    {
+      "from": 494.6,
+      "to": 496.56,
+      "sid": 201,
+      "location": 2,
+      "content": "摩根士丹利同时提示",
+      "music": 0.0
+    },
+    {
+      "from": 496.56,
+      "to": 499.88,
+      "sid": 202,
+      "location": 2,
+      "content": "近期地缘政治风险可能带来短期波动",
+      "music": 0.0
+    },
+    {
+      "from": 499.88,
+      "to": 502.42,
+      "sid": 203,
+      "location": 2,
+      "content": "投资者需保持谨慎",
+      "music": 0.0
+    },
+    {
+      "from": 502.62,
+      "to": 503.9,
+      "sid": 204,
+      "location": 2,
+      "content": "需要注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 503.9,
+      "to": 507.46,
+      "sid": 205,
+      "location": 2,
+      "content": "本播客内容仅基于摩根士丹利研报进行解读",
+      "music": 0.0
+    },
+    {
+      "from": 507.46,
+      "to": 509.26,
+      "sid": 206,
+      "location": 2,
+      "content": "不构成任何投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 509.26,
+      "to": 511.74,
+      "sid": 207,
+      "location": 2,
+      "content": "研报观点仅代表机构研究立场",
+      "music": 0.0
+    },
+    {
+      "from": 511.74,
+      "to": 512.7,
+      "sid": 208,
+      "location": 2,
+      "content": "市场有风险",
+      "music": 0.0
+    },
+    {
+      "from": 512.7,
+      "to": 513.799,
+      "sid": 209,
+      "location": 2,
+      "content": "投资需谨慎",
+      "music": 0.0
+    }
+  ]
+}

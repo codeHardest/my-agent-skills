@@ -221,6 +221,13 @@
 | | 花旗：铝正在迎接50年来最强势格局 | [summary.md](downloads/bilibili/BV1JzLC68Exr/summary.md) |
 
 
+### 2026-05-22
+
+| 发布者 | 标题 | 链接 |
+|--------|------|------|
+| | 大摩：中国最佳商业模式，26家公司名单 | [summary.md](downloads/bilibili/BV1sDD5BGEif/summary.md) |
+
+
 ---
 
-*最后更新: 2026-05-21*
+*最后更新: 2026-05-22*
