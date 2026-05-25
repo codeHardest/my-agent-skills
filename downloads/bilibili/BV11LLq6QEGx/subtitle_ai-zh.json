@@ -1,0 +1,3516 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.58,
+      "sid": 1,
+      "location": 2,
+      "content": "随着4月底A股5000多家上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 2.58,
+      "to": 4.8,
+      "sid": 2,
+      "location": 2,
+      "content": "2025年年报和2026年一季报",
+      "music": 0.0
+    },
+    {
+      "from": 4.8,
+      "to": 5.68,
+      "sid": 3,
+      "location": 2,
+      "content": "的披露结束",
+      "music": 0.0
+    },
+    {
+      "from": 5.68,
+      "to": 7.32,
+      "sid": 4,
+      "location": 2,
+      "content": "从去年到今年前三个月",
+      "music": 0.0
+    },
+    {
+      "from": 7.32,
+      "to": 10.73,
+      "sid": 5,
+      "location": 2,
+      "content": "我国各行各业真实的经营情况逐渐的浮出水面",
+      "music": 0.0
+    },
+    {
+      "from": 10.73,
+      "to": 13.01,
+      "sid": 6,
+      "location": 2,
+      "content": "今年也是我连续制作中国行业",
+      "music": 0.0
+    },
+    {
+      "from": 13.01,
+      "to": 14.91,
+      "sid": 7,
+      "location": 2,
+      "content": "盈利和衰落榜单的第3年",
+      "music": 0.0
+    },
+    {
+      "from": 14.91,
+      "to": 17.25,
+      "sid": 8,
+      "location": 2,
+      "content": "而今年的上榜行业相比前两年呢",
+      "music": 0.0
+    },
+    {
+      "from": 17.25,
+      "to": 18.49,
+      "sid": 9,
+      "location": 2,
+      "content": "出现了很大的变化",
+      "music": 0.0
+    },
+    {
+      "from": 18.49,
+      "to": 19.81,
+      "sid": 10,
+      "location": 2,
+      "content": "如果说过去几年",
+      "music": 0.0
+    },
+    {
+      "from": 19.81,
+      "to": 22.29,
+      "sid": 11,
+      "location": 2,
+      "content": "我国行业的盈利情况是二八分化的话",
+      "music": 0.0
+    },
+    {
+      "from": 22.29,
+      "to": 23.47,
+      "sid": 12,
+      "location": 2,
+      "content": "那从去年开始",
+      "music": 0.0
+    },
+    {
+      "from": 23.47,
+      "to": 25.1,
+      "sid": 13,
+      "location": 2,
+      "content": "尤其是进入今年一季度后",
+      "music": 0.0
+    },
+    {
+      "from": 25.1,
+      "to": 27.1,
+      "sid": 14,
+      "location": 2,
+      "content": "二八分化更是极端的演绎",
+      "music": 0.0
+    },
+    {
+      "from": 27.1,
+      "to": 28.16,
+      "sid": 15,
+      "location": 2,
+      "content": "为了一九分化",
+      "music": 0.0
+    },
+    {
+      "from": 28.16,
+      "to": 29.02,
+      "sid": 16,
+      "location": 2,
+      "content": "那按照惯例呢",
+      "music": 0.0
+    },
+    {
+      "from": 29.02,
+      "to": 31.16,
+      "sid": 17,
+      "location": 2,
+      "content": "我们还是分两期视频给大家更新",
+      "music": 0.0
+    },
+    {
+      "from": 31.16,
+      "to": 33.45,
+      "sid": 18,
+      "location": 2,
+      "content": "衰落行业top5和吃肉行业top5",
+      "music": 0.0
+    },
+    {
+      "from": 33.45,
+      "to": 34.21,
+      "sid": 19,
+      "location": 2,
+      "content": "那话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 34.21,
+      "to": 36.1,
+      "sid": 20,
+      "location": 2,
+      "content": "我们直接进入本期的主题",
+      "music": 0.0
+    },
+    {
+      "from": 36.1,
+      "to": 38.92,
+      "sid": 21,
+      "location": 2,
+      "content": "谁是2025年中国行业衰落的前五名",
+      "music": 0.0
+    },
+    {
+      "from": 38.92,
+      "to": 39.78,
+      "sid": 22,
+      "location": 2,
+      "content": "那开始之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 39.78,
+      "to": 41.72,
+      "sid": 23,
+      "location": 2,
+      "content": "我们还是简单讲一下排名的依据",
+      "music": 0.0
+    },
+    {
+      "from": 41.72,
+      "to": 42.62,
+      "sid": 24,
+      "location": 2,
+      "content": "本次的排名呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.62,
+      "to": 44.92,
+      "sid": 25,
+      "location": 2,
+      "content": "我们把这5000多家公公司分为七个大类",
+      "music": 0.0
+    },
+    {
+      "from": 44.92,
+      "to": 45.82,
+      "sid": 26,
+      "location": 2,
+      "content": "及上游资源",
+      "music": 0.0
+    },
+    {
+      "from": 45.82,
+      "to": 46.58,
+      "sid": 27,
+      "location": 2,
+      "content": "中游制造",
+      "music": 0.0
+    },
+    {
+      "from": 46.58,
+      "to": 47.6,
+      "sid": 28,
+      "location": 2,
+      "content": "中游材料必选",
+      "music": 0.0
+    },
+    {
+      "from": 47.6,
+      "to": 49.18,
+      "sid": 29,
+      "location": 2,
+      "content": "消费可选消费TMT",
+      "music": 0.0
+    },
+    {
+      "from": 49.18,
+      "to": 50.36,
+      "sid": 30,
+      "location": 2,
+      "content": "也就是科技媒体",
+      "music": 0.0
+    },
+    {
+      "from": 50.36,
+      "to": 50.94,
+      "sid": 31,
+      "location": 2,
+      "content": "电信行业",
+      "music": 0.0
+    },
+    {
+      "from": 50.94,
+      "to": 52.94,
+      "sid": 32,
+      "location": 2,
+      "content": "那最后是周期地产七个大类",
+      "music": 0.0
+    },
+    {
+      "from": 52.94,
+      "to": 54.28,
+      "sid": 33,
+      "location": 2,
+      "content": "下分30个一级行业",
+      "music": 0.0
+    },
+    {
+      "from": 54.28,
+      "to": 55.34,
+      "sid": 34,
+      "location": 2,
+      "content": "过百个二级行业",
+      "music": 0.0
+    },
+    {
+      "from": 55.34,
+      "to": 58.28,
+      "sid": 35,
+      "location": 2,
+      "content": "而我们则对这些细分后的二级行业进行排名",
+      "music": 0.0
+    },
+    {
+      "from": 58.28,
+      "to": 60.04,
+      "sid": 36,
+      "location": 2,
+      "content": "衰落榜top5的排名逻辑呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.04,
+      "to": 62.8,
+      "sid": 37,
+      "location": 2,
+      "content": "首先是该行业要在2025年的利润增速排名",
+      "music": 0.0
+    },
+    {
+      "from": 62.8,
+      "to": 64.04,
+      "sid": 38,
+      "location": 2,
+      "content": "倒数同时剔除掉",
+      "music": 0.0
+    },
+    {
+      "from": 64.04,
+      "to": 66.12,
+      "sid": 39,
+      "location": 2,
+      "content": "因为2024年利润增长过快",
+      "music": 0.0
+    },
+    {
+      "from": 66.12,
+      "to": 69.22,
+      "sid": 40,
+      "location": 2,
+      "content": "在2025年增速平缓而造成数据下滑的行业",
+      "music": 0.0
+    },
+    {
+      "from": 69.22,
+      "to": 70.0,
+      "sid": 41,
+      "location": 2,
+      "content": "这个基础上呢",
+      "music": 0.0
+    },
+    {
+      "from": 70.0,
+      "to": 72.28,
+      "sid": 42,
+      "location": 2,
+      "content": "在对比2026年一季度的经营情况",
+      "music": 0.0
+    },
+    {
+      "from": 72.28,
+      "to": 74.6,
+      "sid": 43,
+      "location": 2,
+      "content": "如果一季度利润增速又开始明显复苏的",
+      "music": 0.0
+    },
+    {
+      "from": 74.6,
+      "to": 75.88,
+      "sid": 44,
+      "location": 2,
+      "content": "也会被排除好了",
+      "music": 0.0
+    },
+    {
+      "from": 75.88,
+      "to": 76.76,
+      "sid": 45,
+      "location": 2,
+      "content": "那我们话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 76.76,
+      "to": 80.28,
+      "sid": 46,
+      "location": 2,
+      "content": "直接来看低位选手衰落行业第五名医疗美容",
+      "music": 0.0
+    },
+    {
+      "from": 80.28,
+      "to": 81.34,
+      "sid": 47,
+      "location": 2,
+      "content": "先摆一下数据",
+      "music": 0.0
+    },
+    {
+      "from": 81.34,
+      "to": 82.08,
+      "sid": 48,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 82.08,
+      "to": 83.8,
+      "sid": 49,
+      "location": 2,
+      "content": "A股上市的医疗美容公司",
+      "music": 0.0
+    },
+    {
+      "from": 83.8,
+      "to": 86.2,
+      "sid": 50,
+      "location": 2,
+      "content": "合计利润下滑了28.76%",
+      "music": 0.0
+    },
+    {
+      "from": 86.2,
+      "to": 89.12,
+      "sid": 51,
+      "location": 2,
+      "content": "今年一季度呢更是继续下行57.3%",
+      "music": 0.0
+    },
+    {
+      "from": 89.12,
+      "to": 90.56,
+      "sid": 52,
+      "location": 2,
+      "content": "要说当年的医美板块",
+      "music": 0.0
+    },
+    {
+      "from": 90.56,
+      "to": 92.36,
+      "sid": 53,
+      "location": 2,
+      "content": "也曾经像如今的光模块一样",
+      "music": 0.0
+    },
+    {
+      "from": 92.36,
+      "to": 94.16,
+      "sid": 54,
+      "location": 2,
+      "content": "受到过各路资金的热烈追捧",
+      "music": 0.0
+    },
+    {
+      "from": 94.16,
+      "to": 95.86,
+      "sid": 55,
+      "location": 2,
+      "content": "2019年呢到2022年",
+      "music": 0.0
+    },
+    {
+      "from": 95.86,
+      "to": 97.74,
+      "sid": 56,
+      "location": 2,
+      "content": "号称医美三剑客的华西生物",
+      "music": 0.0
+    },
+    {
+      "from": 97.74,
+      "to": 100.28,
+      "sid": 57,
+      "location": 2,
+      "content": "爱美客和浩海申科呢相继在A股上市",
+      "music": 0.0
+    },
+    {
+      "from": 100.28,
+      "to": 102.24,
+      "sid": 58,
+      "location": 2,
+      "content": "依托超过80%的毛利率",
+      "music": 0.0
+    },
+    {
+      "from": 102.24,
+      "to": 105.58,
+      "sid": 59,
+      "location": 2,
+      "content": "这三剑客呢一度成为了堪比白酒的白马股明星",
+      "music": 0.0
+    },
+    {
+      "from": 105.58,
+      "to": 107.28,
+      "sid": 60,
+      "location": 2,
+      "content": "而医美行业凭借高毛利",
+      "music": 0.0
+    },
+    {
+      "from": 107.28,
+      "to": 107.84,
+      "sid": 61,
+      "location": 2,
+      "content": "轻资产",
+      "music": 0.0
+    },
+    {
+      "from": 107.84,
+      "to": 109.02,
+      "sid": 62,
+      "location": 2,
+      "content": "还有一定的成瘾性",
+      "music": 0.0
+    },
+    {
+      "from": 109.02,
+      "to": 110.08,
+      "sid": 63,
+      "location": 2,
+      "content": "巨大的成长预期",
+      "music": 0.0
+    },
+    {
+      "from": 110.08,
+      "to": 112.28,
+      "sid": 64,
+      "location": 2,
+      "content": "叠加上各路分析师的大吹特吹呢",
+      "music": 0.0
+    },
+    {
+      "from": 112.28,
+      "to": 115.06,
+      "sid": 65,
+      "location": 2,
+      "content": "让股民们就像是发现了金矿一样蜂拥而入",
+      "music": 0.0
+    },
+    {
+      "from": 115.06,
+      "to": 117.8,
+      "sid": 66,
+      "location": 2,
+      "content": "那会儿市场最流行的口号呢就是男人的茅台",
+      "music": 0.0
+    },
+    {
+      "from": 117.8,
+      "to": 118.5,
+      "sid": 67,
+      "location": 2,
+      "content": "女人的医美",
+      "music": 0.0
+    },
+    {
+      "from": 118.5,
+      "to": 121.66,
+      "sid": 68,
+      "location": 2,
+      "content": "而医美龙头公司艾美克也被大家称为医美茅",
+      "music": 0.0
+    },
+    {
+      "from": 121.66,
+      "to": 123.64,
+      "sid": 69,
+      "location": 2,
+      "content": "股价最高涨到过1300元",
+      "music": 0.0
+    },
+    {
+      "from": 123.64,
+      "to": 125.42,
+      "sid": 70,
+      "location": 2,
+      "content": "市盈率一度接近了400倍",
+      "music": 0.0
+    },
+    {
+      "from": 125.42,
+      "to": 127.96,
+      "sid": 71,
+      "location": 2,
+      "content": "但就像是历史上每一次狂欢炒作一样",
+      "music": 0.0
+    },
+    {
+      "from": 127.96,
+      "to": 129.54,
+      "sid": 72,
+      "location": 2,
+      "content": "医美行业的亮眼增速",
+      "music": 0.0
+    },
+    {
+      "from": 129.54,
+      "to": 131.62,
+      "sid": 73,
+      "location": 2,
+      "content": "在2021年被按下了暂停键",
+      "music": 0.0
+    },
+    {
+      "from": 131.62,
+      "to": 133.64,
+      "sid": 74,
+      "location": 2,
+      "content": "随着资本的涌入和市场的炒作",
+      "music": 0.0
+    },
+    {
+      "from": 133.64,
+      "to": 136.2,
+      "sid": 75,
+      "location": 2,
+      "content": "几乎所有的医药公司都想进入这个行业",
+      "music": 0.0
+    },
+    {
+      "from": 136.2,
+      "to": 136.8,
+      "sid": 76,
+      "location": 2,
+      "content": "分一杯羹",
+      "music": 0.0
+    },
+    {
+      "from": 136.8,
+      "to": 137.84,
+      "sid": 77,
+      "location": 2,
+      "content": "原本竞争小",
+      "music": 0.0
+    },
+    {
+      "from": 137.84,
+      "to": 138.36,
+      "sid": 78,
+      "location": 2,
+      "content": "客户多",
+      "music": 0.0
+    },
+    {
+      "from": 138.36,
+      "to": 139.76,
+      "sid": 79,
+      "location": 2,
+      "content": "利润大的医美行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 139.76,
+      "to": 140.84,
+      "sid": 80,
+      "location": 2,
+      "content": "在2020年后",
+      "music": 0.0
+    },
+    {
+      "from": 140.84,
+      "to": 143.4,
+      "sid": 81,
+      "location": 2,
+      "content": "逐渐从竞争的蓝海变成了竞争红海",
+      "music": 0.0
+    },
+    {
+      "from": 143.4,
+      "to": 144.64,
+      "sid": 82,
+      "location": 2,
+      "content": "上市医美公司之前",
+      "music": 0.0
+    },
+    {
+      "from": 144.64,
+      "to": 146.8,
+      "sid": 83,
+      "location": 2,
+      "content": "靠着几款爆品就能躺着赚钱的时代",
+      "music": 0.0
+    },
+    {
+      "from": 146.8,
+      "to": 147.8,
+      "sid": 84,
+      "location": 2,
+      "content": "一去不复返了",
+      "music": 0.0
+    },
+    {
+      "from": 147.8,
+      "to": 149.0,
+      "sid": 85,
+      "location": 2,
+      "content": "而且宏观层面上",
+      "music": 0.0
+    },
+    {
+      "from": 149.0,
+      "to": 150.12,
+      "sid": 86,
+      "location": 2,
+      "content": "2021年之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 150.12,
+      "to": 152.269,
+      "sid": 87,
+      "location": 2,
+      "content": "我国的消费市场进入了通缩螺旋",
+      "music": 0.0
+    },
+    {
+      "from": 152.269,
+      "to": 153.469,
+      "sid": 88,
+      "location": 2,
+      "content": "房地产崩溃之下",
+      "music": 0.0
+    },
+    {
+      "from": 153.469,
+      "to": 156.56,
+      "sid": 89,
+      "location": 2,
+      "content": "曾经极度依赖低租经济的高端白酒也随之崩溃",
+      "music": 0.0
+    },
+    {
+      "from": 156.56,
+      "to": 157.68,
+      "sid": 90,
+      "location": 2,
+      "content": "白酒都撑不住了",
+      "music": 0.0
+    },
+    {
+      "from": 157.68,
+      "to": 158.76,
+      "sid": 91,
+      "location": 2,
+      "content": "那医美更撑不住",
+      "music": 0.0
+    },
+    {
+      "from": 158.76,
+      "to": 161.22,
+      "sid": 92,
+      "location": 2,
+      "content": "随后整个行业呢就进入了价格战的厮杀",
+      "music": 0.0
+    },
+    {
+      "from": 161.22,
+      "to": 163.76,
+      "sid": 93,
+      "location": 2,
+      "content": "今天你家的玻尿酸敢降价30%",
+      "music": 0.0
+    },
+    {
+      "from": 163.76,
+      "to": 165.86,
+      "sid": 94,
+      "location": 2,
+      "content": "明天我家的瘦脸针就敢买一送一",
+      "music": 0.0
+    },
+    {
+      "from": 165.86,
+      "to": 168.54,
+      "sid": 95,
+      "location": 2,
+      "content": "医美企业们之前的高利润率神话破灭",
+      "music": 0.0
+    },
+    {
+      "from": 168.54,
+      "to": 169.48,
+      "sid": 96,
+      "location": 2,
+      "content": "到了2025年",
+      "music": 0.0
+    },
+    {
+      "from": 169.48,
+      "to": 172.36,
+      "sid": 97,
+      "location": 2,
+      "content": "行业整体的增速呢已经从之前动辄60%",
+      "music": 0.0
+    },
+    {
+      "from": 172.36,
+      "to": 174.82,
+      "sid": 98,
+      "location": 2,
+      "content": "70%下滑到了如今的10%",
+      "music": 0.0
+    },
+    {
+      "from": 174.82,
+      "to": 176.96,
+      "sid": 99,
+      "location": 2,
+      "content": "但就算行业已经进入了红海的厮杀",
+      "music": 0.0
+    },
+    {
+      "from": 176.96,
+      "to": 178.6,
+      "sid": 100,
+      "location": 2,
+      "content": "但内卷依旧愈演愈烈",
+      "music": 0.0
+    },
+    {
+      "from": 178.6,
+      "to": 181.64,
+      "sid": 101,
+      "location": 2,
+      "content": "去年新获批的52张三类医疗器械注册证里",
+      "music": 0.0
+    },
+    {
+      "from": 181.64,
+      "to": 183.74,
+      "sid": 102,
+      "location": 2,
+      "content": "玻尿酸类的产品就占了25张",
+      "music": 0.0
+    },
+    {
+      "from": 183.74,
+      "to": 186.38,
+      "sid": 103,
+      "location": 2,
+      "content": "一支玻尿酸呢已经从当年动辄上千",
+      "music": 0.0
+    },
+    {
+      "from": 186.38,
+      "to": 187.72,
+      "sid": 104,
+      "location": 2,
+      "content": "降价到了199",
+      "music": 0.0
+    },
+    {
+      "from": 187.72,
+      "to": 188.98,
+      "sid": 105,
+      "location": 2,
+      "content": "而当年的明星产品",
+      "music": 0.0
+    },
+    {
+      "from": 188.98,
+      "to": 192.16,
+      "sid": 106,
+      "location": 2,
+      "content": "童颜针的价格也从最初近2万亿只降到了线上",
+      "music": 0.0
+    },
+    {
+      "from": 192.16,
+      "to": 193.38,
+      "sid": 107,
+      "location": 2,
+      "content": "只要2999",
+      "music": 0.0
+    },
+    {
+      "from": 193.38,
+      "to": 194.6,
+      "sid": 108,
+      "location": 2,
+      "content": "那神话破灭后呢",
+      "music": 0.0
+    },
+    {
+      "from": 194.6,
+      "to": 195.48,
+      "sid": 109,
+      "location": 2,
+      "content": "曾经的易美毛",
+      "music": 0.0
+    },
+    {
+      "from": 195.48,
+      "to": 198.3,
+      "sid": 110,
+      "location": 2,
+      "content": "如今的股价已经从最高点下跌了80%",
+      "music": 0.0
+    },
+    {
+      "from": 198.3,
+      "to": 200.76,
+      "sid": 111,
+      "location": 2,
+      "content": "去年的净利润同比下降了34.05%",
+      "music": 0.0
+    },
+    {
+      "from": 200.76,
+      "to": 203.5,
+      "sid": 112,
+      "location": 2,
+      "content": "今年一季度更是继续下滑32.79%",
+      "music": 0.0
+    },
+    {
+      "from": 203.5,
+      "to": 205.64,
+      "sid": 113,
+      "location": 2,
+      "content": "而曾经的互联网医美第一股信仰",
+      "music": 0.0
+    },
+    {
+      "from": 205.64,
+      "to": 208.5,
+      "sid": 114,
+      "location": 2,
+      "content": "2025年全年更是直接亏损了2.42亿",
+      "music": 0.0
+    },
+    {
+      "from": 208.5,
+      "to": 211.5,
+      "sid": 115,
+      "location": 2,
+      "content": "医美这个曾经被大家视为印钞机的行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 211.5,
+      "to": 213.08,
+      "sid": 116,
+      "location": 2,
+      "content": "如今已经跌落了神坛",
+      "music": 0.0
+    },
+    {
+      "from": 213.08,
+      "to": 214.9,
+      "sid": 117,
+      "location": 2,
+      "content": "衰落行业第四名橡胶",
+      "music": 0.0
+    },
+    {
+      "from": 214.9,
+      "to": 215.74,
+      "sid": 118,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 217.02,
+      "sid": 119,
+      "location": 2,
+      "content": "橡胶行业的上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 217.02,
+      "to": 219.68,
+      "sid": 120,
+      "location": 2,
+      "content": "净利润增速为负的43.59%",
+      "music": 0.0
+    },
+    {
+      "from": 219.68,
+      "to": 221.06,
+      "sid": 121,
+      "location": 2,
+      "content": "今年一季度继续下滑",
+      "music": 0.0
+    },
+    {
+      "from": 221.06,
+      "to": 223.0,
+      "sid": 122,
+      "location": 2,
+      "content": "来到了负的50.77%",
+      "music": 0.0
+    },
+    {
+      "from": 223.0,
+      "to": 224.56,
+      "sid": 123,
+      "location": 2,
+      "content": "咱们这里说的橡胶行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 224.56,
+      "to": 226.97,
+      "sid": 124,
+      "location": 2,
+      "content": "主要指的是中下游的橡胶加工企业",
+      "music": 0.0
+    },
+    {
+      "from": 226.97,
+      "to": 228.33,
+      "sid": 125,
+      "location": 2,
+      "content": "随着2016年之后",
+      "music": 0.0
+    },
+    {
+      "from": 228.33,
+      "to": 230.85,
+      "sid": 126,
+      "location": 2,
+      "content": "上一轮的橡胶行业种植扩产潮结束",
+      "music": 0.0
+    },
+    {
+      "from": 230.85,
+      "to": 234.06,
+      "sid": 127,
+      "location": 2,
+      "content": "因为橡胶树呢从种植到产胶需要六到7年",
+      "music": 0.0
+    },
+    {
+      "from": 234.06,
+      "to": 236.14,
+      "sid": 128,
+      "location": 2,
+      "content": "所以橡胶原料的供给增量枯竭",
+      "music": 0.0
+    },
+    {
+      "from": 236.14,
+      "to": 237.98,
+      "sid": 129,
+      "location": 2,
+      "content": "到了2023年才开始显现",
+      "music": 0.0
+    },
+    {
+      "from": 237.98,
+      "to": 239.7,
+      "sid": 130,
+      "location": 2,
+      "content": "而全球主要的两个产胶国",
+      "music": 0.0
+    },
+    {
+      "from": 239.7,
+      "to": 240.58,
+      "sid": 131,
+      "location": 2,
+      "content": "泰国和印尼",
+      "music": 0.0
+    },
+    {
+      "from": 240.58,
+      "to": 242.64,
+      "sid": 132,
+      "location": 2,
+      "content": "一个新增种植面积呢开始负增长",
+      "music": 0.0
+    },
+    {
+      "from": 242.64,
+      "to": 244.28,
+      "sid": 133,
+      "location": 2,
+      "content": "老一代的橡胶树开始老化",
+      "music": 0.0
+    },
+    {
+      "from": 244.28,
+      "to": 246.52,
+      "sid": 134,
+      "location": 2,
+      "content": "另一个是因为橡胶的价格长期低迷",
+      "music": 0.0
+    },
+    {
+      "from": 246.52,
+      "to": 247.6,
+      "sid": 135,
+      "location": 2,
+      "content": "大面积的改动了",
+      "music": 0.0
+    },
+    {
+      "from": 247.6,
+      "to": 250.4,
+      "sid": 136,
+      "location": 2,
+      "content": "每公顷收益是橡胶2.8倍的棕榈",
+      "music": 0.0
+    },
+    {
+      "from": 250.4,
+      "to": 252.2,
+      "sid": 137,
+      "location": 2,
+      "content": "那随之而来的则是橡胶原料",
+      "music": 0.0
+    },
+    {
+      "from": 253.72,
+      "to": 256.46,
+      "sid": 138,
+      "location": 2,
+      "content": "球上游原材料的价格从2023年之后",
+      "music": 0.0
+    },
+    {
+      "from": 256.46,
+      "to": 257.299,
+      "sid": 139,
+      "location": 2,
+      "content": "一涨再涨",
+      "music": 0.0
+    },
+    {
+      "from": 257.299,
+      "to": 259.779,
+      "sid": 140,
+      "location": 2,
+      "content": "但好在合成橡胶呢在2025年之前",
+      "music": 0.0
+    },
+    {
+      "from": 259.779,
+      "to": 261.639,
+      "sid": 141,
+      "location": 2,
+      "content": "因为原油价格一直处于低位",
+      "music": 0.0
+    },
+    {
+      "from": 261.639,
+      "to": 263.04,
+      "sid": 142,
+      "location": 2,
+      "content": "价格一直受到压制",
+      "music": 0.0
+    },
+    {
+      "from": 263.04,
+      "to": 265.96,
+      "sid": 143,
+      "location": 2,
+      "content": "行业整体的上游原材料成本虽然在缓慢抬升",
+      "music": 0.0
+    },
+    {
+      "from": 265.96,
+      "to": 266.88,
+      "sid": 144,
+      "location": 2,
+      "content": "但在前两年",
+      "music": 0.0
+    },
+    {
+      "from": 266.88,
+      "to": 268.6,
+      "sid": 145,
+      "location": 2,
+      "content": "我国新能源汽车快速铺开",
+      "music": 0.0
+    },
+    {
+      "from": 268.6,
+      "to": 271.43,
+      "sid": 146,
+      "location": 2,
+      "content": "叠加国家对汽车置换大力的补贴背景之下",
+      "music": 0.0
+    },
+    {
+      "from": 271.43,
+      "to": 273.41,
+      "sid": 147,
+      "location": 2,
+      "content": "橡胶行业最重要的下游产品",
+      "music": 0.0
+    },
+    {
+      "from": 273.41,
+      "to": 274.93,
+      "sid": 148,
+      "location": 2,
+      "content": "轮胎的需求一直很不错",
+      "music": 0.0
+    },
+    {
+      "from": 274.93,
+      "to": 276.23,
+      "sid": 149,
+      "location": 2,
+      "content": "很多中国轮胎品牌",
+      "music": 0.0
+    },
+    {
+      "from": 276.23,
+      "to": 278.89,
+      "sid": 150,
+      "location": 2,
+      "content": "全球市场的占有率也在前两年快速的崛起",
+      "music": 0.0
+    },
+    {
+      "from": 278.89,
+      "to": 280.04,
+      "sid": 151,
+      "location": 2,
+      "content": "最终导致中和企业",
+      "music": 0.0
+    },
+    {
+      "from": 280.04,
+      "to": 282.02,
+      "sid": 152,
+      "location": 2,
+      "content": "一直以来还能保持比较好的盈利",
+      "music": 0.0
+    },
+    {
+      "from": 282.02,
+      "to": 283.62,
+      "sid": 153,
+      "location": 2,
+      "content": "那时间呢来到了2025年",
+      "music": 0.0
+    },
+    {
+      "from": 283.62,
+      "to": 284.8,
+      "sid": 154,
+      "location": 2,
+      "content": "轮胎行业变天了",
+      "music": 0.0
+    },
+    {
+      "from": 284.8,
+      "to": 286.38,
+      "sid": 155,
+      "location": 2,
+      "content": "那原因呢我们也很熟悉",
+      "music": 0.0
+    },
+    {
+      "from": 286.38,
+      "to": 288.94,
+      "sid": 156,
+      "location": 2,
+      "content": "前几年受到全球中国轮胎热销的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 288.94,
+      "to": 291.8,
+      "sid": 157,
+      "location": 2,
+      "content": "有不少轮胎厂头脑一热就开始扩充产线",
+      "music": 0.0
+    },
+    {
+      "from": 291.8,
+      "to": 293.46,
+      "sid": 158,
+      "location": 2,
+      "content": "2023年到2024年之间",
+      "music": 0.0
+    },
+    {
+      "from": 293.46,
+      "to": 296.28,
+      "sid": 159,
+      "location": 2,
+      "content": "中国轮胎企业增加了至少1亿条轮胎的产能",
+      "music": 0.0
+    },
+    {
+      "from": 296.28,
+      "to": 298.44,
+      "sid": 160,
+      "location": 2,
+      "content": "等到2025年这些产能落地之后",
+      "music": 0.0
+    },
+    {
+      "from": 298.44,
+      "to": 300.92,
+      "sid": 161,
+      "location": 2,
+      "content": "我国汽车的置换大潮呢也接近了尾声",
+      "music": 0.0
+    },
+    {
+      "from": 300.92,
+      "to": 301.84,
+      "sid": 162,
+      "location": 2,
+      "content": "供应大增",
+      "music": 0.0
+    },
+    {
+      "from": 301.84,
+      "to": 302.98,
+      "sid": 163,
+      "location": 2,
+      "content": "需求不增的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 302.98,
+      "to": 305.1,
+      "sid": 164,
+      "location": 2,
+      "content": "中国轮胎企业能开始贴钱做生意",
+      "music": 0.0
+    },
+    {
+      "from": 305.1,
+      "to": 307.16,
+      "sid": 165,
+      "location": 2,
+      "content": "但截止到2025年的11月下旬",
+      "music": 0.0
+    },
+    {
+      "from": 307.16,
+      "to": 308.38,
+      "sid": 166,
+      "location": 2,
+      "content": "半钢胎的开工率呢",
+      "music": 0.0
+    },
+    {
+      "from": 308.38,
+      "to": 310.18,
+      "sid": 167,
+      "location": 2,
+      "content": "已经跌破了70%的盈利线",
+      "music": 0.0
+    },
+    {
+      "from": 310.18,
+      "to": 313.12,
+      "sid": 168,
+      "location": 2,
+      "content": "而全钢胎的开工率也正在往60%狂奔",
+      "music": 0.0
+    },
+    {
+      "from": 313.12,
+      "to": 314.28,
+      "sid": 169,
+      "location": 2,
+      "content": "随之而来的则是",
+      "music": 0.0
+    },
+    {
+      "from": 314.28,
+      "to": 316.36,
+      "sid": 170,
+      "location": 2,
+      "content": "中游企业的日子也开始逐渐难过",
+      "music": 0.0
+    },
+    {
+      "from": 316.36,
+      "to": 319.1,
+      "sid": 171,
+      "location": 2,
+      "content": "而真正的致命一击来自于今年的中东冲突",
+      "music": 0.0
+    },
+    {
+      "from": 319.1,
+      "to": 320.18,
+      "sid": 172,
+      "location": 2,
+      "content": "油价的一路走高",
+      "music": 0.0
+    },
+    {
+      "from": 320.18,
+      "to": 321.9,
+      "sid": 173,
+      "location": 2,
+      "content": "也带动了合成橡胶的暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 321.9,
+      "to": 325.1,
+      "sid": 174,
+      "location": 2,
+      "content": "叠加上今年我国汽车销量正式进入了下降通道",
+      "music": 0.0
+    },
+    {
+      "from": 325.1,
+      "to": 327.8,
+      "sid": 175,
+      "location": 2,
+      "content": "于是乎橡胶的中下游在原材料大涨",
+      "music": 0.0
+    },
+    {
+      "from": 327.8,
+      "to": 329.16,
+      "sid": 176,
+      "location": 2,
+      "content": "新增产能集中落地",
+      "music": 0.0
+    },
+    {
+      "from": 329.16,
+      "to": 331.3,
+      "sid": 177,
+      "location": 2,
+      "content": "下游需求停滞的三重暴击之下",
+      "music": 0.0
+    },
+    {
+      "from": 331.3,
+      "to": 332.94,
+      "sid": 178,
+      "location": 2,
+      "content": "出现了大幅的利润下滑",
+      "music": 0.0
+    },
+    {
+      "from": 332.94,
+      "to": 335.14,
+      "sid": 179,
+      "location": 2,
+      "content": "成为了在2025年和2026年",
+      "music": 0.0
+    },
+    {
+      "from": 335.14,
+      "to": 336.3,
+      "sid": 180,
+      "location": 2,
+      "content": "明显衰落的行业",
+      "music": 0.0
+    },
+    {
+      "from": 336.3,
+      "to": 337.9,
+      "sid": 181,
+      "location": 2,
+      "content": "那看完了两个衰落行业",
+      "music": 0.0
+    },
+    {
+      "from": 337.9,
+      "to": 339.48,
+      "sid": 182,
+      "location": 2,
+      "content": "相信各位都有点累了",
+      "music": 0.0
+    },
+    {
+      "from": 339.48,
+      "to": 340.98,
+      "sid": 183,
+      "location": 2,
+      "content": "那我们介绍一下今天的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 340.98,
+      "to": 342.08,
+      "sid": 184,
+      "location": 2,
+      "content": "曼迪泡沫机",
+      "music": 0.0
+    },
+    {
+      "from": 342.08,
+      "to": 344.72,
+      "sid": 185,
+      "location": 2,
+      "content": "很多人呢其实并不清楚自己脱发的原因",
+      "music": 0.0
+    },
+    {
+      "from": 344.72,
+      "to": 347.6,
+      "sid": 186,
+      "location": 2,
+      "content": "90%的脱发其实都是雄激素性脱发",
+      "music": 0.0
+    },
+    {
+      "from": 347.6,
+      "to": 349.98,
+      "sid": 187,
+      "location": 2,
+      "content": "根源在于DHT持续攻击毛囊",
+      "music": 0.0
+    },
+    {
+      "from": 349.98,
+      "to": 351.76,
+      "sid": 188,
+      "location": 2,
+      "content": "而毛囊呢就像一只小碗",
+      "music": 0.0
+    },
+    {
+      "from": 351.76,
+      "to": 353.8,
+      "sid": 189,
+      "location": 2,
+      "content": "靠血液里的营养来喂饱发根",
+      "music": 0.0
+    },
+    {
+      "from": 353.8,
+      "to": 356.42,
+      "sid": 190,
+      "location": 2,
+      "content": "可这只碗呢因为压力熬夜渐渐萎缩了",
+      "music": 0.0
+    },
+    {
+      "from": 356.42,
+      "to": 357.48,
+      "sid": 191,
+      "location": 2,
+      "content": "发根开始挨饿",
+      "music": 0.0
+    },
+    {
+      "from": 357.48,
+      "to": 358.5,
+      "sid": 192,
+      "location": 2,
+      "content": "最后悄悄离开",
+      "music": 0.0
+    },
+    {
+      "from": 358.5,
+      "to": 361.34,
+      "sid": 193,
+      "location": 2,
+      "content": "而曼迪泡沫剂呢就像打开这只碗的营养开关",
+      "music": 0.0
+    },
+    {
+      "from": 361.34,
+      "to": 362.54,
+      "sid": 194,
+      "location": 2,
+      "content": "开放钾离子通道",
+      "music": 0.0
+    },
+    {
+      "from": 362.54,
+      "to": 363.6,
+      "sid": 195,
+      "location": 2,
+      "content": "让血管扩张",
+      "music": 0.0
+    },
+    {
+      "from": 363.6,
+      "to": 365.52,
+      "sid": 196,
+      "location": 2,
+      "content": "重新向毛囊输送养料",
+      "music": 0.0
+    },
+    {
+      "from": 365.52,
+      "to": 367.6,
+      "sid": 197,
+      "location": 2,
+      "content": "发根呢才能再次吃饱喝足",
+      "music": 0.0
+    },
+    {
+      "from": 367.6,
+      "to": 369.58,
+      "sid": 198,
+      "location": 2,
+      "content": "而且泡沫剂呢更清爽温和",
+      "music": 0.0
+    },
+    {
+      "from": 369.58,
+      "to": 370.56,
+      "sid": 199,
+      "location": 2,
+      "content": "渗透效率更高",
+      "music": 0.0
+    },
+    {
+      "from": 370.56,
+      "to": 373.28,
+      "sid": 200,
+      "location": 2,
+      "content": "两个月就能看到细密绒毛破土的变化",
+      "music": 0.0
+    },
+    {
+      "from": 373.28,
+      "to": 375.24,
+      "sid": 201,
+      "location": 2,
+      "content": "更不会像液体一样到处乱流",
+      "music": 0.0
+    },
+    {
+      "from": 375.24,
+      "to": 377.4,
+      "sid": 202,
+      "location": 2,
+      "content": "带给你云感轻盈的生发体验",
+      "music": 0.0
+    },
+    {
+      "from": 377.4,
+      "to": 379.82,
+      "sid": 203,
+      "location": 2,
+      "content": "逐渐地收获一头粗壮茂密的秀发",
+      "music": 0.0
+    },
+    {
+      "from": 379.82,
+      "to": 381.26,
+      "sid": 204,
+      "location": 2,
+      "content": "以我个人经验来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 381.26,
+      "to": 382.48,
+      "sid": 205,
+      "location": 2,
+      "content": "使用过程非常丝滑",
+      "music": 0.0
+    },
+    {
+      "from": 382.48,
+      "to": 384.28,
+      "sid": 206,
+      "location": 2,
+      "content": "洗完一抹几十秒自然风干",
+      "music": 0.0
+    },
+    {
+      "from": 384.28,
+      "to": 385.36,
+      "sid": 207,
+      "location": 2,
+      "content": "不会随意流淌",
+      "music": 0.0
+    },
+    {
+      "from": 385.36,
+      "to": 388.3,
+      "sid": 208,
+      "location": 2,
+      "content": "带给你云朵一般轻盈无痕的生发体验",
+      "music": 0.0
+    },
+    {
+      "from": 388.3,
+      "to": 389.46,
+      "sid": 209,
+      "location": 2,
+      "content": "一段时间后呢",
+      "music": 0.0
+    },
+    {
+      "from": 389.46,
+      "to": 391.22,
+      "sid": 210,
+      "location": 2,
+      "content": "发缝边缘开始出现绒毛",
+      "music": 0.0
+    },
+    {
+      "from": 391.22,
+      "to": 392.44,
+      "sid": 211,
+      "location": 2,
+      "content": "之后再过几个月",
+      "music": 0.0
+    },
+    {
+      "from": 392.44,
+      "to": 394.04,
+      "sid": 212,
+      "location": 2,
+      "content": "头顶就长出一片森林",
+      "music": 0.0
+    },
+    {
+      "from": 394.04,
+      "to": 395.82,
+      "sid": 213,
+      "location": 2,
+      "content": "脱发的本质呢是毛囊问题",
+      "music": 0.0
+    },
+    {
+      "from": 395.82,
+      "to": 397.92,
+      "sid": 214,
+      "location": 2,
+      "content": "对症下药才能真正改善发量",
+      "music": 0.0
+    },
+    {
+      "from": 397.92,
+      "to": 399.62,
+      "sid": 215,
+      "location": 2,
+      "content": "越早用头发留得越多",
+      "music": 0.0
+    },
+    {
+      "from": 399.62,
+      "to": 401.18,
+      "sid": 216,
+      "location": 2,
+      "content": "链接呢已经放在评论区了",
+      "music": 0.0
+    },
+    {
+      "from": 401.18,
+      "to": 401.66,
+      "sid": 217,
+      "location": 2,
+      "content": "趁大促",
+      "music": 0.0
+    },
+    {
+      "from": 401.66,
+      "to": 403.82,
+      "sid": 218,
+      "location": 2,
+      "content": "感兴趣的朋友可以了解一下衰落行业",
+      "music": 0.0
+    },
+    {
+      "from": 403.82,
+      "to": 404.34,
+      "sid": 219,
+      "location": 2,
+      "content": "第三名",
+      "music": 0.0
+    },
+    {
+      "from": 404.34,
+      "to": 405.74,
+      "sid": 220,
+      "location": 2,
+      "content": "房地产及其产业链",
+      "music": 0.0
+    },
+    {
+      "from": 405.74,
+      "to": 406.62,
+      "sid": 221,
+      "location": 2,
+      "content": "房地产行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 406.62,
+      "to": 409.06,
+      "sid": 222,
+      "location": 2,
+      "content": "这已经是连续第3年登上咱们的衰落榜了",
+      "music": 0.0
+    },
+    {
+      "from": 409.06,
+      "to": 409.92,
+      "sid": 223,
+      "location": 2,
+      "content": "2023年",
+      "music": 0.0
+    },
+    {
+      "from": 409.92,
+      "to": 411.86,
+      "sid": 224,
+      "location": 2,
+      "content": "以负的215.65%",
+      "music": 0.0
+    },
+    {
+      "from": 411.86,
+      "to": 413.98,
+      "sid": 225,
+      "location": 2,
+      "content": "的利润下滑速度登顶了第一名",
+      "music": 0.0
+    },
+    {
+      "from": 413.98,
+      "to": 414.9,
+      "sid": 226,
+      "location": 2,
+      "content": "2024年",
+      "music": 0.0
+    },
+    {
+      "from": 414.9,
+      "to": 417.1,
+      "sid": 227,
+      "location": 2,
+      "content": "更是以负的2800%",
+      "music": 0.0
+    },
+    {
+      "from": 417.1,
+      "to": 419.46,
+      "sid": 228,
+      "location": 2,
+      "content": "31.21的成绩冠绝所有行业",
+      "music": 0.0
+    },
+    {
+      "from": 419.46,
+      "to": 420.2,
+      "sid": 229,
+      "location": 2,
+      "content": "获得了蝉联",
+      "music": 0.0
+    },
+    {
+      "from": 420.2,
+      "to": 421.37,
+      "sid": 230,
+      "location": 2,
+      "content": "但到了2025年",
+      "music": 0.0
+    },
+    {
+      "from": 421.37,
+      "to": 423.75,
+      "sid": 231,
+      "location": 2,
+      "content": "整个行业呢在已经爆亏了多年的基础上",
+      "music": 0.0
+    },
+    {
+      "from": 423.75,
+      "to": 425.85,
+      "sid": 232,
+      "location": 2,
+      "content": "已经没有更大的利润下行空间了",
+      "music": 0.0
+    },
+    {
+      "from": 425.85,
+      "to": 426.9,
+      "sid": 233,
+      "location": 2,
+      "content": "所以从数据上看",
+      "music": 0.0
+    },
+    {
+      "from": 426.9,
+      "to": 427.66,
+      "sid": 234,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 427.66,
+      "to": 429.6,
+      "sid": 235,
+      "location": 2,
+      "content": "房地产开发行业整体利润下行",
+      "music": 0.0
+    },
+    {
+      "from": 429.6,
+      "to": 431.72,
+      "sid": 236,
+      "location": 2,
+      "content": "收窄到了负的24.15%",
+      "music": 0.0
+    },
+    {
+      "from": 431.72,
+      "to": 432.88,
+      "sid": 237,
+      "location": 2,
+      "content": "到了今年一季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 432.88,
+      "to": 435.42,
+      "sid": 238,
+      "location": 2,
+      "content": "更是实现了正增长0.4%的止跌",
+      "music": 0.0
+    },
+    {
+      "from": 435.42,
+      "to": 437.2,
+      "sid": 239,
+      "location": 2,
+      "content": "但从实际的亏损情况来看",
+      "music": 0.0
+    },
+    {
+      "from": 437.2,
+      "to": 439.18,
+      "sid": 240,
+      "location": 2,
+      "content": "销售榜top50的上市房企",
+      "music": 0.0
+    },
+    {
+      "from": 439.18,
+      "to": 442.08,
+      "sid": 241,
+      "location": 2,
+      "content": "依旧在去年合计亏损了1450亿",
+      "music": 0.0
+    },
+    {
+      "from": 442.08,
+      "to": 445.18,
+      "sid": 242,
+      "location": 2,
+      "content": "总亏损金额呢依旧是我国所有行业里的扛把子",
+      "music": 0.0
+    },
+    {
+      "from": 445.18,
+      "to": 447.28,
+      "sid": 243,
+      "location": 2,
+      "content": "而且不单单是整个行业在亏损",
+      "music": 0.0
+    },
+    {
+      "from": 447.28,
+      "to": 449.68,
+      "sid": 244,
+      "location": 2,
+      "content": "去年有超七成的房企营业收入下滑",
+      "music": 0.0
+    },
+    {
+      "from": 449.68,
+      "to": 451.58,
+      "sid": 245,
+      "location": 2,
+      "content": "这意味着整个行业还在收缩",
+      "music": 0.0
+    },
+    {
+      "from": 453.16,
+      "to": 454.32,
+      "sid": 246,
+      "location": 2,
+      "content": "比如水泥装修",
+      "music": 0.0
+    },
+    {
+      "from": 454.32,
+      "to": 454.78,
+      "sid": 247,
+      "location": 2,
+      "content": "建材",
+      "music": 0.0
+    },
+    {
+      "from": 454.78,
+      "to": 455.92,
+      "sid": 248,
+      "location": 2,
+      "content": "厨卫电器等等",
+      "music": 0.0
+    },
+    {
+      "from": 455.92,
+      "to": 458.54,
+      "sid": 249,
+      "location": 2,
+      "content": "在2025年依旧是以负的50%左右",
+      "music": 0.0
+    },
+    {
+      "from": 458.54,
+      "to": 460.02,
+      "sid": 250,
+      "location": 2,
+      "content": "利润下行的速度负增长",
+      "music": 0.0
+    },
+    {
+      "from": 460.02,
+      "to": 461.98,
+      "sid": 251,
+      "location": 2,
+      "content": "但咱们这次呢做的是衰落排行",
+      "music": 0.0
+    },
+    {
+      "from": 461.98,
+      "to": 463.42,
+      "sid": 252,
+      "location": 2,
+      "content": "房地产行业到如今呢",
+      "music": 0.0
+    },
+    {
+      "from": 463.42,
+      "to": 465.64,
+      "sid": 253,
+      "location": 2,
+      "content": "相比之前的衰落速度已经明显减缓了",
+      "music": 0.0
+    },
+    {
+      "from": 465.64,
+      "to": 467.06,
+      "sid": 254,
+      "location": 2,
+      "content": "top50的上市房企",
+      "music": 0.0
+    },
+    {
+      "from": 467.06,
+      "to": 467.98,
+      "sid": 255,
+      "location": 2,
+      "content": "总亏损金额呢",
+      "music": 0.0
+    },
+    {
+      "from": 467.98,
+      "to": 470.42,
+      "sid": 256,
+      "location": 2,
+      "content": "相比去年已经少亏了1360亿",
+      "music": 0.0
+    },
+    {
+      "from": 470.42,
+      "to": 472.96,
+      "sid": 257,
+      "location": 2,
+      "content": "而总负债呢也下降到了11.76万亿",
+      "music": 0.0
+    },
+    {
+      "from": 472.96,
+      "to": 475.38,
+      "sid": 258,
+      "location": 2,
+      "content": "相比2024减少了12.97%",
+      "music": 0.0
+    },
+    {
+      "from": 475.38,
+      "to": 478.34,
+      "sid": 259,
+      "location": 2,
+      "content": "所以这次我只给到他衰落榜第三的位置",
+      "music": 0.0
+    },
+    {
+      "from": 478.34,
+      "to": 481.22,
+      "sid": 260,
+      "location": 2,
+      "content": "那虽然整个行业衰落的加速度阶段已经结束",
+      "music": 0.0
+    },
+    {
+      "from": 481.22,
+      "to": 483.0,
+      "sid": 261,
+      "location": 2,
+      "content": "但并不意味着行业开始复苏",
+      "music": 0.0
+    },
+    {
+      "from": 483.0,
+      "to": 484.86,
+      "sid": 262,
+      "location": 2,
+      "content": "目前我国的房地产开发增速呢",
+      "music": 0.0
+    },
+    {
+      "from": 484.86,
+      "to": 487.3,
+      "sid": 263,
+      "location": 2,
+      "content": "依旧以负10%的速度向下探底",
+      "music": 0.0
+    },
+    {
+      "from": 487.3,
+      "to": 489.36,
+      "sid": 264,
+      "location": 2,
+      "content": "但也正因为新开发楼盘的减少",
+      "music": 0.0
+    },
+    {
+      "from": 489.36,
+      "to": 490.909,
+      "sid": 265,
+      "location": 2,
+      "content": "以及新一代住宅的出现",
+      "music": 0.0
+    },
+    {
+      "from": 490.909,
+      "to": 491.869,
+      "sid": 266,
+      "location": 2,
+      "content": "今年开年后",
+      "music": 0.0
+    },
+    {
+      "from": 491.869,
+      "to": 494.349,
+      "sid": 267,
+      "location": 2,
+      "content": "很多一线城市呢出现了久违的量价齐升",
+      "music": 0.0
+    },
+    {
+      "from": 494.349,
+      "to": 496.629,
+      "sid": 268,
+      "location": 2,
+      "content": "尤其是放开了内环核心区域的上海",
+      "music": 0.0
+    },
+    {
+      "from": 496.629,
+      "to": 499.189,
+      "sid": 269,
+      "location": 2,
+      "content": "新房和二手房都出现了价格的持续上涨",
+      "music": 0.0
+    },
+    {
+      "from": 499.189,
+      "to": 500.1,
+      "sid": 270,
+      "location": 2,
+      "content": "但从目前来看",
+      "music": 0.0
+    },
+    {
+      "from": 500.1,
+      "to": 501.74,
+      "sid": 271,
+      "location": 2,
+      "content": "这波来自一线城市的点火呢",
+      "music": 0.0
+    },
+    {
+      "from": 501.74,
+      "to": 503.72,
+      "sid": 272,
+      "location": 2,
+      "content": "并没有在全国形成燎原之势",
+      "music": 0.0
+    },
+    {
+      "from": 503.72,
+      "to": 504.64,
+      "sid": 273,
+      "location": 2,
+      "content": "甚至在5月后",
+      "music": 0.0
+    },
+    {
+      "from": 504.64,
+      "to": 506.8,
+      "sid": 274,
+      "location": 2,
+      "content": "这波来自一线城市的量价齐升",
+      "music": 0.0
+    },
+    {
+      "from": 506.8,
+      "to": 508.12,
+      "sid": 275,
+      "location": 2,
+      "content": "也逐渐没有了声势",
+      "music": 0.0
+    },
+    {
+      "from": 508.12,
+      "to": 509.88,
+      "sid": 276,
+      "location": 2,
+      "content": "我呢还是维持我年初的判断",
+      "music": 0.0
+    },
+    {
+      "from": 509.88,
+      "to": 513.04,
+      "sid": 277,
+      "location": 2,
+      "content": "即一线城市和强二线城市在今年企稳止跌",
+      "music": 0.0
+    },
+    {
+      "from": 513.04,
+      "to": 514.93,
+      "sid": 278,
+      "location": 2,
+      "content": "其他城市则继续向下探底",
+      "music": 0.0
+    },
+    {
+      "from": 514.93,
+      "to": 517.77,
+      "sid": 279,
+      "location": 2,
+      "content": "今年下半年的情况会明显差于上半年",
+      "music": 0.0
+    },
+    {
+      "from": 517.77,
+      "to": 519.91,
+      "sid": 280,
+      "location": 2,
+      "content": "衰落行业第二名生物制品",
+      "music": 0.0
+    },
+    {
+      "from": 519.91,
+      "to": 522.19,
+      "sid": 281,
+      "location": 2,
+      "content": "去年生物制品行业呢就位列第三",
+      "music": 0.0
+    },
+    {
+      "from": 522.19,
+      "to": 524.83,
+      "sid": 282,
+      "location": 2,
+      "content": "今年继续以负111.07%",
+      "music": 0.0
+    },
+    {
+      "from": 524.83,
+      "to": 527.45,
+      "sid": 283,
+      "location": 2,
+      "content": "的利润下滑速度晋升衰落行业的第二名",
+      "music": 0.0
+    },
+    {
+      "from": 527.45,
+      "to": 529.87,
+      "sid": 284,
+      "location": 2,
+      "content": "生物制品行业呢是医药这个一级行业下的",
+      "music": 0.0
+    },
+    {
+      "from": 529.87,
+      "to": 530.52,
+      "sid": 285,
+      "location": 2,
+      "content": "二级行业",
+      "music": 0.0
+    },
+    {
+      "from": 530.52,
+      "to": 532.18,
+      "sid": 286,
+      "location": 2,
+      "content": "主要的产品是各种疫苗",
+      "music": 0.0
+    },
+    {
+      "from": 532.18,
+      "to": 534.14,
+      "sid": 287,
+      "location": 2,
+      "content": "诊断类试剂以及血液制品等等",
+      "music": 0.0
+    },
+    {
+      "from": 534.14,
+      "to": 535.6,
+      "sid": 288,
+      "location": 2,
+      "content": "这个行业呢在2024年",
+      "music": 0.0
+    },
+    {
+      "from": 535.6,
+      "to": 537.14,
+      "sid": 289,
+      "location": 2,
+      "content": "就陷入了全行业的亏损",
+      "music": 0.0
+    },
+    {
+      "from": 537.14,
+      "to": 539.08,
+      "sid": 290,
+      "location": 2,
+      "content": "在2025年亏损进一步放大",
+      "music": 0.0
+    },
+    {
+      "from": 539.08,
+      "to": 541.66,
+      "sid": 291,
+      "location": 2,
+      "content": "体外诊断行业除了几个龙头还能盈利之外",
+      "music": 0.0
+    },
+    {
+      "from": 541.66,
+      "to": 544.0,
+      "sid": 292,
+      "location": 2,
+      "content": "大部分企业的利润都已经跌到了负值",
+      "music": 0.0
+    },
+    {
+      "from": 544.0,
+      "to": 546.02,
+      "sid": 293,
+      "location": 2,
+      "content": "今年已经有多家企业被s st",
+      "music": 0.0
+    },
+    {
+      "from": 546.02,
+      "to": 548.34,
+      "sid": 294,
+      "location": 2,
+      "content": "而疫苗行业更是整个医药行业里",
+      "music": 0.0
+    },
+    {
+      "from": 548.34,
+      "to": 549.5,
+      "sid": 295,
+      "location": 2,
+      "content": "卷得最激烈的战场",
+      "music": 0.0
+    },
+    {
+      "from": 549.5,
+      "to": 551.92,
+      "sid": 296,
+      "location": 2,
+      "content": "只有两家公司竞争的带状疱疹疫苗",
+      "music": 0.0
+    },
+    {
+      "from": 551.92,
+      "to": 555.06,
+      "sid": 297,
+      "location": 2,
+      "content": "在今年都从每帧千元以上直接跌破到了500元",
+      "music": 0.0
+    },
+    {
+      "from": 555.06,
+      "to": 557.34,
+      "sid": 298,
+      "location": 2,
+      "content": "流感疫苗呢更是一路杀到了5.5元",
+      "music": 0.0
+    },
+    {
+      "from": 557.34,
+      "to": 559.98,
+      "sid": 299,
+      "location": 2,
+      "content": "一支曾经千亿市值的龙头智飞生物",
+      "music": 0.0
+    },
+    {
+      "from": 559.98,
+      "to": 561.34,
+      "sid": 300,
+      "location": 2,
+      "content": "在去年亏损百亿",
+      "music": 0.0
+    },
+    {
+      "from": 561.34,
+      "to": 563.7,
+      "sid": 301,
+      "location": 2,
+      "content": "位列全体上市公司亏损的第五名",
+      "music": 0.0
+    },
+    {
+      "from": 563.7,
+      "to": 566.28,
+      "sid": 302,
+      "location": 2,
+      "content": "其他疫苗企业呢也几乎都在亏损线上下",
+      "music": 0.0
+    },
+    {
+      "from": 566.28,
+      "to": 567.54,
+      "sid": 303,
+      "location": 2,
+      "content": "整个生物制品行业",
+      "music": 0.0
+    },
+    {
+      "from": 567.54,
+      "to": 569.5,
+      "sid": 304,
+      "location": 2,
+      "content": "正在经历前所未有的行业衰退",
+      "music": 0.0
+    },
+    {
+      "from": 569.5,
+      "to": 571.9,
+      "sid": 305,
+      "location": 2,
+      "content": "其实生物制品沦落到今天这个样子呢",
+      "music": 0.0
+    },
+    {
+      "from": 571.9,
+      "to": 572.94,
+      "sid": 306,
+      "location": 2,
+      "content": "可以说成也疫情",
+      "music": 0.0
+    },
+    {
+      "from": 572.94,
+      "to": 573.68,
+      "sid": 307,
+      "location": 2,
+      "content": "败也疫情",
+      "music": 0.0
+    },
+    {
+      "from": 573.68,
+      "to": 576.74,
+      "sid": 308,
+      "location": 2,
+      "content": "当年这些企业因为疫情进入了利润高光期",
+      "music": 0.0
+    },
+    {
+      "from": 576.74,
+      "to": 578.48,
+      "sid": 309,
+      "location": 2,
+      "content": "但疫情呢不可能永远存在",
+      "music": 0.0
+    },
+    {
+      "from": 578.48,
+      "to": 579.3,
+      "sid": 310,
+      "location": 2,
+      "content": "扩产的产能",
+      "music": 0.0
+    },
+    {
+      "from": 579.3,
+      "to": 582.32,
+      "sid": 311,
+      "location": 2,
+      "content": "在疫情结束后变成了行业不断内卷的元凶",
+      "music": 0.0
+    },
+    {
+      "from": 582.32,
+      "to": 585.32,
+      "sid": 312,
+      "location": 2,
+      "content": "结加上这几年医药集采在全国的常态化推进",
+      "music": 0.0
+    },
+    {
+      "from": 585.32,
+      "to": 587.18,
+      "sid": 313,
+      "location": 2,
+      "content": "而范围呢也在持续扩大",
+      "music": 0.0
+    },
+    {
+      "from": 589.92,
+      "to": 592.0,
+      "sid": 314,
+      "location": 2,
+      "content": "降价的幅度也远超市场的预期",
+      "music": 0.0
+    },
+    {
+      "from": 595.42,
+      "to": 596.34,
+      "sid": 315,
+      "location": 2,
+      "content": "全方位的挤压",
+      "music": 0.0
+    },
+    {
+      "from": 596.34,
+      "to": 597.76,
+      "sid": 316,
+      "location": 2,
+      "content": "同时在近两年出现",
+      "music": 0.0
+    },
+    {
+      "from": 597.76,
+      "to": 600.62,
+      "sid": 317,
+      "location": 2,
+      "content": "最终让生物制品呢进入了真正的行业下行期",
+      "music": 0.0
+    },
+    {
+      "from": 600.62,
+      "to": 603.26,
+      "sid": 318,
+      "location": 2,
+      "content": "未来这个行业的各家企业只有走出海化",
+      "music": 0.0
+    },
+    {
+      "from": 603.26,
+      "to": 603.86,
+      "sid": 319,
+      "location": 2,
+      "content": "差异化",
+      "music": 0.0
+    },
+    {
+      "from": 603.86,
+      "to": 605.08,
+      "sid": 320,
+      "location": 2,
+      "content": "创新化这三条路",
+      "music": 0.0
+    },
+    {
+      "from": 605.08,
+      "to": 606.86,
+      "sid": 321,
+      "location": 2,
+      "content": "才能在寒冬里存活下来",
+      "music": 0.0
+    },
+    {
+      "from": 606.86,
+      "to": 607.97,
+      "sid": 322,
+      "location": 2,
+      "content": "并且实现第二春",
+      "music": 0.0
+    },
+    {
+      "from": 607.97,
+      "to": 609.77,
+      "sid": 323,
+      "location": 2,
+      "content": "整个行业的初心呢已经开始",
+      "music": 0.0
+    },
+    {
+      "from": 609.77,
+      "to": 612.05,
+      "sid": 324,
+      "location": 2,
+      "content": "留给各家企业的时间不多了",
+      "music": 0.0
+    },
+    {
+      "from": 612.05,
+      "to": 614.03,
+      "sid": 325,
+      "location": 2,
+      "content": "衰落行业第一名养殖",
+      "music": 0.0
+    },
+    {
+      "from": 614.03,
+      "to": 616.93,
+      "sid": 326,
+      "location": 2,
+      "content": "如果要来比全方位衰落最彻底的行业",
+      "music": 0.0
+    },
+    {
+      "from": 616.93,
+      "to": 620.18,
+      "sid": 327,
+      "location": 2,
+      "content": "那养殖业绝对是从去年到今年为止的冠军",
+      "music": 0.0
+    },
+    {
+      "from": 620.18,
+      "to": 621.34,
+      "sid": 328,
+      "location": 2,
+      "content": "我们先说一下数据",
+      "music": 0.0
+    },
+    {
+      "from": 621.34,
+      "to": 624.56,
+      "sid": 329,
+      "location": 2,
+      "content": "主要从事生猪和肉鸡养殖的20多家上市企业",
+      "music": 0.0
+    },
+    {
+      "from": 624.56,
+      "to": 627.76,
+      "sid": 330,
+      "location": 2,
+      "content": "去年的利润增速为负的45.84%",
+      "music": 0.0
+    },
+    {
+      "from": 627.76,
+      "to": 630.36,
+      "sid": 331,
+      "location": 2,
+      "content": "今年一季度继续扩大到了负的1%",
+      "music": 0.0
+    },
+    {
+      "from": 630.36,
+      "to": 631.38,
+      "sid": 332,
+      "location": 2,
+      "content": "百七十.59",
+      "music": 0.0
+    },
+    {
+      "from": 631.38,
+      "to": 633.74,
+      "sid": 333,
+      "location": 2,
+      "content": "而主要从事水产养殖的六家上市企业",
+      "music": 0.0
+    },
+    {
+      "from": 633.74,
+      "to": 635.62,
+      "sid": 334,
+      "location": 2,
+      "content": "去年合计的利润增速是负的",
+      "music": 0.0
+    },
+    {
+      "from": 635.62,
+      "to": 637.1,
+      "sid": 335,
+      "location": 2,
+      "content": "72.34%",
+      "music": 0.0
+    },
+    {
+      "from": 637.1,
+      "to": 639.46,
+      "sid": 336,
+      "location": 2,
+      "content": "一季度呢更是直接暴跌为负的",
+      "music": 0.0
+    },
+    {
+      "from": 639.46,
+      "to": 641.7,
+      "sid": 337,
+      "location": 2,
+      "content": "1209.46%",
+      "music": 0.0
+    },
+    {
+      "from": 642.78,
+      "to": 644.579,
+      "sid": 338,
+      "location": 2,
+      "content": "饲料也同样深陷困境",
+      "music": 0.0
+    },
+    {
+      "from": 644.579,
+      "to": 647.699,
+      "sid": 339,
+      "location": 2,
+      "content": "去年的利润增速为负的54.24%",
+      "music": 0.0
+    },
+    {
+      "from": 647.699,
+      "to": 650.66,
+      "sid": 340,
+      "location": 2,
+      "content": "今年一季度为负的101.88%",
+      "music": 0.0
+    },
+    {
+      "from": 650.66,
+      "to": 652.74,
+      "sid": 341,
+      "location": 2,
+      "content": "养殖行业成为了如今这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 652.74,
+      "to": 653.9,
+      "sid": 342,
+      "location": 2,
+      "content": "核心呢就一句话",
+      "music": 0.0
+    },
+    {
+      "from": 653.9,
+      "to": 655.58,
+      "sid": 343,
+      "location": 2,
+      "content": "产品价格持续的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 655.58,
+      "to": 656.58,
+      "sid": 344,
+      "location": 2,
+      "content": "跌破成本线了",
+      "music": 0.0
+    },
+    {
+      "from": 656.58,
+      "to": 658.05,
+      "sid": 345,
+      "location": 2,
+      "content": "也不回头的继续跌",
+      "music": 0.0
+    },
+    {
+      "from": 658.05,
+      "to": 660.71,
+      "sid": 346,
+      "location": 2,
+      "content": "鸡蛋的价格在2025年跌破了三块一斤",
+      "music": 0.0
+    },
+    {
+      "from": 660.71,
+      "to": 662.3,
+      "sid": 347,
+      "location": 2,
+      "content": "创出了56年来的新低",
+      "music": 0.0
+    },
+    {
+      "from": 662.3,
+      "to": 664.42,
+      "sid": 348,
+      "location": 2,
+      "content": "而生猪价格呢更是在今年最低",
+      "music": 0.0
+    },
+    {
+      "from": 664.42,
+      "to": 665.68,
+      "sid": 349,
+      "location": 2,
+      "content": "跌到了四块多一斤",
+      "music": 0.0
+    },
+    {
+      "from": 665.68,
+      "to": 668.5,
+      "sid": 350,
+      "location": 2,
+      "content": "这个价格对于一些养殖成本较高的个体户来说",
+      "music": 0.0
+    },
+    {
+      "from": 668.5,
+      "to": 670.49,
+      "sid": 351,
+      "location": 2,
+      "content": "养一头猪呢要倒亏500块",
+      "music": 0.0
+    },
+    {
+      "from": 670.49,
+      "to": 672.51,
+      "sid": 352,
+      "location": 2,
+      "content": "就算规模化养殖的上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 672.51,
+      "to": 674.13,
+      "sid": 353,
+      "location": 2,
+      "content": "也全部进入了亏损状态",
+      "music": 0.0
+    },
+    {
+      "from": 674.13,
+      "to": 675.15,
+      "sid": 354,
+      "location": 2,
+      "content": "几乎是无一幸免",
+      "music": 0.0
+    },
+    {
+      "from": 675.15,
+      "to": 677.32,
+      "sid": 355,
+      "location": 2,
+      "content": "而那些养养鱼养虾的渔业公司们",
+      "music": 0.0
+    },
+    {
+      "from": 677.32,
+      "to": 680.39,
+      "sid": 356,
+      "location": 2,
+      "content": "在今年季度因为中东冲突导致油价升高后",
+      "music": 0.0
+    },
+    {
+      "from": 680.39,
+      "to": 682.03,
+      "sid": 357,
+      "location": 2,
+      "content": "传导到了下游的化肥",
+      "music": 0.0
+    },
+    {
+      "from": 682.03,
+      "to": 683.93,
+      "sid": 358,
+      "location": 2,
+      "content": "让饲料的价格呢伴随上涨",
+      "music": 0.0
+    },
+    {
+      "from": 683.93,
+      "to": 685.91,
+      "sid": 359,
+      "location": 2,
+      "content": "叠加上整个行业整体的体量小",
+      "music": 0.0
+    },
+    {
+      "from": 685.91,
+      "to": 687.45,
+      "sid": 360,
+      "location": 2,
+      "content": "在下游消费持续萎靡",
+      "music": 0.0
+    },
+    {
+      "from": 687.45,
+      "to": 689.38,
+      "sid": 361,
+      "location": 2,
+      "content": "产品价格持续下跌之下",
+      "music": 0.0
+    },
+    {
+      "from": 689.38,
+      "to": 690.96,
+      "sid": 362,
+      "location": 2,
+      "content": "业绩变脸能更夸张",
+      "music": 0.0
+    },
+    {
+      "from": 690.96,
+      "to": 692.94,
+      "sid": 363,
+      "location": 2,
+      "content": "所以才出现了负1200%",
+      "music": 0.0
+    },
+    {
+      "from": 692.94,
+      "to": 694.76,
+      "sid": 364,
+      "location": 2,
+      "content": "百零九.46的极端数据",
+      "music": 0.0
+    },
+    {
+      "from": 694.76,
+      "to": 697.66,
+      "sid": 365,
+      "location": 2,
+      "content": "造成我国养殖行业陷入低迷的原因主要有三个",
+      "music": 0.0
+    },
+    {
+      "from": 697.66,
+      "to": 699.98,
+      "sid": 366,
+      "location": 2,
+      "content": "一个呢就是餐饮的消费持续低迷",
+      "music": 0.0
+    },
+    {
+      "from": 699.98,
+      "to": 701.42,
+      "sid": 367,
+      "location": 2,
+      "content": "我国居民部门呢这几年",
+      "music": 0.0
+    },
+    {
+      "from": 701.42,
+      "to": 703.08,
+      "sid": 368,
+      "location": 2,
+      "content": "在收入预期不佳的事实之下",
+      "music": 0.0
+    },
+    {
+      "from": 703.08,
+      "to": 704.26,
+      "sid": 369,
+      "location": 2,
+      "content": "正在持续的降杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 704.26,
+      "to": 705.55,
+      "sid": 370,
+      "location": 2,
+      "content": "有钱就先还债",
+      "music": 0.0
+    },
+    {
+      "from": 705.55,
+      "to": 706.51,
+      "sid": 371,
+      "location": 2,
+      "content": "剩下的存银行",
+      "music": 0.0
+    },
+    {
+      "from": 706.51,
+      "to": 708.01,
+      "sid": 372,
+      "location": 2,
+      "content": "叠加上国家层面的补贴",
+      "music": 0.0
+    },
+    {
+      "from": 708.01,
+      "to": 709.07,
+      "sid": 373,
+      "location": 2,
+      "content": "只集中在汽车",
+      "music": 0.0
+    },
+    {
+      "from": 709.07,
+      "to": 709.87,
+      "sid": 374,
+      "location": 2,
+      "content": "家电等行业",
+      "music": 0.0
+    },
+    {
+      "from": 709.87,
+      "to": 712.47,
+      "sid": 375,
+      "location": 2,
+      "content": "更是吸收了本就不多的居民端流动性",
+      "music": 0.0
+    },
+    {
+      "from": 712.47,
+      "to": 714.7,
+      "sid": 376,
+      "location": 2,
+      "content": "让其他消费行业受到了双重的挤压",
+      "music": 0.0
+    },
+    {
+      "from": 714.7,
+      "to": 716.84,
+      "sid": 377,
+      "location": 2,
+      "content": "而且从前几年开始严查的公务宴请",
+      "music": 0.0
+    },
+    {
+      "from": 716.84,
+      "to": 719.36,
+      "sid": 378,
+      "location": 2,
+      "content": "也让高端酒店和餐馆客流量严重下滑",
+      "music": 0.0
+    },
+    {
+      "from": 719.36,
+      "to": 722.3,
+      "sid": 379,
+      "location": 2,
+      "content": "水产品的餐饮采购量在去年下降了30%",
+      "music": 0.0
+    },
+    {
+      "from": 722.3,
+      "to": 723.32,
+      "sid": 380,
+      "location": 2,
+      "content": "那第二个原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 723.32,
+      "to": 725.77,
+      "sid": 381,
+      "location": 2,
+      "content": "就是进口牛羊肉的价格竞争力很强",
+      "music": 0.0
+    },
+    {
+      "from": 725.77,
+      "to": 728.26,
+      "sid": 382,
+      "location": 2,
+      "content": "猪肉呢在我国的消费占比持续下降",
+      "music": 0.0
+    },
+    {
+      "from": 728.26,
+      "to": 730.58,
+      "sid": 383,
+      "location": 2,
+      "content": "从2018年的62.1%",
+      "music": 0.0
+    },
+    {
+      "from": 730.58,
+      "to": 733.42,
+      "sid": 384,
+      "location": 2,
+      "content": "已经下降到了2025年的57.9%",
+      "music": 0.0
+    },
+    {
+      "from": 733.42,
+      "to": 736.06,
+      "sid": 385,
+      "location": 2,
+      "content": "那最后一个原因就是企业的逆势扩产",
+      "music": 0.0
+    },
+    {
+      "from": 736.06,
+      "to": 739.08,
+      "sid": 386,
+      "location": 2,
+      "content": "大家都知道生猪行业有一个很著名的猪周期",
+      "music": 0.0
+    },
+    {
+      "from": 739.08,
+      "to": 740.1,
+      "sid": 387,
+      "location": 2,
+      "content": "逻辑很简单",
+      "music": 0.0
+    },
+    {
+      "from": 740.1,
+      "to": 741.56,
+      "sid": 388,
+      "location": 2,
+      "content": "当猪肉价格上涨后",
+      "music": 0.0
+    },
+    {
+      "from": 741.56,
+      "to": 742.78,
+      "sid": 389,
+      "location": 2,
+      "content": "养殖户开始扩产",
+      "music": 0.0
+    },
+    {
+      "from": 742.78,
+      "to": 744.14,
+      "sid": 390,
+      "location": 2,
+      "content": "等到大批生猪出栏",
+      "music": 0.0
+    },
+    {
+      "from": 744.14,
+      "to": 745.1,
+      "sid": 391,
+      "location": 2,
+      "content": "供大于求之后",
+      "music": 0.0
+    },
+    {
+      "from": 745.1,
+      "to": 745.92,
+      "sid": 392,
+      "location": 2,
+      "content": "肉价暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 745.92,
+      "to": 746.78,
+      "sid": 393,
+      "location": 2,
+      "content": "养殖户亏损",
+      "music": 0.0
+    },
+    {
+      "from": 746.78,
+      "to": 747.96,
+      "sid": 394,
+      "location": 2,
+      "content": "然后再淘汰母猪",
+      "music": 0.0
+    },
+    {
+      "from": 747.96,
+      "to": 749.02,
+      "sid": 395,
+      "location": 2,
+      "content": "等到供应变少",
+      "music": 0.0
+    },
+    {
+      "from": 749.02,
+      "to": 750.42,
+      "sid": 396,
+      "location": 2,
+      "content": "肉价又会重新涨起来",
+      "music": 0.0
+    },
+    {
+      "from": 750.42,
+      "to": 751.24,
+      "sid": 397,
+      "location": 2,
+      "content": "周而复始",
+      "music": 0.0
+    },
+    {
+      "from": 751.24,
+      "to": 753.98,
+      "sid": 398,
+      "location": 2,
+      "content": "历史上一轮价格从低点到高点的周期",
+      "music": 0.0
+    },
+    {
+      "from": 753.98,
+      "to": 755.22,
+      "sid": 399,
+      "location": 2,
+      "content": "大概在4年左右",
+      "music": 0.0
+    },
+    {
+      "from": 755.22,
+      "to": 757.32,
+      "sid": 400,
+      "location": 2,
+      "content": "但是这个历史上屡试不爽的周期",
+      "music": 0.0
+    },
+    {
+      "from": 757.32,
+      "to": 758.6,
+      "sid": 401,
+      "location": 2,
+      "content": "在这次被打破了",
+      "music": 0.0
+    },
+    {
+      "from": 758.6,
+      "to": 760.48,
+      "sid": 402,
+      "location": 2,
+      "content": "一个是因为这个周期大家都知道",
+      "music": 0.0
+    },
+    {
+      "from": 760.48,
+      "to": 761.7,
+      "sid": 403,
+      "location": 2,
+      "content": "所以在肉价暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 761.7,
+      "to": 762.8,
+      "sid": 404,
+      "location": 2,
+      "content": "养殖户亏损后",
+      "music": 0.0
+    },
+    {
+      "from": 762.8,
+      "to": 764.14,
+      "sid": 405,
+      "location": 2,
+      "content": "很多人选择不减产",
+      "music": 0.0
+    },
+    {
+      "from": 764.14,
+      "to": 765.7,
+      "sid": 406,
+      "location": 2,
+      "content": "硬扛赌周期反转",
+      "music": 0.0
+    },
+    {
+      "from": 765.7,
+      "to": 768.53,
+      "sid": 407,
+      "location": 2,
+      "content": "另一个是头部企业们的养猪效率大幅提升",
+      "music": 0.0
+    },
+    {
+      "from": 768.53,
+      "to": 770.63,
+      "sid": 408,
+      "location": 2,
+      "content": "最低呢可以把成本做到五块斤",
+      "music": 0.0
+    },
+    {
+      "from": 770.63,
+      "to": 773.33,
+      "sid": 409,
+      "location": 2,
+      "content": "让生猪成本线的价格中枢持续下移",
+      "music": 0.0
+    },
+    {
+      "from": 773.33,
+      "to": 774.79,
+      "sid": 410,
+      "location": 2,
+      "content": "最终呢就让我们看到了",
+      "music": 0.0
+    },
+    {
+      "from": 774.79,
+      "to": 776.76,
+      "sid": 411,
+      "location": 2,
+      "content": "猪肉呢已经趴在底部多年",
+      "music": 0.0
+    },
+    {
+      "from": 776.76,
+      "to": 778.82,
+      "sid": 412,
+      "location": 2,
+      "content": "但以往的周期反转一直没有出现",
+      "music": 0.0
+    },
+    {
+      "from": 778.82,
+      "to": 781.82,
+      "sid": 413,
+      "location": 2,
+      "content": "而即使行业里95%的企业都在亏损",
+      "music": 0.0
+    },
+    {
+      "from": 781.82,
+      "to": 784.1,
+      "sid": 414,
+      "location": 2,
+      "content": "生猪的产能出清呢也迟迟不肯来",
+      "music": 0.0
+    },
+    {
+      "from": 784.1,
+      "to": 785.98,
+      "sid": 415,
+      "location": 2,
+      "content": "跌破历史极值的猪肉价格呢",
+      "music": 0.0
+    },
+    {
+      "from": 785.98,
+      "to": 788.29,
+      "sid": 416,
+      "location": 2,
+      "content": "直接带崩了整个养殖行业好了",
+      "music": 0.0
+    },
+    {
+      "from": 788.29,
+      "to": 789.39,
+      "sid": 417,
+      "location": 2,
+      "content": "2025年衰退",
+      "music": 0.0
+    },
+    {
+      "from": 789.39,
+      "to": 792.18,
+      "sid": 418,
+      "location": 2,
+      "content": "行业top5的榜单呢到这里就算公布完毕了",
+      "music": 0.0
+    },
+    {
+      "from": 792.18,
+      "to": 795.28,
+      "sid": 419,
+      "location": 2,
+      "content": "下期呢我们再来一起看看谁是去年闷声发财",
+      "music": 0.0
+    },
+    {
+      "from": 795.28,
+      "to": 796.4,
+      "sid": 420,
+      "location": 2,
+      "content": "偷偷吃肉的top",
+      "music": 0.0
+    },
+    {
+      "from": 796.4,
+      "to": 799.14,
+      "sid": 421,
+      "location": 2,
+      "content": "本视频点赞超过2万或者投币超过1万",
+      "music": 0.0
+    },
+    {
+      "from": 800.96,
+      "to": 801.48,
+      "sid": 422,
+      "location": 2,
+      "content": "此外呢",
+      "music": 0.0
+    },
+    {
+      "from": 801.48,
+      "to": 802.56,
+      "sid": 423,
+      "location": 2,
+      "content": "这30个一级行业",
+      "music": 0.0
+    },
+    {
+      "from": 802.56,
+      "to": 805.34,
+      "sid": 424,
+      "location": 2,
+      "content": "和过百个二级行业的具体数据都在这份研报里",
+      "music": 0.0
+    },
+    {
+      "from": 805.34,
+      "to": 807.58,
+      "sid": 425,
+      "location": 2,
+      "content": "想要的同学给视频三连并关注账号后",
+      "music": 0.0
+    },
+    {
+      "from": 807.58,
+      "to": 809.1,
+      "sid": 426,
+      "location": 2,
+      "content": "在评论区留下你的邮箱",
+      "music": 0.0
+    },
+    {
+      "from": 809.1,
+      "to": 810.64,
+      "sid": 427,
+      "location": 2,
+      "content": "不要在别人评论下评论",
+      "music": 0.0
+    },
+    {
+      "from": 810.64,
+      "to": 811.54,
+      "sid": 428,
+      "location": 2,
+      "content": "我会采集不到",
+      "music": 0.0
+    },
+    {
+      "from": 811.54,
+      "to": 813.12,
+      "sid": 429,
+      "location": 2,
+      "content": "往年呢我都手动攒一波",
+      "music": 0.0
+    },
+    {
+      "from": 813.12,
+      "to": 813.92,
+      "sid": 430,
+      "location": 2,
+      "content": "然后群发一次",
+      "music": 0.0
+    },
+    {
+      "from": 813.92,
+      "to": 814.82,
+      "sid": 431,
+      "location": 2,
+      "content": "那总有人不信",
+      "music": 0.0
+    },
+    {
+      "from": 814.82,
+      "to": 816.32,
+      "sid": 432,
+      "location": 2,
+      "content": "这次截图给大家证明一下",
+      "music": 0.0
+    },
+    {
+      "from": 816.32,
+      "to": 818.5,
+      "sid": 433,
+      "location": 2,
+      "content": "那最后呢也推荐大家在评论区聊",
+      "music": 0.0
+    },
+    {
+      "from": 818.5,
+      "to": 819.56,
+      "sid": 434,
+      "location": 2,
+      "content": "还有自己的行业情况",
+      "music": 0.0
+    },
+    {
+      "from": 819.56,
+      "to": 821.46,
+      "sid": 435,
+      "location": 2,
+      "content": "大家一起交换一下一线的信息",
+      "music": 0.0
+    },
+    {
+      "from": 821.46,
+      "to": 822.7,
+      "sid": 436,
+      "location": 2,
+      "content": "最后感谢各位的点赞",
+      "music": 0.0
+    },
+    {
+      "from": 822.7,
+      "to": 823.26,
+      "sid": 437,
+      "location": 2,
+      "content": "投币支持",
+      "music": 0.0
+    },
+    {
+      "from": 823.26,
+      "to": 825.12,
+      "sid": 438,
+      "location": 2,
+      "content": "我们下期吃肉视频见",
+      "music": 0.0
+    }
+  ]
+}
