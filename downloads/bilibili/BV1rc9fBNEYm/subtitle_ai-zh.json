@@ -1,0 +1,1204 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.3,
+      "to": 3.28,
+      "sid": 1,
+      "location": 2,
+      "content": "你以为中国AI芯片只能追随美国吗",
+      "music": 0.0
+    },
+    {
+      "from": 3.28,
+      "to": 4.74,
+      "sid": 2,
+      "location": 2,
+      "content": "摩根士丹利这份研报",
+      "music": 0.0
+    },
+    {
+      "from": 4.74,
+      "to": 8.67,
+      "sid": 3,
+      "location": 2,
+      "content": "揭示了中国AI加速器产业正在弯道超车",
+      "music": 0.0
+    },
+    {
+      "from": 8.67,
+      "to": 11.43,
+      "sid": 4,
+      "location": 2,
+      "content": "这份研报里面有不少值得关注的内容",
+      "music": 0.0
+    },
+    {
+      "from": 11.43,
+      "to": 13.84,
+      "sid": 5,
+      "location": 2,
+      "content": "咱们今天就一起来拆解一下",
+      "music": 0.0
+    },
+    {
+      "from": 13.84,
+      "to": 16.92,
+      "sid": 6,
+      "location": 2,
+      "content": "首先摩根士丹利预计到2030年",
+      "music": 0.0
+    },
+    {
+      "from": 16.92,
+      "to": 20.0,
+      "sid": 7,
+      "location": 2,
+      "content": "中国AI芯片国内自给率将达到86%",
+      "music": 0.0
+    },
+    {
+      "from": 20.0,
+      "to": 22.56,
+      "sid": 8,
+      "location": 2,
+      "content": "市场规模将达到770亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 22.56,
+      "to": 24.12,
+      "sid": 9,
+      "location": 2,
+      "content": "研报的核心观点是",
+      "music": 0.0
+    },
+    {
+      "from": 24.12,
+      "to": 27.44,
+      "sid": 10,
+      "location": 2,
+      "content": "中国AI加速器产业正进入商业化落地阶段",
+      "music": 0.0
+    },
+    {
+      "from": 27.44,
+      "to": 30.82,
+      "sid": 11,
+      "location": 2,
+      "content": "国内芯片在推理场景已具备成本竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 30.82,
+      "to": 34.16,
+      "sid": 12,
+      "location": 2,
+      "content": "摩根士丹利还首次覆盖了寒武纪和天数智新",
+      "music": 0.0
+    },
+    {
+      "from": 34.16,
+      "to": 35.96,
+      "sid": 13,
+      "location": 2,
+      "content": "给予增持评级",
+      "music": 0.0
+    },
+    {
+      "from": 35.96,
+      "to": 39.79,
+      "sid": 14,
+      "location": 2,
+      "content": "首次覆盖穆西吉景电路给予等权重评级",
+      "music": 0.0
+    },
+    {
+      "from": 39.79,
+      "to": 41.79,
+      "sid": 15,
+      "location": 2,
+      "content": "接下来咱们先看看",
+      "music": 0.0
+    },
+    {
+      "from": 41.79,
+      "to": 43.77,
+      "sid": 16,
+      "location": 2,
+      "content": "中国AI加速器产业的发展趋势",
+      "music": 0.0
+    },
+    {
+      "from": 43.77,
+      "to": 45.21,
+      "sid": 17,
+      "location": 2,
+      "content": "摩根士丹利预计",
+      "music": 0.0
+    },
+    {
+      "from": 45.21,
+      "to": 46.49,
+      "sid": 18,
+      "location": 2,
+      "content": "到2030年",
+      "music": 0.0
+    },
+    {
+      "from": 46.49,
+      "to": 50.03,
+      "sid": 19,
+      "location": 2,
+      "content": "中国AI芯片市场规模将达到770亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 50.03,
+      "to": 52.97,
+      "sid": 20,
+      "location": 2,
+      "content": "国内自给率将提升至86%",
+      "music": 0.0
+    },
+    {
+      "from": 52.97,
+      "to": 56.76,
+      "sid": 21,
+      "location": 2,
+      "content": "虽然中国在芯片工艺上仍落后美国约两代",
+      "music": 0.0
+    },
+    {
+      "from": 56.76,
+      "to": 58.5,
+      "sid": 22,
+      "location": 2,
+      "content": "但摩根士丹利指出",
+      "music": 0.0
+    },
+    {
+      "from": 58.5,
+      "to": 60.12,
+      "sid": 23,
+      "location": 2,
+      "content": "通过系统及创新",
+      "music": 0.0
+    },
+    {
+      "from": 60.12,
+      "to": 62.88,
+      "sid": 24,
+      "location": 2,
+      "content": "供应链本土化和更具吸引力的推理",
+      "music": 0.0
+    },
+    {
+      "from": 62.88,
+      "to": 65.92,
+      "sid": 25,
+      "location": 2,
+      "content": "经济学正在缩小与美国的差距",
+      "music": 0.0
+    },
+    {
+      "from": 65.92,
+      "to": 67.38,
+      "sid": 26,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 67.38,
+      "to": 70.96,
+      "sid": 27,
+      "location": 2,
+      "content": "中国AI需求正变得更加以推理为导向",
+      "music": 0.0
+    },
+    {
+      "from": 70.96,
+      "to": 72.2,
+      "sid": 28,
+      "location": 2,
+      "content": "更加重复",
+      "music": 0.0
+    },
+    {
+      "from": 72.2,
+      "to": 74.05,
+      "sid": 29,
+      "location": 2,
+      "content": "更加以利用率为驱动",
+      "music": 0.0
+    },
+    {
+      "from": 74.05,
+      "to": 76.85,
+      "sid": 30,
+      "location": 2,
+      "content": "这在结构上有利于围绕成本效率",
+      "music": 0.0
+    },
+    {
+      "from": 76.85,
+      "to": 80.24,
+      "sid": 31,
+      "location": 2,
+      "content": "软件适应性和可用性优化的解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 80.24,
+      "to": 84.52,
+      "sid": 32,
+      "location": 2,
+      "content": "也就是说国内厂商不用一昧追求最先进的工艺",
+      "music": 0.0
+    },
+    {
+      "from": 84.52,
+      "to": 87.16,
+      "sid": 33,
+      "location": 2,
+      "content": "而是可以通过在系统层面的优化",
+      "music": 0.0
+    },
+    {
+      "from": 87.16,
+      "to": 91.57,
+      "sid": 34,
+      "location": 2,
+      "content": "以及更贴合市场需求的产品设计来提升竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 91.57,
+      "to": 95.05,
+      "sid": 35,
+      "location": 2,
+      "content": "然后是中国AI芯片厂商的评估框架",
+      "music": 0.0
+    },
+    {
+      "from": 95.05,
+      "to": 98.61,
+      "sid": 36,
+      "location": 2,
+      "content": "摩根士丹利通过经济学执行能力二维框架评估",
+      "music": 0.0
+    },
+    {
+      "from": 98.61,
+      "to": 100.19,
+      "sid": 37,
+      "location": 2,
+      "content": "国内AI芯片厂商",
+      "music": 0.0
+    },
+    {
+      "from": 100.19,
+      "to": 103.66,
+      "sid": 38,
+      "location": 2,
+      "content": "包括推理经济学和执行能力两大维度",
+      "music": 0.0
+    },
+    {
+      "from": 103.66,
+      "to": 107.0,
+      "sid": 39,
+      "location": 2,
+      "content": "推理经济学方面主要看总拥有成本",
+      "music": 0.0
+    },
+    {
+      "from": 107.0,
+      "to": 108.28,
+      "sid": 40,
+      "location": 2,
+      "content": "每令牌成本",
+      "music": 0.0
+    },
+    {
+      "from": 108.28,
+      "to": 112.23,
+      "sid": 41,
+      "location": 2,
+      "content": "每秒令牌输出性能以及每瓦特或者每美元性能",
+      "music": 0.0
+    },
+    {
+      "from": 112.23,
+      "to": 114.91,
+      "sid": 42,
+      "location": 2,
+      "content": "执行能力则包括先进节点产能",
+      "music": 0.0
+    },
+    {
+      "from": 114.91,
+      "to": 117.07,
+      "sid": 43,
+      "location": 2,
+      "content": "获取软件生态成熟度",
+      "music": 0.0
+    },
+    {
+      "from": 117.07,
+      "to": 118.83,
+      "sid": 44,
+      "location": 2,
+      "content": "云服务商关系深度",
+      "music": 0.0
+    },
+    {
+      "from": 118.83,
+      "to": 120.57,
+      "sid": 45,
+      "location": 2,
+      "content": "产品路线图合理性",
+      "music": 0.0
+    },
+    {
+      "from": 120.57,
+      "to": 122.01,
+      "sid": 46,
+      "location": 2,
+      "content": "摩根士丹利发现",
+      "music": 0.0
+    },
+    {
+      "from": 122.01,
+      "to": 123.79,
+      "sid": 47,
+      "location": 2,
+      "content": "经济学而非意识形态",
+      "music": 0.0
+    },
+    {
+      "from": 123.79,
+      "to": 126.24,
+      "sid": 48,
+      "location": 2,
+      "content": "正在推动国内AI芯片的采用",
+      "music": 0.0
+    },
+    {
+      "from": 126.24,
+      "to": 128.3,
+      "sid": 49,
+      "location": 2,
+      "content": "国内加速器的总拥有成本",
+      "music": 0.0
+    },
+    {
+      "from": 128.3,
+      "to": 131.39,
+      "sid": 50,
+      "location": 2,
+      "content": "已经比中国可用的英伟达产品低很多",
+      "music": 0.0
+    },
+    {
+      "from": 131.39,
+      "to": 132.77,
+      "sid": 51,
+      "location": 2,
+      "content": "领先的中国芯片",
+      "music": 0.0
+    },
+    {
+      "from": 132.77,
+      "to": 134.23,
+      "sid": 52,
+      "location": 2,
+      "content": "在推理工作负载中",
+      "music": 0.0
+    },
+    {
+      "from": 134.23,
+      "to": 136.96,
+      "sid": 53,
+      "location": 2,
+      "content": "可以实现广泛的美令牌成本平衡",
+      "music": 0.0
+    },
+    {
+      "from": 136.96,
+      "to": 141.08,
+      "sid": 54,
+      "location": 2,
+      "content": "这说明市场选择国产芯片更多是因为性价比高",
+      "music": 0.0
+    },
+    {
+      "from": 141.08,
+      "to": 143.15,
+      "sid": 55,
+      "location": 2,
+      "content": "而不是其他因素",
+      "music": 0.0
+    },
+    {
+      "from": 143.35,
+      "to": 146.11,
+      "sid": 56,
+      "location": 2,
+      "content": "再来看重点AI芯片厂商的分析",
+      "music": 0.0
+    },
+    {
+      "from": 146.11,
+      "to": 147.65,
+      "sid": 57,
+      "location": 2,
+      "content": "首先是寒武纪",
+      "music": 0.0
+    },
+    {
+      "from": 147.65,
+      "to": 149.96,
+      "sid": 58,
+      "location": 2,
+      "content": "摩根士丹利给予增持评级",
+      "music": 0.0
+    },
+    {
+      "from": 149.96,
+      "to": 152.26,
+      "sid": 59,
+      "location": 2,
+      "content": "目标价1588元",
+      "music": 0.0
+    },
+    {
+      "from": 152.26,
+      "to": 153.5,
+      "sid": 60,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 153.5,
+      "to": 156.87,
+      "sid": 61,
+      "location": 2,
+      "content": "寒武纪是国内领先的AI推理芯片厂商",
+      "music": 0.0
+    },
+    {
+      "from": 156.87,
+      "to": 159.59,
+      "sid": 62,
+      "location": 2,
+      "content": "凭借强大的云服务商客户锚定",
+      "music": 0.0
+    },
+    {
+      "from": 159.59,
+      "to": 160.59,
+      "sid": 63,
+      "location": 2,
+      "content": "成熟的硬件",
+      "music": 0.0
+    },
+    {
+      "from": 160.59,
+      "to": 161.93,
+      "sid": 64,
+      "location": 2,
+      "content": "软件协同优化",
+      "music": 0.0
+    },
+    {
+      "from": 161.93,
+      "to": 165.209,
+      "sid": 65,
+      "location": 2,
+      "content": "和在大规模云推理部署中的稳固定位",
+      "music": 0.0
+    },
+    {
+      "from": 165.209,
+      "to": 168.37,
+      "sid": 66,
+      "location": 2,
+      "content": "在当前云推理牵引力方面表现最强",
+      "music": 0.0
+    },
+    {
+      "from": 168.37,
+      "to": 169.35,
+      "sid": 67,
+      "location": 2,
+      "content": "简单来说",
+      "music": 0.0
+    },
+    {
+      "from": 169.35,
+      "to": 171.99,
+      "sid": 68,
+      "location": 2,
+      "content": "寒武纪和云服务商的合作比较紧密",
+      "music": 0.0
+    },
+    {
+      "from": 171.99,
+      "to": 173.61,
+      "sid": 69,
+      "location": 2,
+      "content": "软硬件结合做得好",
+      "music": 0.0
+    },
+    {
+      "from": 173.61,
+      "to": 176.92,
+      "sid": 70,
+      "location": 2,
+      "content": "在大规模云推理项目里优势明显",
+      "music": 0.0
+    },
+    {
+      "from": 176.92,
+      "to": 178.7,
+      "sid": 71,
+      "location": 2,
+      "content": "其次是天数智新",
+      "music": 0.0
+    },
+    {
+      "from": 178.7,
+      "to": 180.12,
+      "sid": 72,
+      "location": 2,
+      "content": "同样获得增持评级",
+      "music": 0.0
+    },
+    {
+      "from": 180.12,
+      "to": 181.579,
+      "sid": 73,
+      "location": 2,
+      "content": "目标价600港元",
+      "music": 0.0
+    },
+    {
+      "from": 181.579,
+      "to": 185.039,
+      "sid": 74,
+      "location": 2,
+      "content": "摩根士丹利看好天数智新的多元化供应链战略",
+      "music": 0.0
+    },
+    {
+      "from": 185.039,
+      "to": 188.85,
+      "sid": 75,
+      "location": 2,
+      "content": "更强的供应可见性和不断增长的云客户曝光度",
+      "music": 0.0
+    },
+    {
+      "from": 192.59,
+      "to": 194.47,
+      "sid": 76,
+      "location": 2,
+      "content": "在当前的市场环境下",
+      "music": 0.0
+    },
+    {
+      "from": 194.47,
+      "to": 196.29,
+      "sid": 77,
+      "location": 2,
+      "content": "供应链稳定非常重要",
+      "music": 0.0
+    },
+    {
+      "from": 196.29,
+      "to": 198.75,
+      "sid": 78,
+      "location": 2,
+      "content": "天数智新通过多元化供应链布局",
+      "music": 0.0
+    },
+    {
+      "from": 198.75,
+      "to": 200.73,
+      "sid": 79,
+      "location": 2,
+      "content": "能更好地应对供应波动",
+      "music": 0.0
+    },
+    {
+      "from": 200.73,
+      "to": 202.839,
+      "sid": 80,
+      "location": 2,
+      "content": "这也是它的一大优势",
+      "music": 0.0
+    },
+    {
+      "from": 203.079,
+      "to": 204.959,
+      "sid": 81,
+      "location": 2,
+      "content": "还有穆希集藤电路",
+      "music": 0.0
+    },
+    {
+      "from": 204.959,
+      "to": 207.53,
+      "sid": 82,
+      "location": 2,
+      "content": "摩根士丹利给予等权重评级",
+      "music": 0.0
+    },
+    {
+      "from": 207.53,
+      "to": 209.21,
+      "sid": 83,
+      "location": 2,
+      "content": "目标价758元",
+      "music": 0.0
+    },
+    {
+      "from": 209.21,
+      "to": 210.27,
+      "sid": 84,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 210.27,
+      "to": 213.51,
+      "sid": 85,
+      "location": 2,
+      "content": "穆希是一家差异化的国内通用GPU厂商",
+      "music": 0.0
+    },
+    {
+      "from": 213.51,
+      "to": 216.69,
+      "sid": 86,
+      "location": 2,
+      "content": "具有相对较强的类cu da软件兼容性",
+      "music": 0.0
+    },
+    {
+      "from": 216.69,
+      "to": 219.39,
+      "sid": 87,
+      "location": 2,
+      "content": "和更具可扩展性的近期制造路径",
+      "music": 0.0
+    },
+    {
+      "from": 219.39,
+      "to": 221.53,
+      "sid": 88,
+      "location": 2,
+      "content": "但估值吸引力低于同行",
+      "music": 0.0
+    },
+    {
+      "from": 221.53,
+      "to": 223.63,
+      "sid": 89,
+      "location": 2,
+      "content": "木希在软件兼容方面做得不错",
+      "music": 0.0
+    },
+    {
+      "from": 223.63,
+      "to": 225.35,
+      "sid": 90,
+      "location": 2,
+      "content": "制造路径也比较灵活",
+      "music": 0.0
+    },
+    {
+      "from": 225.35,
+      "to": 226.71,
+      "sid": 91,
+      "location": 2,
+      "content": "但从估值来看",
+      "music": 0.0
+    },
+    {
+      "from": 226.71,
+      "to": 229.78,
+      "sid": 92,
+      "location": 2,
+      "content": "和其他两家比起来优势没那么大",
+      "music": 0.0
+    },
+    {
+      "from": 230.02,
+      "to": 231.0,
+      "sid": 93,
+      "location": 2,
+      "content": "除了这些",
+      "music": 0.0
+    },
+    {
+      "from": 231.0,
+      "to": 232.18,
+      "sid": 94,
+      "location": 2,
+      "content": "摩根士丹利还提到",
+      "music": 0.0
+    },
+    {
+      "from": 232.18,
+      "to": 234.76,
+      "sid": 95,
+      "location": 2,
+      "content": "中国AI加速器产业的竞争格局",
+      "music": 0.0
+    },
+    {
+      "from": 234.76,
+      "to": 238.64,
+      "sid": 96,
+      "location": 2,
+      "content": "中国AI加速器生态系统涵盖商业芯片供应商",
+      "music": 0.0
+    },
+    {
+      "from": 238.64,
+      "to": 240.36,
+      "sid": 97,
+      "location": 2,
+      "content": "主权支持的企业",
+      "music": 0.0
+    },
+    {
+      "from": 240.36,
+      "to": 240.66,
+      "sid": 98,
+      "location": 2,
+      "content": "和",
+      "music": 0.0
+    },
+    {
+      "from": 240.66,
+      "to": 244.339,
+      "sid": 99,
+      "location": 2,
+      "content": "与主要云服务提供商关联的专属芯片设计公司",
+      "music": 0.0
+    },
+    {
+      "from": 244.339,
+      "to": 247.74,
+      "sid": 100,
+      "location": 2,
+      "content": "不同厂商在不同细分市场具有竞争优势",
+      "music": 0.0
+    },
+    {
+      "from": 247.74,
+      "to": 248.98,
+      "sid": 101,
+      "location": 2,
+      "content": "摩根士丹利认为",
+      "music": 0.0
+    },
+    {
+      "from": 248.98,
+      "to": 250.58,
+      "sid": 102,
+      "location": 2,
+      "content": "具有强大云服务商",
+      "music": 0.0
+    },
+    {
+      "from": 250.58,
+      "to": 253.42,
+      "sid": 103,
+      "location": 2,
+      "content": "合作开发关系和可靠软件站的厂商",
+      "music": 0.0
+    },
+    {
+      "from": 253.42,
+      "to": 256.36,
+      "sid": 104,
+      "location": 2,
+      "content": "更有能力赢得高容量云推理部署",
+      "music": 0.0
+    },
+    {
+      "from": 256.36,
+      "to": 258.4,
+      "sid": 105,
+      "location": 2,
+      "content": "而具有更强国内供应链",
+      "music": 0.0
+    },
+    {
+      "from": 258.4,
+      "to": 260.48,
+      "sid": 106,
+      "location": 2,
+      "content": "可见性或政府关系的厂商",
+      "music": 0.0
+    },
+    {
+      "from": 260.48,
+      "to": 263.95,
+      "sid": 107,
+      "location": 2,
+      "content": "可能在主权和公共部门项目中更具优势",
+      "music": 0.0
+    },
+    {
+      "from": 263.95,
+      "to": 267.11,
+      "sid": 108,
+      "location": 2,
+      "content": "近期行业环境对国内厂商更加有利",
+      "music": 0.0
+    },
+    {
+      "from": 267.11,
+      "to": 269.57,
+      "sid": 109,
+      "location": 2,
+      "content": "英伟达GPU中国的供应收紧",
+      "music": 0.0
+    },
+    {
+      "from": 269.57,
+      "to": 272.049,
+      "sid": 110,
+      "location": 2,
+      "content": "为本地替代创造了更多空间",
+      "music": 0.0
+    },
+    {
+      "from": 272.049,
+      "to": 274.83,
+      "sid": 111,
+      "location": 2,
+      "content": "但竞争也比预期更快的加剧",
+      "music": 0.0
+    },
+    {
+      "from": 274.83,
+      "to": 275.67,
+      "sid": 112,
+      "location": 2,
+      "content": "这意味着",
+      "music": 0.0
+    },
+    {
+      "from": 275.67,
+      "to": 278.63,
+      "sid": 113,
+      "location": 2,
+      "content": "国产芯片厂商虽然有了更多的市场机会",
+      "music": 0.0
+    },
+    {
+      "from": 278.63,
+      "to": 281.29,
+      "sid": 114,
+      "location": 2,
+      "content": "但同时也要面对更激烈的竞争",
+      "music": 0.0
+    },
+    {
+      "from": 281.29,
+      "to": 283.6,
+      "sid": 115,
+      "location": 2,
+      "content": "想要脱而出并不容易",
+      "music": 0.0
+    },
+    {
+      "from": 283.6,
+      "to": 286.86,
+      "sid": 116,
+      "location": 2,
+      "content": "关于中国AI芯片的技术优势",
+      "music": 0.0
+    },
+    {
+      "from": 286.86,
+      "to": 288.34,
+      "sid": 117,
+      "location": 2,
+      "content": "摩根士丹利指出",
+      "music": 0.0
+    },
+    {
+      "from": 288.34,
+      "to": 289.92,
+      "sid": 118,
+      "location": 2,
+      "content": "在推理场景中",
+      "music": 0.0
+    },
+    {
+      "from": 289.92,
+      "to": 293.04,
+      "sid": 119,
+      "location": 2,
+      "content": "国内领先的AI加速器已经可以实现",
+      "music": 0.0
+    },
+    {
+      "from": 293.04,
+      "to": 297.3,
+      "sid": 120,
+      "location": 2,
+      "content": "比中国可用的英伟达产品更高的每秒令牌输出",
+      "music": 0.0
+    },
+    {
+      "from": 297.3,
+      "to": 300.72,
+      "sid": 121,
+      "location": 2,
+      "content": "反映了计算能力和系统级优化的改进",
+      "music": 0.0
+    },
+    {
+      "from": 300.72,
+      "to": 303.16,
+      "sid": 122,
+      "location": 2,
+      "content": "国内AI芯片的总拥有成本",
+      "music": 0.0
+    },
+    {
+      "from": 303.16,
+      "to": 307.1,
+      "sid": 123,
+      "location": 2,
+      "content": "比尊重可用的英伟达产品低30%至60",
+      "music": 0.0
+    },
+    {
+      "from": 307.1,
+      "to": 309.98,
+      "sid": 124,
+      "location": 2,
+      "content": "主要得益于较低的前期芯片定价",
+      "music": 0.0
+    },
+    {
+      "from": 309.98,
+      "to": 313.78,
+      "sid": 125,
+      "location": 2,
+      "content": "和中国结构性较低的电力及精制设施成本",
+      "music": 0.0
+    },
+    {
+      "from": 313.78,
+      "to": 317.0,
+      "sid": 126,
+      "location": 2,
+      "content": "这说明国产芯片在推理性能和成本方面",
+      "music": 0.0
+    },
+    {
+      "from": 317.0,
+      "to": 319.02,
+      "sid": 127,
+      "location": 2,
+      "content": "已经具备了一定的竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 319.02,
+      "to": 321.51,
+      "sid": 128,
+      "location": 2,
+      "content": "能够满足市场的需求",
+      "music": 0.0
+    },
+    {
+      "from": 321.71,
+      "to": 324.81,
+      "sid": 129,
+      "location": 2,
+      "content": "最后咱们来总结一下摩根士丹利的主要观点",
+      "music": 0.0
+    },
+    {
+      "from": 324.81,
+      "to": 328.28,
+      "sid": 130,
+      "location": 2,
+      "content": "中国AI加速器产业正进入商业化落地阶段",
+      "music": 0.0
+    },
+    {
+      "from": 328.28,
+      "to": 331.84,
+      "sid": 131,
+      "location": 2,
+      "content": "国内芯片在推理场景已具备成本竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 331.84,
+      "to": 333.68,
+      "sid": 132,
+      "location": 2,
+      "content": "寒武纪和天数智新",
+      "music": 0.0
+    },
+    {
+      "from": 333.68,
+      "to": 336.15,
+      "sid": 133,
+      "location": 2,
+      "content": "是摩根士丹利首选的投资标的",
+      "music": 0.0
+    },
+    {
+      "from": 336.15,
+      "to": 338.35,
+      "sid": 134,
+      "location": 2,
+      "content": "木西极整六具有差异化定位",
+      "music": 0.0
+    },
+    {
+      "from": 338.35,
+      "to": 341.75,
+      "sid": 135,
+      "location": 2,
+      "content": "随着AI技术的快速发展和地缘政治因素的影响",
+      "music": 0.0
+    },
+    {
+      "from": 341.75,
+      "to": 344.7,
+      "sid": 136,
+      "location": 2,
+      "content": "中国AI芯片本土化进程将加速",
+      "music": 0.0
+    },
+    {
+      "from": 344.7,
+      "to": 347.68,
+      "sid": 137,
+      "location": 2,
+      "content": "国内AI芯片本土化进程将加速",
+      "music": 0.0
+    },
+    {
+      "from": 347.68,
+      "to": 351.46,
+      "sid": 138,
+      "location": 2,
+      "content": "国内AI加速器厂商有望在全球AI半导体市场",
+      "music": 0.0
+    },
+    {
+      "from": 351.46,
+      "to": 352.71,
+      "sid": 139,
+      "location": 2,
+      "content": "占据重要地位",
+      "music": 0.0
+    },
+    {
+      "from": 352.71,
+      "to": 354.42,
+      "sid": 140,
+      "location": 2,
+      "content": "不过需要注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 354.42,
+      "to": 356.22,
+      "sid": 141,
+      "location": 2,
+      "content": "研报观点仅作参考",
+      "music": 0.0
+    },
+    {
+      "from": 356.22,
+      "to": 357.62,
+      "sid": 142,
+      "location": 2,
+      "content": "不构成投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 357.62,
+      "to": 360.84,
+      "sid": 143,
+      "location": 2,
+      "content": "投资中国AI芯片厂商需关注的风险包括",
+      "music": 0.0
+    },
+    {
+      "from": 360.84,
+      "to": 362.55,
+      "sid": 144,
+      "location": 2,
+      "content": "AI需求增长放缓",
+      "music": 0.0
+    },
+    {
+      "from": 362.55,
+      "to": 364.51,
+      "sid": 145,
+      "location": 2,
+      "content": "早于预期的定价压力",
+      "music": 0.0
+    },
+    {
+      "from": 364.51,
+      "to": 366.41,
+      "sid": 146,
+      "location": 2,
+      "content": "政策或出口逆风等",
+      "music": 0.0
+    },
+    {
+      "from": 366.41,
+      "to": 368.19,
+      "sid": 147,
+      "location": 2,
+      "content": "在做出投资决策之前",
+      "music": 0.0
+    },
+    {
+      "from": 368.19,
+      "to": 370.37,
+      "sid": 148,
+      "location": 2,
+      "content": "还需要综合考虑各种因素",
+      "music": 0.0
+    },
+    {
+      "from": 370.37,
+      "to": 371.52,
+      "sid": 149,
+      "location": 2,
+      "content": "谨慎判断",
+      "music": 0.0
+    }
+  ]
+}

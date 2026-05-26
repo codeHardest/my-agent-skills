@@ -21,6 +21,7 @@ Arguments:
     --danmaku-count: Danmaku (bullet chat) count (default: 0)
     --subtitle-json: Path to original subtitle JSON file (default: "")
     --timestamps: Timestamps string from subtitles (default: "")
+    --pubdate: Video publish date in YYYY-MM-DD format (default: "")
 """
 
 import argparse
@@ -80,7 +81,7 @@ def format_count(count, default=0):
 
 def generate_summary_with_retry(transcript, title, url, duration, author="", view_count=0, like_count=0,
                                 coin_count=0, favorite_count=0, share_count=0, danmaku_count=0,
-                                subtitle_json="", timestamps="", max_retries=3, initial_delay=2):
+                                subtitle_json="", timestamps="", pubdate="", max_retries=3, initial_delay=2):
     """
     Generate summary using Claude API with exponential backoff retry.
 
@@ -129,6 +130,7 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
 - **URL**: {url}
 - **时长**: {duration_str}
 - **语言**: 中文
+- **发布时间**: {pubdate}
 - **下载时间**: {download_time}
 
 ## 原始元数据
@@ -374,6 +376,7 @@ def main():
     parser.add_argument('--share-count', type=int, default=0, help='Share count')
     parser.add_argument('--danmaku-count', type=int, default=0, help='Danmaku (bullet chat) count')
     parser.add_argument('--subtitle-json', default='', help='Path to original subtitle JSON file')
+    parser.add_argument('--pubdate', default='', help='Video publish date (YYYY-MM-DD format)')
     parser.add_argument('--max-retries', type=int, default=3, help='Max API retry attempts')
 
     args = parser.parse_args()
@@ -413,6 +416,7 @@ def main():
             danmaku_count=args.danmaku_count,
             subtitle_json=args.subtitle_json,
             timestamps=timestamps,
+            pubdate=args.pubdate,
             max_retries=args.max_retries
         )
     except Exception as e:

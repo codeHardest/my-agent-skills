@@ -1,0 +1,2716 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "sync-v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.24,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 4.96,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢和大家分享一篇德银的中国宏观研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.96,
+      "to": 8.98,
+      "sid": 4,
+      "location": 2,
+      "content": "这篇研报呢是德银的全球外汇团队和中国宏观团队啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.98,
+      "to": 12.26,
+      "sid": 5,
+      "location": 2,
+      "content": "在北京和上海举办了为期三天的一个trip",
+      "music": 0.0
+    },
+    {
+      "from": 12.26,
+      "to": 14.64,
+      "sid": 6,
+      "location": 2,
+      "content": "当然主要是一个投资者的交流",
+      "music": 0.0
+    },
+    {
+      "from": 14.64,
+      "to": 18.14,
+      "sid": 7,
+      "location": 2,
+      "content": "那么这篇研报呢是对于投资人的观点",
+      "music": 0.0
+    },
+    {
+      "from": 18.14,
+      "to": 21.93,
+      "sid": 8,
+      "location": 2,
+      "content": "包括他们邀请的一些专家学者的观点的总结",
+      "music": 0.0
+    },
+    {
+      "from": 21.93,
+      "to": 26.97,
+      "sid": 9,
+      "location": 2,
+      "content": "那我们也可以通过这篇研报来看一下大家普遍对中国经济的观点",
+      "music": 0.0
+    },
+    {
+      "from": 26.97,
+      "to": 27.72,
+      "sid": 10,
+      "location": 2,
+      "content": "共识啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.72,
+      "to": 29.52,
+      "sid": 11,
+      "location": 2,
+      "content": "首先呢我先介绍一下背景啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.52,
+      "to": 31.56,
+      "sid": 12,
+      "location": 2,
+      "content": "他们在这两个城市交流的对象",
+      "music": 0.0
+    },
+    {
+      "from": 31.56,
+      "to": 35.64,
+      "sid": 13,
+      "location": 2,
+      "content": "主要包括了政策制定的主管部门的一些领导啊",
+      "music": 0.0
+    },
+    {
+      "from": 35.64,
+      "to": 36.96,
+      "sid": 14,
+      "location": 2,
+      "content": "当然也包括了学界",
+      "music": 0.0
+    },
+    {
+      "from": 36.96,
+      "to": 38.5,
+      "sid": 15,
+      "location": 2,
+      "content": "包括了市场参与主体",
+      "music": 0.0
+    },
+    {
+      "from": 38.5,
+      "to": 41.16,
+      "sid": 16,
+      "location": 2,
+      "content": "这里面主要我理解应该是他们的买方客户啊",
+      "music": 0.0
+    },
+    {
+      "from": 41.16,
+      "to": 44.15,
+      "sid": 17,
+      "location": 2,
+      "content": "可能也有一些基金经理上台去发言啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.15,
+      "to": 45.29,
+      "sid": 18,
+      "location": 2,
+      "content": "也包括了智库",
+      "music": 0.0
+    },
+    {
+      "from": 45.29,
+      "to": 48.0,
+      "sid": 19,
+      "location": 2,
+      "content": "包括了商会以及科技行业的从业人员啊",
+      "music": 0.0
+    },
+    {
+      "from": 48.0,
+      "to": 52.34,
+      "sid": 20,
+      "location": 2,
+      "content": "那这篇研报主要总结的就是各类共识度较高的观点",
+      "music": 0.0
+    },
+    {
+      "from": 52.34,
+      "to": 53.28,
+      "sid": 21,
+      "location": 2,
+      "content": "还是照例啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.28,
+      "to": 55.73,
+      "sid": 22,
+      "location": 2,
+      "content": "先和大家分享一下这篇研报的核心结论",
+      "music": 0.0
+    },
+    {
+      "from": 58.29,
+      "to": 59.57,
+      "sid": 23,
+      "location": 2,
+      "content": "中国的新经济",
+      "music": 0.0
+    },
+    {
+      "from": 59.57,
+      "to": 61.75,
+      "sid": 24,
+      "location": 2,
+      "content": "旧经济向消费的再平衡",
+      "music": 0.0
+    },
+    {
+      "from": 61.75,
+      "to": 64.19,
+      "sid": 25,
+      "location": 2,
+      "content": "物价外资房地产",
+      "music": 0.0
+    },
+    {
+      "from": 64.19,
+      "to": 65.03,
+      "sid": 26,
+      "location": 2,
+      "content": "人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 65.77,
+      "sid": 27,
+      "location": 2,
+      "content": "资本账户",
+      "music": 0.0
+    },
+    {
+      "from": 65.77,
+      "to": 67.13,
+      "sid": 28,
+      "location": 2,
+      "content": "人民币汇率等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 67.13,
+      "to": 69.07,
+      "sid": 29,
+      "location": 2,
+      "content": "中国经济的方方面面",
+      "music": 0.0
+    },
+    {
+      "from": 69.07,
+      "to": 70.73,
+      "sid": 30,
+      "location": 2,
+      "content": "那德银呢是认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.97,
+      "to": 76.99,
+      "sid": 31,
+      "location": 2,
+      "content": "中国的AI呢也进一步的在增强",
+      "music": 0.0
+    },
+    {
+      "from": 76.99,
+      "to": 79.67,
+      "sid": 32,
+      "location": 2,
+      "content": "同时呢也带动了国家的信心啊",
+      "music": 0.0
+    },
+    {
+      "from": 79.67,
+      "to": 83.05,
+      "sid": 33,
+      "location": 2,
+      "content": "另外呢人民币汇率正在持续性的走强",
+      "music": 0.0
+    },
+    {
+      "from": 83.05,
+      "to": 87.789,
+      "sid": 34,
+      "location": 2,
+      "content": "但是呢国内的经济形势依然是面临着诸多的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 87.789,
+      "to": 90.769,
+      "sid": 35,
+      "location": 2,
+      "content": "其中消费目前来看仍然是持续的低迷",
+      "music": 0.0
+    },
+    {
+      "from": 90.769,
+      "to": 93.149,
+      "sid": 36,
+      "location": 2,
+      "content": "而房地产呢仍然是在衰退的过程当",
+      "music": 0.0
+    },
+    {
+      "from": 93.149,
+      "to": 93.54,
+      "sid": 37,
+      "location": 2,
+      "content": "中",
+      "music": 0.0
+    },
+    {
+      "from": 93.54,
+      "to": 95.9,
+      "sid": 38,
+      "location": 2,
+      "content": "国内的劳动力市场呢也比较疲软啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.9,
+      "to": 97.54,
+      "sid": 39,
+      "location": 2,
+      "content": "所以德音整体的观点呢",
+      "music": 0.0
+    },
+    {
+      "from": 97.54,
+      "to": 100.64,
+      "sid": 40,
+      "location": 2,
+      "content": "我个人理解是可以用几个K型分化来总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.64,
+      "to": 103.41,
+      "sid": 41,
+      "location": 2,
+      "content": "第一个K呢是新旧经济之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 103.41,
+      "to": 107.25,
+      "sid": 42,
+      "location": 2,
+      "content": "体现在呢以AI新能源为代表的新经济啊",
+      "music": 0.0
+    },
+    {
+      "from": 107.25,
+      "to": 108.91,
+      "sid": 43,
+      "location": 2,
+      "content": "表现是比较强劲的",
+      "music": 0.0
+    },
+    {
+      "from": 108.91,
+      "to": 112.69,
+      "sid": 44,
+      "location": 2,
+      "content": "而与之所伴随的出口表现也非常强劲啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.69,
+      "to": 114.81,
+      "sid": 45,
+      "location": 2,
+      "content": "那另一方面呢是以消费房地产",
+      "music": 0.0
+    },
+    {
+      "from": 114.81,
+      "to": 118.91,
+      "sid": 46,
+      "location": 2,
+      "content": "传统服务业为代表的旧经济仍然是表现疲软的",
+      "music": 0.0
+    },
+    {
+      "from": 118.91,
+      "to": 122.37,
+      "sid": 47,
+      "location": 2,
+      "content": "第二个K呢是财政和货币政策之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 122.37,
+      "to": 127.78,
+      "sid": 48,
+      "location": 2,
+      "content": "体现在呢财政政策是目前拉动中国经济增长的主要的引擎啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.78,
+      "to": 131.12,
+      "sid": 49,
+      "location": 2,
+      "content": "同时呢也是相对积极的一方",
+      "music": 0.0
+    },
+    {
+      "from": 131.12,
+      "to": 133.38,
+      "sid": 50,
+      "location": 2,
+      "content": "而货币政策呢则趋于保守",
+      "music": 0.0
+    },
+    {
+      "from": 133.38,
+      "to": 135.93,
+      "sid": 51,
+      "location": 2,
+      "content": "包括目前与会的这些参与者啊",
+      "music": 0.0
+    },
+    {
+      "from": 139.69,
+      "to": 141.579,
+      "sid": 52,
+      "location": 2,
+      "content": "除非有一些突发的情况",
+      "music": 0.0
+    },
+    {
+      "from": 141.579,
+      "to": 144.119,
+      "sid": 53,
+      "location": 2,
+      "content": "第三个K呢是内需与外需之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 144.119,
+      "to": 145.499,
+      "sid": 54,
+      "location": 2,
+      "content": "一方面呢是内需啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.499,
+      "to": 148.72,
+      "sid": 55,
+      "location": 2,
+      "content": "内需呢是由于居民部门普遍担心失业",
+      "music": 0.0
+    },
+    {
+      "from": 148.72,
+      "to": 150.66,
+      "sid": 56,
+      "location": 2,
+      "content": "同时名义收入增速偏慢",
+      "music": 0.0
+    },
+    {
+      "from": 150.66,
+      "to": 154.649,
+      "sid": 57,
+      "location": 2,
+      "content": "再加上房价下跌带来的严重的财富泯灭",
+      "music": 0.0
+    },
+    {
+      "from": 154.649,
+      "to": 157.709,
+      "sid": 58,
+      "location": 2,
+      "content": "因此居民是更倾向于去做储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 157.709,
+      "to": 159.5,
+      "sid": 59,
+      "location": 2,
+      "content": "而不是拿钱来消费",
+      "music": 0.0
+    },
+    {
+      "from": 159.5,
+      "to": 162.78,
+      "sid": 60,
+      "location": 2,
+      "content": "这个储蓄呢更倾向于是预防性的储蓄啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.78,
+      "to": 168.72,
+      "sid": 61,
+      "location": 2,
+      "content": "而AI的普及应用呢又恰巧发生在了中国就业放缓的节点上啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.72,
+      "to": 170.96,
+      "sid": 62,
+      "location": 2,
+      "content": "包括中国的宏观周期的节点上",
+      "music": 0.0
+    },
+    {
+      "from": 170.96,
+      "to": 173.92,
+      "sid": 63,
+      "location": 2,
+      "content": "那加剧了对居民就业和收入的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 173.92,
+      "to": 176.26,
+      "sid": 64,
+      "location": 2,
+      "content": "德银呢在这儿特意写了一句话",
+      "music": 0.0
+    },
+    {
+      "from": 176.26,
+      "to": 176.76,
+      "sid": 65,
+      "location": 2,
+      "content": "认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.76,
+      "to": 179.22,
+      "sid": 66,
+      "location": 2,
+      "content": "如果没有居民名义收入的恢复",
+      "music": 0.0
+    },
+    {
+      "from": 179.22,
+      "to": 181.49,
+      "sid": 67,
+      "location": 2,
+      "content": "中国就没有消费的回暖",
+      "music": 0.0
+    },
+    {
+      "from": 181.49,
+      "to": 185.09,
+      "sid": 68,
+      "location": 2,
+      "content": "而与内需相对应的呢则是高歌猛进的出口啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.09,
+      "to": 190.53,
+      "sid": 69,
+      "location": 2,
+      "content": "这样对应着本次德因为期三天的这个trip中最具有共识的一个观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 190.53,
+      "to": 194.65,
+      "sid": 70,
+      "location": 2,
+      "content": "就是几乎所有的与会发言人都有一个共识",
+      "music": 0.0
+    },
+    {
+      "from": 194.65,
+      "to": 196.93,
+      "sid": 71,
+      "location": 2,
+      "content": "认为由于出口表现强劲",
+      "music": 0.0
+    },
+    {
+      "from": 196.93,
+      "to": 201.61,
+      "sid": 72,
+      "location": 2,
+      "content": "那中国的出口企业正在将更大比例的贸易顺差兑换为人民币",
+      "music": 0.0
+    },
+    {
+      "from": 201.61,
+      "to": 203.4,
+      "sid": 73,
+      "location": 2,
+      "content": "也就是出口企业在结汇",
+      "music": 0.0
+    },
+    {
+      "from": 203.4,
+      "to": 204.76,
+      "sid": 74,
+      "location": 2,
+      "content": "那这个结汇动作呢",
+      "music": 0.0
+    },
+    {
+      "from": 204.76,
+      "to": 206.56,
+      "sid": 75,
+      "location": 2,
+      "content": "将推动美元兑人民币的汇率",
+      "music": 0.0
+    },
+    {
+      "from": 206.56,
+      "to": 210.6,
+      "sid": 76,
+      "location": 2,
+      "content": "在今年年末的时候达到六块5~6块七的区间",
+      "music": 0.0
+    },
+    {
+      "from": 210.6,
+      "to": 211.08,
+      "sid": 77,
+      "location": 2,
+      "content": "注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 211.08,
+      "to": 214.56,
+      "sid": 78,
+      "location": 2,
+      "content": "这里面是今年年末就可以达到将近六块五",
+      "music": 0.0
+    },
+    {
+      "from": 214.56,
+      "to": 218.16,
+      "sid": 79,
+      "location": 2,
+      "content": "而之前我给大家分享的一篇相对我个人觉得比较乐观的",
+      "music": 0.0
+    },
+    {
+      "from": 218.16,
+      "to": 220.4,
+      "sid": 80,
+      "location": 2,
+      "content": "高盛全球外汇团队的研报",
+      "music": 0.0
+    },
+    {
+      "from": 220.4,
+      "to": 225.48,
+      "sid": 81,
+      "location": 2,
+      "content": "里面给出的也是近12个月预期人民币会走到六块五",
+      "music": 0.0
+    },
+    {
+      "from": 225.48,
+      "to": 228.8,
+      "sid": 82,
+      "location": 2,
+      "content": "那显然德银这一次这个trip当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 228.8,
+      "to": 231.9,
+      "sid": 83,
+      "location": 2,
+      "content": "与会的嘉宾对于人民币走强的预期",
+      "music": 0.0
+    },
+    {
+      "from": 231.9,
+      "to": 234.63,
+      "sid": 84,
+      "location": 2,
+      "content": "特别是在速度方面还是比较乐观的啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.63,
+      "to": 236.95,
+      "sid": 85,
+      "location": 2,
+      "content": "认为到今年年底甚至可以达到六块五",
+      "music": 0.0
+    },
+    {
+      "from": 236.95,
+      "to": 238.47,
+      "sid": 86,
+      "location": 2,
+      "content": "但即便最差的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 238.47,
+      "to": 239.71,
+      "sid": 87,
+      "location": 2,
+      "content": "也是可以达到六块七的",
+      "music": 0.0
+    },
+    {
+      "from": 239.71,
+      "to": 244.28,
+      "sid": 88,
+      "location": 2,
+      "content": "那么六块七这个水平呢也和之前高盛的那个观点是完全一致的哈",
+      "music": 0.0
+    },
+    {
+      "from": 244.28,
+      "to": 246.92,
+      "sid": 89,
+      "location": 2,
+      "content": "高盛之前给的就是年末六块七",
+      "music": 0.0
+    },
+    {
+      "from": 246.92,
+      "to": 248.12,
+      "sid": 90,
+      "location": 2,
+      "content": "到明年的5月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 248.12,
+      "to": 249.89,
+      "sid": 91,
+      "location": 2,
+      "content": "差不多是到六块五",
+      "music": 0.0
+    },
+    {
+      "from": 249.89,
+      "to": 253.89,
+      "sid": 92,
+      "location": 2,
+      "content": "那第四个K型分化呢则是上游物价和下游物价的分化",
+      "music": 0.0
+    },
+    {
+      "from": 253.89,
+      "to": 256.85,
+      "sid": 93,
+      "location": 2,
+      "content": "尽管呢PPI是超预期的大幅走强",
+      "music": 0.0
+    },
+    {
+      "from": 256.85,
+      "to": 258.05,
+      "sid": 94,
+      "location": 2,
+      "content": "特别是3月份转正之后",
+      "music": 0.0
+    },
+    {
+      "from": 258.05,
+      "to": 260.039,
+      "sid": 95,
+      "location": 2,
+      "content": "4月份又大幅的走强",
+      "music": 0.0
+    },
+    {
+      "from": 260.039,
+      "to": 261.159,
+      "sid": 96,
+      "location": 2,
+      "content": "但是德银认为",
+      "music": 0.0
+    },
+    {
+      "from": 261.159,
+      "to": 265.919,
+      "sid": 97,
+      "location": 2,
+      "content": "如果中国的政策制定者不在需求端提供政策支持的话",
+      "music": 0.0
+    },
+    {
+      "from": 265.919,
+      "to": 272.07,
+      "sid": 98,
+      "location": 2,
+      "content": "那么输入性通胀几乎无法真正转化为居民部门通胀预期的共识",
+      "music": 0.0
+    },
+    {
+      "from": 272.07,
+      "to": 273.71,
+      "sid": 99,
+      "location": 2,
+      "content": "而在这次会议上啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.71,
+      "to": 280.03,
+      "sid": 100,
+      "location": 2,
+      "content": "德音邀请的发言嘉宾几乎都对政策制定者去出台政策支持需求",
+      "music": 0.0
+    },
+    {
+      "from": 280.62,
+      "to": 282.46,
+      "sid": 101,
+      "location": 2,
+      "content": "不抱任何希望的啊",
+      "music": 0.0
+    },
+    {
+      "from": 282.46,
+      "to": 283.38,
+      "sid": 102,
+      "location": 2,
+      "content": "言言下之意呢",
+      "music": 0.0
+    },
+    {
+      "from": 283.38,
+      "to": 287.78,
+      "sid": 103,
+      "location": 2,
+      "content": "就是财政政策可能更多支持的是国内的投资以及大量科技啊",
+      "music": 0.0
+    },
+    {
+      "from": 287.78,
+      "to": 289.75,
+      "sid": 104,
+      "location": 2,
+      "content": "而不是支持居民消费",
+      "music": 0.0
+    },
+    {
+      "from": 289.75,
+      "to": 294.169,
+      "sid": 105,
+      "location": 2,
+      "content": "那随着霍尔木兹海峡未来可能会重新开放啊",
+      "music": 0.0
+    },
+    {
+      "from": 294.169,
+      "to": 298.69,
+      "sid": 106,
+      "location": 2,
+      "content": "中国的物价还是有可能会重新走回通缩的区间",
+      "music": 0.0
+    },
+    {
+      "from": 298.69,
+      "to": 303.71,
+      "sid": 107,
+      "location": 2,
+      "content": "德银呢对这次行程最核心且最重要的总结一句话呢",
+      "music": 0.0
+    },
+    {
+      "from": 303.71,
+      "to": 307.78,
+      "sid": 108,
+      "location": 2,
+      "content": "就是中国的地缘政治形势比国内经济更快企稳",
+      "music": 0.0
+    },
+    {
+      "from": 307.78,
+      "to": 309.82,
+      "sid": 109,
+      "location": 2,
+      "content": "就是我在报告开篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.82,
+      "to": 311.9,
+      "sid": 110,
+      "location": 2,
+      "content": "标红的大家现在看到的这句话",
+      "music": 0.0
+    },
+    {
+      "from": 311.9,
+      "to": 314.01,
+      "sid": 111,
+      "location": 2,
+      "content": "The single most important takeaway",
+      "music": 0.0
+    },
+    {
+      "from": 314.01,
+      "to": 319.12,
+      "sid": 112,
+      "location": 2,
+      "content": "China's geopolitical situation is stabilizing faster than its domestic economy",
+      "music": 0.0
+    },
+    {
+      "from": 319.12,
+      "to": 322.36,
+      "sid": 113,
+      "location": 2,
+      "content": "那接下来呢我们就来看一下这篇研报的推导逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 322.36,
+      "to": 324.4,
+      "sid": 114,
+      "location": 2,
+      "content": "他主要谈了九个方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.4,
+      "to": 325.97,
+      "sid": 115,
+      "location": 2,
+      "content": "我们一个一个过一下",
+      "music": 0.0
+    },
+    {
+      "from": 337.47,
+      "to": 342.02,
+      "sid": 116,
+      "location": 2,
+      "content": "毕竟这一次的目的并不是一个务实性的交易谈判",
+      "music": 0.0
+    },
+    {
+      "from": 342.02,
+      "to": 343.64,
+      "sid": 117,
+      "location": 2,
+      "content": "而更多是一个定调啊",
+      "music": 0.0
+    },
+    {
+      "from": 343.64,
+      "to": 344.76,
+      "sid": 118,
+      "location": 2,
+      "content": "那在这之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 344.76,
+      "to": 348.04,
+      "sid": 119,
+      "location": 2,
+      "content": "其实中美两国元首还有三次见面的机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 348.04,
+      "to": 351.34,
+      "sid": 120,
+      "location": 2,
+      "content": "这也对应的是特朗普在离开北京的时候",
+      "music": 0.0
+    },
+    {
+      "from": 351.34,
+      "to": 352.84,
+      "sid": 121,
+      "location": 2,
+      "content": "一直在说four times",
+      "music": 0.0
+    },
+    {
+      "from": 352.84,
+      "to": 353.88,
+      "sid": 122,
+      "location": 2,
+      "content": "four times对吧",
+      "music": 0.0
+    },
+    {
+      "from": 353.88,
+      "to": 356.56,
+      "sid": 123,
+      "location": 2,
+      "content": "就是要和我们的决策层见四次面",
+      "music": 0.0
+    },
+    {
+      "from": 356.56,
+      "to": 359.14,
+      "sid": 124,
+      "location": 2,
+      "content": "那么后面还有三次分别是哪三次呢",
+      "music": 0.0
+    },
+    {
+      "from": 359.14,
+      "to": 360.06,
+      "sid": 125,
+      "location": 2,
+      "content": "一次是A派克",
+      "music": 0.0
+    },
+    {
+      "from": 361.24,
+      "to": 364.56,
+      "sid": 126,
+      "location": 2,
+      "content": "还有一次就是我们的决策层访美啊",
+      "music": 0.0
+    },
+    {
+      "from": 364.56,
+      "to": 367.62,
+      "sid": 127,
+      "location": 2,
+      "content": "当然大概率呢是在9月份去DC",
+      "music": 0.0
+    },
+    {
+      "from": 367.94,
+      "to": 370.46,
+      "sid": 128,
+      "location": 2,
+      "content": "德银呢认为在后面三次啊",
+      "music": 0.0
+    },
+    {
+      "from": 370.46,
+      "to": 371.78,
+      "sid": 129,
+      "location": 2,
+      "content": "还有充足的机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.78,
+      "to": 374.94,
+      "sid": 130,
+      "location": 2,
+      "content": "可以让两国达成更多务实性的协议啊",
+      "music": 0.0
+    },
+    {
+      "from": 374.94,
+      "to": 376.22,
+      "sid": 131,
+      "location": 2,
+      "content": "那峰会之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 376.22,
+      "to": 379.86,
+      "sid": 132,
+      "location": 2,
+      "content": "德银也是监测发现双方的互动明显改善了啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.86,
+      "to": 383.22,
+      "sid": 133,
+      "location": 2,
+      "content": "特别是啊美国国会的重新接触也在恢复啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.22,
+      "to": 388.06,
+      "sid": 134,
+      "location": 2,
+      "content": "那德意呢是认为这是一个被市场低估的积极信号啊",
+      "music": 0.0
+    },
+    {
+      "from": 388.54,
+      "to": 391.66,
+      "sid": 135,
+      "location": 2,
+      "content": "第二部分呢是关于中国的K型经济啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.66,
+      "to": 394.82,
+      "sid": 136,
+      "location": 2,
+      "content": "这里面显然是新经济拉动旧经济啊",
+      "music": 0.0
+    },
+    {
+      "from": 394.82,
+      "to": 399.22,
+      "sid": 137,
+      "location": 2,
+      "content": "德意呢是认为中国的新经济和旧经济之间分化越来越明显啊",
+      "music": 0.0
+    },
+    {
+      "from": 399.22,
+      "to": 403.099,
+      "sid": 138,
+      "location": 2,
+      "content": "首先新经济主要包括的是AI相关的一些商品",
+      "music": 0.0
+    },
+    {
+      "from": 403.099,
+      "to": 403.879,
+      "sid": 139,
+      "location": 2,
+      "content": "包括新能源",
+      "music": 0.0
+    },
+    {
+      "from": 403.879,
+      "to": 405.459,
+      "sid": 140,
+      "location": 2,
+      "content": "包括一些可贸易的商品",
+      "music": 0.0
+    },
+    {
+      "from": 405.459,
+      "to": 406.399,
+      "sid": 141,
+      "location": 2,
+      "content": "还有资本品",
+      "music": 0.0
+    },
+    {
+      "from": 406.399,
+      "to": 409.059,
+      "sid": 142,
+      "location": 2,
+      "content": "那么整体呢是growing strongly",
+      "music": 0.0
+    },
+    {
+      "from": 414.82,
+      "to": 421.11,
+      "sid": 143,
+      "location": 2,
+      "content": "而与之相对比的旧经济整体表现仍然是remain structurally weak",
+      "music": 0.0
+    },
+    {
+      "from": 421.11,
+      "to": 423.07,
+      "sid": 144,
+      "location": 2,
+      "content": "保持着结构性的弱势",
+      "music": 0.0
+    },
+    {
+      "from": 423.07,
+      "to": 427.16,
+      "sid": 145,
+      "location": 2,
+      "content": "而4月份的经济数据也验证了这样一个背离",
+      "music": 0.0
+    },
+    {
+      "from": 427.16,
+      "to": 428.0,
+      "sid": 146,
+      "location": 2,
+      "content": "在德云看来",
+      "music": 0.0
+    },
+    {
+      "from": 428.0,
+      "to": 428.86,
+      "sid": 147,
+      "location": 2,
+      "content": "好的一点是",
+      "music": 0.0
+    },
+    {
+      "from": 428.86,
+      "to": 431.96,
+      "sid": 148,
+      "location": 2,
+      "content": "目前新经济对中国经济增长的贡献",
+      "music": 0.0
+    },
+    {
+      "from": 431.96,
+      "to": 437.65,
+      "sid": 149,
+      "location": 2,
+      "content": "已经基本抵消了老经济或者旧经济对于中国经济增长的拖累啊",
+      "music": 0.0
+    },
+    {
+      "from": 437.65,
+      "to": 441.75,
+      "sid": 150,
+      "location": 2,
+      "content": "从而呢也限制了中国经济急剧放缓的风险",
+      "music": 0.0
+    },
+    {
+      "from": 441.75,
+      "to": 444.57,
+      "sid": 151,
+      "location": 2,
+      "content": "那对于中国经济前景的展望啊",
+      "music": 0.0
+    },
+    {
+      "from": 444.57,
+      "to": 446.41,
+      "sid": 152,
+      "location": 2,
+      "content": "无论是德银还是与会专家",
+      "music": 0.0
+    },
+    {
+      "from": 446.41,
+      "to": 447.23,
+      "sid": 153,
+      "location": 2,
+      "content": "普遍认为",
+      "music": 0.0
+    },
+    {
+      "from": 447.23,
+      "to": 448.79,
+      "sid": 154,
+      "location": 2,
+      "content": "2026年第一季度",
+      "music": 0.0
+    },
+    {
+      "from": 448.79,
+      "to": 453.85,
+      "sid": 155,
+      "location": 2,
+      "content": "中国约5%的实际GDP增速已经是今年全年的最高峰了",
+      "music": 0.0
+    },
+    {
+      "from": 453.85,
+      "to": 457.78,
+      "sid": 156,
+      "location": 2,
+      "content": "他的原话叫做expected to be the peak for the year",
+      "music": 0.0
+    },
+    {
+      "from": 457.78,
+      "to": 459.82,
+      "sid": 157,
+      "location": 2,
+      "content": "那在二季度和下半年",
+      "music": 0.0
+    },
+    {
+      "from": 459.82,
+      "to": 463.99,
+      "sid": 158,
+      "location": 2,
+      "content": "预计中国的经济增速将会有所放缓啊",
+      "music": 0.0
+    },
+    {
+      "from": 464.71,
+      "to": 468.85,
+      "sid": 159,
+      "location": 2,
+      "content": "德音的德斯trip当中的与会的发言人啊",
+      "music": 0.0
+    },
+    {
+      "from": 468.85,
+      "to": 473.45,
+      "sid": 160,
+      "location": 2,
+      "content": "对于中国实现2026年4.5%到5%的官方增长目标呢",
+      "music": 0.0
+    },
+    {
+      "from": 473.45,
+      "to": 474.6,
+      "sid": 161,
+      "location": 2,
+      "content": "是充满了信心",
+      "music": 0.0
+    },
+    {
+      "from": 474.6,
+      "to": 477.94,
+      "sid": 162,
+      "location": 2,
+      "content": "并且预计啊随着中国迈入高收入国家的行列",
+      "music": 0.0
+    },
+    {
+      "from": 477.94,
+      "to": 483.33,
+      "sid": 163,
+      "location": 2,
+      "content": "那么未来10年经济增长速度将逐渐放缓至4%左右",
+      "music": 0.0
+    },
+    {
+      "from": 483.33,
+      "to": 484.28,
+      "sid": 164,
+      "location": 2,
+      "content": "那即便如此啊",
+      "music": 0.0
+    },
+    {
+      "from": 484.28,
+      "to": 489.06,
+      "sid": 165,
+      "location": 2,
+      "content": "其实也是可以完成之前2035年定的一个人均可支配收入",
+      "music": 0.0
+    },
+    {
+      "from": 489.06,
+      "to": 491.78,
+      "sid": 166,
+      "location": 2,
+      "content": "达到中等发达国家水平的目标啊",
+      "music": 0.0
+    },
+    {
+      "from": 491.78,
+      "to": 494.46,
+      "sid": 167,
+      "location": 2,
+      "content": "另外呢就是在政策应对方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 494.46,
+      "to": 499.16,
+      "sid": 168,
+      "location": 2,
+      "content": "财政政策呢仍然是目前中国主要的一个经济增长引擎",
+      "music": 0.0
+    },
+    {
+      "from": 499.16,
+      "to": 501.66,
+      "sid": 169,
+      "location": 2,
+      "content": "但是呢财政政策并不是广谱性的啊",
+      "music": 0.0
+    },
+    {
+      "from": 501.66,
+      "to": 503.12,
+      "sid": 170,
+      "location": 2,
+      "content": "而更多的是定向的",
+      "music": 0.0
+    },
+    {
+      "from": 503.12,
+      "to": 508.01,
+      "sid": 171,
+      "location": 2,
+      "content": "也就是在基建以及在心智生产力领域会给予更多的支持",
+      "music": 0.0
+    },
+    {
+      "from": 508.01,
+      "to": 510.73,
+      "sid": 172,
+      "location": 2,
+      "content": "而一些比如说居民发钱啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 510.73,
+      "to": 512.26,
+      "sid": 173,
+      "location": 2,
+      "content": "大家就不要去多想了",
+      "music": 0.0
+    },
+    {
+      "from": 512.26,
+      "to": 514.3,
+      "sid": 174,
+      "location": 2,
+      "content": "那另外呢在货币政策这一端啊",
+      "music": 0.0
+    },
+    {
+      "from": 514.3,
+      "to": 517.36,
+      "sid": 175,
+      "location": 2,
+      "content": "只有当经济增速明显的低于官方目标的时候",
+      "music": 0.0
+    },
+    {
+      "from": 517.36,
+      "to": 520.079,
+      "sid": 176,
+      "location": 2,
+      "content": "可能政策利率才会下调啊",
+      "music": 0.0
+    },
+    {
+      "from": 520.079,
+      "to": 522.879,
+      "sid": 177,
+      "location": 2,
+      "content": "那货币政策这一端呢也并不是什么都不做啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.879,
+      "to": 525.14,
+      "sid": 178,
+      "location": 2,
+      "content": "更多的是用这种quality physical",
+      "music": 0.0
+    },
+    {
+      "from": 525.14,
+      "to": 526.44,
+      "sid": 179,
+      "location": 2,
+      "content": "就是准财政的方式",
+      "music": 0.0
+    },
+    {
+      "from": 526.44,
+      "to": 528.88,
+      "sid": 180,
+      "location": 2,
+      "content": "特别是通过政策性银行的贷款",
+      "music": 0.0
+    },
+    {
+      "from": 528.88,
+      "to": 531.95,
+      "sid": 181,
+      "location": 2,
+      "content": "对于基建项目给予资金的支持啊",
+      "music": 0.0
+    },
+    {
+      "from": 531.95,
+      "to": 536.68,
+      "sid": 182,
+      "location": 2,
+      "content": "第三部分呢是关于中国向消费的再平衡啊",
+      "music": 0.0
+    },
+    {
+      "from": 537.32,
+      "to": 539.12,
+      "sid": 183,
+      "location": 2,
+      "content": "首先呢德银是提到说",
+      "music": 0.0
+    },
+    {
+      "from": 539.12,
+      "to": 540.6,
+      "sid": 184,
+      "location": 2,
+      "content": "在这一次他们的会议当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 540.6,
+      "to": 546.28,
+      "sid": 185,
+      "location": 2,
+      "content": "最一致的一个观点是中国的消费问题根源与信心和收入的缺乏",
+      "music": 0.0
+    },
+    {
+      "from": 546.74,
+      "to": 548.26,
+      "sid": 186,
+      "location": 2,
+      "content": "自2021年以来啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.26,
+      "to": 551.82,
+      "sid": 187,
+      "location": 2,
+      "content": "居民存款累计增加了50到60万亿",
+      "music": 0.0
+    },
+    {
+      "from": 551.82,
+      "to": 555.919,
+      "sid": 188,
+      "location": 2,
+      "content": "但是呢由于居民普遍对于失业是感到担心的",
+      "music": 0.0
+    },
+    {
+      "from": 555.919,
+      "to": 559.27,
+      "sid": 189,
+      "location": 2,
+      "content": "同时名义工资增长呢也是比较缓慢的",
+      "music": 0.0
+    },
+    {
+      "from": 559.27,
+      "to": 560.57,
+      "sid": 190,
+      "location": 2,
+      "content": "再加上房价的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 560.57,
+      "to": 562.45,
+      "sid": 191,
+      "location": 2,
+      "content": "导致巨大的财富泯灭啊",
+      "music": 0.0
+    },
+    {
+      "from": 562.45,
+      "to": 564.37,
+      "sid": 192,
+      "location": 2,
+      "content": "居民呢是不愿意消费的",
+      "music": 0.0
+    },
+    {
+      "from": 564.37,
+      "to": 566.94,
+      "sid": 193,
+      "location": 2,
+      "content": "更倾向于去做预防性的储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 566.94,
+      "to": 568.74,
+      "sid": 194,
+      "location": 2,
+      "content": "而在这基础之上呢",
+      "music": 0.0
+    },
+    {
+      "from": 568.74,
+      "to": 570.82,
+      "sid": 195,
+      "location": 2,
+      "content": "AI正在加剧这一个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 570.82,
+      "to": 573.62,
+      "sid": 196,
+      "location": 2,
+      "content": "在传统就业放缓的招聘节点上",
+      "music": 0.0
+    },
+    {
+      "from": 573.62,
+      "to": 576.18,
+      "sid": 197,
+      "location": 2,
+      "content": "AI正在替代服务业的劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 576.18,
+      "to": 577.52,
+      "sid": 198,
+      "location": 2,
+      "content": "在名义收入",
+      "music": 0.0
+    },
+    {
+      "from": 577.52,
+      "to": 581.1,
+      "sid": 199,
+      "location": 2,
+      "content": "所以得意呢得出了开篇我给大家分享的那个关键的结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 581.1,
+      "to": 584.13,
+      "sid": 200,
+      "location": 2,
+      "content": "就是如果没有居民部门的名义收入的恢复",
+      "music": 0.0
+    },
+    {
+      "from": 584.13,
+      "to": 586.97,
+      "sid": 201,
+      "location": 2,
+      "content": "那么消费呢是很难回暖的",
+      "music": 0.0
+    },
+    {
+      "from": 586.97,
+      "to": 588.91,
+      "sid": 202,
+      "location": 2,
+      "content": "第四部分呢是关于物价的",
+      "music": 0.0
+    },
+    {
+      "from": 588.91,
+      "to": 592.0,
+      "sid": 203,
+      "location": 2,
+      "content": "首先德音是提到说目前的一个输入性通胀啊",
+      "music": 0.0
+    },
+    {
+      "from": 592.0,
+      "to": 593.6,
+      "sid": 204,
+      "location": 2,
+      "content": "似乎是一个will come啊",
+      "music": 0.0
+    },
+    {
+      "from": 593.6,
+      "to": 594.76,
+      "sid": 205,
+      "location": 2,
+      "content": "是一个受欢迎的",
+      "music": 0.0
+    },
+    {
+      "from": 594.76,
+      "to": 598.01,
+      "sid": 206,
+      "location": 2,
+      "content": "但是它并不足以推动中国实现再通胀",
+      "music": 0.0
+    },
+    {
+      "from": 598.01,
+      "to": 602.12,
+      "sid": 207,
+      "location": 2,
+      "content": "那德因呢是提到一个普遍持有的观点是一个比较差的啊",
+      "music": 0.0
+    },
+    {
+      "from": 602.12,
+      "to": 603.68,
+      "sid": 208,
+      "location": 2,
+      "content": "就是一个bad或者叫糟糕的",
+      "music": 0.0
+    },
+    {
+      "from": 603.68,
+      "to": 606.32,
+      "sid": 209,
+      "location": 2,
+      "content": "或者说输入性的通胀总比通缩好",
+      "music": 0.0
+    },
+    {
+      "from": 606.32,
+      "to": 608.64,
+      "sid": 210,
+      "location": 2,
+      "content": "就是你这个通胀本身再差",
+      "music": 0.0
+    },
+    {
+      "from": 608.64,
+      "to": 609.99,
+      "sid": 211,
+      "location": 2,
+      "content": "也比通缩要强",
+      "music": 0.0
+    },
+    {
+      "from": 609.99,
+      "to": 613.19,
+      "sid": 212,
+      "location": 2,
+      "content": "在连续40一个月的持续为负之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.19,
+      "to": 615.63,
+      "sid": 213,
+      "location": 2,
+      "content": "PPI呢是终于在今年的3月转正",
+      "music": 0.0
+    },
+    {
+      "from": 615.63,
+      "to": 617.79,
+      "sid": 214,
+      "location": 2,
+      "content": "并且在4月超预期的走强啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.79,
+      "to": 621.19,
+      "sid": 215,
+      "location": 2,
+      "content": "但是这种转变能否改变家庭和企业的预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.19,
+      "to": 623.469,
+      "sid": 216,
+      "location": 2,
+      "content": "使大家不再推迟消费呢",
+      "music": 0.0
+    },
+    {
+      "from": 623.469,
+      "to": 625.389,
+      "sid": 217,
+      "location": 2,
+      "content": "似乎难度是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 625.389,
+      "to": 627.889,
+      "sid": 218,
+      "location": 2,
+      "content": "要想有一个持续性的通胀",
+      "music": 0.0
+    },
+    {
+      "from": 627.889,
+      "to": 632.369,
+      "sid": 219,
+      "location": 2,
+      "content": "那么政府的需求端政策支持啊仍然是必不可少的",
+      "music": 0.0
+    },
+    {
+      "from": 632.369,
+      "to": 633.209,
+      "sid": 220,
+      "location": 2,
+      "content": "但是很遗憾啊",
+      "music": 0.0
+    },
+    {
+      "from": 633.209,
+      "to": 638.899,
+      "sid": 221,
+      "location": 2,
+      "content": "在这一次他们大会上的所有发言人几乎都对此不抱任何的期望啊",
+      "music": 0.0
+    },
+    {
+      "from": 638.899,
+      "to": 640.979,
+      "sid": 222,
+      "location": 2,
+      "content": "Were not optimistic about it",
+      "music": 0.0
+    },
+    {
+      "from": 640.979,
+      "to": 642.419,
+      "sid": 223,
+      "location": 2,
+      "content": "就是并不乐观",
+      "music": 0.0
+    },
+    {
+      "from": 642.419,
+      "to": 644.819,
+      "sid": 224,
+      "location": 2,
+      "content": "PPI的转向啊是真实的",
+      "music": 0.0
+    },
+    {
+      "from": 644.819,
+      "to": 650.19,
+      "sid": 225,
+      "location": 2,
+      "content": "但是上游物价的上涨转向更广泛消费支出的传导啊",
+      "music": 0.0
+    },
+    {
+      "from": 650.19,
+      "to": 651.78,
+      "sid": 226,
+      "location": 2,
+      "content": "似乎是没有实现",
+      "music": 0.0
+    },
+    {
+      "from": 651.78,
+      "to": 654.14,
+      "sid": 227,
+      "location": 2,
+      "content": "那第五方面呢是关于外资的啊",
+      "music": 0.0
+    },
+    {
+      "from": 654.14,
+      "to": 657.68,
+      "sid": 228,
+      "location": 2,
+      "content": "首先开篇呢就提到外资企业并没有离场啊",
+      "music": 0.0
+    },
+    {
+      "from": 657.68,
+      "to": 658.92,
+      "sid": 229,
+      "location": 2,
+      "content": "他们的交流表明啊",
+      "music": 0.0
+    },
+    {
+      "from": 658.92,
+      "to": 662.44,
+      "sid": 230,
+      "location": 2,
+      "content": "虽然很多的跨国企业在中国仍然是在盈利的",
+      "music": 0.0
+    },
+    {
+      "from": 662.44,
+      "to": 665.93,
+      "sid": 231,
+      "location": 2,
+      "content": "但是利润率确实是实打实的在变薄的",
+      "music": 0.0
+    },
+    {
+      "from": 665.93,
+      "to": 670.6,
+      "sid": 232,
+      "location": 2,
+      "content": "然而呢外资企业并没有积极寻求退出中国yet啊",
+      "music": 0.0
+    },
+    {
+      "from": 670.6,
+      "to": 671.9,
+      "sid": 233,
+      "location": 2,
+      "content": "至少现在还没有",
+      "music": 0.0
+    },
+    {
+      "from": 671.9,
+      "to": 672.48,
+      "sid": 234,
+      "location": 2,
+      "content": "原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 672.48,
+      "to": 673.14,
+      "sid": 235,
+      "location": 2,
+      "content": "也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 673.14,
+      "to": 675.56,
+      "sid": 236,
+      "location": 2,
+      "content": "正如一位呃老兵所说啊",
+      "music": 0.0
+    },
+    {
+      "from": 675.56,
+      "to": 678.42,
+      "sid": 237,
+      "location": 2,
+      "content": "中国呢是世界的健身房",
+      "music": 0.0
+    },
+    {
+      "from": 678.42,
+      "to": 681.11,
+      "sid": 238,
+      "location": 2,
+      "content": "China is the worst finished center",
+      "music": 0.0
+    },
+    {
+      "from": 681.11,
+      "to": 683.27,
+      "sid": 239,
+      "location": 2,
+      "content": "如果你能在中国赢得市场",
+      "music": 0.0
+    },
+    {
+      "from": 683.27,
+      "to": 685.95,
+      "sid": 240,
+      "location": 2,
+      "content": "那么你就可以在全球任何一个地方赢得市场",
+      "music": 0.0
+    },
+    {
+      "from": 685.95,
+      "to": 687.1,
+      "sid": 241,
+      "location": 2,
+      "content": "If you can win here",
+      "music": 0.0
+    },
+    {
+      "from": 687.1,
+      "to": 688.46,
+      "sid": 242,
+      "location": 2,
+      "content": "You can win anywhere",
+      "music": 0.0
+    },
+    {
+      "from": 688.46,
+      "to": 690.18,
+      "sid": 243,
+      "location": 2,
+      "content": "为什么有这样的一个观点呢",
+      "music": 0.0
+    },
+    {
+      "from": 690.18,
+      "to": 692.9,
+      "sid": 244,
+      "location": 2,
+      "content": "主要原因就是中国的竞争是极度激烈啊",
+      "music": 0.0
+    },
+    {
+      "from": 692.9,
+      "to": 696.62,
+      "sid": 245,
+      "location": 2,
+      "content": "而且呢中国的制造业规模也是有非常强的优势",
+      "music": 0.0
+    },
+    {
+      "from": 696.62,
+      "to": 698.46,
+      "sid": 246,
+      "location": 2,
+      "content": "再加上中国的RND啊",
+      "music": 0.0
+    },
+    {
+      "from": 698.46,
+      "to": 703.28,
+      "sid": 247,
+      "location": 2,
+      "content": "就是它的研发投入的速度是在全球任何一个地方都无法看到的",
+      "music": 0.0
+    },
+    {
+      "from": 703.28,
+      "to": 707.48,
+      "sid": 248,
+      "location": 2,
+      "content": "那这些原因呢都导致外资企业即便在信心下滑时",
+      "music": 0.0
+    },
+    {
+      "from": 707.48,
+      "to": 709.579,
+      "sid": 249,
+      "location": 2,
+      "content": "依然选择深耕中国",
+      "music": 0.0
+    },
+    {
+      "from": 709.579,
+      "to": 711.779,
+      "sid": 250,
+      "location": 2,
+      "content": "而外资企业目前留在中国",
+      "music": 0.0
+    },
+    {
+      "from": 711.779,
+      "to": 715.339,
+      "sid": 251,
+      "location": 2,
+      "content": "和之前进入中国的逻辑发生了翻天覆地的变化",
+      "music": 0.0
+    },
+    {
+      "from": 715.339,
+      "to": 716.059,
+      "sid": 252,
+      "location": 2,
+      "content": "在之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 716.059,
+      "to": 722.15,
+      "sid": 253,
+      "location": 2,
+      "content": "大家是希望把握住一个新兴经济体高速发展的时机来获取利润",
+      "music": 0.0
+    },
+    {
+      "from": 722.15,
+      "to": 727.93,
+      "sid": 254,
+      "location": 2,
+      "content": "那现在呢外资的企业更多的是把中国当成一个learning and innovation hub",
+      "music": 0.0
+    },
+    {
+      "from": 727.93,
+      "to": 730.49,
+      "sid": 255,
+      "location": 2,
+      "content": "就是一个学习和创新的中心",
+      "music": 0.0
+    },
+    {
+      "from": 730.49,
+      "to": 732.87,
+      "sid": 256,
+      "location": 2,
+      "content": "而不是一个pure growth market",
+      "music": 0.0
+    },
+    {
+      "from": 732.87,
+      "to": 735.41,
+      "sid": 257,
+      "location": 2,
+      "content": "不是一个增长的市场",
+      "music": 0.0
+    },
+    {
+      "from": 735.41,
+      "to": 738.25,
+      "sid": 258,
+      "location": 2,
+      "content": "那第六部分呢是关于房地产市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 738.25,
+      "to": 739.29,
+      "sid": 259,
+      "location": 2,
+      "content": "首先德音是提到啊",
+      "music": 0.0
+    },
+    {
+      "from": 739.29,
+      "to": 743.07,
+      "sid": 260,
+      "location": 2,
+      "content": "说这一次会议当中得到的关于房地产的结论",
+      "music": 0.0
+    },
+    {
+      "from": 743.07,
+      "to": 746.65,
+      "sid": 261,
+      "location": 2,
+      "content": "和之前每一次会议得到的结论几乎是完全一样的",
+      "music": 0.0
+    },
+    {
+      "from": 749.24,
+      "to": 753.42,
+      "sid": 262,
+      "location": 2,
+      "content": "再次将房地产作为拉动中国经济增长的引擎啊",
+      "music": 0.0
+    },
+    {
+      "from": 753.42,
+      "to": 756.62,
+      "sid": 263,
+      "location": 2,
+      "content": "那么当前的政策重点呢是risk control",
+      "music": 0.0
+    },
+    {
+      "from": 756.62,
+      "to": 757.93,
+      "sid": 264,
+      "location": 2,
+      "content": "就是是防风险",
+      "music": 0.0
+    },
+    {
+      "from": 757.93,
+      "to": 758.91,
+      "sid": 265,
+      "location": 2,
+      "content": "Not reflection",
+      "music": 0.0
+    },
+    {
+      "from": 758.91,
+      "to": 761.26,
+      "sid": 266,
+      "location": 2,
+      "content": "而不是把房价再次推高",
+      "music": 0.0
+    },
+    {
+      "from": 761.26,
+      "to": 764.98,
+      "sid": 267,
+      "location": 2,
+      "content": "虽然一线城市的二手房市场在价格上是有所企稳的",
+      "music": 0.0
+    },
+    {
+      "from": 764.98,
+      "to": 767.31,
+      "sid": 268,
+      "location": 2,
+      "content": "销量呢也是有所改善",
+      "music": 0.0
+    },
+    {
+      "from": 767.31,
+      "to": 770.43,
+      "sid": 269,
+      "location": 2,
+      "content": "但是新开工包括销量的总量啊",
+      "music": 0.0
+    },
+    {
+      "from": 770.43,
+      "to": 772.589,
+      "sid": 270,
+      "location": 2,
+      "content": "就是全国的销量依然比较低迷",
+      "music": 0.0
+    },
+    {
+      "from": 772.589,
+      "to": 774.029,
+      "sid": 271,
+      "location": 2,
+      "content": "那在这次会议上",
+      "music": 0.0
+    },
+    {
+      "from": 774.029,
+      "to": 776.269,
+      "sid": 272,
+      "location": 2,
+      "content": "他们引用了一项行业的调查显示",
+      "music": 0.0
+    },
+    {
+      "from": 776.269,
+      "to": 780.24,
+      "sid": 273,
+      "location": 2,
+      "content": "超过70%的房地产企业和投资人啊",
+      "music": 0.0
+    },
+    {
+      "from": 780.24,
+      "to": 784.44,
+      "sid": 274,
+      "location": 2,
+      "content": "预计市场在2027年之前是不会企稳的",
+      "music": 0.0
+    },
+    {
+      "from": 784.44,
+      "to": 786.78,
+      "sid": 275,
+      "location": 2,
+      "content": "Expect no market stabilization",
+      "music": 0.0
+    },
+    {
+      "from": 786.78,
+      "to": 788.12,
+      "sid": 276,
+      "location": 2,
+      "content": "Before two thousand twenty seven",
+      "music": 0.0
+    },
+    {
+      "from": 788.12,
+      "to": 789.56,
+      "sid": 277,
+      "location": 2,
+      "content": "不过呢与前几年相比",
+      "music": 0.0
+    },
+    {
+      "from": 789.56,
+      "to": 793.55,
+      "sid": 278,
+      "location": 2,
+      "content": "他们与会的这些专家普遍的是越来越感觉到",
+      "music": 0.0
+    },
+    {
+      "from": 793.55,
+      "to": 796.37,
+      "sid": 279,
+      "location": 2,
+      "content": "房地产的底部已经清晰可见了",
+      "music": 0.0
+    },
+    {
+      "from": 796.37,
+      "to": 798.81,
+      "sid": 280,
+      "location": 2,
+      "content": "植被即便它依然遥远啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.81,
+      "to": 801.25,
+      "sid": 281,
+      "location": 2,
+      "content": "even if it remains distinct啊",
+      "music": 0.0
+    },
+    {
+      "from": 801.25,
+      "to": 805.819,
+      "sid": 282,
+      "location": 2,
+      "content": "那言下之意呢就是房地产在2026年可能很难企稳啊",
+      "music": 0.0
+    },
+    {
+      "from": 805.819,
+      "to": 809.14,
+      "sid": 283,
+      "location": 2,
+      "content": "那第七项呢是关于中美之间的AI差距",
+      "music": 0.0
+    },
+    {
+      "from": 809.14,
+      "to": 811.98,
+      "sid": 284,
+      "location": 2,
+      "content": "所以呢是说中国在人工智能领域的优势啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.98,
+      "to": 813.98,
+      "sid": 285,
+      "location": 2,
+      "content": "不在于前沿的基础模型",
+      "music": 0.0
+    },
+    {
+      "from": 813.98,
+      "to": 816.98,
+      "sid": 286,
+      "location": 2,
+      "content": "而主要在于应用和基础设施",
+      "music": 0.0
+    },
+    {
+      "from": 816.98,
+      "to": 818.94,
+      "sid": 287,
+      "location": 2,
+      "content": "那随着80%的交易啊",
+      "music": 0.0
+    },
+    {
+      "from": 818.94,
+      "to": 821.3,
+      "sid": 288,
+      "location": 2,
+      "content": "在中国都是通过电子钱包进行的",
+      "music": 0.0
+    },
+    {
+      "from": 821.3,
+      "to": 825.24,
+      "sid": 289,
+      "location": 2,
+      "content": "那城市之间呢又有统一的这种health care的qr cost",
+      "music": 0.0
+    },
+    {
+      "from": 825.24,
+      "to": 827.08,
+      "sid": 290,
+      "location": 2,
+      "content": "就是医疗的健康二维码啊",
+      "music": 0.0
+    },
+    {
+      "from": 827.08,
+      "to": 829.64,
+      "sid": 291,
+      "location": 2,
+      "content": "以及呢消费者的手机当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 829.64,
+      "to": 836.01,
+      "sid": 292,
+      "location": 2,
+      "content": "也有这种完全AI agent的购物和配送应用",
+      "music": 0.0
+    },
+    {
+      "from": 836.01,
+      "to": 837.33,
+      "sid": 293,
+      "location": 2,
+      "content": "因此呢在中国啊",
+      "music": 0.0
+    },
+    {
+      "from": 837.33,
+      "to": 843.41,
+      "sid": 294,
+      "location": 2,
+      "content": "AI正在被叠加到一个欧洲和美国尚未建立的数字化经济体之上",
+      "music": 0.0
+    },
+    {
+      "from": 843.41,
+      "to": 846.81,
+      "sid": 295,
+      "location": 2,
+      "content": "那虽然呢美国在基础模型上保持领先",
+      "music": 0.0
+    },
+    {
+      "from": 846.81,
+      "to": 849.64,
+      "sid": 296,
+      "location": 2,
+      "content": "但中国正在缩小这个差距",
+      "music": 0.0
+    },
+    {
+      "from": 849.64,
+      "to": 852.119,
+      "sid": 297,
+      "location": 2,
+      "content": "第八项呢是关于资本开支的啊",
+      "music": 0.0
+    },
+    {
+      "from": 852.119,
+      "to": 857.459,
+      "sid": 298,
+      "location": 2,
+      "content": "首先呢德云社认为全面的资本账户自由化并不会很快到来",
+      "music": 0.0
+    },
+    {
+      "from": 857.459,
+      "to": 861.02,
+      "sid": 299,
+      "location": 2,
+      "content": "同时呢中国对此没有明确的目标或时间表",
+      "music": 0.0
+    },
+    {
+      "from": 861.02,
+      "to": 866.38,
+      "sid": 300,
+      "location": 2,
+      "content": "另外呢就是香港仍然是离岸和在岸人民币之间的核心纽带啊",
+      "music": 0.0
+    },
+    {
+      "from": 866.38,
+      "to": 868.95,
+      "sid": 301,
+      "location": 2,
+      "content": "也是作为人民币国际化的一个试验田",
+      "music": 0.0
+    },
+    {
+      "from": 868.95,
+      "to": 873.25,
+      "sid": 302,
+      "location": 2,
+      "content": "而与此相对应的呢就是在案的资本管制则保持不变",
+      "music": 0.0
+    },
+    {
+      "from": 873.25,
+      "to": 874.15,
+      "sid": 303,
+      "location": 2,
+      "content": "那很遗憾呢",
+      "music": 0.0
+    },
+    {
+      "from": 874.15,
+      "to": 876.2,
+      "sid": 304,
+      "location": 2,
+      "content": "就是在刚刚过去的周末啊",
+      "music": 0.0
+    },
+    {
+      "from": 876.2,
+      "to": 880.06,
+      "sid": 305,
+      "location": 2,
+      "content": "我们看到了对三家香港的券商的一个处罚",
+      "music": 0.0
+    },
+    {
+      "from": 880.06,
+      "to": 881.56,
+      "sid": 306,
+      "location": 2,
+      "content": "显呢我们的政策制定者",
+      "music": 0.0
+    },
+    {
+      "from": 881.56,
+      "to": 884.82,
+      "sid": 307,
+      "location": 2,
+      "content": "是不希望大陆的老百姓通过这样一条资金通道啊",
+      "music": 0.0
+    },
+    {
+      "from": 884.82,
+      "to": 888.71,
+      "sid": 308,
+      "location": 2,
+      "content": "把本属于投资A股的钱流向了美股啊",
+      "music": 0.0
+    },
+    {
+      "from": 888.71,
+      "to": 890.99,
+      "sid": 309,
+      "location": 2,
+      "content": "那最后一项呢就是关于人民币的啊",
+      "music": 0.0
+    },
+    {
+      "from": 895.75,
+      "to": 897.4,
+      "sid": 310,
+      "location": 2,
+      "content": "I was speaker",
+      "music": 0.0
+    },
+    {
+      "from": 897.4,
+      "to": 902.57,
+      "sid": 311,
+      "location": 2,
+      "content": "每一个发言人啊都认为人民币是在一个清晰的升值路径上的",
+      "music": 0.0
+    },
+    {
+      "from": 902.57,
+      "to": 905.85,
+      "sid": 312,
+      "location": 2,
+      "content": "而市场共识呢是在今年年末的时候",
+      "music": 0.0
+    },
+    {
+      "from": 905.85,
+      "to": 909.88,
+      "sid": 313,
+      "location": 2,
+      "content": "美元兑人民币的汇率会在6.5到6.7这个区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 909.88,
+      "to": 911.92,
+      "sid": 314,
+      "location": 2,
+      "content": "这还是一个相当乐观的判断",
+      "music": 0.0
+    },
+    {
+      "from": 911.92,
+      "to": 913.14,
+      "sid": 315,
+      "location": 2,
+      "content": "正如我开篇所说",
+      "music": 0.0
+    },
+    {
+      "from": 913.14,
+      "to": 914.58,
+      "sid": 316,
+      "location": 2,
+      "content": "那么在推动力方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 914.58,
+      "to": 916.4,
+      "sid": 317,
+      "location": 2,
+      "content": "人民币升值的主要推动力啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.4,
+      "to": 919.329,
+      "sid": 318,
+      "location": 2,
+      "content": "仍然是出口企业的结汇啊",
+      "music": 0.0
+    },
+    {
+      "from": 919.329,
+      "to": 921.369,
+      "sid": 319,
+      "location": 2,
+      "content": "除了出口企业结汇之外",
+      "music": 0.0
+    },
+    {
+      "from": 921.369,
+      "to": 925.319,
+      "sid": 320,
+      "location": 2,
+      "content": "还有几个催化剂也会推动人民币持续的走强",
+      "music": 0.0
+    },
+    {
+      "from": 925.319,
+      "to": 930.24,
+      "sid": 321,
+      "location": 2,
+      "content": "第一个呢就是对于中国出口竞争力以及对于中国经济增长的信心",
+      "music": 0.0
+    },
+    {
+      "from": 930.24,
+      "to": 935.34,
+      "sid": 322,
+      "location": 2,
+      "content": "第二呢是针对于以美元计价的金融资产的波动性的担忧",
+      "music": 0.0
+    },
+    {
+      "from": 935.34,
+      "to": 937.88,
+      "sid": 323,
+      "location": 2,
+      "content": "第三呢是对于地缘政治冲突的担忧啊",
+      "music": 0.0
+    },
+    {
+      "from": 937.88,
+      "to": 941.14,
+      "sid": 324,
+      "location": 2,
+      "content": "那共同的导致人民币在持续的走强",
+      "music": 0.0
+    },
+    {
+      "from": 948.34,
+      "to": 951.1,
+      "sid": 325,
+      "location": 2,
+      "content": "managing the pace not the direction啊",
+      "music": 0.0
+    },
+    {
+      "from": 951.1,
+      "to": 952.099,
+      "sid": 326,
+      "location": 2,
+      "content": "不是方向",
+      "music": 0.0
+    },
+    {
+      "from": 952.099,
+      "to": 955.639,
+      "sid": 327,
+      "location": 2,
+      "content": "也就是人民币升值是一个高度确定性的判断",
+      "music": 0.0
+    },
+    {
+      "from": 955.639,
+      "to": 958.059,
+      "sid": 328,
+      "location": 2,
+      "content": "什么会导致人民币最终没能升值",
+      "music": 0.0
+    },
+    {
+      "from": 958.059,
+      "to": 961.28,
+      "sid": 329,
+      "location": 2,
+      "content": "或者甚至存在贬值风险呢",
+      "music": 0.0
+    },
+    {
+      "from": 961.28,
+      "to": 963.72,
+      "sid": 330,
+      "location": 2,
+      "content": "德银认为大家只需要关注一个指标",
+      "music": 0.0
+    },
+    {
+      "from": 963.72,
+      "to": 967.529,
+      "sid": 331,
+      "location": 2,
+      "content": "就是中国的出口增速会不会突然间放缓好了",
+      "music": 0.0
+    },
+    {
+      "from": 967.529,
+      "to": 971.55,
+      "sid": 332,
+      "location": 2,
+      "content": "那今天呢就简单的跟大家分享一下德银的这篇宏观研报吧",
+      "music": 0.0
+    },
+    {
+      "from": 971.55,
+      "to": 972.47,
+      "sid": 333,
+      "location": 2,
+      "content": "还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 972.47,
+      "to": 973.99,
+      "sid": 334,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 973.99,
+      "to": 977.82,
+      "sid": 335,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 977.82,
+      "to": 979.14,
+      "sid": 336,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 979.14,
+      "to": 980.66,
+      "sid": 337,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 980.66,
+      "to": 981.36,
+      "sid": 338,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

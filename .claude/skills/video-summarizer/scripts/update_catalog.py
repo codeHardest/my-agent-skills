@@ -27,10 +27,15 @@ def extract_metadata(summary_path: str) -> dict:
     if url_match:
         metadata['url'] = url_match.group(1).strip()
 
-    # Extract download date
-    date_match = re.search(r'\*\*下载时间\*\*:\s*(\d{4}-\d{2}-\d{2})', content)
-    if date_match:
-        metadata['date'] = date_match.group(1).strip()
+    # Extract publish date (优先使用发布时间)
+    pubdate_match = re.search(r'\*\*发布时间\*\*:\s*(\d{4}-\d{2}-\d{2})', content)
+    if pubdate_match:
+        metadata['date'] = pubdate_match.group(1).strip()
+    else:
+        # Fallback to download date if pubdate not available
+        date_match = re.search(r'\*\*下载时间\*\*:\s*(\d{4}-\d{2}-\d{2})', content)
+        if date_match:
+            metadata['date'] = date_match.group(1).strip()
 
     return metadata
 
@@ -44,7 +49,7 @@ def format_catalog_entry(metadata: dict) -> str:
     bvid_match = re.search(r'/(BV[\w]+)', url) if url else None
     bvid = bvid_match.group(1) if bvid_match else ''
 
-    link = f"[summary.md](downloads/bilibili/{bvid}/summary.md)" if bvid else ''
+    link = f"[summary.md](../../downloads/bilibili/{bvid}/summary.md)" if bvid else ''
 
     return f"| | {title} | {link} |"
 

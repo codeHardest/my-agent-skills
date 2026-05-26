@@ -1,0 +1,8980 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.28,
+      "sid": 1,
+      "location": 2,
+      "content": "我听的是哪些逻辑变了",
+      "music": 0.0
+    },
+    {
+      "from": 1.28,
+      "to": 2.11,
+      "sid": 2,
+      "location": 2,
+      "content": "哪些逻辑没有",
+      "music": 0.0
+    },
+    {
+      "from": 2.175,
+      "to": 5.61,
+      "sid": 3,
+      "location": 2,
+      "content": "然后我们能能能看到的数据呢是呃",
+      "music": 0.0
+    },
+    {
+      "from": 5.61,
+      "to": 7.15,
+      "sid": 4,
+      "location": 2,
+      "content": "需求依然非常的好啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.15,
+      "to": 11.639,
+      "sid": 5,
+      "location": 2,
+      "content": "甚至呢我觉得就是需求可以用超出预期的好",
+      "music": 0.0
+    },
+    {
+      "from": 11.639,
+      "to": 12.879,
+      "sid": 6,
+      "location": 2,
+      "content": "来来形容呃",
+      "music": 0.0
+    },
+    {
+      "from": 12.879,
+      "to": 14.62,
+      "sid": 7,
+      "location": 2,
+      "content": "怎么理解这个事情呢",
+      "music": 0.0
+    },
+    {
+      "from": 14.62,
+      "to": 17.3,
+      "sid": 8,
+      "location": 2,
+      "content": "呃我们最近了解下来的真的呃",
+      "music": 0.0
+    },
+    {
+      "from": 17.3,
+      "to": 20.38,
+      "sid": 9,
+      "location": 2,
+      "content": "从需求上可以有几个几个方面去去看",
+      "music": 0.0
+    },
+    {
+      "from": 20.38,
+      "to": 23.0,
+      "sid": 10,
+      "location": 2,
+      "content": "就第一个呢从电芯厂的拍上去看",
+      "music": 0.0
+    },
+    {
+      "from": 23.0,
+      "to": 24.62,
+      "sid": 11,
+      "location": 2,
+      "content": "电影厂拍上看的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.62,
+      "to": 28.38,
+      "sid": 12,
+      "location": 2,
+      "content": "呃呃6月我们看到就是6月",
+      "music": 0.0
+    },
+    {
+      "from": 28.38,
+      "to": 29.91,
+      "sid": 13,
+      "location": 2,
+      "content": "7月8月",
+      "music": 0.0
+    },
+    {
+      "from": 29.91,
+      "to": 33.17,
+      "sid": 14,
+      "location": 2,
+      "content": "这几个就后边这几个比较确定的一些月份",
+      "music": 0.0
+    },
+    {
+      "from": 33.17,
+      "to": 34.49,
+      "sid": 15,
+      "location": 2,
+      "content": "那能看到排产呢",
+      "music": 0.0
+    },
+    {
+      "from": 34.49,
+      "to": 36.31,
+      "sid": 16,
+      "location": 2,
+      "content": "基本上每个月呢月薪呃",
+      "music": 0.0
+    },
+    {
+      "from": 36.31,
+      "to": 39.01,
+      "sid": 17,
+      "location": 2,
+      "content": "电讯的这个呃就是泰产",
+      "music": 0.0
+    },
+    {
+      "from": 39.01,
+      "to": 42.579,
+      "sid": 18,
+      "location": 2,
+      "content": "政府上呢基本上每个月的都还分6%到八",
+      "music": 0.0
+    },
+    {
+      "from": 42.579,
+      "to": 45.059,
+      "sid": 19,
+      "location": 2,
+      "content": "那这个增速呢其实是非常非常",
+      "music": 0.0
+    },
+    {
+      "from": 45.059,
+      "to": 47.259,
+      "sid": 20,
+      "location": 2,
+      "content": "我觉得就是应该是淡季的",
+      "music": 0.0
+    },
+    {
+      "from": 47.259,
+      "to": 48.839,
+      "sid": 21,
+      "location": 2,
+      "content": "就是一般是7月份",
+      "music": 0.0
+    },
+    {
+      "from": 48.839,
+      "to": 51.15,
+      "sid": 22,
+      "location": 2,
+      "content": "是一个啊比较传统的一个淡季",
+      "music": 0.0
+    },
+    {
+      "from": 51.15,
+      "to": 51.85,
+      "sid": 23,
+      "location": 2,
+      "content": "78月份",
+      "music": 0.0
+    },
+    {
+      "from": 51.85,
+      "to": 55.61,
+      "sid": 24,
+      "location": 2,
+      "content": "但是实际上呢呃从现在的这个已知的数据看呢",
+      "music": 0.0
+    },
+    {
+      "from": 55.61,
+      "to": 59.84,
+      "sid": 25,
+      "location": 2,
+      "content": "会发现天新厂的其实呃78月份那缓震还不错",
+      "music": 0.0
+    },
+    {
+      "from": 59.84,
+      "to": 62.72,
+      "sid": 26,
+      "location": 2,
+      "content": "那基本上也占5%到六这样的缓存",
+      "music": 0.0
+    },
+    {
+      "from": 62.72,
+      "to": 66.7,
+      "sid": 27,
+      "location": 2,
+      "content": "那这边其实是有跟呃电芯厂的这边投产有关系",
+      "music": 0.0
+    },
+    {
+      "from": 66.7,
+      "to": 71.24,
+      "sid": 28,
+      "location": 2,
+      "content": "然后额并且呢就储能的订单呢还是呃比较饱和",
+      "music": 0.0
+    },
+    {
+      "from": 71.24,
+      "to": 73.14,
+      "sid": 29,
+      "location": 2,
+      "content": "那所以就是我们看到就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 73.14,
+      "to": 75.72,
+      "sid": 30,
+      "location": 2,
+      "content": "整体的需求还是非常非常的好啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.72,
+      "to": 77.16,
+      "sid": 31,
+      "location": 2,
+      "content": "这是这是纯电新端的",
+      "music": 0.0
+    },
+    {
+      "from": 77.16,
+      "to": 79.72,
+      "sid": 32,
+      "location": 2,
+      "content": "然后呢还可以从其是六福六福",
+      "music": 0.0
+    },
+    {
+      "from": 79.72,
+      "to": 80.78,
+      "sid": 33,
+      "location": 2,
+      "content": "大家也关注到",
+      "music": 0.0
+    },
+    {
+      "from": 80.78,
+      "to": 82.52,
+      "sid": 34,
+      "location": 2,
+      "content": "最近这间六福又开始涨价了",
+      "music": 0.0
+    },
+    {
+      "from": 82.52,
+      "to": 85.69,
+      "sid": 35,
+      "location": 2,
+      "content": "因为在在需求上就电信的排产",
+      "music": 0.0
+    },
+    {
+      "from": 85.69,
+      "to": 89.17,
+      "sid": 36,
+      "location": 2,
+      "content": "它更多的呃是这个这个生产电池的",
+      "music": 0.0
+    },
+    {
+      "from": 89.17,
+      "to": 90.17,
+      "sid": 37,
+      "location": 2,
+      "content": "可以是干电池",
+      "music": 0.0
+    },
+    {
+      "from": 90.17,
+      "to": 91.96,
+      "sid": 38,
+      "location": 2,
+      "content": "所以相当于就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 91.96,
+      "to": 93.9,
+      "sid": 39,
+      "location": 2,
+      "content": "可以做一个一个一个成品库存",
+      "music": 0.0
+    },
+    {
+      "from": 93.9,
+      "to": 95.4,
+      "sid": 40,
+      "location": 2,
+      "content": "那往往呢就是电解液",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 98.01,
+      "sid": 41,
+      "location": 2,
+      "content": "因为它就是不太易保存",
+      "music": 0.0
+    },
+    {
+      "from": 98.01,
+      "to": 99.47,
+      "sid": 42,
+      "location": 2,
+      "content": "那往往就是筑业",
+      "music": 0.0
+    },
+    {
+      "from": 99.47,
+      "to": 100.55,
+      "sid": 43,
+      "location": 2,
+      "content": "就是我们说注业之后",
+      "music": 0.0
+    },
+    {
+      "from": 100.55,
+      "to": 101.63,
+      "sid": 44,
+      "location": 2,
+      "content": "他会这么失电池的",
+      "music": 0.0
+    },
+    {
+      "from": 101.63,
+      "to": 102.89,
+      "sid": 45,
+      "location": 2,
+      "content": "基本上就是要出库的",
+      "music": 0.0
+    },
+    {
+      "from": 102.89,
+      "to": 105.97,
+      "sid": 46,
+      "location": 2,
+      "content": "虽然投入这个六伏的这个的价格呢",
+      "music": 0.0
+    },
+    {
+      "from": 105.97,
+      "to": 109.06,
+      "sid": 47,
+      "location": 2,
+      "content": "又往往会代表啊电信的一个出货量比较好",
+      "music": 0.0
+    },
+    {
+      "from": 109.06,
+      "to": 110.78,
+      "sid": 48,
+      "location": 2,
+      "content": "那所以从这个角度去验证呢",
+      "music": 0.0
+    },
+    {
+      "from": 110.78,
+      "to": 113.28,
+      "sid": 49,
+      "location": 2,
+      "content": "其实现在是呃电芯到了呃",
+      "music": 0.0
+    },
+    {
+      "from": 113.28,
+      "to": 114.54,
+      "sid": 50,
+      "location": 2,
+      "content": "整体的排场还不错",
+      "music": 0.0
+    },
+    {
+      "from": 114.54,
+      "to": 117.7,
+      "sid": 51,
+      "location": 2,
+      "content": "然后呢出货量也比较好的一个一个状态呃",
+      "music": 0.0
+    },
+    {
+      "from": 117.7,
+      "to": 118.38,
+      "sid": 52,
+      "location": 2,
+      "content": "那再加上呢",
+      "music": 0.0
+    },
+    {
+      "from": 118.38,
+      "to": 122.19,
+      "sid": 53,
+      "location": 2,
+      "content": "就是我们呃收到的就是订阅的这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 122.19,
+      "to": 123.23,
+      "sid": 54,
+      "location": 2,
+      "content": "铁铝厂的订单",
+      "music": 0.0
+    },
+    {
+      "from": 123.23,
+      "to": 125.17,
+      "sid": 55,
+      "location": 2,
+      "content": "那确实也能验证呃",
+      "music": 0.0
+    },
+    {
+      "from": 125.17,
+      "to": 127.569,
+      "sid": 56,
+      "location": 2,
+      "content": "这电芯厂的这个呃开展特别好",
+      "music": 0.0
+    },
+    {
+      "from": 127.569,
+      "to": 129.889,
+      "sid": 57,
+      "location": 2,
+      "content": "那包括天衣厂有些投产的产能呢",
+      "music": 0.0
+    },
+    {
+      "from": 129.889,
+      "to": 131.389,
+      "sid": 58,
+      "location": 2,
+      "content": "呃电信厂频繁地锁",
+      "music": 0.0
+    },
+    {
+      "from": 131.389,
+      "to": 134.21,
+      "sid": 59,
+      "location": 2,
+      "content": "那就是就是跟他们锁好了产能的",
+      "music": 0.0
+    },
+    {
+      "from": 134.21,
+      "to": 138.1,
+      "sid": 60,
+      "location": 2,
+      "content": "所以这些呢都在体现就是呃人体的电芯呃",
+      "music": 0.0
+    },
+    {
+      "from": 138.1,
+      "to": 139.54,
+      "sid": 61,
+      "location": 2,
+      "content": "是啊需求非常好",
+      "music": 0.0
+    },
+    {
+      "from": 139.54,
+      "to": 142.06,
+      "sid": 62,
+      "location": 2,
+      "content": "那并且呢就是我们也了解到呃",
+      "music": 0.0
+    },
+    {
+      "from": 142.06,
+      "to": 143.26,
+      "sid": 63,
+      "location": 2,
+      "content": "电信厂的成品库存",
+      "music": 0.0
+    },
+    {
+      "from": 143.26,
+      "to": 146.45,
+      "sid": 64,
+      "location": 2,
+      "content": "其实现在目前处在一个比较低的一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 146.45,
+      "to": 150.05,
+      "sid": 65,
+      "location": 2,
+      "content": "在这里不管是呃就是动力还是储能",
+      "music": 0.0
+    },
+    {
+      "from": 150.05,
+      "to": 153.93,
+      "sid": 66,
+      "location": 2,
+      "content": "甚至呃我我借用这个这个这个就是公开的一句",
+      "music": 0.0
+    },
+    {
+      "from": 153.93,
+      "to": 154.85,
+      "sid": 67,
+      "location": 2,
+      "content": "就是一句话",
+      "music": 0.0
+    },
+    {
+      "from": 154.85,
+      "to": 159.12,
+      "sid": 68,
+      "location": 2,
+      "content": "就是就是呃呃我就是比亚迪的王传福啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.12,
+      "to": 159.48,
+      "sid": 69,
+      "location": 2,
+      "content": "王总",
+      "music": 0.0
+    },
+    {
+      "from": 159.48,
+      "to": 162.2,
+      "sid": 70,
+      "location": 2,
+      "content": "然后呢他在公开呃讲话过程中也表示",
+      "music": 0.0
+    },
+    {
+      "from": 162.2,
+      "to": 164.1,
+      "sid": 71,
+      "location": 2,
+      "content": "现在福利电池的产能呢",
+      "music": 0.0
+    },
+    {
+      "from": 164.1,
+      "to": 167.449,
+      "sid": 72,
+      "location": 2,
+      "content": "呃是是不够满足比亚迪现在的订单的",
+      "music": 0.0
+    },
+    {
+      "from": 167.449,
+      "to": 171.69,
+      "sid": 73,
+      "location": 2,
+      "content": "那这个呢确实从我们这个呃跟跟他们的这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 171.69,
+      "to": 173.53,
+      "sid": 74,
+      "location": 2,
+      "content": "就一线的人员确认下来了",
+      "music": 0.0
+    },
+    {
+      "from": 173.53,
+      "to": 175.01,
+      "sid": 75,
+      "location": 2,
+      "content": "也基本上是这样的状态",
+      "music": 0.0
+    },
+    {
+      "from": 175.01,
+      "to": 178.34,
+      "sid": 76,
+      "location": 2,
+      "content": "所以就是现在呃看的价格是涨到了额",
+      "music": 0.0
+    },
+    {
+      "from": 178.34,
+      "to": 179.28,
+      "sid": 77,
+      "location": 2,
+      "content": "就是20万",
+      "music": 0.0
+    },
+    {
+      "from": 179.28,
+      "to": 182.39,
+      "sid": 78,
+      "location": 2,
+      "content": "那确实实际上并没有影响到电信",
+      "music": 0.0
+    },
+    {
+      "from": 182.39,
+      "to": 183.81,
+      "sid": 79,
+      "location": 2,
+      "content": "这段的一个排产",
+      "music": 0.0
+    },
+    {
+      "from": 183.81,
+      "to": 187.32,
+      "sid": 80,
+      "location": 2,
+      "content": "所以这是呃这是我们看到的许秀的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 187.32,
+      "to": 189.92,
+      "sid": 81,
+      "location": 2,
+      "content": "那那那这里其实大家会有个疑问",
+      "music": 0.0
+    },
+    {
+      "from": 189.92,
+      "to": 191.96,
+      "sid": 82,
+      "location": 2,
+      "content": "就为什么呃需求那么好",
+      "music": 0.0
+    },
+    {
+      "from": 191.96,
+      "to": 195.2,
+      "sid": 83,
+      "location": 2,
+      "content": "然后呃最近跌幅怎么这么大",
+      "music": 0.0
+    },
+    {
+      "from": 195.2,
+      "to": 197.34,
+      "sid": 84,
+      "location": 2,
+      "content": "那是不是有有哪些因素",
+      "music": 0.0
+    },
+    {
+      "from": 197.34,
+      "to": 199.14,
+      "sid": 85,
+      "location": 2,
+      "content": "就是引发了这样的一个下跌",
+      "music": 0.0
+    },
+    {
+      "from": 199.14,
+      "to": 200.14,
+      "sid": 86,
+      "location": 2,
+      "content": "那最好在这里面",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 203.22,
+      "sid": 87,
+      "location": 2,
+      "content": "就我觉得就通过需求这个角度去延伸啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.22,
+      "to": 206.38,
+      "sid": 88,
+      "location": 2,
+      "content": "就是呃延伸到现在的一个状态是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 206.38,
+      "to": 209.49,
+      "sid": 89,
+      "location": 2,
+      "content": "现在必虽然下游需求很好",
+      "music": 0.0
+    },
+    {
+      "from": 209.49,
+      "to": 212.21,
+      "sid": 90,
+      "location": 2,
+      "content": "那下游的一个整体的原料库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 212.21,
+      "to": 214.69,
+      "sid": 91,
+      "location": 2,
+      "content": "呃材料厂在十天左右",
+      "music": 0.0
+    },
+    {
+      "from": 214.69,
+      "to": 218.409,
+      "sid": 92,
+      "location": 2,
+      "content": "然后呢电芯厂呢在呃两到四周呃",
+      "music": 0.0
+    },
+    {
+      "from": 218.409,
+      "to": 219.569,
+      "sid": 93,
+      "location": 2,
+      "content": "就在这样一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 219.569,
+      "to": 223.67,
+      "sid": 94,
+      "location": 2,
+      "content": "并且呃某些头部的这个呃呃电芯厂",
+      "music": 0.0
+    },
+    {
+      "from": 223.67,
+      "to": 226.11,
+      "sid": 95,
+      "location": 2,
+      "content": "其实整整体原料库存也不是很高",
+      "music": 0.0
+    },
+    {
+      "from": 226.11,
+      "to": 227.59,
+      "sid": 96,
+      "location": 2,
+      "content": "那在这样的一个状态下呢",
+      "music": 0.0
+    },
+    {
+      "from": 227.59,
+      "to": 230.48,
+      "sid": 97,
+      "location": 2,
+      "content": "就是大家发现诶应该是需求好呃",
+      "music": 0.0
+    },
+    {
+      "from": 230.48,
+      "to": 232.36,
+      "sid": 98,
+      "location": 2,
+      "content": "又要这个原料库存又不高",
+      "music": 0.0
+    },
+    {
+      "from": 232.36,
+      "to": 234.28,
+      "sid": 99,
+      "location": 2,
+      "content": "应该是有比较强的一个补库需求",
+      "music": 0.0
+    },
+    {
+      "from": 234.28,
+      "to": 236.75,
+      "sid": 100,
+      "location": 2,
+      "content": "为什么呃就是价格反而下跌",
+      "music": 0.0
+    },
+    {
+      "from": 236.75,
+      "to": 238.43,
+      "sid": 101,
+      "location": 2,
+      "content": "那那就带着我们这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 238.43,
+      "to": 240.99,
+      "sid": 102,
+      "location": 2,
+      "content": "我们再去再去做一个一个进一步拆解",
+      "music": 0.0
+    },
+    {
+      "from": 240.99,
+      "to": 242.15,
+      "sid": 103,
+      "location": 2,
+      "content": "那这里边有几个原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 242.15,
+      "to": 245.26,
+      "sid": 104,
+      "location": 2,
+      "content": "大家现在只是呃在在数据上能看到的是",
+      "music": 0.0
+    },
+    {
+      "from": 245.26,
+      "to": 246.14,
+      "sid": 105,
+      "location": 2,
+      "content": "第一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 246.14,
+      "to": 247.3,
+      "sid": 106,
+      "location": 2,
+      "content": "他们不断在跟",
+      "music": 0.0
+    },
+    {
+      "from": 247.3,
+      "to": 249.86,
+      "sid": 107,
+      "location": 2,
+      "content": "然后呢呃整个社会过程呢",
+      "music": 0.0
+    },
+    {
+      "from": 249.86,
+      "to": 251.399,
+      "sid": 108,
+      "location": 2,
+      "content": "其实还是就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.399,
+      "to": 254.499,
+      "sid": 109,
+      "location": 2,
+      "content": "至少的显性化的数库存呢还是比较多",
+      "music": 0.0
+    },
+    {
+      "from": 254.499,
+      "to": 256.739,
+      "sid": 110,
+      "location": 2,
+      "content": "那这里面呢有几个几个原因",
+      "music": 0.0
+    },
+    {
+      "from": 256.739,
+      "to": 259.059,
+      "sid": 111,
+      "location": 2,
+      "content": "来我们调研下来有几个原因呃",
+      "music": 0.0
+    },
+    {
+      "from": 259.059,
+      "to": 262.199,
+      "sid": 112,
+      "location": 2,
+      "content": "第一个原因呢是因为就是呃最近这段时间",
+      "music": 0.0
+    },
+    {
+      "from": 262.199,
+      "to": 263.439,
+      "sid": 113,
+      "location": 2,
+      "content": "期限商这一块",
+      "music": 0.0
+    },
+    {
+      "from": 263.439,
+      "to": 265.099,
+      "sid": 114,
+      "location": 2,
+      "content": "或者说贸易商这这一块",
+      "music": 0.0
+    },
+    {
+      "from": 265.099,
+      "to": 268.28,
+      "sid": 115,
+      "location": 2,
+      "content": "因为呃这个查税查票的问题",
+      "music": 0.0
+    },
+    {
+      "from": 268.28,
+      "to": 270.36,
+      "sid": 116,
+      "location": 2,
+      "content": "那很多贸易商的很多业务呢",
+      "music": 0.0
+    },
+    {
+      "from": 270.36,
+      "to": 273.08,
+      "sid": 117,
+      "location": 2,
+      "content": "它是呃就是发展量急剧缩小了",
+      "music": 0.0
+    },
+    {
+      "from": 273.08,
+      "to": 276.0,
+      "sid": 118,
+      "location": 2,
+      "content": "也就意味着在这个呃流通环节之后",
+      "music": 0.0
+    },
+    {
+      "from": 276.0,
+      "to": 278.22,
+      "sid": 119,
+      "location": 2,
+      "content": "被抽调了很多资金",
+      "music": 0.0
+    },
+    {
+      "from": 278.22,
+      "to": 281.2,
+      "sid": 120,
+      "location": 2,
+      "content": "那这个是跟查这个呃开票的问题",
+      "music": 0.0
+    },
+    {
+      "from": 281.2,
+      "to": 282.92,
+      "sid": 121,
+      "location": 2,
+      "content": "查税的问题有关系",
+      "music": 0.0
+    },
+    {
+      "from": 282.92,
+      "to": 287.499,
+      "sid": 122,
+      "location": 2,
+      "content": "那那这边呢就是呃在呃在在就是现货中呢",
+      "music": 0.0
+    },
+    {
+      "from": 287.499,
+      "to": 290.19,
+      "sid": 123,
+      "location": 2,
+      "content": "有一个呃很明显的迹象什么的",
+      "music": 0.0
+    },
+    {
+      "from": 290.19,
+      "to": 291.79,
+      "sid": 124,
+      "location": 2,
+      "content": "呃李盐厂想去卖货",
+      "music": 0.0
+    },
+    {
+      "from": 291.79,
+      "to": 292.39,
+      "sid": 125,
+      "location": 2,
+      "content": "以前呢",
+      "music": 0.0
+    },
+    {
+      "from": 292.39,
+      "to": 293.59,
+      "sid": 126,
+      "location": 2,
+      "content": "只要李盐厂想卖",
+      "music": 0.0
+    },
+    {
+      "from": 293.59,
+      "to": 296.43,
+      "sid": 127,
+      "location": 2,
+      "content": "那基本上呃比如包括项羽啊",
+      "music": 0.0
+    },
+    {
+      "from": 296.43,
+      "to": 298.4,
+      "sid": 128,
+      "location": 2,
+      "content": "剑法啊这些恶劣啊",
+      "music": 0.0
+    },
+    {
+      "from": 298.4,
+      "to": 300.64,
+      "sid": 129,
+      "location": 2,
+      "content": "这些比较大的那些企业商",
+      "music": 0.0
+    },
+    {
+      "from": 300.64,
+      "to": 302.16,
+      "sid": 130,
+      "location": 2,
+      "content": "这资金是很充足的",
+      "music": 0.0
+    },
+    {
+      "from": 302.16,
+      "to": 304.38,
+      "sid": 131,
+      "location": 2,
+      "content": "那么额基本上你只要卖",
+      "music": 0.0
+    },
+    {
+      "from": 304.38,
+      "to": 306.62,
+      "sid": 132,
+      "location": 2,
+      "content": "那就谈个基差都能收",
+      "music": 0.0
+    },
+    {
+      "from": 306.62,
+      "to": 307.54,
+      "sid": 133,
+      "location": 2,
+      "content": "说了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 307.54,
+      "to": 310.06,
+      "sid": 134,
+      "location": 2,
+      "content": "他们呃会不一定要去交仓",
+      "music": 0.0
+    },
+    {
+      "from": 310.06,
+      "to": 311.48,
+      "sid": 135,
+      "location": 2,
+      "content": "那会拿在自己手上",
+      "music": 0.0
+    },
+    {
+      "from": 311.48,
+      "to": 313.22,
+      "sid": 136,
+      "location": 2,
+      "content": "然后呢在盘面波动的时候",
+      "music": 0.0
+    },
+    {
+      "from": 313.22,
+      "to": 315.3,
+      "sid": 137,
+      "location": 2,
+      "content": "因为盘面往上拨的时候",
+      "music": 0.0
+    },
+    {
+      "from": 315.3,
+      "to": 318.92,
+      "sid": 138,
+      "location": 2,
+      "content": "就是接下来啊在盘面跌的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 318.92,
+      "to": 319.54,
+      "sid": 139,
+      "location": 2,
+      "content": "出给下游",
+      "music": 0.0
+    },
+    {
+      "from": 319.54,
+      "to": 320.96,
+      "sid": 140,
+      "location": 2,
+      "content": "那这样的方式呃",
+      "music": 0.0
+    },
+    {
+      "from": 320.96,
+      "to": 321.8,
+      "sid": 141,
+      "location": 2,
+      "content": "在做贸易",
+      "music": 0.0
+    },
+    {
+      "from": 321.8,
+      "to": 324.16,
+      "sid": 142,
+      "location": 2,
+      "content": "那但是呢现在的这些业务量受限呢",
+      "music": 0.0
+    },
+    {
+      "from": 324.16,
+      "to": 325.62,
+      "sid": 143,
+      "location": 2,
+      "content": "就导致了一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 325.62,
+      "to": 330.03,
+      "sid": 144,
+      "location": 2,
+      "content": "就实际上流通盘面资金呢在在在在地区变小",
+      "music": 0.0
+    },
+    {
+      "from": 330.03,
+      "to": 332.91,
+      "sid": 145,
+      "location": 2,
+      "content": "就导致就并没有那么多的资金去间抵盐厂",
+      "music": 0.0
+    },
+    {
+      "from": 332.91,
+      "to": 335.84,
+      "sid": 146,
+      "location": 2,
+      "content": "抵盐厂这边的一个一个一个一个货",
+      "music": 0.0
+    },
+    {
+      "from": 335.84,
+      "to": 337.06,
+      "sid": 147,
+      "location": 2,
+      "content": "那所以导致延长",
+      "music": 0.0
+    },
+    {
+      "from": 337.06,
+      "to": 340.96,
+      "sid": 148,
+      "location": 2,
+      "content": "其实现在放货的其他的呃贴水的比较多呃",
+      "music": 0.0
+    },
+    {
+      "from": 340.96,
+      "to": 343.77,
+      "sid": 149,
+      "location": 2,
+      "content": "像零九合约都能贴到额4000",
+      "music": 0.0
+    },
+    {
+      "from": 343.77,
+      "to": 345.27,
+      "sid": 150,
+      "location": 2,
+      "content": "就3500~4000",
+      "music": 0.0
+    },
+    {
+      "from": 345.27,
+      "to": 347.37,
+      "sid": 151,
+      "location": 2,
+      "content": "那其实在在在这种情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 347.37,
+      "to": 348.71,
+      "sid": 152,
+      "location": 2,
+      "content": "就是很多风险子",
+      "music": 0.0
+    },
+    {
+      "from": 348.71,
+      "to": 350.25,
+      "sid": 153,
+      "location": 2,
+      "content": "就是期货公司的风险子",
+      "music": 0.0
+    },
+    {
+      "from": 350.25,
+      "to": 353.76,
+      "sid": 154,
+      "location": 2,
+      "content": "接了呃这些呃这些这个这个新的货",
+      "music": 0.0
+    },
+    {
+      "from": 353.76,
+      "to": 358.6,
+      "sid": 155,
+      "location": 2,
+      "content": "那么这些新的货呢呃因为本身其实他去交仓呃",
+      "music": 0.0
+    },
+    {
+      "from": 358.6,
+      "to": 360.24,
+      "sid": 156,
+      "location": 2,
+      "content": "还是比较有利润的",
+      "music": 0.0
+    },
+    {
+      "from": 360.24,
+      "to": 364.02,
+      "sid": 157,
+      "location": 2,
+      "content": "所以就就就把硬块呢都呃交到了舱单上面去",
+      "music": 0.0
+    },
+    {
+      "from": 364.02,
+      "to": 366.08,
+      "sid": 158,
+      "location": 2,
+      "content": "那所以大家能看到的舱单这一块",
+      "music": 0.0
+    },
+    {
+      "from": 366.08,
+      "to": 368.5,
+      "sid": 159,
+      "location": 2,
+      "content": "其实额已经内部容性高",
+      "music": 0.0
+    },
+    {
+      "from": 368.5,
+      "to": 370.82,
+      "sid": 160,
+      "location": 2,
+      "content": "那历史的话呢是5.5万吨啊",
+      "music": 0.0
+    },
+    {
+      "from": 370.82,
+      "to": 372.02,
+      "sid": 161,
+      "location": 2,
+      "content": "5.5万吨",
+      "music": 0.0
+    },
+    {
+      "from": 372.02,
+      "to": 374.58,
+      "sid": 162,
+      "location": 2,
+      "content": "用一手得一吨重量5万吨",
+      "music": 0.0
+    },
+    {
+      "from": 374.58,
+      "to": 377.44,
+      "sid": 163,
+      "location": 2,
+      "content": "那么呢呃像昨天已经到了五点",
+      "music": 0.0
+    },
+    {
+      "from": 377.44,
+      "to": 378.6,
+      "sid": 164,
+      "location": 2,
+      "content": "将近5.2万吨",
+      "music": 0.0
+    },
+    {
+      "from": 378.6,
+      "to": 380.73,
+      "sid": 165,
+      "location": 2,
+      "content": "那已经很快接近历史新高",
+      "music": 0.0
+    },
+    {
+      "from": 380.73,
+      "to": 383.33,
+      "sid": 166,
+      "location": 2,
+      "content": "然后呃在在这样的情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 383.33,
+      "to": 387.04,
+      "sid": 167,
+      "location": 2,
+      "content": "呃大家其实能看到的就是后边应该还能看到",
+      "music": 0.0
+    },
+    {
+      "from": 387.04,
+      "to": 387.96,
+      "sid": 168,
+      "location": 2,
+      "content": "他们还要再增",
+      "music": 0.0
+    },
+    {
+      "from": 387.96,
+      "to": 392.38,
+      "sid": 169,
+      "location": 2,
+      "content": "那可能我们预计呢会会会增到将近7万吨",
+      "music": 0.0
+    },
+    {
+      "from": 392.38,
+      "to": 393.549,
+      "sid": 170,
+      "location": 2,
+      "content": "有这样的一个预期",
+      "music": 0.0
+    },
+    {
+      "from": 393.549,
+      "to": 395.029,
+      "sid": 171,
+      "location": 2,
+      "content": "所以这个是呃",
+      "music": 0.0
+    },
+    {
+      "from": 395.029,
+      "to": 397.77,
+      "sid": 172,
+      "location": 2,
+      "content": "就是大家看到汤丹的一个一个一个",
+      "music": 0.0
+    },
+    {
+      "from": 397.77,
+      "to": 399.03,
+      "sid": 173,
+      "location": 2,
+      "content": "不断上升的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 399.03,
+      "to": 401.6,
+      "sid": 174,
+      "location": 2,
+      "content": "然后第二个呢是呃为什么还对",
+      "music": 0.0
+    },
+    {
+      "from": 401.6,
+      "to": 402.8,
+      "sid": 175,
+      "location": 2,
+      "content": "为什么除了厂长以外",
+      "music": 0.0
+    },
+    {
+      "from": 402.8,
+      "to": 404.08,
+      "sid": 176,
+      "location": 2,
+      "content": "大家现在流通少涨了",
+      "music": 0.0
+    },
+    {
+      "from": 404.08,
+      "to": 405.28,
+      "sid": 177,
+      "location": 2,
+      "content": "其他的话还那么做呢",
+      "music": 0.0
+    },
+    {
+      "from": 405.28,
+      "to": 406.94,
+      "sid": 178,
+      "location": 2,
+      "content": "那这里边呢我们也调研到",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 409.22,
+      "sid": 179,
+      "location": 2,
+      "content": "就是最近市场上在成交的呢",
+      "music": 0.0
+    },
+    {
+      "from": 409.22,
+      "to": 413.12,
+      "sid": 180,
+      "location": 2,
+      "content": "很多是一些23年二四年这些陈年老货啊",
+      "music": 0.0
+    },
+    {
+      "from": 413.12,
+      "to": 416.1,
+      "sid": 181,
+      "location": 2,
+      "content": "那这些陈年老货呢很很大的出处呢是在于",
+      "music": 0.0
+    },
+    {
+      "from": 416.1,
+      "to": 417.64,
+      "sid": 182,
+      "location": 2,
+      "content": "就很多人",
+      "music": 0.0
+    },
+    {
+      "from": 417.64,
+      "to": 421.169,
+      "sid": 183,
+      "location": 2,
+      "content": "他不一定会提供的是一个传统的一些贸易上",
+      "music": 0.0
+    },
+    {
+      "from": 421.169,
+      "to": 423.189,
+      "sid": 184,
+      "location": 2,
+      "content": "包括有些厂家的这样的不成",
+      "music": 0.0
+    },
+    {
+      "from": 423.189,
+      "to": 426.629,
+      "sid": 185,
+      "location": 2,
+      "content": "那么呢他呃在在现在这样的情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 426.629,
+      "to": 428.589,
+      "sid": 186,
+      "location": 2,
+      "content": "就是它成本也比较低",
+      "music": 0.0
+    },
+    {
+      "from": 428.589,
+      "to": 432.61,
+      "sid": 187,
+      "location": 2,
+      "content": "那么在就是涨到20万了以后",
+      "music": 0.0
+    },
+    {
+      "from": 432.61,
+      "to": 435.4,
+      "sid": 188,
+      "location": 2,
+      "content": "那么这些货呢都陆续的再再抛出来",
+      "music": 0.0
+    },
+    {
+      "from": 435.4,
+      "to": 437.98,
+      "sid": 189,
+      "location": 2,
+      "content": "所以呢就是这是相当于就是大家可以理解成",
+      "music": 0.0
+    },
+    {
+      "from": 437.98,
+      "to": 441.82,
+      "sid": 190,
+      "location": 2,
+      "content": "以前这批货呢呃是是锁盘所注的一批货",
+      "music": 0.0
+    },
+    {
+      "from": 441.82,
+      "to": 443.88,
+      "sid": 191,
+      "location": 2,
+      "content": "并没有做到联通市场上来",
+      "music": 0.0
+    },
+    {
+      "from": 443.88,
+      "to": 447.2,
+      "sid": 192,
+      "location": 2,
+      "content": "反正现在呢就是呃抛弃了流通市场",
+      "music": 0.0
+    },
+    {
+      "from": 447.2,
+      "to": 448.8,
+      "sid": 193,
+      "location": 2,
+      "content": "那导致在流通市场上",
+      "music": 0.0
+    },
+    {
+      "from": 448.8,
+      "to": 451.66,
+      "sid": 194,
+      "location": 2,
+      "content": "不管是产出产出的新货也好",
+      "music": 0.0
+    },
+    {
+      "from": 451.66,
+      "to": 453.26,
+      "sid": 195,
+      "location": 2,
+      "content": "还是以前的老货也好",
+      "music": 0.0
+    },
+    {
+      "from": 453.26,
+      "to": 453.74,
+      "sid": 196,
+      "location": 2,
+      "content": "都混杂",
+      "music": 0.0
+    },
+    {
+      "from": 453.74,
+      "to": 456.5,
+      "sid": 197,
+      "location": 2,
+      "content": "但有些这些老货贴的呢还比新货多很多",
+      "music": 0.0
+    },
+    {
+      "from": 456.5,
+      "to": 459.88,
+      "sid": 198,
+      "location": 2,
+      "content": "所以很多下游呢愿意去接一些呃老的货",
+      "music": 0.0
+    },
+    {
+      "from": 459.88,
+      "to": 462.06,
+      "sid": 199,
+      "location": 2,
+      "content": "那导致呢就是新的货不好出去",
+      "music": 0.0
+    },
+    {
+      "from": 462.06,
+      "to": 464.88,
+      "sid": 200,
+      "location": 2,
+      "content": "并且就是刚刚我提到这个呃流通盘",
+      "music": 0.0
+    },
+    {
+      "from": 464.88,
+      "to": 468.42,
+      "sid": 201,
+      "location": 2,
+      "content": "这些贴片商的这个贸易商的资金受限了",
+      "music": 0.0
+    },
+    {
+      "from": 468.42,
+      "to": 470.86,
+      "sid": 202,
+      "location": 2,
+      "content": "所以导致今货接不动就出去接康他了",
+      "music": 0.0
+    },
+    {
+      "from": 470.86,
+      "to": 473.46,
+      "sid": 203,
+      "location": 2,
+      "content": "所以现在就是在流通上这样的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 473.46,
+      "to": 475.98,
+      "sid": 204,
+      "location": 2,
+      "content": "那在这里呢就是呃大家大家呢",
+      "music": 0.0
+    },
+    {
+      "from": 475.98,
+      "to": 479.97,
+      "sid": 205,
+      "location": 2,
+      "content": "就是呃真正说为什么个人价格额跌的比较快的",
+      "music": 0.0
+    },
+    {
+      "from": 479.97,
+      "to": 480.57,
+      "sid": 206,
+      "location": 2,
+      "content": "一个原因",
+      "music": 0.0
+    },
+    {
+      "from": 480.57,
+      "to": 482.05,
+      "sid": 207,
+      "location": 2,
+      "content": "其实主要是现货端",
+      "music": 0.0
+    },
+    {
+      "from": 482.05,
+      "to": 484.61,
+      "sid": 208,
+      "location": 2,
+      "content": "然后呢产生了一个很很大的一个",
+      "music": 0.0
+    },
+    {
+      "from": 484.61,
+      "to": 486.48,
+      "sid": 209,
+      "location": 2,
+      "content": "流通盘的一个挤压",
+      "music": 0.0
+    },
+    {
+      "from": 486.48,
+      "to": 488.72,
+      "sid": 210,
+      "location": 2,
+      "content": "所以所以在这样的一个一个情况下",
+      "music": 0.0
+    },
+    {
+      "from": 488.72,
+      "to": 489.22,
+      "sid": 211,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 489.22,
+      "to": 491.539,
+      "sid": 212,
+      "location": 2,
+      "content": "就是大家会觉得流通端很宽松",
+      "music": 0.0
+    },
+    {
+      "from": 491.539,
+      "to": 493.139,
+      "sid": 213,
+      "location": 2,
+      "content": "就大概是这样的状态",
+      "music": 0.0
+    },
+    {
+      "from": 493.139,
+      "to": 496.779,
+      "sid": 214,
+      "location": 2,
+      "content": "所以呢在在这里面就是呃就是就是严端讲完",
+      "music": 0.0
+    },
+    {
+      "from": 496.779,
+      "to": 498.459,
+      "sid": 215,
+      "location": 2,
+      "content": "再往上再往上去讲",
+      "music": 0.0
+    },
+    {
+      "from": 498.459,
+      "to": 500.26,
+      "sid": 216,
+      "location": 2,
+      "content": "矿的矿灯的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 500.26,
+      "to": 501.69,
+      "sid": 217,
+      "location": 2,
+      "content": "现在还是比较紧",
+      "music": 0.0
+    },
+    {
+      "from": 501.69,
+      "to": 502.25,
+      "sid": 218,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 502.25,
+      "to": 504.61,
+      "sid": 219,
+      "location": 2,
+      "content": "虽然呢跟津巴布韦那边呢发出来了",
+      "music": 0.0
+    },
+    {
+      "from": 504.61,
+      "to": 507.58,
+      "sid": 220,
+      "location": 2,
+      "content": "然后但是整体的一个国内库存还比较低",
+      "music": 0.0
+    },
+    {
+      "from": 507.58,
+      "to": 511.46,
+      "sid": 221,
+      "location": 2,
+      "content": "呃这边呢有比较啊这个这个代表性的呃",
+      "music": 0.0
+    },
+    {
+      "from": 511.46,
+      "to": 512.84,
+      "sid": 222,
+      "location": 2,
+      "content": "一个库存点呢是金银中",
+      "music": 0.0
+    },
+    {
+      "from": 512.84,
+      "to": 514.18,
+      "sid": 223,
+      "location": 2,
+      "content": "就镇江广经营中",
+      "music": 0.0
+    },
+    {
+      "from": 514.18,
+      "to": 518.05,
+      "sid": 224,
+      "location": 2,
+      "content": "因为这个呢是很多这个贸易的矿呢",
+      "music": 0.0
+    },
+    {
+      "from": 518.05,
+      "to": 519.02,
+      "sid": 225,
+      "location": 2,
+      "content": "都会放在那里",
+      "music": 0.0
+    },
+    {
+      "from": 519.02,
+      "to": 522.6,
+      "sid": 226,
+      "location": 2,
+      "content": "然后因为镇江港和苏州港这两个港口呢",
+      "music": 0.0
+    },
+    {
+      "from": 522.6,
+      "to": 526.02,
+      "sid": 227,
+      "location": 2,
+      "content": "占据了全部就是呃锂矿港口库存",
+      "music": 0.0
+    },
+    {
+      "from": 526.02,
+      "to": 529.7,
+      "sid": 228,
+      "location": 2,
+      "content": "就港口上锂矿库存的差不多七八十%的量",
+      "music": 0.0
+    },
+    {
+      "from": 529.7,
+      "to": 532.82,
+      "sid": 229,
+      "location": 2,
+      "content": "所以清清东行呢主要就是呃华友啊",
+      "music": 0.0
+    },
+    {
+      "from": 532.82,
+      "to": 533.84,
+      "sid": 230,
+      "location": 2,
+      "content": "雅宝啊",
+      "music": 0.0
+    },
+    {
+      "from": 533.84,
+      "to": 536.26,
+      "sid": 231,
+      "location": 2,
+      "content": "然后比亚迪啊这些货都创到青州",
+      "music": 0.0
+    },
+    {
+      "from": 536.26,
+      "to": 538.0,
+      "sid": 232,
+      "location": 2,
+      "content": "那其他的很多呃",
+      "music": 0.0
+    },
+    {
+      "from": 538.0,
+      "to": 539.18,
+      "sid": 233,
+      "location": 2,
+      "content": "去环渤海的",
+      "music": 0.0
+    },
+    {
+      "from": 539.18,
+      "to": 541.12,
+      "sid": 234,
+      "location": 2,
+      "content": "去这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 541.12,
+      "to": 541.84,
+      "sid": 235,
+      "location": 2,
+      "content": "四川的",
+      "music": 0.0
+    },
+    {
+      "from": 541.84,
+      "to": 544.14,
+      "sid": 236,
+      "location": 2,
+      "content": "去江西的很多货呢都会说换了镇江港",
+      "music": 0.0
+    },
+    {
+      "from": 544.14,
+      "to": 545.44,
+      "sid": 237,
+      "location": 2,
+      "content": "镇江港是最方便的",
+      "music": 0.0
+    },
+    {
+      "from": 545.44,
+      "to": 548.02,
+      "sid": 238,
+      "location": 2,
+      "content": "像镇江港里面呢有一个比较重要的港口",
+      "music": 0.0
+    },
+    {
+      "from": 548.02,
+      "to": 549.25,
+      "sid": 239,
+      "location": 2,
+      "content": "是金银洲码头",
+      "music": 0.0
+    },
+    {
+      "from": 549.25,
+      "to": 551.37,
+      "sid": 240,
+      "location": 2,
+      "content": "这个码头呢呃在",
+      "music": 0.0
+    },
+    {
+      "from": 551.37,
+      "to": 554.79,
+      "sid": 241,
+      "location": 2,
+      "content": "但现在的库存呢就只有额7万吨的货",
+      "music": 0.0
+    },
+    {
+      "from": 554.79,
+      "to": 555.31,
+      "sid": 242,
+      "location": 2,
+      "content": "额",
+      "music": 0.0
+    },
+    {
+      "from": 555.31,
+      "to": 557.36,
+      "sid": 243,
+      "location": 2,
+      "content": "7万吨李金浩的货",
+      "music": 0.0
+    },
+    {
+      "from": 557.36,
+      "to": 560.52,
+      "sid": 244,
+      "location": 2,
+      "content": "然后呢这个呃在以前呢在25年",
+      "music": 0.0
+    },
+    {
+      "from": 560.52,
+      "to": 562.28,
+      "sid": 245,
+      "location": 2,
+      "content": "然后就是我对比几个数据",
+      "music": 0.0
+    },
+    {
+      "from": 562.28,
+      "to": 564.2,
+      "sid": 246,
+      "location": 2,
+      "content": "大家就能感觉到他的货有多低了",
+      "music": 0.0
+    },
+    {
+      "from": 564.2,
+      "to": 566.0,
+      "sid": 247,
+      "location": 2,
+      "content": "就25年二五年",
+      "music": 0.0
+    },
+    {
+      "from": 566.0,
+      "to": 568.31,
+      "sid": 248,
+      "location": 2,
+      "content": "在25年6月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 568.31,
+      "to": 569.77,
+      "sid": 249,
+      "location": 2,
+      "content": "新明州码头的货呢",
+      "music": 0.0
+    },
+    {
+      "from": 569.77,
+      "to": 573.65,
+      "sid": 250,
+      "location": 2,
+      "content": "呃是差不多是接近30多万吨",
+      "music": 0.0
+    },
+    {
+      "from": 573.65,
+      "to": 580.22,
+      "sid": 251,
+      "location": 2,
+      "content": "然后呢到呃到25年的10月份降到了呃",
+      "music": 0.0
+    },
+    {
+      "from": 580.22,
+      "to": 581.31,
+      "sid": 252,
+      "location": 2,
+      "content": "20来万吨",
+      "music": 0.0
+    },
+    {
+      "from": 581.31,
+      "to": 583.71,
+      "sid": 253,
+      "location": 2,
+      "content": "那到现在呢只有7万吨的货",
+      "music": 0.0
+    },
+    {
+      "from": 583.71,
+      "to": 587.49,
+      "sid": 254,
+      "location": 2,
+      "content": "所以这这个就就库存水平是啊",
+      "music": 0.0
+    },
+    {
+      "from": 587.49,
+      "to": 589.35,
+      "sid": 255,
+      "location": 2,
+      "content": "看出来矿泡是很紧的",
+      "music": 0.0
+    },
+    {
+      "from": 589.35,
+      "to": 592.29,
+      "sid": 256,
+      "location": 2,
+      "content": "呃第二个指标是看那些外采矿的原厂",
+      "music": 0.0
+    },
+    {
+      "from": 592.29,
+      "to": 593.51,
+      "sid": 257,
+      "location": 2,
+      "content": "那为什么要看这个指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 593.51,
+      "to": 597.16,
+      "sid": 258,
+      "location": 2,
+      "content": "因为呃对于那些需要外采矿的呃",
+      "music": 0.0
+    },
+    {
+      "from": 597.16,
+      "to": 598.42,
+      "sid": 259,
+      "location": 2,
+      "content": "以延长来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 598.42,
+      "to": 602.9,
+      "sid": 260,
+      "location": 2,
+      "content": "呃那其实呃就是他会比呃像有自有矿的",
+      "music": 0.0
+    },
+    {
+      "from": 602.9,
+      "to": 604.18,
+      "sid": 261,
+      "location": 2,
+      "content": "或有超跌双标框的",
+      "music": 0.0
+    },
+    {
+      "from": 604.18,
+      "to": 606.82,
+      "sid": 262,
+      "location": 2,
+      "content": "那在每次缺矿时更容易圈到他们",
+      "music": 0.0
+    },
+    {
+      "from": 606.82,
+      "to": 609.14,
+      "sid": 263,
+      "location": 2,
+      "content": "那他们的一个现在的一个库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 609.14,
+      "to": 612.06,
+      "sid": 264,
+      "location": 2,
+      "content": "基本上就是在国内有现货的库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 612.06,
+      "to": 613.26,
+      "sid": 265,
+      "location": 2,
+      "content": "基本上就三四天",
+      "music": 0.0
+    },
+    {
+      "from": 613.26,
+      "to": 616.48,
+      "sid": 266,
+      "location": 2,
+      "content": "那这个呢也是呃已经额比较低",
+      "music": 0.0
+    },
+    {
+      "from": 616.48,
+      "to": 618.32,
+      "sid": 267,
+      "location": 2,
+      "content": "正常的话一般都是在50天的",
+      "music": 0.0
+    },
+    {
+      "from": 618.32,
+      "to": 620.12,
+      "sid": 268,
+      "location": 2,
+      "content": "一样的额左右的一个货",
+      "music": 0.0
+    },
+    {
+      "from": 620.12,
+      "to": 623.74,
+      "sid": 269,
+      "location": 2,
+      "content": "那这是这是现在这外排放延长状态",
+      "music": 0.0
+    },
+    {
+      "from": 623.74,
+      "to": 626.12,
+      "sid": 270,
+      "location": 2,
+      "content": "然后呢就是再看到贸易商",
+      "music": 0.0
+    },
+    {
+      "from": 626.12,
+      "to": 626.68,
+      "sid": 271,
+      "location": 2,
+      "content": "贸易商呢",
+      "music": 0.0
+    },
+    {
+      "from": 626.68,
+      "to": 629.5,
+      "sid": 272,
+      "location": 2,
+      "content": "现在手上的放的是16万吨的铝金矿护城",
+      "music": 0.0
+    },
+    {
+      "from": 629.5,
+      "to": 632.86,
+      "sid": 273,
+      "location": 2,
+      "content": "所以这是这是现在看到的这个矿的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 632.86,
+      "to": 637.31,
+      "sid": 274,
+      "location": 2,
+      "content": "因为我们能看到的矿的一个呃整体上的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 637.31,
+      "to": 639.63,
+      "sid": 275,
+      "location": 2,
+      "content": "呃加工费就是加大",
+      "music": 0.0
+    },
+    {
+      "from": 639.63,
+      "to": 642.22,
+      "sid": 276,
+      "location": 2,
+      "content": "大家可以把加工费理解成金差额",
+      "music": 0.0
+    },
+    {
+      "from": 642.22,
+      "to": 644.06,
+      "sid": 277,
+      "location": 2,
+      "content": "就是不断在走强",
+      "music": 0.0
+    },
+    {
+      "from": 644.06,
+      "to": 646.22,
+      "sid": 278,
+      "location": 2,
+      "content": "只是说最近这一周呢六点回来了",
+      "music": 0.0
+    },
+    {
+      "from": 646.22,
+      "to": 648.87,
+      "sid": 279,
+      "location": 2,
+      "content": "回升到呃1万8500",
+      "music": 0.0
+    },
+    {
+      "from": 648.87,
+      "to": 651.87,
+      "sid": 280,
+      "location": 2,
+      "content": "加工费那最低的时候总到我1万7500",
+      "music": 0.0
+    },
+    {
+      "from": 651.87,
+      "to": 653.35,
+      "sid": 281,
+      "location": 2,
+      "content": "那我我也描述一下",
+      "music": 0.0
+    },
+    {
+      "from": 653.35,
+      "to": 655.19,
+      "sid": 282,
+      "location": 2,
+      "content": "这是个什么概念呢",
+      "music": 0.0
+    },
+    {
+      "from": 655.76,
+      "to": 659.04,
+      "sid": 283,
+      "location": 2,
+      "content": "呃一就是在2025年6月份",
+      "music": 0.0
+    },
+    {
+      "from": 659.04,
+      "to": 660.74,
+      "sid": 284,
+      "location": 2,
+      "content": "就碳酸也跌到6万块钱的时候",
+      "music": 0.0
+    },
+    {
+      "from": 660.74,
+      "to": 663.62,
+      "sid": 285,
+      "location": 2,
+      "content": "那最低的时候加工费是到了1万8200",
+      "music": 0.0
+    },
+    {
+      "from": 663.62,
+      "to": 666.22,
+      "sid": 286,
+      "location": 2,
+      "content": "然后呢呃后来随着价格上涨呢",
+      "music": 0.0
+    },
+    {
+      "from": 666.22,
+      "to": 668.96,
+      "sid": 287,
+      "location": 2,
+      "content": "其加工费是额由往上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 668.96,
+      "to": 672.0,
+      "sid": 288,
+      "location": 2,
+      "content": "那涨到呢是最高涨到2万2",
+      "music": 0.0
+    },
+    {
+      "from": 672.0,
+      "to": 675.44,
+      "sid": 289,
+      "location": 2,
+      "content": "然后现在又回落到这个1万1万8500",
+      "music": 0.0
+    },
+    {
+      "from": 675.44,
+      "to": 677.62,
+      "sid": 290,
+      "location": 2,
+      "content": "给你对比1万7500这样的一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 677.62,
+      "to": 680.68,
+      "sid": 291,
+      "location": 2,
+      "content": "那在在这样的一个一个一个水平下呢",
+      "music": 0.0
+    },
+    {
+      "from": 680.68,
+      "to": 684.32,
+      "sid": 292,
+      "location": 2,
+      "content": "呃就是大家可以理解成就是呃加工费越低",
+      "music": 0.0
+    },
+    {
+      "from": 684.32,
+      "to": 688.98,
+      "sid": 293,
+      "location": 2,
+      "content": "就代表着锂盐厂或者说整体越需要泡的人",
+      "music": 0.0
+    },
+    {
+      "from": 688.98,
+      "to": 692.4,
+      "sid": 294,
+      "location": 2,
+      "content": "他越就是越压了加工费去买货",
+      "music": 0.0
+    },
+    {
+      "from": 692.4,
+      "to": 693.72,
+      "sid": 295,
+      "location": 2,
+      "content": "也就意味他越需要火",
+      "music": 0.0
+    },
+    {
+      "from": 693.72,
+      "to": 696.32,
+      "sid": 296,
+      "location": 2,
+      "content": "那这个其实跟跟矿的这个水平",
+      "music": 0.0
+    },
+    {
+      "from": 696.32,
+      "to": 698.2,
+      "sid": 297,
+      "location": 2,
+      "content": "其实是库存水平是对应的",
+      "music": 0.0
+    },
+    {
+      "from": 698.2,
+      "to": 701.0,
+      "sid": 298,
+      "location": 2,
+      "content": "所以加工费呢是因为现在国内的报价呢",
+      "music": 0.0
+    },
+    {
+      "from": 701.0,
+      "to": 702.04,
+      "sid": 299,
+      "location": 2,
+      "content": "都是按照盘面",
+      "music": 0.0
+    },
+    {
+      "from": 702.04,
+      "to": 705.44,
+      "sid": 300,
+      "location": 2,
+      "content": "就是弹钢月期货盘面减去加工水费的报纸在报",
+      "music": 0.0
+    },
+    {
+      "from": 705.44,
+      "to": 707.56,
+      "sid": 301,
+      "location": 2,
+      "content": "所以加工费呢可以理解成基差",
+      "music": 0.0
+    },
+    {
+      "from": 707.56,
+      "to": 711.34,
+      "sid": 302,
+      "location": 2,
+      "content": "那那那那用基差语言去描述的就是呃加工资",
+      "music": 0.0
+    },
+    {
+      "from": 711.34,
+      "to": 712.48,
+      "sid": 303,
+      "location": 2,
+      "content": "基差不断在走差",
+      "music": 0.0
+    },
+    {
+      "from": 712.48,
+      "to": 714.0,
+      "sid": 304,
+      "location": 2,
+      "content": "因为货比较低",
+      "music": 0.0
+    },
+    {
+      "from": 714.0,
+      "to": 715.26,
+      "sid": 305,
+      "location": 2,
+      "content": "地产五辆的走长",
+      "music": 0.0
+    },
+    {
+      "from": 715.26,
+      "to": 717.02,
+      "sid": 306,
+      "location": 2,
+      "content": "那可是说这种概率",
+      "music": 0.0
+    },
+    {
+      "from": 717.02,
+      "to": 718.08,
+      "sid": 307,
+      "location": 2,
+      "content": "那1万8500呢",
+      "music": 0.0
+    },
+    {
+      "from": 718.08,
+      "to": 720.809,
+      "sid": 308,
+      "location": 2,
+      "content": "如果得到这个盈利要去看的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 720.809,
+      "to": 721.809,
+      "sid": 309,
+      "location": 2,
+      "content": "基本上挣不到钱",
+      "music": 0.0
+    },
+    {
+      "from": 721.809,
+      "to": 724.609,
+      "sid": 310,
+      "location": 2,
+      "content": "就是或者说比原厂他的1万8500的货呢",
+      "music": 0.0
+    },
+    {
+      "from": 724.609,
+      "to": 727.449,
+      "sid": 311,
+      "location": 2,
+      "content": "更多的是他觉得这个货接下来之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 727.449,
+      "to": 731.11,
+      "sid": 312,
+      "location": 2,
+      "content": "他就裸着裸着呢去去去播",
+      "music": 0.0
+    },
+    {
+      "from": 731.11,
+      "to": 732.27,
+      "sid": 313,
+      "location": 2,
+      "content": "行情还在会上涨",
+      "music": 0.0
+    },
+    {
+      "from": 732.27,
+      "to": 733.57,
+      "sid": 314,
+      "location": 2,
+      "content": "那是这样的一个概率",
+      "music": 0.0
+    },
+    {
+      "from": 733.57,
+      "to": 736.23,
+      "sid": 315,
+      "location": 2,
+      "content": "所以现在就是总结下来呢",
+      "music": 0.0
+    },
+    {
+      "from": 736.23,
+      "to": 739.87,
+      "sid": 316,
+      "location": 2,
+      "content": "就整体上呢就是呃呃用一句话描述",
+      "music": 0.0
+    },
+    {
+      "from": 739.87,
+      "to": 742.819,
+      "sid": 317,
+      "location": 2,
+      "content": "就是矿井盐很松",
+      "music": 0.0
+    },
+    {
+      "from": 742.819,
+      "to": 744.459,
+      "sid": 318,
+      "location": 2,
+      "content": "需求很好对",
+      "music": 0.0
+    },
+    {
+      "from": 744.459,
+      "to": 746.739,
+      "sid": 319,
+      "location": 2,
+      "content": "这是现在现阶段的状态",
+      "music": 0.0
+    },
+    {
+      "from": 746.739,
+      "to": 749.019,
+      "sid": 320,
+      "location": 2,
+      "content": "然后呢这个现阶段状态讲完了",
+      "music": 0.0
+    },
+    {
+      "from": 749.019,
+      "to": 750.89,
+      "sid": 321,
+      "location": 2,
+      "content": "就是可以讲讲行情",
+      "music": 0.0
+    },
+    {
+      "from": 750.89,
+      "to": 751.35,
+      "sid": 322,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 751.35,
+      "to": 754.4,
+      "sid": 323,
+      "location": 2,
+      "content": "行情呢这是我们额的一个判断是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 754.4,
+      "to": 756.52,
+      "sid": 324,
+      "location": 2,
+      "content": "呃先看底在哪里啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.52,
+      "to": 757.58,
+      "sid": 325,
+      "location": 2,
+      "content": "基本上这个比呢",
+      "music": 0.0
+    },
+    {
+      "from": 760.93,
+      "to": 762.91,
+      "sid": 326,
+      "location": 2,
+      "content": "那基本上这个比例已经出来了",
+      "music": 0.0
+    },
+    {
+      "from": 762.91,
+      "to": 764.83,
+      "sid": 327,
+      "location": 2,
+      "content": "那为什么说这个比已经出来了呢",
+      "music": 0.0
+    },
+    {
+      "from": 764.83,
+      "to": 768.959,
+      "sid": 328,
+      "location": 2,
+      "content": "就我们按照这个因为每个锂盐厂去买炮",
+      "music": 0.0
+    },
+    {
+      "from": 768.959,
+      "to": 771.36,
+      "sid": 329,
+      "location": 2,
+      "content": "他有这个他有成本",
+      "music": 0.0
+    },
+    {
+      "from": 771.36,
+      "to": 774.0,
+      "sid": 330,
+      "location": 2,
+      "content": "那么按照这个这个成本去看呢",
+      "music": 0.0
+    },
+    {
+      "from": 774.0,
+      "to": 777.87,
+      "sid": 331,
+      "location": 2,
+      "content": "呃就是我们统计的每天的额",
+      "music": 0.0
+    },
+    {
+      "from": 777.87,
+      "to": 781.05,
+      "sid": 332,
+      "location": 2,
+      "content": "矿的成交价格和矿的成交量",
+      "music": 0.0
+    },
+    {
+      "from": 781.05,
+      "to": 784.54,
+      "sid": 333,
+      "location": 2,
+      "content": "但这个成交价格指的是冶炼厂直接去点",
+      "music": 0.0
+    },
+    {
+      "from": 784.54,
+      "to": 785.96,
+      "sid": 334,
+      "location": 2,
+      "content": "就是点价成交的考",
+      "music": 0.0
+    },
+    {
+      "from": 785.96,
+      "to": 787.58,
+      "sid": 335,
+      "location": 2,
+      "content": "那这个人就更加真实一点",
+      "music": 0.0
+    },
+    {
+      "from": 787.58,
+      "to": 790.26,
+      "sid": 336,
+      "location": 2,
+      "content": "那在在在这样的两个数字呢",
+      "music": 0.0
+    },
+    {
+      "from": 790.26,
+      "to": 793.11,
+      "sid": 337,
+      "location": 2,
+      "content": "我们做了一个30天的一个家庭平均",
+      "music": 0.0
+    },
+    {
+      "from": 793.11,
+      "to": 794.43,
+      "sid": 338,
+      "location": 2,
+      "content": "那做完之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 794.43,
+      "to": 797.35,
+      "sid": 339,
+      "location": 2,
+      "content": "呃会发现就是这个价格呢",
+      "music": 0.0
+    },
+    {
+      "from": 797.35,
+      "to": 800.569,
+      "sid": 340,
+      "location": 2,
+      "content": "现在在17万5的一个一个均价",
+      "music": 0.0
+    },
+    {
+      "from": 800.569,
+      "to": 802.589,
+      "sid": 341,
+      "location": 2,
+      "content": "那么如果转到零九合约上呢",
+      "music": 0.0
+    },
+    {
+      "from": 802.589,
+      "to": 806.38,
+      "sid": 342,
+      "location": 2,
+      "content": "就差不多加个4000的息差的差不多是在18万",
+      "music": 0.0
+    },
+    {
+      "from": 806.38,
+      "to": 809.74,
+      "sid": 343,
+      "location": 2,
+      "content": "所以就是在在17万5到18万这个位置呢",
+      "music": 0.0
+    },
+    {
+      "from": 809.74,
+      "to": 810.92,
+      "sid": 344,
+      "location": 2,
+      "content": "只会会比较坚挺的",
+      "music": 0.0
+    },
+    {
+      "from": 810.92,
+      "to": 813.129,
+      "sid": 345,
+      "location": 2,
+      "content": "就是比较坚挺的成本区",
+      "music": 0.0
+    },
+    {
+      "from": 813.129,
+      "to": 815.449,
+      "sid": 346,
+      "location": 2,
+      "content": "那往上糊一点可以到18万多一点",
+      "music": 0.0
+    },
+    {
+      "from": 815.449,
+      "to": 820.41,
+      "sid": 347,
+      "location": 2,
+      "content": "那那这一这一阶段的相当于是呃是外",
+      "music": 0.0
+    },
+    {
+      "from": 820.41,
+      "to": 822.91,
+      "sid": 348,
+      "location": 2,
+      "content": "就是就是就是外采矿",
+      "music": 0.0
+    },
+    {
+      "from": 822.91,
+      "to": 825.43,
+      "sid": 349,
+      "location": 2,
+      "content": "你延长的矿的成本线",
+      "music": 0.0
+    },
+    {
+      "from": 825.43,
+      "to": 827.11,
+      "sid": 350,
+      "location": 2,
+      "content": "那可以理解这个词",
+      "music": 0.0
+    },
+    {
+      "from": 827.11,
+      "to": 828.49,
+      "sid": 351,
+      "location": 2,
+      "content": "所以我们我们是看到了",
+      "music": 0.0
+    },
+    {
+      "from": 828.49,
+      "to": 832.27,
+      "sid": 352,
+      "location": 2,
+      "content": "就是在在这个附近17万5的位置附近呢",
+      "music": 0.0
+    },
+    {
+      "from": 832.27,
+      "to": 835.73,
+      "sid": 353,
+      "location": 2,
+      "content": "呃已经是到了一个阶段性的一个底部",
+      "music": 0.0
+    },
+    {
+      "from": 835.73,
+      "to": 837.29,
+      "sid": 354,
+      "location": 2,
+      "content": "那这是这是第一个",
+      "music": 0.0
+    },
+    {
+      "from": 837.29,
+      "to": 840.18,
+      "sid": 355,
+      "location": 2,
+      "content": "那第二个呢呃看看网上的空间",
+      "music": 0.0
+    },
+    {
+      "from": 840.18,
+      "to": 841.94,
+      "sid": 356,
+      "location": 2,
+      "content": "那实际上呢就需求这一块",
+      "music": 0.0
+    },
+    {
+      "from": 841.94,
+      "to": 843.02,
+      "sid": 357,
+      "location": 2,
+      "content": "我刚刚有提到",
+      "music": 0.0
+    },
+    {
+      "from": 843.02,
+      "to": 844.8,
+      "sid": 358,
+      "location": 2,
+      "content": "就是即使涨到这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 844.8,
+      "to": 846.62,
+      "sid": 359,
+      "location": 2,
+      "content": "并没有影响到需求",
+      "music": 0.0
+    },
+    {
+      "from": 846.62,
+      "to": 848.98,
+      "sid": 360,
+      "location": 2,
+      "content": "那也包括就是大家可能有听到",
+      "music": 0.0
+    },
+    {
+      "from": 848.98,
+      "to": 851.52,
+      "sid": 361,
+      "location": 2,
+      "content": "这个海螺4号的回答这些事情",
+      "music": 0.0
+    },
+    {
+      "from": 851.52,
+      "to": 854.74,
+      "sid": 362,
+      "location": 2,
+      "content": "那这里边其实要考虑的个点是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 854.94,
+      "to": 858.67,
+      "sid": 363,
+      "location": 2,
+      "content": "就是并不是说这个呃一个项目做不了",
+      "music": 0.0
+    },
+    {
+      "from": 858.67,
+      "to": 860.03,
+      "sid": 364,
+      "location": 2,
+      "content": "其他项目都受到影响",
+      "music": 0.0
+    },
+    {
+      "from": 860.03,
+      "to": 861.49,
+      "sid": 365,
+      "location": 2,
+      "content": "其实际上就会变成",
+      "music": 0.0
+    },
+    {
+      "from": 861.49,
+      "to": 865.01,
+      "sid": 366,
+      "location": 2,
+      "content": "就是我们其实去去算这个需求影响到哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 865.01,
+      "to": 867.83,
+      "sid": 367,
+      "location": 2,
+      "content": "那我们要看这个额价格",
+      "music": 0.0
+    },
+    {
+      "from": 867.83,
+      "to": 871.06,
+      "sid": 368,
+      "location": 2,
+      "content": "对整个一个储能收益率的影响",
+      "music": 0.0
+    },
+    {
+      "from": 871.06,
+      "to": 872.78,
+      "sid": 369,
+      "location": 2,
+      "content": "因为汽车其实已经在涨价",
+      "music": 0.0
+    },
+    {
+      "from": 872.78,
+      "to": 874.22,
+      "sid": 370,
+      "location": 2,
+      "content": "是已经在往下跌",
+      "music": 0.0
+    },
+    {
+      "from": 874.22,
+      "to": 877.52,
+      "sid": 371,
+      "location": 2,
+      "content": "所以我觉得最主要看储能的一个一个一个点",
+      "music": 0.0
+    },
+    {
+      "from": 877.52,
+      "to": 878.84,
+      "sid": 372,
+      "location": 2,
+      "content": "那储能这一块呢",
+      "music": 0.0
+    },
+    {
+      "from": 878.84,
+      "to": 881.72,
+      "sid": 373,
+      "location": 2,
+      "content": "呃大家其实如果要算精准的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 881.72,
+      "to": 885.55,
+      "sid": 374,
+      "location": 2,
+      "content": "可以算一个呃全球储能收益率的一个曲线",
+      "music": 0.0
+    },
+    {
+      "from": 885.55,
+      "to": 888.09,
+      "sid": 375,
+      "location": 2,
+      "content": "那按照呢就是从低到高去排",
+      "music": 0.0
+    },
+    {
+      "from": 888.09,
+      "to": 891.06,
+      "sid": 376,
+      "location": 2,
+      "content": "那看看这个到价格涨到什么位置呢",
+      "music": 0.0
+    },
+    {
+      "from": 891.06,
+      "to": 892.58,
+      "sid": 377,
+      "location": 2,
+      "content": "呃会影响到多少需求",
+      "music": 0.0
+    },
+    {
+      "from": 892.58,
+      "to": 896.01,
+      "sid": 378,
+      "location": 2,
+      "content": "那我可以告诉大家我们测算的一个题呃",
+      "music": 0.0
+    },
+    {
+      "from": 896.01,
+      "to": 898.79,
+      "sid": 379,
+      "location": 2,
+      "content": "像像价格呢涨到额差不多",
+      "music": 0.0
+    },
+    {
+      "from": 898.79,
+      "to": 901.73,
+      "sid": 380,
+      "location": 2,
+      "content": "21万到22万的月均价",
+      "music": 0.0
+    },
+    {
+      "from": 901.73,
+      "to": 905.49,
+      "sid": 381,
+      "location": 2,
+      "content": "那么呢基本上会影响到20%左右的一个",
+      "music": 0.0
+    },
+    {
+      "from": 905.49,
+      "to": 906.53,
+      "sid": 382,
+      "location": 2,
+      "content": "储能的需求",
+      "music": 0.0
+    },
+    {
+      "from": 906.53,
+      "to": 909.37,
+      "sid": 383,
+      "location": 2,
+      "content": "但是呢影响到20%左右的储能需求呢",
+      "music": 0.0
+    },
+    {
+      "from": 909.37,
+      "to": 913.75,
+      "sid": 384,
+      "location": 2,
+      "content": "那实际上现在的电芯的产量和产能呃",
+      "music": 0.0
+    },
+    {
+      "from": 913.75,
+      "to": 915.18,
+      "sid": 385,
+      "location": 2,
+      "content": "还是会比较紧张",
+      "music": 0.0
+    },
+    {
+      "from": 915.18,
+      "to": 916.58,
+      "sid": 386,
+      "location": 2,
+      "content": "所以就是也就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 916.58,
+      "to": 918.14,
+      "sid": 387,
+      "location": 2,
+      "content": "实际上就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 918.14,
+      "to": 921.2,
+      "sid": 388,
+      "location": 2,
+      "content": "我觉得这21万到22万的这个价格呢",
+      "music": 0.0
+    },
+    {
+      "from": 921.2,
+      "to": 924.8,
+      "sid": 389,
+      "location": 2,
+      "content": "额月均价不是储能忍受的极限",
+      "music": 0.0
+    },
+    {
+      "from": 924.8,
+      "to": 928.01,
+      "sid": 390,
+      "location": 2,
+      "content": "对我觉得这个呢是呃事实这么去判",
+      "music": 0.0
+    },
+    {
+      "from": 928.01,
+      "to": 929.01,
+      "sid": 391,
+      "location": 2,
+      "content": "然后再在这里呢",
+      "music": 0.0
+    },
+    {
+      "from": 929.01,
+      "to": 932.59,
+      "sid": 392,
+      "location": 2,
+      "content": "就是我可以把这个我们呃测算过程中一些比较",
+      "music": 0.0
+    },
+    {
+      "from": 932.59,
+      "to": 933.81,
+      "sid": 393,
+      "location": 2,
+      "content": "就是关联的系数",
+      "music": 0.0
+    },
+    {
+      "from": 933.81,
+      "to": 936.0,
+      "sid": 394,
+      "location": 2,
+      "content": "可以跟大家再再沟通一下",
+      "music": 0.0
+    },
+    {
+      "from": 936.0,
+      "to": 938.5,
+      "sid": 395,
+      "location": 2,
+      "content": "那我们我们呢就是呃出站的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 938.5,
+      "to": 943.01,
+      "sid": 396,
+      "location": 2,
+      "content": "是发现呃电芯涨价一分钱会影响值0.6",
+      "music": 0.0
+    },
+    {
+      "from": 943.01,
+      "to": 945.91,
+      "sid": 397,
+      "location": 2,
+      "content": "那么呢电瓶涨价一分钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 945.91,
+      "to": 947.71,
+      "sid": 398,
+      "location": 2,
+      "content": "在中轨道两个环节",
+      "music": 0.0
+    },
+    {
+      "from": 947.71,
+      "to": 949.19,
+      "sid": 399,
+      "location": 2,
+      "content": "一个环节呢是碳酸",
+      "music": 0.0
+    },
+    {
+      "from": 949.19,
+      "to": 950.03,
+      "sid": 400,
+      "location": 2,
+      "content": "一个涨价",
+      "music": 0.0
+    },
+    {
+      "from": 950.03,
+      "to": 954.35,
+      "sid": 401,
+      "location": 2,
+      "content": "一个环节呢是呃硫磺涨价带来的零分钱涨价",
+      "music": 0.0
+    },
+    {
+      "from": 954.35,
+      "to": 957.14,
+      "sid": 402,
+      "location": 2,
+      "content": "那在这边呢就是我们呃看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 957.14,
+      "to": 960.8,
+      "sid": 403,
+      "location": 2,
+      "content": "把这个硫磺这个价格呢呃按照现在价格去计",
+      "music": 0.0
+    },
+    {
+      "from": 960.8,
+      "to": 963.26,
+      "sid": 404,
+      "location": 2,
+      "content": "然后呢去去赚开发旅呢",
+      "music": 0.0
+    },
+    {
+      "from": 963.26,
+      "to": 966.81,
+      "sid": 405,
+      "location": 2,
+      "content": "这个一般是这个11万5",
+      "music": 0.0
+    },
+    {
+      "from": 966.81,
+      "to": 968.13,
+      "sid": 406,
+      "location": 2,
+      "content": "1万4到1万5",
+      "music": 0.0
+    },
+    {
+      "from": 968.13,
+      "to": 969.99,
+      "sid": 407,
+      "location": 2,
+      "content": "对应到炼金涨一分钱",
+      "music": 0.0
+    },
+    {
+      "from": 969.99,
+      "to": 973.79,
+      "sid": 408,
+      "location": 2,
+      "content": "对应到储能降0.6%的收益率",
+      "music": 0.0
+    },
+    {
+      "from": 973.79,
+      "to": 976.37,
+      "sid": 409,
+      "location": 2,
+      "content": "那现在呢就是整体的一个全国",
+      "music": 0.0
+    },
+    {
+      "from": 976.37,
+      "to": 978.25,
+      "sid": 410,
+      "location": 2,
+      "content": "就是储能的一个中位数",
+      "music": 0.0
+    },
+    {
+      "from": 978.25,
+      "to": 981.76,
+      "sid": 411,
+      "location": 2,
+      "content": "就是基本上是在7%到8%",
+      "music": 0.0
+    },
+    {
+      "from": 981.76,
+      "to": 984.0,
+      "sid": 412,
+      "location": 2,
+      "content": "那降到了4%到5%",
+      "music": 0.0
+    },
+    {
+      "from": 984.0,
+      "to": 986.16,
+      "sid": 413,
+      "location": 2,
+      "content": "这4%到5%这个数字怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 986.16,
+      "to": 987.92,
+      "sid": 414,
+      "location": 2,
+      "content": "是我们调研的一个数字",
+      "music": 0.0
+    },
+    {
+      "from": 987.92,
+      "to": 989.92,
+      "sid": 415,
+      "location": 2,
+      "content": "就是也就利润4%到五的",
+      "music": 0.0
+    },
+    {
+      "from": 989.92,
+      "to": 993.37,
+      "sid": 416,
+      "location": 2,
+      "content": "大概还是有一个这个装机的一个需求的",
+      "music": 0.0
+    },
+    {
+      "from": 993.37,
+      "to": 994.37,
+      "sid": 417,
+      "location": 2,
+      "content": "那么呢在这里面",
+      "music": 0.0
+    },
+    {
+      "from": 994.37,
+      "to": 996.91,
+      "sid": 418,
+      "location": 2,
+      "content": "其实实际上还有3%的账户空间",
+      "music": 0.0
+    },
+    {
+      "from": 996.91,
+      "to": 998.73,
+      "sid": 419,
+      "location": 2,
+      "content": "那么呢这也就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 998.73,
+      "to": 1001.38,
+      "sid": 420,
+      "location": 2,
+      "content": "其实实际上对应到电信呢可能涨五分钱",
+      "music": 0.0
+    },
+    {
+      "from": 1001.38,
+      "to": 1002.54,
+      "sid": 421,
+      "location": 2,
+      "content": "那涨五分钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 1002.54,
+      "to": 1004.78,
+      "sid": 422,
+      "location": 2,
+      "content": "我们呃看到对应碳酸里面",
+      "music": 0.0
+    },
+    {
+      "from": 1004.78,
+      "to": 1007.319,
+      "sid": 423,
+      "location": 2,
+      "content": "其实有7万5的一个上涨空间",
+      "music": 0.0
+    },
+    {
+      "from": 1007.319,
+      "to": 1010.399,
+      "sid": 424,
+      "location": 2,
+      "content": "那么按照按照这个去去看的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1010.399,
+      "to": 1013.06,
+      "sid": 425,
+      "location": 2,
+      "content": "实际上就我们当时是按照呃",
+      "music": 0.0
+    },
+    {
+      "from": 1013.74,
+      "to": 1017.38,
+      "sid": 426,
+      "location": 2,
+      "content": "按照这个15万的均价去算算",
+      "music": 0.0
+    },
+    {
+      "from": 1017.38,
+      "to": 1021.18,
+      "sid": 427,
+      "location": 2,
+      "content": "也就意味着车车算到22万5的月均价",
+      "music": 0.0
+    },
+    {
+      "from": 1021.18,
+      "to": 1024.2,
+      "sid": 428,
+      "location": 2,
+      "content": "以上的会议讲到处理类一些需求",
+      "music": 0.0
+    },
+    {
+      "from": 1024.2,
+      "to": 1025.26,
+      "sid": 429,
+      "location": 2,
+      "content": "所以所以呢",
+      "music": 0.0
+    },
+    {
+      "from": 1025.26,
+      "to": 1028.6,
+      "sid": 430,
+      "location": 2,
+      "content": "这个是我们只是给到了一个上方的空间",
+      "music": 0.0
+    },
+    {
+      "from": 1028.6,
+      "to": 1030.4,
+      "sid": 431,
+      "location": 2,
+      "content": "所以在这里呢只只不过呢",
+      "music": 0.0
+    },
+    {
+      "from": 1030.4,
+      "to": 1033.98,
+      "sid": 432,
+      "location": 2,
+      "content": "呃就是在在现在这个价格情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1033.98,
+      "to": 1035.22,
+      "sid": 433,
+      "location": 2,
+      "content": "我们的底布经说完了",
+      "music": 0.0
+    },
+    {
+      "from": 1035.22,
+      "to": 1039.14,
+      "sid": 434,
+      "location": 2,
+      "content": "就其实我们呃预测的这个呃就阶段性底部",
+      "music": 0.0
+    },
+    {
+      "from": 1039.14,
+      "to": 1041.7,
+      "sid": 435,
+      "location": 2,
+      "content": "就是在大概在17万18万",
+      "music": 0.0
+    },
+    {
+      "from": 1041.7,
+      "to": 1044.32,
+      "sid": 436,
+      "location": 2,
+      "content": "我觉得这个位置基本上已经差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 1044.32,
+      "to": 1046.62,
+      "sid": 437,
+      "location": 2,
+      "content": "那往上走的话呢要影响到需求的话",
+      "music": 0.0
+    },
+    {
+      "from": 1046.62,
+      "to": 1048.06,
+      "sid": 438,
+      "location": 2,
+      "content": "是给在22万",
+      "music": 0.0
+    },
+    {
+      "from": 1048.06,
+      "to": 1050.66,
+      "sid": 439,
+      "location": 2,
+      "content": "那这个这个位置再去再去看",
+      "music": 0.0
+    },
+    {
+      "from": 1050.66,
+      "to": 1052.72,
+      "sid": 440,
+      "location": 2,
+      "content": "就是一些更具体的项目",
+      "music": 0.0
+    },
+    {
+      "from": 1052.72,
+      "to": 1056.38,
+      "sid": 441,
+      "location": 2,
+      "content": "那对于那就是在呃在这个期间的一个节奏呢",
+      "music": 0.0
+    },
+    {
+      "from": 1056.38,
+      "to": 1059.9,
+      "sid": 442,
+      "location": 2,
+      "content": "可能呃因为现在的现货库存还比较高",
+      "music": 0.0
+    },
+    {
+      "from": 1059.9,
+      "to": 1062.12,
+      "sid": 443,
+      "location": 2,
+      "content": "那么呢即使说5月去库",
+      "music": 0.0
+    },
+    {
+      "from": 1062.12,
+      "to": 1062.84,
+      "sid": 444,
+      "location": 2,
+      "content": "6月去库",
+      "music": 0.0
+    },
+    {
+      "from": 1062.84,
+      "to": 1064.79,
+      "sid": 445,
+      "location": 2,
+      "content": "7月小幅巨物的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1064.79,
+      "to": 1067.63,
+      "sid": 446,
+      "location": 2,
+      "content": "那整体的现货呢不会收的特别紧",
+      "music": 0.0
+    },
+    {
+      "from": 1067.63,
+      "to": 1069.55,
+      "sid": 447,
+      "location": 2,
+      "content": "所以会导致这个价格呢",
+      "music": 0.0
+    },
+    {
+      "from": 1069.55,
+      "to": 1074.03,
+      "sid": 448,
+      "location": 2,
+      "content": "呃可能会比呃之前预期的要走的慢一些",
+      "music": 0.0
+    },
+    {
+      "from": 1074.03,
+      "to": 1075.97,
+      "sid": 449,
+      "location": 2,
+      "content": "那要要要逐渐通过去",
+      "music": 0.0
+    },
+    {
+      "from": 1075.97,
+      "to": 1077.45,
+      "sid": 450,
+      "location": 2,
+      "content": "因为需求只要需求好",
+      "music": 0.0
+    },
+    {
+      "from": 1077.45,
+      "to": 1078.78,
+      "sid": 451,
+      "location": 2,
+      "content": "那他必然要去库",
+      "music": 0.0
+    },
+    {
+      "from": 1078.78,
+      "to": 1080.7,
+      "sid": 452,
+      "location": 2,
+      "content": "那必然曲库的前提下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1080.7,
+      "to": 1083.16,
+      "sid": 453,
+      "location": 2,
+      "content": "呃现货端总会慢慢收紧的",
+      "music": 0.0
+    },
+    {
+      "from": 1083.16,
+      "to": 1086.21,
+      "sid": 454,
+      "location": 2,
+      "content": "那当收紧的比较比较紧的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1086.21,
+      "to": 1087.19,
+      "sid": 455,
+      "location": 2,
+      "content": "那又是一轮",
+      "music": 0.0
+    },
+    {
+      "from": 1087.19,
+      "to": 1089.69,
+      "sid": 456,
+      "location": 2,
+      "content": "就是我觉得会比较这轮行情",
+      "music": 0.0
+    },
+    {
+      "from": 1089.69,
+      "to": 1091.13,
+      "sid": 457,
+      "location": 2,
+      "content": "会比这轮可能还要再大",
+      "music": 0.0
+    },
+    {
+      "from": 1091.13,
+      "to": 1093.25,
+      "sid": 458,
+      "location": 2,
+      "content": "那下一轮如果收的比较紧的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1093.25,
+      "to": 1094.87,
+      "sid": 459,
+      "location": 2,
+      "content": "这行情会比这一轮还要大",
+      "music": 0.0
+    },
+    {
+      "from": 1094.87,
+      "to": 1097.55,
+      "sid": 460,
+      "location": 2,
+      "content": "那这边呢其实给大家可以做一个比较",
+      "music": 0.0
+    },
+    {
+      "from": 1097.55,
+      "to": 1098.99,
+      "sid": 461,
+      "location": 2,
+      "content": "量化指标去跟踪",
+      "music": 0.0
+    },
+    {
+      "from": 1098.99,
+      "to": 1099.51,
+      "sid": 462,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 1099.51,
+      "to": 1102.39,
+      "sid": 463,
+      "location": 2,
+      "content": "现在大家其实看到就什么时候可以加仓买了的",
+      "music": 0.0
+    },
+    {
+      "from": 1102.39,
+      "to": 1105.28,
+      "sid": 464,
+      "location": 2,
+      "content": "就是我我们的一个呃呃呃",
+      "music": 0.0
+    },
+    {
+      "from": 1105.28,
+      "to": 1106.96,
+      "sid": 465,
+      "location": 2,
+      "content": "建议呢就是可以看仓单",
+      "music": 0.0
+    },
+    {
+      "from": 1106.96,
+      "to": 1108.1,
+      "sid": 466,
+      "location": 2,
+      "content": "那仓单的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1108.1,
+      "to": 1112.64,
+      "sid": 467,
+      "location": 2,
+      "content": "如果说仓单这个量的显得比较低的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1112.64,
+      "to": 1115.0,
+      "sid": 468,
+      "location": 2,
+      "content": "或者说方单开始蹲不动",
+      "music": 0.0
+    },
+    {
+      "from": 1115.0,
+      "to": 1117.0,
+      "sid": 469,
+      "location": 2,
+      "content": "甚至开始康南去换",
+      "music": 0.0
+    },
+    {
+      "from": 1117.0,
+      "to": 1118.64,
+      "sid": 470,
+      "location": 2,
+      "content": "就当这个是一些公开数据",
+      "music": 0.0
+    },
+    {
+      "from": 1118.64,
+      "to": 1119.6,
+      "sid": 471,
+      "location": 2,
+      "content": "大家都能看到",
+      "music": 0.0
+    },
+    {
+      "from": 1119.6,
+      "to": 1122.8,
+      "sid": 472,
+      "location": 2,
+      "content": "那那个时候呢就说明就现货端的",
+      "music": 0.0
+    },
+    {
+      "from": 1122.8,
+      "to": 1125.54,
+      "sid": 473,
+      "location": 2,
+      "content": "就是是额非超单的库存",
+      "music": 0.0
+    },
+    {
+      "from": 1125.54,
+      "to": 1129.46,
+      "sid": 474,
+      "location": 2,
+      "content": "已经呢就是呃已经还是停产了",
+      "music": 0.0
+    },
+    {
+      "from": 1129.46,
+      "to": 1130.9,
+      "sid": 475,
+      "location": 2,
+      "content": "大家还会去拿一些汤单",
+      "music": 0.0
+    },
+    {
+      "from": 1130.9,
+      "to": 1132.22,
+      "sid": 476,
+      "location": 2,
+      "content": "因为汤单的话",
+      "music": 0.0
+    },
+    {
+      "from": 1132.22,
+      "to": 1137.12,
+      "sid": 477,
+      "location": 2,
+      "content": "这些很多的货呢呃并不是呃下午直接能用",
+      "music": 0.0
+    },
+    {
+      "from": 1137.12,
+      "to": 1139.24,
+      "sid": 478,
+      "location": 2,
+      "content": "所以呢一般能去检康单呢",
+      "music": 0.0
+    },
+    {
+      "from": 1139.24,
+      "to": 1141.94,
+      "sid": 479,
+      "location": 2,
+      "content": "也就意味着实际上这个货呢已经开始收紧了",
+      "music": 0.0
+    },
+    {
+      "from": 1141.94,
+      "to": 1145.42,
+      "sid": 480,
+      "location": 2,
+      "content": "所以呢我觉得去观察这个指标呢会呃会比较好",
+      "music": 0.0
+    },
+    {
+      "from": 1145.42,
+      "to": 1149.8,
+      "sid": 481,
+      "location": 2,
+      "content": "让大家去量化的去看这个呃就是烟端的",
+      "music": 0.0
+    },
+    {
+      "from": 1149.8,
+      "to": 1153.72,
+      "sid": 482,
+      "location": 2,
+      "content": "就是呃井还是松的一个状对",
+      "music": 0.0
+    },
+    {
+      "from": 1153.72,
+      "to": 1157.12,
+      "sid": 483,
+      "location": 2,
+      "content": "所以这个是就是基本上的一个就是一个一个",
+      "music": 0.0
+    },
+    {
+      "from": 1157.12,
+      "to": 1158.08,
+      "sid": 484,
+      "location": 2,
+      "content": "一个一个趋势吧",
+      "music": 0.0
+    },
+    {
+      "from": 1158.08,
+      "to": 1161.76,
+      "sid": 485,
+      "location": 2,
+      "content": "然后就看后边就是大家大家如果有什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 1161.76,
+      "to": 1163.24,
+      "sid": 486,
+      "location": 2,
+      "content": "我可以再再再回复",
+      "music": 0.0
+    },
+    {
+      "from": 1163.24,
+      "to": 1165.33,
+      "sid": 487,
+      "location": 2,
+      "content": "大家可能会问到新大陆委啊",
+      "music": 0.0
+    },
+    {
+      "from": 1165.33,
+      "to": 1165.95,
+      "sid": 488,
+      "location": 2,
+      "content": "宁德啊",
+      "music": 0.0
+    },
+    {
+      "from": 1165.95,
+      "to": 1167.75,
+      "sid": 489,
+      "location": 2,
+      "content": "或者说一些其他的需求情况",
+      "music": 0.0
+    },
+    {
+      "from": 1167.75,
+      "to": 1168.47,
+      "sid": 490,
+      "location": 2,
+      "content": "包括偏导",
+      "music": 0.0
+    },
+    {
+      "from": 1168.47,
+      "to": 1169.55,
+      "sid": 491,
+      "location": 2,
+      "content": "那我到时候再展开",
+      "music": 0.0
+    },
+    {
+      "from": 1169.55,
+      "to": 1170.78,
+      "sid": 492,
+      "location": 2,
+      "content": "好好吧",
+      "music": 0.0
+    },
+    {
+      "from": 1170.78,
+      "to": 1174.7,
+      "sid": 493,
+      "location": 2,
+      "content": "我先讲到这里看各位朋友好的好的好的",
+      "music": 0.0
+    },
+    {
+      "from": 1174.7,
+      "to": 1176.86,
+      "sid": 494,
+      "location": 2,
+      "content": "谢谢专家的一个分享额",
+      "music": 0.0
+    },
+    {
+      "from": 1176.86,
+      "to": 1178.58,
+      "sid": 495,
+      "location": 2,
+      "content": "那我这边就先问一下",
+      "music": 0.0
+    },
+    {
+      "from": 1178.58,
+      "to": 1182.98,
+      "sid": 496,
+      "location": 2,
+      "content": "就是可能就是宁德这边的一个复产的一个进度",
+      "music": 0.0
+    },
+    {
+      "from": 1182.98,
+      "to": 1185.61,
+      "sid": 497,
+      "location": 2,
+      "content": "现在是卡在哪个流程",
+      "music": 0.0
+    },
+    {
+      "from": 1187.44,
+      "to": 1190.2,
+      "sid": 498,
+      "location": 2,
+      "content": "其实就是雨跟在推两个版本",
+      "music": 0.0
+    },
+    {
+      "from": 1190.2,
+      "to": 1192.13,
+      "sid": 499,
+      "location": 2,
+      "content": "那先先说新矿业法",
+      "music": 0.0
+    },
+    {
+      "from": 1192.13,
+      "to": 1194.57,
+      "sid": 500,
+      "location": 2,
+      "content": "新矿业法呢这个出来之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1194.57,
+      "to": 1198.59,
+      "sid": 501,
+      "location": 2,
+      "content": "其实呃有个有个规则是0.4%的品位",
+      "music": 0.0
+    },
+    {
+      "from": 1198.59,
+      "to": 1200.63,
+      "sid": 502,
+      "location": 2,
+      "content": "那0.4%这个品位呢",
+      "music": 0.0
+    },
+    {
+      "from": 1200.63,
+      "to": 1204.71,
+      "sid": 503,
+      "location": 2,
+      "content": "呃实际上呃点相关的框是达不到的额",
+      "music": 0.0
+    },
+    {
+      "from": 1204.71,
+      "to": 1208.53,
+      "sid": 504,
+      "location": 2,
+      "content": "那基本上额如果按照达不到的办法呢",
+      "music": 0.0
+    },
+    {
+      "from": 1208.53,
+      "to": 1212.27,
+      "sid": 505,
+      "location": 2,
+      "content": "其实实际上是要变成做半分矿的那半生号",
+      "music": 0.0
+    },
+    {
+      "from": 1212.27,
+      "to": 1215.71,
+      "sid": 506,
+      "location": 2,
+      "content": "去做一个就是锂矿的申呃",
+      "music": 0.0
+    },
+    {
+      "from": 1215.71,
+      "to": 1216.91,
+      "sid": 507,
+      "location": 2,
+      "content": "就是这个申请",
+      "music": 0.0
+    },
+    {
+      "from": 1216.91,
+      "to": 1219.3,
+      "sid": 508,
+      "location": 2,
+      "content": "但实际上呢他的一个采矿证呢",
+      "music": 0.0
+    },
+    {
+      "from": 1219.3,
+      "to": 1221.52,
+      "sid": 509,
+      "location": 2,
+      "content": "呃在去年的11月底吧",
+      "music": 0.0
+    },
+    {
+      "from": 1221.52,
+      "to": 1224.19,
+      "sid": 510,
+      "location": 2,
+      "content": "就是已经已经已经有了",
+      "music": 0.0
+    },
+    {
+      "from": 1224.19,
+      "to": 1226.95,
+      "sid": 511,
+      "location": 2,
+      "content": "所以这里边呢就会有一个不确定性啊",
+      "music": 0.0
+    },
+    {
+      "from": 1226.95,
+      "to": 1228.35,
+      "sid": 512,
+      "location": 2,
+      "content": "所以就是在推动过程呢",
+      "music": 0.0
+    },
+    {
+      "from": 1228.35,
+      "to": 1232.92,
+      "sid": 513,
+      "location": 2,
+      "content": "会会会变成这方案一和2L就大概这样的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1232.92,
+      "to": 1235.86,
+      "sid": 514,
+      "location": 2,
+      "content": "那在方案一呢就是呃没有0.4的要求",
+      "music": 0.0
+    },
+    {
+      "from": 1235.86,
+      "to": 1236.52,
+      "sid": 515,
+      "location": 2,
+      "content": "先不管",
+      "music": 0.0
+    },
+    {
+      "from": 1236.52,
+      "to": 1239.54,
+      "sid": 516,
+      "location": 2,
+      "content": "先按照正常的这个采矿论去推进环评",
+      "music": 0.0
+    },
+    {
+      "from": 1239.54,
+      "to": 1243.02,
+      "sid": 517,
+      "location": 2,
+      "content": "再去推进安全的这样的一个方式去去进行",
+      "music": 0.0
+    },
+    {
+      "from": 1243.02,
+      "to": 1246.58,
+      "sid": 518,
+      "location": 2,
+      "content": "那现在这个环评呢是一次环评已经呃呃出来了",
+      "music": 0.0
+    },
+    {
+      "from": 1246.58,
+      "to": 1247.86,
+      "sid": 519,
+      "location": 2,
+      "content": "就等着二次环评",
+      "music": 0.0
+    },
+    {
+      "from": 1247.86,
+      "to": 1248.62,
+      "sid": 520,
+      "location": 2,
+      "content": "二次环评",
+      "music": 0.0
+    },
+    {
+      "from": 1248.62,
+      "to": 1251.14,
+      "sid": 521,
+      "location": 2,
+      "content": "据我们现在了解的应该是水利这边的",
+      "music": 0.0
+    },
+    {
+      "from": 1251.14,
+      "to": 1253.52,
+      "sid": 522,
+      "location": 2,
+      "content": "应该已经是已经是搞定了",
+      "music": 0.0
+    },
+    {
+      "from": 1253.52,
+      "to": 1255.96,
+      "sid": 523,
+      "location": 2,
+      "content": "那就等着呢就是签字了",
+      "music": 0.0
+    },
+    {
+      "from": 1255.96,
+      "to": 1258.21,
+      "sid": 524,
+      "location": 2,
+      "content": "那具体的这个字会不会签",
+      "music": 0.0
+    },
+    {
+      "from": 1258.21,
+      "to": 1260.19,
+      "sid": 525,
+      "location": 2,
+      "content": "以及能不能全部搞定",
+      "music": 0.0
+    },
+    {
+      "from": 1260.19,
+      "to": 1261.23,
+      "sid": 526,
+      "location": 2,
+      "content": "这个呢就是待定",
+      "music": 0.0
+    },
+    {
+      "from": 1261.23,
+      "to": 1264.13,
+      "sid": 527,
+      "location": 2,
+      "content": "所以呢按照现在如果这个正常进度去推呢",
+      "music": 0.0
+    },
+    {
+      "from": 1264.13,
+      "to": 1266.48,
+      "sid": 528,
+      "location": 2,
+      "content": "当然我们也得到一些这个消息",
+      "music": 0.0
+    },
+    {
+      "from": 1266.48,
+      "to": 1270.36,
+      "sid": 529,
+      "location": 2,
+      "content": "但是这消息并不一定说百分之百能干承诺",
+      "music": 0.0
+    },
+    {
+      "from": 1270.36,
+      "to": 1273.31,
+      "sid": 530,
+      "location": 2,
+      "content": "这东西其实到最后全部落实之前的谁也不知道",
+      "music": 0.0
+    },
+    {
+      "from": 1273.31,
+      "to": 1277.09,
+      "sid": 531,
+      "location": 2,
+      "content": "然后呢呃是5月底到6月初",
+      "music": 0.0
+    },
+    {
+      "from": 1277.09,
+      "to": 1278.83,
+      "sid": 532,
+      "location": 2,
+      "content": "有可能只是这是",
+      "music": 0.0
+    },
+    {
+      "from": 1278.83,
+      "to": 1283.149,
+      "sid": 533,
+      "location": 2,
+      "content": "只是有可能有可能会呃出这个二次环评",
+      "music": 0.0
+    },
+    {
+      "from": 1283.149,
+      "to": 1287.179,
+      "sid": 534,
+      "location": 2,
+      "content": "那么呢也就意味着到6月底7月份左右",
+      "music": 0.0
+    },
+    {
+      "from": 1287.179,
+      "to": 1291.22,
+      "sid": 535,
+      "location": 2,
+      "content": "就是就最快最快就是6月份是能够复产",
+      "music": 0.0
+    },
+    {
+      "from": 1291.22,
+      "to": 1294.26,
+      "sid": 536,
+      "location": 2,
+      "content": "然后呢那个正常节奏呢应该是在6月底前后",
+      "music": 0.0
+    },
+    {
+      "from": 1294.26,
+      "to": 1297.34,
+      "sid": 537,
+      "location": 2,
+      "content": "那那是检察官呢就是复产",
+      "music": 0.0
+    },
+    {
+      "from": 1297.34,
+      "to": 1302.77,
+      "sid": 538,
+      "location": 2,
+      "content": "那这个呢只是说呃里边在在在推进的一个计划",
+      "music": 0.0
+    },
+    {
+      "from": 1302.77,
+      "to": 1304.05,
+      "sid": 539,
+      "location": 2,
+      "content": "那是是这样子",
+      "music": 0.0
+    },
+    {
+      "from": 1304.05,
+      "to": 1305.45,
+      "sid": 540,
+      "location": 2,
+      "content": "那具体能不能落地",
+      "music": 0.0
+    },
+    {
+      "from": 1305.45,
+      "to": 1306.53,
+      "sid": 541,
+      "location": 2,
+      "content": "这个东西不好",
+      "music": 0.0
+    },
+    {
+      "from": 1306.53,
+      "to": 1308.32,
+      "sid": 542,
+      "location": 2,
+      "content": "就是不是很好评判",
+      "music": 0.0
+    },
+    {
+      "from": 1308.32,
+      "to": 1310.48,
+      "sid": 543,
+      "location": 2,
+      "content": "然后呢在在这条路之下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1310.48,
+      "to": 1313.86,
+      "sid": 544,
+      "location": 2,
+      "content": "还有一条路就是就是这个时间表就更长了",
+      "music": 0.0
+    },
+    {
+      "from": 1313.86,
+      "to": 1317.36,
+      "sid": 545,
+      "location": 2,
+      "content": "这些呢就是指的是开翻开采利用方案",
+      "music": 0.0
+    },
+    {
+      "from": 1317.36,
+      "to": 1319.04,
+      "sid": 546,
+      "location": 2,
+      "content": "可能需要重新做",
+      "music": 0.0
+    },
+    {
+      "from": 1319.04,
+      "to": 1320.88,
+      "sid": 547,
+      "location": 2,
+      "content": "因为现在做的开采利用方案呢",
+      "music": 0.0
+    },
+    {
+      "from": 1320.88,
+      "to": 1324.209,
+      "sid": 548,
+      "location": 2,
+      "content": "是以以炮为主炮组",
+      "music": 0.0
+    },
+    {
+      "from": 1324.209,
+      "to": 1325.049,
+      "sid": 549,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1325.049,
+      "to": 1327.109,
+      "sid": 550,
+      "location": 2,
+      "content": "呃其实还会涉及到",
+      "music": 0.0
+    },
+    {
+      "from": 1327.109,
+      "to": 1329.309,
+      "sid": 551,
+      "location": 2,
+      "content": "是有可能开发利用方案要重新做",
+      "music": 0.0
+    },
+    {
+      "from": 1329.309,
+      "to": 1332.83,
+      "sid": 552,
+      "location": 2,
+      "content": "因为按照0.4的标准就要变成锂矿",
+      "music": 0.0
+    },
+    {
+      "from": 1332.83,
+      "to": 1334.71,
+      "sid": 553,
+      "location": 2,
+      "content": "是发生矿再去生产呃",
+      "music": 0.0
+    },
+    {
+      "from": 1334.71,
+      "to": 1335.81,
+      "sid": 554,
+      "location": 2,
+      "content": "再去再去申请",
+      "music": 0.0
+    },
+    {
+      "from": 1335.81,
+      "to": 1337.27,
+      "sid": 555,
+      "location": 2,
+      "content": "但因为之前申请方案了",
+      "music": 0.0
+    },
+    {
+      "from": 1337.27,
+      "to": 1339.07,
+      "sid": 556,
+      "location": 2,
+      "content": "所以就得可能会被覆盖掉",
+      "music": 0.0
+    },
+    {
+      "from": 1339.07,
+      "to": 1340.08,
+      "sid": 557,
+      "location": 2,
+      "content": "需要重新做",
+      "music": 0.0
+    },
+    {
+      "from": 1340.08,
+      "to": 1342.12,
+      "sid": 558,
+      "location": 2,
+      "content": "那如果说一如果走不下来的话",
+      "music": 0.0
+    },
+    {
+      "from": 1342.12,
+      "to": 1343.92,
+      "sid": 559,
+      "location": 2,
+      "content": "可能需要走号号的话",
+      "music": 0.0
+    },
+    {
+      "from": 1343.92,
+      "to": 1345.14,
+      "sid": 560,
+      "location": 2,
+      "content": "就要等政府通知",
+      "music": 0.0
+    },
+    {
+      "from": 1345.14,
+      "to": 1348.139,
+      "sid": 561,
+      "location": 2,
+      "content": "你需要按照办公号的方式去去走",
+      "music": 0.0
+    },
+    {
+      "from": 1348.139,
+      "to": 1350.419,
+      "sid": 562,
+      "location": 2,
+      "content": "那澳澳去走的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1350.419,
+      "to": 1352.219,
+      "sid": 563,
+      "location": 2,
+      "content": "这个时间表就比较漫长了",
+      "music": 0.0
+    },
+    {
+      "from": 1352.219,
+      "to": 1354.38,
+      "sid": 564,
+      "location": 2,
+      "content": "因为开发利用方案重新做",
+      "music": 0.0
+    },
+    {
+      "from": 1354.38,
+      "to": 1357.12,
+      "sid": 565,
+      "location": 2,
+      "content": "然后呃这里这里面包括书狠啊",
+      "music": 0.0
+    },
+    {
+      "from": 1357.12,
+      "to": 1358.94,
+      "sid": 566,
+      "location": 2,
+      "content": "这些方案全部都在一块了",
+      "music": 0.0
+    },
+    {
+      "from": 1358.94,
+      "to": 1364.09,
+      "sid": 567,
+      "location": 2,
+      "content": "那还要包括一些这个呃后续的一些这个环评啊",
+      "music": 0.0
+    },
+    {
+      "from": 1364.09,
+      "to": 1364.65,
+      "sid": 568,
+      "location": 2,
+      "content": "安需啊",
+      "music": 0.0
+    },
+    {
+      "from": 1364.65,
+      "to": 1367.74,
+      "sid": 569,
+      "location": 2,
+      "content": "这些东西都是呃又又是配套的",
+      "music": 0.0
+    },
+    {
+      "from": 1367.74,
+      "to": 1371.2,
+      "sid": 570,
+      "location": 2,
+      "content": "所以所以这个呢会时间表会更加长一点",
+      "music": 0.0
+    },
+    {
+      "from": 1371.2,
+      "to": 1373.2,
+      "sid": 571,
+      "location": 2,
+      "content": "所以目前呢来看呃",
+      "music": 0.0
+    },
+    {
+      "from": 1373.2,
+      "to": 1376.87,
+      "sid": 572,
+      "location": 2,
+      "content": "这两个方案在最终全部确定之前",
+      "music": 0.0
+    },
+    {
+      "from": 1376.87,
+      "to": 1380.09,
+      "sid": 573,
+      "location": 2,
+      "content": "有一方万一能最终落地之前",
+      "music": 0.0
+    },
+    {
+      "from": 1380.09,
+      "to": 1381.47,
+      "sid": 574,
+      "location": 2,
+      "content": "也不敢保证",
+      "music": 0.0
+    },
+    {
+      "from": 1381.47,
+      "to": 1384.82,
+      "sid": 575,
+      "location": 2,
+      "content": "一定是能能能在6月份开始船",
+      "music": 0.0
+    },
+    {
+      "from": 1384.82,
+      "to": 1387.4,
+      "sid": 576,
+      "location": 2,
+      "content": "只是说现在哎有这样的预期",
+      "music": 0.0
+    },
+    {
+      "from": 1387.4,
+      "to": 1390.58,
+      "sid": 577,
+      "location": 2,
+      "content": "在按照这个时间段在推进一些事情",
+      "music": 0.0
+    },
+    {
+      "from": 1390.58,
+      "to": 1391.64,
+      "sid": 578,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 1393.48,
+      "to": 1395.28,
+      "sid": 579,
+      "location": 2,
+      "content": "嗯好的明白",
+      "music": 0.0
+    },
+    {
+      "from": 1395.28,
+      "to": 1400.449,
+      "sid": 580,
+      "location": 2,
+      "content": "就是可能最早就可能6月初出二次环评是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1400.449,
+      "to": 1403.049,
+      "sid": 581,
+      "location": 2,
+      "content": "但是后面虽然二次环节",
+      "music": 0.0
+    },
+    {
+      "from": 1403.049,
+      "to": 1406.309,
+      "sid": 582,
+      "location": 2,
+      "content": "应该是还有有十个工作日的一个公示期",
+      "music": 0.0
+    },
+    {
+      "from": 1406.309,
+      "to": 1408.93,
+      "sid": 583,
+      "location": 2,
+      "content": "然后后面还有三次环节",
+      "music": 0.0
+    },
+    {
+      "from": 1408.93,
+      "to": 1412.49,
+      "sid": 584,
+      "location": 2,
+      "content": "然后安全生产许可证的一个申请",
+      "music": 0.0
+    },
+    {
+      "from": 1412.49,
+      "to": 1414.09,
+      "sid": 585,
+      "location": 2,
+      "content": "连这些流程加起来",
+      "music": 0.0
+    },
+    {
+      "from": 1414.09,
+      "to": 1416.69,
+      "sid": 586,
+      "location": 2,
+      "content": "是不是可能是我感觉是不是",
+      "music": 0.0
+    },
+    {
+      "from": 1416.69,
+      "to": 1420.24,
+      "sid": 587,
+      "location": 2,
+      "content": "大概三季度可能也没办法走完这个流程呀",
+      "music": 0.0
+    },
+    {
+      "from": 1421.6,
+      "to": 1425.36,
+      "sid": 588,
+      "location": 2,
+      "content": "呃按按照我们现在通通道的情况看呢",
+      "music": 0.0
+    },
+    {
+      "from": 1425.36,
+      "to": 1427.54,
+      "sid": 589,
+      "location": 2,
+      "content": "就是只要按二次还没出来",
+      "music": 0.0
+    },
+    {
+      "from": 1427.54,
+      "to": 1432.04,
+      "sid": 590,
+      "location": 2,
+      "content": "那那基本上呢就是呃加上一个月只有十十天",
+      "music": 0.0
+    },
+    {
+      "from": 1432.04,
+      "to": 1433.46,
+      "sid": 591,
+      "location": 2,
+      "content": "加15天的批复期",
+      "music": 0.0
+    },
+    {
+      "from": 1433.46,
+      "to": 1437.88,
+      "sid": 592,
+      "location": 2,
+      "content": "但实际上只是批复的时间是可以双方协调的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1437.88,
+      "to": 1441.12,
+      "sid": 593,
+      "location": 2,
+      "content": "那只要公司机制是就是这个时间一过",
+      "music": 0.0
+    },
+    {
+      "from": 1441.12,
+      "to": 1442.28,
+      "sid": 594,
+      "location": 2,
+      "content": "那包括安全啊",
+      "music": 0.0
+    },
+    {
+      "from": 1442.28,
+      "to": 1444.06,
+      "sid": 595,
+      "location": 2,
+      "content": "这些流程会比较快一点",
+      "music": 0.0
+    },
+    {
+      "from": 1444.06,
+      "to": 1447.5,
+      "sid": 596,
+      "location": 2,
+      "content": "所以就是呃如果说月底出奥斯卡评",
+      "music": 0.0
+    },
+    {
+      "from": 1447.5,
+      "to": 1449.28,
+      "sid": 597,
+      "location": 2,
+      "content": "那是有可能在6月底",
+      "music": 0.0
+    },
+    {
+      "from": 1449.28,
+      "to": 1451.0,
+      "sid": 598,
+      "location": 2,
+      "content": "就是5月底出奥斯卡评",
+      "music": 0.0
+    },
+    {
+      "from": 1451.0,
+      "to": 1455.41,
+      "sid": 599,
+      "location": 2,
+      "content": "那是有有可能在6月底能开的出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1455.41,
+      "to": 1457.25,
+      "sid": 600,
+      "location": 2,
+      "content": "这这是我专门打手啊",
+      "music": 0.0
+    },
+    {
+      "from": 1457.25,
+      "to": 1459.22,
+      "sid": 601,
+      "location": 2,
+      "content": "对额",
+      "music": 0.0
+    },
+    {
+      "from": 1459.22,
+      "to": 1461.62,
+      "sid": 602,
+      "location": 2,
+      "content": "那江西其他娱乐府矿的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1461.62,
+      "to": 1465.36,
+      "sid": 603,
+      "location": 2,
+      "content": "那个换电资产的一个进度是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 1468.1,
+      "to": 1471.54,
+      "sid": 604,
+      "location": 2,
+      "content": "然后呃九领的话",
+      "music": 0.0
+    },
+    {
+      "from": 1471.54,
+      "to": 1474.04,
+      "sid": 605,
+      "location": 2,
+      "content": "因为主要就是涉及到两个大的矿",
+      "music": 0.0
+    },
+    {
+      "from": 1474.04,
+      "to": 1475.14,
+      "sid": 606,
+      "location": 2,
+      "content": "永生已经停了",
+      "music": 0.0
+    },
+    {
+      "from": 1475.14,
+      "to": 1479.36,
+      "sid": 607,
+      "location": 2,
+      "content": "然后九领的话额预计是在7月份",
+      "music": 0.0
+    },
+    {
+      "from": 1479.36,
+      "to": 1482.1,
+      "sid": 608,
+      "location": 2,
+      "content": "应该最晚最晚到7月份",
+      "music": 0.0
+    },
+    {
+      "from": 1484.4,
+      "to": 1488.43,
+      "sid": 609,
+      "location": 2,
+      "content": "就后面主要就是大额",
+      "music": 0.0
+    },
+    {
+      "from": 1488.63,
+      "to": 1490.69,
+      "sid": 610,
+      "location": 2,
+      "content": "后面还会有一个矿开出来",
+      "music": 0.0
+    },
+    {
+      "from": 1490.69,
+      "to": 1491.47,
+      "sid": 611,
+      "location": 2,
+      "content": "新坑的话",
+      "music": 0.0
+    },
+    {
+      "from": 1491.47,
+      "to": 1492.51,
+      "sid": 612,
+      "location": 2,
+      "content": "现在给的预期",
+      "music": 0.0
+    },
+    {
+      "from": 1492.51,
+      "to": 1497.365,
+      "sid": 613,
+      "location": 2,
+      "content": "江科的新坑给的预期是9月份能开出来",
+      "music": 0.0
+    },
+    {
+      "from": 1499.74,
+      "to": 1502.42,
+      "sid": 614,
+      "location": 2,
+      "content": "然后还有个炮啊",
+      "music": 0.0
+    },
+    {
+      "from": 1502.42,
+      "to": 1502.98,
+      "sid": 615,
+      "location": 2,
+      "content": "还有个炮",
+      "music": 0.0
+    },
+    {
+      "from": 1502.98,
+      "to": 1506.46,
+      "sid": 616,
+      "location": 2,
+      "content": "就是那个因为其实在在医生那几个矿嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1506.46,
+      "to": 1508.0,
+      "sid": 617,
+      "location": 2,
+      "content": "对一个是呃",
+      "music": 0.0
+    },
+    {
+      "from": 1508.0,
+      "to": 1510.22,
+      "sid": 618,
+      "location": 2,
+      "content": "我要一个一个能稍微展开一点说吧",
+      "music": 0.0
+    },
+    {
+      "from": 1510.22,
+      "to": 1512.46,
+      "sid": 619,
+      "location": 2,
+      "content": "这个就是先总的说这几个框",
+      "music": 0.0
+    },
+    {
+      "from": 1512.46,
+      "to": 1513.52,
+      "sid": 620,
+      "location": 2,
+      "content": "可能大家会比较关注",
+      "music": 0.0
+    },
+    {
+      "from": 1513.52,
+      "to": 1514.659,
+      "sid": 621,
+      "location": 2,
+      "content": "一个是浅下窝",
+      "music": 0.0
+    },
+    {
+      "from": 1514.659,
+      "to": 1517.699,
+      "sid": 622,
+      "location": 2,
+      "content": "一个是跟检查卫一块停的那个螺旋",
+      "music": 0.0
+    },
+    {
+      "from": 1517.699,
+      "to": 1522.33,
+      "sid": 623,
+      "location": 2,
+      "content": "然后呢再是呃要已经停的永兴",
+      "music": 0.0
+    },
+    {
+      "from": 1522.33,
+      "to": 1523.389,
+      "sid": 624,
+      "location": 2,
+      "content": "然后九岭",
+      "music": 0.0
+    },
+    {
+      "from": 1523.389,
+      "to": 1526.389,
+      "sid": 625,
+      "location": 2,
+      "content": "但是可能呃要开着这个新坑",
+      "music": 0.0
+    },
+    {
+      "from": 1526.389,
+      "to": 1528.369,
+      "sid": 626,
+      "location": 2,
+      "content": "一个个说就简单问题说了",
+      "music": 0.0
+    },
+    {
+      "from": 1528.369,
+      "to": 1531.89,
+      "sid": 627,
+      "location": 2,
+      "content": "然后然后国村这边呢是预计是",
+      "music": 0.0
+    },
+    {
+      "from": 1531.89,
+      "to": 1534.05,
+      "sid": 628,
+      "location": 2,
+      "content": "这个月底能开国轩",
+      "music": 0.0
+    },
+    {
+      "from": 1534.05,
+      "to": 1535.21,
+      "sid": 629,
+      "location": 2,
+      "content": "但是它的量很少",
+      "music": 0.0
+    },
+    {
+      "from": 1535.21,
+      "to": 1537.31,
+      "sid": 630,
+      "location": 2,
+      "content": "它的量的话就1万吨左右",
+      "music": 0.0
+    },
+    {
+      "from": 1537.31,
+      "to": 1538.82,
+      "sid": 631,
+      "location": 2,
+      "content": "它的量很少国轩",
+      "music": 0.0
+    },
+    {
+      "from": 1538.82,
+      "to": 1543.1,
+      "sid": 632,
+      "location": 2,
+      "content": "然后这个这个呢是呃呃就是它排水洞加水水",
+      "music": 0.0
+    },
+    {
+      "from": 1543.1,
+      "to": 1545.92,
+      "sid": 633,
+      "location": 2,
+      "content": "南段就在5号反加到一块1.4万吨",
+      "music": 0.0
+    },
+    {
+      "from": 1545.92,
+      "to": 1547.47,
+      "sid": 634,
+      "location": 2,
+      "content": "那这个月能能开",
+      "music": 0.0
+    },
+    {
+      "from": 1547.47,
+      "to": 1550.15,
+      "sid": 635,
+      "location": 2,
+      "content": "那那那那那这个是泊车的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1550.15,
+      "to": 1552.05,
+      "sid": 636,
+      "location": 2,
+      "content": "然后永兴呢是已经停了",
+      "music": 0.0
+    },
+    {
+      "from": 1552.05,
+      "to": 1552.95,
+      "sid": 637,
+      "location": 2,
+      "content": "停了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1552.95,
+      "to": 1554.51,
+      "sid": 638,
+      "location": 2,
+      "content": "后面要开出来的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1554.51,
+      "to": 1556.31,
+      "sid": 639,
+      "location": 2,
+      "content": "时间就会比较久了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1556.31,
+      "to": 1560.41,
+      "sid": 640,
+      "location": 2,
+      "content": "原因就是因为之前天华呃拍了个精子分在边上",
+      "music": 0.0
+    },
+    {
+      "from": 1560.41,
+      "to": 1562.6,
+      "sid": 641,
+      "location": 2,
+      "content": "然后这两个矿的安全距离比较近",
+      "music": 0.0
+    },
+    {
+      "from": 1562.6,
+      "to": 1564.14,
+      "sid": 642,
+      "location": 2,
+      "content": "那比较近了之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1564.14,
+      "to": 1566.08,
+      "sid": 643,
+      "location": 2,
+      "content": "呃就就产生一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1566.08,
+      "to": 1569.48,
+      "sid": 644,
+      "location": 2,
+      "content": "就是他得先把这个呃现在的这个矿证",
+      "music": 0.0
+    },
+    {
+      "from": 1569.48,
+      "to": 1571.81,
+      "sid": 645,
+      "location": 2,
+      "content": "先就是取消掉",
+      "music": 0.0
+    },
+    {
+      "from": 1571.81,
+      "to": 1575.11,
+      "sid": 646,
+      "location": 2,
+      "content": "然后呢再呃再一个个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1575.11,
+      "to": 1578.38,
+      "sid": 647,
+      "location": 2,
+      "content": "把整体的这个要做个股权合并",
+      "music": 0.0
+    },
+    {
+      "from": 1578.38,
+      "to": 1580.34,
+      "sid": 648,
+      "location": 2,
+      "content": "然后呢再统一的再去申请",
+      "music": 0.0
+    },
+    {
+      "from": 1580.34,
+      "to": 1584.709,
+      "sid": 649,
+      "location": 2,
+      "content": "所以呃预期呢这个停了之后再付出来的",
+      "music": 0.0
+    },
+    {
+      "from": 1584.709,
+      "to": 1589.59,
+      "sid": 650,
+      "location": 2,
+      "content": "预期是在明年的明年的7月份",
+      "music": 0.0
+    },
+    {
+      "from": 1589.59,
+      "to": 1593.19,
+      "sid": 651,
+      "location": 2,
+      "content": "就大概是这样的一个一个一个一个一个额",
+      "music": 0.0
+    },
+    {
+      "from": 1593.19,
+      "to": 1594.11,
+      "sid": 652,
+      "location": 2,
+      "content": "一个预期",
+      "music": 0.0
+    },
+    {
+      "from": 1594.11,
+      "to": 1599.22,
+      "sid": 653,
+      "location": 2,
+      "content": "然后九领的话是呃7月份要要停",
+      "music": 0.0
+    },
+    {
+      "from": 1599.22,
+      "to": 1601.16,
+      "sid": 654,
+      "location": 2,
+      "content": "但是最晚7月份额",
+      "music": 0.0
+    },
+    {
+      "from": 1601.16,
+      "to": 1602.9,
+      "sid": 655,
+      "location": 2,
+      "content": "但是他们应该进度会快一点",
+      "music": 0.0
+    },
+    {
+      "from": 1602.9,
+      "to": 1606.39,
+      "sid": 656,
+      "location": 2,
+      "content": "他们预期是半年应该是能搞定",
+      "music": 0.0
+    },
+    {
+      "from": 1606.39,
+      "to": 1611.49,
+      "sid": 657,
+      "location": 2,
+      "content": "那就意味着呃实际上也就是到明年2月份左右",
+      "music": 0.0
+    },
+    {
+      "from": 1611.49,
+      "to": 1613.06,
+      "sid": 658,
+      "location": 2,
+      "content": "那整个会复出来",
+      "music": 0.0
+    },
+    {
+      "from": 1613.06,
+      "to": 1617.87,
+      "sid": 659,
+      "location": 2,
+      "content": "然后西村这边呢是在呃9月份",
+      "music": 0.0
+    },
+    {
+      "from": 1617.87,
+      "to": 1619.59,
+      "sid": 660,
+      "location": 2,
+      "content": "就是今年的9月份",
+      "music": 0.0
+    },
+    {
+      "from": 1619.59,
+      "to": 1622.51,
+      "sid": 661,
+      "location": 2,
+      "content": "预期呢是呃能能看出来",
+      "music": 0.0
+    },
+    {
+      "from": 1622.51,
+      "to": 1626.57,
+      "sid": 662,
+      "location": 2,
+      "content": "所以这个是江西这几个号的一些具体情况吧",
+      "music": 0.0
+    },
+    {
+      "from": 1627.81,
+      "to": 1629.49,
+      "sid": 663,
+      "location": 2,
+      "content": "嗯好的好的明白",
+      "music": 0.0
+    },
+    {
+      "from": 1629.49,
+      "to": 1630.77,
+      "sid": 664,
+      "location": 2,
+      "content": "然后再请大家",
+      "music": 0.0
+    },
+    {
+      "from": 1630.77,
+      "to": 1634.8,
+      "sid": 665,
+      "location": 2,
+      "content": "就是津巴布韦那边那边目前出口的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 1634.8,
+      "to": 1635.58,
+      "sid": 666,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 1635.58,
+      "to": 1638.48,
+      "sid": 667,
+      "location": 2,
+      "content": "大概什么时候能够到港",
+      "music": 0.0
+    },
+    {
+      "from": 1639.9,
+      "to": 1642.78,
+      "sid": 668,
+      "location": 2,
+      "content": "啊那个这个呢基本上已经",
+      "music": 0.0
+    },
+    {
+      "from": 1642.78,
+      "to": 1645.36,
+      "sid": 669,
+      "location": 2,
+      "content": "他们已经在在在发育的路上了",
+      "music": 0.0
+    },
+    {
+      "from": 1645.36,
+      "to": 1650.23,
+      "sid": 670,
+      "location": 2,
+      "content": "然后呃正好正好这个这两天跟他们交流",
+      "music": 0.0
+    },
+    {
+      "from": 1650.23,
+      "to": 1655.8,
+      "sid": 671,
+      "location": 2,
+      "content": "然后呃呃好友是7月初到青州岛",
+      "music": 0.0
+    },
+    {
+      "from": 1655.8,
+      "to": 1659.08,
+      "sid": 672,
+      "location": 2,
+      "content": "然中号的话是呃6月底",
+      "music": 0.0
+    },
+    {
+      "from": 1659.08,
+      "to": 1662.4,
+      "sid": 673,
+      "location": 2,
+      "content": "大概我估值也应该是在7月初左右",
+      "music": 0.0
+    },
+    {
+      "from": 1662.4,
+      "to": 1667.12,
+      "sid": 674,
+      "location": 2,
+      "content": "然后呃那个氧化和那个射性基本都差不多",
+      "music": 0.0
+    },
+    {
+      "from": 1667.12,
+      "to": 1667.96,
+      "sid": 675,
+      "location": 2,
+      "content": "差不多的时间",
+      "music": 0.0
+    },
+    {
+      "from": 1667.96,
+      "to": 1670.32,
+      "sid": 676,
+      "location": 2,
+      "content": "所以也就意味着基本在7月初",
+      "music": 0.0
+    },
+    {
+      "from": 1670.32,
+      "to": 1673.52,
+      "sid": 677,
+      "location": 2,
+      "content": "基本上这些矿的都陆续回到中国",
+      "music": 0.0
+    },
+    {
+      "from": 1674.78,
+      "to": 1678.42,
+      "sid": 678,
+      "location": 2,
+      "content": "嗯这真正能产出二三路来",
+      "music": 0.0
+    },
+    {
+      "from": 1678.42,
+      "to": 1681.62,
+      "sid": 679,
+      "location": 2,
+      "content": "估计得在1月中旬这样",
+      "music": 0.0
+    },
+    {
+      "from": 1682.92,
+      "to": 1686.66,
+      "sid": 680,
+      "location": 2,
+      "content": "被额为7月份的一个A区的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1686.66,
+      "to": 1689.64,
+      "sid": 681,
+      "location": 2,
+      "content": "所以A区的一个压力会有所缓解是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1689.64,
+      "to": 1694.8,
+      "sid": 682,
+      "location": 2,
+      "content": "大概额对额可能从矿单来看",
+      "music": 0.0
+    },
+    {
+      "from": 1694.8,
+      "to": 1698.07,
+      "sid": 683,
+      "location": 2,
+      "content": "最紧的时候应该是6月份是最紧的",
+      "music": 0.0
+    },
+    {
+      "from": 1698.07,
+      "to": 1701.659,
+      "sid": 684,
+      "location": 2,
+      "content": "然后7月份开始呢会陆续缓解",
+      "music": 0.0
+    },
+    {
+      "from": 1701.659,
+      "to": 1703.799,
+      "sid": 685,
+      "location": 2,
+      "content": "因为矿会陆续到岗",
+      "music": 0.0
+    },
+    {
+      "from": 1703.799,
+      "to": 1708.019,
+      "sid": 686,
+      "location": 2,
+      "content": "然后所以呢就是呃从供给释放的情况看",
+      "music": 0.0
+    },
+    {
+      "from": 1708.019,
+      "to": 1711.139,
+      "sid": 687,
+      "location": 2,
+      "content": "应该是7月中下旬到8月份",
+      "music": 0.0
+    },
+    {
+      "from": 1711.85,
+      "to": 1714.87,
+      "sid": 688,
+      "location": 2,
+      "content": "就是就是矿的一个释放会比较多",
+      "music": 0.0
+    },
+    {
+      "from": 1714.87,
+      "to": 1718.21,
+      "sid": 689,
+      "location": 2,
+      "content": "那这里边呃从从这些物里去看的",
+      "music": 0.0
+    },
+    {
+      "from": 1718.21,
+      "to": 1721.81,
+      "sid": 690,
+      "location": 2,
+      "content": "也就意味着其实只是二季度的供给是受制于矿",
+      "music": 0.0
+    },
+    {
+      "from": 1721.81,
+      "to": 1722.79,
+      "sid": 691,
+      "location": 2,
+      "content": "三季度的",
+      "music": 0.0
+    },
+    {
+      "from": 1722.79,
+      "to": 1726.97,
+      "sid": 692,
+      "location": 2,
+      "content": "会把二季度缺的矿呢呃他会变成更多的代工",
+      "music": 0.0
+    },
+    {
+      "from": 1726.97,
+      "to": 1729.31,
+      "sid": 693,
+      "location": 2,
+      "content": "那可以就是矿道就让别人去代工",
+      "music": 0.0
+    },
+    {
+      "from": 1729.31,
+      "to": 1730.49,
+      "sid": 694,
+      "location": 2,
+      "content": "那把这些矿呢",
+      "music": 0.0
+    },
+    {
+      "from": 1730.49,
+      "to": 1733.11,
+      "sid": 695,
+      "location": 2,
+      "content": "就这就所以这三度度",
+      "music": 0.0
+    },
+    {
+      "from": 1733.11,
+      "to": 1736.49,
+      "sid": 696,
+      "location": 2,
+      "content": "我们判断额整体的一个物质量会比较多",
+      "music": 0.0
+    },
+    {
+      "from": 1736.49,
+      "to": 1739.03,
+      "sid": 697,
+      "location": 2,
+      "content": "那包括有些新的产能在爬产",
+      "music": 0.0
+    },
+    {
+      "from": 1739.03,
+      "to": 1741.01,
+      "sid": 698,
+      "location": 2,
+      "content": "那比如说像国城矿业",
+      "music": 0.0
+    },
+    {
+      "from": 1741.01,
+      "to": 1743.13,
+      "sid": 699,
+      "location": 2,
+      "content": "国城矿业的话呃",
+      "music": 0.0
+    },
+    {
+      "from": 1743.13,
+      "to": 1745.27,
+      "sid": 700,
+      "location": 2,
+      "content": "呃这这个月已经投了",
+      "music": 0.0
+    },
+    {
+      "from": 1745.27,
+      "to": 1746.81,
+      "sid": 701,
+      "location": 2,
+      "content": "那这个月是几百吨",
+      "music": 0.0
+    },
+    {
+      "from": 1746.81,
+      "to": 1749.48,
+      "sid": 702,
+      "location": 2,
+      "content": "那么到到9月份呢",
+      "music": 0.0
+    },
+    {
+      "from": 1749.48,
+      "to": 1752.18,
+      "sid": 703,
+      "location": 2,
+      "content": "就会爬到一个月要做到5000吨",
+      "music": 0.0
+    },
+    {
+      "from": 1752.18,
+      "to": 1754.74,
+      "sid": 704,
+      "location": 2,
+      "content": "然后呢还包括海外的一些盐湖",
+      "music": 0.0
+    },
+    {
+      "from": 1754.74,
+      "to": 1757.68,
+      "sid": 705,
+      "location": 2,
+      "content": "那比如说像POS口阿根廷盐湖",
+      "music": 0.0
+    },
+    {
+      "from": 1757.68,
+      "to": 1761.12,
+      "sid": 706,
+      "location": 2,
+      "content": "那他在呃9月份呢也会投个",
+      "music": 0.0
+    },
+    {
+      "from": 1761.12,
+      "to": 1763.57,
+      "sid": 707,
+      "location": 2,
+      "content": "投个2.5万吨的量出来",
+      "music": 0.0
+    },
+    {
+      "from": 1763.57,
+      "to": 1765.97,
+      "sid": 708,
+      "location": 2,
+      "content": "那以及包括国内的盐湖的爬产",
+      "music": 0.0
+    },
+    {
+      "from": 1765.97,
+      "to": 1767.99,
+      "sid": 709,
+      "location": 2,
+      "content": "所以等等的就是这些因素呢",
+      "music": 0.0
+    },
+    {
+      "from": 1767.99,
+      "to": 1769.93,
+      "sid": 710,
+      "location": 2,
+      "content": "还包括大众创业的除外",
+      "music": 0.0
+    },
+    {
+      "from": 1769.93,
+      "to": 1770.59,
+      "sid": 711,
+      "location": 2,
+      "content": "开价很少",
+      "music": 0.0
+    },
+    {
+      "from": 1770.59,
+      "to": 1774.05,
+      "sid": 712,
+      "location": 2,
+      "content": "那基本上也陆续会投在今年的三季度",
+      "music": 0.0
+    },
+    {
+      "from": 1774.05,
+      "to": 1776.45,
+      "sid": 713,
+      "location": 2,
+      "content": "那就是我们看到三季度的供给呢",
+      "music": 0.0
+    },
+    {
+      "from": 1776.45,
+      "to": 1779.37,
+      "sid": 714,
+      "location": 2,
+      "content": "其实应该是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 1779.37,
+      "to": 1782.9,
+      "sid": 715,
+      "location": 2,
+      "content": "对好的好的明白",
+      "music": 0.0
+    },
+    {
+      "from": 1782.9,
+      "to": 1785.1,
+      "sid": 716,
+      "location": 2,
+      "content": "拿个会议助理呃",
+      "music": 0.0
+    },
+    {
+      "from": 1785.1,
+      "to": 1787.86,
+      "sid": 717,
+      "location": 2,
+      "content": "呃看下有没有投资者提问",
+      "music": 0.0
+    },
+    {
+      "from": 1788.31,
+      "to": 1789.29,
+      "sid": 718,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1789.29,
+      "to": 1791.97,
+      "sid": 719,
+      "location": 2,
+      "content": "如需提问电话端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 1791.97,
+      "to": 1794.13,
+      "sid": 720,
+      "location": 2,
+      "content": "请先按话机上的星号键",
+      "music": 0.0
+    },
+    {
+      "from": 1794.13,
+      "to": 1797.12,
+      "sid": 721,
+      "location": 2,
+      "content": "再按数字一网络端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 1797.12,
+      "to": 1800.719,
+      "sid": 722,
+      "location": 2,
+      "content": "您可以在直播间互动区域内文字提问",
+      "music": 0.0
+    },
+    {
+      "from": 1800.719,
+      "to": 1804.779,
+      "sid": 723,
+      "location": 2,
+      "content": "或点击旁边的举手按钮申请语音提问",
+      "music": 0.0
+    },
+    {
+      "from": 1804.779,
+      "to": 1807.24,
+      "sid": 724,
+      "location": 2,
+      "content": "谢谢大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1807.24,
+      "to": 1809.96,
+      "sid": 725,
+      "location": 2,
+      "content": "如需提问电话单的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 1809.96,
+      "to": 1812.08,
+      "sid": 726,
+      "location": 2,
+      "content": "请先按话机上的星号键",
+      "music": 0.0
+    },
+    {
+      "from": 1812.08,
+      "to": 1815.08,
+      "sid": 727,
+      "location": 2,
+      "content": "再按数字一网络端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 1815.08,
+      "to": 1818.679,
+      "sid": 728,
+      "location": 2,
+      "content": "您可以在直播间互动区域内文字提问",
+      "music": 0.0
+    },
+    {
+      "from": 1818.679,
+      "to": 1822.739,
+      "sid": 729,
+      "location": 2,
+      "content": "或点击旁边的举手按钮申请语音提问",
+      "music": 0.0
+    },
+    {
+      "from": 1822.739,
+      "to": 1824.64,
+      "sid": 730,
+      "location": 2,
+      "content": "谢谢",
+      "music": 0.0
+    },
+    {
+      "from": 1828.66,
+      "to": 1829.66,
+      "sid": 731,
+      "location": 2,
+      "content": "诶好的诶",
+      "music": 0.0
+    },
+    {
+      "from": 1829.66,
+      "to": 1831.42,
+      "sid": 732,
+      "location": 2,
+      "content": "中间那我这边再问一下",
+      "music": 0.0
+    },
+    {
+      "from": 1831.42,
+      "to": 1835.42,
+      "sid": 733,
+      "location": 2,
+      "content": "就是可能澳洲那边的理矿也呃",
+      "music": 0.0
+    },
+    {
+      "from": 1835.42,
+      "to": 1838.6,
+      "sid": 734,
+      "location": 2,
+      "content": "前两天应该也是那个光头杀是出产的",
+      "music": 0.0
+    },
+    {
+      "from": 1838.6,
+      "to": 1842.51,
+      "sid": 735,
+      "location": 2,
+      "content": "然后嗯其他之前应该也是",
+      "music": 0.0
+    },
+    {
+      "from": 1842.51,
+      "to": 1845.67,
+      "sid": 736,
+      "location": 2,
+      "content": "其他还有两个矿也也之前是停产的",
+      "music": 0.0
+    },
+    {
+      "from": 1845.67,
+      "to": 1849.205,
+      "sid": 737,
+      "location": 2,
+      "content": "然后其他两个矿有这个复产的可能",
+      "music": 0.0
+    },
+    {
+      "from": 1850.45,
+      "to": 1851.21,
+      "sid": 738,
+      "location": 2,
+      "content": "额",
+      "music": 0.0
+    },
+    {
+      "from": 1851.21,
+      "to": 1855.01,
+      "sid": 739,
+      "location": 2,
+      "content": "就是就是我我一会有时候就是那个minor refs",
+      "music": 0.0
+    },
+    {
+      "from": 1855.01,
+      "to": 1856.53,
+      "sid": 740,
+      "location": 2,
+      "content": "那个光头领给大家去打",
+      "music": 0.0
+    },
+    {
+      "from": 1856.53,
+      "to": 1858.85,
+      "sid": 741,
+      "location": 2,
+      "content": "然后光头领那看来确实复产了",
+      "music": 0.0
+    },
+    {
+      "from": 1858.85,
+      "to": 1863.47,
+      "sid": 742,
+      "location": 2,
+      "content": "但是实际上呃对今年的影响倒不是很大啊",
+      "music": 0.0
+    },
+    {
+      "from": 1863.47,
+      "to": 1867.35,
+      "sid": 743,
+      "location": 2,
+      "content": "他正式应该把矿能呃销售发育出来的话",
+      "music": 0.0
+    },
+    {
+      "from": 1867.35,
+      "to": 1870.6,
+      "sid": 744,
+      "location": 2,
+      "content": "应该也就是在今年的12月份",
+      "music": 0.0
+    },
+    {
+      "from": 1870.6,
+      "to": 1872.34,
+      "sid": 745,
+      "location": 2,
+      "content": "就这是最快的一个进度",
+      "music": 0.0
+    },
+    {
+      "from": 1872.34,
+      "to": 1874.8,
+      "sid": 746,
+      "location": 2,
+      "content": "那那正常的话是对迷鹿原的",
+      "music": 0.0
+    },
+    {
+      "from": 1874.8,
+      "to": 1877.48,
+      "sid": 747,
+      "location": 2,
+      "content": "一个是国内的产量会有些影响",
+      "music": 0.0
+    },
+    {
+      "from": 1877.48,
+      "to": 1879.57,
+      "sid": 748,
+      "location": 2,
+      "content": "然后这是这是光头岭的",
+      "music": 0.0
+    },
+    {
+      "from": 1879.57,
+      "to": 1880.53,
+      "sid": 749,
+      "location": 2,
+      "content": "第二个呢是呢",
+      "music": 0.0
+    },
+    {
+      "from": 1880.53,
+      "to": 1883.49,
+      "sid": 750,
+      "location": 2,
+      "content": "poly fapolifame的那个那个那个项目",
+      "music": 0.0
+    },
+    {
+      "from": 1883.49,
+      "to": 1885.53,
+      "sid": 751,
+      "location": 2,
+      "content": "然后它整体的量也不大",
+      "music": 0.0
+    },
+    {
+      "from": 1885.53,
+      "to": 1888.01,
+      "sid": 752,
+      "location": 2,
+      "content": "整体量的话是1.2万吨呃",
+      "music": 0.0
+    },
+    {
+      "from": 1888.01,
+      "to": 1891.57,
+      "sid": 753,
+      "location": 2,
+      "content": "然后也基本上是今年应该是没有太多的销售量",
+      "music": 0.0
+    },
+    {
+      "from": 1891.57,
+      "to": 1894.05,
+      "sid": 754,
+      "location": 2,
+      "content": "然后要到明年就一季度",
+      "music": 0.0
+    },
+    {
+      "from": 1894.05,
+      "to": 1896.67,
+      "sid": 755,
+      "location": 2,
+      "content": "那基本上会会集中的",
+      "music": 0.0
+    },
+    {
+      "from": 1896.67,
+      "to": 1900.33,
+      "sid": 756,
+      "location": 2,
+      "content": "就是把现在挖的炮开始开始生产出来",
+      "music": 0.0
+    },
+    {
+      "from": 1900.33,
+      "to": 1902.41,
+      "sid": 757,
+      "location": 2,
+      "content": "所以这两块呢就是加在一块",
+      "music": 0.0
+    },
+    {
+      "from": 1902.41,
+      "to": 1905.35,
+      "sid": 758,
+      "location": 2,
+      "content": "其实呃对今年的量影响不是很大",
+      "music": 0.0
+    },
+    {
+      "from": 1905.35,
+      "to": 1908.9,
+      "sid": 759,
+      "location": 2,
+      "content": "然后呃即使按照他全部的产能啊",
+      "music": 0.0
+    },
+    {
+      "from": 1908.9,
+      "to": 1912.889,
+      "sid": 760,
+      "location": 2,
+      "content": "算到一块也就是2.5万吨左右的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1912.889,
+      "to": 1916.489,
+      "sid": 761,
+      "location": 2,
+      "content": "那那那这个事就是现在这个价格下",
+      "music": 0.0
+    },
+    {
+      "from": 1916.489,
+      "to": 1919.009,
+      "sid": 762,
+      "location": 2,
+      "content": "大家就是确实现在这个价格下",
+      "music": 0.0
+    },
+    {
+      "from": 1919.009,
+      "to": 1920.47,
+      "sid": 763,
+      "location": 2,
+      "content": "什么矿都能看得出来",
+      "music": 0.0
+    },
+    {
+      "from": 1920.47,
+      "to": 1923.23,
+      "sid": 764,
+      "location": 2,
+      "content": "那发现就是在在问宿舍得有水平的",
+      "music": 0.0
+    },
+    {
+      "from": 1923.23,
+      "to": 1924.99,
+      "sid": 765,
+      "location": 2,
+      "content": "主设得也好",
+      "music": 0.0
+    },
+    {
+      "from": 1925.96,
+      "to": 1927.3,
+      "sid": 766,
+      "location": 2,
+      "content": "嗯明白",
+      "music": 0.0
+    },
+    {
+      "from": 1927.3,
+      "to": 1932.44,
+      "sid": 767,
+      "location": 2,
+      "content": "然后南美这边进口的一个额展望",
+      "music": 0.0
+    },
+    {
+      "from": 1933.96,
+      "to": 1938.08,
+      "sid": 768,
+      "location": 2,
+      "content": "嗯南美的话呃就是要拆分开来",
+      "music": 0.0
+    },
+    {
+      "from": 1938.08,
+      "to": 1938.86,
+      "sid": 769,
+      "location": 2,
+      "content": "就南北的话",
+      "music": 0.0
+    },
+    {
+      "from": 1938.86,
+      "to": 1941.34,
+      "sid": 770,
+      "location": 2,
+      "content": "如果说是那个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1941.34,
+      "to": 1944.48,
+      "sid": 771,
+      "location": 2,
+      "content": "就是碳酸铝和盐湖料联合料的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1944.48,
+      "to": 1947.76,
+      "sid": 772,
+      "location": 2,
+      "content": "阿根廷这边现在基本上每个月还比较稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1947.76,
+      "to": 1952.97,
+      "sid": 773,
+      "location": 2,
+      "content": "那应该是在就是海关数表在呃9000吨到1万吨",
+      "music": 0.0
+    },
+    {
+      "from": 1952.97,
+      "to": 1954.95,
+      "sid": 774,
+      "location": 2,
+      "content": "那么到到上半年呢",
+      "music": 0.0
+    },
+    {
+      "from": 1954.95,
+      "to": 1958.61,
+      "sid": 775,
+      "location": 2,
+      "content": "我们预计呢如果说后边呃进口到国内的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1958.61,
+      "to": 1960.65,
+      "sid": 776,
+      "location": 2,
+      "content": "这个量会逐渐会会起来",
+      "music": 0.0
+    },
+    {
+      "from": 1960.65,
+      "to": 1962.73,
+      "sid": 777,
+      "location": 2,
+      "content": "那预计呢会增到一个月",
+      "music": 0.0
+    },
+    {
+      "from": 1962.73,
+      "to": 1965.95,
+      "sid": 778,
+      "location": 2,
+      "content": "应该是1.2万吨到1.3万吨左右",
+      "music": 0.0
+    },
+    {
+      "from": 1965.95,
+      "to": 1967.29,
+      "sid": 779,
+      "location": 2,
+      "content": "那就是南北这边",
+      "music": 0.0
+    },
+    {
+      "from": 1967.29,
+      "to": 1968.659,
+      "sid": 780,
+      "location": 2,
+      "content": "还有就是阿根廷这边",
+      "music": 0.0
+    },
+    {
+      "from": 1968.659,
+      "to": 1969.979,
+      "sid": 781,
+      "location": 2,
+      "content": "然后治理这一块呢",
+      "music": 0.0
+    },
+    {
+      "from": 1969.979,
+      "to": 1971.159,
+      "sid": 782,
+      "location": 2,
+      "content": "因为他有些增产",
+      "music": 0.0
+    },
+    {
+      "from": 1971.159,
+      "to": 1972.579,
+      "sid": 783,
+      "location": 2,
+      "content": "那额漂亮",
+      "music": 0.0
+    },
+    {
+      "from": 1972.579,
+      "to": 1974.72,
+      "sid": 784,
+      "location": 2,
+      "content": "这边要增产要3.5万吨",
+      "music": 0.0
+    },
+    {
+      "from": 1974.72,
+      "to": 1977.54,
+      "sid": 785,
+      "location": 2,
+      "content": "然后呃本身呢它其实呃",
+      "music": 0.0
+    },
+    {
+      "from": 1977.54,
+      "to": 1981.01,
+      "sid": 786,
+      "location": 2,
+      "content": "还有一些硫酸锂药或者硫酸锂也要发出来呃",
+      "music": 0.0
+    },
+    {
+      "from": 1981.01,
+      "to": 1985.07,
+      "sid": 787,
+      "location": 2,
+      "content": "所以就是那个空调体硫酸钾同样的卤水卤水面",
+      "music": 0.0
+    },
+    {
+      "from": 1985.07,
+      "to": 1987.83,
+      "sid": 788,
+      "location": 2,
+      "content": "然后呢呃它通过做到硫酸铝",
+      "music": 0.0
+    },
+    {
+      "from": 1987.83,
+      "to": 1989.86,
+      "sid": 789,
+      "location": 2,
+      "content": "再发一到国内做成碳酸锂",
+      "music": 0.0
+    },
+    {
+      "from": 1989.86,
+      "to": 1992.18,
+      "sid": 790,
+      "location": 2,
+      "content": "那要比他那边直接做到茶山里呢",
+      "music": 0.0
+    },
+    {
+      "from": 1992.18,
+      "to": 1993.8,
+      "sid": 791,
+      "location": 2,
+      "content": "要量会更多一点点",
+      "music": 0.0
+    },
+    {
+      "from": 1993.8,
+      "to": 1995.78,
+      "sid": 792,
+      "location": 2,
+      "content": "那所以所以从这么看的话",
+      "music": 0.0
+    },
+    {
+      "from": 1995.78,
+      "to": 1998.17,
+      "sid": 793,
+      "location": 2,
+      "content": "那就是呃治理这一边呃",
+      "music": 0.0
+    },
+    {
+      "from": 1998.17,
+      "to": 2000.25,
+      "sid": 794,
+      "location": 2,
+      "content": "整体发育的量呢会会比较多",
+      "music": 0.0
+    },
+    {
+      "from": 2000.25,
+      "to": 2002.01,
+      "sid": 795,
+      "location": 2,
+      "content": "像路边的广播剧也能看到",
+      "music": 0.0
+    },
+    {
+      "from": 2002.01,
+      "to": 2004.67,
+      "sid": 796,
+      "location": 2,
+      "content": "他确实呃整体就是智利这边",
+      "music": 0.0
+    },
+    {
+      "from": 2004.67,
+      "to": 2005.67,
+      "sid": 797,
+      "location": 2,
+      "content": "其实发育过来比较多",
+      "music": 0.0
+    },
+    {
+      "from": 2005.67,
+      "to": 2007.73,
+      "sid": 798,
+      "location": 2,
+      "content": "所以导致整体的一个量呢",
+      "music": 0.0
+    },
+    {
+      "from": 2007.73,
+      "to": 2009.56,
+      "sid": 799,
+      "location": 2,
+      "content": "已经增到了3.3万吨",
+      "music": 0.0
+    },
+    {
+      "from": 2009.56,
+      "to": 2014.72,
+      "sid": 800,
+      "location": 2,
+      "content": "然后就是后边呢我我自己认为就是呃从这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2014.72,
+      "to": 2016.78,
+      "sid": 801,
+      "location": 2,
+      "content": "就是南美盐湖那边",
+      "music": 0.0
+    },
+    {
+      "from": 2016.78,
+      "to": 2020.86,
+      "sid": 802,
+      "location": 2,
+      "content": "就是进口的限量到海关的这个数据上表现的",
+      "music": 0.0
+    },
+    {
+      "from": 2020.86,
+      "to": 2023.24,
+      "sid": 803,
+      "location": 2,
+      "content": "那基本上会又上一个台阶",
+      "music": 0.0
+    },
+    {
+      "from": 2023.24,
+      "to": 2025.98,
+      "sid": 804,
+      "location": 2,
+      "content": "就是从额2万62万7",
+      "music": 0.0
+    },
+    {
+      "from": 2025.98,
+      "to": 2029.53,
+      "sid": 805,
+      "location": 2,
+      "content": "2万8上到后边的3万3万1",
+      "music": 0.0
+    },
+    {
+      "from": 2029.53,
+      "to": 2031.31,
+      "sid": 806,
+      "location": 2,
+      "content": "3万2的这样的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 2031.31,
+      "to": 2037.02,
+      "sid": 807,
+      "location": 2,
+      "content": "所以就是就是呃最近我们看了这些选配合数据",
+      "music": 0.0
+    },
+    {
+      "from": 2037.02,
+      "to": 2039.94,
+      "sid": 808,
+      "location": 2,
+      "content": "后边平衡表层的会做一个修正",
+      "music": 0.0
+    },
+    {
+      "from": 2039.94,
+      "to": 2041.98,
+      "sid": 809,
+      "location": 2,
+      "content": "那修正修正存的进口量",
+      "music": 0.0
+    },
+    {
+      "from": 2041.98,
+      "to": 2046.44,
+      "sid": 810,
+      "location": 2,
+      "content": "这一块可能会在呃提升个那么三四千吨的量",
+      "music": 0.0
+    },
+    {
+      "from": 2046.44,
+      "to": 2050.74,
+      "sid": 811,
+      "location": 2,
+      "content": "在我们预期就是就就预期内的一些量就给他带",
+      "music": 0.0
+    },
+    {
+      "from": 2050.74,
+      "to": 2052.0,
+      "sid": 812,
+      "location": 2,
+      "content": "再加进去对",
+      "music": 0.0
+    },
+    {
+      "from": 2052.0,
+      "to": 2054.2,
+      "sid": 813,
+      "location": 2,
+      "content": "然后呢不再再说到这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2054.2,
+      "to": 2054.72,
+      "sid": 814,
+      "location": 2,
+      "content": "南美这边",
+      "music": 0.0
+    },
+    {
+      "from": 2054.72,
+      "to": 2056.989,
+      "sid": 815,
+      "location": 2,
+      "content": "那就要说到这个巴西的灰石",
+      "music": 0.0
+    },
+    {
+      "from": 2056.989,
+      "to": 2058.529,
+      "sid": 816,
+      "location": 2,
+      "content": "那巴西的这个灰石呢",
+      "music": 0.0
+    },
+    {
+      "from": 2058.529,
+      "to": 2061.829,
+      "sid": 817,
+      "location": 2,
+      "content": "呃整体的量呢应该是呃会比较有限",
+      "music": 0.0
+    },
+    {
+      "from": 2061.829,
+      "to": 2063.589,
+      "sid": 818,
+      "location": 2,
+      "content": "就是像这个马奥驰的破产",
+      "music": 0.0
+    },
+    {
+      "from": 2063.589,
+      "to": 2065.5,
+      "sid": 819,
+      "location": 2,
+      "content": "基本上就呃比较难了",
+      "music": 0.0
+    },
+    {
+      "from": 2065.5,
+      "to": 2069.5,
+      "sid": 820,
+      "location": 2,
+      "content": "那就看是不是国内有些巨头来去去做一些合作",
+      "music": 0.0
+    },
+    {
+      "from": 2069.5,
+      "to": 2072.63,
+      "sid": 821,
+      "location": 2,
+      "content": "那可能是不是提供一些资金",
+      "music": 0.0
+    },
+    {
+      "from": 2072.63,
+      "to": 2074.27,
+      "sid": 822,
+      "location": 2,
+      "content": "然后呢能把它开出来",
+      "music": 0.0
+    },
+    {
+      "from": 2074.27,
+      "to": 2075.55,
+      "sid": 823,
+      "location": 2,
+      "content": "那南美这个事情呢",
+      "music": 0.0
+    },
+    {
+      "from": 2075.55,
+      "to": 2079.75,
+      "sid": 824,
+      "location": 2,
+      "content": "我们呃我们是这周六会去一趟南美",
+      "music": 0.0
+    },
+    {
+      "from": 2079.75,
+      "to": 2081.63,
+      "sid": 825,
+      "location": 2,
+      "content": "然后有同事去南美出差",
+      "music": 0.0
+    },
+    {
+      "from": 2081.63,
+      "to": 2083.87,
+      "sid": 826,
+      "location": 2,
+      "content": "然后呢基本上反正我们也也聊了",
+      "music": 0.0
+    },
+    {
+      "from": 2083.87,
+      "to": 2088.17,
+      "sid": 827,
+      "location": 2,
+      "content": "他们现在目前状态呢是很希望有人去投资呃",
+      "music": 0.0
+    },
+    {
+      "from": 2088.17,
+      "to": 2089.49,
+      "sid": 828,
+      "location": 2,
+      "content": "他们合作些矿出来",
+      "music": 0.0
+    },
+    {
+      "from": 2089.49,
+      "to": 2092.65,
+      "sid": 829,
+      "location": 2,
+      "content": "然后呃这是再卖回给中国对",
+      "music": 0.0
+    },
+    {
+      "from": 2092.65,
+      "to": 2094.29,
+      "sid": 830,
+      "location": 2,
+      "content": "所以现在从现在的情况看到",
+      "music": 0.0
+    },
+    {
+      "from": 2094.29,
+      "to": 2096.669,
+      "sid": 831,
+      "location": 2,
+      "content": "南美那边冷过来的量",
+      "music": 0.0
+    },
+    {
+      "from": 2096.669,
+      "to": 2099.689,
+      "sid": 832,
+      "location": 2,
+      "content": "就是你你会吃的量不会很大",
+      "music": 0.0
+    },
+    {
+      "from": 2099.689,
+      "to": 2103.66,
+      "sid": 833,
+      "location": 2,
+      "content": "对嗯明白明白哎",
+      "music": 0.0
+    },
+    {
+      "from": 2103.66,
+      "to": 2107.05,
+      "sid": 834,
+      "location": 2,
+      "content": "所以所以就是呃专家要为您总结一下",
+      "music": 0.0
+    },
+    {
+      "from": 2107.05,
+      "to": 2110.27,
+      "sid": 835,
+      "location": 2,
+      "content": "就是可能今年和明年这个供给的一个分量",
+      "music": 0.0
+    },
+    {
+      "from": 2110.27,
+      "to": 2113.49,
+      "sid": 836,
+      "location": 2,
+      "content": "分量的一个呃主要的一个节奏吧",
+      "music": 0.0
+    },
+    {
+      "from": 2113.49,
+      "to": 2118.36,
+      "sid": 837,
+      "location": 2,
+      "content": "就是可能那些记录可能会是一个分量比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 2118.36,
+      "to": 2119.42,
+      "sid": 838,
+      "location": 2,
+      "content": "一个",
+      "music": 0.0
+    },
+    {
+      "from": 2119.82,
+      "to": 2123.62,
+      "sid": 839,
+      "location": 2,
+      "content": "这个请大或者或者这么讲",
+      "music": 0.0
+    },
+    {
+      "from": 2123.62,
+      "to": 2127.02,
+      "sid": 840,
+      "location": 2,
+      "content": "就是我们我们我们去看远方面呃",
+      "music": 0.0
+    },
+    {
+      "from": 2127.02,
+      "to": 2128.5,
+      "sid": 841,
+      "location": 2,
+      "content": "一方面是能看出方面",
+      "music": 0.0
+    },
+    {
+      "from": 2128.5,
+      "to": 2129.66,
+      "sid": 842,
+      "location": 2,
+      "content": "一方面从供性看",
+      "music": 0.0
+    },
+    {
+      "from": 2129.66,
+      "to": 2130.58,
+      "sid": 843,
+      "location": 2,
+      "content": "一方面从需求看",
+      "music": 0.0
+    },
+    {
+      "from": 2130.58,
+      "to": 2131.9,
+      "sid": 844,
+      "location": 2,
+      "content": "在最后结合到平衡",
+      "music": 0.0
+    },
+    {
+      "from": 2131.9,
+      "to": 2133.38,
+      "sid": 845,
+      "location": 2,
+      "content": "到到底怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 2133.38,
+      "to": 2136.09,
+      "sid": 846,
+      "location": 2,
+      "content": "我觉得有三高的隐私对",
+      "music": 0.0
+    },
+    {
+      "from": 2136.09,
+      "to": 2138.29,
+      "sid": 847,
+      "location": 2,
+      "content": "按照按照每个季度来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 2138.29,
+      "to": 2141.31,
+      "sid": 848,
+      "location": 2,
+      "content": "二季度是确定的去库的一个制度",
+      "music": 0.0
+    },
+    {
+      "from": 2141.31,
+      "to": 2143.57,
+      "sid": 849,
+      "location": 2,
+      "content": "那三季度呢我们现在看下来",
+      "music": 0.0
+    },
+    {
+      "from": 2143.57,
+      "to": 2145.31,
+      "sid": 850,
+      "location": 2,
+      "content": "应该是累库的一个季度",
+      "music": 0.0
+    },
+    {
+      "from": 2145.31,
+      "to": 2146.31,
+      "sid": 851,
+      "location": 2,
+      "content": "三季度",
+      "music": 0.0
+    },
+    {
+      "from": 2146.31,
+      "to": 2149.15,
+      "sid": 852,
+      "location": 2,
+      "content": "然后呃先讲三季度的原因",
+      "music": 0.0
+    },
+    {
+      "from": 2149.15,
+      "to": 2150.87,
+      "sid": 853,
+      "location": 2,
+      "content": "就是这个供给端我已经讲了",
+      "music": 0.0
+    },
+    {
+      "from": 2150.87,
+      "to": 2154.76,
+      "sid": 854,
+      "location": 2,
+      "content": "其实它是额呈现出一个大量的供给",
+      "music": 0.0
+    },
+    {
+      "from": 2154.76,
+      "to": 2157.76,
+      "sid": 855,
+      "location": 2,
+      "content": "那三季度也包括用纳粹泡运粉啊",
+      "music": 0.0
+    },
+    {
+      "from": 2157.76,
+      "to": 2159.7,
+      "sid": 856,
+      "location": 2,
+      "content": "如果整箱我还开出来的话",
+      "music": 0.0
+    },
+    {
+      "from": 2159.7,
+      "to": 2161.42,
+      "sid": 857,
+      "location": 2,
+      "content": "也是一个很重要的布局",
+      "music": 0.0
+    },
+    {
+      "from": 2161.42,
+      "to": 2163.54,
+      "sid": 858,
+      "location": 2,
+      "content": "那再加上呢这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2163.54,
+      "to": 2167.47,
+      "sid": 859,
+      "location": 2,
+      "content": "整体在在这个地铁新投产的量",
+      "music": 0.0
+    },
+    {
+      "from": 2167.47,
+      "to": 2169.61,
+      "sid": 860,
+      "location": 2,
+      "content": "所以就是三字的重器的增量",
+      "music": 0.0
+    },
+    {
+      "from": 2169.61,
+      "to": 2173.21,
+      "sid": 861,
+      "location": 2,
+      "content": "那么到3D再去看3D的需求呢",
+      "music": 0.0
+    },
+    {
+      "from": 2173.21,
+      "to": 2176.33,
+      "sid": 862,
+      "location": 2,
+      "content": "3D需求呢我们现在看到是蓄水口号",
+      "music": 0.0
+    },
+    {
+      "from": 2176.33,
+      "to": 2178.69,
+      "sid": 863,
+      "location": 2,
+      "content": "那那主要就是在于爬产",
+      "music": 0.0
+    },
+    {
+      "from": 2178.69,
+      "to": 2179.91,
+      "sid": 864,
+      "location": 2,
+      "content": "然后投产",
+      "music": 0.0
+    },
+    {
+      "from": 2179.91,
+      "to": 2181.53,
+      "sid": 865,
+      "location": 2,
+      "content": "那这些新增的产能",
+      "music": 0.0
+    },
+    {
+      "from": 2181.53,
+      "to": 2184.49,
+      "sid": 866,
+      "location": 2,
+      "content": "因为现在这个是需求受制于产能",
+      "music": 0.0
+    },
+    {
+      "from": 2184.49,
+      "to": 2185.87,
+      "sid": 867,
+      "location": 2,
+      "content": "就特别是储能这一段",
+      "music": 0.0
+    },
+    {
+      "from": 2185.87,
+      "to": 2187.77,
+      "sid": 868,
+      "location": 2,
+      "content": "你只要只要产能能上",
+      "music": 0.0
+    },
+    {
+      "from": 2187.77,
+      "to": 2189.83,
+      "sid": 869,
+      "location": 2,
+      "content": "它就能能能能开",
+      "music": 0.0
+    },
+    {
+      "from": 2189.83,
+      "to": 2192.01,
+      "sid": 870,
+      "location": 2,
+      "content": "那所以呢就是这是我们看到需求",
+      "music": 0.0
+    },
+    {
+      "from": 2192.01,
+      "to": 2195.03,
+      "sid": 871,
+      "location": 2,
+      "content": "但是呢就是三季度这边呢按照我们现在看下来",
+      "music": 0.0
+    },
+    {
+      "from": 2195.03,
+      "to": 2198.88,
+      "sid": 872,
+      "location": 2,
+      "content": "包括呃血腥呃的这些产产能",
+      "music": 0.0
+    },
+    {
+      "from": 2198.88,
+      "to": 2200.86,
+      "sid": 873,
+      "location": 2,
+      "content": "就是有一些这个进度呢",
+      "music": 0.0
+    },
+    {
+      "from": 2200.86,
+      "to": 2203.06,
+      "sid": 874,
+      "location": 2,
+      "content": "那个我觉得还是有点不及预期的",
+      "music": 0.0
+    },
+    {
+      "from": 2203.06,
+      "to": 2204.36,
+      "sid": 875,
+      "location": 2,
+      "content": "那就投产病毒",
+      "music": 0.0
+    },
+    {
+      "from": 2204.36,
+      "to": 2205.54,
+      "sid": 876,
+      "location": 2,
+      "content": "那所以呢就是脏病毒",
+      "music": 0.0
+    },
+    {
+      "from": 2205.54,
+      "to": 2209.17,
+      "sid": 877,
+      "location": 2,
+      "content": "我们看下来应该是整体的这个产能",
+      "music": 0.0
+    },
+    {
+      "from": 2209.17,
+      "to": 2210.49,
+      "sid": 878,
+      "location": 2,
+      "content": "产量会还会再增",
+      "music": 0.0
+    },
+    {
+      "from": 2210.49,
+      "to": 2211.67,
+      "sid": 879,
+      "location": 2,
+      "content": "需求还会再增",
+      "music": 0.0
+    },
+    {
+      "from": 2211.67,
+      "to": 2213.25,
+      "sid": 880,
+      "location": 2,
+      "content": "但是呢供给的增呢",
+      "music": 0.0
+    },
+    {
+      "from": 2213.25,
+      "to": 2216.07,
+      "sid": 881,
+      "location": 2,
+      "content": "就是整体情况呢会比厂家要多",
+      "music": 0.0
+    },
+    {
+      "from": 2216.07,
+      "to": 2219.33,
+      "sid": 882,
+      "location": 2,
+      "content": "所以三个字我们看到的是一个呃有累库的",
+      "music": 0.0
+    },
+    {
+      "from": 2219.33,
+      "to": 2222.08,
+      "sid": 883,
+      "location": 2,
+      "content": "一个呃可能性非常大的一个季度",
+      "music": 0.0
+    },
+    {
+      "from": 2222.08,
+      "to": 2225.72,
+      "sid": 884,
+      "location": 2,
+      "content": "那到顺序度呢我们看到是一个挺平衡",
+      "music": 0.0
+    },
+    {
+      "from": 2225.72,
+      "to": 2228.1,
+      "sid": 885,
+      "location": 2,
+      "content": "但偏向去库的一个节奏",
+      "music": 0.0
+    },
+    {
+      "from": 2228.1,
+      "to": 2230.46,
+      "sid": 886,
+      "location": 2,
+      "content": "原因就是因为这是四季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 2230.46,
+      "to": 2231.75,
+      "sid": 887,
+      "location": 2,
+      "content": "大家后续干两个负数",
+      "music": 0.0
+    },
+    {
+      "from": 2231.75,
+      "to": 2232.91,
+      "sid": 888,
+      "location": 2,
+      "content": "一个事情呢",
+      "music": 0.0
+    },
+    {
+      "from": 2232.91,
+      "to": 2236.27,
+      "sid": 889,
+      "location": 2,
+      "content": "就是因为出口退税补贴的6%要取消了",
+      "music": 0.0
+    },
+    {
+      "from": 2236.27,
+      "to": 2239.29,
+      "sid": 890,
+      "location": 2,
+      "content": "所以大家可能会是额抢装备一波",
+      "music": 0.0
+    },
+    {
+      "from": 2239.29,
+      "to": 2241.66,
+      "sid": 891,
+      "location": 2,
+      "content": "这个这个这个补贴的",
+      "music": 0.0
+    },
+    {
+      "from": 2241.66,
+      "to": 2244.57,
+      "sid": 892,
+      "location": 2,
+      "content": "那在这里边带动了会带动一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 2244.57,
+      "to": 2247.43,
+      "sid": 893,
+      "location": 2,
+      "content": "呃产能的一些就是利用率会打的比较满",
+      "music": 0.0
+    },
+    {
+      "from": 2247.43,
+      "to": 2248.85,
+      "sid": 894,
+      "location": 2,
+      "content": "那在这样的情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 2248.85,
+      "to": 2250.15,
+      "sid": 895,
+      "location": 2,
+      "content": "我们看到的是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 2250.15,
+      "to": 2253.8,
+      "sid": 896,
+      "location": 2,
+      "content": "应该会看到这个可能也逐渐在爬上来",
+      "music": 0.0
+    },
+    {
+      "from": 2253.8,
+      "to": 2256.94,
+      "sid": 897,
+      "location": 2,
+      "content": "然后呢又是比较长",
+      "music": 0.0
+    },
+    {
+      "from": 2256.94,
+      "to": 2258.34,
+      "sid": 898,
+      "location": 2,
+      "content": "出口比较旺的一个细节",
+      "music": 0.0
+    },
+    {
+      "from": 2258.34,
+      "to": 2261.75,
+      "sid": 899,
+      "location": 2,
+      "content": "包括本身演示设计的一般都是比较旺",
+      "music": 0.0
+    },
+    {
+      "from": 2261.75,
+      "to": 2263.11,
+      "sid": 900,
+      "location": 2,
+      "content": "那在这样一种情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 2263.11,
+      "to": 2266.49,
+      "sid": 901,
+      "location": 2,
+      "content": "我们能看到整体的一个就是呃",
+      "music": 0.0
+    },
+    {
+      "from": 2266.49,
+      "to": 2269.66,
+      "sid": 902,
+      "location": 2,
+      "content": "下游需求会达到一个比较高分的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 2269.66,
+      "to": 2272.96,
+      "sid": 903,
+      "location": 2,
+      "content": "那但是呢因为供给的基本上是投在三季度",
+      "music": 0.0
+    },
+    {
+      "from": 2272.96,
+      "to": 2276.56,
+      "sid": 904,
+      "location": 2,
+      "content": "就四季度的供给的就是再增幅就没那么大了",
+      "music": 0.0
+    },
+    {
+      "from": 2276.56,
+      "to": 2280.14,
+      "sid": 905,
+      "location": 2,
+      "content": "所以我们看到呃虽然说是动点很很多",
+      "music": 0.0
+    },
+    {
+      "from": 2280.14,
+      "to": 2282.26,
+      "sid": 906,
+      "location": 2,
+      "content": "但是密度需求也会很多",
+      "music": 0.0
+    },
+    {
+      "from": 2282.26,
+      "to": 2283.74,
+      "sid": 907,
+      "location": 2,
+      "content": "但从平衡上来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 2283.74,
+      "to": 2286.589,
+      "sid": 908,
+      "location": 2,
+      "content": "US4季度的话会是颈平衡",
+      "music": 0.0
+    },
+    {
+      "from": 2286.589,
+      "to": 2291.729,
+      "sid": 909,
+      "location": 2,
+      "content": "但是偏向于这个呃短缺的一个概率会大一点",
+      "music": 0.0
+    },
+    {
+      "from": 2291.729,
+      "to": 2292.889,
+      "sid": 910,
+      "location": 2,
+      "content": "这在市一中",
+      "music": 0.0
+    },
+    {
+      "from": 2292.889,
+      "to": 2296.17,
+      "sid": 911,
+      "location": 2,
+      "content": "然后呢所以在在价格上面呢",
+      "music": 0.0
+    },
+    {
+      "from": 2296.17,
+      "to": 2298.53,
+      "sid": 912,
+      "location": 2,
+      "content": "就是先先把价格也说明下",
+      "music": 0.0
+    },
+    {
+      "from": 2298.53,
+      "to": 2300.09,
+      "sid": 913,
+      "location": 2,
+      "content": "我们对价格的判断是",
+      "music": 0.0
+    },
+    {
+      "from": 2300.09,
+      "to": 2300.57,
+      "sid": 914,
+      "location": 2,
+      "content": "二季度",
+      "music": 0.0
+    },
+    {
+      "from": 2300.57,
+      "to": 2305.67,
+      "sid": 915,
+      "location": 2,
+      "content": "我觉得价格还会比较维持在一个就是19万",
+      "music": 0.0
+    },
+    {
+      "from": 2305.67,
+      "to": 2307.31,
+      "sid": 916,
+      "location": 2,
+      "content": "20万的均价",
+      "music": 0.0
+    },
+    {
+      "from": 2307.31,
+      "to": 2308.46,
+      "sid": 917,
+      "location": 2,
+      "content": "就整个29",
+      "music": 0.0
+    },
+    {
+      "from": 2308.46,
+      "to": 2310.72,
+      "sid": 918,
+      "location": 2,
+      "content": "就是啊我觉得概率会大一点",
+      "music": 0.0
+    },
+    {
+      "from": 2310.72,
+      "to": 2312.56,
+      "sid": 919,
+      "location": 2,
+      "content": "如果你说打456",
+      "music": 0.0
+    },
+    {
+      "from": 2312.56,
+      "to": 2314.46,
+      "sid": 920,
+      "location": 2,
+      "content": "这三个月拉拉在一块看",
+      "music": 0.0
+    },
+    {
+      "from": 2314.46,
+      "to": 2317.779,
+      "sid": 921,
+      "location": 2,
+      "content": "我觉得可能中枢呢可能会在19万左右",
+      "music": 0.0
+    },
+    {
+      "from": 2317.779,
+      "to": 2321.099,
+      "sid": 922,
+      "location": 2,
+      "content": "然后呃如果说是把三季度考虑进去",
+      "music": 0.0
+    },
+    {
+      "from": 2321.099,
+      "to": 2324.899,
+      "sid": 923,
+      "location": 2,
+      "content": "它的价值重心我觉得应该是比20度要低一点",
+      "music": 0.0
+    },
+    {
+      "from": 2324.899,
+      "to": 2326.38,
+      "sid": 924,
+      "location": 2,
+      "content": "就是三季度的价格",
+      "music": 0.0
+    },
+    {
+      "from": 2326.38,
+      "to": 2327.54,
+      "sid": 925,
+      "location": 2,
+      "content": "然后到四季度了",
+      "music": 0.0
+    },
+    {
+      "from": 2327.54,
+      "to": 2330.46,
+      "sid": 926,
+      "location": 2,
+      "content": "就看整体的一个就三季度累布情况",
+      "music": 0.0
+    },
+    {
+      "from": 2330.46,
+      "to": 2332.02,
+      "sid": 927,
+      "location": 2,
+      "content": "如果三季度累的不是很多",
+      "music": 0.0
+    },
+    {
+      "from": 2332.02,
+      "to": 2335.35,
+      "sid": 928,
+      "location": 2,
+      "content": "那么呢四季度可能再不会创新高的概率是有的",
+      "music": 0.0
+    },
+    {
+      "from": 2335.35,
+      "to": 2337.37,
+      "sid": 929,
+      "location": 2,
+      "content": "然后如果30度累不累非常多",
+      "music": 0.0
+    },
+    {
+      "from": 2337.37,
+      "to": 2341.09,
+      "sid": 930,
+      "location": 2,
+      "content": "那么呢估计今年年内的价值可能就是在20度",
+      "music": 0.0
+    },
+    {
+      "from": 2341.09,
+      "to": 2342.71,
+      "sid": 931,
+      "location": 2,
+      "content": "那就是我们的一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 2342.71,
+      "to": 2345.65,
+      "sid": 932,
+      "location": 2,
+      "content": "然后说说到这个27011组",
+      "music": 0.0
+    },
+    {
+      "from": 2345.65,
+      "to": 2348.26,
+      "sid": 933,
+      "location": 2,
+      "content": "我们的一个判断不是很乐观",
+      "music": 0.0
+    },
+    {
+      "from": 2348.26,
+      "to": 2351.86,
+      "sid": 934,
+      "location": 2,
+      "content": "所以价格原因就是因为控制它是在主要价格",
+      "music": 0.0
+    },
+    {
+      "from": 2351.86,
+      "to": 2354.279,
+      "sid": 935,
+      "location": 2,
+      "content": "在现在这水水平上",
+      "music": 0.0
+    },
+    {
+      "from": 2354.279,
+      "to": 2358.2,
+      "sid": 936,
+      "location": 2,
+      "content": "那共享是有的在在在供给还是比较呃",
+      "music": 0.0
+    },
+    {
+      "from": 2358.2,
+      "to": 2359.84,
+      "sid": 937,
+      "location": 2,
+      "content": "就是多的一个状态下的",
+      "music": 0.0
+    },
+    {
+      "from": 2359.84,
+      "to": 2362.76,
+      "sid": 938,
+      "location": 2,
+      "content": "那关键就是需求还能不能撑得那么足",
+      "music": 0.0
+    },
+    {
+      "from": 2362.76,
+      "to": 2366.98,
+      "sid": 939,
+      "location": 2,
+      "content": "那为什么就是在套现一季度来和担心需求",
+      "music": 0.0
+    },
+    {
+      "from": 2366.98,
+      "to": 2369.38,
+      "sid": 940,
+      "location": 2,
+      "content": "那核心的点呢是在于呃",
+      "music": 0.0
+    },
+    {
+      "from": 2369.38,
+      "to": 2373.96,
+      "sid": 941,
+      "location": 2,
+      "content": "在整体的这个这个这个呃抢装这数据度",
+      "music": 0.0
+    },
+    {
+      "from": 2373.96,
+      "to": 2376.2,
+      "sid": 942,
+      "location": 2,
+      "content": "会把一季度流量或二次元计算量",
+      "music": 0.0
+    },
+    {
+      "from": 2376.2,
+      "to": 2377.649,
+      "sid": 943,
+      "location": 2,
+      "content": "会抢占数据生产",
+      "music": 0.0
+    },
+    {
+      "from": 2377.649,
+      "to": 2380.049,
+      "sid": 944,
+      "location": 2,
+      "content": "那这一部分量可能会对一季度的量",
+      "music": 0.0
+    },
+    {
+      "from": 2380.049,
+      "to": 2381.58,
+      "sid": 945,
+      "location": 2,
+      "content": "产生一些抑制",
+      "music": 0.0
+    },
+    {
+      "from": 2381.58,
+      "to": 2382.58,
+      "sid": 946,
+      "location": 2,
+      "content": "第二个呢",
+      "music": 0.0
+    },
+    {
+      "from": 2382.58,
+      "to": 2385.86,
+      "sid": 947,
+      "location": 2,
+      "content": "按照正常现在处那个装订角度上来看的",
+      "music": 0.0
+    },
+    {
+      "from": 2385.86,
+      "to": 2387.4,
+      "sid": 948,
+      "location": 2,
+      "content": "那王老是20字",
+      "music": 0.0
+    },
+    {
+      "from": 2387.4,
+      "to": 2388.68,
+      "sid": 949,
+      "location": 2,
+      "content": "还有这些毒",
+      "music": 0.0
+    },
+    {
+      "from": 2388.68,
+      "to": 2390.96,
+      "sid": 950,
+      "location": 2,
+      "content": "四季度才有三季度这样的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 2390.96,
+      "to": 2393.8,
+      "sid": 951,
+      "location": 2,
+      "content": "所以呢就是在在在在整体的一个",
+      "music": 0.0
+    },
+    {
+      "from": 2393.8,
+      "to": 2395.96,
+      "sid": 952,
+      "location": 2,
+      "content": "就是正常需求量上来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 2395.96,
+      "to": 2399.16,
+      "sid": 953,
+      "location": 2,
+      "content": "也会额看到这个整体一季度",
+      "music": 0.0
+    },
+    {
+      "from": 2399.16,
+      "to": 2403.71,
+      "sid": 954,
+      "location": 2,
+      "content": "我们看到和需求呢也会有一定的额影响",
+      "music": 0.0
+    },
+    {
+      "from": 2403.71,
+      "to": 2405.07,
+      "sid": 955,
+      "location": 2,
+      "content": "然后季节性的影响",
+      "music": 0.0
+    },
+    {
+      "from": 2405.07,
+      "to": 2408.49,
+      "sid": 956,
+      "location": 2,
+      "content": "所以所以我们判断可能在27年的一季度",
+      "music": 0.0
+    },
+    {
+      "from": 2408.49,
+      "to": 2412.27,
+      "sid": 957,
+      "location": 2,
+      "content": "可能有非常大概率要累库的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 2412.27,
+      "to": 2414.71,
+      "sid": 958,
+      "location": 2,
+      "content": "所以这是我们看到的一个的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 2414.71,
+      "to": 2418.19,
+      "sid": 959,
+      "location": 2,
+      "content": "就是现在就是在在在在再回过去讲价格",
+      "music": 0.0
+    },
+    {
+      "from": 2418.19,
+      "to": 2421.06,
+      "sid": 960,
+      "location": 2,
+      "content": "我们会觉得呃124年的话",
+      "music": 0.0
+    },
+    {
+      "from": 2421.06,
+      "to": 2423.6,
+      "sid": 961,
+      "location": 2,
+      "content": "一季度价格可能会回到15万左右",
+      "music": 0.0
+    },
+    {
+      "from": 2423.6,
+      "to": 2425.42,
+      "sid": 962,
+      "location": 2,
+      "content": "这样的一个水平对",
+      "music": 0.0
+    },
+    {
+      "from": 2425.42,
+      "to": 2427.4,
+      "sid": 963,
+      "location": 2,
+      "content": "然后看到20年二季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 2427.4,
+      "to": 2428.94,
+      "sid": 964,
+      "location": 2,
+      "content": "我觉得就是看的没那么清楚",
+      "music": 0.0
+    },
+    {
+      "from": 2428.94,
+      "to": 2432.049,
+      "sid": 965,
+      "location": 2,
+      "content": "这个我觉得这个现在只能看到一批点",
+      "music": 0.0
+    },
+    {
+      "from": 2432.049,
+      "to": 2435.149,
+      "sid": 966,
+      "location": 2,
+      "content": "也就是我们的一个一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 2435.86,
+      "to": 2437.34,
+      "sid": 967,
+      "location": 2,
+      "content": "明白明白",
+      "music": 0.0
+    },
+    {
+      "from": 2437.34,
+      "to": 2442.76,
+      "sid": 968,
+      "location": 2,
+      "content": "那假如说就是可能股价要到上涨到25万",
+      "music": 0.0
+    },
+    {
+      "from": 2442.76,
+      "to": 2443.8,
+      "sid": 969,
+      "location": 2,
+      "content": "甚至30万",
+      "music": 0.0
+    },
+    {
+      "from": 2443.8,
+      "to": 2447.28,
+      "sid": 970,
+      "location": 2,
+      "content": "您觉得就有可能到人家到这样的一个价格",
+      "music": 0.0
+    },
+    {
+      "from": 2447.28,
+      "to": 2449.7,
+      "sid": 971,
+      "location": 2,
+      "content": "是需要什么样的一个条件的共振",
+      "music": 0.0
+    },
+    {
+      "from": 2449.7,
+      "to": 2452.93,
+      "sid": 972,
+      "location": 2,
+      "content": "就是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 2452.93,
+      "to": 2454.43,
+      "sid": 973,
+      "location": 2,
+      "content": "我觉得就是",
+      "music": 0.0
+    },
+    {
+      "from": 2454.43,
+      "to": 2457.55,
+      "sid": 974,
+      "location": 2,
+      "content": "就就就就如果说涨到20万到30万",
+      "music": 0.0
+    },
+    {
+      "from": 2457.55,
+      "to": 2462.07,
+      "sid": 975,
+      "location": 2,
+      "content": "我觉得很大可能性应该出现在数据组织",
+      "music": 0.0
+    },
+    {
+      "from": 2462.07,
+      "to": 2464.29,
+      "sid": 976,
+      "location": 2,
+      "content": "然后数字组呢原因就在于",
+      "music": 0.0
+    },
+    {
+      "from": 2464.29,
+      "to": 2468.64,
+      "sid": 977,
+      "location": 2,
+      "content": "这第一个就现在的状态是呃严谨",
+      "music": 0.0
+    },
+    {
+      "from": 2468.88,
+      "to": 2472.1,
+      "sid": 978,
+      "location": 2,
+      "content": "不应该是矿井盐太宽松",
+      "music": 0.0
+    },
+    {
+      "from": 2472.1,
+      "to": 2474.13,
+      "sid": 979,
+      "location": 2,
+      "content": "需求好这样一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 2474.13,
+      "to": 2479.55,
+      "sid": 980,
+      "location": 2,
+      "content": "那个到三季度呢应该会变成矿稍微会松一点",
+      "music": 0.0
+    },
+    {
+      "from": 2479.55,
+      "to": 2481.96,
+      "sid": 981,
+      "location": 2,
+      "content": "盐呢可能还是那么松",
+      "music": 0.0
+    },
+    {
+      "from": 2481.96,
+      "to": 2483.66,
+      "sid": 982,
+      "location": 2,
+      "content": "需求呢还是好",
+      "music": 0.0
+    },
+    {
+      "from": 2483.66,
+      "to": 2485.52,
+      "sid": 983,
+      "location": 2,
+      "content": "那这个应该是三季度的状态",
+      "music": 0.0
+    },
+    {
+      "from": 2485.52,
+      "to": 2488.05,
+      "sid": 984,
+      "location": 2,
+      "content": "那所以呢就是从从二季度",
+      "music": 0.0
+    },
+    {
+      "from": 2488.05,
+      "to": 2489.69,
+      "sid": 985,
+      "location": 2,
+      "content": "如果直接干到二十五三十呢",
+      "music": 0.0
+    },
+    {
+      "from": 2489.69,
+      "to": 2491.57,
+      "sid": 986,
+      "location": 2,
+      "content": "那三季度会回落比较厉害",
+      "music": 0.0
+    },
+    {
+      "from": 2491.57,
+      "to": 2494.9,
+      "sid": 987,
+      "location": 2,
+      "content": "但也没有资金会去会去打的特别好",
+      "music": 0.0
+    },
+    {
+      "from": 2494.9,
+      "to": 2495.3,
+      "sid": 988,
+      "location": 2,
+      "content": "我觉得",
+      "music": 0.0
+    },
+    {
+      "from": 2495.3,
+      "to": 2497.66,
+      "sid": 989,
+      "location": 2,
+      "content": "所以我觉得在二季度出现那个",
+      "music": 0.0
+    },
+    {
+      "from": 2497.66,
+      "to": 2499.22,
+      "sid": 990,
+      "location": 2,
+      "content": "二十五三十的概率",
+      "music": 0.0
+    },
+    {
+      "from": 2499.22,
+      "to": 2501.25,
+      "sid": 991,
+      "location": 2,
+      "content": "我觉得已经在变小",
+      "music": 0.0
+    },
+    {
+      "from": 2501.25,
+      "to": 2504.85,
+      "sid": 992,
+      "location": 2,
+      "content": "这就特别是最近看到苍南美那么多",
+      "music": 0.0
+    },
+    {
+      "from": 2504.85,
+      "to": 2507.72,
+      "sid": 993,
+      "location": 2,
+      "content": "其实有些库存压制的规路在里面",
+      "music": 0.0
+    },
+    {
+      "from": 2507.72,
+      "to": 2510.26,
+      "sid": 994,
+      "location": 2,
+      "content": "我觉得空间不会开那么薄",
+      "music": 0.0
+    },
+    {
+      "from": 2510.26,
+      "to": 2515.71,
+      "sid": 995,
+      "location": 2,
+      "content": "那那如果说三密度就是需求好到三岁",
+      "music": 0.0
+    },
+    {
+      "from": 2515.71,
+      "to": 2518.19,
+      "sid": 996,
+      "location": 2,
+      "content": "重物即使跳走多的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 2518.19,
+      "to": 2521.11,
+      "sid": 997,
+      "location": 2,
+      "content": "他还要再去库或者泡水",
+      "music": 0.0
+    },
+    {
+      "from": 2521.11,
+      "to": 2524.69,
+      "sid": 998,
+      "location": 2,
+      "content": "已经生了你并产量并没有碳酸盐",
+      "music": 0.0
+    },
+    {
+      "from": 2524.69,
+      "to": 2527.01,
+      "sid": 999,
+      "location": 2,
+      "content": "产量并没有这种耗能约束的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2527.01,
+      "to": 2528.39,
+      "sid": 1000,
+      "location": 2,
+      "content": "它还要再去做",
+      "music": 0.0
+    },
+    {
+      "from": 2528.39,
+      "to": 2531.11,
+      "sid": 1001,
+      "location": 2,
+      "content": "那么我觉得到了四季度",
+      "music": 0.0
+    },
+    {
+      "from": 2531.11,
+      "to": 2533.93,
+      "sid": 1002,
+      "location": 2,
+      "content": "需求比赛就是更加好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2533.93,
+      "to": 2536.01,
+      "sid": 1003,
+      "location": 2,
+      "content": "那这里边就是创创新",
+      "music": 0.0
+    },
+    {
+      "from": 2536.01,
+      "to": 2537.61,
+      "sid": 1004,
+      "location": 2,
+      "content": "创到20几年速度转身",
+      "music": 0.0
+    },
+    {
+      "from": 2537.61,
+      "to": 2539.22,
+      "sid": 1005,
+      "location": 2,
+      "content": "然我觉得可能性就很大了",
+      "music": 0.0
+    },
+    {
+      "from": 2539.22,
+      "to": 2543.88,
+      "sid": 1006,
+      "location": 2,
+      "content": "所以我是觉得就是这里就是要赚取创新高",
+      "music": 0.0
+    },
+    {
+      "from": 2543.88,
+      "to": 2545.26,
+      "sid": 1007,
+      "location": 2,
+      "content": "涨到二十五三十万呢",
+      "music": 0.0
+    },
+    {
+      "from": 2545.26,
+      "to": 2547.08,
+      "sid": 1008,
+      "location": 2,
+      "content": "最最核心的一个问题在于",
+      "music": 0.0
+    },
+    {
+      "from": 2547.08,
+      "to": 2550.71,
+      "sid": 1009,
+      "location": 2,
+      "content": "盐盐的库存什么时候能降到比较低的一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 2550.71,
+      "to": 2554.34,
+      "sid": 1010,
+      "location": 2,
+      "content": "确实就是呃大家开始买现货",
+      "music": 0.0
+    },
+    {
+      "from": 2554.34,
+      "to": 2556.04,
+      "sid": 1011,
+      "location": 2,
+      "content": "现货升水于期货",
+      "music": 0.0
+    },
+    {
+      "from": 2556.04,
+      "to": 2559.44,
+      "sid": 1012,
+      "location": 2,
+      "content": "我觉得这个是一个非常重要的一个信号",
+      "music": 0.0
+    },
+    {
+      "from": 2560.44,
+      "to": 2562.84,
+      "sid": 1013,
+      "location": 2,
+      "content": "嗯明白明白",
+      "music": 0.0
+    },
+    {
+      "from": 2565.16,
+      "to": 2566.8,
+      "sid": 1014,
+      "location": 2,
+      "content": "为助理妈妈呃",
+      "music": 0.0
+    },
+    {
+      "from": 2566.8,
+      "to": 2568.24,
+      "sid": 1015,
+      "location": 2,
+      "content": "看一下有没有投资者提问",
+      "music": 0.0
+    },
+    {
+      "from": 2569.4,
+      "to": 2570.19,
+      "sid": 1016,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 2570.19,
+      "to": 2572.89,
+      "sid": 1017,
+      "location": 2,
+      "content": "如需提问电话端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 2572.89,
+      "to": 2575.03,
+      "sid": 1018,
+      "location": 2,
+      "content": "请先按换机上的星号键",
+      "music": 0.0
+    },
+    {
+      "from": 2575.03,
+      "to": 2577.98,
+      "sid": 1019,
+      "location": 2,
+      "content": "再按数字一网络端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 2577.98,
+      "to": 2581.59,
+      "sid": 1020,
+      "location": 2,
+      "content": "您可以在直播间互动区域内文字提问",
+      "music": 0.0
+    },
+    {
+      "from": 2581.59,
+      "to": 2585.65,
+      "sid": 1021,
+      "location": 2,
+      "content": "或点击旁边的举手按钮申请语音提问",
+      "music": 0.0
+    },
+    {
+      "from": 2585.65,
+      "to": 2587.85,
+      "sid": 1022,
+      "location": 2,
+      "content": "谢谢大家好",
+      "music": 0.0
+    },
+    {
+      "from": 2587.85,
+      "to": 2590.57,
+      "sid": 1023,
+      "location": 2,
+      "content": "如需提问电话端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 2590.57,
+      "to": 2592.73,
+      "sid": 1024,
+      "location": 2,
+      "content": "请先按话机上的星号键",
+      "music": 0.0
+    },
+    {
+      "from": 2592.73,
+      "to": 2595.68,
+      "sid": 1025,
+      "location": 2,
+      "content": "再按数字一网络端的参会者",
+      "music": 0.0
+    },
+    {
+      "from": 2595.68,
+      "to": 2599.26,
+      "sid": 1026,
+      "location": 2,
+      "content": "您可以在直播间互动区域内文字提问",
+      "music": 0.0
+    },
+    {
+      "from": 2599.26,
+      "to": 2603.41,
+      "sid": 1027,
+      "location": 2,
+      "content": "或点击旁边的举手按钮申请语音提问",
+      "music": 0.0
+    },
+    {
+      "from": 2608.72,
+      "to": 2609.4,
+      "sid": 1028,
+      "location": 2,
+      "content": "你好",
+      "music": 0.0
+    },
+    {
+      "from": 2609.4,
+      "to": 2612.8,
+      "sid": 1029,
+      "location": 2,
+      "content": "那我就最后再问一个",
+      "music": 0.0
+    },
+    {
+      "from": 2612.8,
+      "to": 2616.04,
+      "sid": 1030,
+      "location": 2,
+      "content": "就是可能就是你怎么看那个上海有色网",
+      "music": 0.0
+    },
+    {
+      "from": 2616.04,
+      "to": 2620.47,
+      "sid": 1031,
+      "location": 2,
+      "content": "那个调整那个库存口径的那个呃这件事呀",
+      "music": 0.0
+    },
+    {
+      "from": 2622.36,
+      "to": 2624.52,
+      "sid": 1032,
+      "location": 2,
+      "content": "呃我觉得我觉得是这样",
+      "music": 0.0
+    },
+    {
+      "from": 2624.52,
+      "to": 2626.2,
+      "sid": 1033,
+      "location": 2,
+      "content": "就大概有两种情况",
+      "music": 0.0
+    },
+    {
+      "from": 2626.2,
+      "to": 2630.069,
+      "sid": 1034,
+      "location": 2,
+      "content": "一种情况是他们真的是每一家在调研",
+      "music": 0.0
+    },
+    {
+      "from": 2630.069,
+      "to": 2634.269,
+      "sid": 1035,
+      "location": 2,
+      "content": "然后调研到有一个以前不在样本之内的",
+      "music": 0.0
+    },
+    {
+      "from": 2634.269,
+      "to": 2635.129,
+      "sid": 1036,
+      "location": 2,
+      "content": "一个样本",
+      "music": 0.0
+    },
+    {
+      "from": 2635.129,
+      "to": 2636.91,
+      "sid": 1037,
+      "location": 2,
+      "content": "调整了两到3万吨",
+      "music": 0.0
+    },
+    {
+      "from": 2636.91,
+      "to": 2639.41,
+      "sid": 1038,
+      "location": 2,
+      "content": "那我觉得这个是这个是一种方式",
+      "music": 0.0
+    },
+    {
+      "from": 2639.41,
+      "to": 2642.89,
+      "sid": 1039,
+      "location": 2,
+      "content": "另一种方式呢可能是他们以前调研都比较模糊",
+      "music": 0.0
+    },
+    {
+      "from": 2642.89,
+      "to": 2646.22,
+      "sid": 1040,
+      "location": 2,
+      "content": "但是呢随着这个因为他们也有平衡表",
+      "music": 0.0
+    },
+    {
+      "from": 2646.22,
+      "to": 2647.7,
+      "sid": 1041,
+      "location": 2,
+      "content": "事故事故事故事故",
+      "music": 0.0
+    },
+    {
+      "from": 2647.7,
+      "to": 2648.3,
+      "sid": 1042,
+      "location": 2,
+      "content": "到最后呢",
+      "music": 0.0
+    },
+    {
+      "from": 2648.3,
+      "to": 2653.17,
+      "sid": 1043,
+      "location": 2,
+      "content": "会发现平衡表跟现有的库存跟实实实在在",
+      "music": 0.0
+    },
+    {
+      "from": 2653.17,
+      "to": 2653.85,
+      "sid": 1044,
+      "location": 2,
+      "content": "那个舱单",
+      "music": 0.0
+    },
+    {
+      "from": 2653.85,
+      "to": 2657.33,
+      "sid": 1045,
+      "location": 2,
+      "content": "也就是大家能看到出成已经对不上了",
+      "music": 0.0
+    },
+    {
+      "from": 2657.33,
+      "to": 2658.75,
+      "sid": 1046,
+      "location": 2,
+      "content": "那没办法就调整100哎",
+      "music": 0.0
+    },
+    {
+      "from": 2658.75,
+      "to": 2660.53,
+      "sid": 1047,
+      "location": 2,
+      "content": "这这两种可能性都有",
+      "music": 0.0
+    },
+    {
+      "from": 2660.53,
+      "to": 2664.9,
+      "sid": 1048,
+      "location": 2,
+      "content": "但是我是觉得额在调整这个库存方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 2664.9,
+      "to": 2669.36,
+      "sid": 1049,
+      "location": 2,
+      "content": "我觉得就是可能对于只看数字的投资者",
+      "music": 0.0
+    },
+    {
+      "from": 2669.36,
+      "to": 2670.64,
+      "sid": 1050,
+      "location": 2,
+      "content": "或交易额",
+      "music": 0.0
+    },
+    {
+      "from": 2670.64,
+      "to": 2672.54,
+      "sid": 1051,
+      "location": 2,
+      "content": "交易员可能影响会更大",
+      "music": 0.0
+    },
+    {
+      "from": 2672.54,
+      "to": 2673.6,
+      "sid": 1052,
+      "location": 2,
+      "content": "因为他会觉得怎么难",
+      "music": 0.0
+    },
+    {
+      "from": 2673.6,
+      "to": 2675.0,
+      "sid": 1053,
+      "location": 2,
+      "content": "以下是怎么",
+      "music": 0.0
+    },
+    {
+      "from": 2675.0,
+      "to": 2676.36,
+      "sid": 1054,
+      "location": 2,
+      "content": "就是本来说好",
+      "music": 0.0
+    },
+    {
+      "from": 2676.36,
+      "to": 2679.24,
+      "sid": 1055,
+      "location": 2,
+      "content": "是这个这个古城怎么像多伦诺物古城",
+      "music": 0.0
+    },
+    {
+      "from": 2679.24,
+      "to": 2682.85,
+      "sid": 1056,
+      "location": 2,
+      "content": "他们在可能在期限结构的些虐差超级上",
+      "music": 0.0
+    },
+    {
+      "from": 2682.85,
+      "to": 2685.31,
+      "sid": 1057,
+      "location": 2,
+      "content": "可能有一些策略就会发生改变",
+      "music": 0.0
+    },
+    {
+      "from": 2685.31,
+      "to": 2688.51,
+      "sid": 1058,
+      "location": 2,
+      "content": "但是如果是作为这个呃本身",
+      "music": 0.0
+    },
+    {
+      "from": 2688.51,
+      "to": 2690.45,
+      "sid": 1059,
+      "location": 2,
+      "content": "深度参与到这个市场里边的",
+      "music": 0.0
+    },
+    {
+      "from": 2690.45,
+      "to": 2692.76,
+      "sid": 1060,
+      "location": 2,
+      "content": "一些呃期货研究员啊",
+      "music": 0.0
+    },
+    {
+      "from": 2692.76,
+      "to": 2695.46,
+      "sid": 1061,
+      "location": 2,
+      "content": "或者说呃产业的一些人啊",
+      "music": 0.0
+    },
+    {
+      "from": 2695.46,
+      "to": 2699.31,
+      "sid": 1062,
+      "location": 2,
+      "content": "他可能也也只是比较清楚这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2699.31,
+      "to": 2701.57,
+      "sid": 1063,
+      "location": 2,
+      "content": "这个这个整体的一个市场的情况",
+      "music": 0.0
+    },
+    {
+      "from": 2701.57,
+      "to": 2704.43,
+      "sid": 1064,
+      "location": 2,
+      "content": "但是呢我觉得确实这个事情出来以后",
+      "music": 0.0
+    },
+    {
+      "from": 2704.43,
+      "to": 2706.91,
+      "sid": 1065,
+      "location": 2,
+      "content": "他改变了市场的一些预期",
+      "music": 0.0
+    },
+    {
+      "from": 2706.91,
+      "to": 2709.07,
+      "sid": 1066,
+      "location": 2,
+      "content": "或者说改变了一些资金的一些想法",
+      "music": 0.0
+    },
+    {
+      "from": 2709.07,
+      "to": 2713.05,
+      "sid": 1067,
+      "location": 2,
+      "content": "而这个是他这个数据调整整个这个口径呢",
+      "music": 0.0
+    },
+    {
+      "from": 2713.05,
+      "to": 2714.96,
+      "sid": 1068,
+      "location": 2,
+      "content": "对市场带来的影响",
+      "music": 0.0
+    },
+    {
+      "from": 2714.96,
+      "to": 2717.02,
+      "sid": 1069,
+      "location": 2,
+      "content": "对明白",
+      "music": 0.0
+    },
+    {
+      "from": 2717.02,
+      "to": 2721.18,
+      "sid": 1070,
+      "location": 2,
+      "content": "但那您这边就是呃年连这个库存的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2721.18,
+      "to": 2723.86,
+      "sid": 1071,
+      "location": 2,
+      "content": "您这边的一个数路大概是多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 2723.86,
+      "to": 2727.23,
+      "sid": 1072,
+      "location": 2,
+      "content": "就包括护盾结构这些呃",
+      "music": 0.0
+    },
+    {
+      "from": 2727.23,
+      "to": 2728.19,
+      "sid": 1073,
+      "location": 2,
+      "content": "我我给你讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 2728.19,
+      "to": 2728.71,
+      "sid": 1074,
+      "location": 2,
+      "content": "我给你讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 2728.71,
+      "to": 2729.33,
+      "sid": 1075,
+      "location": 2,
+      "content": "我人脉",
+      "music": 0.0
+    },
+    {
+      "from": 2729.33,
+      "to": 2730.87,
+      "sid": 1076,
+      "location": 2,
+      "content": "就是我跟你说讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 2730.87,
+      "to": 2733.75,
+      "sid": 1077,
+      "location": 2,
+      "content": "我觉得就是整体的情况",
+      "music": 0.0
+    },
+    {
+      "from": 2733.75,
+      "to": 2737.53,
+      "sid": 1078,
+      "location": 2,
+      "content": "下游呢下一个阶段是十天",
+      "music": 0.0
+    },
+    {
+      "from": 2737.53,
+      "to": 2740.17,
+      "sid": 1079,
+      "location": 2,
+      "content": "就材料厂是十天左右呃",
+      "music": 0.0
+    },
+    {
+      "from": 2740.17,
+      "to": 2743.779,
+      "sid": 1080,
+      "location": 2,
+      "content": "然后呢这个电芯厂呢是呃两到三周",
+      "music": 0.0
+    },
+    {
+      "from": 2743.779,
+      "to": 2745.999,
+      "sid": 1081,
+      "location": 2,
+      "content": "所以这一块库存加到一块呢",
+      "music": 0.0
+    },
+    {
+      "from": 2745.999,
+      "to": 2749.059,
+      "sid": 1082,
+      "location": 2,
+      "content": "实际上都有差不多78万吨的量",
+      "music": 0.0
+    },
+    {
+      "from": 2749.059,
+      "to": 2751.18,
+      "sid": 1083,
+      "location": 2,
+      "content": "那就是就是下流段子",
+      "music": 0.0
+    },
+    {
+      "from": 2751.18,
+      "to": 2752.9,
+      "sid": 1084,
+      "location": 2,
+      "content": "然后呢社会库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 2752.9,
+      "to": 2756.44,
+      "sid": 1085,
+      "location": 2,
+      "content": "呃就是要要要要要分成两部分",
+      "music": 0.0
+    },
+    {
+      "from": 2756.44,
+      "to": 2759.34,
+      "sid": 1086,
+      "location": 2,
+      "content": "一部分呢是这个这个企业商",
+      "music": 0.0
+    },
+    {
+      "from": 2759.34,
+      "to": 2760.9,
+      "sid": 1087,
+      "location": 2,
+      "content": "贸易商户是来拿着的",
+      "music": 0.0
+    },
+    {
+      "from": 2760.9,
+      "to": 2763.84,
+      "sid": 1088,
+      "location": 2,
+      "content": "那另一部分呢就是就是潜在的",
+      "music": 0.0
+    },
+    {
+      "from": 2763.84,
+      "to": 2766.81,
+      "sid": 1089,
+      "location": 2,
+      "content": "我们看到有些人可能还锁着的一些货",
+      "music": 0.0
+    },
+    {
+      "from": 2766.81,
+      "to": 2770.69,
+      "sid": 1090,
+      "location": 2,
+      "content": "那那现在呢我们按照我们试电商42家",
+      "music": 0.0
+    },
+    {
+      "from": 2770.69,
+      "to": 2774.529,
+      "sid": 1091,
+      "location": 2,
+      "content": "试电商统计下来口径的额是4万吨的量",
+      "music": 0.0
+    },
+    {
+      "from": 2774.529,
+      "to": 2775.209,
+      "sid": 1092,
+      "location": 2,
+      "content": "但是呢",
+      "music": 0.0
+    },
+    {
+      "from": 2775.209,
+      "to": 2777.829,
+      "sid": 1093,
+      "location": 2,
+      "content": "我相信这个应该不是一个完全的一个库存",
+      "music": 0.0
+    },
+    {
+      "from": 2777.829,
+      "to": 2778.729,
+      "sid": 1094,
+      "location": 2,
+      "content": "库存的",
+      "music": 0.0
+    },
+    {
+      "from": 2778.729,
+      "to": 2782.31,
+      "sid": 1095,
+      "location": 2,
+      "content": "如果把那些就是传统的那些呃",
+      "music": 0.0
+    },
+    {
+      "from": 2782.31,
+      "to": 2783.43,
+      "sid": 1096,
+      "location": 2,
+      "content": "就是年纪比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 2783.43,
+      "to": 2784.71,
+      "sid": 1097,
+      "location": 2,
+      "content": "也没有怎么弄期货",
+      "music": 0.0
+    },
+    {
+      "from": 2784.71,
+      "to": 2788.81,
+      "sid": 1098,
+      "location": 2,
+      "content": "这些人我们现在混在一块应该有个7万吨左右",
+      "music": 0.0
+    },
+    {
+      "from": 2788.81,
+      "to": 2792.67,
+      "sid": 1099,
+      "location": 2,
+      "content": "然后呢冶炼厂这边呢还有差不多3万多",
+      "music": 0.0
+    },
+    {
+      "from": 2792.67,
+      "to": 2795.55,
+      "sid": 1100,
+      "location": 2,
+      "content": "所以所以加在一块呢就是征集的库存呢",
+      "music": 0.0
+    },
+    {
+      "from": 2795.55,
+      "to": 2797.48,
+      "sid": 1101,
+      "location": 2,
+      "content": "我的一个理解",
+      "music": 0.0
+    },
+    {
+      "from": 2797.48,
+      "to": 2800.12,
+      "sid": 1102,
+      "location": 2,
+      "content": "和我们这边调研的一些调研的口径",
+      "music": 0.0
+    },
+    {
+      "from": 2800.12,
+      "to": 2802.13,
+      "sid": 1103,
+      "location": 2,
+      "content": "肯定会比全部的库存要少",
+      "music": 0.0
+    },
+    {
+      "from": 2802.13,
+      "to": 2805.01,
+      "sid": 1104,
+      "location": 2,
+      "content": "然后呢呃如果按照我们这样的口径",
+      "music": 0.0
+    },
+    {
+      "from": 2805.01,
+      "to": 2807.25,
+      "sid": 1105,
+      "location": 2,
+      "content": "肯定是7万+100000加3万",
+      "music": 0.0
+    },
+    {
+      "from": 2807.25,
+      "to": 2811.95,
+      "sid": 1106,
+      "location": 2,
+      "content": "但是差不多是这个4万的一个库存量",
+      "music": 0.0
+    },
+    {
+      "from": 2811.95,
+      "to": 2814.97,
+      "sid": 1107,
+      "location": 2,
+      "content": "那如果再把这些可能潜在我们",
+      "music": 0.0
+    },
+    {
+      "from": 2814.97,
+      "to": 2816.79,
+      "sid": 1108,
+      "location": 2,
+      "content": "因为我们知道一些一些的",
+      "music": 0.0
+    },
+    {
+      "from": 2816.79,
+      "to": 2819.84,
+      "sid": 1109,
+      "location": 2,
+      "content": "比如说有些人的他这个难度也过来说",
+      "music": 0.0
+    },
+    {
+      "from": 2819.84,
+      "to": 2822.1,
+      "sid": 1110,
+      "location": 2,
+      "content": "是不太不太对市场论的",
+      "music": 0.0
+    },
+    {
+      "from": 2822.1,
+      "to": 2825.13,
+      "sid": 1111,
+      "location": 2,
+      "content": "所以把这些或者站在一块",
+      "music": 0.0
+    },
+    {
+      "from": 2825.13,
+      "to": 2828.29,
+      "sid": 1112,
+      "location": 2,
+      "content": "那估计呢可能会有一个十五十的那种",
+      "music": 0.0
+    },
+    {
+      "from": 2828.29,
+      "to": 2831.54,
+      "sid": 1113,
+      "location": 2,
+      "content": "对诶好呀好呀",
+      "music": 0.0
+    },
+    {
+      "from": 2831.54,
+      "to": 2833.65,
+      "sid": 1114,
+      "location": 2,
+      "content": "明白呃",
+      "music": 0.0
+    },
+    {
+      "from": 2833.65,
+      "to": 2836.39,
+      "sid": 1115,
+      "location": 2,
+      "content": "那非常感谢这个这个专家的一个分享",
+      "music": 0.0
+    },
+    {
+      "from": 2836.39,
+      "to": 2838.33,
+      "sid": 1116,
+      "location": 2,
+      "content": "分享的非常的清楚",
+      "music": 0.0
+    },
+    {
+      "from": 2838.33,
+      "to": 2842.385,
+      "sid": 1117,
+      "location": 2,
+      "content": "那我们今天的一个这个交流就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 2843.04,
+      "to": 2844.72,
+      "sid": 1118,
+      "location": 2,
+      "content": "好的好的",
+      "music": 0.0
+    },
+    {
+      "from": 2845.8,
+      "to": 2846.84,
+      "sid": 1119,
+      "location": 2,
+      "content": "谢谢各位",
+      "music": 0.0
+    },
+    {
+      "from": 2846.84,
+      "to": 2847.88,
+      "sid": 1120,
+      "location": 2,
+      "content": "感谢专家",
+      "music": 0.0
+    },
+    {
+      "from": 2847.88,
+      "to": 2850.1,
+      "sid": 1121,
+      "location": 2,
+      "content": "请各位投资一下听听",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1580 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 0.68,
+      "sid": 1,
+      "location": 2,
+      "content": "朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 0.68,
+      "to": 3.84,
+      "sid": 2,
+      "location": 2,
+      "content": "2026年的小阳春怕是悄悄溜号了",
+      "music": 0.0
+    },
+    {
+      "from": 3.84,
+      "to": 4.94,
+      "sid": 3,
+      "location": 2,
+      "content": "你看这数据",
+      "music": 0.0
+    },
+    {
+      "from": 4.94,
+      "to": 7.22,
+      "sid": 4,
+      "location": 2,
+      "content": "4月全国商品房销售面积",
+      "music": 0.0
+    },
+    {
+      "from": 7.22,
+      "to": 9.08,
+      "sid": 5,
+      "location": 2,
+      "content": "同比下滑了9.5%",
+      "music": 0.0
+    },
+    {
+      "from": 9.08,
+      "to": 10.72,
+      "sid": 6,
+      "location": 2,
+      "content": "这负增长不仅没收窄",
+      "music": 0.0
+    },
+    {
+      "from": 10.72,
+      "to": 11.9,
+      "sid": 7,
+      "location": 2,
+      "content": "反而还扩大了",
+      "music": 0.0
+    },
+    {
+      "from": 11.9,
+      "to": 13.48,
+      "sid": 8,
+      "location": 2,
+      "content": "这可不是什么好信号",
+      "music": 0.0
+    },
+    {
+      "from": 13.48,
+      "to": 13.96,
+      "sid": 9,
+      "location": 2,
+      "content": "不",
+      "music": 0.0
+    },
+    {
+      "from": 13.96,
+      "to": 15.54,
+      "sid": 10,
+      "location": 2,
+      "content": "这怎么还越跌越多了",
+      "music": 0.0
+    },
+    {
+      "from": 15.54,
+      "to": 16.98,
+      "sid": 11,
+      "location": 2,
+      "content": "更反常识的是",
+      "music": 0.0
+    },
+    {
+      "from": 16.98,
+      "to": 20.53,
+      "sid": 12,
+      "location": 2,
+      "content": "虽然4月新房单价同比涨了2.1%",
+      "music": 0.0
+    },
+    {
+      "from": 20.53,
+      "to": 21.45,
+      "sid": 13,
+      "location": 2,
+      "content": "但注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 21.45,
+      "to": 22.69,
+      "sid": 14,
+      "location": 2,
+      "content": "这个2.1%",
+      "music": 0.0
+    },
+    {
+      "from": 22.69,
+      "to": 25.97,
+      "sid": 15,
+      "location": 2,
+      "content": "是全国商品房销售单价的同比涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 25.97,
+      "to": 28.06,
+      "sid": 16,
+      "location": 2,
+      "content": "并非70城房价指数",
+      "music": 0.0
+    },
+    {
+      "from": 28.06,
+      "to": 30.18,
+      "sid": 17,
+      "location": 2,
+      "content": "后者4月环比仍是下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 30.18,
+      "to": 32.769,
+      "sid": 18,
+      "location": 2,
+      "content": "合着是被平均啦对喽",
+      "music": 0.0
+    },
+    {
+      "from": 32.769,
+      "to": 35.369,
+      "sid": 19,
+      "location": 2,
+      "content": "二手房挂牌量高起",
+      "music": 0.0
+    },
+    {
+      "from": 35.369,
+      "to": 37.269,
+      "sid": 20,
+      "location": 2,
+      "content": "租金连续下行",
+      "music": 0.0
+    },
+    {
+      "from": 37.269,
+      "to": 40.739,
+      "sid": 21,
+      "location": 2,
+      "content": "所谓的企稳可能只是局部幻觉",
+      "music": 0.0
+    },
+    {
+      "from": 40.739,
+      "to": 42.399,
+      "sid": 22,
+      "location": 2,
+      "content": "今天咱们就来拆解",
+      "music": 0.0
+    },
+    {
+      "from": 42.399,
+      "to": 45.019,
+      "sid": 23,
+      "location": 2,
+      "content": "招商证券对2026年1月到4月",
+      "music": 0.0
+    },
+    {
+      "from": 45.019,
+      "to": 47.159,
+      "sid": 24,
+      "location": 2,
+      "content": "房地产行业的深度复盘",
+      "music": 0.0
+    },
+    {
+      "from": 47.159,
+      "to": 48.84,
+      "sid": 25,
+      "location": 2,
+      "content": "这研报都说了啥",
+      "music": 0.0
+    },
+    {
+      "from": 48.84,
+      "to": 53.38,
+      "sid": 26,
+      "location": 2,
+      "content": "这份研报覆盖销售开工投资资金链",
+      "music": 0.0
+    },
+    {
+      "from": 53.38,
+      "to": 54.99,
+      "sid": 27,
+      "location": 2,
+      "content": "房价五大维度",
+      "music": 0.0
+    },
+    {
+      "from": 54.99,
+      "to": 56.43,
+      "sid": 28,
+      "location": 2,
+      "content": "核心结论很明确",
+      "music": 0.0
+    },
+    {
+      "from": 56.43,
+      "to": 59.79,
+      "sid": 29,
+      "location": 2,
+      "content": "行业还没走出底部系统性反弹南线",
+      "music": 0.0
+    },
+    {
+      "from": 59.79,
+      "to": 62.95,
+      "sid": 30,
+      "location": 2,
+      "content": "但结构性机会正在浮现啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.95,
+      "to": 64.77,
+      "sid": 31,
+      "location": 2,
+      "content": "这意思是大锅饭没了",
+      "music": 0.0
+    },
+    {
+      "from": 64.77,
+      "to": 66.31,
+      "sid": 32,
+      "location": 2,
+      "content": "得开小灶没错",
+      "music": 0.0
+    },
+    {
+      "from": 66.31,
+      "to": 67.83,
+      "sid": 33,
+      "location": 2,
+      "content": "尤其值得注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 67.83,
+      "to": 71.449,
+      "sid": 34,
+      "location": 2,
+      "content": "投资逻辑正从跟着行业一起涨的贝塔行情",
+      "music": 0.0
+    },
+    {
+      "from": 71.449,
+      "to": 74.829,
+      "sid": 35,
+      "location": 2,
+      "content": "转向挑好公司单打独斗的alpha时代",
+      "music": 0.0
+    },
+    {
+      "from": 74.829,
+      "to": 76.45,
+      "sid": 36,
+      "location": 2,
+      "content": "这得挑花眼了吧",
+      "music": 0.0
+    },
+    {
+      "from": 76.45,
+      "to": 77.87,
+      "sid": 37,
+      "location": 2,
+      "content": "先看销售端",
+      "music": 0.0
+    },
+    {
+      "from": 77.87,
+      "to": 80.95,
+      "sid": 38,
+      "location": 2,
+      "content": "4月销售面积同比跌了9.5%",
+      "music": 0.0
+    },
+    {
+      "from": 80.95,
+      "to": 82.34,
+      "sid": 39,
+      "location": 2,
+      "content": "比3月还差",
+      "music": 0.0
+    },
+    {
+      "from": 82.34,
+      "to": 85.4,
+      "sid": 40,
+      "location": 2,
+      "content": "说明春节后那波需求释放基本见顶了",
+      "music": 0.0
+    },
+    {
+      "from": 85.4,
+      "to": 86.42,
+      "sid": 41,
+      "location": 2,
+      "content": "后劲不足啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.42,
+      "to": 87.46,
+      "sid": 42,
+      "location": 2,
+      "content": "更扎心的是",
+      "music": 0.0
+    },
+    {
+      "from": 87.46,
+      "to": 91.039,
+      "sid": 43,
+      "location": 2,
+      "content": "5月前21天销量同比降到负4%",
+      "music": 0.0
+    },
+    {
+      "from": 91.039,
+      "to": 94.35,
+      "sid": 44,
+      "location": 2,
+      "content": "相比4月那个微弱的正增长或者企稳态势",
+      "music": 0.0
+    },
+    {
+      "from": 94.35,
+      "to": 95.67,
+      "sid": 45,
+      "location": 2,
+      "content": "已经明显转富了",
+      "music": 0.0
+    },
+    {
+      "from": 95.67,
+      "to": 97.03,
+      "sid": 46,
+      "location": 2,
+      "content": "这怎么还越卖越少了",
+      "music": 0.0
+    },
+    {
+      "from": 97.03,
+      "to": 98.25,
+      "sid": 47,
+      "location": 2,
+      "content": "商品住宅卖不动",
+      "music": 0.0
+    },
+    {
+      "from": 98.25,
+      "to": 99.54,
+      "sid": 48,
+      "location": 2,
+      "content": "商业用房更惨",
+      "music": 0.0
+    },
+    {
+      "from": 99.54,
+      "to": 102.64,
+      "sid": 49,
+      "location": 2,
+      "content": "4月单月销售面积暴跌25.4%",
+      "music": 0.0
+    },
+    {
+      "from": 102.64,
+      "to": 104.59,
+      "sid": 50,
+      "location": 2,
+      "content": "好家伙跌去1/4",
+      "music": 0.0
+    },
+    {
+      "from": 104.59,
+      "to": 105.39,
+      "sid": 51,
+      "location": 2,
+      "content": "为啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 105.39,
+      "to": 107.27,
+      "sid": 52,
+      "location": 2,
+      "content": "因为二手房库存太高",
+      "music": 0.0
+    },
+    {
+      "from": 107.27,
+      "to": 108.61,
+      "sid": 53,
+      "location": 2,
+      "content": "没消化完之前",
+      "music": 0.0
+    },
+    {
+      "from": 108.61,
+      "to": 110.65,
+      "sid": 54,
+      "location": 2,
+      "content": "新房很难真正回暖",
+      "music": 0.0
+    },
+    {
+      "from": 110.65,
+      "to": 113.87,
+      "sid": 55,
+      "location": 2,
+      "content": "这就像你家楼下奶茶店天天打折清库存",
+      "music": 0.0
+    },
+    {
+      "from": 113.87,
+      "to": 117.05,
+      "sid": 56,
+      "location": 2,
+      "content": "隔壁新开的店再香也没人敢轻易下单",
+      "music": 0.0
+    },
+    {
+      "from": 117.05,
+      "to": 118.05,
+      "sid": 57,
+      "location": 2,
+      "content": "这比喻形象",
+      "music": 0.0
+    },
+    {
+      "from": 118.05,
+      "to": 119.789,
+      "sid": 58,
+      "location": 2,
+      "content": "谁不想捡个便宜呢",
+      "music": 0.0
+    },
+    {
+      "from": 119.789,
+      "to": 121.029,
+      "sid": 59,
+      "location": 2,
+      "content": "再看供给端",
+      "music": 0.0
+    },
+    {
+      "from": 121.029,
+      "to": 123.16,
+      "sid": 60,
+      "location": 2,
+      "content": "新开工简直在躺平",
+      "music": 0.0
+    },
+    {
+      "from": 123.16,
+      "to": 126.66,
+      "sid": 61,
+      "location": 2,
+      "content": "4月新开工面积同比大跌26.6%",
+      "music": 0.0
+    },
+    {
+      "from": 126.66,
+      "to": 127.8,
+      "sid": 62,
+      "location": 2,
+      "content": "创近期新低",
+      "music": 0.0
+    },
+    {
+      "from": 127.8,
+      "to": 128.94,
+      "sid": 63,
+      "location": 2,
+      "content": "躺得这么平",
+      "music": 0.0
+    },
+    {
+      "from": 128.94,
+      "to": 133.08,
+      "sid": 64,
+      "location": 2,
+      "content": "这其实是滞后反映了去年底土地成交的疲软",
+      "music": 0.0
+    },
+    {
+      "from": 133.08,
+      "to": 134.92,
+      "sid": 65,
+      "location": 2,
+      "content": "房企连地都不怎么拿了",
+      "music": 0.0
+    },
+    {
+      "from": 134.92,
+      "to": 135.92,
+      "sid": 66,
+      "location": 2,
+      "content": "哪还敢开工",
+      "music": 0.0
+    },
+    {
+      "from": 135.92,
+      "to": 137.16,
+      "sid": 67,
+      "location": 2,
+      "content": "是没面粉",
+      "music": 0.0
+    },
+    {
+      "from": 137.16,
+      "to": 137.8,
+      "sid": 68,
+      "location": 2,
+      "content": "哪来馒头",
+      "music": 0.0
+    },
+    {
+      "from": 137.8,
+      "to": 139.48,
+      "sid": 69,
+      "location": 2,
+      "content": "竣工也好不到哪去",
+      "music": 0.0
+    },
+    {
+      "from": 139.48,
+      "to": 141.54,
+      "sid": 70,
+      "location": 2,
+      "content": "4月同比跌了19%",
+      "music": 0.0
+    },
+    {
+      "from": 141.54,
+      "to": 143.68,
+      "sid": 71,
+      "location": 2,
+      "content": "全年大概率在底部震荡",
+      "music": 0.0
+    },
+    {
+      "from": 143.68,
+      "to": 144.91,
+      "sid": 72,
+      "location": 2,
+      "content": "有意思的是",
+      "music": 0.0
+    },
+    {
+      "from": 144.91,
+      "to": 147.01,
+      "sid": 73,
+      "location": 2,
+      "content": "现在开工未售的房子",
+      "music": 0.0
+    },
+    {
+      "from": 147.01,
+      "to": 149.39,
+      "sid": 74,
+      "location": 2,
+      "content": "要卖24.7个月才能清完",
+      "music": 0.0
+    },
+    {
+      "from": 149.39,
+      "to": 150.55,
+      "sid": 75,
+      "location": 2,
+      "content": "24.7个月",
+      "music": 0.0
+    },
+    {
+      "from": 150.55,
+      "to": 152.07,
+      "sid": 76,
+      "location": 2,
+      "content": "相当于两年都卖不完",
+      "music": 0.0
+    },
+    {
+      "from": 152.07,
+      "to": 155.19,
+      "sid": 77,
+      "location": 2,
+      "content": "你说开发商还有动力猛干嘛换我也得歇着",
+      "music": 0.0
+    },
+    {
+      "from": 155.19,
+      "to": 157.13,
+      "sid": 78,
+      "location": 2,
+      "content": "资金链更是紧绷",
+      "music": 0.0
+    },
+    {
+      "from": 157.13,
+      "to": 160.99,
+      "sid": 79,
+      "location": 2,
+      "content": "4月房企到位资金同比下滑21.9%",
+      "music": 0.0
+    },
+    {
+      "from": 160.99,
+      "to": 163.45,
+      "sid": 80,
+      "location": 2,
+      "content": "资金链指数仅为108%",
+      "music": 0.0
+    },
+    {
+      "from": 163.45,
+      "to": 164.85,
+      "sid": 81,
+      "location": 2,
+      "content": "处于历史低位",
+      "music": 0.0
+    },
+    {
+      "from": 164.85,
+      "to": 166.79,
+      "sid": 82,
+      "location": 2,
+      "content": "这108%是个啥概念",
+      "music": 0.0
+    },
+    {
+      "from": 166.79,
+      "to": 168.13,
+      "sid": 83,
+      "location": 2,
+      "content": "显著低于行业",
+      "music": 0.0
+    },
+    {
+      "from": 168.13,
+      "to": 171.339,
+      "sid": 84,
+      "location": 2,
+      "content": "通常认为相对稳健的130%水平",
+      "music": 0.0
+    },
+    {
+      "from": 171.339,
+      "to": 172.959,
+      "sid": 85,
+      "location": 2,
+      "content": "啥叫资金链指数",
+      "music": 0.0
+    },
+    {
+      "from": 172.959,
+      "to": 175.539,
+      "sid": 86,
+      "location": 2,
+      "content": "简单说就是当月进的钱够不够",
+      "music": 0.0
+    },
+    {
+      "from": 175.539,
+      "to": 176.979,
+      "sid": 87,
+      "location": 2,
+      "content": "覆盖当月花的投资",
+      "music": 0.0
+    },
+    {
+      "from": 176.979,
+      "to": 178.18,
+      "sid": 88,
+      "location": 2,
+      "content": "也就是钱不够花",
+      "music": 0.0
+    },
+    {
+      "from": 178.18,
+      "to": 179.44,
+      "sid": 89,
+      "location": 2,
+      "content": "现在明显不够",
+      "music": 0.0
+    },
+    {
+      "from": 179.44,
+      "to": 181.8,
+      "sid": 90,
+      "location": 2,
+      "content": "还得靠老本或借钱撑着",
+      "music": 0.0
+    },
+    {
+      "from": 181.8,
+      "to": 183.33,
+      "sid": 91,
+      "location": 2,
+      "content": "结构上更分化",
+      "music": 0.0
+    },
+    {
+      "from": 183.33,
+      "to": 185.51,
+      "sid": 92,
+      "location": 2,
+      "content": "国内贷款稍微缓了口气",
+      "music": 0.0
+    },
+    {
+      "from": 185.51,
+      "to": 188.77,
+      "sid": 93,
+      "location": 2,
+      "content": "但自筹资金同比恶化超20一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 188.77,
+      "to": 191.32,
+      "sid": 94,
+      "location": 2,
+      "content": "说明房企自己造血能力越来越弱",
+      "music": 0.0
+    },
+    {
+      "from": 191.32,
+      "to": 192.88,
+      "sid": 95,
+      "location": 2,
+      "content": "内功快练不下去了",
+      "music": 0.0
+    },
+    {
+      "from": 192.88,
+      "to": 195.04,
+      "sid": 96,
+      "location": 2,
+      "content": "这可真是巧妇难为无米之炊",
+      "music": 0.0
+    },
+    {
+      "from": 195.04,
+      "to": 198.73,
+      "sid": 97,
+      "location": 2,
+      "content": "房价方面只有北上广深还在微涨",
+      "music": 0.0
+    },
+    {
+      "from": 198.73,
+      "to": 202.61,
+      "sid": 98,
+      "location": 2,
+      "content": "4月1线城市新房环比涨0.1%",
+      "music": 0.0
+    },
+    {
+      "from": 202.61,
+      "to": 204.6,
+      "sid": 99,
+      "location": 2,
+      "content": "二手房涨0.4%",
+      "music": 0.0
+    },
+    {
+      "from": 204.6,
+      "to": 206.86,
+      "sid": 100,
+      "location": 2,
+      "content": "但二线三线全线下跌",
+      "music": 0.0
+    },
+    {
+      "from": 206.86,
+      "to": 208.04,
+      "sid": 101,
+      "location": 2,
+      "content": "分化严重啊",
+      "music": 0.0
+    },
+    {
+      "from": 208.04,
+      "to": 209.26,
+      "sid": 102,
+      "location": 2,
+      "content": "更关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 209.26,
+      "to": 210.58,
+      "sid": 103,
+      "location": 2,
+      "content": "房租也在跌",
+      "music": 0.0
+    },
+    {
+      "from": 210.58,
+      "to": 212.67,
+      "sid": 104,
+      "location": 2,
+      "content": "同比降了0.6%",
+      "music": 0.0
+    },
+    {
+      "from": 212.67,
+      "to": 215.56,
+      "sid": 105,
+      "location": 2,
+      "content": "这意味着房子的收租回报越来越薄",
+      "music": 0.0
+    },
+    {
+      "from": 215.56,
+      "to": 217.46,
+      "sid": 106,
+      "location": 2,
+      "content": "而房贷利率又没怎么降",
+      "music": 0.0
+    },
+    {
+      "from": 217.46,
+      "to": 219.4,
+      "sid": 107,
+      "location": 2,
+      "content": "买房的吸引力自然打折扣",
+      "music": 0.0
+    },
+    {
+      "from": 219.4,
+      "to": 222.48,
+      "sid": 108,
+      "location": 2,
+      "content": "谁愿意拿这个跌价的资产还还着高利息呢",
+      "music": 0.0
+    },
+    {
+      "from": 222.48,
+      "to": 226.87,
+      "sid": 109,
+      "location": 2,
+      "content": "资产配置的天平正悄悄从房产往别处倾斜",
+      "music": 0.0
+    },
+    {
+      "from": 226.87,
+      "to": 228.29,
+      "sid": 110,
+      "location": 2,
+      "content": "正因为这些变化",
+      "music": 0.0
+    },
+    {
+      "from": 228.29,
+      "to": 230.73,
+      "sid": 111,
+      "location": 2,
+      "content": "整个行业的投资逻辑彻底变了",
+      "music": 0.0
+    },
+    {
+      "from": 230.73,
+      "to": 231.59,
+      "sid": 112,
+      "location": 2,
+      "content": "怎么个变法",
+      "music": 0.0
+    },
+    {
+      "from": 231.59,
+      "to": 233.27,
+      "sid": 113,
+      "location": 2,
+      "content": "过去是高杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 233.27,
+      "to": 234.09,
+      "sid": 114,
+      "location": 2,
+      "content": "高周转",
+      "music": 0.0
+    },
+    {
+      "from": 234.09,
+      "to": 235.23,
+      "sid": 115,
+      "location": 2,
+      "content": "谁胆子大",
+      "music": 0.0
+    },
+    {
+      "from": 235.23,
+      "to": 235.89,
+      "sid": 116,
+      "location": 2,
+      "content": "谁赢",
+      "music": 0.0
+    },
+    {
+      "from": 235.89,
+      "to": 238.04,
+      "sid": 117,
+      "location": 2,
+      "content": "现在是现金流为王",
+      "music": 0.0
+    },
+    {
+      "from": 238.04,
+      "to": 238.98,
+      "sid": 118,
+      "location": 2,
+      "content": "谁活得久",
+      "music": 0.0
+    },
+    {
+      "from": 238.98,
+      "to": 239.84,
+      "sid": 119,
+      "location": 2,
+      "content": "谁笑到最后",
+      "music": 0.0
+    },
+    {
+      "from": 239.84,
+      "to": 240.82,
+      "sid": 120,
+      "location": 2,
+      "content": "胜者为王嘛",
+      "music": 0.0
+    },
+    {
+      "from": 240.82,
+      "to": 242.04,
+      "sid": 121,
+      "location": 2,
+      "content": "招商证券指出",
+      "music": 0.0
+    },
+    {
+      "from": 242.04,
+      "to": 245.18,
+      "sid": 122,
+      "location": 2,
+      "content": "行业净负债率自2018年后持续下行",
+      "music": 0.0
+    },
+    {
+      "from": 245.18,
+      "to": 247.04,
+      "sid": 123,
+      "location": 2,
+      "content": "高杠杆时代一去不返",
+      "music": 0.0
+    },
+    {
+      "from": 247.04,
+      "to": 249.72,
+      "sid": 124,
+      "location": 2,
+      "content": "所以现在选股得看谁财务稳",
+      "music": 0.0
+    },
+    {
+      "from": 249.72,
+      "to": 250.92,
+      "sid": 125,
+      "location": 2,
+      "content": "聚焦一线强",
+      "music": 0.0
+    },
+    {
+      "from": 250.92,
+      "to": 252.3,
+      "sid": 126,
+      "location": 2,
+      "content": "二线交付能力强",
+      "music": 0.0
+    },
+    {
+      "from": 252.3,
+      "to": 253.94,
+      "sid": 127,
+      "location": 2,
+      "content": "那具体有啥标的没",
+      "music": 0.0
+    },
+    {
+      "from": 253.94,
+      "to": 255.96,
+      "sid": 128,
+      "location": 2,
+      "content": "招商建议分三类看",
+      "music": 0.0
+    },
+    {
+      "from": 255.96,
+      "to": 257.82,
+      "sid": 129,
+      "location": 2,
+      "content": "一是长期配置性",
+      "music": 0.0
+    },
+    {
+      "from": 257.82,
+      "to": 259.14,
+      "sid": 130,
+      "location": 2,
+      "content": "比如华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 259.14,
+      "to": 260.48,
+      "sid": 131,
+      "location": 2,
+      "content": "华润万象生活",
+      "music": 0.0
+    },
+    {
+      "from": 260.48,
+      "to": 261.38,
+      "sid": 132,
+      "location": 2,
+      "content": "股息高",
+      "music": 0.0
+    },
+    {
+      "from": 261.38,
+      "to": 262.1,
+      "sid": 133,
+      "location": 2,
+      "content": "业绩稳",
+      "music": 0.0
+    },
+    {
+      "from": 262.1,
+      "to": 263.74,
+      "sid": 134,
+      "location": 2,
+      "content": "这是吃股息的",
+      "music": 0.0
+    },
+    {
+      "from": 263.74,
+      "to": 265.7,
+      "sid": 135,
+      "location": 2,
+      "content": "二是博弈改善性",
+      "music": 0.0
+    },
+    {
+      "from": 265.7,
+      "to": 267.18,
+      "sid": 136,
+      "location": 2,
+      "content": "向中国海外发展",
+      "music": 0.0
+    },
+    {
+      "from": 267.18,
+      "to": 268.18,
+      "sid": 137,
+      "location": 2,
+      "content": "滨江集团",
+      "music": 0.0
+    },
+    {
+      "from": 268.18,
+      "to": 270.06,
+      "sid": 138,
+      "location": 2,
+      "content": "绿城中国建发国际",
+      "music": 0.0
+    },
+    {
+      "from": 270.06,
+      "to": 271.07,
+      "sid": 139,
+      "location": 2,
+      "content": "中国经贸",
+      "music": 0.0
+    },
+    {
+      "from": 271.07,
+      "to": 273.29,
+      "sid": 140,
+      "location": 2,
+      "content": "这些公司深耕高能级城市",
+      "music": 0.0
+    },
+    {
+      "from": 273.29,
+      "to": 274.47,
+      "sid": 141,
+      "location": 2,
+      "content": "一旦市场回暖",
+      "music": 0.0
+    },
+    {
+      "from": 274.47,
+      "to": 275.29,
+      "sid": 142,
+      "location": 2,
+      "content": "弹性更大",
+      "music": 0.0
+    },
+    {
+      "from": 275.29,
+      "to": 276.47,
+      "sid": 143,
+      "location": 2,
+      "content": "这是博反弹的",
+      "music": 0.0
+    },
+    {
+      "from": 276.47,
+      "to": 278.35,
+      "sid": 144,
+      "location": 2,
+      "content": "三是交易平台受益者",
+      "music": 0.0
+    },
+    {
+      "from": 278.35,
+      "to": 279.32,
+      "sid": 145,
+      "location": 2,
+      "content": "比如贝壳",
+      "music": 0.0
+    },
+    {
+      "from": 279.32,
+      "to": 282.88,
+      "sid": 146,
+      "location": 2,
+      "content": "其业绩与二手房和新房交易活跃度高度相关",
+      "music": 0.0
+    },
+    {
+      "from": 282.88,
+      "to": 284.6,
+      "sid": 147,
+      "location": 2,
+      "content": "另外保利发展",
+      "music": 0.0
+    },
+    {
+      "from": 284.6,
+      "to": 285.48,
+      "sid": 148,
+      "location": 2,
+      "content": "越秀地产",
+      "music": 0.0
+    },
+    {
+      "from": 285.48,
+      "to": 286.36,
+      "sid": 149,
+      "location": 2,
+      "content": "龙湖集团",
+      "music": 0.0
+    },
+    {
+      "from": 286.36,
+      "to": 288.52,
+      "sid": 150,
+      "location": 2,
+      "content": "金地集团也属于优质备选",
+      "music": 0.0
+    },
+    {
+      "from": 288.52,
+      "to": 289.58,
+      "sid": 151,
+      "location": 2,
+      "content": "这名单够长的",
+      "music": 0.0
+    },
+    {
+      "from": 289.58,
+      "to": 290.429,
+      "sid": 152,
+      "location": 2,
+      "content": "看起来看",
+      "music": 0.0
+    },
+    {
+      "from": 290.429,
+      "to": 293.609,
+      "sid": 153,
+      "location": 2,
+      "content": "当前房地产正陷在一个负反馈循环里",
+      "music": 0.0
+    },
+    {
+      "from": 293.609,
+      "to": 295.589,
+      "sid": 154,
+      "location": 2,
+      "content": "二手房库存压着需求",
+      "music": 0.0
+    },
+    {
+      "from": 295.589,
+      "to": 297.269,
+      "sid": 155,
+      "location": 2,
+      "content": "销售不好就不敢拿地",
+      "music": 0.0
+    },
+    {
+      "from": 297.269,
+      "to": 297.94,
+      "sid": 156,
+      "location": 2,
+      "content": "开工",
+      "music": 0.0
+    },
+    {
+      "from": 297.94,
+      "to": 299.02,
+      "sid": 157,
+      "location": 2,
+      "content": "施工减少",
+      "music": 0.0
+    },
+    {
+      "from": 299.02,
+      "to": 299.92,
+      "sid": 158,
+      "location": 2,
+      "content": "投资下滑",
+      "music": 0.0
+    },
+    {
+      "from": 299.92,
+      "to": 300.88,
+      "sid": 159,
+      "location": 2,
+      "content": "回款困难",
+      "music": 0.0
+    },
+    {
+      "from": 300.88,
+      "to": 303.1,
+      "sid": 160,
+      "location": 2,
+      "content": "融资更难交付承压",
+      "music": 0.0
+    },
+    {
+      "from": 303.1,
+      "to": 304.6,
+      "sid": 161,
+      "location": 2,
+      "content": "听着像个死结啊",
+      "music": 0.0
+    },
+    {
+      "from": 304.6,
+      "to": 306.0,
+      "sid": 162,
+      "location": 2,
+      "content": "要打破这个闭环",
+      "music": 0.0
+    },
+    {
+      "from": 306.0,
+      "to": 308.26,
+      "sid": 163,
+      "location": 2,
+      "content": "光靠放松限购可能不够",
+      "music": 0.0
+    },
+    {
+      "from": 308.26,
+      "to": 311.9,
+      "sid": 164,
+      "location": 2,
+      "content": "得靠城市更新等增量政策真正落地还得看政策",
+      "music": 0.0
+    },
+    {
+      "from": 311.9,
+      "to": 315.07,
+      "sid": 165,
+      "location": 2,
+      "content": "而底层逻辑的转变更值得咱们散户关注",
+      "music": 0.0
+    },
+    {
+      "from": 315.07,
+      "to": 318.71,
+      "sid": 166,
+      "location": 2,
+      "content": "以后别指望整个板块齐涨得精挑细选",
+      "music": 0.0
+    },
+    {
+      "from": 318.71,
+      "to": 319.71,
+      "sid": 167,
+      "location": 2,
+      "content": "现金牛公司",
+      "music": 0.0
+    },
+    {
+      "from": 319.71,
+      "to": 322.19,
+      "sid": 168,
+      "location": 2,
+      "content": "这叫从大水漫灌到精耕细作",
+      "music": 0.0
+    },
+    {
+      "from": 322.19,
+      "to": 323.289,
+      "sid": 169,
+      "location": 2,
+      "content": "产业链也一样",
+      "music": 0.0
+    },
+    {
+      "from": 323.289,
+      "to": 325.809,
+      "sid": 170,
+      "location": 2,
+      "content": "过去靠竣工潮吃红利",
+      "music": 0.0
+    },
+    {
+      "from": 325.809,
+      "to": 328.25,
+      "sid": 171,
+      "location": 2,
+      "content": "未来得靠产品力和服务取胜",
+      "music": 0.0
+    },
+    {
+      "from": 328.25,
+      "to": 330.97,
+      "sid": 172,
+      "location": 2,
+      "content": "那些能在行业寒冬里守住现金流",
+      "music": 0.0
+    },
+    {
+      "from": 330.97,
+      "to": 332.59,
+      "sid": 173,
+      "location": 2,
+      "content": "优化成本的供应商",
+      "music": 0.0
+    },
+    {
+      "from": 332.59,
+      "to": 334.55,
+      "sid": 174,
+      "location": 2,
+      "content": "反而可能迎来估值重估",
+      "music": 0.0
+    },
+    {
+      "from": 334.55,
+      "to": 336.23,
+      "sid": 175,
+      "location": 2,
+      "content": "是金子总会发光的",
+      "music": 0.0
+    },
+    {
+      "from": 336.23,
+      "to": 338.51,
+      "sid": 176,
+      "location": 2,
+      "content": "所以接下来咱们要定两件事",
+      "music": 0.0
+    },
+    {
+      "from": 338.51,
+      "to": 341.89,
+      "sid": 177,
+      "location": 2,
+      "content": "一是5月及后续的销售数据能不能稳住",
+      "music": 0.0
+    },
+    {
+      "from": 341.89,
+      "to": 344.35,
+      "sid": 178,
+      "location": 2,
+      "content": "尤其是价格是否真的企稳",
+      "music": 0.0
+    },
+    {
+      "from": 344.35,
+      "to": 347.01,
+      "sid": 179,
+      "location": 2,
+      "content": "二是政策有没有超预期的发力",
+      "music": 0.0
+    },
+    {
+      "from": 347.01,
+      "to": 349.85,
+      "sid": 180,
+      "location": 2,
+      "content": "比如大规模城市更新能否启动",
+      "music": 0.0
+    },
+    {
+      "from": 349.85,
+      "to": 351.51,
+      "sid": 181,
+      "location": 2,
+      "content": "如果这两点有进展",
+      "music": 0.0
+    },
+    {
+      "from": 351.51,
+      "to": 353.98,
+      "sid": 182,
+      "location": 2,
+      "content": "那短期交易窗口或许还能延续",
+      "music": 0.0
+    },
+    {
+      "from": 353.98,
+      "to": 354.9,
+      "sid": 183,
+      "location": 2,
+      "content": "如果没有",
+      "music": 0.0
+    },
+    {
+      "from": 354.9,
+      "to": 356.64,
+      "sid": 184,
+      "location": 2,
+      "content": "那可能还得继续磨底",
+      "music": 0.0
+    },
+    {
+      "from": 356.64,
+      "to": 357.46,
+      "sid": 185,
+      "location": 2,
+      "content": "点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 357.46,
+      "to": 360.48,
+      "sid": 186,
+      "location": 2,
+      "content": "带你用散户视角拆解顶级券商研报",
+      "music": 0.0
+    },
+    {
+      "from": 360.48,
+      "to": 362.52,
+      "sid": 187,
+      "location": 2,
+      "content": "看懂数据背后的真机会",
+      "music": 0.0
+    },
+    {
+      "from": 362.52,
+      "to": 363.96,
+      "sid": 188,
+      "location": 2,
+      "content": "也欢迎在评论区聊聊",
+      "music": 0.0
+    },
+    {
+      "from": 363.96,
+      "to": 366.48,
+      "sid": 189,
+      "location": 2,
+      "content": "你觉得这轮调整到底还要多久",
+      "music": 0.0
+    },
+    {
+      "from": 366.48,
+      "to": 368.08,
+      "sid": 190,
+      "location": 2,
+      "content": "才能看到真正的拐点",
+      "music": 0.0
+    },
+    {
+      "from": 368.08,
+      "to": 369.31,
+      "sid": 191,
+      "location": 2,
+      "content": "咱们评论区见",
+      "music": 0.0
+    },
+    {
+      "from": 369.31,
+      "to": 370.47,
+      "sid": 192,
+      "location": 2,
+      "content": "最后提醒一句",
+      "music": 0.0
+    },
+    {
+      "from": 370.47,
+      "to": 372.07,
+      "sid": 193,
+      "location": 2,
+      "content": "以上内容仅供参考",
+      "music": 0.0
+    },
+    {
+      "from": 372.07,
+      "to": 373.51,
+      "sid": 194,
+      "location": 2,
+      "content": "不构成投资间隙",
+      "music": 0.0
+    },
+    {
+      "from": 373.51,
+      "to": 374.57,
+      "sid": 195,
+      "location": 2,
+      "content": "投资有风险",
+      "music": 0.0
+    },
+    {
+      "from": 374.57,
+      "to": 375.58,
+      "sid": 196,
+      "location": 2,
+      "content": "决策需谨慎",
+      "music": 0.0
+    }
+  ]
+}

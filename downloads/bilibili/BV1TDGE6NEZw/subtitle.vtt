@@ -1,0 +1,977 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+NVIDIA reporting a record earnings and revenue last night, reporting an 85% increase in revenue,
+
+00:00:06.000 --> 00:00:12.560
+a 92% increase in data center revenue. NVIDIA founder and CEO Jensen Huang told me in part
+
+00:00:12.560 --> 00:00:19.360
+two of my interview, the data center rollout is accelerating and AI is also assisting in America's
+
+00:00:19.360 --> 00:00:27.600
+national security. You find yourself not only the face of incredible growth and new technology
+
+00:00:27.600 --> 00:00:33.440
+in the world, but also in the middle of the potential national security concerns between
+
+00:00:33.440 --> 00:00:35.640
+the U.S.-China relationship.
+
+00:00:35.640 --> 00:00:37.500
+So what do you want to say about that?
+
+00:00:37.500 --> 00:00:43.480
+Because critics would say that selling advance chips to China helps China close the gap and
+
+00:00:43.480 --> 00:00:49.520
+perhaps beat the U.S. in AI, which of course the president has said many times wants
+
+00:00:49.520 --> 00:00:52.120
+to own it and win it.
+
+00:00:52.120 --> 00:00:56.160
+And yet the other angle is the fact that if we block all sales, then China does
+
+00:00:56.160 --> 00:00:57.520
+it anyway.
+
+00:00:57.520 --> 00:01:00.920
+accelerating the growth coming out of companies like Huawei.
+
+00:01:02.130 --> 00:01:07.810
+I think you've summarized it really well. The president would like us to win in every aspect
+
+00:01:07.810 --> 00:01:16.290
+of AI. Remember, Nvidia is AI. And the reason we're part of the AI industry, AI is a five-layer
+
+00:01:16.290 --> 00:01:24.210
+cake. It includes energy and chips, infrastructure, models, and then the applications that run on top.
+
+00:01:24.210 --> 00:01:31.650
+The United States has to be absolutely certain and determined to lead the world in every
+
+00:01:31.650 --> 00:01:38.530
+aspect, every layer of that five-layer cake—from energy, of course, from chips, of course.
+
+00:01:38.530 --> 00:01:44.690
+And so all of these five layers are part of the new AI industry.
+
+00:01:44.690 --> 00:01:49.330
+The president has been very clear he would like NVIDIA to, on the one hand, make sure
+
+00:01:49.330 --> 00:01:56.050
+that American technology and American companies have the benefit of the latest of NVIDIA,
+
+00:01:56.050 --> 00:01:59.250
+and the most of NVIDIA, and that's surely the case.
+
+00:01:59.250 --> 00:02:03.850
+He's been very clear that he would like American companies to win around the world.
+
+00:02:03.850 --> 00:02:09.250
+Winning around the world allows us to, one, export, generate revenues for the country, bring
+
+00:02:09.250 --> 00:02:13.370
+back tax dollars for the country, create jobs in America.
+
+00:02:13.370 --> 00:02:19.410
+It allows us also to diffuse and spread the American technology stack around the world
+
+00:02:19.410 --> 00:02:23.730
+so that the rest of the world can be built on top of American technology and standards.
+
+00:02:23.730 --> 00:02:26.010
+And so he's been very clear about that.
+
+00:02:26.010 --> 00:02:30.890
+With respect to national security, China obviously has all the chips they need.
+
+00:02:30.890 --> 00:02:33.210
+That's the reason why they don't need ours.
+
+00:02:33.210 --> 00:02:35.410
+And Huawei has done a very good job.
+
+00:02:35.410 --> 00:02:38.230
+They're obviously one of the largest companies in the world.
+
+00:02:38.230 --> 00:02:40.730
+They had a record year.
+
+00:02:40.730 --> 00:02:43.610
+They're flourishing in our absence.
+
+00:02:43.610 --> 00:02:49.210
+And they're now exporting their technology out to the rest of the world, competing
+
+00:02:49.210 --> 00:02:51.850
+with American companies around the world.
+
+00:02:51.850 --> 00:02:56.410
+So I think that their ability to secure technology
+
+00:02:56.410 --> 00:02:58.290
+for their national security reasons,
+
+00:02:58.290 --> 00:03:04.770
+I think they have more than ample for their own needs.
+
+00:03:04.770 --> 00:03:06.490
+Well, Jensen, this is all happening
+
+00:03:06.490 --> 00:03:09.690
+at a time that the US military is increasingly
+
+00:03:09.690 --> 00:03:12.730
+in need of AI chips as well.
+
+00:03:12.730 --> 00:03:15.370
+And I mean, here we are in the middle of a war.
+
+00:03:15.370 --> 00:03:19.010
+And I know that many of the rescues and the Operation
+
+00:03:19.010 --> 00:03:26.890
+Epic Fury is relying on AI-enabled surveillance, satellite imagery, drones, signal processing,
+
+00:03:26.890 --> 00:03:31.650
+high-performance computing systems where you're number one.
+
+00:03:31.650 --> 00:03:33.090
+So tell me a little about that.
+
+00:03:33.090 --> 00:03:37.730
+Without giving us any secrets, obviously, Jensen, about this great nation, can you talk to us
+
+00:03:37.730 --> 00:03:43.410
+a little about, for example, when we were locating that missing officer in the mountainous
+
+00:03:43.410 --> 00:03:50.610
+terrain of Iran, how envidia chips were actually critical in that regard in terms of surveillance
+
+00:03:50.610 --> 00:03:52.810
+and finding our man?
+
+00:03:52.810 --> 00:03:59.370
+Well we do a lot of work in imaging and most of the world's radar systems and imaging
+
+00:03:59.370 --> 00:04:08.890
+systems has envidia chips in it and we're just incredibly honored to be able to support
+
+00:04:08.890 --> 00:04:17.010
+our nation. Recently, you might have seen an announcement where the Department of War has
+
+00:04:17.010 --> 00:04:21.530
+access to NVIDIA's technology so that they – and our technology is completely open
+
+00:04:21.530 --> 00:04:28.410
+source so that it could be modified and enhanced for the applications of our military. And
+
+00:04:28.410 --> 00:04:35.410
+we have great partnerships across the ecosystem of contractors and technology companies that
+
+00:04:35.410 --> 00:04:42.090
+service the national securities organizations around in our country and so it's a great
+
+00:04:42.090 --> 00:04:44.050
+honor for us to be able to do that.
+
+00:04:44.050 --> 00:04:48.770
+And so technology matters in the future of national security and we're delighted to
+
+00:04:48.770 --> 00:04:49.770
+be part of that.
+
+00:04:49.770 --> 00:04:51.290
+Well, that's right, Jensen.
+
+00:04:51.290 --> 00:04:56.730
+And I know that people view NVIDIA no longer as just an innovative technology company,
+
+00:04:56.730 --> 00:05:04.330
+but as a critical national security infrastructure base for the U.S. government.
+
+00:05:04.330 --> 00:05:06.930
+Is that a fair statement?
+
+00:05:06.930 --> 00:05:09.690
+Well, we're a very large technology company,
+
+00:05:09.690 --> 00:05:13.130
+and we're an American technology company.
+
+00:05:13.130 --> 00:05:16.450
+We want America's technology industry
+
+00:05:16.450 --> 00:05:19.450
+to be a national treasure of the United States.
+
+00:05:19.450 --> 00:05:23.450
+We participate in every aspect of industry,
+
+00:05:23.450 --> 00:05:26.090
+including building the AI industry itself.
+
+00:05:26.090 --> 00:05:28.490
+One of the things that's really incredible
+
+00:05:28.490 --> 00:05:31.770
+is that because of the buildout of AI,
+
+00:05:31.770 --> 00:05:34.490
+the largest infrastructure build out in history.
+
+00:05:34.490 --> 00:05:38.130
+We're creating so many jobs inside the United States.
+
+00:05:38.130 --> 00:05:42.010
+Manufacturing chip plants, packaging plants,
+
+00:05:42.010 --> 00:05:45.050
+computer plants, and of course, these AI data centers.
+
+00:05:45.050 --> 00:05:47.210
+The number of jobs that we're creating
+
+00:05:47.210 --> 00:05:52.210
+in the manufacturing sector is largest in recent history.
+
+00:05:52.890 --> 00:05:54.970
+And so over the next several years,
+
+00:05:54.970 --> 00:05:57.130
+we're gonna see trillions of dollars investment
+
+00:05:57.130 --> 00:05:59.210
+coming back into the United States
+
+00:05:59.210 --> 00:06:02.450
+all driven because of the buildout of AI infrastructure.
+
+00:06:02.450 --> 00:06:05.490
+And so I'm really delighted to see this happening.
+
+00:06:05.490 --> 00:06:10.490
+And it's going to be, of course, creating jobs,
+
+00:06:10.490 --> 00:06:13.410
+enhancing our manufacturing sector,
+
+00:06:13.410 --> 00:06:16.130
+reducing our dependence on other countries
+
+00:06:16.130 --> 00:06:19.650
+and manufacturing is a core part of our national security.
+
+00:06:19.650 --> 00:06:21.890
+And we play a very central role in doing that.
+
+00:06:21.890 --> 00:06:23.170
+Yeah, but at the same time,
+
+00:06:23.170 --> 00:06:25.570
+you're becoming more successful and growing
+
+00:06:25.570 --> 00:06:28.490
+and making more money and generating more revenue.
+
+00:06:28.490 --> 00:06:34.950
+you've got wannabes on your heels. How serious are the competitive threats right now when
+
+00:06:34.950 --> 00:06:43.170
+you look at AMD or Google or Amazon, Trinium or Cerebrus and that very successful IPO the
+
+00:06:43.170 --> 00:06:48.930
+other day? How significant do you view all of these competitors lurking?
+
+00:06:48.930 --> 00:06:54.010
+We always take our competitors seriously. We're in the largest industry in the world
+
+00:06:54.010 --> 00:06:59.210
+And so I have more than more than enough competition for anybody to enjoy.
+
+00:06:59.650 --> 00:07:05.850
+And so, so, but the important thing is this, Maria, over the last year, we actually gain share.
+
+00:07:06.450 --> 00:07:11.650
+We gain share in AI, in the hyperscalers, in the model builders.
+
+00:07:12.090 --> 00:07:19.050
+And we created a whole new segment of data centers that is unique, requires the unique
+
+00:07:19.050 --> 00:07:25.670
+capability that NVIDIA has, and we're really the only company that's frontiering and bringing
+
+00:07:25.670 --> 00:07:30.370
+out physical AI for manufacturing and industrial applications.
+
+00:07:30.370 --> 00:07:35.090
+And so we're gaining share in this area as the market is actually expanding, so it's
+
+00:07:35.090 --> 00:07:36.570
+quite an incredible thing.
+
+00:07:36.570 --> 00:07:43.450
+But we'll continue to be, you know, always stay alert to competition, and, you know,
+
+00:07:43.450 --> 00:07:48.330
+they're going to have to work very hard to catch us, we're quite formidable ourselves,
+
+00:07:48.330 --> 00:07:53.370
+And we worked pretty hard for the customers and where, you know, the Nvidia employees
+
+00:07:53.370 --> 00:07:54.610
+are incredibly smart.
+
+00:07:54.610 --> 00:07:56.450
+Oh, I know that.
+
+00:07:56.450 --> 00:08:01.370
+You know, the other day we were talking about the company and the stock at five and a half
+
+00:08:01.370 --> 00:08:03.610
+trillion dollars in market value.
+
+00:08:03.610 --> 00:08:05.370
+Jensen, how does that make you feel?
+
+00:08:05.370 --> 00:08:08.490
+I mean, these numbers are mind-boggling.
+
+00:08:08.490 --> 00:08:11.450
+You are the most valued company in the world.
+
+00:08:11.450 --> 00:08:15.850
+And one of my guests the other day said, well, he started doing the numbers in terms
+
+00:08:15.850 --> 00:08:20.170
+of growth versus earnings and the projected revenue that he was expecting and he said,
+
+00:08:20.170 --> 00:08:25.050
+I'm looking at six and a half trillion pretty soon. Is that what you're looking at, Jensen as well?
+
+00:08:26.650 --> 00:08:35.450
+Well, first of all, it's a privilege to be at NVIDIA. Here we are creating and building one of the
+
+00:08:35.450 --> 00:08:41.850
+most consequential technologies of all time and inventing a whole new industry in the process.
+
+00:08:41.850 --> 00:08:47.650
+us, all of the companies that I work with and all the partners that we have and, you know,
+
+00:08:47.650 --> 00:08:56.490
+everything from, you know, from Wendell at Corning to all of my friends in semiconductors
+
+00:08:56.490 --> 00:09:02.850
+and memory companies and packaging companies and so all of the ecosystem that we support
+
+00:09:02.850 --> 00:09:08.170
+in hardware and software upstream in our supply chain downstream through our data
+
+00:09:08.170 --> 00:09:15.170
+centers and so there's so many partners that we work with is really a privilege for us to
+
+00:09:15.170 --> 00:09:18.450
+be at the center of it, creating this whole new industry.
+
+00:09:18.450 --> 00:09:24.610
+Ultimately, Maria, this is the largest manufacturing industry in the world.
+
+00:09:24.610 --> 00:09:26.490
+That I think is certain now.
+
+00:09:26.490 --> 00:09:33.450
+The production of intelligence will be much, much larger than the production of energy,
+
+00:09:33.450 --> 00:09:36.610
+and production of energy is a very large industry.
+
+00:09:36.610 --> 00:09:44.170
+So I think it's a foregone conclusion at this point that the electricity industry, the internet
+
+00:09:44.170 --> 00:09:50.170
+industry that AI is built upon will be much larger than both of those industries previously.
+
+00:09:50.170 --> 00:09:54.770
+And so we're going to create a lot of manufacturing jobs and we're going to create a whole lot
+
+00:09:54.770 --> 00:09:59.170
+of different industries and companies on top of AI that the world's never even seen
+
+00:09:59.170 --> 00:10:00.170
+yet.
+
+00:10:00.170 --> 00:10:02.810
+And it's just an incredible privilege to be part of that.
+
+00:10:02.810 --> 00:10:07.370
+Well, Jensen, you made a great point just now, mentioned in Corning, and can you talk to
+
+00:10:07.370 --> 00:10:12.570
+us a word, give us a word on strategy, because you've made a number of partnership announcements
+
+00:10:12.570 --> 00:10:14.810
+and you've made a number of acquisitions as well.
+
+00:10:14.810 --> 00:10:19.410
+I mean, talking about all of this growth, you don't even, you know, look at the fact
+
+00:10:19.410 --> 00:10:22.770
+that you made the acquisition of Grok at the end of last year.
+
+00:10:22.770 --> 00:10:24.770
+I wonder what that was about.
+
+00:10:24.770 --> 00:10:27.050
+You know, what is the strategy there?
+
+00:10:27.050 --> 00:10:28.610
+Is it offense and defense?
+
+00:10:28.610 --> 00:10:31.730
+and then you look at things like Corning and Lumentum
+
+00:10:31.730 --> 00:10:34.530
+and you've been so ahead of the game
+
+00:10:34.530 --> 00:10:37.490
+on smaller acquisitions as well.
+
+00:10:37.490 --> 00:10:40.290
+What's the strategy long-term?
+
+00:10:40.290 --> 00:10:43.930
+The strategy is to help build out this five-layer cake.
+
+00:10:43.930 --> 00:10:45.890
+And this five-layer cake represents
+
+00:10:45.890 --> 00:10:48.490
+a brand new industry called AI.
+
+00:10:48.490 --> 00:10:51.970
+It includes energy all the way to applications on top.
+
+00:10:51.970 --> 00:10:56.170
+And we look across this ecosystem
+
+00:10:56.170 --> 00:10:57.570
+and we ask ourselves,
+
+00:10:57.570 --> 00:10:59.610
+Where are their bottlenecks?
+
+00:10:59.610 --> 00:11:02.170
+Where are their new companies that would emerge?
+
+00:11:02.170 --> 00:11:06.770
+And how can we help companies across the world,
+
+00:11:06.770 --> 00:11:09.210
+across this entire five-layer cake,
+
+00:11:09.210 --> 00:11:11.090
+and across our ecosystem?
+
+00:11:11.090 --> 00:11:15.410
+How can we help them scale up even faster?
+
+00:11:15.410 --> 00:11:19.450
+Oftentimes, in the case of Wendell,
+
+00:11:19.450 --> 00:11:23.770
+he said that Corning is gonna build 10 times
+
+00:11:23.770 --> 00:11:26.930
+as much fiber optics technology,
+
+00:11:26.930 --> 00:11:31.610
+fiber optics capability in the United States than previously because of the partnership
+
+00:11:31.610 --> 00:11:32.770
+that we have.
+
+00:11:32.770 --> 00:11:38.810
+And so that gives you an example of a situation where a deep partnership with a great company
+
+00:11:38.810 --> 00:11:45.610
+like Corning is both great opportunity for NVIDIA, great support for Corning, and it's
+
+00:11:45.610 --> 00:11:50.050
+actually necessary because we're going to scale up something by a factor of 10.
+
+00:11:50.050 --> 00:11:54.890
+And so scaling up something in order of magnitude, especially in manufacturing, is not easy
+
+00:11:54.890 --> 00:11:55.890
+to do.
+
+00:11:55.890 --> 00:11:58.530
+doing this across our ecosystem.
+
+00:11:58.530 --> 00:12:04.110
+And so we have partnerships, we invest in small companies, we invest in large companies,
+
+00:12:04.110 --> 00:12:08.530
+we establish partnerships so that we can create this AI industry together.
+
+00:12:08.530 --> 00:12:12.970
+This will be the largest industry the world's ever seen.
+
+00:12:12.970 --> 00:12:16.450
+And we're at the beginning of that, and it's just incredibly exciting to be able
+
+00:12:16.450 --> 00:12:21.530
+to, and a great privilege to have all these partners to help us scale up this incredible
+
+00:12:21.530 --> 00:12:22.530
+industry.
+
+00:12:22.530 --> 00:12:28.650
+So when you look at something like open AI, it's not really selling semiconductor chips.
+
+00:12:28.650 --> 00:12:35.850
+It's more about becoming the infrastructure backbone in this AI revolution.
+
+00:12:35.850 --> 00:12:40.090
+Yeah, open AI is one of the most consequential companies in history.
+
+00:12:40.090 --> 00:12:43.490
+And it's incredibly fun to work with them.
+
+00:12:43.490 --> 00:12:45.290
+We have great partnership.
+
+00:12:45.290 --> 00:12:47.450
+They are the AI model layer.
+
+00:12:47.450 --> 00:12:49.530
+We are the computing layer.
+
+00:12:49.530 --> 00:12:57.290
+the two of us it's as you mentioned the AI backbone and it's one of the it's you
+
+00:12:57.290 --> 00:13:02.610
+just mentioned two of the five layers of AI and so this is a very essential layer
+
+00:13:02.610 --> 00:13:08.450
+and our partnership with them with them is incredible. No no no company has
+
+00:13:08.450 --> 00:13:13.890
+ever grown as fast as open AI and of course recently Anthropic. No company
+
+00:13:13.890 --> 00:13:17.450
+has ever grown this fast and it is very likely that both companies are going
+
+00:13:17.450 --> 00:13:21.230
+to be growing spectacularly in the coming years.
+
+00:13:21.230 --> 00:13:24.270
+Jensen, are customers asking you that they
+
+00:13:24.270 --> 00:13:26.270
+want more computing power?
+
+00:13:26.270 --> 00:13:30.150
+Do they want more lower energy usage?
+
+00:13:30.150 --> 00:13:34.110
+Are they looking for cheaper inference?
+
+00:13:34.110 --> 00:13:37.230
+What specifically do you hear most from customers
+
+00:13:37.230 --> 00:13:40.070
+that they want now in this?
+
+00:13:40.070 --> 00:13:41.270
+All three.
+
+00:13:41.270 --> 00:13:43.190
+However, what they want more than anything
+
+00:13:43.190 --> 00:13:45.470
+is they want their NVIDIA right now.
+
+00:13:45.470 --> 00:13:49.310
+And so they just need to have NVIDIA compute right now.
+
+00:13:49.310 --> 00:13:51.790
+And of course, they need it for several reasons.
+
+00:13:51.790 --> 00:13:55.390
+One, our performance is spectacular.
+
+00:13:55.390 --> 00:13:56.950
+It's the best performance in the world.
+
+00:13:56.950 --> 00:13:58.870
+Well, before I go there, the first thing
+
+00:13:58.870 --> 00:14:02.270
+is that they could actually build an entire AI factory
+
+00:14:02.270 --> 00:14:03.830
+with NVIDIA's technology.
+
+00:14:03.830 --> 00:14:07.150
+The ability to build these data centers, these factories,
+
+00:14:07.150 --> 00:14:08.910
+is really spectacular.
+
+00:14:08.910 --> 00:14:12.550
+And when you see them, the amount of technology inside,
+
+00:14:12.550 --> 00:14:15.710
+For example, one gigawatt is like $50, $60 billion.
+
+00:14:15.710 --> 00:14:17.870
+It's an enormous amount of technology.
+
+00:14:17.870 --> 00:14:23.470
+And so you have to be a company with significant completeness
+
+00:14:23.470 --> 00:14:25.870
+of technology and also significant scale
+
+00:14:25.870 --> 00:14:29.230
+to even be able to serve an opportunity like that.
+
+00:14:29.230 --> 00:14:30.670
+It's the most performant.
+
+00:14:30.670 --> 00:14:34.550
+We deliver the lowest token cost.
+
+00:14:34.550 --> 00:14:38.070
+The manufacturing output is the lowest in the world.
+
+00:14:38.070 --> 00:14:41.510
+And our throughput, because our energy efficiency
+
+00:14:41.510 --> 00:14:47.170
+the best, and there's only one gigawatt of energy in that data center, our energy efficiency
+
+00:14:47.170 --> 00:14:52.110
+translates directly to the throughput, the manufacturing throughput of that factory.
+
+00:14:52.110 --> 00:14:56.810
+And so we are the world's best at all of that, including total cost of ownership and
+
+00:14:56.810 --> 00:15:02.090
+lifetime of the asset and rentability of our computing, because we have so many different
+
+00:15:02.090 --> 00:15:03.090
+customers.
+
+00:15:03.090 --> 00:15:05.770
+You know, all of that, we are the world's best.
+
+00:15:05.770 --> 00:15:10.770
+Jensen, as we wrap up here, just give me a word on jobs, because I've seen what
+
+00:15:10.770 --> 00:15:16.090
+you've said in terms of all of these worries about jobs, I mean you saw the public anger
+
+00:15:16.090 --> 00:15:21.330
+recently when Eric Schmidt gave his graduation speech and the students were booing and you've
+
+00:15:21.330 --> 00:15:25.570
+got people like Bernie Sanders saying we can't build any more data centers because of the
+
+00:15:25.570 --> 00:15:27.250
+pressure on electricity.
+
+00:15:27.250 --> 00:15:32.250
+But you've said, look, sure jobs will go away, but new jobs will be created.
+
+00:15:32.250 --> 00:15:34.010
+What are those new jobs, Jensen?
+
+00:15:34.010 --> 00:15:38.890
+And are we going to all have our own assistant robot in the next couple of years?
+
+00:15:38.890 --> 00:15:41.150
+Is that how this is going?
+
+00:15:41.150 --> 00:15:42.890
+Everyone will have an AI assistant.
+
+00:15:42.890 --> 00:15:44.050
+There's no question about that.
+
+00:15:44.050 --> 00:15:46.090
+Just as you all have your own phones
+
+00:15:46.090 --> 00:15:47.890
+and we have our own laptops in the future,
+
+00:15:47.890 --> 00:15:50.370
+well, I'll have our own AI assistants.
+
+00:15:50.370 --> 00:15:53.170
+And that's a foregone conclusion.
+
+00:15:53.170 --> 00:15:55.850
+With respect to jobs, AI creates jobs.
+
+00:15:55.850 --> 00:15:57.170
+I want to be very clear.
+
+00:15:57.170 --> 00:15:59.530
+AI creates jobs.
+
+00:15:59.530 --> 00:16:02.010
+AI is obviously creating jobs in one
+
+00:16:02.010 --> 00:16:05.010
+of the most important sectors of the United States.
+
+00:16:05.010 --> 00:16:07.490
+Maria, you and I both would agree
+
+00:16:07.490 --> 00:16:10.170
+that the United States needs to build out
+
+00:16:10.170 --> 00:16:13.090
+and bring back its manufacturing capacity.
+
+00:16:13.090 --> 00:16:15.170
+We need to have manufacturing jobs.
+
+00:16:15.170 --> 00:16:20.690
+We want America to have a large number of skilled craft
+
+00:16:20.690 --> 00:16:21.410
+labors.
+
+00:16:21.410 --> 00:16:23.850
+We want to have construction workers and carpenters
+
+00:16:23.850 --> 00:16:27.250
+and plumbers and electricians and technicians.
+
+00:16:27.250 --> 00:16:31.170
+And all of that sector with skilled craft
+
+00:16:31.170 --> 00:16:33.090
+really needs to be built.
+
+00:16:33.090 --> 00:16:35.250
+The need for college education to be
+
+00:16:35.250 --> 00:16:38.730
+able to have someone be able to build a wonderful family
+
+00:16:38.730 --> 00:16:41.250
+and build a great life should not be related.
+
+00:16:41.250 --> 00:16:45.530
+I mean, you should be able to build a great life no matter
+
+00:16:45.530 --> 00:16:47.250
+what journey you decide.
+
+00:16:47.250 --> 00:16:50.290
+And skill craft is really going to be a very important sector.
+
+00:16:50.290 --> 00:16:53.450
+So AI is bringing back manufacturing
+
+00:16:53.450 --> 00:16:55.890
+at a very large scale in the United States.
+
+00:16:55.890 --> 00:16:57.650
+That's a fantastic thing.
+
+00:16:57.650 --> 00:16:59.210
+The second thing is, with respect
+
+00:16:59.210 --> 00:17:01.090
+to all the information workers, AI
+
+00:17:01.090 --> 00:17:05.050
+will clearly augment your work.
+
+00:17:05.050 --> 00:17:08.050
+The way you work today is going to be very different than the past.
+
+00:17:08.050 --> 00:17:11.890
+Today, most of us are sitting in front of our computers typing all the time.
+
+00:17:11.890 --> 00:17:15.570
+If you just take a step back and think about what software engineers do,
+
+00:17:15.570 --> 00:17:17.730
+we spend all of our time typing.
+
+00:17:17.730 --> 00:17:20.410
+Well, you ought to be spending your time problem solving.
+
+00:17:20.410 --> 00:17:22.690
+And the way that people problem solve in the future,
+
+00:17:22.690 --> 00:17:24.250
+it's just going to be very different.
+
+00:17:24.250 --> 00:17:28.170
+And so we're still going to need just as many software engineers if not more.
+
+00:17:28.170 --> 00:17:30.890
+We're going to need more product engineers if not more.
+
+00:17:30.890 --> 00:17:32.650
+And so even more than that.
+
+00:17:32.650 --> 00:17:36.090
+And so the world's work is going to be very different.
+
+00:17:36.090 --> 00:17:38.090
+The one thing that I would advise young people,
+
+00:17:38.090 --> 00:17:40.090
+and I advise every one of them,
+
+00:17:40.090 --> 00:17:43.330
+you know, although some people say young workers,
+
+00:17:43.330 --> 00:17:45.970
+young college graduates will be the first
+
+00:17:45.970 --> 00:17:47.410
+to lose the opportunity,
+
+00:17:47.410 --> 00:17:49.570
+that 50% of their jobs will be gone.
+
+00:17:49.570 --> 00:17:51.770
+I think that's just complete nonsense.
+
+00:17:51.770 --> 00:17:54.970
+The young people who are graduating from school today
+
+00:17:54.970 --> 00:17:56.930
+are the best users of AI
+
+00:17:56.930 --> 00:17:59.370
+because they grew up in that era.
+
+00:17:59.370 --> 00:18:01.130
+When you're a great user of AI,
+
+00:18:01.130 --> 00:18:04.210
+you're going to be highly employable.
+
+00:18:04.210 --> 00:18:05.690
+You're not going to lose, a person
+
+00:18:05.690 --> 00:18:08.290
+sound not likely to lose your job to AI.
+
+00:18:08.290 --> 00:18:10.090
+You're going to lose your job to someone
+
+00:18:10.090 --> 00:18:12.050
+who is an expert in using AI.
+
+00:18:12.050 --> 00:18:14.690
+And so I would recommend that everybody
+
+00:18:14.690 --> 00:18:16.410
+learn how to use AI.
+
+00:18:16.410 --> 00:18:19.170
+And so for the doomers that are saying
+
+00:18:19.170 --> 00:18:21.250
+AI is destroying jobs, I think they're
+
+00:18:21.250 --> 00:18:23.210
+doing a disservice to society.
+
+00:18:23.210 --> 00:18:25.570
+AI is creating jobs.
+
+00:18:25.570 --> 00:18:27.970
+I think the doomers that are telling young people
+
+00:18:27.970 --> 00:18:30.770
+that AI is going to destroy opportunities for them,
+
+00:18:30.770 --> 00:18:32.250
+It's a disservice to them.
+
+00:18:32.250 --> 00:18:35.610
+We should encourage them, inspire them to engage AI,
+
+00:18:35.610 --> 00:18:39.010
+to become an expert in learning how to work with AI.
+
+00:18:39.010 --> 00:18:42.210
+And then lastly, all of the companies that I know
+
+00:18:42.210 --> 00:18:45.050
+who are using AI are running faster than ever.
+
+00:18:45.050 --> 00:18:46.410
+They're flying faster than ever.
+
+00:18:46.410 --> 00:18:48.250
+They're more ambitious than ever.
+
+00:18:48.250 --> 00:18:51.770
+And so I think the world's companies that use AI
+
+00:18:51.770 --> 00:18:53.850
+are going to be incredibly successful,
+
+00:18:53.850 --> 00:18:56.250
+which is the reason why we use so much of it here.
+
+00:18:56.250 --> 00:18:58.450
+Yeah, and I think that's great advice
+
+00:18:58.450 --> 00:19:00.570
+for our graduates of 2026.
+
+00:19:00.570 --> 00:19:04.850
+And it's this intelligence revolution is certainly making everyone smarter.
+
+00:19:04.850 --> 00:19:09.990
+I should point out that you've also been real shareholder friendly in terms of this quarter
+
+00:19:09.990 --> 00:19:14.210
+announcing the $80 billion share buyback plan and an increase in the dividend.
+
+00:19:14.210 --> 00:19:18.030
+Jensen, I want to congratulate you and thank you so much for spending the time with us.
+
+00:19:18.030 --> 00:19:22.090
+This was a comprehensive interview and I so appreciate you spending the time talking
+
+00:19:22.090 --> 00:19:23.530
+with our audience on this.
+
+00:19:23.530 --> 00:19:25.030
+Thank you, Jensen.
+
+00:19:25.030 --> 00:19:26.030
+Thank you, Maria.
+
+00:19:26.030 --> 00:19:27.530
+I always love talking to you.
+
+00:19:27.530 --> 00:19:28.530
+Good to see you.
+
+00:19:28.530 --> 00:19:29.570
+Jensen Huang joining us.
+
+00:19:29.570 --> 00:19:31.570
+CEO and founder at NVIDIA.
+
+00:19:31.570 --> 00:19:32.570
+We'll be right back.
+

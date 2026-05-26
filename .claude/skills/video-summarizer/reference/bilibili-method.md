@@ -25,6 +25,8 @@ bash "$SKILL_DIR/scripts/install_deps.sh"
 
 ### Step 1: Get Video Info
 
+**IMPORTANT**: Use Python to extract video info - console output may show garbled Chinese characters, but Python handles UTF-8 correctly.
+
 Extract BVID and create output directory:
 
 ```python
@@ -33,6 +35,7 @@ import requests
 
 def get_video_info(bvid):
     """Get video info via Bilibili API (more reliable than yt-dlp for Chinese encoding)."""
+    import datetime
     url = f'https://api.bilibili.com/x/web-interface/view?bvid={bvid}'
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -42,13 +45,15 @@ def get_video_info(bvid):
     data = response.json()
     aid = data['data']['aid']
     cid = data['data']['cid']
-    title = data['data']['title']
+    title = data['data']['title']  # Chinese title - correctly decoded via API
     duration = data['data']['duration']
-    return aid, cid, title, duration
+    pubdate_ts = data['data']['pubdate']
+    pubdate = datetime.datetime.fromtimestamp(pubdate_ts).strftime('%Y-%m-%d')
+    return aid, cid, title, duration, pubdate
 
 # Usage
 bvid = "BV1qv6eBZErD"
-aid, cid, title, duration = get_video_info(bvid)
+aid, cid, title, duration, pubdate = get_video_info(bvid)
 ```
 
 ### Step 2: Get AID and CID
@@ -213,9 +218,9 @@ BVID="BV1qv6eBZErD"
 OUTPUT_DIR="./downloads/bilibili/$BVID"
 mkdir -p "$OUTPUT_DIR"
 
-# Get video info using Python API (handles Chinese encoding better)
+# Get video info using Python API (handles Chinese encoding and extracts pubdate)
 python -c "
-import requests
+import requests, datetime
 url = 'https://api.bilibili.com/x/web-interface/view?bvid=${BVID}'
 headers = {'User-Agent': 'Mozilla/5.0', 'Referer': 'https://www.bilibili.com'}
 data = requests.get(url, headers=headers).json()
@@ -223,6 +228,9 @@ print(f'AID={data[\"data\"][\"aid\"]}')
 print(f'CID={data[\"data\"][\"cid\"]}')
 print(f'TITLE={data[\"data\"][\"title\"]}')
 print(f'DURATION={data[\"data\"][\"duration\"]}')
+pubdate_ts = data['data']['pubdate']
+pubdate = datetime.datetime.fromtimestamp(pubdate_ts).strftime('%Y-%m-%d')
+print(f'PUBDATE={pubdate}')
 "
 
 # Download subtitles (requires cookies)
@@ -231,6 +239,9 @@ python "$SKILL_DIR/scripts/get_bilibili_subtitle.py" "$AID" "$CID" "$OUTPUT_DIR"
 # Convert JSON to VTT/TXT
 python "$SKILL_DIR/scripts/convert_subtitle.py" "$OUTPUT_DIR/subtitle_ai-zh.json" "$OUTPUT_DIR"
 
-# Generate summary with retry logic
-python "$SKILL_DIR/scripts/generate_summary.py" "$OUTPUT_DIR/transcript.txt" "$OUTPUT_DIR/summary.md" --title "$TITLE" --url "https://www.bilibili.com/video/$BVID" --duration "$DURATION"
+# Generate summary with --pubdate (重要: 使用pubdate排序而非下载时间)
+python "$SKILL_DIR/scripts/generate_summary.py" "$OUTPUT_DIR/transcript.txt" "$OUTPUT_DIR/summary.md" --title "$TITLE" --url "https://www.bilibili.com/video/$BVID" --duration "$DURATION" --pubdate "$PUBDATE"
+
+# Update catalog (按发布时间排序)
+python "$SKILL_DIR/scripts/update_catalog.py" "$OUTPUT_DIR/summary.md" "./downloads/bilibili/catalog.md"
 ```

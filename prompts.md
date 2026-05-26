@@ -15,8 +15,8 @@
 update skill vedio-summarizer:  你应该了解两点1.该技能运行在windows 上，2.uv 和python 的完整路径分别是 C:\Users\chandlernie\AppData\Local\Microsoft\WinGet\Packages\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\uv.exe 和 C:\Users\chandlernie\AppData\Local\Programs\Python\Python311\python.exe
 避免执行过程中的各种路径错误
 
-https://learn.deeplearning.ai/courses/retrieval-augmented-generation/lesson/77dri/module-2-introduction
-总结课程的moudule 1, moudle 1 包含多个视频，需要将每个视频的标题和内容总结出来，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
+https://learn.deeplearning.ai/courses/retrieval-augmented-generation/lesson/tthfc/module-3-introduction
+总结课程的moudule 3, moudle 3 包含多个视频，需要将每个视频的标题和内容总结出来，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
 页面本身自带 Transcript, 
 
 

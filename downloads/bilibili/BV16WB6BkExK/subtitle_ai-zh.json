@@ -1,0 +1,2996 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.18,
+      "to": 0.58,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.58,
+      "to": 2.4,
+      "sid": 2,
+      "location": 2,
+      "content": "我是炫征",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 5.49,
+      "sid": 3,
+      "location": 2,
+      "content": "欢迎来到我的政策研究系列视频",
+      "music": 0.0
+    },
+    {
+      "from": 5.49,
+      "to": 8.15,
+      "sid": 4,
+      "location": 2,
+      "content": "今天咱们研究求是杂志刊登的",
+      "music": 0.0
+    },
+    {
+      "from": 8.15,
+      "to": 10.57,
+      "sid": 5,
+      "location": 2,
+      "content": "基于郭克沙教授研究形成的",
+      "music": 0.0
+    },
+    {
+      "from": 10.57,
+      "to": 12.63,
+      "sid": 6,
+      "location": 2,
+      "content": "我国内需不足的主要原因",
+      "music": 0.0
+    },
+    {
+      "from": 12.63,
+      "to": 17.419,
+      "sid": 7,
+      "location": 2,
+      "content": "译文用马克思主义的立场观点方法讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 17.419,
+      "to": 19.639,
+      "sid": 8,
+      "location": 2,
+      "content": "为啥现在大家不敢消费",
+      "music": 0.0
+    },
+    {
+      "from": 19.639,
+      "to": 21.13,
+      "sid": 9,
+      "location": 2,
+      "content": "企业不愿投资",
+      "music": 0.0
+    },
+    {
+      "from": 21.13,
+      "to": 23.81,
+      "sid": 10,
+      "location": 2,
+      "content": "这事儿和咱们每个月的工资条",
+      "music": 0.0
+    },
+    {
+      "from": 23.81,
+      "to": 25.11,
+      "sid": 11,
+      "location": 2,
+      "content": "菜市场的菜价",
+      "music": 0.0
+    },
+    {
+      "from": 25.11,
+      "to": 28.06,
+      "sid": 12,
+      "location": 2,
+      "content": "家里的房贷都绑得死死的",
+      "music": 0.0
+    },
+    {
+      "from": 28.06,
+      "to": 29.8,
+      "sid": 13,
+      "location": 2,
+      "content": "先看原文的核心论断",
+      "music": 0.0
+    },
+    {
+      "from": 29.8,
+      "to": 33.03,
+      "sid": 14,
+      "location": 2,
+      "content": "当前我国内需不足具有阶段性特点",
+      "music": 0.0
+    },
+    {
+      "from": 33.03,
+      "to": 35.45,
+      "sid": 15,
+      "location": 2,
+      "content": "是短期问题和长期问题交织",
+      "music": 0.0
+    },
+    {
+      "from": 35.45,
+      "to": 37.23,
+      "sid": 16,
+      "location": 2,
+      "content": "总量问题和结构问题",
+      "music": 0.0
+    },
+    {
+      "from": 37.23,
+      "to": 41.18,
+      "sid": 17,
+      "location": 2,
+      "content": "交织现实因素和预期因素交织影响的综合结果",
+      "music": 0.0
+    },
+    {
+      "from": 41.18,
+      "to": 43.61,
+      "sid": 18,
+      "location": 2,
+      "content": "背后还有体制机制的影响",
+      "music": 0.0
+    },
+    {
+      "from": 43.61,
+      "to": 46.23,
+      "sid": 19,
+      "location": 2,
+      "content": "这句话翻译成人话就是内需不够",
+      "music": 0.0
+    },
+    {
+      "from": 46.23,
+      "to": 48.25,
+      "sid": 20,
+      "location": 2,
+      "content": "不是某一个政策没做好的事",
+      "music": 0.0
+    },
+    {
+      "from": 48.25,
+      "to": 50.43,
+      "sid": 21,
+      "location": 2,
+      "content": "是一堆麻烦缠在一起了",
+      "music": 0.0
+    },
+    {
+      "from": 50.43,
+      "to": 52.59,
+      "sid": 22,
+      "location": 2,
+      "content": "用马克思主义矛盾论来分析",
+      "music": 0.0
+    },
+    {
+      "from": 52.59,
+      "to": 54.95,
+      "sid": 23,
+      "location": 2,
+      "content": "这就是主要矛盾和次要矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 54.95,
+      "to": 57.94,
+      "sid": 24,
+      "location": 2,
+      "content": "矛盾的主要方面和次要方面的叠加",
+      "music": 0.0
+    },
+    {
+      "from": 57.94,
+      "to": 60.56,
+      "sid": 25,
+      "location": 2,
+      "content": "短期看房地产市场遇冷",
+      "music": 0.0
+    },
+    {
+      "from": 60.56,
+      "to": 61.92,
+      "sid": 26,
+      "location": 2,
+      "content": "物价出现下行",
+      "music": 0.0
+    },
+    {
+      "from": 61.92,
+      "to": 62.88,
+      "sid": 27,
+      "location": 2,
+      "content": "长期看",
+      "music": 0.0
+    },
+    {
+      "from": 62.88,
+      "to": 65.42,
+      "sid": 28,
+      "location": 2,
+      "content": "咱们经济从过去高速增长的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 68.06,
+      "to": 71.49,
+      "sid": 29,
+      "location": 2,
+      "content": "表面看是消费和投资的总量跟不上",
+      "music": 0.0
+    },
+    {
+      "from": 71.49,
+      "to": 74.21,
+      "sid": 30,
+      "location": 2,
+      "content": "实际上是咱们想买的优质产品和服务",
+      "music": 0.0
+    },
+    {
+      "from": 74.21,
+      "to": 77.72,
+      "sid": 31,
+      "location": 2,
+      "content": "找不到市场上堆着的低端商品又没人要",
+      "music": 0.0
+    },
+    {
+      "from": 77.72,
+      "to": 78.8,
+      "sid": 32,
+      "location": 2,
+      "content": "更关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 78.8,
+      "to": 80.6,
+      "sid": 33,
+      "location": 2,
+      "content": "大家兜里的钱涨得慢",
+      "music": 0.0
+    },
+    {
+      "from": 80.6,
+      "to": 82.32,
+      "sid": 34,
+      "location": 2,
+      "content": "对未来能不能涨工资",
+      "music": 0.0
+    },
+    {
+      "from": 82.32,
+      "to": 83.88,
+      "sid": 35,
+      "location": 2,
+      "content": "保工作心里没底",
+      "music": 0.0
+    },
+    {
+      "from": 83.88,
+      "to": 86.61,
+      "sid": 36,
+      "location": 2,
+      "content": "而这一切的根源就在分配制度",
+      "music": 0.0
+    },
+    {
+      "from": 86.61,
+      "to": 88.95,
+      "sid": 37,
+      "location": 2,
+      "content": "城乡差别这些体制机制上",
+      "music": 0.0
+    },
+    {
+      "from": 88.95,
+      "to": 91.73,
+      "sid": 38,
+      "location": 2,
+      "content": "这些都属于生产关系的范畴",
+      "music": 0.0
+    },
+    {
+      "from": 91.73,
+      "to": 94.11,
+      "sid": 39,
+      "location": 2,
+      "content": "一旦跟不上生产力发展的步伐",
+      "music": 0.0
+    },
+    {
+      "from": 94.11,
+      "to": 96.24,
+      "sid": 40,
+      "location": 2,
+      "content": "内需自然就拉不动",
+      "music": 0.0
+    },
+    {
+      "from": 96.24,
+      "to": 98.14,
+      "sid": 41,
+      "location": 2,
+      "content": "就像当年咱们搞土地革命",
+      "music": 0.0
+    },
+    {
+      "from": 98.14,
+      "to": 100.96,
+      "sid": 42,
+      "location": 2,
+      "content": "是打破封建生产关系对农民的束缚",
+      "music": 0.0
+    },
+    {
+      "from": 100.96,
+      "to": 102.62,
+      "sid": 43,
+      "location": 2,
+      "content": "现在要解决内需问题",
+      "music": 0.0
+    },
+    {
+      "from": 102.62,
+      "to": 104.4,
+      "sid": 44,
+      "location": 2,
+      "content": "同样要调整生产关系",
+      "music": 0.0
+    },
+    {
+      "from": 104.4,
+      "to": 106.08,
+      "sid": 45,
+      "location": 2,
+      "content": "让生产资料的配置",
+      "music": 0.0
+    },
+    {
+      "from": 106.08,
+      "to": 109.6,
+      "sid": 46,
+      "location": 2,
+      "content": "收入的分配更贴合普通人的需求",
+      "music": 0.0
+    },
+    {
+      "from": 109.6,
+      "to": 111.68,
+      "sid": 47,
+      "location": 2,
+      "content": "接下来看第一个核心原因",
+      "music": 0.0
+    },
+    {
+      "from": 111.68,
+      "to": 115.56,
+      "sid": 48,
+      "location": 2,
+      "content": "一是发展阶段转变引起内需增速下行",
+      "music": 0.0
+    },
+    {
+      "from": 115.56,
+      "to": 118.5,
+      "sid": 49,
+      "location": 2,
+      "content": "这是对我国内需变化影响最大的因素",
+      "music": 0.0
+    },
+    {
+      "from": 118.5,
+      "to": 120.39,
+      "sid": 50,
+      "location": 2,
+      "content": "是符合一般规律的",
+      "music": 0.0
+    },
+    {
+      "from": 120.39,
+      "to": 121.75,
+      "sid": 51,
+      "location": 2,
+      "content": "从国际经验看",
+      "music": 0.0
+    },
+    {
+      "from": 121.75,
+      "to": 124.48,
+      "sid": 52,
+      "location": 2,
+      "content": "一个国家在高速增长期结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 124.48,
+      "to": 127.46,
+      "sid": 53,
+      "location": 2,
+      "content": "投资和消费增速往往都会持续回落",
+      "music": 0.0
+    },
+    {
+      "from": 127.46,
+      "to": 131.71,
+      "sid": 54,
+      "location": 2,
+      "content": "形成一个具有长期性波动性特点的转变阶段",
+      "music": 0.0
+    },
+    {
+      "from": 131.71,
+      "to": 133.35,
+      "sid": 55,
+      "location": 2,
+      "content": "这话啥意思",
+      "music": 0.0
+    },
+    {
+      "from": 133.35,
+      "to": 136.91,
+      "sid": 56,
+      "location": 2,
+      "content": "咱们过去几十年为啥能实现高速增长",
+      "music": 0.0
+    },
+    {
+      "from": 137.0,
+      "to": 139.04,
+      "sid": 57,
+      "location": 2,
+      "content": "说白了就是大搞基建",
+      "music": 0.0
+    },
+    {
+      "from": 139.04,
+      "to": 140.17,
+      "sid": 58,
+      "location": 2,
+      "content": "大建工厂",
+      "music": 0.0
+    },
+    {
+      "from": 140.17,
+      "to": 141.51,
+      "sid": 59,
+      "location": 2,
+      "content": "修高速公路",
+      "music": 0.0
+    },
+    {
+      "from": 141.51,
+      "to": 142.57,
+      "sid": 60,
+      "location": 2,
+      "content": "盖商品房",
+      "music": 0.0
+    },
+    {
+      "from": 142.57,
+      "to": 143.59,
+      "sid": 61,
+      "location": 2,
+      "content": "建钢铁厂",
+      "music": 0.0
+    },
+    {
+      "from": 143.59,
+      "to": 145.95,
+      "sid": 62,
+      "location": 2,
+      "content": "这些大规模的固定资产投资",
+      "music": 0.0
+    },
+    {
+      "from": 145.95,
+      "to": 148.18,
+      "sid": 63,
+      "location": 2,
+      "content": "就是拉动经济的火车头",
+      "music": 0.0
+    },
+    {
+      "from": 148.18,
+      "to": 150.4,
+      "sid": 64,
+      "location": 2,
+      "content": "这在马克思主义政治经济学里",
+      "music": 0.0
+    },
+    {
+      "from": 150.4,
+      "to": 152.14,
+      "sid": 65,
+      "location": 2,
+      "content": "被称为生产资料的生产",
+      "music": 0.0
+    },
+    {
+      "from": 152.14,
+      "to": 154.17,
+      "sid": 66,
+      "location": 2,
+      "content": "第一部类生产优先发展",
+      "music": 0.0
+    },
+    {
+      "from": 154.17,
+      "to": 155.83,
+      "sid": 67,
+      "location": 2,
+      "content": "当时咱们一穷二白",
+      "music": 0.0
+    },
+    {
+      "from": 155.83,
+      "to": 157.77,
+      "sid": 68,
+      "location": 2,
+      "content": "必须先把工业底子打牢",
+      "music": 0.0
+    },
+    {
+      "from": 157.77,
+      "to": 160.63,
+      "sid": 69,
+      "location": 2,
+      "content": "才能谈得上提高老百姓的生活水平",
+      "music": 0.0
+    },
+    {
+      "from": 160.63,
+      "to": 161.97,
+      "sid": 70,
+      "location": 2,
+      "content": "但原文也指出",
+      "music": 0.0
+    },
+    {
+      "from": 161.97,
+      "to": 166.1,
+      "sid": 71,
+      "location": 2,
+      "content": "一个重要标志是固定资产投资增速的大幅下行",
+      "music": 0.0
+    },
+    {
+      "from": 166.1,
+      "to": 168.82,
+      "sid": 72,
+      "location": 2,
+      "content": "随着工业化中期阶段的扩张性建设",
+      "music": 0.0
+    },
+    {
+      "from": 168.82,
+      "to": 169.68,
+      "sid": 73,
+      "location": 2,
+      "content": "基本完成",
+      "music": 0.0
+    },
+    {
+      "from": 169.68,
+      "to": 173.89,
+      "sid": 74,
+      "location": 2,
+      "content": "大规模基础性投资的范围和规模随之收缩",
+      "music": 0.0
+    },
+    {
+      "from": 173.89,
+      "to": 176.05,
+      "sid": 75,
+      "location": 2,
+      "content": "这就是客观经济规律",
+      "music": 0.0
+    },
+    {
+      "from": 176.05,
+      "to": 179.999,
+      "sid": 76,
+      "location": 2,
+      "content": "工业化中期的扩张性建设总有天花板路",
+      "music": 0.0
+    },
+    {
+      "from": 181.899,
+      "to": 183.199,
+      "sid": 77,
+      "location": 2,
+      "content": "盖到了产业饱和",
+      "music": 0.0
+    },
+    {
+      "from": 183.199,
+      "to": 185.539,
+      "sid": 78,
+      "location": 2,
+      "content": "投资增速自然就掉下来了",
+      "music": 0.0
+    },
+    {
+      "from": 185.539,
+      "to": 187.74,
+      "sid": 79,
+      "location": 2,
+      "content": "这不是咱们国家独有的情况",
+      "music": 0.0
+    },
+    {
+      "from": 187.74,
+      "to": 189.22,
+      "sid": 80,
+      "location": 2,
+      "content": "你看那些发达国家",
+      "music": 0.0
+    },
+    {
+      "from": 189.22,
+      "to": 192.06,
+      "sid": 81,
+      "location": 2,
+      "content": "当年从高速增长转向中高速增长时",
+      "music": 0.0
+    },
+    {
+      "from": 192.06,
+      "to": 193.85,
+      "sid": 82,
+      "location": 2,
+      "content": "都经历过这一阶段",
+      "music": 0.0
+    },
+    {
+      "from": 193.85,
+      "to": 195.11,
+      "sid": 83,
+      "location": 2,
+      "content": "投资一下降",
+      "music": 0.0
+    },
+    {
+      "from": 195.11,
+      "to": 197.63,
+      "sid": 84,
+      "location": 2,
+      "content": "直接影响的就是咱们的饭碗",
+      "music": 0.0
+    },
+    {
+      "from": 197.63,
+      "to": 199.97,
+      "sid": 85,
+      "location": 2,
+      "content": "工地上的农民工大哥没活儿干了",
+      "music": 0.0
+    },
+    {
+      "from": 199.97,
+      "to": 202.63,
+      "sid": 86,
+      "location": 2,
+      "content": "工厂里的流水线工人面临裁员",
+      "music": 0.0
+    },
+    {
+      "from": 202.63,
+      "to": 204.95,
+      "sid": 87,
+      "location": 2,
+      "content": "大家的收入增长就踩了刹车",
+      "music": 0.0
+    },
+    {
+      "from": 204.95,
+      "to": 206.51,
+      "sid": 88,
+      "location": 2,
+      "content": "而原文紧接着说",
+      "music": 0.0
+    },
+    {
+      "from": 206.51,
+      "to": 209.88,
+      "sid": 89,
+      "location": 2,
+      "content": "投资下行引起就业居民收入变化",
+      "music": 0.0
+    },
+    {
+      "from": 209.88,
+      "to": 213.86,
+      "sid": 90,
+      "location": 2,
+      "content": "同时家庭的主要物质需求基本实现大范围",
+      "music": 0.0
+    },
+    {
+      "from": 213.86,
+      "to": 215.58,
+      "sid": 91,
+      "location": 2,
+      "content": "基础性消费开始减少",
+      "music": 0.0
+    },
+    {
+      "from": 215.58,
+      "to": 218.17,
+      "sid": 92,
+      "location": 2,
+      "content": "消费增速也随之持续下行",
+      "music": 0.0
+    },
+    {
+      "from": 218.17,
+      "to": 220.07,
+      "sid": 93,
+      "location": 2,
+      "content": "这一点大家都有体会",
+      "music": 0.0
+    },
+    {
+      "from": 220.07,
+      "to": 223.17,
+      "sid": 94,
+      "location": 2,
+      "content": "二三十年前谁家买个彩电冰箱",
+      "music": 0.0
+    },
+    {
+      "from": 223.17,
+      "to": 224.89,
+      "sid": 95,
+      "location": 2,
+      "content": "那都是全村的大事",
+      "music": 0.0
+    },
+    {
+      "from": 224.89,
+      "to": 227.719,
+      "sid": 96,
+      "location": 2,
+      "content": "现在呢这些家电家家都有",
+      "music": 0.0
+    },
+    {
+      "from": 227.719,
+      "to": 229.279,
+      "sid": 97,
+      "location": 2,
+      "content": "换新的频率也慢了",
+      "music": 0.0
+    },
+    {
+      "from": 229.279,
+      "to": 232.64,
+      "sid": 98,
+      "location": 2,
+      "content": "基础性消费的增长空间早就没了",
+      "music": 0.0
+    },
+    {
+      "from": 232.64,
+      "to": 234.72,
+      "sid": 99,
+      "location": 2,
+      "content": "这就是马克思主义所说的",
+      "music": 0.0
+    },
+    {
+      "from": 234.72,
+      "to": 236.31,
+      "sid": 100,
+      "location": 2,
+      "content": "生产决定消费",
+      "music": 0.0
+    },
+    {
+      "from": 236.31,
+      "to": 238.43,
+      "sid": 101,
+      "location": 2,
+      "content": "生产力发展到一定阶段",
+      "music": 0.0
+    },
+    {
+      "from": 238.43,
+      "to": 242.38,
+      "sid": 102,
+      "location": 2,
+      "content": "消费需求就会从有没有转向好不好",
+      "music": 0.0
+    },
+    {
+      "from": 242.38,
+      "to": 243.62,
+      "sid": 103,
+      "location": 2,
+      "content": "但问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 243.62,
+      "to": 244.66,
+      "sid": 104,
+      "location": 2,
+      "content": "这个过程中",
+      "music": 0.0
+    },
+    {
+      "from": 244.66,
+      "to": 245.98,
+      "sid": 105,
+      "location": 2,
+      "content": "消费结构升级",
+      "music": 0.0
+    },
+    {
+      "from": 245.98,
+      "to": 249.12,
+      "sid": 106,
+      "location": 2,
+      "content": "促使质量需求和服务需求较快上升",
+      "music": 0.0
+    },
+    {
+      "from": 249.12,
+      "to": 252.0,
+      "sid": 107,
+      "location": 2,
+      "content": "而供给结构难以适应新的变化",
+      "music": 0.0
+    },
+    {
+      "from": 252.0,
+      "to": 254.769,
+      "sid": 108,
+      "location": 2,
+      "content": "导致结构性过剩和短缺并存",
+      "music": 0.0
+    },
+    {
+      "from": 254.769,
+      "to": 256.389,
+      "sid": 109,
+      "location": 2,
+      "content": "这就是最闹心的地方",
+      "music": 0.0
+    },
+    {
+      "from": 256.389,
+      "to": 257.929,
+      "sid": 110,
+      "location": 2,
+      "content": "商场里的廉价衣服",
+      "music": 0.0
+    },
+    {
+      "from": 257.929,
+      "to": 260.37,
+      "sid": 111,
+      "location": 2,
+      "content": "杂牌家电堆着卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 260.37,
+      "to": 263.76,
+      "sid": 112,
+      "location": 2,
+      "content": "可大家想要的高品质国货定制化服务",
+      "music": 0.0
+    },
+    {
+      "from": 263.76,
+      "to": 264.82,
+      "sid": 113,
+      "location": 2,
+      "content": "要么找不到",
+      "music": 0.0
+    },
+    {
+      "from": 264.82,
+      "to": 266.42,
+      "sid": 114,
+      "location": 2,
+      "content": "要么价格高得离谱",
+      "music": 0.0
+    },
+    {
+      "from": 266.42,
+      "to": 269.84,
+      "sid": 115,
+      "location": 2,
+      "content": "这就是供给侧没跟上需求侧的升级步伐",
+      "music": 0.0
+    },
+    {
+      "from": 269.84,
+      "to": 272.86,
+      "sid": 116,
+      "location": 2,
+      "content": "生产和消费的矛盾就此凸显",
+      "music": 0.0
+    },
+    {
+      "from": 272.86,
+      "to": 274.74,
+      "sid": 117,
+      "location": 2,
+      "content": "原文里还有个关键时间点",
+      "music": 0.0
+    },
+    {
+      "from": 274.74,
+      "to": 278.38,
+      "sid": 118,
+      "location": 2,
+      "content": "我国经济高速增长期大致在2012年结束",
+      "music": 0.0
+    },
+    {
+      "from": 278.38,
+      "to": 281.59,
+      "sid": 119,
+      "location": 2,
+      "content": "这一年GDP增速下降到8%以下",
+      "music": 0.0
+    },
+    {
+      "from": 281.59,
+      "to": 284.25,
+      "sid": 120,
+      "location": 2,
+      "content": "从高速增长转向中高速增长",
+      "music": 0.0
+    },
+    {
+      "from": 284.25,
+      "to": 287.45,
+      "sid": 121,
+      "location": 2,
+      "content": "面对传统高增长模式留下的问题和供求",
+      "music": 0.0
+    },
+    {
+      "from": 287.45,
+      "to": 288.27,
+      "sid": 122,
+      "location": 2,
+      "content": "结构性矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 288.27,
+      "to": 289.58,
+      "sid": 123,
+      "location": 2,
+      "content": "对内需的影响",
+      "music": 0.0
+    },
+    {
+      "from": 290.58,
+      "to": 293.789,
+      "sid": 124,
+      "location": 2,
+      "content": "深入实施供给侧结构性改革等重大部署",
+      "music": 0.0
+    },
+    {
+      "from": 296.409,
+      "to": 299.06,
+      "sid": 125,
+      "location": 2,
+      "content": "同时避免了经济大幅波动",
+      "music": 0.0
+    },
+    {
+      "from": 299.06,
+      "to": 301.48,
+      "sid": 126,
+      "location": 2,
+      "content": "供给侧改革不是啥高深的词",
+      "music": 0.0
+    },
+    {
+      "from": 301.48,
+      "to": 303.88,
+      "sid": 127,
+      "location": 2,
+      "content": "说白了就是淘汰那些污染大",
+      "music": 0.0
+    },
+    {
+      "from": 303.88,
+      "to": 305.39,
+      "sid": 128,
+      "location": 2,
+      "content": "效率低的厂子",
+      "music": 0.0
+    },
+    {
+      "from": 305.39,
+      "to": 306.79,
+      "sid": 129,
+      "location": 2,
+      "content": "把资源往芯片",
+      "music": 0.0
+    },
+    {
+      "from": 306.79,
+      "to": 308.29,
+      "sid": 130,
+      "location": 2,
+      "content": "新能源汽车",
+      "music": 0.0
+    },
+    {
+      "from": 308.29,
+      "to": 310.91,
+      "sid": 131,
+      "location": 2,
+      "content": "生物医药这些高端产业上瘾",
+      "music": 0.0
+    },
+    {
+      "from": 310.91,
+      "to": 314.46,
+      "sid": 132,
+      "location": 2,
+      "content": "让市场上的产品和服务能跟上大家的需求",
+      "music": 0.0
+    },
+    {
+      "from": 316.9,
+      "to": 321.51,
+      "sid": 133,
+      "location": 2,
+      "content": "巩固充实提高八字方针本涨是一个道理",
+      "music": 0.0
+    },
+    {
+      "from": 321.51,
+      "to": 324.53,
+      "sid": 134,
+      "location": 2,
+      "content": "都是主动解决经济发展中的深层矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 324.53,
+      "to": 326.48,
+      "sid": 135,
+      "location": 2,
+      "content": "不让经济大起大落",
+      "music": 0.0
+    },
+    {
+      "from": 326.48,
+      "to": 327.8,
+      "sid": 136,
+      "location": 2,
+      "content": "但原文也说了",
+      "music": 0.0
+    },
+    {
+      "from": 327.8,
+      "to": 331.18,
+      "sid": 137,
+      "location": 2,
+      "content": "发展阶段转变往往会在较长一段时期内",
+      "music": 0.0
+    },
+    {
+      "from": 331.18,
+      "to": 333.32,
+      "sid": 138,
+      "location": 2,
+      "content": "引起国内有效需求不足",
+      "music": 0.0
+    },
+    {
+      "from": 333.32,
+      "to": 335.46,
+      "sid": 139,
+      "location": 2,
+      "content": "引发总供求关系失衡",
+      "music": 0.0
+    },
+    {
+      "from": 335.46,
+      "to": 338.76,
+      "sid": 140,
+      "location": 2,
+      "content": "这就是说新旧增长动力的转换需要时间",
+      "music": 0.0
+    },
+    {
+      "from": 338.76,
+      "to": 342.67,
+      "sid": 141,
+      "location": 2,
+      "content": "有效需求不足的阵痛肯定要持续好一阵子",
+      "music": 0.0
+    },
+    {
+      "from": 342.67,
+      "to": 344.5,
+      "sid": 142,
+      "location": 2,
+      "content": "咱们得有清醒的认识",
+      "music": 0.0
+    },
+    {
+      "from": 344.5,
+      "to": 346.16,
+      "sid": 143,
+      "location": 2,
+      "content": "再看第二个核心原因",
+      "music": 0.0
+    },
+    {
+      "from": 346.16,
+      "to": 348.24,
+      "sid": 144,
+      "location": 2,
+      "content": "也是最戳心窝子的一个",
+      "music": 0.0
+    },
+    {
+      "from": 348.24,
+      "to": 351.38,
+      "sid": 145,
+      "location": 2,
+      "content": "二是收入分配结构影响消费增长",
+      "music": 0.0
+    },
+    {
+      "from": 351.38,
+      "to": 354.69,
+      "sid": 146,
+      "location": 2,
+      "content": "这是导致消费不足的一个结构性体制",
+      "music": 0.0
+    },
+    {
+      "from": 354.69,
+      "to": 355.67,
+      "sid": 147,
+      "location": 2,
+      "content": "机制性因素",
+      "music": 0.0
+    },
+    {
+      "from": 355.67,
+      "to": 357.65,
+      "sid": 148,
+      "location": 2,
+      "content": "具有长期历史原因",
+      "music": 0.0
+    },
+    {
+      "from": 357.65,
+      "to": 360.37,
+      "sid": 149,
+      "location": 2,
+      "content": "马克思主义政治经济学早就阐明",
+      "music": 0.0
+    },
+    {
+      "from": 360.37,
+      "to": 362.789,
+      "sid": 150,
+      "location": 2,
+      "content": "分配关系是生产关系的核心",
+      "music": 0.0
+    },
+    {
+      "from": 362.789,
+      "to": 364.269,
+      "sid": 151,
+      "location": 2,
+      "content": "分蛋糕的方式不对",
+      "music": 0.0
+    },
+    {
+      "from": 364.269,
+      "to": 366.029,
+      "sid": 152,
+      "location": 2,
+      "content": "大家就没心思消费",
+      "music": 0.0
+    },
+    {
+      "from": 366.029,
+      "to": 367.37,
+      "sid": 153,
+      "location": 2,
+      "content": "没动力生产",
+      "music": 0.0
+    },
+    {
+      "from": 367.37,
+      "to": 369.81,
+      "sid": 154,
+      "location": 2,
+      "content": "原文里给了两个扎心的数据",
+      "music": 0.0
+    },
+    {
+      "from": 369.81,
+      "to": 371.99,
+      "sid": 155,
+      "location": 2,
+      "content": "在国民收入初次分配中",
+      "music": 0.0
+    },
+    {
+      "from": 371.99,
+      "to": 374.89,
+      "sid": 156,
+      "location": 2,
+      "content": "我国劳动者报酬占GDP比重",
+      "music": 0.0
+    },
+    {
+      "from": 374.89,
+      "to": 377.23,
+      "sid": 157,
+      "location": 2,
+      "content": "居民收入在国民收入中的占比",
+      "music": 0.0
+    },
+    {
+      "from": 377.23,
+      "to": 379.53,
+      "sid": 158,
+      "location": 2,
+      "content": "均低于大多数发达经济体",
+      "music": 0.0
+    },
+    {
+      "from": 379.53,
+      "to": 380.75,
+      "sid": 159,
+      "location": 2,
+      "content": "2024年",
+      "music": 0.0
+    },
+    {
+      "from": 380.75,
+      "to": 383.77,
+      "sid": 160,
+      "location": 2,
+      "content": "我国城乡收入比仍为2.34倍",
+      "music": 0.0
+    },
+    {
+      "from": 383.77,
+      "to": 387.37,
+      "sid": 161,
+      "location": 2,
+      "content": "反映出城乡居民收入分配差距依然较大",
+      "music": 0.0
+    },
+    {
+      "from": 387.37,
+      "to": 389.07,
+      "sid": 162,
+      "location": 2,
+      "content": "这两个数据意味着啥",
+      "music": 0.0
+    },
+    {
+      "from": 389.07,
+      "to": 392.45,
+      "sid": 163,
+      "location": 2,
+      "content": "第一咱们干活的人分的蛋糕太少了",
+      "music": 0.0
+    },
+    {
+      "from": 392.45,
+      "to": 395.4,
+      "sid": 164,
+      "location": 2,
+      "content": "说白了就是干的多拿的少",
+      "music": 0.0
+    },
+    {
+      "from": 395.4,
+      "to": 398.1,
+      "sid": 165,
+      "location": 2,
+      "content": "你想想你在工厂里加班加点",
+      "music": 0.0
+    },
+    {
+      "from": 398.1,
+      "to": 401.68,
+      "sid": 166,
+      "location": 2,
+      "content": "在办公室里996创造的价值不少",
+      "music": 0.0
+    },
+    {
+      "from": 401.68,
+      "to": 403.2,
+      "sid": 167,
+      "location": 2,
+      "content": "但拿到手的工资",
+      "music": 0.0
+    },
+    {
+      "from": 403.2,
+      "to": 405.58,
+      "sid": 168,
+      "location": 2,
+      "content": "在整个经济蛋糕里占的份额",
+      "music": 0.0
+    },
+    {
+      "from": 405.58,
+      "to": 407.86,
+      "sid": 169,
+      "location": 2,
+      "content": "比发达国家的劳动者还低",
+      "music": 0.0
+    },
+    {
+      "from": 407.86,
+      "to": 410.34,
+      "sid": 170,
+      "location": 2,
+      "content": "第二城乡差距太大了",
+      "music": 0.0
+    },
+    {
+      "from": 410.34,
+      "to": 412.88,
+      "sid": 171,
+      "location": 2,
+      "content": "农村大爷大妈辛辛苦苦干一年",
+      "music": 0.0
+    },
+    {
+      "from": 412.88,
+      "to": 415.1,
+      "sid": 172,
+      "location": 2,
+      "content": "种出来的粮食卖不了几个钱",
+      "music": 0.0
+    },
+    {
+      "from": 415.1,
+      "to": 418.57,
+      "sid": 173,
+      "location": 2,
+      "content": "收入可能还比不上城里白领一个月的工资",
+      "music": 0.0
+    },
+    {
+      "from": 418.57,
+      "to": 420.31,
+      "sid": 174,
+      "location": 2,
+      "content": "在这种分配结构下",
+      "music": 0.0
+    },
+    {
+      "from": 420.31,
+      "to": 421.75,
+      "sid": 175,
+      "location": 2,
+      "content": "经济一旦下行",
+      "music": 0.0
+    },
+    {
+      "from": 421.75,
+      "to": 424.35,
+      "sid": 176,
+      "location": 2,
+      "content": "最倒霉的就是咱们普通人",
+      "music": 0.0
+    },
+    {
+      "from": 424.35,
+      "to": 425.39,
+      "sid": 177,
+      "location": 2,
+      "content": "原文说",
+      "music": 0.0
+    },
+    {
+      "from": 425.39,
+      "to": 429.91,
+      "sid": 178,
+      "location": 2,
+      "content": "在已经彻底解决生存型温饱型需求的条件下",
+      "music": 0.0
+    },
+    {
+      "from": 429.91,
+      "to": 430.95,
+      "sid": 179,
+      "location": 2,
+      "content": "经济下行",
+      "music": 0.0
+    },
+    {
+      "from": 430.95,
+      "to": 434.51,
+      "sid": 180,
+      "location": 2,
+      "content": "对低收入及中低收入群体的收入和消费",
+      "music": 0.0
+    },
+    {
+      "from": 434.51,
+      "to": 436.12,
+      "sid": 181,
+      "location": 2,
+      "content": "会产生较大冲击",
+      "music": 0.0
+    },
+    {
+      "from": 436.12,
+      "to": 439.1,
+      "sid": 182,
+      "location": 2,
+      "content": "导致消费收缩大于收入收缩",
+      "music": 0.0
+    },
+    {
+      "from": 439.1,
+      "to": 441.25,
+      "sid": 183,
+      "location": 2,
+      "content": "这句话太真实了",
+      "music": 0.0
+    },
+    {
+      "from": 441.25,
+      "to": 444.41,
+      "sid": 184,
+      "location": 2,
+      "content": "你想想你一个月挣5000块房贷",
+      "music": 0.0
+    },
+    {
+      "from": 444.41,
+      "to": 445.79,
+      "sid": 185,
+      "location": 2,
+      "content": "车贷要还3000",
+      "music": 0.0
+    },
+    {
+      "from": 445.79,
+      "to": 448.36,
+      "sid": 186,
+      "location": 2,
+      "content": "剩下的钱刚够吃饭看病",
+      "music": 0.0
+    },
+    {
+      "from": 448.36,
+      "to": 450.22,
+      "sid": 187,
+      "location": 2,
+      "content": "要是公司降薪一成",
+      "music": 0.0
+    },
+    {
+      "from": 450.22,
+      "to": 451.86,
+      "sid": 188,
+      "location": 2,
+      "content": "你的收入少了500",
+      "music": 0.0
+    },
+    {
+      "from": 451.86,
+      "to": 453.7,
+      "sid": 189,
+      "location": 2,
+      "content": "那你肯定得把买衣服",
+      "music": 0.0
+    },
+    {
+      "from": 453.7,
+      "to": 454.66,
+      "sid": 190,
+      "location": 2,
+      "content": "看电影",
+      "music": 0.0
+    },
+    {
+      "from": 454.66,
+      "to": 456.68,
+      "sid": 191,
+      "location": 2,
+      "content": "下馆子的钱全砍了",
+      "music": 0.0
+    },
+    {
+      "from": 456.68,
+      "to": 460.58,
+      "sid": 192,
+      "location": 2,
+      "content": "消费收缩的幅度远远超过收入收缩的幅度",
+      "music": 0.0
+    },
+    {
+      "from": 460.58,
+      "to": 461.84,
+      "sid": 193,
+      "location": 2,
+      "content": "更要命的是",
+      "music": 0.0
+    },
+    {
+      "from": 461.84,
+      "to": 465.87,
+      "sid": 194,
+      "location": 2,
+      "content": "这部分人群是我国当前消费格局的基础和主体",
+      "music": 0.0
+    },
+    {
+      "from": 465.87,
+      "to": 467.97,
+      "sid": 195,
+      "location": 2,
+      "content": "其收入和消费受到影响",
+      "music": 0.0
+    },
+    {
+      "from": 467.97,
+      "to": 471.07,
+      "sid": 196,
+      "location": 2,
+      "content": "可能使经济下行和消费下行的相互影响",
+      "music": 0.0
+    },
+    {
+      "from": 471.07,
+      "to": 472.65,
+      "sid": 197,
+      "location": 2,
+      "content": "呈现放大效应",
+      "music": 0.0
+    },
+    {
+      "from": 472.65,
+      "to": 474.25,
+      "sid": 198,
+      "location": 2,
+      "content": "这就是个恶性循环",
+      "music": 0.0
+    },
+    {
+      "from": 474.25,
+      "to": 477.24,
+      "sid": 199,
+      "location": 2,
+      "content": "我们不消费企业的产品卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 477.24,
+      "to": 478.9,
+      "sid": 200,
+      "location": 2,
+      "content": "企业就会裁员降薪",
+      "music": 0.0
+    },
+    {
+      "from": 478.9,
+      "to": 480.56,
+      "sid": 201,
+      "location": 2,
+      "content": "然后我们的收入更少",
+      "music": 0.0
+    },
+    {
+      "from": 480.56,
+      "to": 481.84,
+      "sid": 202,
+      "location": 2,
+      "content": "更不敢消费",
+      "music": 0.0
+    },
+    {
+      "from": 481.84,
+      "to": 483.51,
+      "sid": 203,
+      "location": 2,
+      "content": "这个圈越转越紧",
+      "music": 0.0
+    },
+    {
+      "from": 483.51,
+      "to": 485.02,
+      "sid": 204,
+      "location": 2,
+      "content": "为啥会这样",
+      "music": 0.0
+    },
+    {
+      "from": 485.02,
+      "to": 486.48,
+      "sid": 205,
+      "location": 2,
+      "content": "原文说得很清楚",
+      "music": 0.0
+    },
+    {
+      "from": 486.48,
+      "to": 489.84,
+      "sid": 206,
+      "location": 2,
+      "content": "我国进入中等偏上收入经济体行列后",
+      "music": 0.0
+    },
+    {
+      "from": 489.84,
+      "to": 491.8,
+      "sid": 207,
+      "location": 2,
+      "content": "中高收入群体的消费倾向",
+      "music": 0.0
+    },
+    {
+      "from": 491.8,
+      "to": 494.21,
+      "sid": 208,
+      "location": 2,
+      "content": "即进入稳定期或低速增长期",
+      "music": 0.0
+    },
+    {
+      "from": 494.21,
+      "to": 496.79,
+      "sid": 209,
+      "location": 2,
+      "content": "而中低收入群体的消费升级和扩大",
+      "music": 0.0
+    },
+    {
+      "from": 496.79,
+      "to": 498.29,
+      "sid": 210,
+      "location": 2,
+      "content": "一旦受到收入制约",
+      "music": 0.0
+    },
+    {
+      "from": 498.29,
+      "to": 501.05,
+      "sid": 211,
+      "location": 2,
+      "content": "就会引起总体消费增速下降和扩大",
+      "music": 0.0
+    },
+    {
+      "from": 501.05,
+      "to": 502.77,
+      "sid": 212,
+      "location": 2,
+      "content": "消费难度加大的问题",
+      "music": 0.0
+    },
+    {
+      "from": 502.77,
+      "to": 505.81,
+      "sid": 213,
+      "location": 2,
+      "content": "高收入群体的消费需求已经基本饱和了",
+      "music": 0.0
+    },
+    {
+      "from": 505.81,
+      "to": 507.37,
+      "sid": 214,
+      "location": 2,
+      "content": "豪车豪宅都有了",
+      "music": 0.0
+    },
+    {
+      "from": 507.37,
+      "to": 508.88,
+      "sid": 215,
+      "location": 2,
+      "content": "消费增长自然慢",
+      "music": 0.0
+    },
+    {
+      "from": 508.88,
+      "to": 511.96,
+      "sid": 216,
+      "location": 2,
+      "content": "而我们中低收入群体想换个新手机",
+      "music": 0.0
+    },
+    {
+      "from": 511.96,
+      "to": 514.74,
+      "sid": 217,
+      "location": 2,
+      "content": "带家人出去旅游一趟都得掂量半天",
+      "music": 0.0
+    },
+    {
+      "from": 514.74,
+      "to": 515.96,
+      "sid": 218,
+      "location": 2,
+      "content": "不是不想消费",
+      "music": 0.0
+    },
+    {
+      "from": 515.96,
+      "to": 517.4,
+      "sid": 219,
+      "location": 2,
+      "content": "是兜里没钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 517.4,
+      "to": 519.64,
+      "sid": 220,
+      "location": 2,
+      "content": "所以说分配结构不改",
+      "music": 0.0
+    },
+    {
+      "from": 519.64,
+      "to": 521.54,
+      "sid": 221,
+      "location": 2,
+      "content": "老百姓的腰包鼓不起来",
+      "music": 0.0
+    },
+    {
+      "from": 523.69,
+      "to": 524.89,
+      "sid": 222,
+      "location": 2,
+      "content": "这不是啥理论",
+      "music": 0.0
+    },
+    {
+      "from": 524.89,
+      "to": 526.87,
+      "sid": 223,
+      "location": 2,
+      "content": "是实实在在的民生账",
+      "music": 0.0
+    },
+    {
+      "from": 526.87,
+      "to": 530.39,
+      "sid": 224,
+      "location": 2,
+      "content": "第三个核心原因是和每个家庭都息息相关的",
+      "music": 0.0
+    },
+    {
+      "from": 530.39,
+      "to": 531.11,
+      "sid": 225,
+      "location": 2,
+      "content": "房地产",
+      "music": 0.0
+    },
+    {
+      "from": 531.11,
+      "to": 534.83,
+      "sid": 226,
+      "location": 2,
+      "content": "三是房地产市场调整对内需产生冲击",
+      "music": 0.0
+    },
+    {
+      "from": 534.83,
+      "to": 538.19,
+      "sid": 227,
+      "location": 2,
+      "content": "这既是当前加重内需不足的短期原因",
+      "music": 0.0
+    },
+    {
+      "from": 538.19,
+      "to": 541.14,
+      "sid": 228,
+      "location": 2,
+      "content": "也是影响内需走势的中长期问题",
+      "music": 0.0
+    },
+    {
+      "from": 541.14,
+      "to": 544.839,
+      "sid": 229,
+      "location": 2,
+      "content": "原文里的一组数据直接戳破了房地产的现状",
+      "music": 0.0
+    },
+    {
+      "from": 544.839,
+      "to": 547.279,
+      "sid": 230,
+      "location": 2,
+      "content": "我国房地产市场用20多年时间",
+      "music": 0.0
+    },
+    {
+      "from": 547.279,
+      "to": 549.039,
+      "sid": 231,
+      "location": 2,
+      "content": "基本上走完了西方发达国家",
+      "music": 0.0
+    },
+    {
+      "from": 549.039,
+      "to": 551.86,
+      "sid": 232,
+      "location": 2,
+      "content": "要经历许多个房地产周期才能走完的路",
+      "music": 0.0
+    },
+    {
+      "from": 551.86,
+      "to": 554.46,
+      "sid": 233,
+      "location": 2,
+      "content": "目前我国城镇居民人均住房面积",
+      "music": 0.0
+    },
+    {
+      "from": 554.46,
+      "to": 555.74,
+      "sid": 234,
+      "location": 2,
+      "content": "超过40平方米",
+      "music": 0.0
+    },
+    {
+      "from": 555.74,
+      "to": 556.74,
+      "sid": 235,
+      "location": 2,
+      "content": "高于日本",
+      "music": 0.0
+    },
+    {
+      "from": 556.74,
+      "to": 557.9,
+      "sid": 236,
+      "location": 2,
+      "content": "法国等国家",
+      "music": 0.0
+    },
+    {
+      "from": 557.9,
+      "to": 560.27,
+      "sid": 237,
+      "location": 2,
+      "content": "住房拥有率达到96%",
+      "music": 0.0
+    },
+    {
+      "from": 560.27,
+      "to": 562.39,
+      "sid": 238,
+      "location": 2,
+      "content": "户均住房约1.5套",
+      "music": 0.0
+    },
+    {
+      "from": 562.39,
+      "to": 563.85,
+      "sid": 239,
+      "location": 2,
+      "content": "明显高于日本",
+      "music": 0.0
+    },
+    {
+      "from": 563.85,
+      "to": 565.03,
+      "sid": 240,
+      "location": 2,
+      "content": "美国等国家",
+      "music": 0.0
+    },
+    {
+      "from": 565.03,
+      "to": 566.54,
+      "sid": 241,
+      "location": 2,
+      "content": "这些数据说明啥",
+      "music": 0.0
+    },
+    {
+      "from": 566.54,
+      "to": 569.4,
+      "sid": 242,
+      "location": 2,
+      "content": "说明房子已经构筑了甚至过剩了",
+      "music": 0.0
+    },
+    {
+      "from": 569.4,
+      "to": 573.339,
+      "sid": 243,
+      "location": 2,
+      "content": "过去靠盖房子拉动经济的路子已经走到头了",
+      "music": 0.0
+    },
+    {
+      "from": 577.359,
+      "to": 579.519,
+      "sid": 244,
+      "location": 2,
+      "content": "房地产本来是用来住的",
+      "music": 0.0
+    },
+    {
+      "from": 581.43,
+      "to": 583.31,
+      "sid": 245,
+      "location": 2,
+      "content": "但前些年的过度炒作",
+      "music": 0.0
+    },
+    {
+      "from": 583.31,
+      "to": 585.17,
+      "sid": 246,
+      "location": 2,
+      "content": "让它变成了投机的工具",
+      "music": 0.0
+    },
+    {
+      "from": 587.18,
+      "to": 590.26,
+      "sid": 247,
+      "location": 2,
+      "content": "现在房地产市场深度调整带来的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 590.26,
+      "to": 591.51,
+      "sid": 248,
+      "location": 2,
+      "content": "是全方位的",
+      "music": 0.0
+    },
+    {
+      "from": 591.51,
+      "to": 592.27,
+      "sid": 249,
+      "location": 2,
+      "content": "原文说",
+      "music": 0.0
+    },
+    {
+      "from": 592.27,
+      "to": 593.31,
+      "sid": 250,
+      "location": 2,
+      "content": "我国房地产业",
+      "music": 0.0
+    },
+    {
+      "from": 593.31,
+      "to": 596.08,
+      "sid": 251,
+      "location": 2,
+      "content": "曾对投资和经济增长发挥了重要作用",
+      "music": 0.0
+    },
+    {
+      "from": 596.08,
+      "to": 598.5,
+      "sid": 252,
+      "location": 2,
+      "content": "现在房地产市场深度调整下行",
+      "music": 0.0
+    },
+    {
+      "from": 598.5,
+      "to": 600.86,
+      "sid": 253,
+      "location": 2,
+      "content": "对固定资产投资产生较大冲击",
+      "music": 0.0
+    },
+    {
+      "from": 600.86,
+      "to": 603.24,
+      "sid": 254,
+      "location": 2,
+      "content": "也给居民消费带来负面影响",
+      "music": 0.0
+    },
+    {
+      "from": 603.24,
+      "to": 604.44,
+      "sid": 255,
+      "location": 2,
+      "content": "从投资端看",
+      "music": 0.0
+    },
+    {
+      "from": 604.44,
+      "to": 607.46,
+      "sid": 256,
+      "location": 2,
+      "content": "房地产投资占固定资产投资的比重不低",
+      "music": 0.0
+    },
+    {
+      "from": 607.46,
+      "to": 608.42,
+      "sid": 257,
+      "location": 2,
+      "content": "它一下行",
+      "music": 0.0
+    },
+    {
+      "from": 608.42,
+      "to": 613.06,
+      "sid": 258,
+      "location": 2,
+      "content": "钢铁水泥家电等上下游产业都跟着受影响",
+      "music": 0.0
+    },
+    {
+      "from": 613.06,
+      "to": 615.23,
+      "sid": 259,
+      "location": 2,
+      "content": "投资数据自然好不起来",
+      "music": 0.0
+    },
+    {
+      "from": 615.23,
+      "to": 617.03,
+      "sid": 260,
+      "location": 2,
+      "content": "从消费端看更惨",
+      "music": 0.0
+    },
+    {
+      "from": 617.03,
+      "to": 619.55,
+      "sid": 261,
+      "location": 2,
+      "content": "你半辈子的积蓄都砸在房子上了",
+      "music": 0.0
+    },
+    {
+      "from": 619.55,
+      "to": 621.61,
+      "sid": 262,
+      "location": 2,
+      "content": "每个月工资一大半要还房贷",
+      "music": 0.0
+    },
+    {
+      "from": 621.61,
+      "to": 623.36,
+      "sid": 263,
+      "location": 2,
+      "content": "手里哪还有钱去消费",
+      "music": 0.0
+    },
+    {
+      "from": 623.36,
+      "to": 625.06,
+      "sid": 264,
+      "location": 2,
+      "content": "以前觉得房子能升值",
+      "music": 0.0
+    },
+    {
+      "from": 625.06,
+      "to": 626.36,
+      "sid": 265,
+      "location": 2,
+      "content": "现在房价不涨了",
+      "music": 0.0
+    },
+    {
+      "from": 626.36,
+      "to": 627.16,
+      "sid": 266,
+      "location": 2,
+      "content": "甚至跌了",
+      "music": 0.0
+    },
+    {
+      "from": 627.16,
+      "to": 628.32,
+      "sid": 267,
+      "location": 2,
+      "content": "大家心里慌了",
+      "music": 0.0
+    },
+    {
+      "from": 628.32,
+      "to": 629.46,
+      "sid": 268,
+      "location": 2,
+      "content": "更不敢花钱了",
+      "music": 0.0
+    },
+    {
+      "from": 629.46,
+      "to": 632.0,
+      "sid": 269,
+      "location": 2,
+      "content": "都想着留点现金傍身",
+      "music": 0.0
+    },
+    {
+      "from": 632.0,
+      "to": 633.3,
+      "sid": 270,
+      "location": 2,
+      "content": "那该怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 633.3,
+      "to": 634.66,
+      "sid": 271,
+      "location": 2,
+      "content": "原文给了方向",
+      "music": 0.0
+    },
+    {
+      "from": 634.66,
+      "to": 635.82,
+      "sid": 272,
+      "location": 2,
+      "content": "从短期来看",
+      "music": 0.0
+    },
+    {
+      "from": 635.82,
+      "to": 639.61,
+      "sid": 273,
+      "location": 2,
+      "content": "中央地方采取有力措施稳定房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 639.61,
+      "to": 641.93,
+      "sid": 274,
+      "location": 2,
+      "content": "有助于增强房地产市场韧性",
+      "music": 0.0
+    },
+    {
+      "from": 641.93,
+      "to": 644.79,
+      "sid": 275,
+      "location": 2,
+      "content": "使供给过剩的压力缓慢释放",
+      "music": 0.0
+    },
+    {
+      "from": 644.79,
+      "to": 646.21,
+      "sid": 276,
+      "location": 2,
+      "content": "从中长期来看",
+      "music": 0.0
+    },
+    {
+      "from": 646.21,
+      "to": 648.69,
+      "sid": 277,
+      "location": 2,
+      "content": "改变候鸟型的城乡人口流动",
+      "music": 0.0
+    },
+    {
+      "from": 648.69,
+      "to": 651.54,
+      "sid": 278,
+      "location": 2,
+      "content": "实现2亿多农业转移人口市民化",
+      "music": 0.0
+    },
+    {
+      "from": 651.54,
+      "to": 653.52,
+      "sid": 279,
+      "location": 2,
+      "content": "满足新市民住房需求",
+      "music": 0.0
+    },
+    {
+      "from": 653.52,
+      "to": 656.66,
+      "sid": 280,
+      "location": 2,
+      "content": "解决老旧小区面临的停车充电",
+      "music": 0.0
+    },
+    {
+      "from": 656.66,
+      "to": 658.3,
+      "sid": 281,
+      "location": 2,
+      "content": "加装电梯等难题",
+      "music": 0.0
+    },
+    {
+      "from": 658.3,
+      "to": 660.01,
+      "sid": 282,
+      "location": 2,
+      "content": "推动好房子建设",
+      "music": 0.0
+    },
+    {
+      "from": 660.01,
+      "to": 662.81,
+      "sid": 283,
+      "location": 2,
+      "content": "可以进一步激发房地产市场潜力",
+      "music": 0.0
+    },
+    {
+      "from": 662.81,
+      "to": 665.92,
+      "sid": 284,
+      "location": 2,
+      "content": "但这有可能是一个较长的历史过程",
+      "music": 0.0
+    },
+    {
+      "from": 665.92,
+      "to": 669.32,
+      "sid": 285,
+      "location": 2,
+      "content": "短期稳定房地产不是在让房价暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 669.32,
+      "to": 670.84,
+      "sid": 286,
+      "location": 2,
+      "content": "而是防止其暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 670.84,
+      "to": 672.38,
+      "sid": 287,
+      "location": 2,
+      "content": "避免引发烂尾楼",
+      "music": 0.0
+    },
+    {
+      "from": 672.38,
+      "to": 673.3,
+      "sid": 288,
+      "location": 2,
+      "content": "银行坏账",
+      "music": 0.0
+    },
+    {
+      "from": 673.3,
+      "to": 674.77,
+      "sid": 289,
+      "location": 2,
+      "content": "这些系统性风险",
+      "music": 0.0
+    },
+    {
+      "from": 674.77,
+      "to": 678.39,
+      "sid": 290,
+      "location": 2,
+      "content": "中长期的出路是让房子回归居住属性",
+      "music": 0.0
+    },
+    {
+      "from": 678.39,
+      "to": 679.38,
+      "sid": 291,
+      "location": 2,
+      "content": "啥意思",
+      "music": 0.0
+    },
+    {
+      "from": 679.38,
+      "to": 681.58,
+      "sid": 292,
+      "location": 2,
+      "content": "就是要解决那些进城打工的",
+      "music": 0.0
+    },
+    {
+      "from": 681.58,
+      "to": 683.31,
+      "sid": 293,
+      "location": 2,
+      "content": "农民兄弟的住房问题",
+      "music": 0.0
+    },
+    {
+      "from": 683.31,
+      "to": 686.45,
+      "sid": 294,
+      "location": 2,
+      "content": "他们在城里干活却买不起城里的房子",
+      "music": 0.0
+    },
+    {
+      "from": 686.45,
+      "to": 688.11,
+      "sid": 295,
+      "location": 2,
+      "content": "没法真正扎根",
+      "music": 0.0
+    },
+    {
+      "from": 688.11,
+      "to": 690.25,
+      "sid": 296,
+      "location": 2,
+      "content": "如果能让他们变成新市民",
+      "music": 0.0
+    },
+    {
+      "from": 690.25,
+      "to": 692.49,
+      "sid": 297,
+      "location": 2,
+      "content": "享受到和城里人一样的教育",
+      "music": 0.0
+    },
+    {
+      "from": 692.49,
+      "to": 693.47,
+      "sid": 298,
+      "location": 2,
+      "content": "医疗资源",
+      "music": 0.0
+    },
+    {
+      "from": 693.47,
+      "to": 695.53,
+      "sid": 299,
+      "location": 2,
+      "content": "再给他们建一些买得起的房子",
+      "music": 0.0
+    },
+    {
+      "from": 695.53,
+      "to": 697.95,
+      "sid": 300,
+      "location": 2,
+      "content": "房地产市场才有新活力",
+      "music": 0.0
+    },
+    {
+      "from": 697.95,
+      "to": 700.77,
+      "sid": 301,
+      "location": 2,
+      "content": "还有老旧小区改造装电梯",
+      "music": 0.0
+    },
+    {
+      "from": 700.77,
+      "to": 701.87,
+      "sid": 302,
+      "location": 2,
+      "content": "建停车场",
+      "music": 0.0
+    },
+    {
+      "from": 701.87,
+      "to": 703.99,
+      "sid": 303,
+      "location": 2,
+      "content": "既能改善大家的居住条件",
+      "music": 0.0
+    },
+    {
+      "from": 703.99,
+      "to": 705.43,
+      "sid": 304,
+      "location": 2,
+      "content": "又能拉动投资",
+      "music": 0.0
+    },
+    {
+      "from": 705.43,
+      "to": 707.829,
+      "sid": 305,
+      "location": 2,
+      "content": "这才是实实在在的好事",
+      "music": 0.0
+    },
+    {
+      "from": 707.829,
+      "to": 712.409,
+      "sid": 306,
+      "location": 2,
+      "content": "最后看第四个核心原因是一个越缠越紧的死结",
+      "music": 0.0
+    },
+    {
+      "from": 712.409,
+      "to": 714.36,
+      "sid": 307,
+      "location": 2,
+      "content": "四是内需不足",
+      "music": 0.0
+    },
+    {
+      "from": 714.36,
+      "to": 717.78,
+      "sid": 308,
+      "location": 2,
+      "content": "价格下行和预期转弱相互影响",
+      "music": 0.0
+    },
+    {
+      "from": 717.78,
+      "to": 722.079,
+      "sid": 309,
+      "location": 2,
+      "content": "这是一个经济运行中相关变量相互影响的问题",
+      "music": 0.0
+    },
+    {
+      "from": 722.079,
+      "to": 725.359,
+      "sid": 310,
+      "location": 2,
+      "content": "这就是马克思主义所说的普遍联系原理",
+      "music": 0.0
+    },
+    {
+      "from": 725.359,
+      "to": 727.199,
+      "sid": 311,
+      "location": 2,
+      "content": "经济运行中的内需",
+      "music": 0.0
+    },
+    {
+      "from": 727.199,
+      "to": 731.42,
+      "sid": 312,
+      "location": 2,
+      "content": "价格预期三个变量不是孤立存在的",
+      "music": 0.0
+    },
+    {
+      "from": 731.42,
+      "to": 732.7,
+      "sid": 313,
+      "location": 2,
+      "content": "而是相互联系",
+      "music": 0.0
+    },
+    {
+      "from": 732.7,
+      "to": 734.14,
+      "sid": 314,
+      "location": 2,
+      "content": "相互作用的",
+      "music": 0.0
+    },
+    {
+      "from": 734.14,
+      "to": 734.96,
+      "sid": 315,
+      "location": 2,
+      "content": "原文说",
+      "music": 0.0
+    },
+    {
+      "from": 734.96,
+      "to": 738.02,
+      "sid": 316,
+      "location": 2,
+      "content": "内需价格和预期相互影响",
+      "music": 0.0
+    },
+    {
+      "from": 738.02,
+      "to": 741.98,
+      "sid": 317,
+      "location": 2,
+      "content": "最突出的是影响消费信心和投资信心",
+      "music": 0.0
+    },
+    {
+      "from": 741.98,
+      "to": 745.76,
+      "sid": 318,
+      "location": 2,
+      "content": "导致内需下行幅度加大和时间延长",
+      "music": 0.0
+    },
+    {
+      "from": 745.76,
+      "to": 748.66,
+      "sid": 319,
+      "location": 2,
+      "content": "咱们先看内需和价格的关系",
+      "music": 0.0
+    },
+    {
+      "from": 748.66,
+      "to": 751.68,
+      "sid": 320,
+      "location": 2,
+      "content": "内需不足转化为总需求不足",
+      "music": 0.0
+    },
+    {
+      "from": 751.68,
+      "to": 754.28,
+      "sid": 321,
+      "location": 2,
+      "content": "将引起价格总水平下行",
+      "music": 0.0
+    },
+    {
+      "from": 754.28,
+      "to": 757.46,
+      "sid": 322,
+      "location": 2,
+      "content": "价格下行影响企业经营和盈利",
+      "music": 0.0
+    },
+    {
+      "from": 757.46,
+      "to": 759.92,
+      "sid": 323,
+      "location": 2,
+      "content": "进而影响居民就业和收入",
+      "music": 0.0
+    },
+    {
+      "from": 759.92,
+      "to": 761.14,
+      "sid": 324,
+      "location": 2,
+      "content": "使名义消费",
+      "music": 0.0
+    },
+    {
+      "from": 761.14,
+      "to": 764.26,
+      "sid": 325,
+      "location": 2,
+      "content": "名义投资和名义GDP增速下滑",
+      "music": 0.0
+    },
+    {
+      "from": 764.26,
+      "to": 766.75,
+      "sid": 326,
+      "location": 2,
+      "content": "宏观杠杆率被动上行",
+      "music": 0.0
+    },
+    {
+      "from": 766.75,
+      "to": 769.17,
+      "sid": 327,
+      "location": 2,
+      "content": "反过来加剧需求不足",
+      "music": 0.0
+    },
+    {
+      "from": 769.17,
+      "to": 771.4,
+      "sid": 328,
+      "location": 2,
+      "content": "这就是通缩的苗头啊",
+      "music": 0.0
+    },
+    {
+      "from": 771.4,
+      "to": 774.08,
+      "sid": 329,
+      "location": 2,
+      "content": "你想想市场上的东西卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 774.08,
+      "to": 775.96,
+      "sid": 330,
+      "location": 2,
+      "content": "商家只能降价促销",
+      "music": 0.0
+    },
+    {
+      "from": 775.96,
+      "to": 777.56,
+      "sid": 331,
+      "location": 2,
+      "content": "物价越来越低",
+      "music": 0.0
+    },
+    {
+      "from": 777.56,
+      "to": 780.86,
+      "sid": 332,
+      "location": 2,
+      "content": "企业赚不到钱就会裁员降薪",
+      "music": 0.0
+    },
+    {
+      "from": 780.86,
+      "to": 782.24,
+      "sid": 333,
+      "location": 2,
+      "content": "大家收入少了",
+      "music": 0.0
+    },
+    {
+      "from": 782.24,
+      "to": 783.38,
+      "sid": 334,
+      "location": 2,
+      "content": "更不敢消费",
+      "music": 0.0
+    },
+    {
+      "from": 783.38,
+      "to": 785.22,
+      "sid": 335,
+      "location": 2,
+      "content": "东西就更卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 785.22,
+      "to": 787.17,
+      "sid": 336,
+      "location": 2,
+      "content": "这个循环越赚越紧",
+      "music": 0.0
+    },
+    {
+      "from": 787.17,
+      "to": 789.33,
+      "sid": 337,
+      "location": 2,
+      "content": "再看内需和预期的关系",
+      "music": 0.0
+    },
+    {
+      "from": 789.33,
+      "to": 792.33,
+      "sid": 338,
+      "location": 2,
+      "content": "内需不足本身就会影响到预期",
+      "music": 0.0
+    },
+    {
+      "from": 792.33,
+      "to": 793.89,
+      "sid": 339,
+      "location": 2,
+      "content": "对经济前景的预期",
+      "music": 0.0
+    },
+    {
+      "from": 793.89,
+      "to": 796.08,
+      "sid": 340,
+      "location": 2,
+      "content": "会直接影响个人对就业",
+      "music": 0.0
+    },
+    {
+      "from": 796.08,
+      "to": 797.8,
+      "sid": 341,
+      "location": 2,
+      "content": "创业和收入的预期",
+      "music": 0.0
+    },
+    {
+      "from": 797.8,
+      "to": 800.68,
+      "sid": 342,
+      "location": 2,
+      "content": "增加消费投资的堵点和卡点",
+      "music": 0.0
+    },
+    {
+      "from": 800.68,
+      "to": 803.819,
+      "sid": 343,
+      "location": 2,
+      "content": "影响消费支出和投资选择",
+      "music": 0.0
+    },
+    {
+      "from": 803.819,
+      "to": 806.53,
+      "sid": 344,
+      "location": 2,
+      "content": "说白了就是大家心里没底",
+      "music": 0.0
+    },
+    {
+      "from": 806.53,
+      "to": 808.49,
+      "sid": 345,
+      "location": 2,
+      "content": "你不知道明年会不会失业",
+      "music": 0.0
+    },
+    {
+      "from": 808.49,
+      "to": 810.01,
+      "sid": 346,
+      "location": 2,
+      "content": "不知道工资能不能涨",
+      "music": 0.0
+    },
+    {
+      "from": 810.01,
+      "to": 812.18,
+      "sid": 347,
+      "location": 2,
+      "content": "不知道孩子上学要花多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 812.18,
+      "to": 813.94,
+      "sid": 348,
+      "location": 2,
+      "content": "所以宁愿把钱存银行",
+      "music": 0.0
+    },
+    {
+      "from": 813.94,
+      "to": 815.16,
+      "sid": 349,
+      "location": 2,
+      "content": "也不敢花出去",
+      "music": 0.0
+    },
+    {
+      "from": 815.16,
+      "to": 818.78,
+      "sid": 350,
+      "location": 2,
+      "content": "尤其是原文强调的低收入和中低收入群体",
+      "music": 0.0
+    },
+    {
+      "from": 818.78,
+      "to": 820.04,
+      "sid": 351,
+      "location": 2,
+      "content": "收入预期转弱",
+      "music": 0.0
+    },
+    {
+      "from": 820.04,
+      "to": 823.44,
+      "sid": 352,
+      "location": 2,
+      "content": "会导致消费收缩产生连锁和放大效应",
+      "music": 0.0
+    },
+    {
+      "from": 823.44,
+      "to": 826.42,
+      "sid": 353,
+      "location": 2,
+      "content": "我们这些普通人对未来的预期最敏感",
+      "music": 0.0
+    },
+    {
+      "from": 826.42,
+      "to": 827.64,
+      "sid": 354,
+      "location": 2,
+      "content": "一旦心里慌了",
+      "music": 0.0
+    },
+    {
+      "from": 827.64,
+      "to": 828.96,
+      "sid": 355,
+      "location": 2,
+      "content": "消费砍得最狠",
+      "music": 0.0
+    },
+    {
+      "from": 828.96,
+      "to": 832.03,
+      "sid": 356,
+      "location": 2,
+      "content": "这又会让整个经济的活力越来越差",
+      "music": 0.0
+    },
+    {
+      "from": 832.03,
+      "to": 832.97,
+      "sid": 357,
+      "location": 2,
+      "content": "讲到这里",
+      "music": 0.0
+    },
+    {
+      "from": 832.97,
+      "to": 834.17,
+      "sid": 358,
+      "location": 2,
+      "content": "大家应该明白了",
+      "music": 0.0
+    },
+    {
+      "from": 834.17,
+      "to": 837.72,
+      "sid": 359,
+      "location": 2,
+      "content": "内需不足不是简单的大家不爱花钱的问题",
+      "music": 0.0
+    },
+    {
+      "from": 837.72,
+      "to": 839.36,
+      "sid": 360,
+      "location": 2,
+      "content": "是发展阶段的阵痛",
+      "music": 0.0
+    },
+    {
+      "from": 839.36,
+      "to": 840.96,
+      "sid": 361,
+      "location": 2,
+      "content": "是分配不公的矛盾",
+      "music": 0.0
+    },
+    {
+      "from": 842.84,
+      "to": 846.41,
+      "sid": 362,
+      "location": 2,
+      "content": "更是体制机制改革的硬骨头",
+      "music": 0.0
+    },
+    {
+      "from": 846.41,
+      "to": 850.99,
+      "sid": 363,
+      "location": 2,
+      "content": "用马克思主义的立场观点方法去分析这些问题",
+      "music": 0.0
+    },
+    {
+      "from": 850.99,
+      "to": 852.17,
+      "sid": 364,
+      "location": 2,
+      "content": "不是为了唱衰",
+      "music": 0.0
+    },
+    {
+      "from": 852.17,
+      "to": 853.67,
+      "sid": 365,
+      "location": 2,
+      "content": "而是为了看清本质",
+      "music": 0.0
+    },
+    {
+      "from": 853.67,
+      "to": 855.41,
+      "sid": 366,
+      "location": 2,
+      "content": "只有调整生产关系",
+      "music": 0.0
+    },
+    {
+      "from": 855.41,
+      "to": 856.84,
+      "sid": 367,
+      "location": 2,
+      "content": "让分配更公平",
+      "music": 0.0
+    },
+    {
+      "from": 856.84,
+      "to": 858.22,
+      "sid": 368,
+      "location": 2,
+      "content": "供给更适配",
+      "music": 0.0
+    },
+    {
+      "from": 858.22,
+      "to": 859.44,
+      "sid": 369,
+      "location": 2,
+      "content": "预期更稳定",
+      "music": 0.0
+    },
+    {
+      "from": 859.44,
+      "to": 862.18,
+      "sid": 370,
+      "location": 2,
+      "content": "才能真正激活内需潜力",
+      "music": 0.0
+    },
+    {
+      "from": 862.18,
+      "to": 863.82,
+      "sid": 371,
+      "location": 2,
+      "content": "今天的解读就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 863.82,
+      "to": 865.6,
+      "sid": 372,
+      "location": 2,
+      "content": "我是炫征关注我",
+      "music": 0.0
+    },
+    {
+      "from": 865.6,
+      "to": 868.62,
+      "sid": 373,
+      "location": 2,
+      "content": "用经典理论读懂真实中国经济",
+      "music": 0.0
+    }
+  ]
+}

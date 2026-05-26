@@ -1,0 +1,1676 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.82,
+      "to": 3.02,
+      "sid": 1,
+      "location": 2,
+      "content": "当市场还在争论中国互联网公司",
+      "music": 0.0
+    },
+    {
+      "from": 3.02,
+      "to": 5.06,
+      "sid": 2,
+      "location": 2,
+      "content": "AI转型的真实价值时",
+      "music": 0.0
+    },
+    {
+      "from": 5.06,
+      "to": 8.52,
+      "sid": 3,
+      "location": 2,
+      "content": "谁能想到高盛已经框定了五大核心AI辩论",
+      "music": 0.0
+    },
+    {
+      "from": 8.52,
+      "to": 10.61,
+      "sid": 4,
+      "location": 2,
+      "content": "并给出了明确的投资结论",
+      "music": 0.0
+    },
+    {
+      "from": 10.61,
+      "to": 14.49,
+      "sid": 5,
+      "location": 2,
+      "content": "这正是高盛最新发布的中国互联网导航AI模型",
+      "music": 0.0
+    },
+    {
+      "from": 14.49,
+      "to": 16.93,
+      "sid": 6,
+      "location": 2,
+      "content": "研报的核心价值所在",
+      "music": 0.0
+    },
+    {
+      "from": 17.219,
+      "to": 20.279,
+      "sid": 7,
+      "location": 2,
+      "content": "这份发布于2026年5月4日的研报",
+      "music": 0.0
+    },
+    {
+      "from": 20.279,
+      "to": 22.779,
+      "sid": 8,
+      "location": 2,
+      "content": "由高盛亚洲互联网研究团队",
+      "music": 0.0
+    },
+    {
+      "from": 22.779,
+      "to": 25.89,
+      "sid": 9,
+      "location": 2,
+      "content": "首席分析师ROONNET康领衔撰写报告",
+      "music": 0.0
+    },
+    {
+      "from": 25.89,
+      "to": 28.53,
+      "sid": 10,
+      "location": 2,
+      "content": "报告框架了五大AI核心辩论",
+      "music": 0.0
+    },
+    {
+      "from": 28.53,
+      "to": 32.11,
+      "sid": 11,
+      "location": 2,
+      "content": "并在此基础上将mini max上调至买入评级",
+      "music": 0.0
+    },
+    {
+      "from": 32.11,
+      "to": 35.91,
+      "sid": 12,
+      "location": 2,
+      "content": "同时维持阿里巴巴的买入确信名单地位",
+      "music": 0.0
+    },
+    {
+      "from": 36.29,
+      "to": 39.129,
+      "sid": 13,
+      "location": 2,
+      "content": "本报告的核心数据亮点包括",
+      "music": 0.0
+    },
+    {
+      "from": 39.129,
+      "to": 42.109,
+      "sid": 14,
+      "location": 2,
+      "content": "高盛框定了五大AI投资辩论",
+      "music": 0.0
+    },
+    {
+      "from": 42.109,
+      "to": 44.229,
+      "sid": 15,
+      "location": 2,
+      "content": "涉及中美模型差距",
+      "music": 0.0
+    },
+    {
+      "from": 44.229,
+      "to": 46.18,
+      "sid": 16,
+      "location": 2,
+      "content": "AI模型竞争格局",
+      "music": 0.0
+    },
+    {
+      "from": 46.18,
+      "to": 48.0,
+      "sid": 17,
+      "location": 2,
+      "content": "token增长可持续性",
+      "music": 0.0
+    },
+    {
+      "from": 48.0,
+      "to": 52.349,
+      "sid": 18,
+      "location": 2,
+      "content": "国产芯片转型以及消费级AI代理的发展路径",
+      "music": 0.0
+    },
+    {
+      "from": 52.349,
+      "to": 53.909,
+      "sid": 19,
+      "location": 2,
+      "content": "在阿里巴巴方面",
+      "music": 0.0
+    },
+    {
+      "from": 53.909,
+      "to": 56.189,
+      "sid": 20,
+      "location": 2,
+      "content": "高盛将其置于确信名单",
+      "music": 0.0
+    },
+    {
+      "from": 56.189,
+      "to": 57.96,
+      "sid": 21,
+      "location": 2,
+      "content": "维持买入评级",
+      "music": 0.0
+    },
+    {
+      "from": 57.96,
+      "to": 59.58,
+      "sid": 22,
+      "location": 2,
+      "content": "在mini max方面",
+      "music": 0.0
+    },
+    {
+      "from": 59.58,
+      "to": 62.66,
+      "sid": 23,
+      "location": 2,
+      "content": "鉴于其年度经常性收入持续增长",
+      "music": 0.0
+    },
+    {
+      "from": 62.66,
+      "to": 66.36,
+      "sid": 24,
+      "location": 2,
+      "content": "且股价自3月高点回调幅度达40%",
+      "music": 0.0
+    },
+    {
+      "from": 66.36,
+      "to": 71.07,
+      "sid": 25,
+      "location": 2,
+      "content": "高盛将其评级从中性上调至买入一",
+      "music": 0.0
+    },
+    {
+      "from": 71.07,
+      "to": 75.699,
+      "sid": 26,
+      "location": 2,
+      "content": "首先框定五大AI核心辩论及其投资启示",
+      "music": 0.0
+    },
+    {
+      "from": 75.699,
+      "to": 77.079,
+      "sid": 27,
+      "location": 2,
+      "content": "高盛指出",
+      "music": 0.0
+    },
+    {
+      "from": 77.079,
+      "to": 80.84,
+      "sid": 28,
+      "location": 2,
+      "content": "当前中国AI投资领域存在五大核心辩论",
+      "music": 0.0
+    },
+    {
+      "from": 80.84,
+      "to": 82.18,
+      "sid": 29,
+      "location": 2,
+      "content": "这些辩论的演变",
+      "music": 0.0
+    },
+    {
+      "from": 82.18,
+      "to": 86.88,
+      "sid": 30,
+      "location": 2,
+      "content": "将直接影响相关公司的估值逻辑和投资决策",
+      "music": 0.0
+    },
+    {
+      "from": 87.12,
+      "to": 88.24,
+      "sid": 31,
+      "location": 2,
+      "content": "第一大辩论",
+      "music": 0.0
+    },
+    {
+      "from": 88.24,
+      "to": 91.74,
+      "sid": 32,
+      "location": 2,
+      "content": "中美AI模型差距是缩小还是扩大",
+      "music": 0.0
+    },
+    {
+      "from": 91.94,
+      "to": 92.94,
+      "sid": 33,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 92.94,
+      "to": 94.98,
+      "sid": 34,
+      "location": 2,
+      "content": "多项基准测试显示",
+      "music": 0.0
+    },
+    {
+      "from": 94.98,
+      "to": 98.12,
+      "sid": 35,
+      "location": 2,
+      "content": "中国AI基础模型与g b t opus",
+      "music": 0.0
+    },
+    {
+      "from": 98.12,
+      "to": 102.229,
+      "sid": 36,
+      "location": 2,
+      "content": "GERMANY等美国领先模型的差距正在持续缩小",
+      "music": 0.0
+    },
+    {
+      "from": 102.229,
+      "to": 106.469,
+      "sid": 37,
+      "location": 2,
+      "content": "中国模型在定价速度和代理任务完成率方面",
+      "music": 0.0
+    },
+    {
+      "from": 106.469,
+      "to": 107.41,
+      "sid": 38,
+      "location": 2,
+      "content": "表现突出",
+      "music": 0.0
+    },
+    {
+      "from": 107.41,
+      "to": 109.67,
+      "sid": 39,
+      "location": 2,
+      "content": "然而高盛同时指出",
+      "music": 0.0
+    },
+    {
+      "from": 109.67,
+      "to": 113.61,
+      "sid": 40,
+      "location": 2,
+      "content": "中国AI公司面临算力紧张和训练预算",
+      "music": 0.0
+    },
+    {
+      "from": 113.61,
+      "to": 116.06,
+      "sid": 41,
+      "location": 2,
+      "content": "显著低于美国同行的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 116.06,
+      "to": 119.57,
+      "sid": 42,
+      "location": 2,
+      "content": "这在复杂编码场景中表现得尤为明显",
+      "music": 0.0
+    },
+    {
+      "from": 119.57,
+      "to": 120.77,
+      "sid": 43,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 120.77,
+      "to": 123.21,
+      "sid": 44,
+      "location": 2,
+      "content": "多模态能力将成为下一阶段",
+      "music": 0.0
+    },
+    {
+      "from": 123.21,
+      "to": 126.61,
+      "sid": 45,
+      "location": 2,
+      "content": "中国AI模型缩小差距的关键领域",
+      "music": 0.0
+    },
+    {
+      "from": 126.61,
+      "to": 129.749,
+      "sid": 46,
+      "location": 2,
+      "content": "字节跳动的seed a2.0",
+      "music": 0.0
+    },
+    {
+      "from": 129.749,
+      "to": 131.709,
+      "sid": 47,
+      "location": 2,
+      "content": "和阿里巴巴的happy horse",
+      "music": 0.0
+    },
+    {
+      "from": 131.709,
+      "to": 136.24,
+      "sid": 48,
+      "location": 2,
+      "content": "已在多模态基准测试中达到了业界领先水平",
+      "music": 0.0
+    },
+    {
+      "from": 136.44,
+      "to": 137.5,
+      "sid": 49,
+      "location": 2,
+      "content": "第二大辩论",
+      "music": 0.0
+    },
+    {
+      "from": 137.5,
+      "to": 141.44,
+      "sid": 50,
+      "location": 2,
+      "content": "中国AI模型竞争格局中的护城河在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 141.76,
+      "to": 142.66,
+      "sid": 51,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 142.66,
+      "to": 144.04,
+      "sid": 52,
+      "location": 2,
+      "content": "差异化竞争是关键",
+      "music": 0.0
+    },
+    {
+      "from": 144.04,
+      "to": 145.76,
+      "sid": 53,
+      "location": 2,
+      "content": "随着deep sick v4",
+      "music": 0.0
+    },
+    {
+      "from": 145.76,
+      "to": 147.06,
+      "sid": 54,
+      "location": 2,
+      "content": "腾讯混元",
+      "music": 0.0
+    },
+    {
+      "from": 147.06,
+      "to": 149.8,
+      "sid": 55,
+      "location": 2,
+      "content": "小米MIO等模型近期密集发布",
+      "music": 0.0
+    },
+    {
+      "from": 149.8,
+      "to": 151.24,
+      "sid": 56,
+      "location": 2,
+      "content": "市场对AI模型层",
+      "music": 0.0
+    },
+    {
+      "from": 151.24,
+      "to": 153.84,
+      "sid": 57,
+      "location": 2,
+      "content": "竞争加剧和进入壁垒下降的担忧升温",
+      "music": 0.0
+    },
+    {
+      "from": 153.84,
+      "to": 154.93,
+      "sid": 58,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 154.93,
+      "to": 155.85,
+      "sid": 59,
+      "location": 2,
+      "content": "编码能力",
+      "music": 0.0
+    },
+    {
+      "from": 155.85,
+      "to": 156.13,
+      "sid": 60,
+      "location": 2,
+      "content": "多",
+      "music": 0.0
+    },
+    {
+      "from": 156.13,
+      "to": 157.83,
+      "sid": 61,
+      "location": 2,
+      "content": "模态性能和任务完成率",
+      "music": 0.0
+    },
+    {
+      "from": 157.83,
+      "to": 160.04,
+      "sid": 62,
+      "location": 2,
+      "content": "将成为定价权的核心驱动力",
+      "music": 0.0
+    },
+    {
+      "from": 160.04,
+      "to": 162.46,
+      "sid": 63,
+      "location": 2,
+      "content": "未来可能从按token计费转向",
+      "music": 0.0
+    },
+    {
+      "from": 162.46,
+      "to": 164.52,
+      "sid": 64,
+      "location": 2,
+      "content": "按成功任务计费的新模式",
+      "music": 0.0
+    },
+    {
+      "from": 164.52,
+      "to": 165.63,
+      "sid": 65,
+      "location": 2,
+      "content": "在这方面",
+      "music": 0.0
+    },
+    {
+      "from": 165.63,
+      "to": 169.61,
+      "sid": 66,
+      "location": 2,
+      "content": "独立AI公司的竞争优势在于其高效的决策流程",
+      "music": 0.0
+    },
+    {
+      "from": 169.61,
+      "to": 173.25,
+      "sid": 67,
+      "location": 2,
+      "content": "而互联网巨头则凭借强大的核心业务现金流",
+      "music": 0.0
+    },
+    {
+      "from": 173.25,
+      "to": 176.53,
+      "sid": 68,
+      "location": 2,
+      "content": "更好地把握AI基础设施和云业务机会",
+      "music": 0.0
+    },
+    {
+      "from": 176.53,
+      "to": 177.69,
+      "sid": 69,
+      "location": 2,
+      "content": "第三大辩论",
+      "music": 0.0
+    },
+    {
+      "from": 177.69,
+      "to": 179.71,
+      "sid": 70,
+      "location": 2,
+      "content": "token增长是否可持续",
+      "music": 0.0
+    },
+    {
+      "from": 179.71,
+      "to": 183.66,
+      "sid": 71,
+      "location": 2,
+      "content": "云超大规模运营商的自由现金流前景如何",
+      "music": 0.0
+    },
+    {
+      "from": 183.86,
+      "to": 184.96,
+      "sid": 72,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 184.96,
+      "to": 187.74,
+      "sid": 73,
+      "location": 2,
+      "content": "多年持续的token增长和定价权提升",
+      "music": 0.0
+    },
+    {
+      "from": 187.74,
+      "to": 191.65,
+      "sid": 74,
+      "location": 2,
+      "content": "将驱动AI模型和AI云业务的增长与利润率改善",
+      "music": 0.0
+    },
+    {
+      "from": 191.65,
+      "to": 194.75,
+      "sid": 75,
+      "location": 2,
+      "content": "中国云超大规模运营商的资本支出",
+      "music": 0.0
+    },
+    {
+      "from": 194.75,
+      "to": 197.76,
+      "sid": 76,
+      "location": 2,
+      "content": "占运营限流的比例预计为60%",
+      "music": 0.0
+    },
+    {
+      "from": 197.76,
+      "to": 200.8,
+      "sid": 77,
+      "location": 2,
+      "content": "显著低于美国同行的90%左右",
+      "music": 0.0
+    },
+    {
+      "from": 200.8,
+      "to": 203.78,
+      "sid": 78,
+      "location": 2,
+      "content": "这为2026年下半年至2028年间",
+      "music": 0.0
+    },
+    {
+      "from": 203.78,
+      "to": 206.5,
+      "sid": 79,
+      "location": 2,
+      "content": "进一步提升资本支出提供了空间",
+      "music": 0.0
+    },
+    {
+      "from": 208.66,
+      "to": 212.28,
+      "sid": 80,
+      "location": 2,
+      "content": "中国日均token使用量已突破140万亿",
+      "music": 0.0
+    },
+    {
+      "from": 212.28,
+      "to": 215.2,
+      "sid": 81,
+      "location": 2,
+      "content": "较2024年初增长超过1000倍",
+      "music": 0.0
+    },
+    {
+      "from": 215.2,
+      "to": 218.1,
+      "sid": 82,
+      "location": 2,
+      "content": "较去年年底增长40%",
+      "music": 0.0
+    },
+    {
+      "from": 218.34,
+      "to": 219.52,
+      "sid": 83,
+      "location": 2,
+      "content": "第四大辩论",
+      "music": 0.0
+    },
+    {
+      "from": 219.52,
+      "to": 223.11,
+      "sid": 84,
+      "location": 2,
+      "content": "向国产芯片转型的进展与影响",
+      "music": 0.0
+    },
+    {
+      "from": 223.35,
+      "to": 224.33,
+      "sid": 85,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 224.33,
+      "to": 225.67,
+      "sid": 86,
+      "location": 2,
+      "content": "像国产芯片的转型",
+      "music": 0.0
+    },
+    {
+      "from": 225.67,
+      "to": 228.69,
+      "sid": 87,
+      "location": 2,
+      "content": "将在2026年至2028年间加速推进",
+      "music": 0.0
+    },
+    {
+      "from": 228.69,
+      "to": 231.51,
+      "sid": 88,
+      "location": 2,
+      "content": "尽管短期内仍面临供应瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 231.51,
+      "to": 232.57,
+      "sid": 89,
+      "location": 2,
+      "content": "高盛指出",
+      "music": 0.0
+    },
+    {
+      "from": 232.57,
+      "to": 235.47,
+      "sid": 90,
+      "location": 2,
+      "content": "中国AI模型训练将越来越多地依赖",
+      "music": 0.0
+    },
+    {
+      "from": 235.47,
+      "to": 237.49,
+      "sid": 91,
+      "location": 2,
+      "content": "高度优化的计算高效架构",
+      "music": 0.0
+    },
+    {
+      "from": 237.49,
+      "to": 239.64,
+      "sid": 92,
+      "location": 2,
+      "content": "以弥补硬件性能差距",
+      "music": 0.0
+    },
+    {
+      "from": 239.64,
+      "to": 241.66,
+      "sid": 93,
+      "location": 2,
+      "content": "同时内存成本上升",
+      "music": 0.0
+    },
+    {
+      "from": 241.66,
+      "to": 244.74,
+      "sid": 94,
+      "location": 2,
+      "content": "预计将推动中国云超大规模运营商",
+      "music": 0.0
+    },
+    {
+      "from": 244.74,
+      "to": 246.48,
+      "sid": 95,
+      "location": 2,
+      "content": "近期资本支出增加",
+      "music": 0.0
+    },
+    {
+      "from": 246.48,
+      "to": 250.0,
+      "sid": 96,
+      "location": 2,
+      "content": "主要国产芯片供应商包括华为升腾系列",
+      "music": 0.0
+    },
+    {
+      "from": 250.0,
+      "to": 251.48,
+      "sid": 97,
+      "location": 2,
+      "content": "阿里巴巴平头哥",
+      "music": 0.0
+    },
+    {
+      "from": 251.48,
+      "to": 253.34,
+      "sid": 98,
+      "location": 2,
+      "content": "百度昆仑芯等",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 255.02,
+      "sid": 99,
+      "location": 2,
+      "content": "第五大辩论",
+      "music": 0.0
+    },
+    {
+      "from": 255.02,
+      "to": 257.72,
+      "sid": 100,
+      "location": 2,
+      "content": "消费级AI代理的终极形态",
+      "music": 0.0
+    },
+    {
+      "from": 257.72,
+      "to": 260.57,
+      "sid": 101,
+      "location": 2,
+      "content": "操作系统级还是应用程序内",
+      "music": 0.0
+    },
+    {
+      "from": 260.85,
+      "to": 261.93,
+      "sid": 102,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 261.93,
+      "to": 265.32,
+      "sid": 103,
+      "location": 2,
+      "content": "操作系统及代理代表了深刻的范式转变",
+      "music": 0.0
+    },
+    {
+      "from": 265.32,
+      "to": 268.56,
+      "sid": 104,
+      "location": 2,
+      "content": "可能威胁传统应用程序的核心地位",
+      "music": 0.0
+    },
+    {
+      "from": 268.56,
+      "to": 271.919,
+      "sid": 105,
+      "location": 2,
+      "content": "如果操作系统及代理成为默认用户界面",
+      "music": 0.0
+    },
+    {
+      "from": 271.919,
+      "to": 275.439,
+      "sid": 106,
+      "location": 2,
+      "content": "独立应用程序可能沦为后端工具提供商",
+      "music": 0.0
+    },
+    {
+      "from": 275.439,
+      "to": 278.33,
+      "sid": 107,
+      "location": 2,
+      "content": "失去有价值的用户参与和数据",
+      "music": 0.0
+    },
+    {
+      "from": 278.33,
+      "to": 280.15,
+      "sid": 108,
+      "location": 2,
+      "content": "然而拥有支付",
+      "music": 0.0
+    },
+    {
+      "from": 280.15,
+      "to": 283.47,
+      "sid": 109,
+      "location": 2,
+      "content": "物流和社交图谱深度整合能力的巨头",
+      "music": 0.0
+    },
+    {
+      "from": 283.47,
+      "to": 285.27,
+      "sid": 110,
+      "location": 2,
+      "content": "如腾讯和阿里巴巴",
+      "music": 0.0
+    },
+    {
+      "from": 285.27,
+      "to": 287.99,
+      "sid": 111,
+      "location": 2,
+      "content": "可能会通过应用程序内代理能力",
+      "music": 0.0
+    },
+    {
+      "from": 287.99,
+      "to": 289.95,
+      "sid": 112,
+      "location": 2,
+      "content": "来捍卫其护城河",
+      "music": 0.0
+    },
+    {
+      "from": 290.15,
+      "to": 294.68,
+      "sid": 113,
+      "location": 2,
+      "content": "二其次解读阿里巴巴投资逻辑与确信名单理由",
+      "music": 0.0
+    },
+    {
+      "from": 294.96,
+      "to": 297.54,
+      "sid": 114,
+      "location": 2,
+      "content": "高盛将阿里巴巴置于确信名单",
+      "music": 0.0
+    },
+    {
+      "from": 297.54,
+      "to": 299.23,
+      "sid": 115,
+      "location": 2,
+      "content": "并维持买入评级",
+      "music": 0.0
+    },
+    {
+      "from": 299.23,
+      "to": 300.09,
+      "sid": 116,
+      "location": 2,
+      "content": "这一立场",
+      "music": 0.0
+    },
+    {
+      "from": 300.09,
+      "to": 302.63,
+      "sid": 117,
+      "location": 2,
+      "content": "基于阿里巴巴在AI时代的全面布局",
+      "music": 0.0
+    },
+    {
+      "from": 302.63,
+      "to": 304.7,
+      "sid": 118,
+      "location": 2,
+      "content": "和强劲增长前景",
+      "music": 0.0
+    },
+    {
+      "from": 304.7,
+      "to": 305.92,
+      "sid": 119,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 305.92,
+      "to": 307.46,
+      "sid": 120,
+      "location": 2,
+      "content": "阿里巴巴云加AI收入",
+      "music": 0.0
+    },
+    {
+      "from": 308.92,
+      "to": 311.52,
+      "sid": 121,
+      "location": 2,
+      "content": "超过40%的复合年增长率",
+      "music": 0.0
+    },
+    {
+      "from": 311.52,
+      "to": 314.02,
+      "sid": 122,
+      "location": 2,
+      "content": "阿里巴巴近期发布的AI产品矩阵",
+      "music": 0.0
+    },
+    {
+      "from": 314.02,
+      "to": 316.74,
+      "sid": 123,
+      "location": 2,
+      "content": "展现了其在多模态领域的强大实力",
+      "music": 0.0
+    },
+    {
+      "from": 316.74,
+      "to": 317.86,
+      "sid": 124,
+      "location": 2,
+      "content": "Happy horse",
+      "music": 0.0
+    },
+    {
+      "from": 317.86,
+      "to": 319.74,
+      "sid": 125,
+      "location": 2,
+      "content": "1.0视频生成模型",
+      "music": 0.0
+    },
+    {
+      "from": 319.74,
+      "to": 322.539,
+      "sid": 126,
+      "location": 2,
+      "content": "在video arena基准测试中排名第一",
+      "music": 0.0
+    },
+    {
+      "from": 322.539,
+      "to": 325.679,
+      "sid": 127,
+      "location": 2,
+      "content": "happy oyster专注电影和游戏内容创作",
+      "music": 0.0
+    },
+    {
+      "from": 325.679,
+      "to": 327.139,
+      "sid": 128,
+      "location": 2,
+      "content": "Q w n3.6",
+      "music": 0.0
+    },
+    {
+      "from": 327.139,
+      "to": 328.019,
+      "sid": 129,
+      "location": 2,
+      "content": "Max preview",
+      "music": 0.0
+    },
+    {
+      "from": 328.019,
+      "to": 330.459,
+      "sid": 130,
+      "location": 2,
+      "content": "在代理编码和实际任务执行方面",
+      "music": 0.0
+    },
+    {
+      "from": 330.459,
+      "to": 332.179,
+      "sid": 131,
+      "location": 2,
+      "content": "展现出强大能力",
+      "music": 0.0
+    },
+    {
+      "from": 332.56,
+      "to": 333.64,
+      "sid": 132,
+      "location": 2,
+      "content": "高盛还指出",
+      "music": 0.0
+    },
+    {
+      "from": 333.64,
+      "to": 337.35,
+      "sid": 133,
+      "location": 2,
+      "content": "阿里巴巴云在全球IIS市场的地位持续提升",
+      "music": 0.0
+    },
+    {
+      "from": 337.35,
+      "to": 338.79,
+      "sid": 134,
+      "location": 2,
+      "content": "根据garden数据",
+      "music": 0.0
+    },
+    {
+      "from": 338.79,
+      "to": 341.39,
+      "sid": 135,
+      "location": 2,
+      "content": "阿里巴巴云在亚太ia as市场份额",
+      "music": 0.0
+    },
+    {
+      "from": 341.39,
+      "to": 343.43,
+      "sid": 136,
+      "location": 2,
+      "content": "从2024年的20.8%",
+      "music": 0.0
+    },
+    {
+      "from": 343.43,
+      "to": 346.01,
+      "sid": 137,
+      "location": 2,
+      "content": "上升至2025年的22.5%",
+      "music": 0.0
+    },
+    {
+      "from": 346.01,
+      "to": 349.82,
+      "sid": 138,
+      "location": 2,
+      "content": "继续保持全球第四大ISS提供商的地位",
+      "music": 0.0
+    },
+    {
+      "from": 349.82,
+      "to": 352.72,
+      "sid": 139,
+      "location": 2,
+      "content": "全球市场份额从2024年的7.2%",
+      "music": 0.0
+    },
+    {
+      "from": 352.72,
+      "to": 356.42,
+      "sid": 140,
+      "location": 2,
+      "content": "上升至2025年的7.73%",
+      "music": 0.0
+    },
+    {
+      "from": 356.42,
+      "to": 360.81,
+      "sid": 141,
+      "location": 2,
+      "content": "此外阐述mini max上调至买入的核心依据",
+      "music": 0.0
+    },
+    {
+      "from": 361.17,
+      "to": 365.47,
+      "sid": 142,
+      "location": 2,
+      "content": "高盛将mean in max的评级从持有上调至买入",
+      "music": 0.0
+    },
+    {
+      "from": 365.47,
+      "to": 369.58,
+      "sid": 143,
+      "location": 2,
+      "content": "这一调整为投资者提供了新的投资机会窗口",
+      "music": 0.0
+    },
+    {
+      "from": 369.78,
+      "to": 371.46,
+      "sid": 144,
+      "location": 2,
+      "content": "高盛上跳mini caPs",
+      "music": 0.0
+    },
+    {
+      "from": 371.46,
+      "to": 374.86,
+      "sid": 145,
+      "location": 2,
+      "content": "2026年预测收入25%至3亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 374.86,
+      "to": 377.52,
+      "sid": 146,
+      "location": 2,
+      "content": "这一调整基于今年2月至3月",
+      "music": 0.0
+    },
+    {
+      "from": 377.52,
+      "to": 380.56,
+      "sid": 147,
+      "location": 2,
+      "content": "年度经常性收入的强劲增长趋势",
+      "music": 0.0
+    },
+    {
+      "from": 380.56,
+      "to": 381.52,
+      "sid": 148,
+      "location": 2,
+      "content": "高盛估计",
+      "music": 0.0
+    },
+    {
+      "from": 381.52,
+      "to": 384.28,
+      "sid": 149,
+      "location": 2,
+      "content": "mining caPs的年度经常性收入轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 384.28,
+      "to": 386.73,
+      "sid": 150,
+      "location": 2,
+      "content": "与竞争对手知朴智能相当",
+      "music": 0.0
+    },
+    {
+      "from": 386.73,
+      "to": 390.659,
+      "sid": 151,
+      "location": 2,
+      "content": "预计到2026年3月底已达到类似水平",
+      "music": 0.0
+    },
+    {
+      "from": 390.859,
+      "to": 391.799,
+      "sid": 152,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 391.799,
+      "to": 395.179,
+      "sid": 153,
+      "location": 2,
+      "content": "mini max股价自3月高点以来回调40%",
+      "music": 0.0
+    },
+    {
+      "from": 395.179,
+      "to": 398.25,
+      "sid": 154,
+      "location": 2,
+      "content": "提供了具有吸引力的风险回报机会",
+      "music": 0.0
+    },
+    {
+      "from": 398.25,
+      "to": 402.68,
+      "sid": 155,
+      "location": 2,
+      "content": "四最后梳理中国互联网AI投资布局全景",
+      "music": 0.0
+    },
+    {
+      "from": 402.68,
+      "to": 404.78,
+      "sid": 156,
+      "location": 2,
+      "content": "高盛在报告中明确",
+      "music": 0.0
+    },
+    {
+      "from": 404.78,
+      "to": 409.159,
+      "sid": 157,
+      "location": 2,
+      "content": "将云和数据中心列为中国互联网的首选子行业",
+      "music": 0.0
+    },
+    {
+      "from": 409.159,
+      "to": 412.659,
+      "sid": 158,
+      "location": 2,
+      "content": "这一评级基于AI token需求持续增长",
+      "music": 0.0
+    },
+    {
+      "from": 412.659,
+      "to": 417.58,
+      "sid": 159,
+      "location": 2,
+      "content": "以及企业级AI代理应用带来的云定价改善前景",
+      "music": 0.0
+    },
+    {
+      "from": 417.86,
+      "to": 422.95,
+      "sid": 160,
+      "location": 2,
+      "content": "高盛建议关注的关键标的包括GDS万国数据",
+      "music": 0.0
+    },
+    {
+      "from": 422.95,
+      "to": 424.17,
+      "sid": 161,
+      "location": 2,
+      "content": "v net数据港",
+      "music": 0.0
+    },
+    {
+      "from": 424.17,
+      "to": 426.13,
+      "sid": 162,
+      "location": 2,
+      "content": "阿里巴巴和金山云等",
+      "music": 0.0
+    },
+    {
+      "from": 426.13,
+      "to": 427.05,
+      "sid": 163,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 427.05,
+      "to": 429.67,
+      "sid": 164,
+      "location": 2,
+      "content": "中国云超大规模运营商的总资本支出",
+      "music": 0.0
+    },
+    {
+      "from": 429.67,
+      "to": 431.38,
+      "sid": 165,
+      "location": 2,
+      "content": "将达到700亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 431.38,
+      "to": 433.0,
+      "sid": 166,
+      "location": 2,
+      "content": "与此形成对比的是",
+      "music": 0.0
+    },
+    {
+      "from": 433.0,
+      "to": 434.86,
+      "sid": 167,
+      "location": 2,
+      "content": "美国云超大规模运营商",
+      "music": 0.0
+    },
+    {
+      "from": 434.86,
+      "to": 438.289,
+      "sid": 168,
+      "location": 2,
+      "content": "2026年的资本支出预计超过7000亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 438.289,
+      "to": 439.089,
+      "sid": 169,
+      "location": 2,
+      "content": "这一差距",
+      "music": 0.0
+    },
+    {
+      "from": 439.089,
+      "to": 439.489,
+      "sid": 170,
+      "location": 2,
+      "content": "反映了",
+      "music": 0.0
+    },
+    {
+      "from": 439.489,
+      "to": 443.069,
+      "sid": 171,
+      "location": 2,
+      "content": "中国市场仍处于AI基础设施建设的早期阶段",
+      "music": 0.0
+    },
+    {
+      "from": 443.069,
+      "to": 445.24,
+      "sid": 172,
+      "location": 2,
+      "content": "未来增长潜力巨大",
+      "music": 0.0
+    },
+    {
+      "from": 445.44,
+      "to": 447.4,
+      "sid": 173,
+      "location": 2,
+      "content": "在消费级AI应用层面",
+      "music": 0.0
+    },
+    {
+      "from": 447.4,
+      "to": 448.32,
+      "sid": 174,
+      "location": 2,
+      "content": "高盛观察到",
+      "music": 0.0
+    },
+    {
+      "from": 448.32,
+      "to": 450.37,
+      "sid": 175,
+      "location": 2,
+      "content": "豆包继续保持领先地位",
+      "music": 0.0
+    },
+    {
+      "from": 450.37,
+      "to": 453.47,
+      "sid": 176,
+      "location": 2,
+      "content": "其日活跃用户数达到约1亿5000万",
+      "music": 0.0
+    },
+    {
+      "from": 453.47,
+      "to": 455.93,
+      "sid": 177,
+      "location": 2,
+      "content": "在整体用户使用时长中的占比",
+      "music": 0.0
+    },
+    {
+      "from": 455.93,
+      "to": 457.3,
+      "sid": 178,
+      "location": 2,
+      "content": "达到63%",
+      "music": 0.0
+    },
+    {
+      "from": 457.3,
+      "to": 458.52,
+      "sid": 179,
+      "location": 2,
+      "content": "高盛预计",
+      "music": 0.0
+    },
+    {
+      "from": 458.52,
+      "to": 462.18,
+      "sid": 180,
+      "location": 2,
+      "content": "豆包在4月24日推出的豆包帮你选功能",
+      "music": 0.0
+    },
+    {
+      "from": 462.18,
+      "to": 465.14,
+      "sid": 181,
+      "location": 2,
+      "content": "标志着其正式进军电子商务领域",
+      "music": 0.0
+    },
+    {
+      "from": 465.14,
+      "to": 468.27,
+      "sid": 182,
+      "location": 2,
+      "content": "这将为其带来新的变现机会",
+      "music": 0.0
+    },
+    {
+      "from": 468.47,
+      "to": 471.01,
+      "sid": 183,
+      "location": 2,
+      "content": "综合高盛研报的核心观点",
+      "music": 0.0
+    },
+    {
+      "from": 471.01,
+      "to": 473.59,
+      "sid": 184,
+      "location": 2,
+      "content": "中国互联网AI转型正在经历",
+      "music": 0.0
+    },
+    {
+      "from": 473.59,
+      "to": 476.86,
+      "sid": 185,
+      "location": 2,
+      "content": "从概念验证到规模化应用的关键阶段",
+      "music": 0.0
+    },
+    {
+      "from": 476.86,
+      "to": 478.6,
+      "sid": 186,
+      "location": 2,
+      "content": "五大AI辩论的框架",
+      "music": 0.0
+    },
+    {
+      "from": 478.6,
+      "to": 481.539,
+      "sid": 187,
+      "location": 2,
+      "content": "为投资者提供了清晰的评估维度",
+      "music": 0.0
+    },
+    {
+      "from": 481.539,
+      "to": 483.819,
+      "sid": 188,
+      "location": 2,
+      "content": "中美模型差距正在缩小",
+      "music": 0.0
+    },
+    {
+      "from": 483.819,
+      "to": 485.95,
+      "sid": 189,
+      "location": 2,
+      "content": "但仍存在结构性差异",
+      "music": 0.0
+    },
+    {
+      "from": 485.95,
+      "to": 488.69,
+      "sid": 190,
+      "location": 2,
+      "content": "AI模型竞争将推动差异化发展",
+      "music": 0.0
+    },
+    {
+      "from": 488.69,
+      "to": 490.32,
+      "sid": 191,
+      "location": 2,
+      "content": "而非同质化价格战",
+      "music": 0.0
+    },
+    {
+      "from": 490.32,
+      "to": 492.78,
+      "sid": 192,
+      "location": 2,
+      "content": "token需求增长具有可持续性",
+      "music": 0.0
+    },
+    {
+      "from": 492.78,
+      "to": 495.78,
+      "sid": 193,
+      "location": 2,
+      "content": "为云服务商带来强劲收入驱动力",
+      "music": 0.0
+    },
+    {
+      "from": 495.78,
+      "to": 498.02,
+      "sid": 194,
+      "location": 2,
+      "content": "国产芯片转型加速推进",
+      "music": 0.0
+    },
+    {
+      "from": 498.02,
+      "to": 499.86,
+      "sid": 195,
+      "location": 2,
+      "content": "将重塑供应链格局",
+      "music": 0.0
+    },
+    {
+      "from": 499.86,
+      "to": 501.34,
+      "sid": 196,
+      "location": 2,
+      "content": "消费级AI代理",
+      "music": 0.0
+    },
+    {
+      "from": 501.34,
+      "to": 504.77,
+      "sid": 197,
+      "location": 2,
+      "content": "正在成为新的用户入口和竞争焦点",
+      "music": 0.0
+    },
+    {
+      "from": 504.77,
+      "to": 505.95,
+      "sid": 198,
+      "location": 2,
+      "content": "高盛认为",
+      "music": 0.0
+    },
+    {
+      "from": 505.95,
+      "to": 509.96,
+      "sid": 199,
+      "location": 2,
+      "content": "中国互联网AI转型的长期价值正在逐步显现",
+      "music": 0.0
+    },
+    {
+      "from": 509.96,
+      "to": 511.58,
+      "sid": 200,
+      "location": 2,
+      "content": "在这一转型过程中",
+      "music": 0.0
+    },
+    {
+      "from": 511.58,
+      "to": 515.039,
+      "sid": 201,
+      "location": 2,
+      "content": "能够同时把握AI模型技术创新",
+      "music": 0.0
+    },
+    {
+      "from": 515.039,
+      "to": 519.179,
+      "sid": 202,
+      "location": 2,
+      "content": "云基础设施建设和消费级AI应用机会的企业",
+      "music": 0.0
+    },
+    {
+      "from": 519.179,
+      "to": 522.579,
+      "sid": 203,
+      "location": 2,
+      "content": "将在未来的数字经济竞争中占据有利地位",
+      "music": 0.0
+    },
+    {
+      "from": 522.579,
+      "to": 525.44,
+      "sid": 204,
+      "location": 2,
+      "content": "投资者在评估相关投资机会时",
+      "music": 0.0
+    },
+    {
+      "from": 525.44,
+      "to": 528.7,
+      "sid": 205,
+      "location": 2,
+      "content": "既要关注短期催化剂和估值弹性",
+      "music": 0.0
+    },
+    {
+      "from": 528.7,
+      "to": 531.72,
+      "sid": 206,
+      "location": 2,
+      "content": "也要重视企业的长期核心竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 531.72,
+      "to": 533.19,
+      "sid": 207,
+      "location": 2,
+      "content": "和风险承受能力",
+      "music": 0.0
+    },
+    {
+      "from": 533.19,
+      "to": 535.24,
+      "sid": 208,
+      "location": 2,
+      "content": "做出审慎的投资决策",
+      "music": 0.0
+    }
+  ]
+}

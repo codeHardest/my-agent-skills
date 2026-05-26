@@ -96,8 +96,10 @@ mkdir -p "./downloads/bilibili/${VIDEO_ID}/"
 ### Step 5: Generate Summary
 
 ```powershell
-& python313 "$SKILL_DIR/scripts/generate_summary.py" "$OUTPUT_DIR/transcript.txt" "$OUTPUT_DIR/summary.md" --title "视频标题" --url "$VIDEO_URL" --duration 视频时长秒数
+& python313 "$SKILL_DIR/scripts/generate_summary.py" "$OUTPUT_DIR/transcript.txt" "$OUTPUT_DIR/summary.md" --title "视频标题" --url "$VIDEO_URL" --duration 视频时长秒数 --pubdate "YYYY-MM-DD"
 ```
+
+**Important**: Use `--pubdate` to pass the video's actual publish date (from API), not the download date. This ensures catalog is sorted by publish order.
 
 Where `python313` is shorthand for `C:\Users\chandlernie\AppData\Local\Programs\Python\Python313\python.exe`
 
@@ -110,9 +112,10 @@ After generating the summary, automatically add the video to the catalog:
 ```
 
 The `update_catalog.py` script will:
-1. Extract metadata (title, date, url) from summary.md
-2. Add a new entry to catalog.md under the appropriate date section
-3. Update the "最后更新" timestamp
+1. Extract metadata (title, pubdate/date, url) from summary.md
+2. **Use 发布时间 (pubdate) for sorting** - falls back to 下载时间 if pubdate not available
+3. Add a new entry to catalog.md under the appropriate date section
+4. Update the "最后更新" timestamp
 
 ## Scripts
 
@@ -122,6 +125,7 @@ The `update_catalog.py` script will:
 | `convert_subtitle.py` | Convert JSON subtitles to VTT/TXT | `& python313 scripts/convert_subtitle.py <INPUT_JSON> <OUTPUT_VTT>` |
 | `parallel_transcribe.py` | Transcribe audio using Whisper | `& python313 scripts/parallel_transcribe.py --input <AUDIO> --output-dir <DIR>` |
 | `generate_summary.py` | Generate AI summary with retry logic and fallback | `& python313 scripts/generate_summary.py <TRANSCRIPT> <OUTPUT> [OPTIONS]` |
+| `update_catalog.py` | Add video entry to catalog.md (sorted by pubdate) | `& python313 scripts/update_catalog.py <SUMMARY_MD> <CATALOG_MD>` |
 
 ## Notes
 
@@ -141,3 +145,9 @@ The `update_catalog.py` script will:
 - **DeepLearning.AI captions fail**: Fall back to VTT URL from `subtitleUrl` field
 - **API 529/Overloaded**: Retry with exponential backoff (3 attempts), fall back to transcript-only summary if all fail
 - **Encoding errors**: Always specify `encoding='utf-8'` when reading/writing files
+
+## Bilibili-Specific Notes
+
+- **Console garbled Chinese**: Use Python API to get video title - console output may show garbled text but Python handles UTF-8 correctly
+- **Pubdate for sorting**: Always pass `--pubdate YYYY-MM-DD` to generate_summary.py - catalog sorts by video publish date, not download date
+- **Title verification**: Verify title from API response, not from console output
