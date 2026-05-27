@@ -1,0 +1,141 @@
+In this last lesson, you'll connect
+Claude to the Figma MCP server to import a design mockup
+to Claude Code and develop the application. Let's have some fun. Now that we've seen how to use Claude Code
+to get up to speed on code bases to create applications and work across
+many different environments, I want to showcase
+a really powerful ability for Claude Code to work alongside MCP servers,
+to take mockups from tools like Figma and turn them into web applications
+quickly. In order to do that. We're going to be making
+use of the Figma MCP server. And in order to do that,
+you will need a Figma account. We'll also provide an alternative
+if you want to use that without subscribing to Figma as dev mode. We're also going to be
+using our Playwright MCP server, so that we can analyze a mock up
+from Figma, generate the necessary HTML and then programmatically test
+that by opening it in the browser and taking screenshots of how best
+to interact with this application. Since I'm building a front end application
+with a more modern technology stack,
+I'm going to be using Next.js to do that. So I'm just going to start
+by creating a Next.js application with the latest version
+inside of the folder that I'm in. I'll follow most of these same defaults,
+and I'll go ahead and let it install the necessary
+dependencies. If you have not worked with Next.js
+before, that's more than fine. It's a couple of command line commands
+and then will be in the browser before you know it. While this is installing, let's go take a
+look at the mockup that we have in Figma. In Figma, I have a mock right here for a dashboard
+that I'd like to build using Federal Reserve
+Economic data. This mock right here in
+Figma is not the most detailed in terms of all the layers and all the analytics behind,
+but this is enough to get me started. What I'm going to do in Figma is first,
+make sure that I have gone to preferences
+and selected enable dev mode MCP server. Once I have that selected, I'm
+going to take this particular layer that I have and copy it
+because I'm going to need that when I specify
+what to use with the MCP server. Now that I've successfully created
+this Next.js application, we need to add to Claude the two MCP servers that I want
+to use for Figma and for Playwright. I'm going to go ahead
+and add the necessary command here
+to bring in the MCP server for Figma. And then I'll do the same for Playwright. So I'm going to add an MCP server
+for Playwright, and that is started
+locally using the following command. And even though we already added this,
+remember we're in a separate project
+and a separate environment. So this does not get applied to every
+single Claude Code application I built. We have to do this for each one
+to make sure I've done this correctly. I'm going to hop into Claude
+and I'm going to use the slash MCP command to make sure this looks good. If I take a look, I can see that
+both of these are connected. And if I take a look at the dev
+mode MCP server, I can see there are five tools available
+to get underlying code, to get an image, to get design rules around a particular
+mock up that I have in Figma. Now that we've connected
+to both of our MCP servers, let's go and ask Claude
+to use the following Figma mockup and the Figma MCP server to analyze
+and build the underlying code necessary. We'll ask it to use the recharge library
+for creating charts, and then we'll check how this application
+looks using the Playwright MCP server. But before I do this, I
+want to go ahead and make a quick change. If you are able to make this change
+and you're not on the pro plan,
+you can use Opus as a different model. If not, Sonnet will still do a fine job,
+but Opus will do slightly better for a little bit
+more of a complex task. Once I have switched to that model, let's go ahead and run our prompt
+and see how it does. Well,
+first need to connect to our MCP servers. Make sure we use the correct mock up
+and the tools necessary to read the underlying code
+to power this mock. Here we can see we're using the Get image
+tool from the Figma dev MCP server, followed by the Get Code tool
+to get the underlying code behind that mock. We'll then make sure we install the necessary dependencies
+using npm or the package manager. And here we're going to see
+it's not installed. So Claude Code is most likely going
+to ask us to install that. We'll do so and continue onwards. Since we're inside of this Next.js
+application. We're going to be doing the majority
+of the work in the app folder. We'll analyze any global CSS
+and here start creating the main dashboard structure. Here we're going to add
+a little bit of metadata. And this looks good. So for future edits I'll just let Claude
+go ahead and run those. We're now going to create the dashboard
+layout and build this with more of a component
+based architecture in react. Now that we've created the underlying
+structure, let's start to make sure things look as expected. And since I've already run the server
+here, I'm just going to say don't run the server. It's already running. Continue on. We're now going to test with Playwright
+and take a look at how things are. We'll go ahead and navigate to localhost
+3000. Take a picture of that as well. And let's go ahead
+and let it take a screenshot. We can see here in Playwright. So far it's looking pretty good
+compared to the mock. We've got a little extra styling
+on some of these bars, but this is a pretty good start from where
+we began with the mock right over here. In fact, I'd actually argue
+this looks a little bit nicer. We're still going to see some changes
+that are being made. There's a layout in the sidebar that needs to be modified,
+and we can always have Claude go back and forth and iterate across
+this particular mock. One important thing to mention
+is that this mock in Figma does not have a tremendous amount of layers
+and underlying components. So a lot of this is going to depend
+on the quality of the underlying mock that you have. But this is a really good start
+with very minimal amount of time. We can see here what's been built
+and what's closely matching. Now let's take a look at how things are. We can see with a little bit of work
+from the model and using MCP servers to verify visualizations
+and build off our mocks. Things that might have taken days to do
+and build from scratch can be done over the course of minutes. So you might be wondering
+what comes next here. This mock that we have is just the start
+of what you might imagine building. And this data is actually available
+through an API. So I could ask
+Claude Code, populate these charts with real world data
+from the Federal Reserve Economic data. We'll go ahead and ask
+Claude Code to use one of its web search tools to go ahead and find information
+to update with actual data. Here we'll look at CPI, unemployment
+yields and so on. But you can imagine this might be data
+that you're fetching from a back end. But here we're going to showcase
+Claude's ability to research how to work with the API documentation
+how to fetch data. And it might be possible
+that we need an API key to do so. So as we start doing some of this
+research, Claude is going to let us know what we need to make sure things
+are working as expected. In that mock, there were a couple other pieces in the nav bar
+that were just meant for visualizations, but we can add whatever
+underlying functionality we want next. So after it's done some research,
+it realizes that in order for me to fetch actual data
+from the Federal Reserve, I'm going to need to put in an API key. I can go ahead to my account,
+get an API key. This is a relatively simple process
+that you can see here. Once I have my API key,
+it's going to start writing additional code for me to fetch data
+and display data visually. So I'm going to go ahead
+and update my API key inside of here. Now that I've updated the API
+key, let's see where cloud is at with building additional data. It's now written a service
+to fetch economic data. We're now going to update the dashboard
+and fetch real data using our API. We're going to test this in Playwright. And we're going to go ahead and then take
+a look at what we have in the browser. We'll go see how this looks visually. And if there's any underlying code
+that needs to be modified to make this more visually appealing, with just a little bit of prompting, we can go from a mock with some fake data to actually using real world information
+across a true data source for this data. When we're done,
+we'll head back to localhost 3000. Take a look at what we have
+and see that the data that we'll be fetching is not something
+that's actually fictitious, but real unemployment, ten year treasuries
+and so on. We set up quite a bit here to proxy our requests
+and quite a few more interactive features. So let's go see what that looks like. We've gone from our mock here
+with some fake data and not a lot of functionality
+to something quite powerful. In just a short period of time. The data we're loading here has data
+that is actually reflective of real world information. And as we imagine
+adding more functionality, we can tab through for what this will look like. But with just a small amount of work
+with an MCP server pulling data from real world environments and building
+UI from Figma mocks, you can start to imagine how quickly
+front end development can go, especially for building
+powerful real world interfaces. You might want to verify that this data is actually coming from the source, and we built that here
+with this detailed functionality. So we can easily see where this data is
+coming from, what things look like, and track that back to the dashboards
+that we're building as well. So right here
+we're just showing some key indicators. But maybe the next thing I want to do is start building my own interface or use another Figma mark for things
+like inflation, employment and so on. So we'll start with this piece of data, but I'd love to see what else you can build using this interface and all the data at your fingertips.

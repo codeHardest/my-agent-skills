@@ -142,7 +142,8 @@
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/convert_subtitle.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1Q1Gn6LEYj/subtitle_ai-zh.json\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1Q1Gn6LEYj/\")",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/generate_summary.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1Q1Gn6LEYj/transcript.txt\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1Q1Gn6LEYj/summary.md\" --title \"超一线城市房价反弹与经济数据分析\" --url \"https://www.bilibili.com/video/BV1Q1Gn6LEYj\" --duration 1677)",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \".claude/skills/video-summarizer/scripts/update_catalog.py\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1Q1Gn6LEYj/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")",
-      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \"P:/AI/my-agent-skills/.claude/skills/video-summarizer/scripts/generate_summary.py\" --help)"
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \"P:/AI/my-agent-skills/.claude/skills/video-summarizer/scripts/generate_summary.py\" --help)",
+      "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" \"P:\\\\AI\\\\my-agent-skills\\\\.claude\\\\skills\\\\video-summarizer\\\\scripts\\\\generate_summary.py\" --help)"
     ]
   }
 }
