@@ -1,0 +1,82 @@
+Welcome to
+the final video of this week. I'd like to share with you in this video
+how LLMs are starting to be able to use tools and then also discuss a cutting
+edge topic of agents, which is where we let LLMs try to decide for themselves
+what action they want to take next. Let's take a look. In the early example of a food order
+taking chatbot, we saw that if you were to say send me a burger,
+the bot may reply okay is on the way. In order for a chatbot to enter
+the order and send it to you. This is what actually is
+happening behind the scenes. The LLM can't just say OK is on
+its way because it needs to take some action to actually
+send the burger to you. And so an LLM might output
+this response order burger for user 9876 to send to this address and then also say the user message
+is to say OK, is on its way. An LLM that's been fine tuned to
+output text like this will be able to generate an order which in this
+case would trigger a software application that passes
+the restaurant ordering system a request to deliver a burger
+to this user at that address. And what is shown to the user
+is not the full LLM output. The full LLM output is all four lines
+of text here, but only the final line OK is on its way is what gets
+sent to the user as the response. So this is an example of tool used
+by an LLM, where detects the LLM outputs can trigger calling a software
+system to place a restaurant order. Now, placing an incorrect
+order can be a costly mistake. So perhaps a better user interface
+would be, before finalizing the order to pop up a verification dialog to let
+the user confirm yes or no if you've got the order right before charging
+the credit card and sending it to them. And clearly, given that LLM's outputs
+are not completely reliable for any safety critical or
+mission critical action, it would be a good idea to let a user
+confirm the desire action before letting the LLM trigger some
+potentially costly mistake by itself. In addition to tools for taking actions,
+tools can also be used for reasoning. For example, if you were to prompt an LLM,
+how much would I have after eight years if I deposit $100 into bank
+account that pays 5% interest? An LLM might generate an answer like
+this which sounds plausible, but the number 147 dollars forts is
+not actually the right answer. It turns out LLMs having learned
+to predict the nick's worth or maybe even instruction tuned,
+are not great at precise math. And just as UI might use a calculator
+to calculate the right answer to a problem like this, we can also give the LLM a calculator
+tool to help it get the right answer. So rather than having the LLM output,
+the answer directly. If the LLM were to output this
+after compounding and so on, you would have
+calculator 100 times 1.5 that's 5% interest rate
+compounded to the power of 8. This can be interpreted as command to
+call an external calculator program to explicitly compute the right answer,
+which turns out to be $147.74. And plug that back into the text to
+give the user the correct dollar figure. So by giving LLMs the ability
+to call tools in its output, we can significantly extend the reasoning
+or the action taking capabilities of LLMs. Tool used today is an important part
+of many LLM applications and of course, designers of these applications should
+be careful to make sure that tools aren't triggered in a way that causes
+harm or causes irreversible damage. Going beyond tools into
+a more experimental area, AI researchers have been examining agents
+which go beyond triggering a tool to carry out a single action, but
+is exploring whether LLMs can choose and carry out complex sequences of actions. There's a lot of excitement and
+research on agents, but this is at the cutting
+edge of AI research. It is not yet mature enough to count
+on for most important applications. But I want to share with you what many
+in the AI community are excited about. If you would ask an agent that's built
+on top of an LLM help me research better burger's top competitors, then an agent
+might use an LLM as a reasoning engine to figure out what are the steps
+it needs to carry out to do your task of researching better
+burger's competitors. And this reasoning engine LLM might
+decide it needs to search for the list of the top competitors,
+then visit the website of each competitor, and finally, for each competitor, write
+a summary based on the homepage content. And then perhaps by making a sequence
+of calls to this reasoning engine, it may figure out that to search the top
+competitors it has to trigger a tool to call web search engine on the query
+BetterBurger's competitors. And then after that it
+may visit the websites of some of the top competitors
+to download their homepages. And then additionally call an LLM yet again to summarize the text
+that they found on the website. On the internet there have been
+some nice demos of agents, but this technology is not really ready for
+primetime yet. But perhaps in the future,
+as researchers make it better and better, it'll become more useful. And I think that would be an exciting
+future if LLMs as a reasoning engine can help decide what's
+the sequence of steps to take safely and responsibly, of course,
+to help a user carry out a task. Thank you and congrats on making
+it to the very end of week two. We have just one more week
+to go in this course. Next week, we'll look at how generative
+AI is affecting companies, including how you might be able to come up with
+generative AI use cases for your business, as well as look at how generative AI is
+affecting society and its impact on jobs. I look forward to seeing you next week.

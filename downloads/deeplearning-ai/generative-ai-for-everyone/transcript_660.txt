@@ -1,0 +1,118 @@
+Many businesses think of a large or
+a small company, say, have many people doing
+many different tasks. There's a framework that had originated
+in economics due to Erik Brynjolfsson, Tom Mitchell, and Daniel Rock for
+analyzing the work tasks for possible automation using AI. And this framework turns out
+to be useful not just for economists to understand the financial or
+economic impact of AI, but also for businesses identify specific
+opportunities to use generative AI. Let's take a look at how to do this. Whereas there's been a lot of discussion,
+for example, in the media about will AI automate jobs, it turns out that from
+a technical and business perspective, it's more useful to think of AI not as
+automating jobs, but as automating tasks. And it turns out most jobs involve
+a collection of many tasks. Let's look at an example. A customer service representative
+will do a number of different tasks, including maybe answer inbound
+phone calls from customers. Answer customer chat queries via a text
+rather than a voice or a phone interface. They may check status of customer orders,
+keep records interactions, and assess the accuracy of
+customer complaints. And if you work in a company with, say,
+many customer service representatives, the first step to
+analyzing the potential for using generative AI would
+be to understand for your business what are the tasks that
+the representatives in your company do. After that, we can then take a look
+at these different tasks and try to assess their potential for
+generative AI to either hope or augment, or to automate these tasks. For example, for generative AI to pick up
+the phone and have a long conversation, that's still pretty difficult. So we assess that to be
+a lower potential opportunity. But answering text chat with customers
+that might have a higher potential, maybe checking status of
+customer orders is medium, whereas keeping records of customer
+interactions could be high, and assessing accuracy of customer
+complaints may be low. All of these examples in the rightmost
+column are hypothetical, and the actual impact on your
+business will be different and will depend on the specifics
+of your business. But after an analysis like this and I'll
+go in a little bit into the specifics of how to carry out this analysis, you might
+then decide that answering customer chat queries and keeping records of customer
+interactions have the highest potential, and therefore,
+focus your efforts on those two tasks. Now, the opportunity for generative AI could be either
+augmentation or automation. By augmentation, I mean,
+we can use AI to help a human with a task. In the customer service representative
+context, we might have generative AI recommend a response for a customer
+service agent to edit or approve, but not fully automate the sending of
+a message back to the customer. So if we're not sure yet if
+the generative AI would give good answers, then recommending a response could
+speed up the people doing the work, but not fully automated, and
+this would be an example of augmentation. And automation would be if we have an AI
+system fully automatically perform a task. So if we were to automatically
+transcribe and summarize records of customer interactions,
+that could be an example of automation. What I see in many applications
+is that businesses will sometimes start with augmentation to
+maybe let a human double check or finalize the output before it is used. But then as you gain trust and gain
+confidence in the output of the generative AI, then the user interface can be
+adapted to make the process more and more efficient for humans and
+to then gradually shift to what? Higher and higher degrees of
+augmentation and perhaps eventually, to full automation. Now, given a list of tasks like this, how do you come up with
+this column on the right? How do you evaluate the different
+tasks for generative AI potential? The potential for augmenting or automating
+a task depends mostly on two things, technical feasibility and business value. So technical feasibility
+refers to can AI do it? And also how costly is it to
+build an AI system to do it? And with regard to using an LLM, I found the framework we discussed last
+week of asking can a fresh college graduate following the instructions
+in the prompt complete the task? That could give you a first guess,
+an imperfect, not necessarily fully accurate guess, but it gives you a way to think about whether
+a certain task may be doable or not. And sometimes, if you're not sure if
+an LLM can do a certain task, I would encourage you to try prompting an LLM to
+see if you can get the LLM to do that task. And this would be an experiment that you
+might be able to do quite quickly, so long as you're not revealing
+confidential information. If you take some prompts for, say,
+answering customer chat queries and paste them into a large language model, you can maybe quickly get a sense
+of how good Rs responds is. And this could help you relatively quickly
+assess technical feasibility of using generative AI for a particular cost. And an AI engineer can also help you
+assess if more advanced techniques like Rag retrieve, augmented generation,
+fine tuning or other techniques can help. And also give you a sense of perhaps,
+the complexity and therefore, the cost of building an AI
+system to tackle a certain task. In this course, I'm focusing mainly
+on technical feasibility using generative AI technology. If you or your team is familiar with other
+AI tools such as supervised learning, you can also assess the technical
+feasibility of using other tools as well for augmenting or
+automating different tasks. Other than technical feasibility, the second criteria I urge you to
+think through is the business value. So how valuable is it to use AI to either
+augment or automate a particular task? And so the questions I would ask to frame
+up my thinking on business value would be things like how much
+time is spent on this task? So how much time savings
+can we actually realize? Second, I'd also ask, does doing this
+task significantly faster, cheaper, or more consistently using AI
+create substantial value? While it may seem like augmentation and
+automation helps lead to cost savings, we'll see later this week as well
+that when you automate a task, sometimes the benefits are much
+greater than just cost savings. Because it also leads to rethinking
+the workflow around that task. But if what I'm saying doesn't make
+sense yet, don't worry about it. We'll see some specific examples
+of this later this week. Before I wrap up this video, there's one
+more resource I want to share that may be useful for your analysis of how to
+break job roles down into tasks. Which is that there are online
+occupation databases that you can look up to see what are the tasks
+that comprise a certain row. Here's a screenshot from
+a website called O*NET, which is a US government funded website. That for the customer service
+representative row lists lots of different tasks, including confirm with
+customers by telephone or in person, keep records of customer interactions,
+and so on. I found that occupation databases
+like this tend to be general and not necessarily specific to your company. And so I wouldn't recommend just
+using the results from, say, this O*NET database and
+assuming it's accurate for your company. There'll usually be some entries there
+that you read and feel like, no, this doesn't seem like it
+applies to my company. But I found that this is a useful resource
+to take a look at just for ideas and to help make sure that maybe you haven't
+missed anything when thinking through what are the tasks done by people in
+different job roles in your company? O*NET is a little bit US-centric,
+but has a nice, easy to use user interface, so
+I encourage you to play with it. And there are some other countries as
+well that have some other country or region specific databases that you
+may be able to find online as well. But I found that for many job roles, O*NET is maybe a reasonable
+initial starting point. So that's how you can look
+at different job roles and start to break them down into tasks and
+analyze the individual tasks for potential for augmentation or automation. And I hope you play with the O*NET
+website and get a feel for what different tasks in
+different job roles look like. In this video, we went through the
+customer service representative example. I'd like to go through with you a few
+examples of other job roles as well. So let's go take a look at
+that in the next video.

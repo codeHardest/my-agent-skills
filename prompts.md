@@ -20,3 +20,16 @@ https://learn.deeplearning.ai/courses/retrieval-augmented-generation/lesson/tthf
 页面本身自带 Transcript, 
 
 
+
+https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button&_gl=1*1xg2vs8*_gcl_au*MTAwNzg3Mzk5Mi4xNzcyNTIyMjgz*_ga*ODE0NzQ4NzI4LjE3NzI1MjIyODI.*_ga_PZF1GBS1R1*czE3Nzk4NjE5NDEkbzExJGcwJHQxNzc5ODYxOTQxJGo2MCRsMCRoMA..
+课程具有多个module ,同时每个module 下又有多个视频，课程需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
+页面本身自带 Transcript, 
+
+https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button&_gl=1*h1ornr*_gcl_au*MTAwNzg3Mzk5Mi4xNzcyNTIyMjgz*_ga*ODE0NzQ4NzI4LjE3NzI1MjIyODI.*_ga_PZF1GBS1R1*czE3Nzk4NjU1MzAkbzEyJGcxJHQxNzc5ODY1NTYyJGoyOCRsMCRoMA..
+课程有多个视频，需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
+页面本身自带 Transcript, 
+
+
+https://learn.deeplearning.ai/courses/generative-ai-for-everyone/lesson/ieb07/welcome?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button&_gl=1*1yumz2p*_gcl_au*MTAwNzg3Mzk5Mi4xNzcyNTIyMjgz*_ga*ODE0NzQ4NzI4LjE3NzI1MjIyODI.*_ga_PZF1GBS1R1*czE3Nzk4Njc2NDkkbzEzJGcwJHQxNzc5ODY3NjQ5JGo2MCRsMCRoMA..
+课程分为多week ,同时每个week 下又有多个视频，课程需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
+页面本身自带 Transcript, 

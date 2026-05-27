@@ -1,0 +1,152 @@
+There are many ways that
+generative AI is leading, not just to cost savings
+but to revenue growth. But there's so many ways for
+general-purpose technology, like generative AI
+to create value, to talk about all of these ways. But in this video,
+I'd like to take a look at a couple
+of the emerging, or the more common paths I'm seeing toward
+this type of growth. Let's consider the hypothetical
+example of a surgeon preparing to carry out
+the surgical operation and then actually carrying
+out that operation. Without generative AI tools, they may need a long time to do background
+research to understand the medical procedure and how to carry that out in the context
+of a specific patient. Then they will go into the operating theater to
+carry out that surgery. If generative AI, maybe with custom rag or retrieval augmented
+generation tools can help with the research
+portion of this work. Then perhaps the time
+and effort needed to deeply research the medical
+procedure could shrink, and then they still
+need to go in to carry out the
+surgery after that. This would be an example of how generative AI could
+hypothetically help a surgeon or some other
+job role where you need to do some research and go and carrying
+out the task, with this diagram
+illustrating how the workflow or the effort
+needed might change. Let's look at the
+second example. A lawyer reviewing a
+complex legal document without generative AI, first have to gather
+information from the client. Sit down with the
+client to really understand what's the
+purpose of this contract? Who are the people signing it? What are the key business terms? Then they might review
+the documents and then finally sit down with the
+client to give them feedback. With generative AI, maybe gathering
+information takes just about as much
+effort as before. But if generative AI can
+help read over the document, perhaps this step
+can become shorter. But then maybe lawyers
+still needs to sit down with the client to give
+them detailed feedback. Again, this is a
+hypothetical example based on what I'm
+seeing complies to, but the details of your
+workflow may be different. In contrast, this is what changes the workflow
+might look like for reviewing simple as opposed
+to complex legal documents. For comparatively
+simple legal documents, say a typical non-disclosure
+agreement or NDA, there may not be much
+information to gather, and so the lawyer
+could just review it and then give the
+client feedback. Now, with generative AI, maybe the review of the document
+can become much faster. Then we use generative AI to create a document to summarize the issues that the lawyer can send to the client and discuss with them
+more efficiently. Then the process of
+giving client feedback could also become
+maybe more efficient. What I'm seeing
+is that companies might explore building
+a system like this, but after having
+built such a system, might decide to further
+change the workflow, where after reviewing a
+document may decide to add an extra fast human
+verification step in the middle just
+to double check that what the generative
+AI said about the document is
+comprehensive and correct. Before then, having
+generative AI and the lawyer together try to go to that last step of giving
+a client feedback. This type of re-engineering
+of workflow is quite common once both generative AI or other AI tools are
+inserted into a system. Because when one task is
+automated or augmented, it often makes sense to re-think what are the other tasks
+that need to be done together in order to deliver
+a valuable work product, such as a surgical operation or a review of a legal document. Let's look at a third example
+where the redesign of the workflow can become
+even more sophisticated. If a marketer has to
+write copy for a website, that often is very time consuming and requires
+a lot of thought. Then after that,
+they might push the new website copy to the website, and that's how a marketer
+might market a new product. But with generative AI tools, let's say that the marketer
+finds a way to significantly accelerate and make more efficient the writing
+of the website copy. Once writing the website
+copy is so efficient, it may be worth also
+investing in better processes of software to make pushing to the website more efficient. We could end here,
+and if we do this, then we just have a
+marketer that is able to do their work much more
+efficiently than before. But now they're able to write copy and push the website
+much more efficiently. Here's how we could rethink
+the workflow: which is, when the marketer wants to
+market the new product, they could write some
+copy, push the website, but then maybe write a
+different variation on the copy and push that second
+version to the website so they can start to launch an A/B test where
+you can now have two different versions of a website copy and start to measure which
+one works better. In fact, rather than just
+testing two versions, if we are so efficient at writing copy and pushing
+copy of the website, maybe we can now generate
+four different versions. So it's not testing two, but now four versions. And after collecting data from how all four versions of
+the website copy perform, we might end up sitting down and actually spending quite
+a long time analyzing the campaign performance to see which website copy
+works the best. Then based on that
+understanding, go back to further
+improve the website copy, maybe by improving
+the prompts that we use to generate that copy. In this example, even though it seems like generative
+AI can be used just for cost saving to help the
+marketer be much more efficient in the process of
+writing and pushing copy. We can also take advantage of this efficiency in a
+totally different way and write and push and test many more versions
+of the website copy. This leads to other
+changes as well to the workflow of the
+marketer so that this way hopefully
+the marketer can deliver much more compelling
+marketing campaigns. Now in this video, we've seen a few ways that generative AI can
+not just save costs, but lead to significant growth through new types of service
+offerings or products. In addition to searching
+for growth opportunities by looking at tasks done by
+the employees of a company, there's one other framework
+for analysis that I found useful that frankly isn't
+done as much today, but may be worth
+considering for your work, which is rather than
+analyzing employees tasks, consider also analyzing the
+tasks of your customers. For example, let's say
+you offer a product or a service that helps your
+customers to build websites. Then I would urge
+you to consider listing out what are the tasks that your customers have to do. Not the tasks your
+employees have to do, but the tasks your
+customers have to do. In this case, maybe
+your customers have to first select a template for the website to get
+the initial design. Then they have to write
+a title for the website. Then select images, write
+a copy for the home page, and optimize the copy for
+search engine optimization to make it easy to find via search engines and maybe
+other tools as well. If you were to analyze the generative AI potential
+for your customers tasks, then you may also
+identify opportunities, in this case, writing the title and SEO search
+engine optimization as places where generative AI
+could help your customers. I found that this framework for analysis and brainstorming
+can sometimes lead companies to build very different product or services to deliver
+to the customers. This can be another recipe for getting lots of
+happy customers, and therefore pursuing
+growth for your business. There are many ways
+that generative AI is creating value and
+can lead to growth. In terms of brainstorming
+frameworks, I found that looking
+at how you can automate the augment
+tasks by employees or automate the augment tasks
+by your customers to be useful ways to approach thinking about how to
+create that value. But if you have some
+other idea that isn't arrived at by some of these brainstorming
+frameworks, that's great too and I hope you explore building those too. Now, after coming up with an idea for how to use
+generative AI in your business, some probably could be done
+via a web user interface, but some may require building a custom software application. In the next video, we'll take a look at common
+team structures and some best practices for building generative AI software
+applications. The good news, which I've alluded to in the
+first week as well, is that it may take less
+resources than you might think, because generative AI allows for very efficient building of AI applications compared to some earlier ways
+of AI technology. But let's go take a look
+at that in the next video.

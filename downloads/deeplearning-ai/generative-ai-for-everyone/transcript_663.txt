@@ -1,0 +1,87 @@
+My teams have worked with
+or advised many companies, both large and small, on building a large variety of generative AI applications. I'd like to share with
+you in this video some of the best
+practices I'm seeing as well as what the typical team to get started on such a
+project might look like. The most common
+roles for building generative AI
+applications would be a software engineer who
+would be responsible for writing the software application and making sure that
+it runs robustly. I've seen that when a
+software engineer puts in a bit of effort to learn at least the basics of large language models
+and prompting, then they can be
+very effective in a small team building
+LLM-based applications. If you're on a team that already has some
+software engineers, it might be worth encouraging
+them to consider spending a little bit of time to learn at least the basics of
+LLMs and prompting. A second role that is quite common on teams to build
+applications would be the machine learning engineer and machine learning engineers are typically responsible for
+implementing the AI system. Many machine learning
+engineers have been building AI systems even
+before Gen AI took off and found that a
+machine learning engineer that spends a bit of effort to learn about LLMs
+and ideally not prompting, but some of the more
+advanced techniques like RAG and fine-tuning, such a person can
+be very effective, playing a role building
+LLM applications. Finally, one other role
+that I see in some teams, but less common than the
+software engineer and machine learning
+engineer would be the product manager
+and they would be the person with
+primary responsibility for identifying and scoping the project and making
+sure that whatever is built is useful
+for customers. Lastly, how about the
+prompt engineer role? There's been a bit of media
+hype about this role, but what I'm seeing is that very few companies are hiring
+those as a dedicated role. What happened was a small
+number of companies advertised a small number
+of job openings for very well-paid prompt engineers
+and generated a lot of media hype that someone could make a lot of
+money by prompting. But if you look at the
+actual job description of prompt engineers, prompt engineering jobs actually require doing a lot of
+other tasks than writing prompts and they
+actually look more like machine learning engineers that have additionally
+learned to prompt. Don't buy into hype
+prompt engineer role. What actually happens
+in practice is that most companies are counting
+on machine learning engineers that have also learned
+LLMs or learned prompting and it's actually not that easy to get a job and
+no other company's hiring that many people whose only
+job is to write prompts. If you're building an
+LLM-based application, it's often possible to get started with a
+pretty small team. I definitely see
+companies start to experiment with even
+a one-person team, such as a software engineer who has learned some prompting. Or machine learning engineer who's learned a bit
+about prompting OMs. Or maybe you could start by yourself by experimenting
+and prototyping, using some of the
+web interfaces to try to get a sense of
+what might be feasible. I do see a lot of
+two-person teams as well. If you have two
+persons in a team, probably the most
+common configuration is a machine learning engineer
+plus a software engineer. But I've seen many other
+configurations also work well, such as a software engineer who's learned prompting
+and a product manager, or two generally enthusiastic people that know a bit
+about how to write software and they're
+willing to learn how to use these tools to build new
+and exciting applications. Sometimes for the larger teams, you also see some other
+roles like data engineer, data scientist, project manager, or machine learning researcher. Let me quickly talk over
+these roles as well in case you see
+them in a company. Data engineer is usually responsible for
+organizing the data and ensuring data quality and often also the
+security of the data. A data scientist is usually
+responsible for analyzing data to make recommendations to guide project or
+business decisions. Project manager can
+be responsible for coordinating project
+execution and machine learning researchers are usually responsible
+for developing advanced AI technologies
+or adapting advanced AI technologies to the particulars
+of your business. Generative AI has
+lowered the cost, lowered barrier to entry to building AI-based
+applications. If your team have an idea, I'd encourage you to try to find the resources to
+prototype and try something out and
+see if you can build something for yourself
+or for your business. Before we wrap up the section on generative AI and businesses, I'd like to go through
+an analysis of how AI is affecting
+different job roles as well as different
+industry sectors. Let's take a look at
+that in the next video.
