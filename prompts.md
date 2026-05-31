@@ -12,6 +12,7 @@
 * 字幕窗口可拖动和调整长宽
 
 * 问题未修复， 且点击右下方和上面的按钮， 字幕窗口会往下反瞬移
+
 update skill vedio-summarizer:  你应该了解两点1.该技能运行在windows 上，2.uv 和python 的完整路径分别是 C:\Users\chandlernie\AppData\Local\Microsoft\WinGet\Packages\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\uv.exe 和 C:\Users\chandlernie\AppData\Local\Programs\Python\Python311\python.exe
 避免执行过程中的各种路径错误
 
@@ -25,7 +26,7 @@ https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!?utm_sour
 课程具有多个module ,同时每个module 下又有多个视频，课程需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
 页面本身自带 Transcript, 
 
-https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button&_gl=1*dv07ni*_gcl_au*MTAwNzg3Mzk5Mi4xNzcyNTIyMjgz*_ga*ODE0NzQ4NzI4LjE3NzI1MjIyODI.*_ga_PZF1GBS1R1*czE3Nzk4NzExMjkkbzE0JGcwJHQxNzc5ODcxMTg5JGo2MCRsMCRoMA..
+https://learn.deeplearning.ai/courses/retrieval-augmented-generation/lesson/ffjd0g/module-4-introduction
 课程有多个视频，需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
 页面本身自带 Transcript, 
 
@@ -33,3 +34,5 @@ https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assist
 https://learn.deeplearning.ai/courses/generative-ai-for-everyone/lesson/ieb07/welcome?utm_source=home&utm_medium=course-landing-page&utm_campaign=summary-cta-button&_gl=1*1yumz2p*_gcl_au*MTAwNzg3Mzk5Mi4xNzcyNTIyMjgz*_ga*ODE0NzQ4NzI4LjE3NzI1MjIyODI.*_ga_PZF1GBS1R1*czE3Nzk4Njc2NDkkbzEzJGcwJHQxNzc5ODY3NjQ5JGo2MCRsMCRoMA..
 课程分为多week ,同时每个week 下又有多个视频，课程需要将每个视频的标题和内容总结出来(不要遗漏知识点)，并生成一个markdown 文件，文件中包含每个视频的标题和内容，以及每个视频的链接，
 页面本身自带 Transcript, 
+
+监控peek
