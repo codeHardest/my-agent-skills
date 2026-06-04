@@ -1,0 +1,9580 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.74,
+      "to": 1.7,
+      "sid": 1,
+      "location": 2,
+      "content": "好大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.7,
+      "to": 5.92,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎来到本次关于汪汪队2026年活动复盘",
+      "music": 0.0
+    },
+    {
+      "from": 5.92,
+      "to": 8.719,
+      "sid": 3,
+      "location": 2,
+      "content": "以及下个月的数据推演的分享",
+      "music": 0.0
+    },
+    {
+      "from": 8.719,
+      "to": 10.919,
+      "sid": 4,
+      "location": 2,
+      "content": "那么在接下来的时间内",
+      "music": 0.0
+    },
+    {
+      "from": 10.919,
+      "to": 15.01,
+      "sid": 5,
+      "location": 2,
+      "content": "我会将啊从5月29日的收盘",
+      "music": 0.0
+    },
+    {
+      "from": 15.01,
+      "to": 18.27,
+      "sid": 6,
+      "location": 2,
+      "content": "汇金的持仓数据通过与上周呃",
+      "music": 0.0
+    },
+    {
+      "from": 18.27,
+      "to": 19.11,
+      "sid": 7,
+      "location": 2,
+      "content": "4月末",
+      "music": 0.0
+    },
+    {
+      "from": 19.11,
+      "to": 23.65,
+      "sid": 8,
+      "location": 2,
+      "content": "乃至于和2025年年末的数据进行一个对比",
+      "music": 0.0
+    },
+    {
+      "from": 23.65,
+      "to": 27.51,
+      "sid": 9,
+      "location": 2,
+      "content": "以及挖掘它背后的变化规律和市场的信号",
+      "music": 0.0
+    },
+    {
+      "from": 27.51,
+      "to": 29.93,
+      "sid": 10,
+      "location": 2,
+      "content": "基于这些数据分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.93,
+      "to": 33.57,
+      "sid": 11,
+      "location": 2,
+      "content": "我们将对下周以及下个月的市场走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.57,
+      "to": 36.27,
+      "sid": 12,
+      "location": 2,
+      "content": "进行一个呃推演和预演",
+      "music": 0.0
+    },
+    {
+      "from": 36.27,
+      "to": 37.95,
+      "sid": 13,
+      "location": 2,
+      "content": "当然我们需要强调的是",
+      "music": 0.0
+    },
+    {
+      "from": 37.95,
+      "to": 40.61,
+      "sid": 14,
+      "location": 2,
+      "content": "我们仅仅是做数学统计和分析",
+      "music": 0.0
+    },
+    {
+      "from": 40.61,
+      "to": 42.71,
+      "sid": 15,
+      "location": 2,
+      "content": "不构成任何的投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 42.71,
+      "to": 45.22,
+      "sid": 16,
+      "location": 2,
+      "content": "好我们直接开始",
+      "music": 0.0
+    },
+    {
+      "from": 45.62,
+      "to": 50.319,
+      "sid": 17,
+      "location": 2,
+      "content": "那么这次直播呢我们将会进行两个核心的部分",
+      "music": 0.0
+    },
+    {
+      "from": 50.319,
+      "to": 51.719,
+      "sid": 18,
+      "location": 2,
+      "content": "第一个我们向",
+      "music": 0.0
+    },
+    {
+      "from": 51.719,
+      "to": 55.23,
+      "sid": 19,
+      "location": 2,
+      "content": "我们先会对会建的数据进行一个复盘",
+      "music": 0.0
+    },
+    {
+      "from": 55.23,
+      "to": 60.43,
+      "sid": 20,
+      "location": 2,
+      "content": "从啊本周本月以及本年的三个维度",
+      "music": 0.0
+    },
+    {
+      "from": 60.43,
+      "to": 63.269,
+      "sid": 21,
+      "location": 2,
+      "content": "与历史数据进行一个充分的对比",
+      "music": 0.0
+    },
+    {
+      "from": 63.269,
+      "to": 66.889,
+      "sid": 22,
+      "location": 2,
+      "content": "嗯把握它近期的一个操作的节奏",
+      "music": 0.0
+    },
+    {
+      "from": 66.889,
+      "to": 71.41,
+      "sid": 23,
+      "location": 2,
+      "content": "同时啊我们会啊披露一些大家不知道的信息",
+      "music": 0.0
+    },
+    {
+      "from": 71.41,
+      "to": 73.17,
+      "sid": 24,
+      "location": 2,
+      "content": "或者说有些人不知道的信息",
+      "music": 0.0
+    },
+    {
+      "from": 73.17,
+      "to": 76.979,
+      "sid": 25,
+      "location": 2,
+      "content": "就是汇金公式的披露细节和时间节点",
+      "music": 0.0
+    },
+    {
+      "from": 76.979,
+      "to": 78.179,
+      "sid": 26,
+      "location": 2,
+      "content": "那么第二部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 78.179,
+      "to": 81.8,
+      "sid": 27,
+      "location": 2,
+      "content": "我们将会基于额汇金的份额去推演",
+      "music": 0.0
+    },
+    {
+      "from": 81.8,
+      "to": 83.7,
+      "sid": 28,
+      "location": 2,
+      "content": "解析一下霍金娜背后",
+      "music": 0.0
+    },
+    {
+      "from": 83.7,
+      "to": 85.9,
+      "sid": 29,
+      "location": 2,
+      "content": "为什么这样做了一个驱动力",
+      "music": 0.0
+    },
+    {
+      "from": 85.9,
+      "to": 88.12,
+      "sid": 30,
+      "location": 2,
+      "content": "那么我们核心分析的方向",
+      "music": 0.0
+    },
+    {
+      "from": 88.12,
+      "to": 92.1,
+      "sid": 31,
+      "location": 2,
+      "content": "依然还是通过追踪各大宽基ETF的份额",
+      "music": 0.0
+    },
+    {
+      "from": 92.1,
+      "to": 95.28,
+      "sid": 32,
+      "location": 2,
+      "content": "来完成洞察霍金的动向",
+      "music": 0.0
+    },
+    {
+      "from": 95.28,
+      "to": 95.82,
+      "sid": 33,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 95.82,
+      "to": 98.07,
+      "sid": 34,
+      "location": 2,
+      "content": "那我们就正式开始了",
+      "music": 0.0
+    },
+    {
+      "from": 101.69,
+      "to": 103.93,
+      "sid": 35,
+      "location": 2,
+      "content": "那么上证五零呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.93,
+      "to": 109.52,
+      "sid": 36,
+      "location": 2,
+      "content": "本周它是进行了一个比较大幅度的一个啊赎回",
+      "music": 0.0
+    },
+    {
+      "from": 109.52,
+      "to": 113.72,
+      "sid": 37,
+      "location": 2,
+      "content": "它整体的赎回情况呢是一个负的17亿",
+      "music": 0.0
+    },
+    {
+      "from": 113.72,
+      "to": 114.68,
+      "sid": 38,
+      "location": 2,
+      "content": "那么整体来说",
+      "music": 0.0
+    },
+    {
+      "from": 114.68,
+      "to": 116.57,
+      "sid": 39,
+      "location": 2,
+      "content": "本周他赎回了17亿份",
+      "music": 0.0
+    },
+    {
+      "from": 116.57,
+      "to": 117.61,
+      "sid": 40,
+      "location": 2,
+      "content": "变动的比率",
+      "music": 0.0
+    },
+    {
+      "from": 117.61,
+      "to": 118.65,
+      "sid": 41,
+      "location": 2,
+      "content": "相比于上周",
+      "music": 0.0
+    },
+    {
+      "from": 118.65,
+      "to": 120.43,
+      "sid": 42,
+      "location": 2,
+      "content": "相比于5月22日",
+      "music": 0.0
+    },
+    {
+      "from": 120.43,
+      "to": 124.07,
+      "sid": 43,
+      "location": 2,
+      "content": "它整体的份额已经减少了18.56%",
+      "music": 0.0
+    },
+    {
+      "from": 124.07,
+      "to": 126.11,
+      "sid": 44,
+      "location": 2,
+      "content": "这个份额已经特别特别大了",
+      "music": 0.0
+    },
+    {
+      "from": 126.11,
+      "to": 130.01,
+      "sid": 45,
+      "location": 2,
+      "content": "而一周的涨幅仅有0.07%",
+      "music": 0.0
+    },
+    {
+      "from": 130.01,
+      "to": 131.29,
+      "sid": 46,
+      "location": 2,
+      "content": "我们看下一个",
+      "music": 0.0
+    },
+    {
+      "from": 131.29,
+      "to": 134.39,
+      "sid": 47,
+      "location": 2,
+      "content": "那么沪深300ETF华泰百瑞的走势图",
+      "music": 0.0
+    },
+    {
+      "from": 134.39,
+      "to": 139.18,
+      "sid": 48,
+      "location": 2,
+      "content": "基本上和啊上证五零是大体相似",
+      "music": 0.0
+    },
+    {
+      "from": 139.18,
+      "to": 140.4,
+      "sid": 49,
+      "location": 2,
+      "content": "但细节不同",
+      "music": 0.0
+    },
+    {
+      "from": 140.4,
+      "to": 141.78,
+      "sid": 50,
+      "location": 2,
+      "content": "同样相同的是",
+      "music": 0.0
+    },
+    {
+      "from": 141.78,
+      "to": 145.65,
+      "sid": 51,
+      "location": 2,
+      "content": "他也在5月25日这一天进行了大量的收回",
+      "music": 0.0
+    },
+    {
+      "from": 145.65,
+      "to": 148.0,
+      "sid": 52,
+      "location": 2,
+      "content": "我们要记住5月25日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 148.0,
+      "to": 149.12,
+      "sid": 53,
+      "location": 2,
+      "content": "5月25日",
+      "music": 0.0
+    },
+    {
+      "from": 149.12,
+      "to": 151.84,
+      "sid": 54,
+      "location": 2,
+      "content": "也是我们第一次开始追踪会见的时候",
+      "music": 0.0
+    },
+    {
+      "from": 151.84,
+      "to": 155.12,
+      "sid": 55,
+      "location": 2,
+      "content": "因为在这里的时候就已经啊非常极端了",
+      "music": 0.0
+    },
+    {
+      "from": 155.12,
+      "to": 158.0,
+      "sid": 56,
+      "location": 2,
+      "content": "所有的信息都在5月25日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 158.0,
+      "to": 159.93,
+      "sid": 57,
+      "location": 2,
+      "content": "集中的爆发好",
+      "music": 0.0
+    },
+    {
+      "from": 159.93,
+      "to": 162.72,
+      "sid": 58,
+      "location": 2,
+      "content": "我们看第三个也就是专人500",
+      "music": 0.0
+    },
+    {
+      "from": 162.72,
+      "to": 166.56,
+      "sid": 59,
+      "location": 2,
+      "content": "那么相比于额中证500来说",
+      "music": 0.0
+    },
+    {
+      "from": 166.56,
+      "to": 169.06,
+      "sid": 60,
+      "location": 2,
+      "content": "我们可以这样理解",
+      "music": 0.0
+    },
+    {
+      "from": 169.06,
+      "to": 171.5,
+      "sid": 61,
+      "location": 2,
+      "content": "在他们三个标的",
+      "music": 0.0
+    },
+    {
+      "from": 171.5,
+      "to": 174.61,
+      "sid": 62,
+      "location": 2,
+      "content": "它基本的变化其实就是5月29日的不同",
+      "music": 0.0
+    },
+    {
+      "from": 174.61,
+      "to": 177.25,
+      "sid": 63,
+      "location": 2,
+      "content": "前面四天基本上它的走势都是这样走的",
+      "music": 0.0
+    },
+    {
+      "from": 177.25,
+      "to": 179.41,
+      "sid": 64,
+      "location": 2,
+      "content": "但是在第五天上是有些不同的",
+      "music": 0.0
+    },
+    {
+      "from": 179.41,
+      "to": 180.7,
+      "sid": 65,
+      "location": 2,
+      "content": "第五天这里",
+      "music": 0.0
+    },
+    {
+      "from": 180.7,
+      "to": 183.56,
+      "sid": 66,
+      "location": 2,
+      "content": "中证500ETF基本上是没有怎么放量的",
+      "music": 0.0
+    },
+    {
+      "from": 183.56,
+      "to": 185.3,
+      "sid": 67,
+      "location": 2,
+      "content": "但是它大跌了",
+      "music": 0.0
+    },
+    {
+      "from": 185.3,
+      "to": 187.7,
+      "sid": 68,
+      "location": 2,
+      "content": "这表明了在中小盘上",
+      "music": 0.0
+    },
+    {
+      "from": 187.7,
+      "to": 191.24,
+      "sid": 69,
+      "location": 2,
+      "content": "他的减仓行为可能和市场自身的下跌趋势有关",
+      "music": 0.0
+    },
+    {
+      "from": 191.24,
+      "to": 193.94,
+      "sid": 70,
+      "location": 2,
+      "content": "在这里我们并没有看到一个啊霍金",
+      "music": 0.0
+    },
+    {
+      "from": 193.94,
+      "to": 196.8,
+      "sid": 71,
+      "location": 2,
+      "content": "他对于整个盘面的控制",
+      "music": 0.0
+    },
+    {
+      "from": 197.04,
+      "to": 198.92,
+      "sid": 72,
+      "location": 2,
+      "content": "那么在中证1000上",
+      "music": 0.0
+    },
+    {
+      "from": 198.92,
+      "to": 203.05,
+      "sid": 73,
+      "location": 2,
+      "content": "它的涨幅就出现了一些非常非常极端的变化",
+      "music": 0.0
+    },
+    {
+      "from": 203.05,
+      "to": 206.55,
+      "sid": 74,
+      "location": 2,
+      "content": "从第一天同样的是一个比较大的一个放量",
+      "music": 0.0
+    },
+    {
+      "from": 206.55,
+      "to": 207.81,
+      "sid": 75,
+      "location": 2,
+      "content": "但是上涨",
+      "music": 0.0
+    },
+    {
+      "from": 207.81,
+      "to": 210.13,
+      "sid": 76,
+      "location": 2,
+      "content": "但是拐点是在第四天",
+      "music": 0.0
+    },
+    {
+      "from": 210.13,
+      "to": 212.59,
+      "sid": 77,
+      "location": 2,
+      "content": "第四天中证1000的ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.59,
+      "to": 215.079,
+      "sid": 78,
+      "location": 2,
+      "content": "它呈现了一个上涨的情况",
+      "music": 0.0
+    },
+    {
+      "from": 215.079,
+      "to": 216.679,
+      "sid": 79,
+      "location": 2,
+      "content": "同时继续赎回",
+      "music": 0.0
+    },
+    {
+      "from": 216.679,
+      "to": 218.419,
+      "sid": 80,
+      "location": 2,
+      "content": "前面四天是继续赎回",
+      "music": 0.0
+    },
+    {
+      "from": 218.419,
+      "to": 219.859,
+      "sid": 81,
+      "location": 2,
+      "content": "但是在第29天",
+      "music": 0.0
+    },
+    {
+      "from": 219.859,
+      "to": 223.49,
+      "sid": 82,
+      "location": 2,
+      "content": "它却出现了一个逆势的大量买入",
+      "music": 0.0
+    },
+    {
+      "from": 223.49,
+      "to": 226.55,
+      "sid": 83,
+      "location": 2,
+      "content": "整体的增增幅超过了23.04%",
+      "music": 0.0
+    },
+    {
+      "from": 226.55,
+      "to": 229.15,
+      "sid": 84,
+      "location": 2,
+      "content": "而当日的成交量是大幅的减低",
+      "music": 0.0
+    },
+    {
+      "from": 229.15,
+      "to": 230.83,
+      "sid": 85,
+      "location": 2,
+      "content": "那么整体上来说",
+      "music": 0.0
+    },
+    {
+      "from": 230.83,
+      "to": 232.81,
+      "sid": 86,
+      "location": 2,
+      "content": "我们是可以认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.81,
+      "to": 235.63,
+      "sid": 87,
+      "location": 2,
+      "content": "29日是有一些异动的情况",
+      "music": 0.0
+    },
+    {
+      "from": 235.63,
+      "to": 238.23,
+      "sid": 88,
+      "location": 2,
+      "content": "那么这些异动的情况是不是股价对抄底",
+      "music": 0.0
+    },
+    {
+      "from": 238.23,
+      "to": 239.49,
+      "sid": 89,
+      "location": 2,
+      "content": "我们不不敢说",
+      "music": 0.0
+    },
+    {
+      "from": 239.49,
+      "to": 243.55,
+      "sid": 90,
+      "location": 2,
+      "content": "但是在份额上他就是出现了一些抄底的行为",
+      "music": 0.0
+    },
+    {
+      "from": 244.03,
+      "to": 247.63,
+      "sid": 91,
+      "location": 2,
+      "content": "所以这里应该是我们要引起一些重视",
+      "music": 0.0
+    },
+    {
+      "from": 247.63,
+      "to": 249.51,
+      "sid": 92,
+      "location": 2,
+      "content": "他的数据出现了异动",
+      "music": 0.0
+    },
+    {
+      "from": 249.51,
+      "to": 251.57,
+      "sid": 93,
+      "location": 2,
+      "content": "好我们继续看创业板",
+      "music": 0.0
+    },
+    {
+      "from": 251.57,
+      "to": 254.05,
+      "sid": 94,
+      "location": 2,
+      "content": "那么从左侧图表数据我们可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 254.05,
+      "to": 254.83,
+      "sid": 95,
+      "location": 2,
+      "content": "本次啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.83,
+      "to": 257.379,
+      "sid": 96,
+      "location": 2,
+      "content": "本周创业板ETF呈现的状态",
+      "music": 0.0
+    },
+    {
+      "from": 257.379,
+      "to": 261.94,
+      "sid": 97,
+      "location": 2,
+      "content": "也和前面除了中证1000之外的三个标的一致",
+      "music": 0.0
+    },
+    {
+      "from": 261.94,
+      "to": 264.48,
+      "sid": 98,
+      "location": 2,
+      "content": "同时净流出8.5亿份",
+      "music": 0.0
+    },
+    {
+      "from": 264.48,
+      "to": 267.03,
+      "sid": 99,
+      "location": 2,
+      "content": "证券上的情绪还是偏弱的",
+      "music": 0.0
+    },
+    {
+      "from": 267.03,
+      "to": 269.19,
+      "sid": 100,
+      "location": 2,
+      "content": "那么在科创五零上",
+      "music": 0.0
+    },
+    {
+      "from": 269.19,
+      "to": 272.95,
+      "sid": 101,
+      "location": 2,
+      "content": "科创五零是唯独唯独啊没有减持",
+      "music": 0.0
+    },
+    {
+      "from": 272.95,
+      "to": 275.28,
+      "sid": 102,
+      "location": 2,
+      "content": "反而是增值的一个标的",
+      "music": 0.0
+    },
+    {
+      "from": 275.28,
+      "to": 277.72,
+      "sid": 103,
+      "location": 2,
+      "content": "在虽然在5月29日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 278.76,
+      "to": 282.88,
+      "sid": 104,
+      "location": 2,
+      "content": "市场将啊5月25日整体上涨来五个点",
+      "music": 0.0
+    },
+    {
+      "from": 282.88,
+      "to": 284.34,
+      "sid": 105,
+      "location": 2,
+      "content": "完全给吃掉了",
+      "music": 0.0
+    },
+    {
+      "from": 284.34,
+      "to": 286.52,
+      "sid": 106,
+      "location": 2,
+      "content": "但是在5月29日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 286.52,
+      "to": 289.36,
+      "sid": 107,
+      "location": 2,
+      "content": "他完成了和5月25日的对冲",
+      "music": 0.0
+    },
+    {
+      "from": 289.36,
+      "to": 293.12,
+      "sid": 108,
+      "location": 2,
+      "content": "你5月25日减持了2.91份",
+      "music": 0.0
+    },
+    {
+      "from": 293.81,
+      "to": 296.23,
+      "sid": 109,
+      "location": 2,
+      "content": "减持的比例是负的1.46",
+      "music": 0.0
+    },
+    {
+      "from": 296.23,
+      "to": 297.25,
+      "sid": 110,
+      "location": 2,
+      "content": "那5月29日",
+      "music": 0.0
+    },
+    {
+      "from": 297.25,
+      "to": 301.28,
+      "sid": 111,
+      "location": 2,
+      "content": "他最终返回呈现了2.7亿的增值",
+      "music": 0.0
+    },
+    {
+      "from": 301.28,
+      "to": 305.59,
+      "sid": 112,
+      "location": 2,
+      "content": "那么这两天其实是可以实现一个完美的对冲的",
+      "music": 0.0
+    },
+    {
+      "from": 305.59,
+      "to": 309.01,
+      "sid": 113,
+      "location": 2,
+      "content": "最终导致了科创五零在呃",
+      "music": 0.0
+    },
+    {
+      "from": 309.01,
+      "to": 312.83,
+      "sid": 114,
+      "location": 2,
+      "content": "本周合计的检出并没有减少",
+      "music": 0.0
+    },
+    {
+      "from": 312.83,
+      "to": 315.46,
+      "sid": 115,
+      "location": 2,
+      "content": "反而是增加了1800万粉",
+      "music": 0.0
+    },
+    {
+      "from": 315.78,
+      "to": 320.99,
+      "sid": 116,
+      "location": 2,
+      "content": "而最终它的本周的跌幅是一个负的2.13",
+      "music": 0.0
+    },
+    {
+      "from": 320.99,
+      "to": 326.77,
+      "sid": 117,
+      "location": 2,
+      "content": "那就意味着科创五零整体的大资金的逻辑上",
+      "music": 0.0
+    },
+    {
+      "from": 326.77,
+      "to": 329.65,
+      "sid": 118,
+      "location": 2,
+      "content": "是比较偏向于整个啊做T的",
+      "music": 0.0
+    },
+    {
+      "from": 329.65,
+      "to": 333.25,
+      "sid": 119,
+      "location": 2,
+      "content": "那也就是说如果从资金份额的变化上来说",
+      "music": 0.0
+    },
+    {
+      "from": 333.25,
+      "to": 336.31,
+      "sid": 120,
+      "location": 2,
+      "content": "那么科创五零的他的呃危险系数",
+      "music": 0.0
+    },
+    {
+      "from": 336.31,
+      "to": 339.11,
+      "sid": 121,
+      "location": 2,
+      "content": "在数据分析上应该是比较偏少的",
+      "music": 0.0
+    },
+    {
+      "from": 339.11,
+      "to": 340.89,
+      "sid": 122,
+      "location": 2,
+      "content": "好我们继续",
+      "music": 0.0
+    },
+    {
+      "from": 340.89,
+      "to": 343.01,
+      "sid": 123,
+      "location": 2,
+      "content": "那么在金融ETF上",
+      "music": 0.0
+    },
+    {
+      "from": 343.01,
+      "to": 344.09,
+      "sid": 124,
+      "location": 2,
+      "content": "那本周呢",
+      "music": 0.0
+    },
+    {
+      "from": 344.09,
+      "to": 348.81,
+      "sid": 125,
+      "location": 2,
+      "content": "金融ATF它继续呈现了一个额赎回状态",
+      "music": 0.0
+    },
+    {
+      "from": 349.33,
+      "to": 351.01,
+      "sid": 126,
+      "location": 2,
+      "content": "从左侧图表我们可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 351.01,
+      "to": 352.71,
+      "sid": 127,
+      "location": 2,
+      "content": "尤其是在周二的时候",
+      "music": 0.0
+    },
+    {
+      "from": 352.71,
+      "to": 355.07,
+      "sid": 128,
+      "location": 2,
+      "content": "金融ETF它减持是比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 355.07,
+      "to": 357.31,
+      "sid": 129,
+      "location": 2,
+      "content": "但是整体的金融ETF在呃",
+      "music": 0.0
+    },
+    {
+      "from": 357.31,
+      "to": 360.03,
+      "sid": 130,
+      "location": 2,
+      "content": "汇金的持盘之中大概只有30亿左右的份额",
+      "music": 0.0
+    },
+    {
+      "from": 360.03,
+      "to": 361.07,
+      "sid": 131,
+      "location": 2,
+      "content": "是比较少的",
+      "music": 0.0
+    },
+    {
+      "from": 361.07,
+      "to": 363.81,
+      "sid": 132,
+      "location": 2,
+      "content": "这也是我们原本为什么没有把它呃",
+      "music": 0.0
+    },
+    {
+      "from": 363.81,
+      "to": 366.23,
+      "sid": 133,
+      "location": 2,
+      "content": "纳入整体的一个第一梯队的份额",
+      "music": 0.0
+    },
+    {
+      "from": 366.23,
+      "to": 367.82,
+      "sid": 134,
+      "location": 2,
+      "content": "因为他的资金量是比较少的",
+      "music": 0.0
+    },
+    {
+      "from": 367.82,
+      "to": 370.54,
+      "sid": 135,
+      "location": 2,
+      "content": "那么在整体的逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 370.99,
+      "to": 375.35,
+      "sid": 136,
+      "location": 2,
+      "content": "金融ETF它基本上是呈现一个单方向的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 375.35,
+      "to": 378.67,
+      "sid": 137,
+      "location": 2,
+      "content": "虽然它的整体的涨幅是0.73%",
+      "music": 0.0
+    },
+    {
+      "from": 378.67,
+      "to": 381.03,
+      "sid": 138,
+      "location": 2,
+      "content": "但整体的他的赎回是高达了4亿分",
+      "music": 0.0
+    },
+    {
+      "from": 381.03,
+      "to": 383.25,
+      "sid": 139,
+      "location": 2,
+      "content": "整体减仓幅度相比于啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.25,
+      "to": 386.82,
+      "sid": 140,
+      "location": 2,
+      "content": "相比于上周是减持了14.83%",
+      "music": 0.0
+    },
+    {
+      "from": 386.82,
+      "to": 390.4,
+      "sid": 141,
+      "location": 2,
+      "content": "这个量对于一个小盘的ETF来说",
+      "music": 0.0
+    },
+    {
+      "from": 390.4,
+      "to": 392.02,
+      "sid": 142,
+      "location": 2,
+      "content": "已经是非常大了",
+      "music": 0.0
+    },
+    {
+      "from": 392.02,
+      "to": 393.68,
+      "sid": 143,
+      "location": 2,
+      "content": "但如果我们将呃",
+      "music": 0.0
+    },
+    {
+      "from": 393.68,
+      "to": 397.88,
+      "sid": 144,
+      "location": 2,
+      "content": "目标从5月份对比到4月份的时候",
+      "music": 0.0
+    },
+    {
+      "from": 397.88,
+      "to": 400.74,
+      "sid": 145,
+      "location": 2,
+      "content": "那么整体的规模改变和减值的一个比率啊",
+      "music": 0.0
+    },
+    {
+      "from": 400.74,
+      "to": 403.09,
+      "sid": 146,
+      "location": 2,
+      "content": "大家可以直观的看到",
+      "music": 0.0
+    },
+    {
+      "from": 403.53,
+      "to": 405.73,
+      "sid": 147,
+      "location": 2,
+      "content": "从减值的比例上讲",
+      "music": 0.0
+    },
+    {
+      "from": 405.73,
+      "to": 407.51,
+      "sid": 148,
+      "location": 2,
+      "content": "5月份相比于4月份",
+      "music": 0.0
+    },
+    {
+      "from": 407.51,
+      "to": 408.71,
+      "sid": 149,
+      "location": 2,
+      "content": "上证50ETF",
+      "music": 0.0
+    },
+    {
+      "from": 408.71,
+      "to": 412.159,
+      "sid": 150,
+      "location": 2,
+      "content": "它整体的变化是减少了94亿",
+      "music": 0.0
+    },
+    {
+      "from": 412.159,
+      "to": 414.579,
+      "sid": 151,
+      "location": 2,
+      "content": "整体的变动幅度相比于4月份",
+      "music": 0.0
+    },
+    {
+      "from": 414.579,
+      "to": 416.719,
+      "sid": 152,
+      "location": 2,
+      "content": "他减持了这54.71%",
+      "music": 0.0
+    },
+    {
+      "from": 416.719,
+      "to": 418.119,
+      "sid": 153,
+      "location": 2,
+      "content": "从减值的逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 418.119,
+      "to": 419.899,
+      "sid": 154,
+      "location": 2,
+      "content": "这里我们可以得出一个结论",
+      "music": 0.0
+    },
+    {
+      "from": 419.899,
+      "to": 421.439,
+      "sid": 155,
+      "location": 2,
+      "content": "在1月份",
+      "music": 0.0
+    },
+    {
+      "from": 422.78,
+      "to": 426.44,
+      "sid": 156,
+      "location": 2,
+      "content": "他在1月份完成了一次腰斩",
+      "music": 0.0
+    },
+    {
+      "from": 426.44,
+      "to": 428.1,
+      "sid": 157,
+      "location": 2,
+      "content": "50%",
+      "music": 0.0
+    },
+    {
+      "from": 428.82,
+      "to": 430.58,
+      "sid": 158,
+      "location": 2,
+      "content": "而在2月份",
+      "music": 0.0
+    },
+    {
+      "from": 430.58,
+      "to": 431.12,
+      "sid": 159,
+      "location": 2,
+      "content": "3月份",
+      "music": 0.0
+    },
+    {
+      "from": 431.12,
+      "to": 433.2,
+      "sid": 160,
+      "location": 2,
+      "content": "4月份基本上是没有怎么动的",
+      "music": 0.0
+    },
+    {
+      "from": 433.2,
+      "to": 434.58,
+      "sid": 161,
+      "location": 2,
+      "content": "但是最近在5月份",
+      "music": 0.0
+    },
+    {
+      "from": 434.58,
+      "to": 436.62,
+      "sid": 162,
+      "location": 2,
+      "content": "他又完成了一次腰斩",
+      "music": 0.0
+    },
+    {
+      "from": 436.82,
+      "to": 438.52,
+      "sid": 163,
+      "location": 2,
+      "content": "再度完成了50%",
+      "music": 0.0
+    },
+    {
+      "from": 438.52,
+      "to": 440.54,
+      "sid": 164,
+      "location": 2,
+      "content": "也就是25%的减仓",
+      "music": 0.0
+    },
+    {
+      "from": 440.54,
+      "to": 445.1,
+      "sid": 165,
+      "location": 2,
+      "content": "所以对于国家队来说",
+      "music": 0.0
+    },
+    {
+      "from": 445.72,
+      "to": 449.28,
+      "sid": 166,
+      "location": 2,
+      "content": "这里的减持50%的比例",
+      "music": 0.0
+    },
+    {
+      "from": 449.28,
+      "to": 452.22,
+      "sid": 167,
+      "location": 2,
+      "content": "相当于原本持仓的可能是25%的左右",
+      "music": 0.0
+    },
+    {
+      "from": 452.22,
+      "to": 456.4,
+      "sid": 168,
+      "location": 2,
+      "content": "这里面一定是有汪汪队的活动的",
+      "music": 0.0
+    },
+    {
+      "from": 458.04,
+      "to": 460.95,
+      "sid": 169,
+      "location": 2,
+      "content": "因为持仓份额在你手上",
+      "music": 0.0
+    },
+    {
+      "from": 460.95,
+      "to": 465.19,
+      "sid": 170,
+      "location": 2,
+      "content": "你原本持仓了86.05%的比例",
+      "music": 0.0
+    },
+    {
+      "from": 465.19,
+      "to": 467.31,
+      "sid": 171,
+      "location": 2,
+      "content": "那么也就是说在这个时候",
+      "music": 0.0
+    },
+    {
+      "from": 467.31,
+      "to": 469.25,
+      "sid": 172,
+      "location": 2,
+      "content": "散户的最最大值",
+      "music": 0.0
+    },
+    {
+      "from": 469.25,
+      "to": 473.4,
+      "sid": 173,
+      "location": 2,
+      "content": "持仓最大值只可能是13.95%",
+      "music": 0.0
+    },
+    {
+      "from": 474.32,
+      "to": 476.12,
+      "sid": 174,
+      "location": 2,
+      "content": "大家能明白这个意思吗",
+      "music": 0.0
+    },
+    {
+      "from": 476.12,
+      "to": 480.76,
+      "sid": 175,
+      "location": 2,
+      "content": "你在5月份5月份的减持高达这么多",
+      "music": 0.0
+    },
+    {
+      "from": 480.76,
+      "to": 483.84,
+      "sid": 176,
+      "location": 2,
+      "content": "但是散户手上只有这么多筹码",
+      "music": 0.0
+    },
+    {
+      "from": 483.84,
+      "to": 485.58,
+      "sid": 177,
+      "location": 2,
+      "content": "那你说你不是汇金",
+      "music": 0.0
+    },
+    {
+      "from": 485.58,
+      "to": 486.919,
+      "sid": 178,
+      "location": 2,
+      "content": "怎么可能呢",
+      "music": 0.0
+    },
+    {
+      "from": 486.919,
+      "to": 488.099,
+      "sid": 179,
+      "location": 2,
+      "content": "好我们继续",
+      "music": 0.0
+    },
+    {
+      "from": 488.099,
+      "to": 489.96,
+      "sid": 180,
+      "location": 2,
+      "content": "那么从沪深300的角度上讲",
+      "music": 0.0
+    },
+    {
+      "from": 489.96,
+      "to": 493.58,
+      "sid": 181,
+      "location": 2,
+      "content": "沪深300的赎回情况大于上证五零",
+      "music": 0.0
+    },
+    {
+      "from": 493.58,
+      "to": 496.78,
+      "sid": 182,
+      "location": 2,
+      "content": "这是因为沪深300ETF华泰柏瑞啊",
+      "music": 0.0
+    },
+    {
+      "from": 496.78,
+      "to": 500.76,
+      "sid": 183,
+      "location": 2,
+      "content": "它的份额总资金量比上证五零要多",
+      "music": 0.0
+    },
+    {
+      "from": 500.76,
+      "to": 502.34,
+      "sid": 184,
+      "location": 2,
+      "content": "所以他才导致这个情况",
+      "music": 0.0
+    },
+    {
+      "from": 502.34,
+      "to": 504.44,
+      "sid": 185,
+      "location": 2,
+      "content": "但是从变动幅度上讲",
+      "music": 0.0
+    },
+    {
+      "from": 504.44,
+      "to": 506.56,
+      "sid": 186,
+      "location": 2,
+      "content": "我们可以列一个数",
+      "music": 0.0
+    },
+    {
+      "from": 507.12,
+      "to": 507.94,
+      "sid": 187,
+      "location": 2,
+      "content": "列一个数",
+      "music": 0.0
+    },
+    {
+      "from": 507.94,
+      "to": 509.68,
+      "sid": 188,
+      "location": 2,
+      "content": "也就是说啊",
+      "music": 0.0
+    },
+    {
+      "from": 509.68,
+      "to": 513.26,
+      "sid": 189,
+      "location": 2,
+      "content": "上证五零他的减持是最多的",
+      "music": 0.0
+    },
+    {
+      "from": 513.26,
+      "to": 515.99,
+      "sid": 190,
+      "location": 2,
+      "content": "第二个是中证500",
+      "music": 0.0
+    },
+    {
+      "from": 515.99,
+      "to": 518.51,
+      "sid": 191,
+      "location": 2,
+      "content": "第三个是金融ETF",
+      "music": 0.0
+    },
+    {
+      "from": 518.51,
+      "to": 520.15,
+      "sid": 192,
+      "location": 2,
+      "content": "但是因为金融ETF太小了",
+      "music": 0.0
+    },
+    {
+      "from": 520.15,
+      "to": 521.01,
+      "sid": 193,
+      "location": 2,
+      "content": "盘子太小了",
+      "music": 0.0
+    },
+    {
+      "from": 521.01,
+      "to": 523.95,
+      "sid": 194,
+      "location": 2,
+      "content": "第四个是沪深300",
+      "music": 0.0
+    },
+    {
+      "from": 523.95,
+      "to": 525.03,
+      "sid": 195,
+      "location": 2,
+      "content": "在这里",
+      "music": 0.0
+    },
+    {
+      "from": 525.03,
+      "to": 530.63,
+      "sid": 196,
+      "location": 2,
+      "content": "那么第五个那就是我们的科创五零",
+      "music": 0.0
+    },
+    {
+      "from": 530.63,
+      "to": 532.87,
+      "sid": 197,
+      "location": 2,
+      "content": "第六个是中证1000",
+      "music": 0.0
+    },
+    {
+      "from": 532.87,
+      "to": 535.39,
+      "sid": 198,
+      "location": 2,
+      "content": "第七个是创业板",
+      "music": 0.0
+    },
+    {
+      "from": 535.81,
+      "to": 540.41,
+      "sid": 199,
+      "location": 2,
+      "content": "但是整体上来说还是以大盘股和中盘股",
+      "music": 0.0
+    },
+    {
+      "from": 540.41,
+      "to": 542.01,
+      "sid": 200,
+      "location": 2,
+      "content": "前面三个为主",
+      "music": 0.0
+    },
+    {
+      "from": 542.01,
+      "to": 545.23,
+      "sid": 201,
+      "location": 2,
+      "content": "后面的反而是减值是比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 545.23,
+      "to": 547.95,
+      "sid": 202,
+      "location": 2,
+      "content": "尤其是上证五零的减值幅度是最多的",
+      "music": 0.0
+    },
+    {
+      "from": 547.95,
+      "to": 550.62,
+      "sid": 203,
+      "location": 2,
+      "content": "这是我们从月份的角度上去看好",
+      "music": 0.0
+    },
+    {
+      "from": 550.62,
+      "to": 551.94,
+      "sid": 204,
+      "location": 2,
+      "content": "我们继续",
+      "music": 0.0
+    },
+    {
+      "from": 552.34,
+      "to": 556.839,
+      "sid": 205,
+      "location": 2,
+      "content": "那么我们再看一下他月份相比于它的涨幅来说",
+      "music": 0.0
+    },
+    {
+      "from": 557.199,
+      "to": 560.559,
+      "sid": 206,
+      "location": 2,
+      "content": "从上证五零它的整体涨幅是在负的",
+      "music": 0.0
+    },
+    {
+      "from": 560.559,
+      "to": 564.74,
+      "sid": 207,
+      "location": 2,
+      "content": "2.12还零轴应该在这里哈",
+      "music": 0.0
+    },
+    {
+      "from": 564.74,
+      "to": 565.62,
+      "sid": 208,
+      "location": 2,
+      "content": "零轴应该在这里",
+      "music": 0.0
+    },
+    {
+      "from": 566.7,
+      "to": 570.88,
+      "sid": 209,
+      "location": 2,
+      "content": "那沪深300是增长至了2.05%",
+      "music": 0.0
+    },
+    {
+      "from": 570.88,
+      "to": 574.28,
+      "sid": 210,
+      "location": 2,
+      "content": "中证500他是并没有变化太多",
+      "music": 0.0
+    },
+    {
+      "from": 574.28,
+      "to": 576.64,
+      "sid": 211,
+      "location": 2,
+      "content": "中证1000竟然也是并没有变化太多",
+      "music": 0.0
+    },
+    {
+      "from": 576.64,
+      "to": 580.12,
+      "sid": 212,
+      "location": 2,
+      "content": "但是他们的减值幅度都在20%以上",
+      "music": 0.0
+    },
+    {
+      "from": 580.48,
+      "to": 582.8,
+      "sid": 213,
+      "location": 2,
+      "content": "而唯独唯独增值的部分",
+      "music": 0.0
+    },
+    {
+      "from": 582.8,
+      "to": 586.3,
+      "sid": 214,
+      "location": 2,
+      "content": "其实是创业板和科创五零",
+      "music": 0.0
+    },
+    {
+      "from": 586.3,
+      "to": 589.3,
+      "sid": 215,
+      "location": 2,
+      "content": "那从这个逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 589.3,
+      "to": 591.03,
+      "sid": 216,
+      "location": 2,
+      "content": "从这个逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 591.03,
+      "to": 594.05,
+      "sid": 217,
+      "location": 2,
+      "content": "你的份额在减少",
+      "music": 0.0
+    },
+    {
+      "from": 594.05,
+      "to": 597.09,
+      "sid": 218,
+      "location": 2,
+      "content": "但是你的涨幅在往上走",
+      "music": 0.0
+    },
+    {
+      "from": 597.09,
+      "to": 599.68,
+      "sid": 219,
+      "location": 2,
+      "content": "这对于数据层次来说",
+      "music": 0.0
+    },
+    {
+      "from": 599.68,
+      "to": 600.96,
+      "sid": 220,
+      "location": 2,
+      "content": "我们仅做数据推论",
+      "music": 0.0
+    },
+    {
+      "from": 600.96,
+      "to": 602.99,
+      "sid": 221,
+      "location": 2,
+      "content": "不做任何的投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 602.99,
+      "to": 605.35,
+      "sid": 222,
+      "location": 2,
+      "content": "这里是来说是危险系数",
+      "music": 0.0
+    },
+    {
+      "from": 605.35,
+      "to": 607.8,
+      "sid": 223,
+      "location": 2,
+      "content": "其实是慢慢在出现的",
+      "music": 0.0
+    },
+    {
+      "from": 607.8,
+      "to": 608.92,
+      "sid": 224,
+      "location": 2,
+      "content": "阅读过后",
+      "music": 0.0
+    },
+    {
+      "from": 608.92,
+      "to": 612.06,
+      "sid": 225,
+      "location": 2,
+      "content": "我们从整体的年度对比来进行看一下",
+      "music": 0.0
+    },
+    {
+      "from": 612.06,
+      "to": 616.76,
+      "sid": 226,
+      "location": 2,
+      "content": "首先我们啊对比的方向是减持规模和比例",
+      "music": 0.0
+    },
+    {
+      "from": 617.309,
+      "to": 619.309,
+      "sid": 227,
+      "location": 2,
+      "content": "从减脂的规模上讲",
+      "music": 0.0
+    },
+    {
+      "from": 619.309,
+      "to": 622.089,
+      "sid": 228,
+      "location": 2,
+      "content": "这个绿色柱子代表了它的减值规模",
+      "music": 0.0
+    },
+    {
+      "from": 622.089,
+      "to": 626.43,
+      "sid": 229,
+      "location": 2,
+      "content": "这个蓝色柱子代表了宽基ETF的减值比例",
+      "music": 0.0
+    },
+    {
+      "from": 626.43,
+      "to": 628.49,
+      "sid": 230,
+      "location": 2,
+      "content": "那我们从上证五零开始",
+      "music": 0.0
+    },
+    {
+      "from": 628.49,
+      "to": 633.15,
+      "sid": 231,
+      "location": 2,
+      "content": "上证50ETF它整体的份额改变是488亿",
+      "music": 0.0
+    },
+    {
+      "from": 633.15,
+      "to": 637.81,
+      "sid": 232,
+      "location": 2,
+      "content": "他的变动比例是86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 637.81,
+      "to": 638.65,
+      "sid": 233,
+      "location": 2,
+      "content": "这什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 638.65,
+      "to": 645.399,
+      "sid": 234,
+      "location": 2,
+      "content": "也就是说2025年12月30日",
+      "music": 0.0
+    },
+    {
+      "from": 645.399,
+      "to": 649.039,
+      "sid": 235,
+      "location": 2,
+      "content": "汇金公布持仓那一天开始",
+      "music": 0.0
+    },
+    {
+      "from": 649.039,
+      "to": 655.42,
+      "sid": 236,
+      "location": 2,
+      "content": "到现在2026年的5月29日收盘",
+      "music": 0.0
+    },
+    {
+      "from": 656.35,
+      "to": 657.99,
+      "sid": 237,
+      "location": 2,
+      "content": "这六个月之间",
+      "music": 0.0
+    },
+    {
+      "from": 659.79,
+      "to": 665.8,
+      "sid": 238,
+      "location": 2,
+      "content": "上证50ETF的总规模减少了488亿",
+      "music": 0.0
+    },
+    {
+      "from": 665.8,
+      "to": 670.68,
+      "sid": 239,
+      "location": 2,
+      "content": "这个总规模对比上证50ETF这个ETF的总规模",
+      "music": 0.0
+    },
+    {
+      "from": 670.68,
+      "to": 674.27,
+      "sid": 240,
+      "location": 2,
+      "content": "减持比例是86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 674.27,
+      "to": 676.27,
+      "sid": 241,
+      "location": 2,
+      "content": "这个比例包含了汪汪队",
+      "music": 0.0
+    },
+    {
+      "from": 676.27,
+      "to": 677.23,
+      "sid": 242,
+      "location": 2,
+      "content": "也包含了散户",
+      "music": 0.0
+    },
+    {
+      "from": 677.23,
+      "to": 678.49,
+      "sid": 243,
+      "location": 2,
+      "content": "就一系列资金",
+      "music": 0.0
+    },
+    {
+      "from": 678.49,
+      "to": 682.86,
+      "sid": 244,
+      "location": 2,
+      "content": "他总共的减持了是负的86.22",
+      "music": 0.0
+    },
+    {
+      "from": 684.22,
+      "to": 688.69,
+      "sid": 245,
+      "location": 2,
+      "content": "那么沪深300它整体的2026年对比",
+      "music": 0.0
+    },
+    {
+      "from": 688.69,
+      "to": 689.61,
+      "sid": 246,
+      "location": 2,
+      "content": "2025年末",
+      "music": 0.0
+    },
+    {
+      "from": 689.61,
+      "to": 693.89,
+      "sid": 247,
+      "location": 2,
+      "content": "减持比率是高达68.53%",
+      "music": 0.0
+    },
+    {
+      "from": 694.33,
+      "to": 697.41,
+      "sid": 248,
+      "location": 2,
+      "content": "中证500减持比例是77.26%",
+      "music": 0.0
+    },
+    {
+      "from": 697.41,
+      "to": 699.95,
+      "sid": 249,
+      "location": 2,
+      "content": "而中证1000重头戏又来了",
+      "music": 0.0
+    },
+    {
+      "from": 699.95,
+      "to": 703.37,
+      "sid": 250,
+      "location": 2,
+      "content": "中证1000的减值比例也和上证501样",
+      "music": 0.0
+    },
+    {
+      "from": 703.37,
+      "to": 707.56,
+      "sid": 251,
+      "location": 2,
+      "content": "达到了一个负的85.88",
+      "music": 0.0
+    },
+    {
+      "from": 707.56,
+      "to": 710.97,
+      "sid": 252,
+      "location": 2,
+      "content": "它们两个的减值幅度是最大的",
+      "music": 0.0
+    },
+    {
+      "from": 711.29,
+      "to": 714.57,
+      "sid": 253,
+      "location": 2,
+      "content": "那么创业板ETF和科创50ETF",
+      "music": 0.0
+    },
+    {
+      "from": 714.57,
+      "to": 716.69,
+      "sid": 254,
+      "location": 2,
+      "content": "他们的减值幅度又是相当的",
+      "music": 0.0
+    },
+    {
+      "from": 716.69,
+      "to": 718.9,
+      "sid": 255,
+      "location": 2,
+      "content": "都是在百分之呃",
+      "music": 0.0
+    },
+    {
+      "from": 718.9,
+      "to": 722.88,
+      "sid": 256,
+      "location": 2,
+      "content": "66.49到60.87%之间",
+      "music": 0.0
+    },
+    {
+      "from": 722.88,
+      "to": 725.72,
+      "sid": 257,
+      "location": 2,
+      "content": "那金融ETF最它是最近减持的",
+      "music": 0.0
+    },
+    {
+      "from": 725.72,
+      "to": 727.26,
+      "sid": 258,
+      "location": 2,
+      "content": "而且它的份额比较小",
+      "music": 0.0
+    },
+    {
+      "from": 727.26,
+      "to": 730.539,
+      "sid": 259,
+      "location": 2,
+      "content": "所以我们啊暂时可以将它忽略",
+      "music": 0.0
+    },
+    {
+      "from": 730.539,
+      "to": 732.279,
+      "sid": 260,
+      "location": 2,
+      "content": "它的减值幅度也只有30%",
+      "music": 0.0
+    },
+    {
+      "from": 732.279,
+      "to": 735.439,
+      "sid": 261,
+      "location": 2,
+      "content": "那沪深300反而是规模最大",
+      "music": 0.0
+    },
+    {
+      "from": 735.439,
+      "to": 738.01,
+      "sid": 262,
+      "location": 2,
+      "content": "他的减值幅度是一个居中的",
+      "music": 0.0
+    },
+    {
+      "from": 738.01,
+      "to": 740.19,
+      "sid": 263,
+      "location": 2,
+      "content": "从这个减值幅度上讲",
+      "music": 0.0
+    },
+    {
+      "from": 740.19,
+      "to": 741.87,
+      "sid": 264,
+      "location": 2,
+      "content": "大家要记住两个数据",
+      "music": 0.0
+    },
+    {
+      "from": 741.87,
+      "to": 746.47,
+      "sid": 265,
+      "location": 2,
+      "content": "一个是上证50ETF变动的负的",
+      "music": 0.0
+    },
+    {
+      "from": 746.47,
+      "to": 747.89,
+      "sid": 266,
+      "location": 2,
+      "content": "86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 747.89,
+      "to": 749.98,
+      "sid": 267,
+      "location": 2,
+      "content": "一个是中证1000ETF",
+      "music": 0.0
+    },
+    {
+      "from": 749.98,
+      "to": 752.24,
+      "sid": 268,
+      "location": 2,
+      "content": "减至的负的85.88%",
+      "music": 0.0
+    },
+    {
+      "from": 752.24,
+      "to": 756.27,
+      "sid": 269,
+      "location": 2,
+      "content": "这两个数据后面会再次出现好我们继续看",
+      "music": 0.0
+    },
+    {
+      "from": 756.27,
+      "to": 760.39,
+      "sid": 270,
+      "location": 2,
+      "content": "从减持规模和年涨幅的一个一个对比",
+      "music": 0.0
+    },
+    {
+      "from": 760.75,
+      "to": 762.07,
+      "sid": 271,
+      "location": 2,
+      "content": "同样我们对比的是",
+      "music": 0.0
+    },
+    {
+      "from": 762.07,
+      "to": 765.43,
+      "sid": 272,
+      "location": 2,
+      "content": "2025年末和当下2026年的持仓变化",
+      "music": 0.0
+    },
+    {
+      "from": 765.43,
+      "to": 767.85,
+      "sid": 273,
+      "location": 2,
+      "content": "那年涨幅是出现了一些不一样的情况",
+      "music": 0.0
+    },
+    {
+      "from": 767.85,
+      "to": 771.68,
+      "sid": 274,
+      "location": 2,
+      "content": "其中上证五零的年涨幅是进行了一个下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 771.68,
+      "to": 773.23,
+      "sid": 275,
+      "location": 2,
+      "content": "3.48%",
+      "music": 0.0
+    },
+    {
+      "from": 773.23,
+      "to": 774.55,
+      "sid": 276,
+      "location": 2,
+      "content": "而沪深300也好",
+      "music": 0.0
+    },
+    {
+      "from": 774.55,
+      "to": 775.55,
+      "sid": 277,
+      "location": 2,
+      "content": "中证500也好",
+      "music": 0.0
+    },
+    {
+      "from": 775.55,
+      "to": 776.55,
+      "sid": 278,
+      "location": 2,
+      "content": "中证1000也好",
+      "music": 0.0
+    },
+    {
+      "from": 776.55,
+      "to": 778.25,
+      "sid": 279,
+      "location": 2,
+      "content": "创业板ETFETF也好",
+      "music": 0.0
+    },
+    {
+      "from": 778.25,
+      "to": 779.51,
+      "sid": 280,
+      "location": 2,
+      "content": "科创501T也好",
+      "music": 0.0
+    },
+    {
+      "from": 779.51,
+      "to": 782.319,
+      "sid": 281,
+      "location": 2,
+      "content": "他们全部都是上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 782.639,
+      "to": 784.959,
+      "sid": 282,
+      "location": 2,
+      "content": "当然金融ETF例外",
+      "music": 0.0
+    },
+    {
+      "from": 784.959,
+      "to": 786.779,
+      "sid": 283,
+      "location": 2,
+      "content": "这个是给红利低波的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 786.779,
+      "to": 788.799,
+      "sid": 284,
+      "location": 2,
+      "content": "上证五零从数据角度上讲",
+      "music": 0.0
+    },
+    {
+      "from": 788.799,
+      "to": 790.179,
+      "sid": 285,
+      "location": 2,
+      "content": "他走的是比较坚决的",
+      "music": 0.0
+    },
+    {
+      "from": 790.179,
+      "to": 794.36,
+      "sid": 286,
+      "location": 2,
+      "content": "而沪深300反而是留了比较多的底子",
+      "music": 0.0
+    },
+    {
+      "from": 794.36,
+      "to": 796.98,
+      "sid": 287,
+      "location": 2,
+      "content": "那么最终我们基于就是前面两个图",
+      "music": 0.0
+    },
+    {
+      "from": 796.98,
+      "to": 798.7,
+      "sid": 288,
+      "location": 2,
+      "content": "可以得到一个第三张图",
+      "music": 0.0
+    },
+    {
+      "from": 798.7,
+      "to": 799.64,
+      "sid": 289,
+      "location": 2,
+      "content": "也就是这张图",
+      "music": 0.0
+    },
+    {
+      "from": 799.64,
+      "to": 804.62,
+      "sid": 290,
+      "location": 2,
+      "content": "通过前面两张图获得的一个ETF的改变",
+      "music": 0.0
+    },
+    {
+      "from": 804.62,
+      "to": 808.28,
+      "sid": 291,
+      "location": 2,
+      "content": "然后再根据汇金的历史持仓",
+      "music": 0.0
+    },
+    {
+      "from": 808.28,
+      "to": 811.98,
+      "sid": 292,
+      "location": 2,
+      "content": "我们就可以得到一个基本的事实推论",
+      "music": 0.0
+    },
+    {
+      "from": 811.98,
+      "to": 813.52,
+      "sid": 293,
+      "location": 2,
+      "content": "记住是事实",
+      "music": 0.0
+    },
+    {
+      "from": 813.52,
+      "to": 815.98,
+      "sid": 294,
+      "location": 2,
+      "content": "而并不是说什么预估好",
+      "music": 0.0
+    },
+    {
+      "from": 815.98,
+      "to": 818.54,
+      "sid": 295,
+      "location": 2,
+      "content": "我们简单说一下这里的历史持仓",
+      "music": 0.0
+    },
+    {
+      "from": 818.54,
+      "to": 822.44,
+      "sid": 296,
+      "location": 2,
+      "content": "是表明了汇金",
+      "music": 0.0
+    },
+    {
+      "from": 824.44,
+      "to": 828.52,
+      "sid": 297,
+      "location": 2,
+      "content": "12月31日",
+      "music": 0.0
+    },
+    {
+      "from": 829.78,
+      "to": 833.54,
+      "sid": 298,
+      "location": 2,
+      "content": "2025年12月31日公示信息中",
+      "music": 0.0
+    },
+    {
+      "from": 833.54,
+      "to": 838.15,
+      "sid": 299,
+      "location": 2,
+      "content": "汇金在这些ETF之中的持仓比例",
+      "music": 0.0
+    },
+    {
+      "from": 838.15,
+      "to": 839.75,
+      "sid": 300,
+      "location": 2,
+      "content": "这个持仓比例怎么来的呢",
+      "music": 0.0
+    },
+    {
+      "from": 839.75,
+      "to": 842.25,
+      "sid": 301,
+      "location": 2,
+      "content": "大家可以随便去打开一个ETF",
+      "music": 0.0
+    },
+    {
+      "from": 842.25,
+      "to": 844.05,
+      "sid": 302,
+      "location": 2,
+      "content": "然后看到他的十大股东之中",
+      "music": 0.0
+    },
+    {
+      "from": 844.05,
+      "to": 847.73,
+      "sid": 303,
+      "location": 2,
+      "content": "第一股东是中央汇金",
+      "music": 0.0
+    },
+    {
+      "from": 850.36,
+      "to": 854.6,
+      "sid": 304,
+      "location": 2,
+      "content": "有限公司第二股东是中央汇金资管",
+      "music": 0.0
+    },
+    {
+      "from": 858.66,
+      "to": 865.5,
+      "sid": 305,
+      "location": 2,
+      "content": "大家可以把第一股东和第二股东的份额加起来",
+      "music": 0.0
+    },
+    {
+      "from": 865.5,
+      "to": 867.349,
+      "sid": 306,
+      "location": 2,
+      "content": "就会得到这张数据",
+      "music": 0.0
+    },
+    {
+      "from": 867.75,
+      "to": 869.65,
+      "sid": 307,
+      "location": 2,
+      "content": "好我们继续看",
+      "music": 0.0
+    },
+    {
+      "from": 869.65,
+      "to": 873.05,
+      "sid": 308,
+      "location": 2,
+      "content": "那么上证五零我们刚刚说过",
+      "music": 0.0
+    },
+    {
+      "from": 873.05,
+      "to": 874.17,
+      "sid": 309,
+      "location": 2,
+      "content": "我们刚刚说过",
+      "music": 0.0
+    },
+    {
+      "from": 874.17,
+      "to": 877.67,
+      "sid": 310,
+      "location": 2,
+      "content": "它的减值幅度是86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 877.67,
+      "to": 880.43,
+      "sid": 311,
+      "location": 2,
+      "content": "也就意味着在2025年年末的时候",
+      "music": 0.0
+    },
+    {
+      "from": 880.43,
+      "to": 883.49,
+      "sid": 312,
+      "location": 2,
+      "content": "这个ETF里面有86.05%",
+      "music": 0.0
+    },
+    {
+      "from": 883.49,
+      "to": 884.91,
+      "sid": 313,
+      "location": 2,
+      "content": "是属于汪汪队的",
+      "music": 0.0
+    },
+    {
+      "from": 884.91,
+      "to": 886.15,
+      "sid": 314,
+      "location": 2,
+      "content": "是属于汇金的",
+      "music": 0.0
+    },
+    {
+      "from": 886.15,
+      "to": 891.069,
+      "sid": 315,
+      "location": 2,
+      "content": "那么也就是说意味着有3.95是属于散户的",
+      "music": 0.0
+    },
+    {
+      "from": 891.069,
+      "to": 893.929,
+      "sid": 316,
+      "location": 2,
+      "content": "那么我们怎么样得出他的当下的一个仓位呢",
+      "music": 0.0
+    },
+    {
+      "from": 893.929,
+      "to": 895.53,
+      "sid": 317,
+      "location": 2,
+      "content": "因为这里我们得到了什么",
+      "music": 0.0
+    },
+    {
+      "from": 895.53,
+      "to": 898.69,
+      "sid": 318,
+      "location": 2,
+      "content": "得到的是当下ETF份额对比",
+      "music": 0.0
+    },
+    {
+      "from": 898.69,
+      "to": 900.85,
+      "sid": 319,
+      "location": 2,
+      "content": "2025年末的减值幅度",
+      "music": 0.0
+    },
+    {
+      "from": 900.85,
+      "to": 904.17,
+      "sid": 320,
+      "location": 2,
+      "content": "也就是说当下其实只有14%",
+      "music": 0.0
+    },
+    {
+      "from": 905.0,
+      "to": 907.6,
+      "sid": 321,
+      "location": 2,
+      "content": "当下只有14%的持仓",
+      "music": 0.0
+    },
+    {
+      "from": 909.05,
+      "to": 912.23,
+      "sid": 322,
+      "location": 2,
+      "content": "这14%之中有多少是散户的",
+      "music": 0.0
+    },
+    {
+      "from": 912.23,
+      "to": 913.49,
+      "sid": 323,
+      "location": 2,
+      "content": "有多少是汇金的",
+      "music": 0.0
+    },
+    {
+      "from": 913.49,
+      "to": 916.0,
+      "sid": 324,
+      "location": 2,
+      "content": "其实是非常容易算出来的",
+      "music": 0.0
+    },
+    {
+      "from": 916.4,
+      "to": 920.81,
+      "sid": 325,
+      "location": 2,
+      "content": "假设你散户全都跑了",
+      "music": 0.0
+    },
+    {
+      "from": 920.97,
+      "to": 925.31,
+      "sid": 326,
+      "location": 2,
+      "content": "那么就意味着这14%是汇金",
+      "music": 0.0
+    },
+    {
+      "from": 925.31,
+      "to": 927.37,
+      "sid": 327,
+      "location": 2,
+      "content": "汇金的最大持仓",
+      "music": 0.0
+    },
+    {
+      "from": 927.93,
+      "to": 930.07,
+      "sid": 328,
+      "location": 2,
+      "content": "不可能比14%更多",
+      "music": 0.0
+    },
+    {
+      "from": 930.07,
+      "to": 934.96,
+      "sid": 329,
+      "location": 2,
+      "content": "那假设你散户一个人都没有跑",
+      "music": 0.0
+    },
+    {
+      "from": 934.96,
+      "to": 937.84,
+      "sid": 330,
+      "location": 2,
+      "content": "你这13.95%全部在这里面",
+      "music": 0.0
+    },
+    {
+      "from": 937.84,
+      "to": 939.84,
+      "sid": 331,
+      "location": 2,
+      "content": "而当下的比例是14%",
+      "music": 0.0
+    },
+    {
+      "from": 939.84,
+      "to": 940.68,
+      "sid": 332,
+      "location": 2,
+      "content": "那也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 940.68,
+      "to": 944.79,
+      "sid": 333,
+      "location": 2,
+      "content": "汇金的最小仓位可能是0.05%",
+      "music": 0.0
+    },
+    {
+      "from": 946.31,
+      "to": 947.87,
+      "sid": 334,
+      "location": 2,
+      "content": "所以最终我们得出了一个仓位",
+      "music": 0.0
+    },
+    {
+      "from": 947.87,
+      "to": 952.16,
+      "sid": 335,
+      "location": 2,
+      "content": "其实是0%至13.65%",
+      "music": 0.0
+    },
+    {
+      "from": 952.16,
+      "to": 955.34,
+      "sid": 336,
+      "location": 2,
+      "content": "那么最终我们会得出一个什么事实呢",
+      "music": 0.0
+    },
+    {
+      "from": 955.34,
+      "to": 956.28,
+      "sid": 337,
+      "location": 2,
+      "content": "你汪汪对",
+      "music": 0.0
+    },
+    {
+      "from": 956.28,
+      "to": 961.32,
+      "sid": 338,
+      "location": 2,
+      "content": "最大的持仓就可能是13.95%",
+      "music": 0.0
+    },
+    {
+      "from": 961.32,
+      "to": 963.4,
+      "sid": 339,
+      "location": 2,
+      "content": "或者13.64%",
+      "music": 0.0
+    },
+    {
+      "from": 963.4,
+      "to": 967.81,
+      "sid": 340,
+      "location": 2,
+      "content": "那么你的减仓幅度是不是又出现了",
+      "music": 0.0
+    },
+    {
+      "from": 967.81,
+      "to": 969.29,
+      "sid": 341,
+      "location": 2,
+      "content": "这个减仓幅度",
+      "music": 0.0
+    },
+    {
+      "from": 969.29,
+      "to": 971.27,
+      "sid": 342,
+      "location": 2,
+      "content": "从ETF份额上来说",
+      "music": 0.0
+    },
+    {
+      "from": 971.27,
+      "to": 974.39,
+      "sid": 343,
+      "location": 2,
+      "content": "你不可能有任何的超出这个的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 974.39,
+      "to": 977.079,
+      "sid": 344,
+      "location": 2,
+      "content": "也就这个数据它一定是正确的",
+      "music": 0.0
+    },
+    {
+      "from": 977.079,
+      "to": 979.059,
+      "sid": 345,
+      "location": 2,
+      "content": "这个逻辑不知道大家能否认同",
+      "music": 0.0
+    },
+    {
+      "from": 979.059,
+      "to": 980.879,
+      "sid": 346,
+      "location": 2,
+      "content": "这里应该大家能够理解理解了",
+      "music": 0.0
+    },
+    {
+      "from": 980.879,
+      "to": 982.379,
+      "sid": 347,
+      "location": 2,
+      "content": "就是这纯数据",
+      "music": 0.0
+    },
+    {
+      "from": 982.379,
+      "to": 983.719,
+      "sid": 348,
+      "location": 2,
+      "content": "纯数据上的加减法",
+      "music": 0.0
+    },
+    {
+      "from": 983.719,
+      "to": 985.399,
+      "sid": 349,
+      "location": 2,
+      "content": "应该小学六年级就能够听懂",
+      "music": 0.0
+    },
+    {
+      "from": 985.399,
+      "to": 986.74,
+      "sid": 350,
+      "location": 2,
+      "content": "那么基于这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 986.74,
+      "to": 990.3,
+      "sid": 351,
+      "location": 2,
+      "content": "我们就可以推导去推导出其他的一个减值幅度",
+      "music": 0.0
+    },
+    {
+      "from": 990.3,
+      "to": 992.26,
+      "sid": 352,
+      "location": 2,
+      "content": "这个这个应该还是很容易理解的啊",
+      "music": 0.0
+    },
+    {
+      "from": 992.26,
+      "to": 994.43,
+      "sid": 353,
+      "location": 2,
+      "content": "因为这不存在任何的主观",
+      "music": 0.0
+    },
+    {
+      "from": 994.43,
+      "to": 996.27,
+      "sid": 354,
+      "location": 2,
+      "content": "它只有客观的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 996.27,
+      "to": 997.79,
+      "sid": 355,
+      "location": 2,
+      "content": "基于同样的一个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 997.79,
+      "to": 1001.55,
+      "sid": 356,
+      "location": 2,
+      "content": "我们可以拿到沪深300ETF它的减值幅度",
+      "music": 0.0
+    },
+    {
+      "from": 1001.55,
+      "to": 1004.23,
+      "sid": 357,
+      "location": 2,
+      "content": "那么它的减值幅度的最小值",
+      "music": 0.0
+    },
+    {
+      "from": 1004.23,
+      "to": 1006.079,
+      "sid": 358,
+      "location": 2,
+      "content": "这里是一个其实是M",
+      "music": 0.0
+    },
+    {
+      "from": 1006.079,
+      "to": 1008.839,
+      "sid": 359,
+      "location": 2,
+      "content": "这里其实是一个最小值霍金的简称",
+      "music": 0.0
+    },
+    {
+      "from": 1008.839,
+      "to": 1011.639,
+      "sid": 360,
+      "location": 2,
+      "content": "幅度最小值在上证50ETF上是负的",
+      "music": 0.0
+    },
+    {
+      "from": 1011.639,
+      "to": 1013.9,
+      "sid": 361,
+      "location": 2,
+      "content": "72.41%",
+      "music": 0.0
+    },
+    {
+      "from": 1013.9,
+      "to": 1015.66,
+      "sid": 362,
+      "location": 2,
+      "content": "沪深300ETF减持幅度",
+      "music": 0.0
+    },
+    {
+      "from": 1015.66,
+      "to": 1017.54,
+      "sid": 363,
+      "location": 2,
+      "content": "最小值是55.5%",
+      "music": 0.0
+    },
+    {
+      "from": 1017.54,
+      "to": 1018.94,
+      "sid": 364,
+      "location": 2,
+      "content": "这是纯数据哈",
+      "music": 0.0
+    },
+    {
+      "from": 1018.94,
+      "to": 1022.17,
+      "sid": 365,
+      "location": 2,
+      "content": "我们可以从上交所和深交所的官网查到",
+      "music": 0.0
+    },
+    {
+      "from": 1022.57,
+      "to": 1026.29,
+      "sid": 366,
+      "location": 2,
+      "content": "那么中证500ETF的最小减震幅度是5%",
+      "music": 0.0
+    },
+    {
+      "from": 1026.29,
+      "to": 1027.569,
+      "sid": 367,
+      "location": 2,
+      "content": "11.89",
+      "music": 0.0
+    },
+    {
+      "from": 1027.569,
+      "to": 1032.17,
+      "sid": 368,
+      "location": 2,
+      "content": "创业板ETF的最小减值幅度是20.6%",
+      "music": 0.0
+    },
+    {
+      "from": 1032.53,
+      "to": 1035.43,
+      "sid": 369,
+      "location": 2,
+      "content": "金融ETF的最小减震幅度是负的",
+      "music": 0.0
+    },
+    {
+      "from": 1035.43,
+      "to": 1038.21,
+      "sid": 370,
+      "location": 2,
+      "content": "而是7.98",
+      "music": 0.0
+    },
+    {
+      "from": 1038.59,
+      "to": 1041.35,
+      "sid": 371,
+      "location": 2,
+      "content": "所以这里的追踪难度是比较比较难的",
+      "music": 0.0
+    },
+    {
+      "from": 1041.35,
+      "to": 1041.79,
+      "sid": 372,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 1041.79,
+      "to": 1042.91,
+      "sid": 373,
+      "location": 2,
+      "content": "因为他是小盘股",
+      "music": 0.0
+    },
+    {
+      "from": 1042.91,
+      "to": 1044.92,
+      "sid": 374,
+      "location": 2,
+      "content": "他的整个盘子大概只有30亿",
+      "music": 0.0
+    },
+    {
+      "from": 1044.92,
+      "to": 1045.76,
+      "sid": 375,
+      "location": 2,
+      "content": "30亿",
+      "music": 0.0
+    },
+    {
+      "from": 1045.76,
+      "to": 1047.56,
+      "sid": 376,
+      "location": 2,
+      "content": "追踪起来就特别特别困难",
+      "music": 0.0
+    },
+    {
+      "from": 1047.56,
+      "to": 1049.24,
+      "sid": 377,
+      "location": 2,
+      "content": "而这些其实都是上百亿",
+      "music": 0.0
+    },
+    {
+      "from": 1049.24,
+      "to": 1052.12,
+      "sid": 378,
+      "location": 2,
+      "content": "尤其是沪深300ETF和上证五零上千亿了",
+      "music": 0.0
+    },
+    {
+      "from": 1052.12,
+      "to": 1054.21,
+      "sid": 379,
+      "location": 2,
+      "content": "都资金量越大",
+      "music": 0.0
+    },
+    {
+      "from": 1054.21,
+      "to": 1056.65,
+      "sid": 380,
+      "location": 2,
+      "content": "反而追踪了越越容易啊",
+      "music": 0.0
+    },
+    {
+      "from": 1056.65,
+      "to": 1057.25,
+      "sid": 381,
+      "location": 2,
+      "content": "也有朋友问",
+      "music": 0.0
+    },
+    {
+      "from": 1057.25,
+      "to": 1059.07,
+      "sid": 382,
+      "location": 2,
+      "content": "为什么你这个区间这么大呀",
+      "music": 0.0
+    },
+    {
+      "from": 1059.07,
+      "to": 1060.83,
+      "sid": 383,
+      "location": 2,
+      "content": "高达20%多",
+      "music": 0.0
+    },
+    {
+      "from": 1060.83,
+      "to": 1062.29,
+      "sid": 384,
+      "location": 2,
+      "content": "报高了30%多",
+      "music": 0.0
+    },
+    {
+      "from": 1062.29,
+      "to": 1063.27,
+      "sid": 385,
+      "location": 2,
+      "content": "那没办法呀",
+      "music": 0.0
+    },
+    {
+      "from": 1063.27,
+      "to": 1067.63,
+      "sid": 386,
+      "location": 2,
+      "content": "而从ETO份额上能获得的信息只有这么多",
+      "music": 0.0
+    },
+    {
+      "from": 1068.429,
+      "to": 1071.309,
+      "sid": 387,
+      "location": 2,
+      "content": "那么这里我们要呃特别点出",
+      "music": 0.0
+    },
+    {
+      "from": 1071.309,
+      "to": 1074.669,
+      "sid": 388,
+      "location": 2,
+      "content": "我们本期视频要讲的两个核心数据",
+      "music": 0.0
+    },
+    {
+      "from": 1074.669,
+      "to": 1078.53,
+      "sid": 389,
+      "location": 2,
+      "content": "也是我个人想给大家隆重点出的两个信息",
+      "music": 0.0
+    },
+    {
+      "from": 1078.53,
+      "to": 1083.52,
+      "sid": 390,
+      "location": 2,
+      "content": "也就是上中央汇金第一股东ETF份额",
+      "music": 0.0
+    },
+    {
+      "from": 1083.52,
+      "to": 1087.079,
+      "sid": 391,
+      "location": 2,
+      "content": "5月底的减持比例和2025年末",
+      "music": 0.0
+    },
+    {
+      "from": 1087.079,
+      "to": 1089.839,
+      "sid": 392,
+      "location": 2,
+      "content": "中央霍金金公示的持仓占比中",
+      "music": 0.0
+    },
+    {
+      "from": 1089.839,
+      "to": 1091.939,
+      "sid": 393,
+      "location": 2,
+      "content": "有两个非常大的巧合",
+      "music": 0.0
+    },
+    {
+      "from": 1091.939,
+      "to": 1099.37,
+      "sid": 394,
+      "location": 2,
+      "content": "那就是上证50ETFETF在5月29日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 1099.37,
+      "to": 1102.39,
+      "sid": 395,
+      "location": 2,
+      "content": "对比2025年12月30日这一天",
+      "music": 0.0
+    },
+    {
+      "from": 1102.39,
+      "to": 1106.04,
+      "sid": 396,
+      "location": 2,
+      "content": "它的减持比例高达了86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 1106.04,
+      "to": 1110.0,
+      "sid": 397,
+      "location": 2,
+      "content": "这个大家可以去官网去查两天的ETF份额",
+      "music": 0.0
+    },
+    {
+      "from": 1110.0,
+      "to": 1111.62,
+      "sid": 398,
+      "location": 2,
+      "content": "去一除就可以得到了",
+      "music": 0.0
+    },
+    {
+      "from": 1111.62,
+      "to": 1113.78,
+      "sid": 399,
+      "location": 2,
+      "content": "这这个是绝对是客观的哈",
+      "music": 0.0
+    },
+    {
+      "from": 1113.78,
+      "to": 1115.96,
+      "sid": 400,
+      "location": 2,
+      "content": "啊我这里少写了一个数据来源",
+      "music": 0.0
+    },
+    {
+      "from": 1115.96,
+      "to": 1117.679,
+      "sid": 401,
+      "location": 2,
+      "content": "有点可惜哈",
+      "music": 0.0
+    },
+    {
+      "from": 1117.679,
+      "to": 1118.81,
+      "sid": 402,
+      "location": 2,
+      "content": "没关系",
+      "music": 0.0
+    },
+    {
+      "from": 1118.81,
+      "to": 1121.63,
+      "sid": 403,
+      "location": 2,
+      "content": "那么在上证50ETF之中",
+      "music": 0.0
+    },
+    {
+      "from": 1121.63,
+      "to": 1124.05,
+      "sid": 404,
+      "location": 2,
+      "content": "中央公中央汇不是中央汇金",
+      "music": 0.0
+    },
+    {
+      "from": 1124.05,
+      "to": 1127.31,
+      "sid": 405,
+      "location": 2,
+      "content": "他公示的这个持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1127.63,
+      "to": 1129.19,
+      "sid": 406,
+      "location": 2,
+      "content": "非常巧合的",
+      "music": 0.0
+    },
+    {
+      "from": 1129.19,
+      "to": 1133.25,
+      "sid": 407,
+      "location": 2,
+      "content": "也出现了一个86.05%",
+      "music": 0.0
+    },
+    {
+      "from": 1133.25,
+      "to": 1135.15,
+      "sid": 408,
+      "location": 2,
+      "content": "那么我们会发现",
+      "music": 0.0
+    },
+    {
+      "from": 1135.15,
+      "to": 1138.17,
+      "sid": 409,
+      "location": 2,
+      "content": "上证50ETF在今天",
+      "music": 0.0
+    },
+    {
+      "from": 1138.17,
+      "to": 1141.87,
+      "sid": 410,
+      "location": 2,
+      "content": "它的减持比例和中央汇金",
+      "music": 0.0
+    },
+    {
+      "from": 1141.87,
+      "to": 1145.23,
+      "sid": 411,
+      "location": 2,
+      "content": "12月30日公示的持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1145.23,
+      "to": 1147.71,
+      "sid": 412,
+      "location": 2,
+      "content": "出现了一个高度的近似",
+      "music": 0.0
+    },
+    {
+      "from": 1147.91,
+      "to": 1149.79,
+      "sid": 413,
+      "location": 2,
+      "content": "我不知道这意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 1149.79,
+      "to": 1151.03,
+      "sid": 414,
+      "location": 2,
+      "content": "大家知道的话",
+      "music": 0.0
+    },
+    {
+      "from": 1151.03,
+      "to": 1152.31,
+      "sid": 415,
+      "location": 2,
+      "content": "可以打在弹幕上",
+      "music": 0.0
+    },
+    {
+      "from": 1152.31,
+      "to": 1155.45,
+      "sid": 416,
+      "location": 2,
+      "content": "我只是把数据提出来给大家看",
+      "music": 0.0
+    },
+    {
+      "from": 1156.13,
+      "to": 1160.09,
+      "sid": 417,
+      "location": 2,
+      "content": "同样的在中证1100TF这里",
+      "music": 0.0
+    },
+    {
+      "from": 1160.97,
+      "to": 1165.17,
+      "sid": 418,
+      "location": 2,
+      "content": "5月29日截止ETF的减值比例对比",
+      "music": 0.0
+    },
+    {
+      "from": 1165.17,
+      "to": 1170.55,
+      "sid": 419,
+      "location": 2,
+      "content": "2025年末是负的85.88",
+      "music": 0.0
+    },
+    {
+      "from": 1170.55,
+      "to": 1173.75,
+      "sid": 420,
+      "location": 2,
+      "content": "而汇金公式在2025年末的持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1173.75,
+      "to": 1176.61,
+      "sid": 421,
+      "location": 2,
+      "content": "是86.15",
+      "music": 0.0
+    },
+    {
+      "from": 1176.61,
+      "to": 1178.57,
+      "sid": 422,
+      "location": 2,
+      "content": "他们代表了什么",
+      "music": 0.0
+    },
+    {
+      "from": 1178.57,
+      "to": 1180.49,
+      "sid": 423,
+      "location": 2,
+      "content": "代表了什么",
+      "music": 0.0
+    },
+    {
+      "from": 1180.959,
+      "to": 1183.959,
+      "sid": 424,
+      "location": 2,
+      "content": "这里不能说只能表明给大家这两个数据",
+      "music": 0.0
+    },
+    {
+      "from": 1183.959,
+      "to": 1185.429,
+      "sid": 425,
+      "location": 2,
+      "content": "大家要记好",
+      "music": 0.0
+    },
+    {
+      "from": 1185.749,
+      "to": 1188.59,
+      "sid": 426,
+      "location": 2,
+      "content": "存在的一种可能是吧",
+      "music": 0.0
+    },
+    {
+      "from": 1188.59,
+      "to": 1190.93,
+      "sid": 427,
+      "location": 2,
+      "content": "那个啥完全那个啥",
+      "music": 0.0
+    },
+    {
+      "from": 1191.97,
+      "to": 1194.47,
+      "sid": 428,
+      "location": 2,
+      "content": "这个啥完全那个啥有这种可能",
+      "music": 0.0
+    },
+    {
+      "from": 1194.47,
+      "to": 1198.56,
+      "sid": 429,
+      "location": 2,
+      "content": "所以这里的这个区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 1198.56,
+      "to": 1201.36,
+      "sid": 430,
+      "location": 2,
+      "content": "还是希望大家能够重视一点",
+      "music": 0.0
+    },
+    {
+      "from": 1201.36,
+      "to": 1203.38,
+      "sid": 431,
+      "location": 2,
+      "content": "你对数据的理解程度",
+      "music": 0.0
+    },
+    {
+      "from": 1203.38,
+      "to": 1205.28,
+      "sid": 432,
+      "location": 2,
+      "content": "你认为啊它是多少",
+      "music": 0.0
+    },
+    {
+      "from": 1205.28,
+      "to": 1209.23,
+      "sid": 433,
+      "location": 2,
+      "content": "它就是多少数据就是数据好",
+      "music": 0.0
+    },
+    {
+      "from": 1209.23,
+      "to": 1213.81,
+      "sid": 434,
+      "location": 2,
+      "content": "我们想给大家说的一个点就是汇金ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 1213.81,
+      "to": 1215.09,
+      "sid": 435,
+      "location": 2,
+      "content": "不能说汇金ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 1215.09,
+      "to": 1222.05,
+      "sid": 436,
+      "location": 2,
+      "content": "应该说所有的ETF他公示十大股东的披露时间点",
+      "music": 0.0
+    },
+    {
+      "from": 1223.26,
+      "to": 1225.76,
+      "sid": 437,
+      "location": 2,
+      "content": "他公示十大股东的披露时间点",
+      "music": 0.0
+    },
+    {
+      "from": 1225.76,
+      "to": 1227.66,
+      "sid": 438,
+      "location": 2,
+      "content": "是有明确的规定的",
+      "music": 0.0
+    },
+    {
+      "from": 1227.66,
+      "to": 1233.06,
+      "sid": 439,
+      "location": 2,
+      "content": "第一个规定就是3月31日上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 1233.06,
+      "to": 1234.58,
+      "sid": 440,
+      "location": 2,
+      "content": "应该说公募基金啊",
+      "music": 0.0
+    },
+    {
+      "from": 1234.58,
+      "to": 1238.24,
+      "sid": 441,
+      "location": 2,
+      "content": "公募基金需要在每个会计年度结束的次年",
+      "music": 0.0
+    },
+    {
+      "from": 1238.24,
+      "to": 1241.199,
+      "sid": 442,
+      "location": 2,
+      "content": "3月30日之前完成上一季度的年报",
+      "music": 0.0
+    },
+    {
+      "from": 1241.199,
+      "to": 1243.859,
+      "sid": 443,
+      "location": 2,
+      "content": "那么对于ETF来说也是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 1243.859,
+      "to": 1247.879,
+      "sid": 444,
+      "location": 2,
+      "content": "上半年ETF它给予了三个月的缓冲期",
+      "music": 0.0
+    },
+    {
+      "from": 1248.139,
+      "to": 1250.08,
+      "sid": 445,
+      "location": 2,
+      "content": "嗯上个月",
+      "music": 0.0
+    },
+    {
+      "from": 1250.08,
+      "to": 1254.74,
+      "sid": 446,
+      "location": 2,
+      "content": "所以ETF公示十大股东持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1254.74,
+      "to": 1258.32,
+      "sid": 447,
+      "location": 2,
+      "content": "强制披露的时间有三个月的延迟",
+      "music": 0.0
+    },
+    {
+      "from": 1258.32,
+      "to": 1262.94,
+      "sid": 448,
+      "location": 2,
+      "content": "也就是说我们在3月31日得到了汇金",
+      "music": 0.0
+    },
+    {
+      "from": 1262.94,
+      "to": 1267.79,
+      "sid": 449,
+      "location": 2,
+      "content": "2025年12月末的持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1267.79,
+      "to": 1269.31,
+      "sid": 450,
+      "location": 2,
+      "content": "是86%",
+      "music": 0.0
+    },
+    {
+      "from": 1269.31,
+      "to": 1273.01,
+      "sid": 451,
+      "location": 2,
+      "content": "那么第二次披露的时间点",
+      "music": 0.0
+    },
+    {
+      "from": 1273.01,
+      "to": 1276.01,
+      "sid": 452,
+      "location": 2,
+      "content": "是下半年的8月31日",
+      "music": 0.0
+    },
+    {
+      "from": 1276.01,
+      "to": 1277.17,
+      "sid": 453,
+      "location": 2,
+      "content": "半年报",
+      "music": 0.0
+    },
+    {
+      "from": 1277.17,
+      "to": 1281.51,
+      "sid": 454,
+      "location": 2,
+      "content": "需要在上半年结束后的两个月之内完成披露",
+      "music": 0.0
+    },
+    {
+      "from": 1281.51,
+      "to": 1285.639,
+      "sid": 455,
+      "location": 2,
+      "content": "也就是说我们在8月30日这一天可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1285.639,
+      "to": 1288.499,
+      "sid": 456,
+      "location": 2,
+      "content": "ETF中十大股东如果出现了汇金的生意",
+      "music": 0.0
+    },
+    {
+      "from": 1288.499,
+      "to": 1289.579,
+      "sid": 457,
+      "location": 2,
+      "content": "那么就表明",
+      "music": 0.0
+    },
+    {
+      "from": 1289.579,
+      "to": 1294.29,
+      "sid": 458,
+      "location": 2,
+      "content": "汇金在6月31日那一天的持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 1294.29,
+      "to": 1297.93,
+      "sid": 459,
+      "location": 2,
+      "content": "中间有两个月的时间差",
+      "music": 0.0
+    },
+    {
+      "from": 1298.75,
+      "to": 1301.31,
+      "sid": 460,
+      "location": 2,
+      "content": "而ETF和个股不同",
+      "music": 0.0
+    },
+    {
+      "from": 1301.31,
+      "to": 1303.13,
+      "sid": 461,
+      "location": 2,
+      "content": "ETF和个股不同",
+      "music": 0.0
+    },
+    {
+      "from": 1303.13,
+      "to": 1305.67,
+      "sid": 462,
+      "location": 2,
+      "content": "个股他一年可能要出啊",
+      "music": 0.0
+    },
+    {
+      "from": 1305.67,
+      "to": 1309.96,
+      "sid": 463,
+      "location": 2,
+      "content": "三个季报已经次年的次年的3月底",
+      "music": 0.0
+    },
+    {
+      "from": 1309.96,
+      "to": 1312.83,
+      "sid": 464,
+      "location": 2,
+      "content": "要同时出现年报和第一季度的季报",
+      "music": 0.0
+    },
+    {
+      "from": 1312.83,
+      "to": 1315.99,
+      "sid": 465,
+      "location": 2,
+      "content": "但是ETF的披露只有两个",
+      "music": 0.0
+    },
+    {
+      "from": 1315.99,
+      "to": 1317.31,
+      "sid": 466,
+      "location": 2,
+      "content": "一个是年报",
+      "music": 0.0
+    },
+    {
+      "from": 1317.31,
+      "to": 1319.0,
+      "sid": 467,
+      "location": 2,
+      "content": "一个是半年报",
+      "music": 0.0
+    },
+    {
+      "from": 1319.0,
+      "to": 1321.26,
+      "sid": 468,
+      "location": 2,
+      "content": "从追踪的难度上来说",
+      "music": 0.0
+    },
+    {
+      "from": 1321.26,
+      "to": 1326.21,
+      "sid": 469,
+      "location": 2,
+      "content": "其实ETF的追踪难度啊是比个股要更困难的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1326.21,
+      "to": 1327.45,
+      "sid": 470,
+      "location": 2,
+      "content": "这个信息大家记住",
+      "music": 0.0
+    },
+    {
+      "from": 1327.45,
+      "to": 1329.51,
+      "sid": 471,
+      "location": 2,
+      "content": "后面我们又会讲到另外一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1329.51,
+      "to": 1332.38,
+      "sid": 472,
+      "location": 2,
+      "content": "所以我们现在是在5月底",
+      "music": 0.0
+    },
+    {
+      "from": 1332.66,
+      "to": 1336.13,
+      "sid": 473,
+      "location": 2,
+      "content": "5月底其实是一个信息比较多的真空期",
+      "music": 0.0
+    },
+    {
+      "from": 1336.41,
+      "to": 1337.85,
+      "sid": 474,
+      "location": 2,
+      "content": "是比较多的真空期",
+      "music": 0.0
+    },
+    {
+      "from": 1337.85,
+      "to": 1340.05,
+      "sid": 475,
+      "location": 2,
+      "content": "我们当下是处于一个年报披露期",
+      "music": 0.0
+    },
+    {
+      "from": 1340.05,
+      "to": 1343.62,
+      "sid": 476,
+      "location": 2,
+      "content": "3月底和半年报披露期8月底的中间阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1343.62,
+      "to": 1346.94,
+      "sid": 477,
+      "location": 2,
+      "content": "那么我们还需要等待三个月的阶段才能看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 1346.94,
+      "to": 1351.63,
+      "sid": 478,
+      "location": 2,
+      "content": "汇金在6月31日这一天的真实的公示数据",
+      "music": 0.0
+    },
+    {
+      "from": 1351.63,
+      "to": 1354.03,
+      "sid": 479,
+      "location": 2,
+      "content": "但是好的是好的情况是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1354.03,
+      "to": 1356.03,
+      "sid": 480,
+      "location": 2,
+      "content": "其实从刚刚大家也看出来了",
+      "music": 0.0
+    },
+    {
+      "from": 1356.03,
+      "to": 1359.889,
+      "sid": 481,
+      "location": 2,
+      "content": "我们是可以根据ETF的份额去强制推断",
+      "music": 0.0
+    },
+    {
+      "from": 1359.889,
+      "to": 1361.629,
+      "sid": 482,
+      "location": 2,
+      "content": "你当下的减值幅度的",
+      "music": 0.0
+    },
+    {
+      "from": 1361.629,
+      "to": 1363.629,
+      "sid": 483,
+      "location": 2,
+      "content": "这个数据不可能有任何问题",
+      "music": 0.0
+    },
+    {
+      "from": 1363.629,
+      "to": 1366.369,
+      "sid": 484,
+      "location": 2,
+      "content": "因为这个数据来源是深交所",
+      "music": 0.0
+    },
+    {
+      "from": 1367.4,
+      "to": 1368.92,
+      "sid": 485,
+      "location": 2,
+      "content": "上交所",
+      "music": 0.0
+    },
+    {
+      "from": 1374.84,
+      "to": 1379.719,
+      "sid": 486,
+      "location": 2,
+      "content": "我们可以通过ETF的强制逻辑强制简单",
+      "music": 0.0
+    },
+    {
+      "from": 1379.719,
+      "to": 1382.799,
+      "sid": 487,
+      "location": 2,
+      "content": "应该来说准确是根据相关规定",
+      "music": 0.0
+    },
+    {
+      "from": 1382.799,
+      "to": 1386.699,
+      "sid": 488,
+      "location": 2,
+      "content": "ETF他必须每天进行一个公式",
+      "music": 0.0
+    },
+    {
+      "from": 1386.699,
+      "to": 1388.92,
+      "sid": 489,
+      "location": 2,
+      "content": "那么公示的信息",
+      "music": 0.0
+    },
+    {
+      "from": 1388.92,
+      "to": 1393.02,
+      "sid": 490,
+      "location": 2,
+      "content": "就有一定的惩罚机制和官方背书",
+      "music": 0.0
+    },
+    {
+      "from": 1393.02,
+      "to": 1394.54,
+      "sid": 491,
+      "location": 2,
+      "content": "所以是不会出错的",
+      "music": 0.0
+    },
+    {
+      "from": 1394.54,
+      "to": 1396.63,
+      "sid": 492,
+      "location": 2,
+      "content": "那么我们根据啊",
+      "music": 0.0
+    },
+    {
+      "from": 1396.63,
+      "to": 1401.66,
+      "sid": 493,
+      "location": 2,
+      "content": "以往的他的持仓占比和ETF公式的信息",
+      "music": 0.0
+    },
+    {
+      "from": 1401.66,
+      "to": 1402.7,
+      "sid": 494,
+      "location": 2,
+      "content": "拉出一个表",
+      "music": 0.0
+    },
+    {
+      "from": 1402.7,
+      "to": 1406.56,
+      "sid": 495,
+      "location": 2,
+      "content": "看关键节点的时间差和持仓变化",
+      "music": 0.0
+    },
+    {
+      "from": 1406.56,
+      "to": 1409.11,
+      "sid": 496,
+      "location": 2,
+      "content": "就可以推断出他的减值幅度",
+      "music": 0.0
+    },
+    {
+      "from": 1409.75,
+      "to": 1411.23,
+      "sid": 497,
+      "location": 2,
+      "content": "那么",
+      "music": 0.0
+    },
+    {
+      "from": 1412.63,
+      "to": 1415.55,
+      "sid": 498,
+      "location": 2,
+      "content": "我们最终在这个真空期之内",
+      "music": 0.0
+    },
+    {
+      "from": 1415.55,
+      "to": 1419.89,
+      "sid": 499,
+      "location": 2,
+      "content": "想要去得到一点关于啊汇金怎么走",
+      "music": 0.0
+    },
+    {
+      "from": 1419.89,
+      "to": 1421.05,
+      "sid": 500,
+      "location": 2,
+      "content": "汪汪队怎么走",
+      "music": 0.0
+    },
+    {
+      "from": 1421.05,
+      "to": 1423.69,
+      "sid": 501,
+      "location": 2,
+      "content": "其实最终还是会回到ETF份额上",
+      "music": 0.0
+    },
+    {
+      "from": 1423.69,
+      "to": 1426.41,
+      "sid": 502,
+      "location": 2,
+      "content": "所以我们在ETF投资上",
+      "music": 0.0
+    },
+    {
+      "from": 1426.41,
+      "to": 1429.89,
+      "sid": 503,
+      "location": 2,
+      "content": "其实最终去追踪的逻辑还是ETF份额",
+      "music": 0.0
+    },
+    {
+      "from": 1429.89,
+      "to": 1434.669,
+      "sid": 504,
+      "location": 2,
+      "content": "还是基于深交所和上交所用ETF公司的信息",
+      "music": 0.0
+    },
+    {
+      "from": 1434.669,
+      "to": 1436.649,
+      "sid": 505,
+      "location": 2,
+      "content": "对于我们增加投资的信心",
+      "music": 0.0
+    },
+    {
+      "from": 1436.649,
+      "to": 1438.509,
+      "sid": 506,
+      "location": 2,
+      "content": "看好整个股市",
+      "music": 0.0
+    },
+    {
+      "from": 1439.38,
+      "to": 1443.02,
+      "sid": 507,
+      "location": 2,
+      "content": "好我们第一部分逻辑就讲完了",
+      "music": 0.0
+    },
+    {
+      "from": 1443.02,
+      "to": 1444.42,
+      "sid": 508,
+      "location": 2,
+      "content": "好我们进入第二部分",
+      "music": 0.0
+    },
+    {
+      "from": 1444.42,
+      "to": 1448.06,
+      "sid": 509,
+      "location": 2,
+      "content": "就在我们5月29日的收盘之后",
+      "music": 0.0
+    },
+    {
+      "from": 1448.06,
+      "to": 1451.44,
+      "sid": 510,
+      "location": 2,
+      "content": "上证五零和科创五零最先发布了调仓公告",
+      "music": 0.0
+    },
+    {
+      "from": 1451.44,
+      "to": 1453.26,
+      "sid": 511,
+      "location": 2,
+      "content": "然而紧跟着啊",
+      "music": 0.0
+    },
+    {
+      "from": 1453.26,
+      "to": 1456.16,
+      "sid": 512,
+      "location": 2,
+      "content": "深沪深300指数也发布了公告",
+      "music": 0.0
+    },
+    {
+      "from": 1456.16,
+      "to": 1460.219,
+      "sid": 513,
+      "location": 2,
+      "content": "深圳城主深圳成指也发布发布了全新公告",
+      "music": 0.0
+    },
+    {
+      "from": 1460.499,
+      "to": 1464.839,
+      "sid": 514,
+      "location": 2,
+      "content": "在这里我们想要核心表达的是上证五零",
+      "music": 0.0
+    },
+    {
+      "from": 1464.839,
+      "to": 1465.619,
+      "sid": 515,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 1465.619,
+      "to": 1467.9,
+      "sid": 516,
+      "location": 2,
+      "content": "因为上证五零清仓是最多的",
+      "music": 0.0
+    },
+    {
+      "from": 1467.9,
+      "to": 1471.65,
+      "sid": 517,
+      "location": 2,
+      "content": "深证五零将会纳入新的五只成分股",
+      "music": 0.0
+    },
+    {
+      "from": 1472.17,
+      "to": 1475.13,
+      "sid": 518,
+      "location": 2,
+      "content": "以及退出部分的成分股",
+      "music": 0.0
+    },
+    {
+      "from": 1475.13,
+      "to": 1476.35,
+      "sid": 519,
+      "location": 2,
+      "content": "我想说的是",
+      "music": 0.0
+    },
+    {
+      "from": 1476.35,
+      "to": 1478.71,
+      "sid": 520,
+      "location": 2,
+      "content": "三支ETF29日公示",
+      "music": 0.0
+    },
+    {
+      "from": 1478.71,
+      "to": 1481.25,
+      "sid": 521,
+      "location": 2,
+      "content": "6月12日收市之后会完成调仓",
+      "music": 0.0
+    },
+    {
+      "from": 1481.25,
+      "to": 1484.7,
+      "sid": 522,
+      "location": 2,
+      "content": "我给大家解释一下这个执行时间是什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 1484.7,
+      "to": 1487.42,
+      "sid": 523,
+      "location": 2,
+      "content": "就不管发生了什么",
+      "music": 0.0
+    },
+    {
+      "from": 1487.42,
+      "to": 1490.04,
+      "sid": 524,
+      "location": 2,
+      "content": "在6月26月19日",
+      "music": 0.0
+    },
+    {
+      "from": 1490.04,
+      "to": 1494.48,
+      "sid": 525,
+      "location": 2,
+      "content": "6月12日这一天结束之后",
+      "music": 0.0
+    },
+    {
+      "from": 1495.27,
+      "to": 1498.99,
+      "sid": 526,
+      "location": 2,
+      "content": "他一定会完成成分股的调仓换股",
+      "music": 0.0
+    },
+    {
+      "from": 1498.99,
+      "to": 1500.69,
+      "sid": 527,
+      "location": 2,
+      "content": "不管发生什么事",
+      "music": 0.0
+    },
+    {
+      "from": 1500.69,
+      "to": 1502.55,
+      "sid": 528,
+      "location": 2,
+      "content": "他一定会完成调仓换股",
+      "music": 0.0
+    },
+    {
+      "from": 1502.55,
+      "to": 1503.69,
+      "sid": 529,
+      "location": 2,
+      "content": "那也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1503.69,
+      "to": 1506.42,
+      "sid": 530,
+      "location": 2,
+      "content": "从现在到6月21010二日之间",
+      "music": 0.0
+    },
+    {
+      "from": 1506.42,
+      "to": 1508.6,
+      "sid": 531,
+      "location": 2,
+      "content": "市场的波动会非常剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 1508.6,
+      "to": 1509.42,
+      "sid": 532,
+      "location": 2,
+      "content": "会非常剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 1509.42,
+      "to": 1510.81,
+      "sid": 533,
+      "location": 2,
+      "content": "只能说这么多好",
+      "music": 0.0
+    },
+    {
+      "from": 1510.81,
+      "to": 1512.27,
+      "sid": 534,
+      "location": 2,
+      "content": "那么从这个逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1512.27,
+      "to": 1514.59,
+      "sid": 535,
+      "location": 2,
+      "content": "我们刚刚看到了上证五零半年之间",
+      "music": 0.0
+    },
+    {
+      "from": 1514.59,
+      "to": 1516.75,
+      "sid": 536,
+      "location": 2,
+      "content": "它减值的是高达86.22%",
+      "music": 0.0
+    },
+    {
+      "from": 1516.75,
+      "to": 1519.42,
+      "sid": 537,
+      "location": 2,
+      "content": "在今天它成本股又调整了",
+      "music": 0.0
+    },
+    {
+      "from": 1519.42,
+      "to": 1521.14,
+      "sid": 538,
+      "location": 2,
+      "content": "我们遵循一个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1521.14,
+      "to": 1523.14,
+      "sid": 539,
+      "location": 2,
+      "content": "就是论迹不论心",
+      "music": 0.0
+    },
+    {
+      "from": 1523.14,
+      "to": 1525.55,
+      "sid": 540,
+      "location": 2,
+      "content": "不用管你说了什么",
+      "music": 0.0
+    },
+    {
+      "from": 1525.75,
+      "to": 1527.23,
+      "sid": 541,
+      "location": 2,
+      "content": "我们只看你做了什么",
+      "music": 0.0
+    },
+    {
+      "from": 1527.23,
+      "to": 1530.07,
+      "sid": 542,
+      "location": 2,
+      "content": "市场前提提示是6月12日",
+      "music": 0.0
+    },
+    {
+      "from": 1530.07,
+      "to": 1532.0,
+      "sid": 543,
+      "location": 2,
+      "content": "上证五零成本股调股调整",
+      "music": 0.0
+    },
+    {
+      "from": 1532.0,
+      "to": 1533.8,
+      "sid": 544,
+      "location": 2,
+      "content": "但是在ETO份额上",
+      "music": 0.0
+    },
+    {
+      "from": 1533.8,
+      "to": 1535.36,
+      "sid": 545,
+      "location": 2,
+      "content": "我们去判断了一个主观的行为",
+      "music": 0.0
+    },
+    {
+      "from": 1535.36,
+      "to": 1538.2,
+      "sid": 546,
+      "location": 2,
+      "content": "也就是调仓前的减持",
+      "music": 0.0
+    },
+    {
+      "from": 1538.91,
+      "to": 1541.25,
+      "sid": 547,
+      "location": 2,
+      "content": "那么这里我们不用去思考",
+      "music": 0.0
+    },
+    {
+      "from": 1541.25,
+      "to": 1544.42,
+      "sid": 548,
+      "location": 2,
+      "content": "为什么我们只需要看清楚一个事实",
+      "music": 0.0
+    },
+    {
+      "from": 1544.42,
+      "to": 1545.76,
+      "sid": 549,
+      "location": 2,
+      "content": "就是客观结果",
+      "music": 0.0
+    },
+    {
+      "from": 1545.76,
+      "to": 1547.56,
+      "sid": 550,
+      "location": 2,
+      "content": "客观结果是什么",
+      "music": 0.0
+    },
+    {
+      "from": 1547.56,
+      "to": 1552.7,
+      "sid": 551,
+      "location": 2,
+      "content": "客观结果就是在指数调仓之前",
+      "music": 0.0
+    },
+    {
+      "from": 1553.4,
+      "to": 1554.8,
+      "sid": 552,
+      "location": 2,
+      "content": "某某人某年的坚持",
+      "music": 0.0
+    },
+    {
+      "from": 1555.8,
+      "to": 1556.92,
+      "sid": 553,
+      "location": 2,
+      "content": "那这是在干什么",
+      "music": 0.0
+    },
+    {
+      "from": 1556.92,
+      "to": 1558.92,
+      "sid": 554,
+      "location": 2,
+      "content": "这是客观的事实",
+      "music": 0.0
+    },
+    {
+      "from": 1559.36,
+      "to": 1564.79,
+      "sid": 555,
+      "location": 2,
+      "content": "那么是否意味着如果没有减持会发生什么",
+      "music": 0.0
+    },
+    {
+      "from": 1564.79,
+      "to": 1566.01,
+      "sid": 556,
+      "location": 2,
+      "content": "大家想一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1566.01,
+      "to": 1570.21,
+      "sid": 557,
+      "location": 2,
+      "content": "如果没有减持会发生一个什么事情",
+      "music": 0.0
+    },
+    {
+      "from": 1570.53,
+      "to": 1571.41,
+      "sid": 558,
+      "location": 2,
+      "content": "一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 1573.45,
+      "to": 1578.55,
+      "sid": 559,
+      "location": 2,
+      "content": "ETF是等于成分股的",
+      "music": 0.0
+    },
+    {
+      "from": 1582.94,
+      "to": 1585.32,
+      "sid": 560,
+      "location": 2,
+      "content": "如果没有减持",
+      "music": 0.0
+    },
+    {
+      "from": 1585.32,
+      "to": 1589.56,
+      "sid": 561,
+      "location": 2,
+      "content": "那么是否意味着在新增了五个股票",
+      "music": 0.0
+    },
+    {
+      "from": 1589.56,
+      "to": 1591.72,
+      "sid": 562,
+      "location": 2,
+      "content": "而少了五个股票",
+      "music": 0.0
+    },
+    {
+      "from": 1591.72,
+      "to": 1592.72,
+      "sid": 563,
+      "location": 2,
+      "content": "大家再想一想",
+      "music": 0.0
+    },
+    {
+      "from": 1592.72,
+      "to": 1594.04,
+      "sid": 564,
+      "location": 2,
+      "content": "你ETF的规则",
+      "music": 0.0
+    },
+    {
+      "from": 1594.04,
+      "to": 1595.62,
+      "sid": 565,
+      "location": 2,
+      "content": "一级市场是ETF",
+      "music": 0.0
+    },
+    {
+      "from": 1595.62,
+      "to": 1596.4,
+      "sid": 566,
+      "location": 2,
+      "content": "可以赎回",
+      "music": 0.0
+    },
+    {
+      "from": 1596.4,
+      "to": 1597.84,
+      "sid": 567,
+      "location": 2,
+      "content": "等于转换成成分股",
+      "music": 0.0
+    },
+    {
+      "from": 1597.84,
+      "to": 1601.2,
+      "sid": 568,
+      "location": 2,
+      "content": "ETF买入等于成分股转换成ETF",
+      "music": 0.0
+    },
+    {
+      "from": 1601.2,
+      "to": 1603.72,
+      "sid": 569,
+      "location": 2,
+      "content": "它并不是直接直接卖成现金的",
+      "music": 0.0
+    },
+    {
+      "from": 1603.72,
+      "to": 1607.96,
+      "sid": 570,
+      "location": 2,
+      "content": "所以它的减持从客观逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1607.96,
+      "to": 1611.44,
+      "sid": 571,
+      "location": 2,
+      "content": "他是完成了整个被动接盘的一个解除",
+      "music": 0.0
+    },
+    {
+      "from": 1611.44,
+      "to": 1613.32,
+      "sid": 572,
+      "location": 2,
+      "content": "因为你调仓换股这些股票",
+      "music": 0.0
+    },
+    {
+      "from": 1613.32,
+      "to": 1616.94,
+      "sid": 573,
+      "location": 2,
+      "content": "那我在你调仓换股之后再进行赎回的话",
+      "music": 0.0
+    },
+    {
+      "from": 1616.94,
+      "to": 1619.6,
+      "sid": 574,
+      "location": 2,
+      "content": "那么我赎回的股票的成分中",
+      "music": 0.0
+    },
+    {
+      "from": 1619.6,
+      "to": 1622.16,
+      "sid": 575,
+      "location": 2,
+      "content": "就有五只股票是我不想看到的",
+      "music": 0.0
+    },
+    {
+      "from": 1622.16,
+      "to": 1624.32,
+      "sid": 576,
+      "location": 2,
+      "content": "或者说我要规避的",
+      "music": 0.0
+    },
+    {
+      "from": 1624.6,
+      "to": 1627.96,
+      "sid": 577,
+      "location": 2,
+      "content": "所以这里才是我个人认为",
+      "music": 0.0
+    },
+    {
+      "from": 1627.96,
+      "to": 1632.75,
+      "sid": 578,
+      "location": 2,
+      "content": "也是大部分资金认为啊减持的一个根本原因",
+      "music": 0.0
+    },
+    {
+      "from": 1632.75,
+      "to": 1637.54,
+      "sid": 579,
+      "location": 2,
+      "content": "其实是避免了一些从客观结果上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1637.54,
+      "to": 1639.98,
+      "sid": 580,
+      "location": 2,
+      "content": "他被动的买入了一些股",
+      "music": 0.0
+    },
+    {
+      "from": 1639.98,
+      "to": 1642.159,
+      "sid": 581,
+      "location": 2,
+      "content": "他可以提前走",
+      "music": 0.0
+    },
+    {
+      "from": 1642.159,
+      "to": 1645.919,
+      "sid": 582,
+      "location": 2,
+      "content": "如果说未来这个ETF它的涨势比较好",
+      "music": 0.0
+    },
+    {
+      "from": 1645.919,
+      "to": 1646.979,
+      "sid": 583,
+      "location": 2,
+      "content": "他也可以接回来",
+      "music": 0.0
+    },
+    {
+      "from": 1646.979,
+      "to": 1649.28,
+      "sid": 584,
+      "location": 2,
+      "content": "这个时候就不会被动了",
+      "music": 0.0
+    },
+    {
+      "from": 1649.28,
+      "to": 1650.12,
+      "sid": 585,
+      "location": 2,
+      "content": "大家一定要记住",
+      "music": 0.0
+    },
+    {
+      "from": 1650.12,
+      "to": 1652.74,
+      "sid": 586,
+      "location": 2,
+      "content": "这里面最重要的义务并不是这两个字哈",
+      "music": 0.0
+    },
+    {
+      "from": 1652.74,
+      "to": 1656.68,
+      "sid": 587,
+      "location": 2,
+      "content": "而是这两个字对于大资金来说",
+      "music": 0.0
+    },
+    {
+      "from": 1656.68,
+      "to": 1660.28,
+      "sid": 588,
+      "location": 2,
+      "content": "每一分钱都是有社会意义的和社会责任的",
+      "music": 0.0
+    },
+    {
+      "from": 1660.28,
+      "to": 1662.08,
+      "sid": 589,
+      "location": 2,
+      "content": "他不可能让自己被动",
+      "music": 0.0
+    },
+    {
+      "from": 1662.08,
+      "to": 1663.12,
+      "sid": 590,
+      "location": 2,
+      "content": "让自己被动",
+      "music": 0.0
+    },
+    {
+      "from": 1663.12,
+      "to": 1665.469,
+      "sid": 591,
+      "location": 2,
+      "content": "就容易被一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1665.749,
+      "to": 1668.369,
+      "sid": 592,
+      "location": 2,
+      "content": "造成我们全体公民的一个利益损害",
+      "music": 0.0
+    },
+    {
+      "from": 1668.369,
+      "to": 1670.949,
+      "sid": 593,
+      "location": 2,
+      "content": "所以最终大家并不是说啊",
+      "music": 0.0
+    },
+    {
+      "from": 1670.949,
+      "to": 1672.089,
+      "sid": 594,
+      "location": 2,
+      "content": "你看准这两个字",
+      "music": 0.0
+    },
+    {
+      "from": 1672.089,
+      "to": 1673.58,
+      "sid": 595,
+      "location": 2,
+      "content": "其实没必要的",
+      "music": 0.0
+    },
+    {
+      "from": 1673.58,
+      "to": 1675.22,
+      "sid": 596,
+      "location": 2,
+      "content": "更主要的是这两个字",
+      "music": 0.0
+    },
+    {
+      "from": 1676.74,
+      "to": 1678.6,
+      "sid": 597,
+      "location": 2,
+      "content": "汇金作为平准基金也好",
+      "music": 0.0
+    },
+    {
+      "from": 1678.6,
+      "to": 1679.94,
+      "sid": 598,
+      "location": 2,
+      "content": "汪汪队作为啊",
+      "music": 0.0
+    },
+    {
+      "from": 1679.94,
+      "to": 1681.48,
+      "sid": 599,
+      "location": 2,
+      "content": "他需要对整个市场负责",
+      "music": 0.0
+    },
+    {
+      "from": 1681.48,
+      "to": 1682.84,
+      "sid": 600,
+      "location": 2,
+      "content": "整个公民负责",
+      "music": 0.0
+    },
+    {
+      "from": 1682.84,
+      "to": 1686.07,
+      "sid": 601,
+      "location": 2,
+      "content": "他是不太愿意把自己放在整个被动的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1686.07,
+      "to": 1691.01,
+      "sid": 602,
+      "location": 2,
+      "content": "所以这里我们可以认为是具有一定的客观结果",
+      "music": 0.0
+    },
+    {
+      "from": 1691.01,
+      "to": 1693.85,
+      "sid": 603,
+      "location": 2,
+      "content": "我们这里所有的信息都只说客观结果哈",
+      "music": 0.0
+    },
+    {
+      "from": 1693.85,
+      "to": 1695.75,
+      "sid": 604,
+      "location": 2,
+      "content": "不会有任何的主观主观因素",
+      "music": 0.0
+    },
+    {
+      "from": 1695.75,
+      "to": 1697.29,
+      "sid": 605,
+      "location": 2,
+      "content": "你不管意图如何啊",
+      "music": 0.0
+    },
+    {
+      "from": 1697.29,
+      "to": 1698.97,
+      "sid": 606,
+      "location": 2,
+      "content": "你的减值行为产生客观结果",
+      "music": 0.0
+    },
+    {
+      "from": 1698.97,
+      "to": 1701.87,
+      "sid": 607,
+      "location": 2,
+      "content": "就是调仓窗口期之前",
+      "music": 0.0
+    },
+    {
+      "from": 1701.87,
+      "to": 1705.79,
+      "sid": 608,
+      "location": 2,
+      "content": "你进行了一些不确定风险的被动规避",
+      "music": 0.0
+    },
+    {
+      "from": 1706.6,
+      "to": 1707.68,
+      "sid": 609,
+      "location": 2,
+      "content": "好我们继续",
+      "music": 0.0
+    },
+    {
+      "from": 1707.68,
+      "to": 1709.92,
+      "sid": 610,
+      "location": 2,
+      "content": "那么彭博社在5月22日",
+      "music": 0.0
+    },
+    {
+      "from": 1709.92,
+      "to": 1711.44,
+      "sid": 611,
+      "location": 2,
+      "content": "他报道了一个事实",
+      "music": 0.0
+    },
+    {
+      "from": 1711.44,
+      "to": 1712.34,
+      "sid": 612,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1712.34,
+      "to": 1715.76,
+      "sid": 613,
+      "location": 2,
+      "content": "汇金拟减持相关标的约90%的份额",
+      "music": 0.0
+    },
+    {
+      "from": 1716.39,
+      "to": 1720.909,
+      "sid": 614,
+      "location": 2,
+      "content": "那么从我们的呃数据推论推论推论来说",
+      "music": 0.0
+    },
+    {
+      "from": 1721.469,
+      "to": 1727.219,
+      "sid": 615,
+      "location": 2,
+      "content": "基本上哈上证五零和上证五零和中证1000",
+      "music": 0.0
+    },
+    {
+      "from": 1727.219,
+      "to": 1729.339,
+      "sid": 616,
+      "location": 2,
+      "content": "他基本上已经完成目标了",
+      "music": 0.0
+    },
+    {
+      "from": 1729.339,
+      "to": 1730.859,
+      "sid": 617,
+      "location": 2,
+      "content": "因为我们可以看到吗",
+      "music": 0.0
+    },
+    {
+      "from": 1732.059,
+      "to": 1734.37,
+      "sid": 618,
+      "location": 2,
+      "content": "我们在这里可以看得到",
+      "music": 0.0
+    },
+    {
+      "from": 1735.08,
+      "to": 1736.86,
+      "sid": 619,
+      "location": 2,
+      "content": "基本上90%",
+      "music": 0.0
+    },
+    {
+      "from": 1736.86,
+      "to": 1741.089,
+      "sid": 620,
+      "location": 2,
+      "content": "他的逻辑已经接近于86%",
+      "music": 0.0
+    },
+    {
+      "from": 1741.089,
+      "to": 1744.469,
+      "sid": 621,
+      "location": 2,
+      "content": "就算这里面有一定的啊小散",
+      "music": 0.0
+    },
+    {
+      "from": 1745.17,
+      "to": 1746.49,
+      "sid": 622,
+      "location": 2,
+      "content": "那对于总持仓",
+      "music": 0.0
+    },
+    {
+      "from": 1746.49,
+      "to": 1747.97,
+      "sid": 623,
+      "location": 2,
+      "content": "原本总持仓这么多的",
+      "music": 0.0
+    },
+    {
+      "from": 1747.97,
+      "to": 1749.19,
+      "sid": 624,
+      "location": 2,
+      "content": "他减值的比例",
+      "music": 0.0
+    },
+    {
+      "from": 1749.19,
+      "to": 1751.01,
+      "sid": 625,
+      "location": 2,
+      "content": "把销仓全部剔除之后的",
+      "music": 0.0
+    },
+    {
+      "from": 1751.01,
+      "to": 1754.435,
+      "sid": 626,
+      "location": 2,
+      "content": "最小值其实也接近85%左右了",
+      "music": 0.0
+    },
+    {
+      "from": 1754.46,
+      "to": 1756.85,
+      "sid": 627,
+      "location": 2,
+      "content": "所以对于彭博社的信息来说",
+      "music": 0.0
+    },
+    {
+      "from": 1756.85,
+      "to": 1759.85,
+      "sid": 628,
+      "location": 2,
+      "content": "基本上上证五零和中证1000已经完成了目标",
+      "music": 0.0
+    },
+    {
+      "from": 1759.85,
+      "to": 1761.93,
+      "sid": 629,
+      "location": 2,
+      "content": "那么沪深300和中证500的进度",
+      "music": 0.0
+    },
+    {
+      "from": 1761.93,
+      "to": 1763.59,
+      "sid": 630,
+      "location": 2,
+      "content": "差不多在75%左右",
+      "music": 0.0
+    },
+    {
+      "from": 1763.59,
+      "to": 1764.53,
+      "sid": 631,
+      "location": 2,
+      "content": "不管怎么说",
+      "music": 0.0
+    },
+    {
+      "from": 1764.53,
+      "to": 1765.98,
+      "sid": 632,
+      "location": 2,
+      "content": "从哪个逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1765.98,
+      "to": 1769.08,
+      "sid": 633,
+      "location": 2,
+      "content": "它的减值周期已经进入了后半段",
+      "music": 0.0
+    },
+    {
+      "from": 1769.08,
+      "to": 1771.74,
+      "sid": 634,
+      "location": 2,
+      "content": "这对于我们来说其实是比较愿意看到的",
+      "music": 0.0
+    },
+    {
+      "from": 1771.74,
+      "to": 1773.82,
+      "sid": 635,
+      "location": 2,
+      "content": "因为简直越靠近后半段",
+      "music": 0.0
+    },
+    {
+      "from": 1773.82,
+      "to": 1777.46,
+      "sid": 636,
+      "location": 2,
+      "content": "他距离增值阶段就越近了",
+      "music": 0.0
+    },
+    {
+      "from": 1778.02,
+      "to": 1779.06,
+      "sid": 637,
+      "location": 2,
+      "content": "嗓子有点哑了",
+      "music": 0.0
+    },
+    {
+      "from": 1779.06,
+      "to": 1781.96,
+      "sid": 638,
+      "location": 2,
+      "content": "咳好在未来也好",
+      "music": 0.0
+    },
+    {
+      "from": 1781.96,
+      "to": 1782.8,
+      "sid": 639,
+      "location": 2,
+      "content": "在下周也好",
+      "music": 0.0
+    },
+    {
+      "from": 1782.8,
+      "to": 1783.64,
+      "sid": 640,
+      "location": 2,
+      "content": "在下个月也好",
+      "music": 0.0
+    },
+    {
+      "from": 1784.64,
+      "to": 1785.92,
+      "sid": 641,
+      "location": 2,
+      "content": "有四种可能性",
+      "music": 0.0
+    },
+    {
+      "from": 1785.92,
+      "to": 1793.199,
+      "sid": 642,
+      "location": 2,
+      "content": "也就是啊他ETF的份额和份额",
+      "music": 0.0
+    },
+    {
+      "from": 1797.1,
+      "to": 1799.9,
+      "sid": 643,
+      "location": 2,
+      "content": "和ETF涨幅之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 1799.9,
+      "to": 1802.4,
+      "sid": 644,
+      "location": 2,
+      "content": "第一种情况就是ETF大涨",
+      "music": 0.0
+    },
+    {
+      "from": 1802.4,
+      "to": 1805.96,
+      "sid": 645,
+      "location": 2,
+      "content": "但是份额出现了继续的倍量减少",
+      "music": 0.0
+    },
+    {
+      "from": 1806.56,
+      "to": 1808.12,
+      "sid": 646,
+      "location": 2,
+      "content": "那么这里的危险等级",
+      "music": 0.0
+    },
+    {
+      "from": 1808.12,
+      "to": 1810.94,
+      "sid": 647,
+      "location": 2,
+      "content": "从数据层面上讲是比较危险的",
+      "music": 0.0
+    },
+    {
+      "from": 1810.94,
+      "to": 1812.68,
+      "sid": 648,
+      "location": 2,
+      "content": "第二种情况是大涨",
+      "music": 0.0
+    },
+    {
+      "from": 1812.68,
+      "to": 1815.37,
+      "sid": 649,
+      "location": 2,
+      "content": "ETF的收盘价大涨",
+      "music": 0.0
+    },
+    {
+      "from": 1815.37,
+      "to": 1820.869,
+      "sid": 650,
+      "location": 2,
+      "content": "同时ETF的份额呈现了一个十倍量的买入",
+      "music": 0.0
+    },
+    {
+      "from": 1820.869,
+      "to": 1822.089,
+      "sid": 651,
+      "location": 2,
+      "content": "从这点上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1822.089,
+      "to": 1824.85,
+      "sid": 652,
+      "location": 2,
+      "content": "它的危险等级是下降的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1824.85,
+      "to": 1826.81,
+      "sid": 653,
+      "location": 2,
+      "content": "第三个逻辑是大跌",
+      "music": 0.0
+    },
+    {
+      "from": 1826.81,
+      "to": 1828.77,
+      "sid": 654,
+      "location": 2,
+      "content": "ETF收盘价出现了大跌",
+      "music": 0.0
+    },
+    {
+      "from": 1828.77,
+      "to": 1830.15,
+      "sid": 655,
+      "location": 2,
+      "content": "连续的下大跌",
+      "music": 0.0
+    },
+    {
+      "from": 1830.15,
+      "to": 1835.29,
+      "sid": 656,
+      "location": 2,
+      "content": "同时ETF的份额出现了持续一周以上的倍量减少",
+      "music": 0.0
+    },
+    {
+      "from": 1835.29,
+      "to": 1837.39,
+      "sid": 657,
+      "location": 2,
+      "content": "那这里就具有一定的恐慌性",
+      "music": 0.0
+    },
+    {
+      "from": 1837.39,
+      "to": 1840.49,
+      "sid": 658,
+      "location": 2,
+      "content": "这里是我们最不愿意看到的流动性危机",
+      "music": 0.0
+    },
+    {
+      "from": 1840.49,
+      "to": 1841.71,
+      "sid": 659,
+      "location": 2,
+      "content": "从逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1841.71,
+      "to": 1846.17,
+      "sid": 660,
+      "location": 2,
+      "content": "其实ETF的份额会比ETF的收盘价",
+      "music": 0.0
+    },
+    {
+      "from": 1846.17,
+      "to": 1850.91,
+      "sid": 661,
+      "location": 2,
+      "content": "更能够反映具体的我们赚钱效应",
+      "music": 0.0
+    },
+    {
+      "from": 1851.27,
+      "to": 1852.49,
+      "sid": 662,
+      "location": 2,
+      "content": "再重复一遍",
+      "music": 0.0
+    },
+    {
+      "from": 1852.49,
+      "to": 1855.85,
+      "sid": 663,
+      "location": 2,
+      "content": "ETF的份额是客观的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1855.85,
+      "to": 1857.87,
+      "sid": 664,
+      "location": 2,
+      "content": "他不会骗人",
+      "music": 0.0
+    },
+    {
+      "from": 1858.469,
+      "to": 1860.689,
+      "sid": 665,
+      "location": 2,
+      "content": "同时他有成本的",
+      "music": 0.0
+    },
+    {
+      "from": 1860.689,
+      "to": 1863.329,
+      "sid": 666,
+      "location": 2,
+      "content": "这个成本是对于大资金的成本",
+      "music": 0.0
+    },
+    {
+      "from": 1863.329,
+      "to": 1867.31,
+      "sid": 667,
+      "location": 2,
+      "content": "所以在很多时候ETF份额它会比股票来说",
+      "music": 0.0
+    },
+    {
+      "from": 1867.31,
+      "to": 1870.79,
+      "sid": 668,
+      "location": 2,
+      "content": "股价来说更具有一些交叉的参考意义",
+      "music": 0.0
+    },
+    {
+      "from": 1870.79,
+      "to": 1874.739,
+      "sid": 669,
+      "location": 2,
+      "content": "第四种情况就是大跌收盘价大跌",
+      "music": 0.0
+    },
+    {
+      "from": 1874.739,
+      "to": 1876.419,
+      "sid": 670,
+      "location": 2,
+      "content": "ETF的收盘价急跌",
+      "music": 0.0
+    },
+    {
+      "from": 1876.419,
+      "to": 1880.96,
+      "sid": 671,
+      "location": 2,
+      "content": "但份额却出现了十倍量的逆势增长",
+      "music": 0.0
+    },
+    {
+      "from": 1881.12,
+      "to": 1884.42,
+      "sid": 672,
+      "location": 2,
+      "content": "这里反而是危险比较小的",
+      "music": 0.0
+    },
+    {
+      "from": 1884.42,
+      "to": 1887.85,
+      "sid": 673,
+      "location": 2,
+      "content": "甚至是我们一直狩猎等待的机会",
+      "music": 0.0
+    },
+    {
+      "from": 1887.85,
+      "to": 1890.37,
+      "sid": 674,
+      "location": 2,
+      "content": "也就是增值的周期",
+      "music": 0.0
+    },
+    {
+      "from": 1891.37,
+      "to": 1895.53,
+      "sid": 675,
+      "location": 2,
+      "content": "那么从整体我们追踪这一周的逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 1895.77,
+      "to": 1898.12,
+      "sid": 676,
+      "location": 2,
+      "content": "我们会看到",
+      "music": 0.0
+    },
+    {
+      "from": 1899.26,
+      "to": 1900.56,
+      "sid": 677,
+      "location": 2,
+      "content": "汪汪队也好",
+      "music": 0.0
+    },
+    {
+      "from": 1900.56,
+      "to": 1906.12,
+      "sid": 678,
+      "location": 2,
+      "content": "ETF它的收盘价和ETF份额之间",
+      "music": 0.0
+    },
+    {
+      "from": 1906.12,
+      "to": 1910.54,
+      "sid": 679,
+      "location": 2,
+      "content": "往往会呈现一个反人性的反人性的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1910.54,
+      "to": 1914.09,
+      "sid": 680,
+      "location": 2,
+      "content": "也就是说它往往是在什么时候卖出的",
+      "music": 0.0
+    },
+    {
+      "from": 1914.09,
+      "to": 1916.87,
+      "sid": 681,
+      "location": 2,
+      "content": "它往往并不是在下跌的时候卖出的",
+      "music": 0.0
+    },
+    {
+      "from": 1916.87,
+      "to": 1920.81,
+      "sid": 682,
+      "location": 2,
+      "content": "它往往是整个ETF高举高打的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1920.81,
+      "to": 1925.65,
+      "sid": 683,
+      "location": 2,
+      "content": "他的份额哐的一下减少了十个亿",
+      "music": 0.0
+    },
+    {
+      "from": 1925.65,
+      "to": 1929.13,
+      "sid": 684,
+      "location": 2,
+      "content": "减少了10%甚至以上",
+      "music": 0.0
+    },
+    {
+      "from": 1929.13,
+      "to": 1932.85,
+      "sid": 685,
+      "location": 2,
+      "content": "而反而是在市场下跌了一次",
+      "music": 0.0
+    },
+    {
+      "from": 1932.85,
+      "to": 1936.16,
+      "sid": 686,
+      "location": 2,
+      "content": "第二天在下跌的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1936.16,
+      "to": 1939.72,
+      "sid": 687,
+      "location": 2,
+      "content": "诶收盘价你会发现下跌的幅度减少了",
+      "music": 0.0
+    },
+    {
+      "from": 1939.72,
+      "to": 1942.14,
+      "sid": 688,
+      "location": 2,
+      "content": "而他的ETF份额反而是买入的",
+      "music": 0.0
+    },
+    {
+      "from": 1942.14,
+      "to": 1944.38,
+      "sid": 689,
+      "location": 2,
+      "content": "这里我们可以说下周三和周四",
+      "music": 0.0
+    },
+    {
+      "from": 1944.38,
+      "to": 1950.29,
+      "sid": 690,
+      "location": 2,
+      "content": "周五周三傻周四",
+      "music": 0.0
+    },
+    {
+      "from": 1952.14,
+      "to": 1955.5,
+      "sid": 691,
+      "location": 2,
+      "content": "V了回来好像看到了希望",
+      "music": 0.0
+    },
+    {
+      "from": 1956.62,
+      "to": 1959.12,
+      "sid": 692,
+      "location": 2,
+      "content": "周四这一天份额也是在增加的",
+      "music": 0.0
+    },
+    {
+      "from": 1959.12,
+      "to": 1963.74,
+      "sid": 693,
+      "location": 2,
+      "content": "结果呢周五周五周五是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 1965.1,
+      "to": 1967.3,
+      "sid": 694,
+      "location": 2,
+      "content": "哐叽又下来了",
+      "music": 0.0
+    },
+    {
+      "from": 1967.3,
+      "to": 1969.04,
+      "sid": 695,
+      "location": 2,
+      "content": "周五是最伤的",
+      "music": 0.0
+    },
+    {
+      "from": 1969.04,
+      "to": 1971.1,
+      "sid": 696,
+      "location": 2,
+      "content": "周五的这种走势是最伤的呃",
+      "music": 0.0
+    },
+    {
+      "from": 1971.1,
+      "to": 1974.32,
+      "sid": 697,
+      "location": 2,
+      "content": "最近呢在市场上有一些人在说",
+      "music": 0.0
+    },
+    {
+      "from": 1974.32,
+      "to": 1977.76,
+      "sid": 698,
+      "location": 2,
+      "content": "未来啊汪汪队不会持仓ETF了",
+      "music": 0.0
+    },
+    {
+      "from": 1977.76,
+      "to": 1979.04,
+      "sid": 699,
+      "location": 2,
+      "content": "甚至有人说啊",
+      "music": 0.0
+    },
+    {
+      "from": 1979.04,
+      "to": 1980.9,
+      "sid": 700,
+      "location": 2,
+      "content": "彭博社这次新闻报道之后",
+      "music": 0.0
+    },
+    {
+      "from": 1980.9,
+      "to": 1983.69,
+      "sid": 701,
+      "location": 2,
+      "content": "彭博社能够出现这个新闻",
+      "music": 0.0
+    },
+    {
+      "from": 1983.69,
+      "to": 1987.31,
+      "sid": 702,
+      "location": 2,
+      "content": "就表明未来汪汪队他可能不太会持仓ETF了",
+      "music": 0.0
+    },
+    {
+      "from": 1987.31,
+      "to": 1989.51,
+      "sid": 703,
+      "location": 2,
+      "content": "那么我们应该怎么应对",
+      "music": 0.0
+    },
+    {
+      "from": 1989.51,
+      "to": 1992.51,
+      "sid": 704,
+      "location": 2,
+      "content": "这里我们也可以给大家说一个",
+      "music": 0.0
+    },
+    {
+      "from": 1992.51,
+      "to": 1993.95,
+      "sid": 705,
+      "location": 2,
+      "content": "最最简单的结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 1993.95,
+      "to": 1996.71,
+      "sid": 706,
+      "location": 2,
+      "content": "结论完全没有必要恐慌",
+      "music": 0.0
+    },
+    {
+      "from": 1997.17,
+      "to": 1999.59,
+      "sid": 707,
+      "location": 2,
+      "content": "因为它的底层逻辑并没有改变",
+      "music": 0.0
+    },
+    {
+      "from": 1999.59,
+      "to": 2000.41,
+      "sid": 708,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 2000.41,
+      "to": 2002.42,
+      "sid": 709,
+      "location": 2,
+      "content": "其实也很简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 2002.94,
+      "to": 2005.5,
+      "sid": 710,
+      "location": 2,
+      "content": "汇金是平准基金",
+      "music": 0.0
+    },
+    {
+      "from": 2005.5,
+      "to": 2007.88,
+      "sid": 711,
+      "location": 2,
+      "content": "他需要对整个股市负责",
+      "music": 0.0
+    },
+    {
+      "from": 2007.88,
+      "to": 2010.04,
+      "sid": 712,
+      "location": 2,
+      "content": "同时他需要托稳",
+      "music": 0.0
+    },
+    {
+      "from": 2010.04,
+      "to": 2013.32,
+      "sid": 713,
+      "location": 2,
+      "content": "那么股市之中能承接汇金的资金",
+      "music": 0.0
+    },
+    {
+      "from": 2013.32,
+      "to": 2016.22,
+      "sid": 714,
+      "location": 2,
+      "content": "投资标的其实只有两个两个种类",
+      "music": 0.0
+    },
+    {
+      "from": 2016.22,
+      "to": 2017.48,
+      "sid": 715,
+      "location": 2,
+      "content": "一个是个股",
+      "music": 0.0
+    },
+    {
+      "from": 2017.48,
+      "to": 2019.58,
+      "sid": 716,
+      "location": 2,
+      "content": "一个是宽基ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2019.58,
+      "to": 2021.98,
+      "sid": 717,
+      "location": 2,
+      "content": "而且他的资金体量比较大",
+      "music": 0.0
+    },
+    {
+      "from": 2021.98,
+      "to": 2025.19,
+      "sid": 718,
+      "location": 2,
+      "content": "他选个股还不能选那种太小的个股",
+      "music": 0.0
+    },
+    {
+      "from": 2025.19,
+      "to": 2028.85,
+      "sid": 719,
+      "location": 2,
+      "content": "那么最终它又会回到那种大盘大盘股",
+      "music": 0.0
+    },
+    {
+      "from": 2028.85,
+      "to": 2033.1,
+      "sid": 720,
+      "location": 2,
+      "content": "那你一个大盘股能容纳还是整个大盘ETF能容纳",
+      "music": 0.0
+    },
+    {
+      "from": 2033.1,
+      "to": 2036.56,
+      "sid": 721,
+      "location": 2,
+      "content": "所以最终并不是说啊汪汪队",
+      "music": 0.0
+    },
+    {
+      "from": 2036.56,
+      "to": 2038.18,
+      "sid": 722,
+      "location": 2,
+      "content": "他不想选ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2038.18,
+      "to": 2040.58,
+      "sid": 723,
+      "location": 2,
+      "content": "而是他不得不选ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2040.58,
+      "to": 2042.14,
+      "sid": 724,
+      "location": 2,
+      "content": "你就算不选ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2042.14,
+      "to": 2043.82,
+      "sid": 725,
+      "location": 2,
+      "content": "那也很简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 2044.57,
+      "to": 2048.99,
+      "sid": 726,
+      "location": 2,
+      "content": "你3月份你个股是3月份三个月披露一次",
+      "music": 0.0
+    },
+    {
+      "from": 2048.99,
+      "to": 2051.72,
+      "sid": 727,
+      "location": 2,
+      "content": "我们ETF是六个月披露一次",
+      "music": 0.0
+    },
+    {
+      "from": 2052.0,
+      "to": 2056.78,
+      "sid": 728,
+      "location": 2,
+      "content": "那你是说追踪三个月披露一次的信息容易追踪",
+      "music": 0.0
+    },
+    {
+      "from": 2056.78,
+      "to": 2059.42,
+      "sid": 729,
+      "location": 2,
+      "content": "还是追踪一个六个月披露的信息容易追踪",
+      "music": 0.0
+    },
+    {
+      "from": 2059.42,
+      "to": 2061.44,
+      "sid": 730,
+      "location": 2,
+      "content": "那肯定是三个月容易追踪嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2061.44,
+      "to": 2062.92,
+      "sid": 731,
+      "location": 2,
+      "content": "你在三个月的追踪之中",
+      "music": 0.0
+    },
+    {
+      "from": 2062.92,
+      "to": 2064.98,
+      "sid": 732,
+      "location": 2,
+      "content": "你去买这些大蓝筹",
+      "music": 0.0
+    },
+    {
+      "from": 2064.98,
+      "to": 2068.17,
+      "sid": 733,
+      "location": 2,
+      "content": "你三个月的财报出现之后",
+      "music": 0.0
+    },
+    {
+      "from": 2068.17,
+      "to": 2072.6,
+      "sid": 734,
+      "location": 2,
+      "content": "我们就可以完成一个啊汇金持仓前列的信息",
+      "music": 0.0
+    },
+    {
+      "from": 2072.6,
+      "to": 2073.32,
+      "sid": 735,
+      "location": 2,
+      "content": "一个对比",
+      "music": 0.0
+    },
+    {
+      "from": 2073.32,
+      "to": 2074.52,
+      "sid": 736,
+      "location": 2,
+      "content": "一个组合啊",
+      "music": 0.0
+    },
+    {
+      "from": 2074.52,
+      "to": 2077.62,
+      "sid": 737,
+      "location": 2,
+      "content": "你会经在这三个月之中买了哪些大盘蓝筹",
+      "music": 0.0
+    },
+    {
+      "from": 2077.62,
+      "to": 2081.15,
+      "sid": 738,
+      "location": 2,
+      "content": "我们把这些大盘蓝筹全部扒拉下来",
+      "music": 0.0
+    },
+    {
+      "from": 2081.39,
+      "to": 2083.93,
+      "sid": 739,
+      "location": 2,
+      "content": "最终我们再去对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 2083.93,
+      "to": 2086.85,
+      "sid": 740,
+      "location": 2,
+      "content": "哪个ETF之中占比这些大盘人数最多",
+      "music": 0.0
+    },
+    {
+      "from": 2086.85,
+      "to": 2088.11,
+      "sid": 741,
+      "location": 2,
+      "content": "公募基金",
+      "music": 0.0
+    },
+    {
+      "from": 2088.11,
+      "to": 2092.6,
+      "sid": 742,
+      "location": 2,
+      "content": "他自然会有专业机构去追踪汇进的重大持仓",
+      "music": 0.0
+    },
+    {
+      "from": 2092.6,
+      "to": 2095.77,
+      "sid": 743,
+      "location": 2,
+      "content": "然后将其纳入成份股的ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2095.77,
+      "to": 2097.95,
+      "sid": 744,
+      "location": 2,
+      "content": "而我们买入ETF之后",
+      "music": 0.0
+    },
+    {
+      "from": 2097.95,
+      "to": 2100.31,
+      "sid": 745,
+      "location": 2,
+      "content": "其实在机构的眼中",
+      "music": 0.0
+    },
+    {
+      "from": 2100.31,
+      "to": 2103.97,
+      "sid": 746,
+      "location": 2,
+      "content": "也是将你买ETF的钱换成成分股的股票",
+      "music": 0.0
+    },
+    {
+      "from": 2103.97,
+      "to": 2107.87,
+      "sid": 747,
+      "location": 2,
+      "content": "所以到头来逻辑完全没有改变啊",
+      "music": 0.0
+    },
+    {
+      "from": 2107.87,
+      "to": 2110.19,
+      "sid": 748,
+      "location": 2,
+      "content": "你就算你不买ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2110.19,
+      "to": 2112.81,
+      "sid": 749,
+      "location": 2,
+      "content": "你最终也要买股票吧",
+      "music": 0.0
+    },
+    {
+      "from": 2113.61,
+      "to": 2115.97,
+      "sid": 750,
+      "location": 2,
+      "content": "那我们买ETF其实买的也是ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2115.97,
+      "to": 2117.19,
+      "sid": 751,
+      "location": 2,
+      "content": "就背后的股票",
+      "music": 0.0
+    },
+    {
+      "from": 2117.19,
+      "to": 2118.43,
+      "sid": 752,
+      "location": 2,
+      "content": "你买ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2118.43,
+      "to": 2121.38,
+      "sid": 753,
+      "location": 2,
+      "content": "你汪汪队买ETF不可能买一只吧",
+      "music": 0.0
+    },
+    {
+      "from": 2121.54,
+      "to": 2123.84,
+      "sid": 754,
+      "location": 2,
+      "content": "你非要你肯定要买一篮子股票嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2123.84,
+      "to": 2124.78,
+      "sid": 755,
+      "location": 2,
+      "content": "你不买ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2124.78,
+      "to": 2126.56,
+      "sid": 756,
+      "location": 2,
+      "content": "你单独买个股也可以呀",
+      "music": 0.0
+    },
+    {
+      "from": 2126.56,
+      "to": 2129.44,
+      "sid": 757,
+      "location": 2,
+      "content": "那么你最终是不是呈现出呈呈现出一种",
+      "music": 0.0
+    },
+    {
+      "from": 2129.44,
+      "to": 2131.66,
+      "sid": 758,
+      "location": 2,
+      "content": "你买了很多大资金的个股",
+      "music": 0.0
+    },
+    {
+      "from": 2131.66,
+      "to": 2134.31,
+      "sid": 759,
+      "location": 2,
+      "content": "组成了你汪汪队的一个持仓",
+      "music": 0.0
+    },
+    {
+      "from": 2134.31,
+      "to": 2137.41,
+      "sid": 760,
+      "location": 2,
+      "content": "那对应在市场上不就是ETF吗",
+      "music": 0.0
+    },
+    {
+      "from": 2137.41,
+      "to": 2138.15,
+      "sid": 761,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 2139.19,
+      "to": 2141.54,
+      "sid": 762,
+      "location": 2,
+      "content": "所以大家不用慌",
+      "music": 0.0
+    },
+    {
+      "from": 2142.14,
+      "to": 2143.58,
+      "sid": 763,
+      "location": 2,
+      "content": "它是不可替代性的",
+      "music": 0.0
+    },
+    {
+      "from": 2143.58,
+      "to": 2148.18,
+      "sid": 764,
+      "location": 2,
+      "content": "甚至说我们是追踪一贴追踪汪队的人来说",
+      "music": 0.0
+    },
+    {
+      "from": 2148.18,
+      "to": 2152.49,
+      "sid": 765,
+      "location": 2,
+      "content": "我们是愿意看到他去选择买一些个股的持仓",
+      "music": 0.0
+    },
+    {
+      "from": 2152.49,
+      "to": 2154.07,
+      "sid": 766,
+      "location": 2,
+      "content": "因为他的披露信息更短",
+      "music": 0.0
+    },
+    {
+      "from": 2154.07,
+      "to": 2156.15,
+      "sid": 767,
+      "location": 2,
+      "content": "我们更容更容易去追踪",
+      "music": 0.0
+    },
+    {
+      "from": 2156.15,
+      "to": 2159.21,
+      "sid": 768,
+      "location": 2,
+      "content": "因为ETF其实就是一个不可替代性的",
+      "music": 0.0
+    },
+    {
+      "from": 2159.21,
+      "to": 2163.39,
+      "sid": 769,
+      "location": 2,
+      "content": "它可以防止大盘的被大资金的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 2163.75,
+      "to": 2168.51,
+      "sid": 770,
+      "location": 2,
+      "content": "所以本质上讲ETF是有利于有利于他的",
+      "music": 0.0
+    },
+    {
+      "from": 2168.51,
+      "to": 2171.47,
+      "sid": 771,
+      "location": 2,
+      "content": "那比起汇金减持ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2171.79,
+      "to": 2174.79,
+      "sid": 772,
+      "location": 2,
+      "content": "我更担心的一个问题是下面一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2174.79,
+      "to": 2178.33,
+      "sid": 773,
+      "location": 2,
+      "content": "也就是7月6号开始",
+      "music": 0.0
+    },
+    {
+      "from": 2178.61,
+      "to": 2181.15,
+      "sid": 774,
+      "location": 2,
+      "content": "我们会加入一个全新的机制",
+      "music": 0.0
+    },
+    {
+      "from": 2181.15,
+      "to": 2183.14,
+      "sid": 775,
+      "location": 2,
+      "content": "我喝口水",
+      "music": 0.0
+    },
+    {
+      "from": 2186.68,
+      "to": 2188.16,
+      "sid": 776,
+      "location": 2,
+      "content": "我们会加入一个全新的机制",
+      "music": 0.0
+    },
+    {
+      "from": 2188.16,
+      "to": 2193.52,
+      "sid": 777,
+      "location": 2,
+      "content": "就是整个市场三点到03:30之间",
+      "music": 0.0
+    },
+    {
+      "from": 2193.52,
+      "to": 2197.0,
+      "sid": 778,
+      "location": 2,
+      "content": "会进行一个固定价的盘后交易",
+      "music": 0.0
+    },
+    {
+      "from": 2197.68,
+      "to": 2199.9,
+      "sid": 779,
+      "location": 2,
+      "content": "这个事情我个人认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 2199.9,
+      "to": 2205.68,
+      "sid": 780,
+      "location": 2,
+      "content": "对于我们追踪汇金来说是比较大的一个干扰",
+      "music": 0.0
+    },
+    {
+      "from": 2206.05,
+      "to": 2207.57,
+      "sid": 781,
+      "location": 2,
+      "content": "我们前先简单介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 2207.57,
+      "to": 2211.33,
+      "sid": 782,
+      "location": 2,
+      "content": "也就是说从6月7月六日这天开始",
+      "music": 0.0
+    },
+    {
+      "from": 2211.33,
+      "to": 2212.81,
+      "sid": 783,
+      "location": 2,
+      "content": "整个市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 2212.81,
+      "to": 2218.47,
+      "sid": 784,
+      "location": 2,
+      "content": "他会在03:05分到03:30分盘后固定交易",
+      "music": 0.0
+    },
+    {
+      "from": 2218.47,
+      "to": 2221.25,
+      "sid": 785,
+      "location": 2,
+      "content": "不管你用多大的成交量",
+      "music": 0.0
+    },
+    {
+      "from": 2221.25,
+      "to": 2225.029,
+      "sid": 786,
+      "location": 2,
+      "content": "都不会对股价造成冲击",
+      "music": 0.0
+    },
+    {
+      "from": 2225.509,
+      "to": 2228.629,
+      "sid": 787,
+      "location": 2,
+      "content": "他只可能以一个价格来进行买卖",
+      "music": 0.0
+    },
+    {
+      "from": 2228.629,
+      "to": 2231.149,
+      "sid": 788,
+      "location": 2,
+      "content": "当然它的成交量还是会还是会体现",
+      "music": 0.0
+    },
+    {
+      "from": 2231.149,
+      "to": 2233.529,
+      "sid": 789,
+      "location": 2,
+      "content": "他的ETF份额也会体现",
+      "music": 0.0
+    },
+    {
+      "from": 2233.529,
+      "to": 2235.409,
+      "sid": 790,
+      "location": 2,
+      "content": "但是",
+      "music": 0.0
+    },
+    {
+      "from": 2237.18,
+      "to": 2240.9,
+      "sid": 791,
+      "location": 2,
+      "content": "这会产生一个非常非常难以解决的问题",
+      "music": 0.0
+    },
+    {
+      "from": 2240.9,
+      "to": 2245.7,
+      "sid": 792,
+      "location": 2,
+      "content": "也就是说汇金原本的操作他有一个痛点",
+      "music": 0.0
+    },
+    {
+      "from": 2245.7,
+      "to": 2248.18,
+      "sid": 793,
+      "location": 2,
+      "content": "就是冲击市场",
+      "music": 0.0
+    },
+    {
+      "from": 2248.18,
+      "to": 2250.04,
+      "sid": 794,
+      "location": 2,
+      "content": "为什么他要买ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2250.04,
+      "to": 2251.2,
+      "sid": 795,
+      "location": 2,
+      "content": "资金量比较大之外",
+      "music": 0.0
+    },
+    {
+      "from": 2251.2,
+      "to": 2255.18,
+      "sid": 796,
+      "location": 2,
+      "content": "还有一个减缓冲击的一个安全电的过程",
+      "music": 0.0
+    },
+    {
+      "from": 2255.92,
+      "to": 2259.6,
+      "sid": 797,
+      "location": 2,
+      "content": "那如果你是以固定价交易的话",
+      "music": 0.0
+    },
+    {
+      "from": 2260.35,
+      "to": 2266.21,
+      "sid": 798,
+      "location": 2,
+      "content": "主力机构它在盘后半个小时之间放量买卖",
+      "music": 0.0
+    },
+    {
+      "from": 2266.21,
+      "to": 2269.33,
+      "sid": 799,
+      "location": 2,
+      "content": "他就完全没有冲击市场的这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2269.33,
+      "to": 2272.85,
+      "sid": 800,
+      "location": 2,
+      "content": "他根本不需要担心盘中的一个价格",
+      "music": 0.0
+    },
+    {
+      "from": 2272.85,
+      "to": 2274.33,
+      "sid": 801,
+      "location": 2,
+      "content": "他这样做",
+      "music": 0.0
+    },
+    {
+      "from": 2274.33,
+      "to": 2278.29,
+      "sid": 802,
+      "location": 2,
+      "content": "而且你也很难去发现是是谁在做",
+      "music": 0.0
+    },
+    {
+      "from": 2278.29,
+      "to": 2280.79,
+      "sid": 803,
+      "location": 2,
+      "content": "它不仅提升了它的隐蔽性啊",
+      "music": 0.0
+    },
+    {
+      "from": 2280.79,
+      "to": 2283.64,
+      "sid": 804,
+      "location": 2,
+      "content": "更提供了一个无障碍的大额通道",
+      "music": 0.0
+    },
+    {
+      "from": 2283.64,
+      "to": 2286.12,
+      "sid": 805,
+      "location": 2,
+      "content": "对于灰烬来说",
+      "music": 0.0
+    },
+    {
+      "from": 2286.12,
+      "to": 2288.67,
+      "sid": 806,
+      "location": 2,
+      "content": "这是一个非常大的利好",
+      "music": 0.0
+    },
+    {
+      "from": 2289.11,
+      "to": 2290.29,
+      "sid": 807,
+      "location": 2,
+      "content": "非常大的利好",
+      "music": 0.0
+    },
+    {
+      "from": 2290.29,
+      "to": 2291.99,
+      "sid": 808,
+      "location": 2,
+      "content": "那对于我们追踪的影响",
+      "music": 0.0
+    },
+    {
+      "from": 2291.99,
+      "to": 2295.52,
+      "sid": 809,
+      "location": 2,
+      "content": "其实是比较比较比较比较伤的",
+      "music": 0.0
+    },
+    {
+      "from": 2295.52,
+      "to": 2299.0,
+      "sid": 810,
+      "location": 2,
+      "content": "第一点就是开盘的波动会加剧",
+      "music": 0.0
+    },
+    {
+      "from": 2299.68,
+      "to": 2304.51,
+      "sid": 811,
+      "location": 2,
+      "content": "原本恐慌盘你杀到三点就结束了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2304.51,
+      "to": 2307.53,
+      "sid": 812,
+      "location": 2,
+      "content": "但现在恐慌盘会延续到03:30",
+      "music": 0.0
+    },
+    {
+      "from": 2307.53,
+      "to": 2311.59,
+      "sid": 813,
+      "location": 2,
+      "content": "同样的贪婪大涨的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2311.59,
+      "to": 2314.87,
+      "sid": 814,
+      "location": 2,
+      "content": "你贪婪的贪婪的时间点最多是三点就结束了吗",
+      "music": 0.0
+    },
+    {
+      "from": 2314.87,
+      "to": 2316.819,
+      "sid": 815,
+      "location": 2,
+      "content": "现在会延迟到03:30",
+      "music": 0.0
+    },
+    {
+      "from": 2317.099,
+      "to": 2320.139,
+      "sid": 816,
+      "location": 2,
+      "content": "多空力量它的宣泄啊会延迟",
+      "music": 0.0
+    },
+    {
+      "from": 2320.139,
+      "to": 2320.979,
+      "sid": 817,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 2320.979,
+      "to": 2324.7,
+      "sid": 818,
+      "location": 2,
+      "content": "这一点会导致第二天的开盘价",
+      "music": 0.0
+    },
+    {
+      "from": 2324.7,
+      "to": 2326.88,
+      "sid": 819,
+      "location": 2,
+      "content": "他的跳空幅度会比较大",
+      "music": 0.0
+    },
+    {
+      "from": 2326.88,
+      "to": 2330.38,
+      "sid": 820,
+      "location": 2,
+      "content": "那也就是说你要想去埋伏一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 2330.66,
+      "to": 2335.6,
+      "sid": 821,
+      "location": 2,
+      "content": "长线的操作难度应该是没有变化的",
+      "music": 0.0
+    },
+    {
+      "from": 2335.6,
+      "to": 2339.92,
+      "sid": 822,
+      "location": 2,
+      "content": "但短线的操作难度是上升了一个level",
+      "music": 0.0
+    },
+    {
+      "from": 2340.4,
+      "to": 2342.0,
+      "sid": 823,
+      "location": 2,
+      "content": "甚至会出现一种极端情况",
+      "music": 0.0
+    },
+    {
+      "from": 2342.0,
+      "to": 2347.13,
+      "sid": 824,
+      "location": 2,
+      "content": "我们假设哈第一天板了好十个点",
+      "music": 0.0
+    },
+    {
+      "from": 2347.45,
+      "to": 2348.23,
+      "sid": 825,
+      "location": 2,
+      "content": "十个点",
+      "music": 0.0
+    },
+    {
+      "from": 2348.23,
+      "to": 2350.49,
+      "sid": 826,
+      "location": 2,
+      "content": "这里有人进去了",
+      "music": 0.0
+    },
+    {
+      "from": 2350.49,
+      "to": 2351.41,
+      "sid": 827,
+      "location": 2,
+      "content": "有人出来了",
+      "music": 0.0
+    },
+    {
+      "from": 2351.41,
+      "to": 2353.37,
+      "sid": 828,
+      "location": 2,
+      "content": "有人发现怎么进去都可以",
+      "music": 0.0
+    },
+    {
+      "from": 2353.37,
+      "to": 2354.73,
+      "sid": 829,
+      "location": 2,
+      "content": "因为有人在抛",
+      "music": 0.0
+    },
+    {
+      "from": 2354.73,
+      "to": 2357.849,
+      "sid": 830,
+      "location": 2,
+      "content": "结果第二天就这样了",
+      "music": 0.0
+    },
+    {
+      "from": 2359.169,
+      "to": 2359.809,
+      "sid": 831,
+      "location": 2,
+      "content": "那咋办啊",
+      "music": 0.0
+    },
+    {
+      "from": 2359.809,
+      "to": 2362.52,
+      "sid": 832,
+      "location": 2,
+      "content": "不能不能说这样应该是这样",
+      "music": 0.0
+    },
+    {
+      "from": 2364.7,
+      "to": 2365.7,
+      "sid": 833,
+      "location": 2,
+      "content": "教练应该是",
+      "music": 0.0
+    },
+    {
+      "from": 2367.7,
+      "to": 2369.26,
+      "sid": 834,
+      "location": 2,
+      "content": "应该是这样",
+      "music": 0.0
+    },
+    {
+      "from": 2370.7,
+      "to": 2372.3,
+      "sid": 835,
+      "location": 2,
+      "content": "那你咋办",
+      "music": 0.0
+    },
+    {
+      "from": 2372.86,
+      "to": 2374.98,
+      "sid": 836,
+      "location": 2,
+      "content": "所以会导致开盘的剧烈波动",
+      "music": 0.0
+    },
+    {
+      "from": 2374.98,
+      "to": 2378.0,
+      "sid": 837,
+      "location": 2,
+      "content": "但是但是大家也不用慌",
+      "music": 0.0
+    },
+    {
+      "from": 2378.0,
+      "to": 2380.9,
+      "sid": 838,
+      "location": 2,
+      "content": "当市场在短期",
+      "music": 0.0
+    },
+    {
+      "from": 2380.9,
+      "to": 2385.42,
+      "sid": 839,
+      "location": 2,
+      "content": "可能在7月份会对这个收盘价有些不适应之后",
+      "music": 0.0
+    },
+    {
+      "from": 2385.42,
+      "to": 2388.97,
+      "sid": 840,
+      "location": 2,
+      "content": "那么经过了一些时时间的实践之后",
+      "music": 0.0
+    },
+    {
+      "from": 2388.97,
+      "to": 2391.97,
+      "sid": 841,
+      "location": 2,
+      "content": "在8月份他应该就会规避掉这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 2391.97,
+      "to": 2394.88,
+      "sid": 842,
+      "location": 2,
+      "content": "到时候会产生新的应对之道",
+      "music": 0.0
+    },
+    {
+      "from": 2394.88,
+      "to": 2398.0,
+      "sid": 843,
+      "location": 2,
+      "content": "因为本来市场就有趣的地方就是博弈吗",
+      "music": 0.0
+    },
+    {
+      "from": 2398.0,
+      "to": 2398.86,
+      "sid": 844,
+      "location": 2,
+      "content": "哦不你可以",
+      "music": 0.0
+    },
+    {
+      "from": 2398.86,
+      "to": 2399.87,
+      "sid": 845,
+      "location": 2,
+      "content": "道高一尺",
+      "music": 0.0
+    },
+    {
+      "from": 2399.87,
+      "to": 2403.23,
+      "sid": 846,
+      "location": 2,
+      "content": "自然会对应的有魔高一这样的动态博弈",
+      "music": 0.0
+    },
+    {
+      "from": 2403.6,
+      "to": 2406.54,
+      "sid": 847,
+      "location": 2,
+      "content": "那么这种不确定性虽然存在",
+      "music": 0.0
+    },
+    {
+      "from": 2406.54,
+      "to": 2409.359,
+      "sid": 848,
+      "location": 2,
+      "content": "但只要ATO份额公式的规则不变",
+      "music": 0.0
+    },
+    {
+      "from": 2409.359,
+      "to": 2412.059,
+      "sid": 849,
+      "location": 2,
+      "content": "那么我们追踪逻辑就依然稳固",
+      "music": 0.0
+    },
+    {
+      "from": 2412.059,
+      "to": 2416.059,
+      "sid": 850,
+      "location": 2,
+      "content": "但是我们可以判断一个明确的方向性",
+      "music": 0.0
+    },
+    {
+      "from": 2416.059,
+      "to": 2421.93,
+      "sid": 851,
+      "location": 2,
+      "content": "未来短线一定一定是会被打压的",
+      "music": 0.0
+    },
+    {
+      "from": 2421.93,
+      "to": 2428.75,
+      "sid": 852,
+      "location": 2,
+      "content": "而长线和中线一定一定是会被提升的",
+      "music": 0.0
+    },
+    {
+      "from": 2428.75,
+      "to": 2430.13,
+      "sid": 853,
+      "location": 2,
+      "content": "从这个逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 2430.13,
+      "to": 2432.75,
+      "sid": 854,
+      "location": 2,
+      "content": "从盘后固定价交易来说",
+      "music": 0.0
+    },
+    {
+      "from": 2432.75,
+      "to": 2436.42,
+      "sid": 855,
+      "location": 2,
+      "content": "短线不太建议大家在A股投资",
+      "music": 0.0
+    },
+    {
+      "from": 2436.42,
+      "to": 2439.04,
+      "sid": 856,
+      "location": 2,
+      "content": "还是应该以长中长线为主",
+      "music": 0.0
+    },
+    {
+      "from": 2439.52,
+      "to": 2442.24,
+      "sid": 857,
+      "location": 2,
+      "content": "所以最终这是一个挑战",
+      "music": 0.0
+    },
+    {
+      "from": 2443.44,
+      "to": 2445.64,
+      "sid": 858,
+      "location": 2,
+      "content": "但这种挑战才是正常的",
+      "music": 0.0
+    },
+    {
+      "from": 2445.64,
+      "to": 2449.71,
+      "sid": 859,
+      "location": 2,
+      "content": "因为这个市场就是永远在变化的好",
+      "music": 0.0
+    },
+    {
+      "from": 2449.71,
+      "to": 2451.69,
+      "sid": 860,
+      "location": 2,
+      "content": "我们进入后面的部分",
+      "music": 0.0
+    },
+    {
+      "from": 2451.69,
+      "to": 2455.19,
+      "sid": 861,
+      "location": 2,
+      "content": "那主要说一下就是6月份的一个关键节点",
+      "music": 0.0
+    },
+    {
+      "from": 2455.19,
+      "to": 2457.09,
+      "sid": 862,
+      "location": 2,
+      "content": "对于我们来说",
+      "music": 0.0
+    },
+    {
+      "from": 2457.37,
+      "to": 2460.96,
+      "sid": 863,
+      "location": 2,
+      "content": "对于我们追踪ETF作为自己呃",
+      "music": 0.0
+    },
+    {
+      "from": 2460.96,
+      "to": 2464.04,
+      "sid": 864,
+      "location": 2,
+      "content": "投资逻辑的投资策略来说",
+      "music": 0.0
+    },
+    {
+      "from": 2464.04,
+      "to": 2468.029,
+      "sid": 865,
+      "location": 2,
+      "content": "我们其实是希望等待一个黑天鹅的",
+      "music": 0.0
+    },
+    {
+      "from": 2468.349,
+      "to": 2471.03,
+      "sid": 866,
+      "location": 2,
+      "content": "尤其是我们看到了这么多的呃",
+      "music": 0.0
+    },
+    {
+      "from": 2471.03,
+      "to": 2472.07,
+      "sid": 867,
+      "location": 2,
+      "content": "回来这的减仓信息",
+      "music": 0.0
+    },
+    {
+      "from": 2472.07,
+      "to": 2473.11,
+      "sid": 868,
+      "location": 2,
+      "content": "相信大家都有可能",
+      "music": 0.0
+    },
+    {
+      "from": 2473.11,
+      "to": 2475.83,
+      "sid": 869,
+      "location": 2,
+      "content": "或多或少的都有一些减仓的行为发生",
+      "music": 0.0
+    },
+    {
+      "from": 2475.83,
+      "to": 2477.23,
+      "sid": 870,
+      "location": 2,
+      "content": "那么在这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 2477.23,
+      "to": 2480.999,
+      "sid": 871,
+      "location": 2,
+      "content": "我们的仓位已经减少情况下发生一个黑天鹅",
+      "music": 0.0
+    },
+    {
+      "from": 2480.999,
+      "to": 2484.5,
+      "sid": 872,
+      "location": 2,
+      "content": "反而是对于我们来说最有利的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 2485.1,
+      "to": 2487.86,
+      "sid": 873,
+      "location": 2,
+      "content": "因为如果不发生灰黑天鹅",
+      "music": 0.0
+    },
+    {
+      "from": 2487.86,
+      "to": 2488.9,
+      "sid": 874,
+      "location": 2,
+      "content": "不管怎么走",
+      "music": 0.0
+    },
+    {
+      "from": 2488.9,
+      "to": 2490.72,
+      "sid": 875,
+      "location": 2,
+      "content": "都对我们来说是比较难受的",
+      "music": 0.0
+    },
+    {
+      "from": 2490.72,
+      "to": 2492.2,
+      "sid": 876,
+      "location": 2,
+      "content": "如果他继续往上走",
+      "music": 0.0
+    },
+    {
+      "from": 2492.2,
+      "to": 2493.97,
+      "sid": 877,
+      "location": 2,
+      "content": "这一个逼空",
+      "music": 0.0
+    },
+    {
+      "from": 2494.05,
+      "to": 2495.65,
+      "sid": 878,
+      "location": 2,
+      "content": "我们这里敢进吗",
+      "music": 0.0
+    },
+    {
+      "from": 2497.01,
+      "to": 2498.67,
+      "sid": 879,
+      "location": 2,
+      "content": "其实是不太敢进的",
+      "music": 0.0
+    },
+    {
+      "from": 2498.67,
+      "to": 2500.49,
+      "sid": 880,
+      "location": 2,
+      "content": "如果他走一个震荡",
+      "music": 0.0
+    },
+    {
+      "from": 2500.49,
+      "to": 2501.85,
+      "sid": 881,
+      "location": 2,
+      "content": "现在就是震荡",
+      "music": 0.0
+    },
+    {
+      "from": 2501.85,
+      "to": 2503.77,
+      "sid": 882,
+      "location": 2,
+      "content": "你觉得现在蓝现在好受吗",
+      "music": 0.0
+    },
+    {
+      "from": 2503.77,
+      "to": 2505.11,
+      "sid": 883,
+      "location": 2,
+      "content": "现在也不好受",
+      "music": 0.0
+    },
+    {
+      "from": 2505.11,
+      "to": 2510.649,
+      "sid": 884,
+      "location": 2,
+      "content": "只有一把让黑天鹅下来",
+      "music": 0.0
+    },
+    {
+      "from": 2511.049,
+      "to": 2514.029,
+      "sid": 885,
+      "location": 2,
+      "content": "我们才有开启新一轮周期的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 2514.029,
+      "to": 2518.709,
+      "sid": 886,
+      "location": 2,
+      "content": "才会等到它出现一个增值周期的一个可能性好",
+      "music": 0.0
+    },
+    {
+      "from": 2518.709,
+      "to": 2522.48,
+      "sid": 887,
+      "location": 2,
+      "content": "这里我们说一下6月份的一些事",
+      "music": 0.0
+    },
+    {
+      "from": 2522.48,
+      "to": 2523.92,
+      "sid": 888,
+      "location": 2,
+      "content": "一些问题哈",
+      "music": 0.0
+    },
+    {
+      "from": 2523.92,
+      "to": 2527.2,
+      "sid": 889,
+      "location": 2,
+      "content": "那么首先有几个事件大家是需要记一下",
+      "music": 0.0
+    },
+    {
+      "from": 2527.2,
+      "to": 2531.08,
+      "sid": 890,
+      "location": 2,
+      "content": "就是在6月10号左右哈",
+      "music": 0.0
+    },
+    {
+      "from": 2531.08,
+      "to": 2534.109,
+      "sid": 891,
+      "location": 2,
+      "content": "市场大会出现一些比较重要的分界点",
+      "music": 0.0
+    },
+    {
+      "from": 2534.669,
+      "to": 2536.069,
+      "sid": 892,
+      "location": 2,
+      "content": "6月11号世界杯开幕",
+      "music": 0.0
+    },
+    {
+      "from": 2536.069,
+      "to": 2538.19,
+      "sid": 893,
+      "location": 2,
+      "content": "6月12号沪深300调整",
+      "music": 0.0
+    },
+    {
+      "from": 2538.39,
+      "to": 2540.39,
+      "sid": 894,
+      "location": 2,
+      "content": "6月18号啊",
+      "music": 0.0
+    },
+    {
+      "from": 2540.39,
+      "to": 2543.59,
+      "sid": 895,
+      "location": 2,
+      "content": "美联储议息这三个我们已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 2543.59,
+      "to": 2546.11,
+      "sid": 896,
+      "location": 2,
+      "content": "那么在6月20号前后呢",
+      "music": 0.0
+    },
+    {
+      "from": 2546.589,
+      "to": 2550.74,
+      "sid": 897,
+      "location": 2,
+      "content": "两存之一中的一存可能会出现打新",
+      "music": 0.0
+    },
+    {
+      "from": 2551.1,
+      "to": 2553.22,
+      "sid": 898,
+      "location": 2,
+      "content": "最后啊我们进行总结一下",
+      "music": 0.0
+    },
+    {
+      "from": 2554.66,
+      "to": 2558.94,
+      "sid": 899,
+      "location": 2,
+      "content": "那本期我们所有的内容其实都在讲一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 2559.34,
+      "to": 2562.43,
+      "sid": 900,
+      "location": 2,
+      "content": "保持耐心等待正值周期",
+      "music": 0.0
+    },
+    {
+      "from": 2562.43,
+      "to": 2564.65,
+      "sid": 901,
+      "location": 2,
+      "content": "现在的情况就是进入了一个尾段",
+      "music": 0.0
+    },
+    {
+      "from": 2564.65,
+      "to": 2565.95,
+      "sid": 902,
+      "location": 2,
+      "content": "汇金的减持",
+      "music": 0.0
+    },
+    {
+      "from": 2565.95,
+      "to": 2566.91,
+      "sid": 903,
+      "location": 2,
+      "content": "汇金的减持",
+      "music": 0.0
+    },
+    {
+      "from": 2566.91,
+      "to": 2569.63,
+      "sid": 904,
+      "location": 2,
+      "content": "它已经完成了两个大的ETF的",
+      "music": 0.0
+    },
+    {
+      "from": 2569.63,
+      "to": 2571.44,
+      "sid": 905,
+      "location": 2,
+      "content": "85%以上的减持",
+      "music": 0.0
+    },
+    {
+      "from": 2571.44,
+      "to": 2572.74,
+      "sid": 906,
+      "location": 2,
+      "content": "所以逻辑上讲",
+      "music": 0.0
+    },
+    {
+      "from": 2572.74,
+      "to": 2574.4,
+      "sid": 907,
+      "location": 2,
+      "content": "我们对于当下的市场环境",
+      "music": 0.0
+    },
+    {
+      "from": 2574.4,
+      "to": 2577.99,
+      "sid": 908,
+      "location": 2,
+      "content": "其实适应应该是要确定下一个周期",
+      "music": 0.0
+    },
+    {
+      "from": 2577.99,
+      "to": 2581.17,
+      "sid": 909,
+      "location": 2,
+      "content": "不要再在这个周期去浪费太多的时间了",
+      "music": 0.0
+    },
+    {
+      "from": 2581.17,
+      "to": 2583.51,
+      "sid": 910,
+      "location": 2,
+      "content": "因为你难受就对了",
+      "music": 0.0
+    },
+    {
+      "from": 2584.15,
+      "to": 2586.59,
+      "sid": 911,
+      "location": 2,
+      "content": "在市场趋势并未完全明朗之前啊",
+      "music": 0.0
+    },
+    {
+      "from": 2586.59,
+      "to": 2588.41,
+      "sid": 912,
+      "location": 2,
+      "content": "我们不要过于的激进",
+      "music": 0.0
+    },
+    {
+      "from": 2588.41,
+      "to": 2591.45,
+      "sid": 913,
+      "location": 2,
+      "content": "而是还是应该坚持以时间换空间",
+      "music": 0.0
+    },
+    {
+      "from": 2591.45,
+      "to": 2594.33,
+      "sid": 914,
+      "location": 2,
+      "content": "我个人的逻辑就是当你看不懂的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2595.61,
+      "to": 2597.5,
+      "sid": 915,
+      "location": 2,
+      "content": "少做少错",
+      "music": 0.0
+    },
+    {
+      "from": 2597.82,
+      "to": 2599.62,
+      "sid": 916,
+      "location": 2,
+      "content": "安静等待确定性出现",
+      "music": 0.0
+    },
+    {
+      "from": 2599.62,
+      "to": 2601.97,
+      "sid": 917,
+      "location": 2,
+      "content": "我们等待的时机呀",
+      "music": 0.0
+    },
+    {
+      "from": 2601.97,
+      "to": 2605.77,
+      "sid": 918,
+      "location": 2,
+      "content": "是所有追踪汇进的ETF出现放量增持",
+      "music": 0.0
+    },
+    {
+      "from": 2605.77,
+      "to": 2608.25,
+      "sid": 919,
+      "location": 2,
+      "content": "并且持续一周",
+      "music": 0.0
+    },
+    {
+      "from": 2608.77,
+      "to": 2611.79,
+      "sid": 920,
+      "location": 2,
+      "content": "在这在这他没有持续一周之前啊",
+      "music": 0.0
+    },
+    {
+      "from": 2611.79,
+      "to": 2614.37,
+      "sid": 921,
+      "location": 2,
+      "content": "我们是不要有太多的操作",
+      "music": 0.0
+    },
+    {
+      "from": 2614.37,
+      "to": 2615.23,
+      "sid": 922,
+      "location": 2,
+      "content": "观望就好",
+      "music": 0.0
+    },
+    {
+      "from": 2615.23,
+      "to": 2617.319,
+      "sid": 923,
+      "location": 2,
+      "content": "也不要仰望别人",
+      "music": 0.0
+    },
+    {
+      "from": 2617.839,
+      "to": 2622.42,
+      "sid": 924,
+      "location": 2,
+      "content": "安静等待会见的政治周期好了",
+      "music": 0.0
+    },
+    {
+      "from": 2622.42,
+      "to": 2625.02,
+      "sid": 925,
+      "location": 2,
+      "content": "以上就是全部内容",
+      "music": 0.0
+    },
+    {
+      "from": 2625.56,
+      "to": 2626.52,
+      "sid": 926,
+      "location": 2,
+      "content": "最终的结果",
+      "music": 0.0
+    },
+    {
+      "from": 2626.52,
+      "to": 2629.7,
+      "sid": 927,
+      "location": 2,
+      "content": "其实是还是希望大家能够保持耐心啊",
+      "music": 0.0
+    },
+    {
+      "from": 2629.7,
+      "to": 2630.68,
+      "sid": 928,
+      "location": 2,
+      "content": "保持耐心",
+      "music": 0.0
+    },
+    {
+      "from": 2630.68,
+      "to": 2633.37,
+      "sid": 929,
+      "location": 2,
+      "content": "最后我们也可以说一个小乐子哈",
+      "music": 0.0
+    },
+    {
+      "from": 2633.37,
+      "to": 2636.49,
+      "sid": 930,
+      "location": 2,
+      "content": "其实现在的整个情绪啊已经比较极端了",
+      "music": 0.0
+    },
+    {
+      "from": 2636.49,
+      "to": 2640.93,
+      "sid": 931,
+      "location": 2,
+      "content": "这是昨天刘继鹏教授他的直播一个截图哈",
+      "music": 0.0
+    },
+    {
+      "from": 2640.93,
+      "to": 2645.06,
+      "sid": 932,
+      "location": 2,
+      "content": "大家可以看到基本上整个弹幕上都在刷两个字",
+      "music": 0.0
+    },
+    {
+      "from": 2645.06,
+      "to": 2648.22,
+      "sid": 933,
+      "location": 2,
+      "content": "所以这已经表明情绪比较极端了",
+      "music": 0.0
+    },
+    {
+      "from": 2648.22,
+      "to": 2650.36,
+      "sid": 934,
+      "location": 2,
+      "content": "每年调仓换股的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2650.36,
+      "to": 2653.68,
+      "sid": 935,
+      "location": 2,
+      "content": "他是不它的波动是会非常剧烈的",
+      "music": 0.0
+    },
+    {
+      "from": 2653.68,
+      "to": 2657.1,
+      "sid": 936,
+      "location": 2,
+      "content": "因为这个是为什么会造成这个原因的呢",
+      "music": 0.0
+    },
+    {
+      "from": 2657.1,
+      "to": 2658.88,
+      "sid": 937,
+      "location": 2,
+      "content": "是因为规则导致的",
+      "music": 0.0
+    },
+    {
+      "from": 2658.88,
+      "to": 2661.08,
+      "sid": 938,
+      "location": 2,
+      "content": "你ETF调仓换股",
+      "music": 0.0
+    },
+    {
+      "from": 2661.08,
+      "to": 2664.61,
+      "sid": 939,
+      "location": 2,
+      "content": "你必须在结束日之前完成调仓换股",
+      "music": 0.0
+    },
+    {
+      "from": 2664.61,
+      "to": 2667.77,
+      "sid": 940,
+      "location": 2,
+      "content": "那你这段期间这段期间造成的市场冲击",
+      "music": 0.0
+    },
+    {
+      "from": 2667.77,
+      "to": 2670.989,
+      "sid": 941,
+      "location": 2,
+      "content": "等于说是不会有人去追责的",
+      "music": 0.0
+    },
+    {
+      "from": 2670.989,
+      "to": 2673.789,
+      "sid": 942,
+      "location": 2,
+      "content": "甚至说他就是会告诉你这段时间会有冲击",
+      "music": 0.0
+    },
+    {
+      "from": 2673.789,
+      "to": 2677.73,
+      "sid": 943,
+      "location": 2,
+      "content": "那你干嘛要在这个不好做的时间点去做呢",
+      "music": 0.0
+    },
+    {
+      "from": 2677.93,
+      "to": 2679.45,
+      "sid": 944,
+      "location": 2,
+      "content": "所以大家安静等待",
+      "music": 0.0
+    },
+    {
+      "from": 2679.45,
+      "to": 2684.74,
+      "sid": 945,
+      "location": 2,
+      "content": "调仓换股结束之后再进行观望就好啊",
+      "music": 0.0
+    },
+    {
+      "from": 2684.74,
+      "to": 2685.72,
+      "sid": 946,
+      "location": 2,
+      "content": "基本上就是这么多",
+      "music": 0.0
+    },
+    {
+      "from": 2685.72,
+      "to": 2688.59,
+      "sid": 947,
+      "location": 2,
+      "content": "我们看下看下弹幕有什么想问的",
+      "music": 0.0
+    },
+    {
+      "from": 2688.59,
+      "to": 2692.83,
+      "sid": 948,
+      "location": 2,
+      "content": "有没有可能是散户在抄底申购",
+      "music": 0.0
+    },
+    {
+      "from": 2692.83,
+      "to": 2695.29,
+      "sid": 949,
+      "location": 2,
+      "content": "兄弟你把我逗笑了",
+      "music": 0.0
+    },
+    {
+      "from": 2695.29,
+      "to": 2696.61,
+      "sid": 950,
+      "location": 2,
+      "content": "我再说一遍啊",
+      "music": 0.0
+    },
+    {
+      "from": 2696.61,
+      "to": 2697.77,
+      "sid": 951,
+      "location": 2,
+      "content": "我给大家再讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 2698.77,
+      "to": 2701.63,
+      "sid": 952,
+      "location": 2,
+      "content": "不可能不可能是散户在抄底哈",
+      "music": 0.0
+    },
+    {
+      "from": 2701.63,
+      "to": 2703.89,
+      "sid": 953,
+      "location": 2,
+      "content": "我跟你们说一下为什么哈",
+      "music": 0.0
+    },
+    {
+      "from": 2704.64,
+      "to": 2706.56,
+      "sid": 954,
+      "location": 2,
+      "content": "ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 2707.47,
+      "to": 2709.23,
+      "sid": 955,
+      "location": 2,
+      "content": "它是有两个逻辑的",
+      "music": 0.0
+    },
+    {
+      "from": 2709.23,
+      "to": 2710.31,
+      "sid": 956,
+      "location": 2,
+      "content": "两个市场",
+      "music": 0.0
+    },
+    {
+      "from": 2710.31,
+      "to": 2713.35,
+      "sid": 957,
+      "location": 2,
+      "content": "一级市场和二级市场",
+      "music": 0.0
+    },
+    {
+      "from": 2713.35,
+      "to": 2718.67,
+      "sid": 958,
+      "location": 2,
+      "content": "我们散户买卖的场内ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 2718.67,
+      "to": 2720.39,
+      "sid": 959,
+      "location": 2,
+      "content": "都是二级市场",
+      "music": 0.0
+    },
+    {
+      "from": 2720.39,
+      "to": 2722.89,
+      "sid": 960,
+      "location": 2,
+      "content": "二级市场就是你卖给我",
+      "music": 0.0
+    },
+    {
+      "from": 2722.89,
+      "to": 2723.97,
+      "sid": 961,
+      "location": 2,
+      "content": "我卖给你",
+      "music": 0.0
+    },
+    {
+      "from": 2723.97,
+      "to": 2725.61,
+      "sid": 962,
+      "location": 2,
+      "content": "券商收购手续费",
+      "music": 0.0
+    },
+    {
+      "from": 2725.61,
+      "to": 2728.04,
+      "sid": 963,
+      "location": 2,
+      "content": "它不会导致份额变化",
+      "music": 0.0
+    },
+    {
+      "from": 2728.04,
+      "to": 2731.73,
+      "sid": 964,
+      "location": 2,
+      "content": "份额不变",
+      "music": 0.0
+    },
+    {
+      "from": 2731.73,
+      "to": 2734.59,
+      "sid": 965,
+      "location": 2,
+      "content": "那么一级市场的规则是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 2734.59,
+      "to": 2736.79,
+      "sid": 966,
+      "location": 2,
+      "content": "机构为主",
+      "music": 0.0
+    },
+    {
+      "from": 2736.79,
+      "to": 2738.31,
+      "sid": 967,
+      "location": 2,
+      "content": "占据了95%以上",
+      "music": 0.0
+    },
+    {
+      "from": 2738.31,
+      "to": 2739.23,
+      "sid": 968,
+      "location": 2,
+      "content": "还99%",
+      "music": 0.0
+    },
+    {
+      "from": 2739.23,
+      "to": 2739.93,
+      "sid": 969,
+      "location": 2,
+      "content": "你不用想了",
+      "music": 0.0
+    },
+    {
+      "from": 2739.93,
+      "to": 2741.18,
+      "sid": 970,
+      "location": 2,
+      "content": "就是99%以上",
+      "music": 0.0
+    },
+    {
+      "from": 2741.18,
+      "to": 2742.76,
+      "sid": 971,
+      "location": 2,
+      "content": "他可以拿成份股",
+      "music": 0.0
+    },
+    {
+      "from": 2742.76,
+      "to": 2746.16,
+      "sid": 972,
+      "location": 2,
+      "content": "他可以拿ETF成分股的一篮子股票",
+      "music": 0.0
+    },
+    {
+      "from": 2746.16,
+      "to": 2749.35,
+      "sid": 973,
+      "location": 2,
+      "content": "换对等价值的ETF份额",
+      "music": 0.0
+    },
+    {
+      "from": 2749.35,
+      "to": 2752.23,
+      "sid": 974,
+      "location": 2,
+      "content": "换ETF份额",
+      "music": 0.0
+    },
+    {
+      "from": 2753.209,
+      "to": 2755.549,
+      "sid": 975,
+      "location": 2,
+      "content": "这是他买入以至申购",
+      "music": 0.0
+    },
+    {
+      "from": 2755.549,
+      "to": 2757.089,
+      "sid": 976,
+      "location": 2,
+      "content": "当他赎回的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2757.089,
+      "to": 2766.1,
+      "sid": 977,
+      "location": 2,
+      "content": "他会用ETF去换成成分股份额减少",
+      "music": 0.0
+    },
+    {
+      "from": 2767.76,
+      "to": 2770.46,
+      "sid": 978,
+      "location": 2,
+      "content": "那现在你散户怎么抄底",
+      "music": 0.0
+    },
+    {
+      "from": 2770.46,
+      "to": 2772.14,
+      "sid": 979,
+      "location": 2,
+      "content": "请问你散户怎么抄底",
+      "music": 0.0
+    },
+    {
+      "from": 2772.14,
+      "to": 2774.36,
+      "sid": 980,
+      "location": 2,
+      "content": "你散户想抄底ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2774.36,
+      "to": 2775.2,
+      "sid": 981,
+      "location": 2,
+      "content": "不可能",
+      "music": 0.0
+    },
+    {
+      "from": 2775.2,
+      "to": 2776.64,
+      "sid": 982,
+      "location": 2,
+      "content": "我们可以认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 2776.64,
+      "to": 2778.88,
+      "sid": 983,
+      "location": 2,
+      "content": "ETF份额的改变啊",
+      "music": 0.0
+    },
+    {
+      "from": 2778.88,
+      "to": 2781.02,
+      "sid": 984,
+      "location": 2,
+      "content": "他基本上就跟散户没关系",
+      "music": 0.0
+    },
+    {
+      "from": 2781.02,
+      "to": 2783.18,
+      "sid": 985,
+      "location": 2,
+      "content": "他一定是这个类这个在做",
+      "music": 0.0
+    },
+    {
+      "from": 2783.18,
+      "to": 2786.14,
+      "sid": 986,
+      "location": 2,
+      "content": "这也是为什么我推荐大家去多关注",
+      "music": 0.0
+    },
+    {
+      "from": 2786.14,
+      "to": 2787.46,
+      "sid": 987,
+      "location": 2,
+      "content": "ETV的份额的原因",
+      "music": 0.0
+    },
+    {
+      "from": 2787.46,
+      "to": 2791.94,
+      "sid": 988,
+      "location": 2,
+      "content": "因为他就是这个做你你汪汪队也好汪啊",
+      "music": 0.0
+    },
+    {
+      "from": 2791.94,
+      "to": 2792.94,
+      "sid": 989,
+      "location": 2,
+      "content": "在我们再讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 2792.94,
+      "to": 2794.3,
+      "sid": 990,
+      "location": 2,
+      "content": "再讲一下另外一个信息啊",
+      "music": 0.0
+    },
+    {
+      "from": 2794.3,
+      "to": 2796.66,
+      "sid": 991,
+      "location": 2,
+      "content": "可能是我的疏忽没有跟大家讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 2796.66,
+      "to": 2798.62,
+      "sid": 992,
+      "location": 2,
+      "content": "我们一直在说这个汇金",
+      "music": 0.0
+    },
+    {
+      "from": 2798.62,
+      "to": 2802.04,
+      "sid": 993,
+      "location": 2,
+      "content": "汇金汇金它只是一家公司",
+      "music": 0.0
+    },
+    {
+      "from": 2802.04,
+      "to": 2803.9,
+      "sid": 994,
+      "location": 2,
+      "content": "他不干活",
+      "music": 0.0
+    },
+    {
+      "from": 2804.18,
+      "to": 2806.82,
+      "sid": 995,
+      "location": 2,
+      "content": "他会下发给自己的资管",
+      "music": 0.0
+    },
+    {
+      "from": 2806.82,
+      "to": 2808.12,
+      "sid": 996,
+      "location": 2,
+      "content": "资管公司",
+      "music": 0.0
+    },
+    {
+      "from": 2808.12,
+      "to": 2811.45,
+      "sid": 997,
+      "location": 2,
+      "content": "资管公司找代理的机构",
+      "music": 0.0
+    },
+    {
+      "from": 2811.45,
+      "to": 2812.77,
+      "sid": 998,
+      "location": 2,
+      "content": "代理的机构持仓",
+      "music": 0.0
+    },
+    {
+      "from": 2812.77,
+      "to": 2815.19,
+      "sid": 999,
+      "location": 2,
+      "content": "那么最终还是回到了机构这里",
+      "music": 0.0
+    },
+    {
+      "from": 2815.19,
+      "to": 2818.62,
+      "sid": 1000,
+      "location": 2,
+      "content": "所以汇金最终会落到机构这里",
+      "music": 0.0
+    },
+    {
+      "from": 2818.62,
+      "to": 2821.18,
+      "sid": 1001,
+      "location": 2,
+      "content": "ETF份额的改变基本上就是机构在操作",
+      "music": 0.0
+    },
+    {
+      "from": 2821.18,
+      "to": 2823.1,
+      "sid": 1002,
+      "location": 2,
+      "content": "所以我们关注机构",
+      "music": 0.0
+    },
+    {
+      "from": 2823.1,
+      "to": 2824.7,
+      "sid": 1003,
+      "location": 2,
+      "content": "你可你可能说啊",
+      "music": 0.0
+    },
+    {
+      "from": 2824.7,
+      "to": 2826.26,
+      "sid": 1004,
+      "location": 2,
+      "content": "你一天的数据有问题",
+      "music": 0.0
+    },
+    {
+      "from": 2826.26,
+      "to": 2827.66,
+      "sid": 1005,
+      "location": 2,
+      "content": "那我拉长到一个月",
+      "music": 0.0
+    },
+    {
+      "from": 2827.66,
+      "to": 2828.38,
+      "sid": 1006,
+      "location": 2,
+      "content": "你有没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 2828.38,
+      "to": 2830.91,
+      "sid": 1007,
+      "location": 2,
+      "content": "你一个月你会精神守约的人不干活啊",
+      "music": 0.0
+    },
+    {
+      "from": 2830.91,
+      "to": 2834.09,
+      "sid": 1008,
+      "location": 2,
+      "content": "怎么可能我当时那一年我当成半年",
+      "music": 0.0
+    },
+    {
+      "from": 2834.09,
+      "to": 2835.59,
+      "sid": 1009,
+      "location": 2,
+      "content": "你汇进公示持仓之中",
+      "music": 0.0
+    },
+    {
+      "from": 2835.59,
+      "to": 2837.25,
+      "sid": 1010,
+      "location": 2,
+      "content": "你一你的机构一定在动啊",
+      "music": 0.0
+    },
+    {
+      "from": 2837.25,
+      "to": 2839.18,
+      "sid": 1011,
+      "location": 2,
+      "content": "那么你的份额一定是在变啊",
+      "music": 0.0
+    },
+    {
+      "from": 2839.18,
+      "to": 2841.94,
+      "sid": 1012,
+      "location": 2,
+      "content": "你机构的工作就是变他的份额",
+      "music": 0.0
+    },
+    {
+      "from": 2841.94,
+      "to": 2845.55,
+      "sid": 1013,
+      "location": 2,
+      "content": "那我追踪份额肯定能找到你机构嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2845.99,
+      "to": 2850.569,
+      "sid": 1014,
+      "location": 2,
+      "content": "所以这位朋友有没有可能果断让这位朋友",
+      "music": 0.0
+    },
+    {
+      "from": 2850.569,
+      "to": 2852.669,
+      "sid": 1015,
+      "location": 2,
+      "content": "有没有可能是散户在抄底申购",
+      "music": 0.0
+    },
+    {
+      "from": 2852.669,
+      "to": 2854.389,
+      "sid": 1016,
+      "location": 2,
+      "content": "答案是不可能好",
+      "music": 0.0
+    },
+    {
+      "from": 2854.389,
+      "to": 2857.08,
+      "sid": 1017,
+      "location": 2,
+      "content": "我们继续看卖掉的份额去哪里了",
+      "music": 0.0
+    },
+    {
+      "from": 2857.08,
+      "to": 2858.72,
+      "sid": 1018,
+      "location": 2,
+      "content": "卖掉的份额换成股票了",
+      "music": 0.0
+    },
+    {
+      "from": 2858.72,
+      "to": 2860.16,
+      "sid": 1019,
+      "location": 2,
+      "content": "8亿很多吗",
+      "music": 0.0
+    },
+    {
+      "from": 2860.16,
+      "to": 2863.13,
+      "sid": 1020,
+      "location": 2,
+      "content": "8亿一天8亿是很多的",
+      "music": 0.0
+    },
+    {
+      "from": 2863.13,
+      "to": 2867.41,
+      "sid": 1021,
+      "location": 2,
+      "content": "因为它的净值大概是三块或者两块",
+      "music": 0.0
+    },
+    {
+      "from": 2867.41,
+      "to": 2868.69,
+      "sid": 1022,
+      "location": 2,
+      "content": "那么一天8亿",
+      "music": 0.0
+    },
+    {
+      "from": 2868.69,
+      "to": 2870.49,
+      "sid": 1023,
+      "location": 2,
+      "content": "这里的流入就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 2870.49,
+      "to": 2872.85,
+      "sid": 1024,
+      "location": 2,
+      "content": "十几12个亿或者20个亿左右",
+      "music": 0.0
+    },
+    {
+      "from": 2872.85,
+      "to": 2875.68,
+      "sid": 1025,
+      "location": 2,
+      "content": "但是这里我们只说了一个ETF啊",
+      "music": 0.0
+    },
+    {
+      "from": 2875.68,
+      "to": 2879.2,
+      "sid": 1026,
+      "location": 2,
+      "content": "你同样的科创五零或者eta或上证五零",
+      "music": 0.0
+    },
+    {
+      "from": 2879.2,
+      "to": 2880.09,
+      "sid": 1027,
+      "location": 2,
+      "content": "它的ETF",
+      "music": 0.0
+    },
+    {
+      "from": 2880.09,
+      "to": 2883.11,
+      "sid": 1028,
+      "location": 2,
+      "content": "同时市场上应该是会存在5~10个左右",
+      "music": 0.0
+    },
+    {
+      "from": 2883.11,
+      "to": 2884.47,
+      "sid": 1029,
+      "location": 2,
+      "content": "那你把这个乘上去",
+      "music": 0.0
+    },
+    {
+      "from": 2884.47,
+      "to": 2886.53,
+      "sid": 1030,
+      "location": 2,
+      "content": "它的份额就比较多了",
+      "music": 0.0
+    },
+    {
+      "from": 2886.96,
+      "to": 2888.44,
+      "sid": 1031,
+      "location": 2,
+      "content": "我们我们只分析数据",
+      "music": 0.0
+    },
+    {
+      "from": 2888.44,
+      "to": 2890.44,
+      "sid": 1032,
+      "location": 2,
+      "content": "不构成任何投资建议哈",
+      "music": 0.0
+    },
+    {
+      "from": 2890.929,
+      "to": 2892.569,
+      "sid": 1033,
+      "location": 2,
+      "content": "下次要等待好几年吧",
+      "music": 0.0
+    },
+    {
+      "from": 2892.569,
+      "to": 2894.029,
+      "sid": 1034,
+      "location": 2,
+      "content": "好我们来回答这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2894.029,
+      "to": 2895.909,
+      "sid": 1035,
+      "location": 2,
+      "content": "下次是否要等好几年",
+      "music": 0.0
+    },
+    {
+      "from": 2895.909,
+      "to": 2899.169,
+      "sid": 1036,
+      "location": 2,
+      "content": "下一次的会进的周期是否要等好几年",
+      "music": 0.0
+    },
+    {
+      "from": 2899.169,
+      "to": 2900.1,
+      "sid": 1037,
+      "location": 2,
+      "content": "这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2900.1,
+      "to": 2901.98,
+      "sid": 1038,
+      "location": 2,
+      "content": "首先我们要确定的是呃",
+      "music": 0.0
+    },
+    {
+      "from": 2901.98,
+      "to": 2905.02,
+      "sid": 1039,
+      "location": 2,
+      "content": "汇金的在2023年",
+      "music": 0.0
+    },
+    {
+      "from": 2905.02,
+      "to": 2907.08,
+      "sid": 1040,
+      "location": 2,
+      "content": "在沪深300的呃",
+      "music": 0.0
+    },
+    {
+      "from": 2907.08,
+      "to": 2907.76,
+      "sid": 1041,
+      "location": 2,
+      "content": "公示信息中",
+      "music": 0.0
+    },
+    {
+      "from": 2907.76,
+      "to": 2909.1,
+      "sid": 1042,
+      "location": 2,
+      "content": "他的持仓只有12%",
+      "music": 0.0
+    },
+    {
+      "from": 2909.1,
+      "to": 2910.32,
+      "sid": 1043,
+      "location": 2,
+      "content": "如果我没记错的话",
+      "music": 0.0
+    },
+    {
+      "from": 2910.32,
+      "to": 2912.12,
+      "sid": 1044,
+      "location": 2,
+      "content": "这里是我个人潘老大说的哈",
+      "music": 0.0
+    },
+    {
+      "from": 2912.12,
+      "to": 2913.24,
+      "sid": 1045,
+      "location": 2,
+      "content": "大家可以去看一下",
+      "music": 0.0
+    },
+    {
+      "from": 2913.24,
+      "to": 2915.51,
+      "sid": 1046,
+      "location": 2,
+      "content": "那么在2025年",
+      "music": 0.0
+    },
+    {
+      "from": 2915.51,
+      "to": 2918.25,
+      "sid": 1047,
+      "location": 2,
+      "content": "应该是2025年的12月份",
+      "music": 0.0
+    },
+    {
+      "from": 2918.25,
+      "to": 2921.42,
+      "sid": 1048,
+      "location": 2,
+      "content": "汇金的持仓占比是86%",
+      "music": 0.0
+    },
+    {
+      "from": 2921.86,
+      "to": 2923.48,
+      "sid": 1049,
+      "location": 2,
+      "content": "现在是2026年",
+      "music": 0.0
+    },
+    {
+      "from": 2923.48,
+      "to": 2925.86,
+      "sid": 1050,
+      "location": 2,
+      "content": "现在是2026年的5月份",
+      "music": 0.0
+    },
+    {
+      "from": 2925.86,
+      "to": 2926.94,
+      "sid": 1051,
+      "location": 2,
+      "content": "汇金的持仓占比",
+      "music": 0.0
+    },
+    {
+      "from": 2926.94,
+      "to": 2929.47,
+      "sid": 1052,
+      "location": 2,
+      "content": "按照我们的估计是在14%啊",
+      "music": 0.0
+    },
+    {
+      "from": 2929.47,
+      "to": 2930.95,
+      "sid": 1053,
+      "location": 2,
+      "content": "沪深300可能不止14%",
+      "music": 0.0
+    },
+    {
+      "from": 2930.95,
+      "to": 2933.03,
+      "sid": 1054,
+      "location": 2,
+      "content": "沪深300应该是26%",
+      "music": 0.0
+    },
+    {
+      "from": 2936.32,
+      "to": 2937.44,
+      "sid": 1055,
+      "location": 2,
+      "content": "26%",
+      "music": 0.0
+    },
+    {
+      "from": 2937.44,
+      "to": 2940.7,
+      "sid": 1056,
+      "location": 2,
+      "content": "那么如果我们以这样一个为周期的话",
+      "music": 0.0
+    },
+    {
+      "from": 2940.7,
+      "to": 2943.77,
+      "sid": 1057,
+      "location": 2,
+      "content": "那么我们可以判断是大概是3年",
+      "music": 0.0
+    },
+    {
+      "from": 2944.33,
+      "to": 2946.17,
+      "sid": 1058,
+      "location": 2,
+      "content": "大概是3年",
+      "music": 0.0
+    },
+    {
+      "from": 2946.17,
+      "to": 2948.03,
+      "sid": 1059,
+      "location": 2,
+      "content": "这是整个大周期",
+      "music": 0.0
+    },
+    {
+      "from": 2948.03,
+      "to": 2951.529,
+      "sid": 1060,
+      "location": 2,
+      "content": "但是大周期中间又有又有很多的小周期",
+      "music": 0.0
+    },
+    {
+      "from": 2951.529,
+      "to": 2952.889,
+      "sid": 1061,
+      "location": 2,
+      "content": "同样跟ETF有关",
+      "music": 0.0
+    },
+    {
+      "from": 2952.889,
+      "to": 2958.409,
+      "sid": 1062,
+      "location": 2,
+      "content": "比如说啊我们的12月17日A50",
+      "music": 0.0
+    },
+    {
+      "from": 2959.51,
+      "to": 2962.859,
+      "sid": 1063,
+      "location": 2,
+      "content": "A500应该是A500中证500的一次抱团",
+      "music": 0.0
+    },
+    {
+      "from": 2962.859,
+      "to": 2965.719,
+      "sid": 1064,
+      "location": 2,
+      "content": "他也是在ETF份额上呈现出来的",
+      "music": 0.0
+    },
+    {
+      "from": 2965.719,
+      "to": 2967.279,
+      "sid": 1065,
+      "location": 2,
+      "content": "是一个公募基金的抱团",
+      "music": 0.0
+    },
+    {
+      "from": 2967.279,
+      "to": 2969.439,
+      "sid": 1066,
+      "location": 2,
+      "content": "同样的3月23日",
+      "music": 0.0
+    },
+    {
+      "from": 2969.439,
+      "to": 2971.47,
+      "sid": 1067,
+      "location": 2,
+      "content": "最近的一次暴暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 2971.47,
+      "to": 2973.91,
+      "sid": 1068,
+      "location": 2,
+      "content": "这里大概是下跌了将近",
+      "music": 0.0
+    },
+    {
+      "from": 2973.91,
+      "to": 2975.07,
+      "sid": 1069,
+      "location": 2,
+      "content": "如果我没记错的话",
+      "music": 0.0
+    },
+    {
+      "from": 2975.07,
+      "to": 2976.399,
+      "sid": 1070,
+      "location": 2,
+      "content": "应该是350点",
+      "music": 0.0
+    },
+    {
+      "from": 2976.399,
+      "to": 2978.079,
+      "sid": 1071,
+      "location": 2,
+      "content": "大盘下跌了350点",
+      "music": 0.0
+    },
+    {
+      "from": 2978.079,
+      "to": 2981.66,
+      "sid": 1072,
+      "location": 2,
+      "content": "3月23日大概下大盘下跌了400点",
+      "music": 0.0
+    },
+    {
+      "from": 2982.14,
+      "to": 2984.34,
+      "sid": 1073,
+      "location": 2,
+      "content": "当大盘下跌的话",
+      "music": 0.0
+    },
+    {
+      "from": 2984.34,
+      "to": 2986.64,
+      "sid": 1074,
+      "location": 2,
+      "content": "一年大概有两到四次左右",
+      "music": 0.0
+    },
+    {
+      "from": 2986.64,
+      "to": 2989.34,
+      "sid": 1075,
+      "location": 2,
+      "content": "就是有回踩大周期",
+      "music": 0.0
+    },
+    {
+      "from": 2989.34,
+      "to": 2997.44,
+      "sid": 1076,
+      "location": 2,
+      "content": "就汇金大周期一次是3年",
+      "music": 0.0
+    },
+    {
+      "from": 3000.26,
+      "to": 3000.86,
+      "sid": 1077,
+      "location": 2,
+      "content": "3年",
+      "music": 0.0
+    },
+    {
+      "from": 3003.18,
+      "to": 3004.46,
+      "sid": 1078,
+      "location": 2,
+      "content": "小周期",
+      "music": 0.0
+    },
+    {
+      "from": 3006.18,
+      "to": 3010.98,
+      "sid": 1079,
+      "location": 2,
+      "content": "小周期大概是半年一次",
+      "music": 0.0
+    },
+    {
+      "from": 3012.23,
+      "to": 3015.07,
+      "sid": 1080,
+      "location": 2,
+      "content": "一次共同点是什么",
+      "music": 0.0
+    },
+    {
+      "from": 3016.43,
+      "to": 3018.23,
+      "sid": 1081,
+      "location": 2,
+      "content": "共同点是这两个字",
+      "music": 0.0
+    },
+    {
+      "from": 3020.84,
+      "to": 3023.94,
+      "sid": 1082,
+      "location": 2,
+      "content": "所以大家平常如果没时间也可以不用跨过",
+      "music": 0.0
+    },
+    {
+      "from": 3023.94,
+      "to": 3025.08,
+      "sid": 1083,
+      "location": 2,
+      "content": "不用过于关注",
+      "music": 0.0
+    },
+    {
+      "from": 3025.08,
+      "to": 3026.74,
+      "sid": 1084,
+      "location": 2,
+      "content": "当发生这两个字的时候",
+      "music": 0.0
+    },
+    {
+      "from": 3026.74,
+      "to": 3029.9,
+      "sid": 1085,
+      "location": 2,
+      "content": "大家来看就知道是什么意思了",
+      "music": 0.0
+    },
+    {
+      "from": 3030.06,
+      "to": 3032.38,
+      "sid": 1086,
+      "location": 2,
+      "content": "半年一次或者两次",
+      "music": 0.0
+    },
+    {
+      "from": 3032.38,
+      "to": 3033.3,
+      "sid": 1087,
+      "location": 2,
+      "content": "比如说4月7号",
+      "music": 0.0
+    },
+    {
+      "from": 3034.7,
+      "to": 3036.66,
+      "sid": 1088,
+      "location": 2,
+      "content": "25年的4月7号",
+      "music": 0.0
+    },
+    {
+      "from": 3037.45,
+      "to": 3039.529,
+      "sid": 1089,
+      "location": 2,
+      "content": "其实如果从周期上讲",
+      "music": 0.0
+    },
+    {
+      "from": 3039.529,
+      "to": 3040.969,
+      "sid": 1090,
+      "location": 2,
+      "content": "他的大周期是3年",
+      "music": 0.0
+    },
+    {
+      "from": 3040.969,
+      "to": 3042.969,
+      "sid": 1091,
+      "location": 2,
+      "content": "小周期其实是当下减持的",
+      "music": 0.0
+    },
+    {
+      "from": 3042.969,
+      "to": 3044.909,
+      "sid": 1092,
+      "location": 2,
+      "content": "其实是这一天增加的",
+      "music": 0.0
+    },
+    {
+      "from": 3044.909,
+      "to": 3048.79,
+      "sid": 1093,
+      "location": 2,
+      "content": "4月7号和现在是5月29日",
+      "music": 0.0
+    },
+    {
+      "from": 3048.79,
+      "to": 3052.64,
+      "sid": 1094,
+      "location": 2,
+      "content": "其实一年最近的汇金活动是一年",
+      "music": 0.0
+    },
+    {
+      "from": 3052.64,
+      "to": 3054.0,
+      "sid": 1095,
+      "location": 2,
+      "content": "因为我们啊",
+      "music": 0.0
+    },
+    {
+      "from": 3054.0,
+      "to": 3057.48,
+      "sid": 1096,
+      "location": 2,
+      "content": "未来的政策会转向于整个股市的市场",
+      "music": 0.0
+    },
+    {
+      "from": 3057.48,
+      "to": 3060.93,
+      "sid": 1097,
+      "location": 2,
+      "content": "所以汇金它作为一个呃他的工作",
+      "music": 0.0
+    },
+    {
+      "from": 3060.93,
+      "to": 3062.65,
+      "sid": 1098,
+      "location": 2,
+      "content": "相比于之前的3年",
+      "music": 0.0
+    },
+    {
+      "from": 3062.65,
+      "to": 3064.96,
+      "sid": 1099,
+      "location": 2,
+      "content": "我个人觉得他是会提速的",
+      "music": 0.0
+    },
+    {
+      "from": 3064.96,
+      "to": 3068.52,
+      "sid": 1100,
+      "location": 2,
+      "content": "等什么时候他不需要这种大大级别的变化",
+      "music": 0.0
+    },
+    {
+      "from": 3068.52,
+      "to": 3070.74,
+      "sid": 1101,
+      "location": 2,
+      "content": "才表明我们市场在变好",
+      "music": 0.0
+    },
+    {
+      "from": 3070.74,
+      "to": 3074.27,
+      "sid": 1102,
+      "location": 2,
+      "content": "所以你你想说这样一一次要多久",
+      "music": 0.0
+    },
+    {
+      "from": 3074.27,
+      "to": 3076.53,
+      "sid": 1103,
+      "location": 2,
+      "content": "最迟一次是3年",
+      "music": 0.0
+    },
+    {
+      "from": 3076.53,
+      "to": 3078.59,
+      "sid": 1104,
+      "location": 2,
+      "content": "最近的一次是一年",
+      "music": 0.0
+    },
+    {
+      "from": 3078.59,
+      "to": 3080.29,
+      "sid": 1105,
+      "location": 2,
+      "content": "小周期是半年",
+      "music": 0.0
+    },
+    {
+      "from": 3080.29,
+      "to": 3082.51,
+      "sid": 1106,
+      "location": 2,
+      "content": "甚至说半年已经持续两次了",
+      "music": 0.0
+    },
+    {
+      "from": 3082.51,
+      "to": 3084.47,
+      "sid": 1107,
+      "location": 2,
+      "content": "去年12月17日一次",
+      "music": 0.0
+    },
+    {
+      "from": 3084.47,
+      "to": 3086.55,
+      "sid": 1108,
+      "location": 2,
+      "content": "今年3月23日一次",
+      "music": 0.0
+    },
+    {
+      "from": 3086.55,
+      "to": 3092.03,
+      "sid": 1109,
+      "location": 2,
+      "content": "半年两次好充电视频我建议做成充电的呃",
+      "music": 0.0
+    },
+    {
+      "from": 3092.03,
+      "to": 3095.75,
+      "sid": 1110,
+      "location": 2,
+      "content": "其实这个朋友我们第一期还是不做人工充电吧",
+      "music": 0.0
+    },
+    {
+      "from": 3095.75,
+      "to": 3098.09,
+      "sid": 1111,
+      "location": 2,
+      "content": "从第二期或者第三期再做人充电",
+      "music": 0.0
+    },
+    {
+      "from": 3098.09,
+      "to": 3099.45,
+      "sid": 1112,
+      "location": 2,
+      "content": "其实大家说的也很对",
+      "music": 0.0
+    },
+    {
+      "from": 3099.45,
+      "to": 3102.75,
+      "sid": 1113,
+      "location": 2,
+      "content": "因为这些信息而被太多人看到的话",
+      "music": 0.0
+    },
+    {
+      "from": 3102.75,
+      "to": 3105.23,
+      "sid": 1114,
+      "location": 2,
+      "content": "那么就表明市场的反应",
+      "music": 0.0
+    },
+    {
+      "from": 3105.23,
+      "to": 3106.99,
+      "sid": 1115,
+      "location": 2,
+      "content": "汇金会被针",
+      "music": 0.0
+    },
+    {
+      "from": 3106.99,
+      "to": 3108.67,
+      "sid": 1116,
+      "location": 2,
+      "content": "汇金会调整机构",
+      "music": 0.0
+    },
+    {
+      "from": 3108.67,
+      "to": 3109.67,
+      "sid": 1117,
+      "location": 2,
+      "content": "它也会调整",
+      "music": 0.0
+    },
+    {
+      "from": 3109.67,
+      "to": 3113.26,
+      "sid": 1118,
+      "location": 2,
+      "content": "那么它的操作手法会因为我们的呃持续追踪",
+      "music": 0.0
+    },
+    {
+      "from": 3113.26,
+      "to": 3114.36,
+      "sid": 1119,
+      "location": 2,
+      "content": "热度上来之后",
+      "music": 0.0
+    },
+    {
+      "from": 3114.36,
+      "to": 3115.48,
+      "sid": 1120,
+      "location": 2,
+      "content": "他会进行改变",
+      "music": 0.0
+    },
+    {
+      "from": 3115.48,
+      "to": 3118.32,
+      "sid": 1121,
+      "location": 2,
+      "content": "所以其实是越少人知道的东西",
+      "music": 0.0
+    },
+    {
+      "from": 3118.32,
+      "to": 3120.93,
+      "sid": 1122,
+      "location": 2,
+      "content": "才在这个市场越有用",
+      "music": 0.0
+    },
+    {
+      "from": 3121.29,
+      "to": 3122.65,
+      "sid": 1123,
+      "location": 2,
+      "content": "说一点红利和现金流",
+      "music": 0.0
+    },
+    {
+      "from": 3122.65,
+      "to": 3125.45,
+      "sid": 1124,
+      "location": 2,
+      "content": "现在我们操作额红利和现金流",
+      "music": 0.0
+    },
+    {
+      "from": 3125.45,
+      "to": 3126.35,
+      "sid": 1125,
+      "location": 2,
+      "content": "现金流我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 3126.35,
+      "to": 3128.73,
+      "sid": 1126,
+      "location": 2,
+      "content": "现金流我不是很专业",
+      "music": 0.0
+    },
+    {
+      "from": 3128.73,
+      "to": 3131.49,
+      "sid": 1127,
+      "location": 2,
+      "content": "红利我是作为我一个底层",
+      "music": 0.0
+    },
+    {
+      "from": 3131.49,
+      "to": 3133.2,
+      "sid": 1128,
+      "location": 2,
+      "content": "那对于红利来说",
+      "music": 0.0
+    },
+    {
+      "from": 3133.2,
+      "to": 3136.2,
+      "sid": 1129,
+      "location": 2,
+      "content": "我还是坚持我的认为就是定投的话",
+      "music": 0.0
+    },
+    {
+      "from": 3136.2,
+      "to": 3137.76,
+      "sid": 1130,
+      "location": 2,
+      "content": "不用管他",
+      "music": 0.0
+    },
+    {
+      "from": 3137.76,
+      "to": 3139.2,
+      "sid": 1131,
+      "location": 2,
+      "content": "简直你也检验对了",
+      "music": 0.0
+    },
+    {
+      "from": 3139.2,
+      "to": 3141.92,
+      "sid": 1132,
+      "location": 2,
+      "content": "对这位小异议朋朋友",
+      "music": 0.0
+    },
+    {
+      "from": 3141.92,
+      "to": 3145.48,
+      "sid": 1133,
+      "location": 2,
+      "content": "其实你的逻辑是我个人追踪",
+      "music": 0.0
+    },
+    {
+      "from": 3145.48,
+      "to": 3147.5,
+      "sid": 1134,
+      "location": 2,
+      "content": "助力汇金的基本逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 3147.5,
+      "to": 3148.78,
+      "sid": 1135,
+      "location": 2,
+      "content": "就复制眼嘛",
+      "music": 0.0
+    },
+    {
+      "from": 3148.78,
+      "to": 3150.0,
+      "sid": 1136,
+      "location": 2,
+      "content": "卡卡西嘛",
+      "music": 0.0
+    },
+    {
+      "from": 3150.0,
+      "to": 3152.91,
+      "sid": 1137,
+      "location": 2,
+      "content": "你复制眼卡卡西",
+      "music": 0.0
+    },
+    {
+      "from": 3152.91,
+      "to": 3154.27,
+      "sid": 1138,
+      "location": 2,
+      "content": "你你卖我卖",
+      "music": 0.0
+    },
+    {
+      "from": 3154.27,
+      "to": 3156.43,
+      "sid": 1139,
+      "location": 2,
+      "content": "你买我买就行了",
+      "music": 0.0
+    },
+    {
+      "from": 3156.43,
+      "to": 3157.55,
+      "sid": 1140,
+      "location": 2,
+      "content": "能不能开个群",
+      "music": 0.0
+    },
+    {
+      "from": 3157.55,
+      "to": 3158.65,
+      "sid": 1141,
+      "location": 2,
+      "content": "不开群",
+      "music": 0.0
+    },
+    {
+      "from": 3158.65,
+      "to": 3160.845,
+      "sid": 1142,
+      "location": 2,
+      "content": "朋友呃",
+      "music": 0.0
+    },
+    {
+      "from": 3160.89,
+      "to": 3163.25,
+      "sid": 1143,
+      "location": 2,
+      "content": "说句扎心的实话哈",
+      "music": 0.0
+    },
+    {
+      "from": 3163.25,
+      "to": 3167.29,
+      "sid": 1144,
+      "location": 2,
+      "content": "群里面的朋友可能并不比你的水准高很多",
+      "music": 0.0
+    },
+    {
+      "from": 3167.61,
+      "to": 3168.93,
+      "sid": 1145,
+      "location": 2,
+      "content": "我们在市场上也好",
+      "music": 0.0
+    },
+    {
+      "from": 3168.93,
+      "to": 3170.39,
+      "sid": 1146,
+      "location": 2,
+      "content": "在人身上也好",
+      "music": 0.0
+    },
+    {
+      "from": 3170.39,
+      "to": 3172.75,
+      "sid": 1147,
+      "location": 2,
+      "content": "整个人生和股市是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 3172.75,
+      "to": 3174.91,
+      "sid": 1148,
+      "location": 2,
+      "content": "你要想在这条路上走了很久",
+      "music": 0.0
+    },
+    {
+      "from": 3174.91,
+      "to": 3176.56,
+      "sid": 1149,
+      "location": 2,
+      "content": "你一定是孤独的",
+      "music": 0.0
+    },
+    {
+      "from": 3180.4,
+      "to": 3183.02,
+      "sid": 1150,
+      "location": 2,
+      "content": "所以不太建议大家去水群",
+      "music": 0.0
+    },
+    {
+      "from": 3183.02,
+      "to": 3184.4,
+      "sid": 1151,
+      "location": 2,
+      "content": "我也不会去开群",
+      "music": 0.0
+    },
+    {
+      "from": 3184.4,
+      "to": 3186.72,
+      "sid": 1152,
+      "location": 2,
+      "content": "也不会去拉大家的私信",
+      "music": 0.0
+    },
+    {
+      "from": 3187.22,
+      "to": 3189.64,
+      "sid": 1153,
+      "location": 2,
+      "content": "B站就是我们去交流的窗口",
+      "music": 0.0
+    },
+    {
+      "from": 3189.64,
+      "to": 3191.82,
+      "sid": 1154,
+      "location": 2,
+      "content": "我们只能商说一个一个信息",
+      "music": 0.0
+    },
+    {
+      "from": 3191.82,
+      "to": 3196.42,
+      "sid": 1155,
+      "location": 2,
+      "content": "一个客观的信息就是红利被当作防御板块",
+      "music": 0.0
+    },
+    {
+      "from": 3196.42,
+      "to": 3200.67,
+      "sid": 1156,
+      "location": 2,
+      "content": "是因为公募基金它不能清仓",
+      "music": 0.0
+    },
+    {
+      "from": 3200.67,
+      "to": 3201.91,
+      "sid": 1157,
+      "location": 2,
+      "content": "再重复一遍",
+      "music": 0.0
+    },
+    {
+      "from": 3201.91,
+      "to": 3204.51,
+      "sid": 1158,
+      "location": 2,
+      "content": "红利被当作防御板块",
+      "music": 0.0
+    },
+    {
+      "from": 3204.51,
+      "to": 3207.33,
+      "sid": 1159,
+      "location": 2,
+      "content": "是因为公募规则规定",
+      "music": 0.0
+    },
+    {
+      "from": 3207.33,
+      "to": 3209.39,
+      "sid": 1160,
+      "location": 2,
+      "content": "公募基金ETF也好",
+      "music": 0.0
+    },
+    {
+      "from": 3209.39,
+      "to": 3212.45,
+      "sid": 1161,
+      "location": 2,
+      "content": "他们最少要保持80%的股票",
+      "music": 0.0
+    },
+    {
+      "from": 3213.35,
+      "to": 3215.63,
+      "sid": 1162,
+      "location": 2,
+      "content": "所以当大跌的时候",
+      "music": 0.0
+    },
+    {
+      "from": 3215.63,
+      "to": 3217.03,
+      "sid": 1163,
+      "location": 2,
+      "content": "他们的做法往往是",
+      "music": 0.0
+    },
+    {
+      "from": 3217.03,
+      "to": 3220.11,
+      "sid": 1164,
+      "location": 2,
+      "content": "把那些高位的股票换成防御板块",
+      "music": 0.0
+    },
+    {
+      "from": 3220.11,
+      "to": 3221.67,
+      "sid": 1165,
+      "location": 2,
+      "content": "也是红利",
+      "music": 0.0
+    },
+    {
+      "from": 3222.579,
+      "to": 3226.259,
+      "sid": 1166,
+      "location": 2,
+      "content": "但是这个前提是因为规则决定了它不能清仓",
+      "music": 0.0
+    },
+    {
+      "from": 3227.419,
+      "to": 3229.239,
+      "sid": 1167,
+      "location": 2,
+      "content": "我们散户没有这个规则",
+      "music": 0.0
+    },
+    {
+      "from": 3229.239,
+      "to": 3231.439,
+      "sid": 1168,
+      "location": 2,
+      "content": "只能说到这里了",
+      "music": 0.0
+    },
+    {
+      "from": 3232.03,
+      "to": 3233.49,
+      "sid": 1169,
+      "location": 2,
+      "content": "好我们继续看额",
+      "music": 0.0
+    },
+    {
+      "from": 3233.49,
+      "to": 3236.35,
+      "sid": 1170,
+      "location": 2,
+      "content": "这里大家怎么判断是一级市场还是二级市场呢",
+      "music": 0.0
+    },
+    {
+      "from": 3236.35,
+      "to": 3237.59,
+      "sid": 1171,
+      "location": 2,
+      "content": "其实很简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 3237.59,
+      "to": 3240.22,
+      "sid": 1172,
+      "location": 2,
+      "content": "一级市场我们就看份额",
+      "music": 0.0
+    },
+    {
+      "from": 3240.54,
+      "to": 3244.9,
+      "sid": 1173,
+      "location": 2,
+      "content": "二级市场你就看场内成交量",
+      "music": 0.0
+    },
+    {
+      "from": 3246.92,
+      "to": 3248.44,
+      "sid": 1174,
+      "location": 2,
+      "content": "就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 3248.7,
+      "to": 3251.76,
+      "sid": 1175,
+      "location": 2,
+      "content": "因为并不是说啊他只会买一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 3251.76,
+      "to": 3253.34,
+      "sid": 1176,
+      "location": 2,
+      "content": "凭什么只会买一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 3253.34,
+      "to": 3254.52,
+      "sid": 1177,
+      "location": 2,
+      "content": "我着急的时候",
+      "music": 0.0
+    },
+    {
+      "from": 3254.52,
+      "to": 3256.14,
+      "sid": 1178,
+      "location": 2,
+      "content": "4月7号你怎么买一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 3256.14,
+      "to": 3258.02,
+      "sid": 1179,
+      "location": 2,
+      "content": "4月7号我这么着急",
+      "music": 0.0
+    },
+    {
+      "from": 3258.469,
+      "to": 3261.82,
+      "sid": 1180,
+      "location": 2,
+      "content": "我就要二级市长干不可以吗",
+      "music": 0.0
+    },
+    {
+      "from": 3261.82,
+      "to": 3262.6,
+      "sid": 1181,
+      "location": 2,
+      "content": "当然可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 3262.6,
+      "to": 3263.84,
+      "sid": 1182,
+      "location": 2,
+      "content": "你二级市场反过来来",
+      "music": 0.0
+    },
+    {
+      "from": 3263.84,
+      "to": 3264.9,
+      "sid": 1183,
+      "location": 2,
+      "content": "我就不能来了",
+      "music": 0.0
+    },
+    {
+      "from": 3264.9,
+      "to": 3266.26,
+      "sid": 1184,
+      "location": 2,
+      "content": "没有这个道理的",
+      "music": 0.0
+    },
+    {
+      "from": 3266.26,
+      "to": 3268.62,
+      "sid": 1185,
+      "location": 2,
+      "content": "所以它并不是单独的一种",
+      "music": 0.0
+    },
+    {
+      "from": 3268.62,
+      "to": 3269.84,
+      "sid": 1186,
+      "location": 2,
+      "content": "它只会在这里操作",
+      "music": 0.0
+    },
+    {
+      "from": 3269.84,
+      "to": 3271.5,
+      "sid": 1187,
+      "location": 2,
+      "content": "只是我们追踪的是份额",
+      "music": 0.0
+    },
+    {
+      "from": 3271.5,
+      "to": 3273.3,
+      "sid": 1188,
+      "location": 2,
+      "content": "那对标自然是一级市场",
+      "music": 0.0
+    },
+    {
+      "from": 3273.3,
+      "to": 3275.62,
+      "sid": 1189,
+      "location": 2,
+      "content": "二级市场更复杂",
+      "music": 0.0
+    },
+    {
+      "from": 3275.62,
+      "to": 3276.98,
+      "sid": 1190,
+      "location": 2,
+      "content": "它因为它有散户存在",
+      "music": 0.0
+    },
+    {
+      "from": 3276.98,
+      "to": 3278.34,
+      "sid": 1191,
+      "location": 2,
+      "content": "所以追踪的意义不大",
+      "music": 0.0
+    },
+    {
+      "from": 3278.34,
+      "to": 3280.74,
+      "sid": 1192,
+      "location": 2,
+      "content": "但你判断你就看它成交量嘛",
+      "music": 0.0
+    },
+    {
+      "from": 3280.74,
+      "to": 3282.06,
+      "sid": 1193,
+      "location": 2,
+      "content": "好行",
+      "music": 0.0
+    },
+    {
+      "from": 3282.06,
+      "to": 3284.3,
+      "sid": 1194,
+      "location": 2,
+      "content": "到现在基本上我们就讲完了",
+      "music": 0.0
+    },
+    {
+      "from": 3284.3,
+      "to": 3285.14,
+      "sid": 1195,
+      "location": 2,
+      "content": "今天就这样",
+      "music": 0.0
+    },
+    {
+      "from": 3285.14,
+      "to": 3288.02,
+      "sid": 1196,
+      "location": 2,
+      "content": "我们下周二再见拜拜",
+      "music": 0.0
+    }
+  ]
+}

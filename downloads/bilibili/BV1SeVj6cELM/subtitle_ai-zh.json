@@ -1,0 +1,3180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.16,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.16,
+      "to": 3.14,
+      "sid": 3,
+      "location": 2,
+      "content": "今天啊是周末",
+      "music": 0.0
+    },
+    {
+      "from": 3.14,
+      "to": 5.62,
+      "sid": 4,
+      "location": 2,
+      "content": "就跟大家分享一些不一样的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.62,
+      "to": 8.2,
+      "sid": 5,
+      "location": 2,
+      "content": "其实我在频道里面是非常少跟大家分享",
+      "music": 0.0
+    },
+    {
+      "from": 8.2,
+      "to": 9.16,
+      "sid": 6,
+      "location": 2,
+      "content": "策略研报的啊",
+      "music": 0.0
+    },
+    {
+      "from": 9.16,
+      "to": 11.14,
+      "sid": 7,
+      "location": 2,
+      "content": "但是今天呢我跟大家来分享两篇",
+      "music": 0.0
+    },
+    {
+      "from": 11.14,
+      "to": 13.39,
+      "sid": 8,
+      "location": 2,
+      "content": "摩根士丹利的策略研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 13.39,
+      "to": 15.31,
+      "sid": 9,
+      "location": 2,
+      "content": "也都是之前定期给大家分享的",
+      "music": 0.0
+    },
+    {
+      "from": 15.31,
+      "to": 16.99,
+      "sid": 10,
+      "location": 2,
+      "content": "他们的中国首席策略师啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.99,
+      "to": 18.88,
+      "sid": 11,
+      "location": 2,
+      "content": "LAURA王王莹的系列报告",
+      "music": 0.0
+    },
+    {
+      "from": 18.88,
+      "to": 20.6,
+      "sid": 12,
+      "location": 2,
+      "content": "为什么会分享这两篇报告呢",
+      "music": 0.0
+    },
+    {
+      "from": 20.6,
+      "to": 22.66,
+      "sid": 13,
+      "location": 2,
+      "content": "首先就是我自己对策略研报",
+      "music": 0.0
+    },
+    {
+      "from": 22.66,
+      "to": 24.58,
+      "sid": 14,
+      "location": 2,
+      "content": "其实并不是很信任啊",
+      "music": 0.0
+    },
+    {
+      "from": 24.58,
+      "to": 27.22,
+      "sid": 15,
+      "location": 2,
+      "content": "一方面呢是策略本身看的不一定准",
+      "music": 0.0
+    },
+    {
+      "from": 27.22,
+      "to": 30.54,
+      "sid": 16,
+      "location": 2,
+      "content": "第二呢是策略研报可能背后有它自己的目的啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.54,
+      "to": 31.62,
+      "sid": 17,
+      "location": 2,
+      "content": "但是这一系列研报",
+      "music": 0.0
+    },
+    {
+      "from": 31.62,
+      "to": 33.26,
+      "sid": 18,
+      "location": 2,
+      "content": "因为他是做总量分析的",
+      "music": 0.0
+    },
+    {
+      "from": 33.26,
+      "to": 35.14,
+      "sid": 19,
+      "location": 2,
+      "content": "我觉得还是有一定的参考价值的",
+      "music": 0.0
+    },
+    {
+      "from": 35.14,
+      "to": 35.98,
+      "sid": 20,
+      "location": 2,
+      "content": "一会我分享完了",
+      "music": 0.0
+    },
+    {
+      "from": 35.98,
+      "to": 38.099,
+      "sid": 21,
+      "location": 2,
+      "content": "可能大家也会有类似的感受啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.099,
+      "to": 39.259,
+      "sid": 22,
+      "location": 2,
+      "content": "那我简单说一下",
+      "music": 0.0
+    },
+    {
+      "from": 39.259,
+      "to": 40.539,
+      "sid": 23,
+      "location": 2,
+      "content": "大家现在看到的这一篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.539,
+      "to": 43.899,
+      "sid": 24,
+      "location": 2,
+      "content": "是中国消费者五因子模型与m s c i china",
+      "music": 0.0
+    },
+    {
+      "from": 43.899,
+      "to": 46.66,
+      "sid": 25,
+      "location": 2,
+      "content": "也就是名胜中国指数的走势更新",
+      "music": 0.0
+    },
+    {
+      "from": 46.66,
+      "to": 48.78,
+      "sid": 26,
+      "location": 2,
+      "content": "那另外一篇研报呢就是这一篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 48.78,
+      "to": 50.94,
+      "sid": 27,
+      "location": 2,
+      "content": "这篇呢是中国自由流动性指标",
+      "music": 0.0
+    },
+    {
+      "from": 50.94,
+      "to": 52.94,
+      "sid": 28,
+      "location": 2,
+      "content": "与m s c i china的走势更新",
+      "music": 0.0
+    },
+    {
+      "from": 52.94,
+      "to": 55.76,
+      "sid": 29,
+      "location": 2,
+      "content": "这两篇研报呢从发表时间上看还都比较新啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.76,
+      "to": 57.12,
+      "sid": 30,
+      "location": 2,
+      "content": "比如说自由流动性指标",
+      "music": 0.0
+    },
+    {
+      "from": 57.12,
+      "to": 59.08,
+      "sid": 31,
+      "location": 2,
+      "content": "这篇研报是5月26号发的",
+      "music": 0.0
+    },
+    {
+      "from": 59.08,
+      "to": 62.11,
+      "sid": 32,
+      "location": 2,
+      "content": "而五因子模型呢是5月27号发的",
+      "music": 0.0
+    },
+    {
+      "from": 62.11,
+      "to": 63.84,
+      "sid": 33,
+      "location": 2,
+      "content": "其中呢我也特别说明一下",
+      "music": 0.0
+    },
+    {
+      "from": 63.84,
+      "to": 65.36,
+      "sid": 34,
+      "location": 2,
+      "content": "消费者五因子模型",
+      "music": 0.0
+    },
+    {
+      "from": 65.36,
+      "to": 67.84,
+      "sid": 35,
+      "location": 2,
+      "content": "代表的更多是中国经济的基本面",
+      "music": 0.0
+    },
+    {
+      "from": 67.84,
+      "to": 69.4,
+      "sid": 36,
+      "location": 2,
+      "content": "而自由流动性啊",
+      "music": 0.0
+    },
+    {
+      "from": 69.4,
+      "to": 71.86,
+      "sid": 37,
+      "location": 2,
+      "content": "它代表的是中国经济的资金面啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.86,
+      "to": 73.9,
+      "sid": 38,
+      "location": 2,
+      "content": "另外呢就是可能有一些小伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 73.9,
+      "to": 76.66,
+      "sid": 39,
+      "location": 2,
+      "content": "特别是新关注的小伙伴不太了解这两个模型",
+      "music": 0.0
+    },
+    {
+      "from": 76.66,
+      "to": 78.51,
+      "sid": 40,
+      "location": 2,
+      "content": "我简单的再介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 78.51,
+      "to": 82.66,
+      "sid": 41,
+      "location": 2,
+      "content": "消费者五因子模型呢用的是餐饮消费商品零售",
+      "music": 0.0
+    },
+    {
+      "from": 82.66,
+      "to": 83.6,
+      "sid": 42,
+      "location": 2,
+      "content": "居民贷款",
+      "music": 0.0
+    },
+    {
+      "from": 83.6,
+      "to": 85.74,
+      "sid": 43,
+      "location": 2,
+      "content": "乘用车销售和航空出行",
+      "music": 0.0
+    },
+    {
+      "from": 85.74,
+      "to": 88.46,
+      "sid": 44,
+      "location": 2,
+      "content": "这五个与内需消费相关的指标",
+      "music": 0.0
+    },
+    {
+      "from": 88.46,
+      "to": 92.18,
+      "sid": 45,
+      "location": 2,
+      "content": "他们的同比变化来做了一个z score的拟合",
+      "music": 0.0
+    },
+    {
+      "from": 92.18,
+      "to": 94.46,
+      "sid": 46,
+      "location": 2,
+      "content": "z score这种方式可能大家都知道",
+      "music": 0.0
+    },
+    {
+      "from": 94.46,
+      "to": 96.02,
+      "sid": 47,
+      "location": 2,
+      "content": "他是来判断分位的啊",
+      "music": 0.0
+    },
+    {
+      "from": 96.02,
+      "to": 97.9,
+      "sid": 48,
+      "location": 2,
+      "content": "那通过对这五个指标的拟合呢",
+      "music": 0.0
+    },
+    {
+      "from": 97.9,
+      "to": 101.54,
+      "sid": 49,
+      "location": 2,
+      "content": "大模是希望看到这五个指标的加权平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 101.54,
+      "to": 103.92,
+      "sid": 50,
+      "location": 2,
+      "content": "在历史上处于一个什么分位水平",
+      "music": 0.0
+    },
+    {
+      "from": 103.92,
+      "to": 104.56,
+      "sid": 51,
+      "location": 2,
+      "content": "说的直白一点",
+      "music": 0.0
+    },
+    {
+      "from": 104.56,
+      "to": 106.0,
+      "sid": 52,
+      "location": 2,
+      "content": "就是如果他比历史均值好",
+      "music": 0.0
+    },
+    {
+      "from": 106.0,
+      "to": 108.74,
+      "sid": 53,
+      "location": 2,
+      "content": "那么现在整体的内需消费就比较好啊",
+      "music": 0.0
+    },
+    {
+      "from": 108.74,
+      "to": 110.18,
+      "sid": 54,
+      "location": 2,
+      "content": "如果比历史均值差啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.18,
+      "to": 111.22,
+      "sid": 55,
+      "location": 2,
+      "content": "就是在负值区间",
+      "music": 0.0
+    },
+    {
+      "from": 111.22,
+      "to": 113.97,
+      "sid": 56,
+      "location": 2,
+      "content": "那么就是说它比平均水平要差",
+      "music": 0.0
+    },
+    {
+      "from": 113.97,
+      "to": 115.05,
+      "sid": 57,
+      "location": 2,
+      "content": "那言下之意啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.05,
+      "to": 117.29,
+      "sid": 58,
+      "location": 2,
+      "content": "就是通过这样一个z score得分呢",
+      "music": 0.0
+    },
+    {
+      "from": 117.29,
+      "to": 119.99,
+      "sid": 59,
+      "location": 2,
+      "content": "也可以看到当前内需的一个复苏情况",
+      "music": 0.0
+    },
+    {
+      "from": 119.99,
+      "to": 121.61,
+      "sid": 60,
+      "location": 2,
+      "content": "那从2008年至今啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.61,
+      "to": 122.89,
+      "sid": 61,
+      "location": 2,
+      "content": "历史数据显示呢",
+      "music": 0.0
+    },
+    {
+      "from": 122.89,
+      "to": 125.6,
+      "sid": 62,
+      "location": 2,
+      "content": "这个摩根士丹利创建的加权指标啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.6,
+      "to": 129.3,
+      "sid": 63,
+      "location": 2,
+      "content": "长期以来呢是领先于msi china的同比走势的",
+      "music": 0.0
+    },
+    {
+      "from": 129.3,
+      "to": 132.09,
+      "sid": 64,
+      "location": 2,
+      "content": "一会我们可以具体来看一下这里面的图一啊",
+      "music": 0.0
+    },
+    {
+      "from": 132.09,
+      "to": 134.37,
+      "sid": 65,
+      "location": 2,
+      "content": "那同样的呢自由流动性这个指标啊",
+      "music": 0.0
+    },
+    {
+      "from": 134.37,
+      "to": 136.51,
+      "sid": 66,
+      "location": 2,
+      "content": "它的底层逻辑是费雪方程啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.51,
+      "to": 138.41,
+      "sid": 67,
+      "location": 2,
+      "content": "也就是说在一段时间内",
+      "music": 0.0
+    },
+    {
+      "from": 138.41,
+      "to": 140.61,
+      "sid": 68,
+      "location": 2,
+      "content": "全社会的总支出是必然",
+      "music": 0.0
+    },
+    {
+      "from": 140.61,
+      "to": 142.9,
+      "sid": 69,
+      "location": 2,
+      "content": "等于与全社会的总交易额的",
+      "music": 0.0
+    },
+    {
+      "from": 142.9,
+      "to": 143.7,
+      "sid": 70,
+      "location": 2,
+      "content": "这个费雪方程",
+      "music": 0.0
+    },
+    {
+      "from": 143.7,
+      "to": 145.86,
+      "sid": 71,
+      "location": 2,
+      "content": "可能有一些学经济的小伙伴都知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.86,
+      "to": 148.84,
+      "sid": 72,
+      "location": 2,
+      "content": "是M乘以V等于P乘以T或者P乘以Q",
+      "music": 0.0
+    },
+    {
+      "from": 148.84,
+      "to": 149.78,
+      "sid": 73,
+      "location": 2,
+      "content": "但是这个T也好",
+      "music": 0.0
+    },
+    {
+      "from": 149.78,
+      "to": 150.26,
+      "sid": 74,
+      "location": 2,
+      "content": "Q也好",
+      "music": 0.0
+    },
+    {
+      "from": 150.26,
+      "to": 151.56,
+      "sid": 75,
+      "location": 2,
+      "content": "代表都是同一个意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.56,
+      "to": 152.18,
+      "sid": 76,
+      "location": 2,
+      "content": "简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 152.18,
+      "to": 154.64,
+      "sid": 77,
+      "location": 2,
+      "content": "就是货币的数量乘以货币流通速度",
+      "music": 0.0
+    },
+    {
+      "from": 154.64,
+      "to": 157.6,
+      "sid": 78,
+      "location": 2,
+      "content": "是等于物价水平乘以总交易量啊",
+      "music": 0.0
+    },
+    {
+      "from": 157.6,
+      "to": 159.6,
+      "sid": 79,
+      "location": 2,
+      "content": "也就是钱和货是对应的",
+      "music": 0.0
+    },
+    {
+      "from": 159.6,
+      "to": 161.12,
+      "sid": 80,
+      "location": 2,
+      "content": "而自由流动性指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 161.12,
+      "to": 163.28,
+      "sid": 81,
+      "location": 2,
+      "content": "反映的其实就是货币流通速度",
+      "music": 0.0
+    },
+    {
+      "from": 163.28,
+      "to": 165.0,
+      "sid": 82,
+      "location": 2,
+      "content": "这个V它的变化情况",
+      "music": 0.0
+    },
+    {
+      "from": 165.0,
+      "to": 168.12,
+      "sid": 83,
+      "location": 2,
+      "content": "因为呢它使用的其实就是用M1的同比",
+      "music": 0.0
+    },
+    {
+      "from": 168.12,
+      "to": 169.44,
+      "sid": 84,
+      "location": 2,
+      "content": "减去PPI的同比",
+      "music": 0.0
+    },
+    {
+      "from": 169.44,
+      "to": 171.38,
+      "sid": 85,
+      "location": 2,
+      "content": "再减去工业增加值的同比",
+      "music": 0.0
+    },
+    {
+      "from": 171.38,
+      "to": 172.44,
+      "sid": 86,
+      "location": 2,
+      "content": "他的计算方式啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.44,
+      "to": 173.68,
+      "sid": 87,
+      "location": 2,
+      "content": "他其实也写在这里了",
+      "music": 0.0
+    },
+    {
+      "from": 173.68,
+      "to": 176.709,
+      "sid": 88,
+      "location": 2,
+      "content": "然后再做一个三个月的移动平均啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.709,
+      "to": 178.429,
+      "sid": 89,
+      "location": 2,
+      "content": "那其中呢M1的同比啊",
+      "music": 0.0
+    },
+    {
+      "from": 178.429,
+      "to": 179.909,
+      "sid": 90,
+      "location": 2,
+      "content": "反映的是货币数量的变化",
+      "music": 0.0
+    },
+    {
+      "from": 179.909,
+      "to": 182.22,
+      "sid": 91,
+      "location": 2,
+      "content": "PPI的同比呢反映的是物价的变化",
+      "music": 0.0
+    },
+    {
+      "from": 182.22,
+      "to": 185.2,
+      "sid": 92,
+      "location": 2,
+      "content": "工业增加值的同比反映的是总交易量的变化",
+      "music": 0.0
+    },
+    {
+      "from": 185.2,
+      "to": 187.26,
+      "sid": 93,
+      "location": 2,
+      "content": "那如果货币流通的速度快啊",
+      "music": 0.0
+    },
+    {
+      "from": 192.98,
+      "to": 194.86,
+      "sid": 94,
+      "location": 2,
+      "content": "而如果货币流通速度慢",
+      "music": 0.0
+    },
+    {
+      "from": 197.98,
+      "to": 200.13,
+      "sid": 95,
+      "location": 2,
+      "content": "大量的资金都在空转",
+      "music": 0.0
+    },
+    {
+      "from": 200.13,
+      "to": 203.93,
+      "sid": 96,
+      "location": 2,
+      "content": "那和刚才提到的消费者五因子模型的情况",
+      "music": 0.0
+    },
+    {
+      "from": 203.93,
+      "to": 204.77,
+      "sid": 97,
+      "location": 2,
+      "content": "是类似的啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.77,
+      "to": 207.09,
+      "sid": 98,
+      "location": 2,
+      "content": "从2003年至今的历史数据显示啊",
+      "music": 0.0
+    },
+    {
+      "from": 207.09,
+      "to": 208.25,
+      "sid": 99,
+      "location": 2,
+      "content": "这个自由流动性指标",
+      "music": 0.0
+    },
+    {
+      "from": 208.25,
+      "to": 212.78,
+      "sid": 100,
+      "location": 2,
+      "content": "长071以来也是领先于msi china的同比走势的啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.78,
+      "to": 214.7,
+      "sid": 101,
+      "location": 2,
+      "content": "就是现在大家看到的这个图一啊",
+      "music": 0.0
+    },
+    {
+      "from": 214.7,
+      "to": 217.46,
+      "sid": 102,
+      "location": 2,
+      "content": "那接下来呢我们就来看一下这两个指标啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.46,
+      "to": 219.02,
+      "sid": 103,
+      "location": 2,
+      "content": "在最近的走势的情况",
+      "music": 0.0
+    },
+    {
+      "from": 219.02,
+      "to": 221.41,
+      "sid": 104,
+      "location": 2,
+      "content": "我们还是回到第一张图分别来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 221.41,
+      "to": 224.65,
+      "sid": 105,
+      "location": 2,
+      "content": "首先呢我们看到的是消费者五因子模型和MSI",
+      "music": 0.0
+    },
+    {
+      "from": 224.65,
+      "to": 225.69,
+      "sid": 106,
+      "location": 2,
+      "content": "china的走势啊",
+      "music": 0.0
+    },
+    {
+      "from": 225.69,
+      "to": 227.74,
+      "sid": 107,
+      "location": 2,
+      "content": "我把这张图稍微放大一下",
+      "music": 0.0
+    },
+    {
+      "from": 227.74,
+      "to": 231.42,
+      "sid": 108,
+      "location": 2,
+      "content": "其中呢红色这条线是消费者五因子模型的Z",
+      "music": 0.0
+    },
+    {
+      "from": 231.42,
+      "to": 231.86,
+      "sid": 109,
+      "location": 2,
+      "content": "得分啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.86,
+      "to": 232.9,
+      "sid": 110,
+      "location": 2,
+      "content": "就是这个z score",
+      "music": 0.0
+    },
+    {
+      "from": 232.9,
+      "to": 234.46,
+      "sid": 111,
+      "location": 2,
+      "content": "也就是历史的分位水平",
+      "music": 0.0
+    },
+    {
+      "from": 234.46,
+      "to": 236.82,
+      "sid": 112,
+      "location": 2,
+      "content": "那么蓝色这条线呢是msi china",
+      "music": 0.0
+    },
+    {
+      "from": 236.82,
+      "to": 238.94,
+      "sid": 113,
+      "location": 2,
+      "content": "就明胜中国指数它的同比变化",
+      "music": 0.0
+    },
+    {
+      "from": 238.94,
+      "to": 240.8,
+      "sid": 114,
+      "location": 2,
+      "content": "那可以看到从历史上来看",
+      "music": 0.0
+    },
+    {
+      "from": 240.8,
+      "to": 241.7,
+      "sid": 115,
+      "location": 2,
+      "content": "红色这条线啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.7,
+      "to": 245.34,
+      "sid": 116,
+      "location": 2,
+      "content": "在大部分时间都是领先于蓝色这条线",
+      "music": 0.0
+    },
+    {
+      "from": 245.34,
+      "to": 246.58,
+      "sid": 117,
+      "location": 2,
+      "content": "而最近一段时间呢",
+      "music": 0.0
+    },
+    {
+      "from": 246.58,
+      "to": 249.24,
+      "sid": 118,
+      "location": 2,
+      "content": "红色的这条线啊是在持续的下探",
+      "music": 0.0
+    },
+    {
+      "from": 249.24,
+      "to": 252.26,
+      "sid": 119,
+      "location": 2,
+      "content": "已经可以说是来到了2022年啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.26,
+      "to": 253.28,
+      "sid": 120,
+      "location": 2,
+      "content": "就是这个时间点啊",
+      "music": 0.0
+    },
+    {
+      "from": 253.28,
+      "to": 256.54,
+      "sid": 121,
+      "location": 2,
+      "content": "这也是上海封城之后的历史最低的区间了",
+      "music": 0.0
+    },
+    {
+      "from": 256.54,
+      "to": 259.02,
+      "sid": 122,
+      "location": 2,
+      "content": "那即便其实我们不看这个数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 259.02,
+      "to": 260.14,
+      "sid": 123,
+      "location": 2,
+      "content": "我相信大家也都知道",
+      "music": 0.0
+    },
+    {
+      "from": 260.14,
+      "to": 263.5,
+      "sid": 124,
+      "location": 2,
+      "content": "目前国内的消费需求已经低迷到什么程度了啊",
+      "music": 0.0
+    },
+    {
+      "from": 263.5,
+      "to": 264.66,
+      "sid": 125,
+      "location": 2,
+      "content": "比如说我们单看一个数据",
+      "music": 0.0
+    },
+    {
+      "from": 264.66,
+      "to": 267.89,
+      "sid": 126,
+      "location": 2,
+      "content": "就是4月的社零增速已经非常拉跨的",
+      "music": 0.0
+    },
+    {
+      "from": 267.89,
+      "to": 270.97,
+      "sid": 127,
+      "location": 2,
+      "content": "来到了同比增长只有0.2个百分点的水平",
+      "music": 0.0
+    },
+    {
+      "from": 270.97,
+      "to": 272.57,
+      "sid": 128,
+      "location": 2,
+      "content": "而且如果考虑价格因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.57,
+      "to": 275.88,
+      "sid": 129,
+      "location": 2,
+      "content": "4月的实际社零增速其实已经是负1%了",
+      "music": 0.0
+    },
+    {
+      "from": 275.88,
+      "to": 278.08,
+      "sid": 130,
+      "location": 2,
+      "content": "这都是疫情后的最差水平啊",
+      "music": 0.0
+    },
+    {
+      "from": 278.08,
+      "to": 280.32,
+      "sid": 131,
+      "location": 2,
+      "content": "那大摩呢在报告里面其实也提到了",
+      "music": 0.0
+    },
+    {
+      "from": 280.32,
+      "to": 282.6,
+      "sid": 132,
+      "location": 2,
+      "content": "就是4月的这个五因子模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 282.6,
+      "to": 283.59,
+      "sid": 133,
+      "location": 2,
+      "content": "继续下探",
+      "music": 0.0
+    },
+    {
+      "from": 283.59,
+      "to": 284.39,
+      "sid": 134,
+      "location": 2,
+      "content": "主要啊",
+      "music": 0.0
+    },
+    {
+      "from": 284.39,
+      "to": 287.89,
+      "sid": 135,
+      "location": 2,
+      "content": "是由于餐饮和商品零售的继续走弱所带动的",
+      "music": 0.0
+    },
+    {
+      "from": 287.89,
+      "to": 291.49,
+      "sid": 136,
+      "location": 2,
+      "content": "而航空出行啊虽然是之前受到了油价的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 291.49,
+      "to": 292.57,
+      "sid": 137,
+      "location": 2,
+      "content": "是保持在低位",
+      "music": 0.0
+    },
+    {
+      "from": 292.57,
+      "to": 294.98,
+      "sid": 138,
+      "location": 2,
+      "content": "但是最近其实是有边际的改善的",
+      "music": 0.0
+    },
+    {
+      "from": 294.98,
+      "to": 297.54,
+      "sid": 139,
+      "location": 2,
+      "content": "而居民的贷款和乘用车销量呢",
+      "music": 0.0
+    },
+    {
+      "from": 297.54,
+      "to": 298.86,
+      "sid": 140,
+      "location": 2,
+      "content": "仍然是在低位徘徊",
+      "music": 0.0
+    },
+    {
+      "from": 298.86,
+      "to": 300.28,
+      "sid": 141,
+      "location": 2,
+      "content": "这个我觉得都不用多说啊",
+      "music": 0.0
+    },
+    {
+      "from": 300.28,
+      "to": 302.72,
+      "sid": 142,
+      "location": 2,
+      "content": "比如说4月的信贷数据其实非常能够印证",
+      "music": 0.0
+    },
+    {
+      "from": 302.72,
+      "to": 305.4,
+      "sid": 143,
+      "location": 2,
+      "content": "目前居民贷款是非常非常弱的",
+      "music": 0.0
+    },
+    {
+      "from": 305.4,
+      "to": 307.4,
+      "sid": 144,
+      "location": 2,
+      "content": "4月是极其拉跨的信贷数据",
+      "music": 0.0
+    },
+    {
+      "from": 307.4,
+      "to": 310.52,
+      "sid": 145,
+      "location": 2,
+      "content": "同时呢乘用车销售表现其实也是很差的",
+      "music": 0.0
+    },
+    {
+      "from": 310.52,
+      "to": 313.84,
+      "sid": 146,
+      "location": 2,
+      "content": "所以即便最近有很多的车企都在发布新车",
+      "music": 0.0
+    },
+    {
+      "from": 313.84,
+      "to": 315.76,
+      "sid": 147,
+      "location": 2,
+      "content": "但如果我们去看他们4月份的销量啊",
+      "music": 0.0
+    },
+    {
+      "from": 315.76,
+      "to": 317.44,
+      "sid": 148,
+      "location": 2,
+      "content": "整体表现都是比较低迷的",
+      "music": 0.0
+    },
+    {
+      "from": 317.44,
+      "to": 319.08,
+      "sid": 149,
+      "location": 2,
+      "content": "而之所以消费偏弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 319.08,
+      "to": 319.72,
+      "sid": 150,
+      "location": 2,
+      "content": "大摩认为",
+      "music": 0.0
+    },
+    {
+      "from": 319.72,
+      "to": 323.14,
+      "sid": 151,
+      "location": 2,
+      "content": "主要原因呢核心还是在于就业市场的疲软",
+      "music": 0.0
+    },
+    {
+      "from": 323.14,
+      "to": 326.12,
+      "sid": 152,
+      "location": 2,
+      "content": "另外呢就是以旧换新的一个透支效应啊",
+      "music": 0.0
+    },
+    {
+      "from": 326.12,
+      "to": 329.0,
+      "sid": 153,
+      "location": 2,
+      "content": "毕竟呢去年其实我们已经做了一年的以旧换新",
+      "music": 0.0
+    },
+    {
+      "from": 329.0,
+      "to": 331.0,
+      "sid": 154,
+      "location": 2,
+      "content": "再加上前年就24年的",
+      "music": 0.0
+    },
+    {
+      "from": 331.0,
+      "to": 332.04,
+      "sid": 155,
+      "location": 2,
+      "content": "从9月开始",
+      "music": 0.0
+    },
+    {
+      "from": 332.04,
+      "to": 333.4,
+      "sid": 156,
+      "location": 2,
+      "content": "我们还有一轮以旧换新",
+      "music": 0.0
+    },
+    {
+      "from": 333.4,
+      "to": 334.36,
+      "sid": 157,
+      "location": 2,
+      "content": "那么到今年",
+      "music": 0.0
+    },
+    {
+      "from": 334.36,
+      "to": 337.04,
+      "sid": 158,
+      "location": 2,
+      "content": "其实真的大家该买的耐用品消费",
+      "music": 0.0
+    },
+    {
+      "from": 337.04,
+      "to": 338.36,
+      "sid": 159,
+      "location": 2,
+      "content": "基本上都买完了",
+      "music": 0.0
+    },
+    {
+      "from": 338.36,
+      "to": 341.28,
+      "sid": 160,
+      "location": 2,
+      "content": "那第三个原因呢就是购买黄金的热潮啊",
+      "music": 0.0
+    },
+    {
+      "from": 341.28,
+      "to": 342.5,
+      "sid": 161,
+      "location": 2,
+      "content": "是有所消退的",
+      "music": 0.0
+    },
+    {
+      "from": 342.5,
+      "to": 345.52,
+      "sid": 162,
+      "location": 2,
+      "content": "特别是最近一段时间金价是在呃下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 345.52,
+      "to": 347.68,
+      "sid": 163,
+      "location": 2,
+      "content": "当然这块我也看到频道内有小伙伴说",
+      "music": 0.0
+    },
+    {
+      "from": 347.68,
+      "to": 348.72,
+      "sid": 164,
+      "location": 2,
+      "content": "能不能聊聊黄金啊",
+      "music": 0.0
+    },
+    {
+      "from": 348.72,
+      "to": 350.72,
+      "sid": 165,
+      "location": 2,
+      "content": "我过两天也会给大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 350.72,
+      "to": 351.8,
+      "sid": 166,
+      "location": 2,
+      "content": "黄金相关的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 351.8,
+      "to": 352.8,
+      "sid": 167,
+      "location": 2,
+      "content": "那回到这篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 352.8,
+      "to": 353.76,
+      "sid": 168,
+      "location": 2,
+      "content": "啊展望未来呢",
+      "music": 0.0
+    },
+    {
+      "from": 353.76,
+      "to": 355.64,
+      "sid": 169,
+      "location": 2,
+      "content": "由于以旧换新的这个政策啊",
+      "music": 0.0
+    },
+    {
+      "from": 355.64,
+      "to": 357.8,
+      "sid": 170,
+      "location": 2,
+      "content": "在今年是显稳住的退坡了",
+      "music": 0.0
+    },
+    {
+      "from": 357.8,
+      "to": 359.78,
+      "sid": 171,
+      "location": 2,
+      "content": "这块我相信大家都还有记忆啊",
+      "music": 0.0
+    },
+    {
+      "from": 359.78,
+      "to": 362.62,
+      "sid": 172,
+      "location": 2,
+      "content": "比如说去年呢总金额是3000亿啊",
+      "music": 0.0
+    },
+    {
+      "from": 362.62,
+      "to": 364.52,
+      "sid": 173,
+      "location": 2,
+      "content": "今年呢只有2500亿",
+      "music": 0.0
+    },
+    {
+      "from": 364.52,
+      "to": 366.52,
+      "sid": 174,
+      "location": 2,
+      "content": "而且补贴的比例也是有所下调的",
+      "music": 0.0
+    },
+    {
+      "from": 366.52,
+      "to": 367.48,
+      "sid": 175,
+      "location": 2,
+      "content": "这里面举两个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 367.48,
+      "to": 368.6,
+      "sid": 176,
+      "location": 2,
+      "content": "比如家电的补贴额",
+      "music": 0.0
+    },
+    {
+      "from": 368.6,
+      "to": 370.5,
+      "sid": 177,
+      "location": 2,
+      "content": "它的比例呢是从之前的20%",
+      "music": 0.0
+    },
+    {
+      "from": 370.5,
+      "to": 372.7,
+      "sid": 178,
+      "location": 2,
+      "content": "下降到了现在至多是15%啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.7,
+      "to": 374.22,
+      "sid": 179,
+      "location": 2,
+      "content": "再比如说新能源汽车的补贴啊",
+      "music": 0.0
+    },
+    {
+      "from": 374.22,
+      "to": 375.66,
+      "sid": 180,
+      "location": 2,
+      "content": "之前是固定的一个金额",
+      "music": 0.0
+    },
+    {
+      "from": 375.66,
+      "to": 376.98,
+      "sid": 181,
+      "location": 2,
+      "content": "1.5万或者2万",
+      "music": 0.0
+    },
+    {
+      "from": 376.98,
+      "to": 378.34,
+      "sid": 182,
+      "location": 2,
+      "content": "现在呢是下调到了",
+      "music": 0.0
+    },
+    {
+      "from": 378.34,
+      "to": 381.46,
+      "sid": 183,
+      "location": 2,
+      "content": "按照车价的总金额的百分比去补贴啊",
+      "music": 0.0
+    },
+    {
+      "from": 381.46,
+      "to": 384.02,
+      "sid": 184,
+      "location": 2,
+      "content": "这其实啊之前有很多特别是野村的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 384.02,
+      "to": 384.86,
+      "sid": 185,
+      "location": 2,
+      "content": "都去强调了",
+      "music": 0.0
+    },
+    {
+      "from": 384.86,
+      "to": 387.789,
+      "sid": 186,
+      "location": 2,
+      "content": "就是它是不利于一些低端车型的销售的",
+      "music": 0.0
+    },
+    {
+      "from": 387.789,
+      "to": 390.189,
+      "sid": 187,
+      "location": 2,
+      "content": "那除了以旧换新的补贴退坡以外呢",
+      "music": 0.0
+    },
+    {
+      "from": 390.189,
+      "to": 392.669,
+      "sid": 188,
+      "location": 2,
+      "content": "还有就是更弱的就业环境",
+      "music": 0.0
+    },
+    {
+      "from": 392.669,
+      "to": 395.069,
+      "sid": 189,
+      "location": 2,
+      "content": "这也是今年的啊现实的情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 395.069,
+      "to": 396.76,
+      "sid": 190,
+      "location": 2,
+      "content": "我们看到的失业率啊",
+      "music": 0.0
+    },
+    {
+      "from": 396.76,
+      "to": 398.28,
+      "sid": 191,
+      "location": 2,
+      "content": "特别是你青年人口的失业率",
+      "music": 0.0
+    },
+    {
+      "from": 398.28,
+      "to": 399.84,
+      "sid": 192,
+      "location": 2,
+      "content": "表现也是非常之差的",
+      "music": 0.0
+    },
+    {
+      "from": 399.84,
+      "to": 401.6,
+      "sid": 193,
+      "location": 2,
+      "content": "另外呢就是目前出口啊",
+      "music": 0.0
+    },
+    {
+      "from": 401.6,
+      "to": 404.08,
+      "sid": 194,
+      "location": 2,
+      "content": "是处于一个增收不增岗的情况",
+      "music": 0.0
+    },
+    {
+      "from": 404.08,
+      "to": 406.04,
+      "sid": 195,
+      "location": 2,
+      "content": "什么是增收不增岗呢",
+      "music": 0.0
+    },
+    {
+      "from": 406.04,
+      "to": 407.72,
+      "sid": 196,
+      "location": 2,
+      "content": "就是之前反复给大家分享的",
+      "music": 0.0
+    },
+    {
+      "from": 407.72,
+      "to": 410.18,
+      "sid": 197,
+      "location": 2,
+      "content": "因为目前的虽然从数据上看",
+      "music": 0.0
+    },
+    {
+      "from": 410.18,
+      "to": 412.78,
+      "sid": 198,
+      "location": 2,
+      "content": "出口增速是保持在双位数啊",
+      "music": 0.0
+    },
+    {
+      "from": 412.78,
+      "to": 416.22,
+      "sid": 199,
+      "location": 2,
+      "content": "但是呢主要是集成电路和存储的价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 416.22,
+      "to": 417.1,
+      "sid": 200,
+      "location": 2,
+      "content": "所推动的",
+      "music": 0.0
+    },
+    {
+      "from": 417.1,
+      "to": 420.07,
+      "sid": 201,
+      "location": 2,
+      "content": "比如说之前野村那篇研报里面反复的去说啊",
+      "music": 0.0
+    },
+    {
+      "from": 420.07,
+      "to": 423.23,
+      "sid": 202,
+      "location": 2,
+      "content": "在拆解了4月份的出口同比增长",
+      "music": 0.0
+    },
+    {
+      "from": 423.23,
+      "to": 424.99,
+      "sid": 203,
+      "location": 2,
+      "content": "14.1%这个数据之后",
+      "music": 0.0
+    },
+    {
+      "from": 424.99,
+      "to": 426.19,
+      "sid": 204,
+      "location": 2,
+      "content": "发现有7%哎",
+      "music": 0.0
+    },
+    {
+      "from": 426.19,
+      "to": 427.87,
+      "sid": 205,
+      "location": 2,
+      "content": "就是有一半的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 427.87,
+      "to": 430.22,
+      "sid": 206,
+      "location": 2,
+      "content": "是因为几成电路和存储的价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 430.22,
+      "to": 432.12,
+      "sid": 207,
+      "location": 2,
+      "content": "推动的出口的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 432.12,
+      "to": 435.61,
+      "sid": 208,
+      "location": 2,
+      "content": "那剩下的啊这些量的上涨本身就比较有限了",
+      "music": 0.0
+    },
+    {
+      "from": 435.61,
+      "to": 437.45,
+      "sid": 209,
+      "location": 2,
+      "content": "而且呢由于高科技产品啊",
+      "music": 0.0
+    },
+    {
+      "from": 437.45,
+      "to": 439.97,
+      "sid": 210,
+      "location": 2,
+      "content": "它的出口占比是在不断的提升的",
+      "music": 0.0
+    },
+    {
+      "from": 439.97,
+      "to": 442.91,
+      "sid": 211,
+      "location": 2,
+      "content": "而这些行业呢它的自动化水平是非常高的",
+      "music": 0.0
+    },
+    {
+      "from": 442.91,
+      "to": 444.05,
+      "sid": 212,
+      "location": 2,
+      "content": "就基本上不需要劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 444.05,
+      "to": 444.82,
+      "sid": 213,
+      "location": 2,
+      "content": "不需要就业",
+      "music": 0.0
+    },
+    {
+      "from": 444.82,
+      "to": 448.1,
+      "sid": 214,
+      "location": 2,
+      "content": "基本上就是通过机器就可以完成这样一个生产",
+      "music": 0.0
+    },
+    {
+      "from": 448.1,
+      "to": 451.24,
+      "sid": 215,
+      "location": 2,
+      "content": "因此呢对国内的就业带动作用也是非常有限的",
+      "music": 0.0
+    },
+    {
+      "from": 451.24,
+      "to": 452.16,
+      "sid": 216,
+      "location": 2,
+      "content": "还有第三个原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 452.16,
+      "to": 453.6,
+      "sid": 217,
+      "location": 2,
+      "content": "就是制造业企业啊",
+      "music": 0.0
+    },
+    {
+      "from": 453.6,
+      "to": 455.88,
+      "sid": 218,
+      "location": 2,
+      "content": "在近几年已经在政府的这种支持下",
+      "music": 0.0
+    },
+    {
+      "from": 455.88,
+      "to": 458.68,
+      "sid": 219,
+      "location": 2,
+      "content": "做了很多的产线投资和厂房的投资",
+      "music": 0.0
+    },
+    {
+      "from": 458.68,
+      "to": 460.16,
+      "sid": 220,
+      "location": 2,
+      "content": "特别是在疫情之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 460.16,
+      "to": 462.12,
+      "sid": 221,
+      "location": 2,
+      "content": "用来去对冲经济的下行",
+      "music": 0.0
+    },
+    {
+      "from": 462.12,
+      "to": 463.72,
+      "sid": 222,
+      "location": 2,
+      "content": "也就是我们看到疫情之后",
+      "music": 0.0
+    },
+    {
+      "from": 463.72,
+      "to": 466.46,
+      "sid": 223,
+      "location": 2,
+      "content": "整个制造业投资的增长是非常明显的",
+      "music": 0.0
+    },
+    {
+      "from": 466.46,
+      "to": 468.42,
+      "sid": 224,
+      "location": 2,
+      "content": "因此呢在当下这个时间点",
+      "music": 0.0
+    },
+    {
+      "from": 468.42,
+      "to": 470.08,
+      "sid": 225,
+      "location": 2,
+      "content": "出口订单增加后",
+      "music": 0.0
+    },
+    {
+      "from": 470.08,
+      "to": 473.21,
+      "sid": 226,
+      "location": 2,
+      "content": "这些企业没有选择去扩产",
+      "music": 0.0
+    },
+    {
+      "from": 473.21,
+      "to": 475.75,
+      "sid": 227,
+      "location": 2,
+      "content": "或者说去新增产线的投资",
+      "music": 0.0
+    },
+    {
+      "from": 475.75,
+      "to": 479.07,
+      "sid": 228,
+      "location": 2,
+      "content": "而是优先选择把之前闲置的一些产线",
+      "music": 0.0
+    },
+    {
+      "from": 479.07,
+      "to": 481.2,
+      "sid": 229,
+      "location": 2,
+      "content": "包括它的产能利用率提升起来",
+      "music": 0.0
+    },
+    {
+      "from": 481.2,
+      "to": 484.36,
+      "sid": 230,
+      "location": 2,
+      "content": "那这就导致了没有增加新的固定资产投资",
+      "music": 0.0
+    },
+    {
+      "from": 484.36,
+      "to": 485.82,
+      "sid": 231,
+      "location": 2,
+      "content": "或者说这个资本开支",
+      "music": 0.0
+    },
+    {
+      "from": 485.82,
+      "to": 488.56,
+      "sid": 232,
+      "location": 2,
+      "content": "那也就很难去拉动建筑业的活动",
+      "music": 0.0
+    },
+    {
+      "from": 488.56,
+      "to": 489.52,
+      "sid": 233,
+      "location": 2,
+      "content": "那从而呢",
+      "music": 0.0
+    },
+    {
+      "from": 489.52,
+      "to": 490.72,
+      "sid": 234,
+      "location": 2,
+      "content": "出口对于国内",
+      "music": 0.0
+    },
+    {
+      "from": 490.72,
+      "to": 493.51,
+      "sid": 235,
+      "location": 2,
+      "content": "劳动力市场的外溢效应就非常之弱",
+      "music": 0.0
+    },
+    {
+      "from": 493.51,
+      "to": 495.03,
+      "sid": 236,
+      "location": 2,
+      "content": "所以大模呢是认为",
+      "music": 0.0
+    },
+    {
+      "from": 495.03,
+      "to": 498.93,
+      "sid": 237,
+      "location": 2,
+      "content": "未来消费者五因子模型还有可能进一步的走弱",
+      "music": 0.0
+    },
+    {
+      "from": 498.93,
+      "to": 501.43,
+      "sid": 238,
+      "location": 2,
+      "content": "也就是图中大家看到的这条红色的线",
+      "music": 0.0
+    },
+    {
+      "from": 501.43,
+      "to": 503.63,
+      "sid": 239,
+      "location": 2,
+      "content": "可能会继续的往下走",
+      "music": 0.0
+    },
+    {
+      "from": 503.63,
+      "to": 505.62,
+      "sid": 240,
+      "location": 2,
+      "content": "甚至是可能会超过22年",
+      "music": 0.0
+    },
+    {
+      "from": 505.62,
+      "to": 508.06,
+      "sid": 241,
+      "location": 2,
+      "content": "这个上海封城时候的一个状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 508.06,
+      "to": 509.86,
+      "sid": 242,
+      "location": 2,
+      "content": "当然虽然大摩的研报里没这么说",
+      "music": 0.0
+    },
+    {
+      "from": 509.86,
+      "to": 510.94,
+      "sid": 243,
+      "location": 2,
+      "content": "但是从这个数据来看",
+      "music": 0.0
+    },
+    {
+      "from": 510.94,
+      "to": 514.23,
+      "sid": 244,
+      "location": 2,
+      "content": "其实已经非常接近当时的一个低点了啊",
+      "music": 0.0
+    },
+    {
+      "from": 514.63,
+      "to": 516.51,
+      "sid": 245,
+      "location": 2,
+      "content": "而且呢这里面我再补充一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 516.51,
+      "to": 518.51,
+      "sid": 246,
+      "location": 2,
+      "content": "就是昨天呢路透社的一个消息啊",
+      "music": 0.0
+    },
+    {
+      "from": 518.51,
+      "to": 519.71,
+      "sid": 247,
+      "location": 2,
+      "content": "我相信大家都关注到了",
+      "music": 0.0
+    },
+    {
+      "from": 519.71,
+      "to": 521.399,
+      "sid": 248,
+      "location": 2,
+      "content": "是说中国的人民银行啊",
+      "music": 0.0
+    },
+    {
+      "from": 525.039,
+      "to": 527.71,
+      "sid": 249,
+      "location": 2,
+      "content": "在5月份加大放贷的力度",
+      "music": 0.0
+    },
+    {
+      "from": 527.71,
+      "to": 530.28,
+      "sid": 250,
+      "location": 2,
+      "content": "那从这个角度大家也可以预预判一下",
+      "music": 0.0
+    },
+    {
+      "from": 530.28,
+      "to": 532.56,
+      "sid": 251,
+      "location": 2,
+      "content": "5月的居民贷款数据会是怎样的",
+      "music": 0.0
+    },
+    {
+      "from": 532.56,
+      "to": 534.14,
+      "sid": 252,
+      "location": 2,
+      "content": "我就不给大家去多说了",
+      "music": 0.0
+    },
+    {
+      "from": 534.14,
+      "to": 537.16,
+      "sid": 253,
+      "location": 2,
+      "content": "显然现在大家是真的没有贷款意愿",
+      "music": 0.0
+    },
+    {
+      "from": 537.16,
+      "to": 538.68,
+      "sid": 254,
+      "location": 2,
+      "content": "特别是私营部门啊",
+      "music": 0.0
+    },
+    {
+      "from": 538.68,
+      "to": 540.12,
+      "sid": 255,
+      "location": 2,
+      "content": "那么从历史经验看呢",
+      "music": 0.0
+    },
+    {
+      "from": 540.12,
+      "to": 542.6,
+      "sid": 256,
+      "location": 2,
+      "content": "由于这个经济基本面啊往下走的话",
+      "music": 0.0
+    },
+    {
+      "from": 542.6,
+      "to": 544.46,
+      "sid": 257,
+      "location": 2,
+      "content": "可能会带动m i c i china",
+      "music": 0.0
+    },
+    {
+      "from": 544.46,
+      "to": 546.65,
+      "sid": 258,
+      "location": 2,
+      "content": "这条蓝色的线继续往下走",
+      "music": 0.0
+    },
+    {
+      "from": 546.65,
+      "to": 547.93,
+      "sid": 259,
+      "location": 2,
+      "content": "特别是在最近啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.93,
+      "to": 550.75,
+      "sid": 260,
+      "location": 2,
+      "content": "这条蓝色的线其实已经非常接近于零值区间了",
+      "music": 0.0
+    },
+    {
+      "from": 550.75,
+      "to": 553.34,
+      "sid": 261,
+      "location": 2,
+      "content": "所以未来如果红色的线继续往下走",
+      "music": 0.0
+    },
+    {
+      "from": 553.34,
+      "to": 555.3,
+      "sid": 262,
+      "location": 2,
+      "content": "可能按照历史经验来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 555.3,
+      "to": 557.06,
+      "sid": 263,
+      "location": 2,
+      "content": "至少可能会带动民生",
+      "music": 0.0
+    },
+    {
+      "from": 557.06,
+      "to": 559.46,
+      "sid": 264,
+      "location": 2,
+      "content": "中国指数进入到负增长的区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 559.46,
+      "to": 561.13,
+      "sid": 265,
+      "location": 2,
+      "content": "当然是一个同比的负增长",
+      "music": 0.0
+    },
+    {
+      "from": 561.13,
+      "to": 563.49,
+      "sid": 266,
+      "location": 2,
+      "content": "那接下来呢我们再来看一下第二张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 563.49,
+      "to": 566.0,
+      "sid": 267,
+      "location": 2,
+      "content": "就是刚才讲到的这个自由流动性的指标",
+      "music": 0.0
+    },
+    {
+      "from": 566.0,
+      "to": 567.88,
+      "sid": 268,
+      "location": 2,
+      "content": "这样一张图我也给大家放大一下",
+      "music": 0.0
+    },
+    {
+      "from": 567.88,
+      "to": 569.64,
+      "sid": 269,
+      "location": 2,
+      "content": "这张图里面呢蓝色的线啊",
+      "music": 0.0
+    },
+    {
+      "from": 569.64,
+      "to": 572.02,
+      "sid": 270,
+      "location": 2,
+      "content": "是自由流动性指标的同比变化",
+      "music": 0.0
+    },
+    {
+      "from": 572.02,
+      "to": 574.94,
+      "sid": 271,
+      "location": 2,
+      "content": "而红色的线换成了m si china的同比变化",
+      "music": 0.0
+    },
+    {
+      "from": 574.94,
+      "to": 576.86,
+      "sid": 272,
+      "location": 2,
+      "content": "刚才m si china是蓝色线啊",
+      "music": 0.0
+    },
+    {
+      "from": 576.86,
+      "to": 578.98,
+      "sid": 273,
+      "location": 2,
+      "content": "这里面它这个颜色不太一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 578.98,
+      "to": 580.68,
+      "sid": 274,
+      "location": 2,
+      "content": "所以我特意给大家说明一下",
+      "music": 0.0
+    },
+    {
+      "from": 580.68,
+      "to": 581.44,
+      "sid": 275,
+      "location": 2,
+      "content": "那可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 581.44,
+      "to": 583.64,
+      "sid": 276,
+      "location": 2,
+      "content": "从历史上蓝线呢在大部分时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 583.64,
+      "to": 585.56,
+      "sid": 277,
+      "location": 2,
+      "content": "还都是零领先于红色线的啊",
+      "music": 0.0
+    },
+    {
+      "from": 585.56,
+      "to": 587.24,
+      "sid": 278,
+      "location": 2,
+      "content": "特别是我现在鼠标画的",
+      "music": 0.0
+    },
+    {
+      "from": 587.24,
+      "to": 588.24,
+      "sid": 279,
+      "location": 2,
+      "content": "比如说这个位置啊",
+      "music": 0.0
+    },
+    {
+      "from": 588.24,
+      "to": 590.08,
+      "sid": 280,
+      "location": 2,
+      "content": "大家可以看到在零八到09年啊",
+      "music": 0.0
+    },
+    {
+      "from": 590.08,
+      "to": 592.8,
+      "sid": 281,
+      "location": 2,
+      "content": "当时非常明显的就是蓝色线上行以后",
+      "music": 0.0
+    },
+    {
+      "from": 592.8,
+      "to": 594.52,
+      "sid": 282,
+      "location": 2,
+      "content": "就带动了红色线的上行啊",
+      "music": 0.0
+    },
+    {
+      "from": 594.52,
+      "to": 596.8,
+      "sid": 283,
+      "location": 2,
+      "content": "那包括最近一段时间其实也都有类似的情况",
+      "music": 0.0
+    },
+    {
+      "from": 596.8,
+      "to": 598.78,
+      "sid": 284,
+      "location": 2,
+      "content": "当然其中也有一些时间点是背离的",
+      "music": 0.0
+    },
+    {
+      "from": 598.78,
+      "to": 600.18,
+      "sid": 285,
+      "location": 2,
+      "content": "但是最近一段时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 600.18,
+      "to": 601.86,
+      "sid": 286,
+      "location": 2,
+      "content": "特别是24年的924之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 601.86,
+      "to": 605.05,
+      "sid": 287,
+      "location": 2,
+      "content": "我们可以看到其实就有类似的现象发生啊",
+      "music": 0.0
+    },
+    {
+      "from": 605.05,
+      "to": 606.41,
+      "sid": 288,
+      "location": 2,
+      "content": "如果大家还有印象呢",
+      "music": 0.0
+    },
+    {
+      "from": 606.41,
+      "to": 608.13,
+      "sid": 289,
+      "location": 2,
+      "content": "当时啊大家都说啊",
+      "music": 0.0
+    },
+    {
+      "from": 608.13,
+      "to": 612.5,
+      "sid": 290,
+      "location": 2,
+      "content": "924之后的股市上行是流动性驱动的牛市",
+      "music": 0.0
+    },
+    {
+      "from": 612.5,
+      "to": 614.46,
+      "sid": 291,
+      "location": 2,
+      "content": "那因为呢24年924之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 614.46,
+      "to": 616.46,
+      "sid": 292,
+      "location": 2,
+      "content": "经济的基本面其实没有好转的",
+      "music": 0.0
+    },
+    {
+      "from": 616.46,
+      "to": 618.42,
+      "sid": 293,
+      "location": 2,
+      "content": "虽然说也许预期稍有好转啊",
+      "music": 0.0
+    },
+    {
+      "from": 618.42,
+      "to": 620.34,
+      "sid": 294,
+      "location": 2,
+      "content": "但是经济基本面没有明显的好转",
+      "music": 0.0
+    },
+    {
+      "from": 620.34,
+      "to": 622.62,
+      "sid": 295,
+      "location": 2,
+      "content": "如果我们看图中这条蓝色线也能看到",
+      "music": 0.0
+    },
+    {
+      "from": 622.62,
+      "to": 624.24,
+      "sid": 296,
+      "location": 2,
+      "content": "就是自924之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 624.24,
+      "to": 626.34,
+      "sid": 297,
+      "location": 2,
+      "content": "自由流动性指标呢是从低位反弹",
+      "music": 0.0
+    },
+    {
+      "from": 626.34,
+      "to": 629.16,
+      "sid": 298,
+      "location": 2,
+      "content": "也推动了后面股市的一路上行",
+      "music": 0.0
+    },
+    {
+      "from": 629.16,
+      "to": 630.72,
+      "sid": 299,
+      "location": 2,
+      "content": "从2600点到现在啊",
+      "music": 0.0
+    },
+    {
+      "from": 630.72,
+      "to": 632.46,
+      "sid": 300,
+      "location": 2,
+      "content": "4100点多一个水平",
+      "music": 0.0
+    },
+    {
+      "from": 632.46,
+      "to": 633.64,
+      "sid": 301,
+      "location": 2,
+      "content": "而最近一段时间呢",
+      "music": 0.0
+    },
+    {
+      "from": 633.64,
+      "to": 636.08,
+      "sid": 302,
+      "location": 2,
+      "content": "蓝色的线是在持持续的下探的",
+      "music": 0.0
+    },
+    {
+      "from": 636.08,
+      "to": 638.74,
+      "sid": 303,
+      "location": 2,
+      "content": "也就是说流动性呢在逐渐的收紧",
+      "music": 0.0
+    },
+    {
+      "from": 638.74,
+      "to": 641.08,
+      "sid": 304,
+      "location": 2,
+      "content": "这里面呢有几个方面的驱动因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 641.08,
+      "to": 642.32,
+      "sid": 305,
+      "location": 2,
+      "content": "首先呢大模式认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.32,
+      "to": 645.38,
+      "sid": 306,
+      "location": 2,
+      "content": "就是M1的增速自身就不是特别高",
+      "music": 0.0
+    },
+    {
+      "from": 645.38,
+      "to": 648.18,
+      "sid": 307,
+      "location": 2,
+      "content": "而PPI呢在最近又有超预期的上行啊",
+      "music": 0.0
+    },
+    {
+      "from": 648.18,
+      "to": 650.66,
+      "sid": 308,
+      "location": 2,
+      "content": "这主要是由于油价的上涨来带动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 650.66,
+      "to": 652.26,
+      "sid": 309,
+      "location": 2,
+      "content": "特别是在3月份转正之后",
+      "music": 0.0
+    },
+    {
+      "from": 652.26,
+      "to": 654.48,
+      "sid": 310,
+      "location": 2,
+      "content": "4月份又迎来了大幅的上行",
+      "music": 0.0
+    },
+    {
+      "from": 654.48,
+      "to": 656.74,
+      "sid": 311,
+      "location": 2,
+      "content": "再加上出口韧性比较强啊",
+      "music": 0.0
+    },
+    {
+      "from": 656.74,
+      "to": 658.28,
+      "sid": 312,
+      "location": 2,
+      "content": "也拉动了工增啊",
+      "music": 0.0
+    },
+    {
+      "from": 658.28,
+      "to": 660.5,
+      "sid": 313,
+      "location": 2,
+      "content": "就工业增加值它的这个增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 660.5,
+      "to": 662.66,
+      "sid": 314,
+      "location": 2,
+      "content": "持续表现还是比较好的啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.66,
+      "to": 664.76,
+      "sid": 315,
+      "location": 2,
+      "content": "至少是在接近五的水平",
+      "music": 0.0
+    },
+    {
+      "from": 664.76,
+      "to": 667.52,
+      "sid": 316,
+      "location": 2,
+      "content": "那所以呢M1的同比减去PPI的同比",
+      "music": 0.0
+    },
+    {
+      "from": 667.52,
+      "to": 669.46,
+      "sid": 317,
+      "location": 2,
+      "content": "再减去工增的同比之后",
+      "music": 0.0
+    },
+    {
+      "from": 669.46,
+      "to": 672.7,
+      "sid": 318,
+      "location": 2,
+      "content": "这个自由流动性指标近期就有明显的回落了",
+      "music": 0.0
+    },
+    {
+      "from": 672.7,
+      "to": 674.1,
+      "sid": 319,
+      "location": 2,
+      "content": "而且呢由于中东冲突啊",
+      "music": 0.0
+    },
+    {
+      "from": 674.1,
+      "to": 677.08,
+      "sid": 320,
+      "location": 2,
+      "content": "导致物价可能在今年是持续的维持高位了",
+      "music": 0.0
+    },
+    {
+      "from": 677.08,
+      "to": 679.4,
+      "sid": 321,
+      "location": 2,
+      "content": "至少今年肯定是回不到之前",
+      "music": 0.0
+    },
+    {
+      "from": 679.4,
+      "to": 681.96,
+      "sid": 322,
+      "location": 2,
+      "content": "60~65美元的这个油价的区间了",
+      "music": 0.0
+    },
+    {
+      "from": 681.96,
+      "to": 683.84,
+      "sid": 323,
+      "location": 2,
+      "content": "那因此呢PPI的同比增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 683.84,
+      "to": 686.06,
+      "sid": 324,
+      "location": 2,
+      "content": "在今年大概率都保持在高位",
+      "music": 0.0
+    },
+    {
+      "from": 686.06,
+      "to": 689.28,
+      "sid": 325,
+      "location": 2,
+      "content": "而且中国的出口今年肯定还能保持韧性",
+      "music": 0.0
+    },
+    {
+      "from": 689.28,
+      "to": 690.62,
+      "sid": 326,
+      "location": 2,
+      "content": "所以自由流动性指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 690.62,
+      "to": 694.46,
+      "sid": 327,
+      "location": 2,
+      "content": "在2026年预预计都会维持在负增长的区间",
+      "music": 0.0
+    },
+    {
+      "from": 694.46,
+      "to": 696.88,
+      "sid": 328,
+      "location": 2,
+      "content": "那如果说蓝色的线继续的下探呢",
+      "music": 0.0
+    },
+    {
+      "from": 696.88,
+      "to": 700.92,
+      "sid": 329,
+      "location": 2,
+      "content": "有可能也会从资金面的角度带动msi china",
+      "music": 0.0
+    },
+    {
+      "from": 700.92,
+      "to": 701.64,
+      "sid": 330,
+      "location": 2,
+      "content": "就是名胜中国",
+      "music": 0.0
+    },
+    {
+      "from": 701.64,
+      "to": 705.0,
+      "sid": 331,
+      "location": 2,
+      "content": "这条红色的线继续的进入到负值的区间",
+      "music": 0.0
+    },
+    {
+      "from": 705.0,
+      "to": 707.48,
+      "sid": 332,
+      "location": 2,
+      "content": "所以呢综合刚才讲到的基本面啊",
+      "music": 0.0
+    },
+    {
+      "from": 707.48,
+      "to": 709.08,
+      "sid": 333,
+      "location": 2,
+      "content": "也就是大家现在看到这张图",
+      "music": 0.0
+    },
+    {
+      "from": 709.08,
+      "to": 710.24,
+      "sid": 334,
+      "location": 2,
+      "content": "还有资金面啊",
+      "music": 0.0
+    },
+    {
+      "from": 710.24,
+      "to": 711.5,
+      "sid": 335,
+      "location": 2,
+      "content": "刚刚讲到的这张图",
+      "music": 0.0
+    },
+    {
+      "from": 711.5,
+      "to": 713.1,
+      "sid": 336,
+      "location": 2,
+      "content": "这两张图的走势来看",
+      "music": 0.0
+    },
+    {
+      "from": 713.1,
+      "to": 717.18,
+      "sid": 337,
+      "location": 2,
+      "content": "似乎股市呢今年可能都没有贝塔的机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 717.18,
+      "to": 719.58,
+      "sid": 338,
+      "location": 2,
+      "content": "就是只有其中部分板块啊",
+      "music": 0.0
+    },
+    {
+      "from": 719.58,
+      "to": 721.16,
+      "sid": 339,
+      "location": 2,
+      "content": "可能会有阿尔法的机会",
+      "music": 0.0
+    },
+    {
+      "from": 721.16,
+      "to": 722.76,
+      "sid": 340,
+      "location": 2,
+      "content": "但是总量上来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 722.76,
+      "to": 725.06,
+      "sid": 341,
+      "location": 2,
+      "content": "今年这个点位想继续再创新高",
+      "music": 0.0
+    },
+    {
+      "from": 725.06,
+      "to": 726.24,
+      "sid": 342,
+      "location": 2,
+      "content": "难度是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 726.24,
+      "to": 727.9,
+      "sid": 343,
+      "location": 2,
+      "content": "哪怕就是阶段性的新高",
+      "music": 0.0
+    },
+    {
+      "from": 731.12,
+      "to": 732.12,
+      "sid": 344,
+      "location": 2,
+      "content": "叫玛琳达胡",
+      "music": 0.0
+    },
+    {
+      "from": 732.12,
+      "to": 734.1,
+      "sid": 345,
+      "location": 2,
+      "content": "他最近的离职啊",
+      "music": 0.0
+    },
+    {
+      "from": 734.1,
+      "to": 736.96,
+      "sid": 346,
+      "location": 2,
+      "content": "也是让整个行业在关注中国的消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 738.86,
+      "to": 743.6,
+      "sid": 347,
+      "location": 2,
+      "content": "明确表示将终止对中国消费行业的研究覆盖了",
+      "music": 0.0
+    },
+    {
+      "from": 743.6,
+      "to": 745.2,
+      "sid": 348,
+      "location": 2,
+      "content": "所以这类基本面行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 745.2,
+      "to": 746.88,
+      "sid": 349,
+      "location": 2,
+      "content": "估计都没什么投资机会了",
+      "music": 0.0
+    },
+    {
+      "from": 746.88,
+      "to": 747.9,
+      "sid": 350,
+      "location": 2,
+      "content": "包括房地产啊",
+      "music": 0.0
+    },
+    {
+      "from": 747.9,
+      "to": 749.18,
+      "sid": 351,
+      "location": 2,
+      "content": "呃万德的房地产指数",
+      "music": 0.0
+    },
+    {
+      "from": 749.18,
+      "to": 750.02,
+      "sid": 352,
+      "location": 2,
+      "content": "我大概查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 750.02,
+      "to": 751.42,
+      "sid": 353,
+      "location": 2,
+      "content": "从5月12号的高点",
+      "music": 0.0
+    },
+    {
+      "from": 751.42,
+      "to": 753.9,
+      "sid": 354,
+      "location": 2,
+      "content": "到现在已经下跌了11%了",
+      "music": 0.0
+    },
+    {
+      "from": 753.9,
+      "to": 754.48,
+      "sid": 355,
+      "location": 2,
+      "content": "差不多",
+      "music": 0.0
+    },
+    {
+      "from": 754.48,
+      "to": 756.88,
+      "sid": 356,
+      "location": 2,
+      "content": "那就快回到之前的低点了啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.88,
+      "to": 757.72,
+      "sid": 357,
+      "location": 2,
+      "content": "其实从这个视角",
+      "music": 0.0
+    },
+    {
+      "from": 757.72,
+      "to": 760.56,
+      "sid": 358,
+      "location": 2,
+      "content": "我们回忆一下大摩的地产首席斯蒂文",
+      "music": 0.0
+    },
+    {
+      "from": 760.56,
+      "to": 762.36,
+      "sid": 359,
+      "location": 2,
+      "content": "他的判断还是非常准确的啊",
+      "music": 0.0
+    },
+    {
+      "from": 762.36,
+      "to": 763.84,
+      "sid": 360,
+      "location": 2,
+      "content": "虽然他的报告稍微有点晚",
+      "music": 0.0
+    },
+    {
+      "from": 763.84,
+      "to": 765.46,
+      "sid": 361,
+      "location": 2,
+      "content": "是是在5月18号发表的",
+      "music": 0.0
+    },
+    {
+      "from": 765.46,
+      "to": 768.24,
+      "sid": 362,
+      "location": 2,
+      "content": "但是他当时是明确的警示市场",
+      "music": 0.0
+    },
+    {
+      "from": 768.24,
+      "to": 771.34,
+      "sid": 363,
+      "location": 2,
+      "content": "房地产的板块估值存在一定的泡沫和风险",
+      "music": 0.0
+    },
+    {
+      "from": 771.34,
+      "to": 773.7,
+      "sid": 364,
+      "location": 2,
+      "content": "因为基本面的改善是不可持续的",
+      "music": 0.0
+    },
+    {
+      "from": 773.7,
+      "to": 775.0,
+      "sid": 365,
+      "location": 2,
+      "content": "那回过头来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.0,
+      "to": 776.36,
+      "sid": 366,
+      "location": 2,
+      "content": "至少到目前为止",
+      "music": 0.0
+    },
+    {
+      "from": 776.36,
+      "to": 777.56,
+      "sid": 367,
+      "location": 2,
+      "content": "STEPHEN的判断是对的",
+      "music": 0.0
+    },
+    {
+      "from": 777.56,
+      "to": 779.76,
+      "sid": 368,
+      "location": 2,
+      "content": "而之前像啊瑞银的draw lam啊",
+      "music": 0.0
+    },
+    {
+      "from": 779.76,
+      "to": 780.6,
+      "sid": 369,
+      "location": 2,
+      "content": "打不过就加入",
+      "music": 0.0
+    },
+    {
+      "from": 780.6,
+      "to": 783.04,
+      "sid": 370,
+      "location": 2,
+      "content": "反而呃似乎是有点踩错了时间点啊",
+      "music": 0.0
+    },
+    {
+      "from": 783.04,
+      "to": 784.56,
+      "sid": 371,
+      "location": 2,
+      "content": "当然呢也会有很多小伙伴说啊",
+      "music": 0.0
+    },
+    {
+      "from": 784.56,
+      "to": 785.84,
+      "sid": 372,
+      "location": 2,
+      "content": "他们本身可能目的",
+      "music": 0.0
+    },
+    {
+      "from": 785.84,
+      "to": 788.04,
+      "sid": 373,
+      "location": 2,
+      "content": "就是为了帮助他的客户出货啊",
+      "music": 0.0
+    },
+    {
+      "from": 788.04,
+      "to": 789.35,
+      "sid": 374,
+      "location": 2,
+      "content": "这个我们就不去争论了",
+      "music": 0.0
+    },
+    {
+      "from": 789.35,
+      "to": 791.99,
+      "sid": 375,
+      "location": 2,
+      "content": "那由于今年跟经济基本面相关的",
+      "music": 0.0
+    },
+    {
+      "from": 791.99,
+      "to": 794.71,
+      "sid": 376,
+      "location": 2,
+      "content": "消费和房地产可能都没有太多的机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 794.71,
+      "to": 796.95,
+      "sid": 377,
+      "location": 2,
+      "content": "所以阿尔法可能主要还是在",
+      "music": 0.0
+    },
+    {
+      "from": 796.95,
+      "to": 799.28,
+      "sid": 378,
+      "location": 2,
+      "content": "和经济基本面没有关系的一些行业",
+      "music": 0.0
+    },
+    {
+      "from": 799.28,
+      "to": 800.24,
+      "sid": 379,
+      "location": 2,
+      "content": "比如说通信",
+      "music": 0.0
+    },
+    {
+      "from": 800.24,
+      "to": 801.08,
+      "sid": 380,
+      "location": 2,
+      "content": "比如说半导体",
+      "music": 0.0
+    },
+    {
+      "from": 801.08,
+      "to": 802.72,
+      "sid": 381,
+      "location": 2,
+      "content": "比如说军工啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 802.72,
+      "to": 805.47,
+      "sid": 382,
+      "location": 2,
+      "content": "这些领域也许还会有机会好了",
+      "music": 0.0
+    },
+    {
+      "from": 805.47,
+      "to": 808.09,
+      "sid": 383,
+      "location": 2,
+      "content": "那今天呢就简单的借着大摩的这两篇",
+      "music": 0.0
+    },
+    {
+      "from": 808.09,
+      "to": 809.03,
+      "sid": 384,
+      "location": 2,
+      "content": "策略研报吧",
+      "music": 0.0
+    },
+    {
+      "from": 809.03,
+      "to": 811.31,
+      "sid": 385,
+      "location": 2,
+      "content": "来跟大家分享一下中国的经济",
+      "music": 0.0
+    },
+    {
+      "from": 811.31,
+      "to": 813.42,
+      "sid": 386,
+      "location": 2,
+      "content": "基本面和资金面的情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 813.42,
+      "to": 815.7,
+      "sid": 387,
+      "location": 2,
+      "content": "当然这两个指标呢作为msi china",
+      "music": 0.0
+    },
+    {
+      "from": 815.7,
+      "to": 817.64,
+      "sid": 388,
+      "location": 2,
+      "content": "就名胜中国指数的一个领先指标",
+      "music": 0.0
+    },
+    {
+      "from": 817.64,
+      "to": 820.52,
+      "sid": 389,
+      "location": 2,
+      "content": "也给大家做一些前瞻的思考吧",
+      "music": 0.0
+    },
+    {
+      "from": 820.52,
+      "to": 821.64,
+      "sid": 390,
+      "location": 2,
+      "content": "那还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 821.64,
+      "to": 823.32,
+      "sid": 391,
+      "location": 2,
+      "content": "如果大家对这两篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 823.32,
+      "to": 825.84,
+      "sid": 392,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 825.84,
+      "to": 826.92,
+      "sid": 393,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 826.92,
+      "to": 828.3,
+      "sid": 394,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 828.3,
+      "to": 829.82,
+      "sid": 395,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 829.82,
+      "to": 830.52,
+      "sid": 396,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

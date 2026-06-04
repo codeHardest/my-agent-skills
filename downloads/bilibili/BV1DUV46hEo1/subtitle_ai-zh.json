@@ -1,0 +1,1276 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 0.7,
+      "sid": 1,
+      "location": 2,
+      "content": "朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 0.7,
+      "to": 1.72,
+      "sid": 2,
+      "location": 2,
+      "content": "你们想过没有",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 4.26,
+      "sid": 3,
+      "location": 2,
+      "content": "一辆中国电动车在英国卖得挺火",
+      "music": 0.0
+    },
+    {
+      "from": 4.26,
+      "to": 6.74,
+      "sid": 4,
+      "location": 2,
+      "content": "结果下个月销量直接砍掉2/3",
+      "music": 0.0
+    },
+    {
+      "from": 6.74,
+      "to": 7.54,
+      "sid": 5,
+      "location": 2,
+      "content": "这是咋回事",
+      "music": 0.0
+    },
+    {
+      "from": 7.54,
+      "to": 8.7,
+      "sid": 6,
+      "location": 2,
+      "content": "这是出质量问题啦",
+      "music": 0.0
+    },
+    {
+      "from": 8.7,
+      "to": 9.8,
+      "sid": 7,
+      "location": 2,
+      "content": "还是口碑崩了",
+      "music": 0.0
+    },
+    {
+      "from": 9.8,
+      "to": 11.21,
+      "sid": 8,
+      "location": 2,
+      "content": "都不是人家",
+      "music": 0.0
+    },
+    {
+      "from": 11.21,
+      "to": 13.14,
+      "sid": 9,
+      "location": 2,
+      "content": "这叫正常化回调",
+      "music": 0.0
+    },
+    {
+      "from": 13.14,
+      "to": 16.7,
+      "sid": 10,
+      "location": 2,
+      "content": "这就是比亚迪今年4月在英国注册量",
+      "music": 0.0
+    },
+    {
+      "from": 16.7,
+      "to": 18.06,
+      "sid": 11,
+      "location": 2,
+      "content": "从3月的1万5000辆",
+      "music": 0.0
+    },
+    {
+      "from": 18.06,
+      "to": 19.28,
+      "sid": 12,
+      "location": 2,
+      "content": "直接掉到5000辆",
+      "music": 0.0
+    },
+    {
+      "from": 19.28,
+      "to": 21.28,
+      "sid": 13,
+      "location": 2,
+      "content": "把整体海外销量都拖累了",
+      "music": 0.0
+    },
+    {
+      "from": 21.28,
+      "to": 23.77,
+      "sid": 14,
+      "location": 2,
+      "content": "环比下滑了10%到15%嚯",
+      "music": 0.0
+    },
+    {
+      "from": 23.77,
+      "to": 25.09,
+      "sid": 15,
+      "location": 2,
+      "content": "这落差也太大了",
+      "music": 0.0
+    },
+    {
+      "from": 25.09,
+      "to": 26.19,
+      "sid": 16,
+      "location": 2,
+      "content": "更有意思的是",
+      "music": 0.0
+    },
+    {
+      "from": 26.19,
+      "to": 30.4,
+      "sid": 17,
+      "location": 2,
+      "content": "隔壁吉利在巴西单月销量暴涨210%",
+      "music": 0.0
+    },
+    {
+      "from": 30.4,
+      "to": 32.68,
+      "sid": 18,
+      "location": 2,
+      "content": "澳大利亚也猛增57%",
+      "music": 0.0
+    },
+    {
+      "from": 32.68,
+      "to": 34.16,
+      "sid": 19,
+      "location": 2,
+      "content": "成了头部车企里",
+      "music": 0.0
+    },
+    {
+      "from": 34.16,
+      "to": 36.96,
+      "sid": 20,
+      "location": 2,
+      "content": "唯一实现海外销量环比正增长的选手",
+      "music": 0.0
+    },
+    {
+      "from": 36.96,
+      "to": 39.21,
+      "sid": 21,
+      "location": 2,
+      "content": "这一冷一热反差够大的啊",
+      "music": 0.0
+    },
+    {
+      "from": 39.21,
+      "to": 41.23,
+      "sid": 22,
+      "location": 2,
+      "content": "这反差背后有啥门道",
+      "music": 0.0
+    },
+    {
+      "from": 41.23,
+      "to": 43.63,
+      "sid": 23,
+      "location": 2,
+      "content": "今天咱们就拆解大摩最新的研报",
+      "music": 0.0
+    },
+    {
+      "from": 43.63,
+      "to": 45.27,
+      "sid": 24,
+      "location": 2,
+      "content": "聊聊中国车企出海",
+      "music": 0.0
+    },
+    {
+      "from": 45.27,
+      "to": 47.95,
+      "sid": 25,
+      "location": 2,
+      "content": "在2026年4月的真实表现",
+      "music": 0.0
+    },
+    {
+      "from": 47.95,
+      "to": 49.79,
+      "sid": 26,
+      "location": 2,
+      "content": "还得是看数据说话",
+      "music": 0.0
+    },
+    {
+      "from": 49.79,
+      "to": 51.15,
+      "sid": 27,
+      "location": 2,
+      "content": "先看整体格局",
+      "music": 0.0
+    },
+    {
+      "from": 51.15,
+      "to": 54.97,
+      "sid": 28,
+      "location": 2,
+      "content": "现在这出海啊已经进入结构性分化阶段了",
+      "music": 0.0
+    },
+    {
+      "from": 54.97,
+      "to": 55.67,
+      "sid": 29,
+      "location": 2,
+      "content": "怎么个分化",
+      "music": 0.0
+    },
+    {
+      "from": 55.67,
+      "to": 57.86,
+      "sid": 30,
+      "location": 2,
+      "content": "法吉利那是本月的优等生",
+      "music": 0.0
+    },
+    {
+      "from": 57.86,
+      "to": 60.68,
+      "sid": 31,
+      "location": 2,
+      "content": "海外销量环比增长10%到15%",
+      "music": 0.0
+    },
+    {
+      "from": 60.68,
+      "to": 62.8,
+      "sid": 32,
+      "location": 2,
+      "content": "全靠巴西和澳洲发力",
+      "music": 0.0
+    },
+    {
+      "from": 62.8,
+      "to": 63.6,
+      "sid": 33,
+      "location": 2,
+      "content": "那比亚迪呢",
+      "music": 0.0
+    },
+    {
+      "from": 63.6,
+      "to": 65.4,
+      "sid": 34,
+      "location": 2,
+      "content": "比亚迪虽然环比下滑",
+      "music": 0.0
+    },
+    {
+      "from": 65.4,
+      "to": 68.259,
+      "sid": 35,
+      "location": 2,
+      "content": "但那是英国高基术后的自然回落",
+      "music": 0.0
+    },
+    {
+      "from": 68.259,
+      "to": 70.159,
+      "sid": 36,
+      "location": 2,
+      "content": "他在巴西澳洲",
+      "music": 0.0
+    },
+    {
+      "from": 70.159,
+      "to": 71.579,
+      "sid": 37,
+      "location": 2,
+      "content": "印尼这三个市场",
+      "music": 0.0
+    },
+    {
+      "from": 71.579,
+      "to": 74.219,
+      "sid": 38,
+      "location": 2,
+      "content": "合计贡献了44%的海外销量",
+      "music": 0.0
+    },
+    {
+      "from": 74.219,
+      "to": 76.399,
+      "sid": 39,
+      "location": 2,
+      "content": "而且全部跑赢当地大盘",
+      "music": 0.0
+    },
+    {
+      "from": 76.399,
+      "to": 77.49,
+      "sid": 40,
+      "location": 2,
+      "content": "那是真厉害",
+      "music": 0.0
+    },
+    {
+      "from": 77.49,
+      "to": 79.27,
+      "sid": 41,
+      "location": 2,
+      "content": "长城就有小幅回调",
+      "music": 0.0
+    },
+    {
+      "from": 79.27,
+      "to": 81.33,
+      "sid": 42,
+      "location": 2,
+      "content": "主要被澳大利亚和巴西拖累了",
+      "music": 0.0
+    },
+    {
+      "from": 81.33,
+      "to": 83.69,
+      "sid": 43,
+      "location": 2,
+      "content": "不过人家在俄罗斯市场稳如泰山",
+      "music": 0.0
+    },
+    {
+      "from": 83.69,
+      "to": 85.23,
+      "sid": 44,
+      "location": 2,
+      "content": "基本盘那是杠杠的",
+      "music": 0.0
+    },
+    {
+      "from": 85.23,
+      "to": 86.39,
+      "sid": 45,
+      "location": 2,
+      "content": "说到跑赢大盘",
+      "music": 0.0
+    },
+    {
+      "from": 86.39,
+      "to": 87.91,
+      "sid": 46,
+      "location": 2,
+      "content": "这个细节特别值得玩味",
+      "music": 0.0
+    },
+    {
+      "from": 87.91,
+      "to": 91.85,
+      "sid": 47,
+      "location": 2,
+      "content": "你看巴西整个汽车市场4月环比跌了9%",
+      "music": 0.0
+    },
+    {
+      "from": 91.85,
+      "to": 93.07,
+      "sid": 48,
+      "location": 2,
+      "content": "这环境够差了吧",
+      "music": 0.0
+    },
+    {
+      "from": 93.07,
+      "to": 94.259,
+      "sid": 49,
+      "location": 2,
+      "content": "确实不咋地",
+      "music": 0.0
+    },
+    {
+      "from": 94.259,
+      "to": 97.199,
+      "sid": 50,
+      "location": 2,
+      "content": "但比亚迪销量反而增长12%",
+      "music": 0.0
+    },
+    {
+      "from": 97.199,
+      "to": 98.75,
+      "sid": 51,
+      "location": 2,
+      "content": "达到1万8000辆",
+      "music": 0.0
+    },
+    {
+      "from": 98.75,
+      "to": 99.95,
+      "sid": 52,
+      "location": 2,
+      "content": "吉利更夸张",
+      "music": 0.0
+    },
+    {
+      "from": 99.95,
+      "to": 101.69,
+      "sid": 53,
+      "location": 2,
+      "content": "直接干到3600辆",
+      "music": 0.0
+    },
+    {
+      "from": 101.69,
+      "to": 103.99,
+      "sid": 54,
+      "location": 2,
+      "content": "环比暴涨210%",
+      "music": 0.0
+    },
+    {
+      "from": 103.99,
+      "to": 104.75,
+      "sid": 55,
+      "location": 2,
+      "content": "好家伙",
+      "music": 0.0
+    },
+    {
+      "from": 104.75,
+      "to": 106.27,
+      "sid": 56,
+      "location": 2,
+      "content": "这是逆势狂奔呐",
+      "music": 0.0
+    },
+    {
+      "from": 106.27,
+      "to": 107.39,
+      "sid": 57,
+      "location": 2,
+      "content": "这说明啥",
+      "music": 0.0
+    },
+    {
+      "from": 107.39,
+      "to": 108.81,
+      "sid": 58,
+      "location": 2,
+      "content": "不是市场变好了",
+      "music": 0.0
+    },
+    {
+      "from": 108.81,
+      "to": 111.29,
+      "sid": 59,
+      "location": 2,
+      "content": "是中国品牌正在抢份额",
+      "music": 0.0
+    },
+    {
+      "from": 111.29,
+      "to": 112.57,
+      "sid": 60,
+      "location": 2,
+      "content": "澳大利亚也一样",
+      "music": 0.0
+    },
+    {
+      "from": 112.57,
+      "to": 114.37,
+      "sid": 61,
+      "location": 2,
+      "content": "整体车市下滑9%",
+      "music": 0.0
+    },
+    {
+      "from": 114.37,
+      "to": 117.09,
+      "sid": 62,
+      "location": 2,
+      "content": "比亚迪和吉利却分别逆势增长",
+      "music": 0.0
+    },
+    {
+      "from": 117.09,
+      "to": 118.77,
+      "sid": 63,
+      "location": 2,
+      "content": "9%和57%",
+      "music": 0.0
+    },
+    {
+      "from": 118.77,
+      "to": 120.24,
+      "sid": 64,
+      "location": 2,
+      "content": "这哪是便宜替代",
+      "music": 0.0
+    },
+    {
+      "from": 120.24,
+      "to": 121.56,
+      "sid": 65,
+      "location": 2,
+      "content": "这是真被认可了",
+      "music": 0.0
+    },
+    {
+      "from": 121.56,
+      "to": 122.98,
+      "sid": 66,
+      "location": 2,
+      "content": "不过咱也得看看风险",
+      "music": 0.0
+    },
+    {
+      "from": 122.98,
+      "to": 124.71,
+      "sid": 67,
+      "location": 2,
+      "content": "就是区域依赖度",
+      "music": 0.0
+    },
+    {
+      "from": 124.71,
+      "to": 126.11,
+      "sid": 68,
+      "location": 2,
+      "content": "这确实得注意",
+      "music": 0.0
+    },
+    {
+      "from": 126.11,
+      "to": 127.75,
+      "sid": 69,
+      "location": 2,
+      "content": "吉利的海外销量里",
+      "music": 0.0
+    },
+    {
+      "from": 127.75,
+      "to": 128.45,
+      "sid": 70,
+      "location": 2,
+      "content": "俄罗斯",
+      "music": 0.0
+    },
+    {
+      "from": 128.45,
+      "to": 129.19,
+      "sid": 71,
+      "location": 2,
+      "content": "墨西哥",
+      "music": 0.0
+    },
+    {
+      "from": 129.19,
+      "to": 129.81,
+      "sid": 72,
+      "location": 2,
+      "content": "巴西",
+      "music": 0.0
+    },
+    {
+      "from": 129.81,
+      "to": 132.579,
+      "sid": 73,
+      "location": 2,
+      "content": "澳大利亚四个国家就占了63%",
+      "music": 0.0
+    },
+    {
+      "from": 132.579,
+      "to": 134.699,
+      "sid": 74,
+      "location": 2,
+      "content": "长城更集中光俄罗斯",
+      "music": 0.0
+    },
+    {
+      "from": 134.699,
+      "to": 137.879,
+      "sid": 75,
+      "location": 2,
+      "content": "巴西澳大利亚三国就吃掉76%",
+      "music": 0.0
+    },
+    {
+      "from": 137.879,
+      "to": 140.41,
+      "sid": 76,
+      "location": 2,
+      "content": "这鸡蛋是不是有点太集中在一个篮子里了",
+      "music": 0.0
+    },
+    {
+      "from": 140.41,
+      "to": 143.39,
+      "sid": 77,
+      "location": 2,
+      "content": "对呀高集中度意味着高弹性",
+      "music": 0.0
+    },
+    {
+      "from": 143.39,
+      "to": 145.01,
+      "sid": 78,
+      "location": 2,
+      "content": "但也意味着高风险",
+      "music": 0.0
+    },
+    {
+      "from": 145.01,
+      "to": 149.079,
+      "sid": 79,
+      "location": 2,
+      "content": "万一哪个国家突然加征关税或者汇率剧烈波动",
+      "music": 0.0
+    },
+    {
+      "from": 149.079,
+      "to": 150.859,
+      "sid": 80,
+      "location": 2,
+      "content": "业绩可能瞬间承压",
+      "music": 0.0
+    },
+    {
+      "from": 150.859,
+      "to": 151.679,
+      "sid": 81,
+      "location": 2,
+      "content": "那比亚迪呢",
+      "music": 0.0
+    },
+    {
+      "from": 151.679,
+      "to": 154.179,
+      "sid": 82,
+      "location": 2,
+      "content": "比亚迪前三市场占比只有44%",
+      "music": 0.0
+    },
+    {
+      "from": 154.179,
+      "to": 155.42,
+      "sid": 83,
+      "location": 2,
+      "content": "结构更均衡",
+      "music": 0.0
+    },
+    {
+      "from": 155.42,
+      "to": 158.3,
+      "sid": 84,
+      "location": 2,
+      "content": "而且人家通过布局印尼这样的新兴市场",
+      "music": 0.0
+    },
+    {
+      "from": 158.3,
+      "to": 160.44,
+      "sid": 85,
+      "location": 2,
+      "content": "4月销量暴增67%",
+      "music": 0.0
+    },
+    {
+      "from": 160.44,
+      "to": 162.6,
+      "sid": 86,
+      "location": 2,
+      "content": "正在悄悄降低这种风险",
+      "music": 0.0
+    },
+    {
+      "from": 162.6,
+      "to": 164.76,
+      "sid": 87,
+      "location": 2,
+      "content": "但你也别被月度波动吓到",
+      "music": 0.0
+    },
+    {
+      "from": 164.76,
+      "to": 166.94,
+      "sid": 88,
+      "location": 2,
+      "content": "咱得拉长看拉长看怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 166.94,
+      "to": 168.58,
+      "sid": 89,
+      "location": 2,
+      "content": "拉长到一年维度",
+      "music": 0.0
+    },
+    {
+      "from": 168.58,
+      "to": 171.88,
+      "sid": 90,
+      "location": 2,
+      "content": "三家企业全部保持强劲同比增长",
+      "music": 0.0
+    },
+    {
+      "from": 171.88,
+      "to": 174.32,
+      "sid": 91,
+      "location": 2,
+      "content": "比亚迪海外销量同比大涨",
+      "music": 0.0
+    },
+    {
+      "from": 174.32,
+      "to": 176.12,
+      "sid": 92,
+      "location": 2,
+      "content": "55%到60%",
+      "music": 0.0
+    },
+    {
+      "from": 176.12,
+      "to": 177.86,
+      "sid": 93,
+      "location": 2,
+      "content": "吉利更是接近翻倍",
+      "music": 0.0
+    },
+    {
+      "from": 177.86,
+      "to": 180.0,
+      "sid": 94,
+      "location": 2,
+      "content": "达到95%到100%",
+      "music": 0.0
+    },
+    {
+      "from": 180.0,
+      "to": 181.34,
+      "sid": 95,
+      "location": 2,
+      "content": "长城看着疲软",
+      "music": 0.0
+    },
+    {
+      "from": 181.34,
+      "to": 183.86,
+      "sid": 96,
+      "location": 2,
+      "content": "其实也有15%到20%的增长",
+      "music": 0.0
+    },
+    {
+      "from": 183.86,
+      "to": 187.79,
+      "sid": 97,
+      "location": 2,
+      "content": "尤其它在巴西虽然4月环比下滑23%",
+      "music": 0.0
+    },
+    {
+      "from": 187.79,
+      "to": 190.47,
+      "sid": 98,
+      "location": 2,
+      "content": "但同比可是暴涨110%",
+      "music": 0.0
+    },
+    {
+      "from": 190.47,
+      "to": 192.95,
+      "sid": 99,
+      "location": 2,
+      "content": "澳洲销量环比跌了17%",
+      "music": 0.0
+    },
+    {
+      "from": 192.95,
+      "to": 194.93,
+      "sid": 100,
+      "location": 2,
+      "content": "同比仍高出22%",
+      "music": 0.0
+    },
+    {
+      "from": 194.93,
+      "to": 195.83,
+      "sid": 101,
+      "location": 2,
+      "content": "那就是说",
+      "music": 0.0
+    },
+    {
+      "from": 195.83,
+      "to": 198.3,
+      "sid": 102,
+      "location": 2,
+      "content": "短期调整不等于趋势逆转",
+      "music": 0.0
+    },
+    {
+      "from": 198.3,
+      "to": 198.94,
+      "sid": 103,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 198.94,
+      "to": 200.78,
+      "sid": 104,
+      "location": 2,
+      "content": "去年打下的渠道和口碑",
+      "music": 0.0
+    },
+    {
+      "from": 200.78,
+      "to": 202.66,
+      "sid": 105,
+      "location": 2,
+      "content": "今年还在持续兑现呢",
+      "music": 0.0
+    },
+    {
+      "from": 202.66,
+      "to": 205.6,
+      "sid": 106,
+      "location": 2,
+      "content": "而且这红利啊已经开始向供应链传导了",
+      "music": 0.0
+    },
+    {
+      "from": 205.6,
+      "to": 206.54,
+      "sid": 107,
+      "location": 2,
+      "content": "整车吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 206.54,
+      "to": 207.67,
+      "sid": 108,
+      "location": 2,
+      "content": "零部件喝汤",
+      "music": 0.0
+    },
+    {
+      "from": 207.67,
+      "to": 208.74,
+      "sid": 109,
+      "location": 2,
+      "content": "那必须的",
+      "music": 0.0
+    },
+    {
+      "from": 208.74,
+      "to": 212.4,
+      "sid": 110,
+      "location": 2,
+      "content": "你看配套公司德赛西威股价112块多",
+      "music": 0.0
+    },
+    {
+      "from": 212.4,
+      "to": 214.36,
+      "sid": 111,
+      "location": 2,
+      "content": "星宇股份逼近140块",
+      "music": 0.0
+    },
+    {
+      "from": 214.36,
+      "to": 217.31,
+      "sid": 112,
+      "location": 2,
+      "content": "福耀玻璃A股H股评级均为中性",
+      "music": 0.0
+    },
+    {
+      "from": 217.31,
+      "to": 219.43,
+      "sid": 113,
+      "location": 2,
+      "content": "因为中国车企在海外建厂",
+      "music": 0.0
+    },
+    {
+      "from": 219.43,
+      "to": 222.49,
+      "sid": 114,
+      "location": 2,
+      "content": "必然带动本土TR1供应商一起出海",
+      "music": 0.0
+    },
+    {
+      "from": 222.49,
+      "to": 223.41,
+      "sid": 115,
+      "location": 2,
+      "content": "智能座舱",
+      "music": 0.0
+    },
+    {
+      "from": 223.41,
+      "to": 224.33,
+      "sid": 116,
+      "location": 2,
+      "content": "高端车灯",
+      "music": 0.0
+    },
+    {
+      "from": 224.33,
+      "to": 228.45,
+      "sid": 117,
+      "location": 2,
+      "content": "汽车玻璃这些高附加值部件需求只会越来越强",
+      "music": 0.0
+    },
+    {
+      "from": 228.45,
+      "to": 230.45,
+      "sid": 118,
+      "location": 2,
+      "content": "现在咱把线索串起来",
+      "music": 0.0
+    },
+    {
+      "from": 230.45,
+      "to": 233.83,
+      "sid": 119,
+      "location": 2,
+      "content": "第一短期波动不等于长期趋势",
+      "music": 0.0
+    },
+    {
+      "from": 233.83,
+      "to": 235.19,
+      "sid": 120,
+      "location": 2,
+      "content": "别一惊一乍的",
+      "music": 0.0
+    },
+    {
+      "from": 235.19,
+      "to": 238.579,
+      "sid": 121,
+      "location": 2,
+      "content": "第二区域策略决定抗风险能力",
+      "music": 0.0
+    },
+    {
+      "from": 238.579,
+      "to": 239.779,
+      "sid": 122,
+      "location": 2,
+      "content": "吉利增长快",
+      "music": 0.0
+    },
+    {
+      "from": 239.779,
+      "to": 240.819,
+      "sid": 123,
+      "location": 2,
+      "content": "但集中度高",
+      "music": 0.0
+    },
+    {
+      "from": 240.819,
+      "to": 243.379,
+      "sid": 124,
+      "location": 2,
+      "content": "比亚迪增速稳且布局多元",
+      "music": 0.0
+    },
+    {
+      "from": 243.379,
+      "to": 245.139,
+      "sid": 125,
+      "location": 2,
+      "content": "长城靠俄罗斯托底",
+      "music": 0.0
+    },
+    {
+      "from": 245.139,
+      "to": 246.379,
+      "sid": 126,
+      "location": 2,
+      "content": "展现地缘适应力",
+      "music": 0.0
+    },
+    {
+      "from": 246.379,
+      "to": 247.67,
+      "sid": 127,
+      "location": 2,
+      "content": "各有各的活法",
+      "music": 0.0
+    },
+    {
+      "from": 247.67,
+      "to": 252.03,
+      "sid": 128,
+      "location": 2,
+      "content": "第三整车出海正在驱动整个产业链价值重估",
+      "music": 0.0
+    },
+    {
+      "from": 252.03,
+      "to": 254.68,
+      "sid": 129,
+      "location": 2,
+      "content": "那站在散户角度该怎么看",
+      "music": 0.0
+    },
+    {
+      "from": 254.68,
+      "to": 255.78,
+      "sid": 130,
+      "location": 2,
+      "content": "我也想知道怎么选",
+      "music": 0.0
+    },
+    {
+      "from": 255.78,
+      "to": 257.16,
+      "sid": 131,
+      "location": 2,
+      "content": "问你偏好高弹性",
+      "music": 0.0
+    },
+    {
+      "from": 257.16,
+      "to": 260.97,
+      "sid": 132,
+      "location": 2,
+      "content": "吉利当前港股价格19块二毛二处于相对低位",
+      "music": 0.0
+    },
+    {
+      "from": 260.97,
+      "to": 263.61,
+      "sid": 133,
+      "location": 2,
+      "content": "叠加95%以上的同比增速",
+      "music": 0.0
+    },
+    {
+      "from": 263.61,
+      "to": 265.33,
+      "sid": 134,
+      "location": 2,
+      "content": "确实有估值修复空间",
+      "music": 0.0
+    },
+    {
+      "from": 265.33,
+      "to": 266.83,
+      "sid": 135,
+      "location": 2,
+      "content": "想搏一把的看吉利",
+      "music": 0.0
+    },
+    {
+      "from": 266.83,
+      "to": 268.63,
+      "sid": 136,
+      "location": 2,
+      "content": "如果你更看重稳健",
+      "music": 0.0
+    },
+    {
+      "from": 268.63,
+      "to": 270.59,
+      "sid": 137,
+      "location": 2,
+      "content": "比亚迪虽然短期回调",
+      "music": 0.0
+    },
+    {
+      "from": 270.59,
+      "to": 274.63,
+      "sid": 138,
+      "location": 2,
+      "content": "但多元化布局加东南亚爆发长期护城河更深",
+      "music": 0.0
+    },
+    {
+      "from": 274.63,
+      "to": 276.65,
+      "sid": 139,
+      "location": 2,
+      "content": "求稳的看比亚迪",
+      "music": 0.0
+    },
+    {
+      "from": 276.65,
+      "to": 277.93,
+      "sid": 140,
+      "location": 2,
+      "content": "至于长城",
+      "music": 0.0
+    },
+    {
+      "from": 277.93,
+      "to": 280.93,
+      "sid": 141,
+      "location": 2,
+      "content": "如果巴西和澳大利亚市场企稳反弹",
+      "music": 0.0
+    },
+    {
+      "from": 280.93,
+      "to": 282.87,
+      "sid": 142,
+      "location": 2,
+      "content": "凭借俄罗斯的稳定输出",
+      "music": 0.0
+    },
+    {
+      "from": 282.87,
+      "to": 285.11,
+      "sid": 143,
+      "location": 2,
+      "content": "也可能迎来戴维斯双击",
+      "music": 0.0
+    },
+    {
+      "from": 285.11,
+      "to": 286.37,
+      "sid": 144,
+      "location": 2,
+      "content": "最后提醒一句",
+      "music": 0.0
+    },
+    {
+      "from": 286.37,
+      "to": 287.93,
+      "sid": 145,
+      "location": 2,
+      "content": "海外市场需求波动",
+      "music": 0.0
+    },
+    {
+      "from": 287.93,
+      "to": 289.05,
+      "sid": 146,
+      "location": 2,
+      "content": "区域集中风险",
+      "music": 0.0
+    },
+    {
+      "from": 289.05,
+      "to": 291.429,
+      "sid": 147,
+      "location": 2,
+      "content": "还有价格战都是潜在变量",
+      "music": 0.0
+    },
+    {
+      "from": 291.429,
+      "to": 294.409,
+      "sid": 148,
+      "location": 2,
+      "content": "大摩对比亚迪和吉利维持买入评级",
+      "music": 0.0
+    },
+    {
+      "from": 294.409,
+      "to": 296.729,
+      "sid": 149,
+      "location": 2,
+      "content": "对长城汽车评级存在分歧",
+      "music": 0.0
+    },
+    {
+      "from": 296.729,
+      "to": 297.829,
+      "sid": 150,
+      "location": 2,
+      "content": "机构也是有人看好",
+      "music": 0.0
+    },
+    {
+      "from": 297.829,
+      "to": 298.449,
+      "sid": 151,
+      "location": 2,
+      "content": "有人看衰",
+      "music": 0.0
+    },
+    {
+      "from": 298.449,
+      "to": 299.069,
+      "sid": 152,
+      "location": 2,
+      "content": "点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 299.069,
+      "to": 301.07,
+      "sid": 153,
+      "location": 2,
+      "content": "带你拆解更多顶级研报",
+      "music": 0.0
+    },
+    {
+      "from": 301.07,
+      "to": 303.07,
+      "sid": 154,
+      "location": 2,
+      "content": "看清数据背后的真机会",
+      "music": 0.0
+    },
+    {
+      "from": 303.07,
+      "to": 304.55,
+      "sid": 155,
+      "location": 2,
+      "content": "以上内容仅供参考",
+      "music": 0.0
+    },
+    {
+      "from": 304.55,
+      "to": 305.77,
+      "sid": 156,
+      "location": 2,
+      "content": "不构成投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 305.77,
+      "to": 306.71,
+      "sid": 157,
+      "location": 2,
+      "content": "投资有风险",
+      "music": 0.0
+    },
+    {
+      "from": 306.71,
+      "to": 307.64,
+      "sid": 158,
+      "location": 2,
+      "content": "决策需谨慎",
+      "music": 0.0
+    }
+  ]
+}

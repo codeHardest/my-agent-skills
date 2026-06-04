@@ -1,0 +1,2652 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.88,
+      "sid": 1,
+      "location": 2,
+      "content": "华为这次来了个大的",
+      "music": 0.0
+    },
+    {
+      "from": 1.88,
+      "to": 5.48,
+      "sid": 2,
+      "location": 2,
+      "content": "5月25号上海s cs2026大会上",
+      "music": 0.0
+    },
+    {
+      "from": 5.48,
+      "to": 8.6,
+      "sid": 3,
+      "location": 2,
+      "content": "华为正式发布了一条新的半导体发展原则",
+      "music": 0.0
+    },
+    {
+      "from": 8.6,
+      "to": 9.96,
+      "sid": 4,
+      "location": 2,
+      "content": "叫做韬定律",
+      "music": 0.0
+    },
+    {
+      "from": 9.96,
+      "to": 12.58,
+      "sid": 5,
+      "location": 2,
+      "content": "制作出来之后基本是全网刷屏啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.62,
+      "to": 17.68,
+      "sid": 6,
+      "location": 2,
+      "content": "社交媒体的讨论更是一片沸腾",
+      "music": 0.0
+    },
+    {
+      "from": 17.68,
+      "to": 19.74,
+      "sid": 7,
+      "location": 2,
+      "content": "有时候他能举终结摩尔定律的",
+      "music": 0.0
+    },
+    {
+      "from": 19.74,
+      "to": 22.26,
+      "sid": 8,
+      "location": 2,
+      "content": "有说他能重新定义芯片世界规矩",
+      "music": 0.0
+    },
+    {
+      "from": 22.26,
+      "to": 24.1,
+      "sid": 9,
+      "location": 2,
+      "content": "成为芯片武林盟主的",
+      "music": 0.0
+    },
+    {
+      "from": 24.1,
+      "to": 26.72,
+      "sid": 10,
+      "location": 2,
+      "content": "甚至有说华为能从此一转攻势",
+      "music": 0.0
+    },
+    {
+      "from": 26.72,
+      "to": 29.02,
+      "sid": 11,
+      "location": 2,
+      "content": "和高通苹果攻守异行的",
+      "music": 0.0
+    },
+    {
+      "from": 29.02,
+      "to": 30.08,
+      "sid": 12,
+      "location": 2,
+      "content": "光看这些报道",
+      "music": 0.0
+    },
+    {
+      "from": 30.08,
+      "to": 31.7,
+      "sid": 13,
+      "location": 2,
+      "content": "差友们大概也能感觉出来",
+      "music": 0.0
+    },
+    {
+      "from": 31.7,
+      "to": 33.06,
+      "sid": 14,
+      "location": 2,
+      "content": "这事听起来确实很大",
+      "music": 0.0
+    },
+    {
+      "from": 33.06,
+      "to": 33.94,
+      "sid": 15,
+      "location": 2,
+      "content": "又是新定律",
+      "music": 0.0
+    },
+    {
+      "from": 33.94,
+      "to": 35.16,
+      "sid": 16,
+      "location": 2,
+      "content": "又是新原则的",
+      "music": 0.0
+    },
+    {
+      "from": 35.16,
+      "to": 36.72,
+      "sid": 17,
+      "location": 2,
+      "content": "排面这块是拉满了",
+      "music": 0.0
+    },
+    {
+      "from": 36.72,
+      "to": 39.72,
+      "sid": 18,
+      "location": 2,
+      "content": "那么它真的和传说中一样颠覆半导体行业吗",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 40.64,
+      "sid": 19,
+      "location": 2,
+      "content": "更关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 40.64,
+      "to": 43.52,
+      "sid": 20,
+      "location": 2,
+      "content": "它真能帮华为绕开先进制程的限制",
+      "music": 0.0
+    },
+    {
+      "from": 43.52,
+      "to": 45.32,
+      "sid": 21,
+      "location": 2,
+      "content": "追上甚至反超苹果",
+      "music": 0.0
+    },
+    {
+      "from": 45.32,
+      "to": 46.34,
+      "sid": 22,
+      "location": 2,
+      "content": "高通台积电吗",
+      "music": 0.0
+    },
+    {
+      "from": 46.34,
+      "to": 46.68,
+      "sid": 23,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 46.68,
+      "to": 47.4,
+      "sid": 24,
+      "location": 2,
+      "content": "我是查明君",
+      "music": 0.0
+    },
+    {
+      "from": 47.4,
+      "to": 49.32,
+      "sid": 25,
+      "location": 2,
+      "content": "今天我们就来聊一聊华为搞出来的",
+      "music": 0.0
+    },
+    {
+      "from": 49.32,
+      "to": 50.62,
+      "sid": 26,
+      "location": 2,
+      "content": "它到底是什么",
+      "music": 0.0
+    },
+    {
+      "from": 50.62,
+      "to": 52.96,
+      "sid": 27,
+      "location": 2,
+      "content": "在工程里套一般指时间常数",
+      "music": 0.0
+    },
+    {
+      "from": 52.96,
+      "to": 54.1,
+      "sid": 28,
+      "location": 2,
+      "content": "具体到芯片里",
+      "music": 0.0
+    },
+    {
+      "from": 54.1,
+      "to": 56.8,
+      "sid": 29,
+      "location": 2,
+      "content": "可以简单理解成芯片里的时间成本",
+      "music": 0.0
+    },
+    {
+      "from": 56.8,
+      "to": 59.78,
+      "sid": 30,
+      "location": 2,
+      "content": "比如信号从一个地方传到另一个地方要多久",
+      "music": 0.0
+    },
+    {
+      "from": 59.78,
+      "to": 62.26,
+      "sid": 31,
+      "location": 2,
+      "content": "数据从一个单元流向另一个单元要多久",
+      "music": 0.0
+    },
+    {
+      "from": 62.26,
+      "to": 64.83,
+      "sid": 32,
+      "location": 2,
+      "content": "晶体管完成一次开关动作又要多久",
+      "music": 0.0
+    },
+    {
+      "from": 64.83,
+      "to": 67.07,
+      "sid": 33,
+      "location": 2,
+      "content": "但过去我们评价芯片是否进步",
+      "music": 0.0
+    },
+    {
+      "from": 67.07,
+      "to": 69.13,
+      "sid": 34,
+      "location": 2,
+      "content": "主要看的是它的空间属性",
+      "music": 0.0
+    },
+    {
+      "from": 69.13,
+      "to": 71.78,
+      "sid": 35,
+      "location": 2,
+      "content": "也就是熟悉的摩尔定律的底层逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 71.78,
+      "to": 73.04,
+      "sid": 36,
+      "location": 2,
+      "content": "通过把晶体管做小",
+      "music": 0.0
+    },
+    {
+      "from": 73.04,
+      "to": 75.91,
+      "sid": 37,
+      "location": 2,
+      "content": "让芯片变得更密更快更省电",
+      "music": 0.0
+    },
+    {
+      "from": 75.91,
+      "to": 77.79,
+      "sid": 38,
+      "location": 2,
+      "content": "而华为这次提出了韬定律",
+      "music": 0.0
+    },
+    {
+      "from": 77.79,
+      "to": 79.37,
+      "sid": 39,
+      "location": 2,
+      "content": "则是换了一种观察角度",
+      "music": 0.0
+    },
+    {
+      "from": 79.37,
+      "to": 82.2,
+      "sid": 40,
+      "location": 2,
+      "content": "因为信息流动的时间替换晶体管的尺寸",
+      "music": 0.0
+    },
+    {
+      "from": 82.2,
+      "to": 84.24,
+      "sid": 41,
+      "location": 2,
+      "content": "作为芯片是否进步的衡量标准",
+      "music": 0.0
+    },
+    {
+      "from": 84.24,
+      "to": 85.52,
+      "sid": 42,
+      "location": 2,
+      "content": "用华为自己的说法",
+      "music": 0.0
+    },
+    {
+      "from": 85.52,
+      "to": 88.52,
+      "sid": 43,
+      "location": 2,
+      "content": "就是用时间微缩替代几何微缩",
+      "music": 0.0
+    },
+    {
+      "from": 88.52,
+      "to": 89.5,
+      "sid": 44,
+      "location": 2,
+      "content": "而强调的是",
+      "music": 0.0
+    },
+    {
+      "from": 89.5,
+      "to": 90.92,
+      "sid": 45,
+      "location": 2,
+      "content": "这并不是像牛顿定律",
+      "music": 0.0
+    },
+    {
+      "from": 90.92,
+      "to": 93.12,
+      "sid": 46,
+      "location": 2,
+      "content": "欧姆定律那样客观存在的自然规律",
+      "music": 0.0
+    },
+    {
+      "from": 93.12,
+      "to": 95.76,
+      "sid": 47,
+      "location": 2,
+      "content": "而是华为从工程实践中总结出来的",
+      "music": 0.0
+    },
+    {
+      "from": 95.76,
+      "to": 97.83,
+      "sid": 48,
+      "location": 2,
+      "content": "一套衡量芯片好不好的标准",
+      "music": 0.0
+    },
+    {
+      "from": 97.83,
+      "to": 100.27,
+      "sid": 49,
+      "location": 2,
+      "content": "可以简单理解成一个华为版的摩尔定律",
+      "music": 0.0
+    },
+    {
+      "from": 100.27,
+      "to": 101.15,
+      "sid": 50,
+      "location": 2,
+      "content": "不过说到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 101.15,
+      "to": 102.36,
+      "sid": 51,
+      "location": 2,
+      "content": "可能有差友会问了",
+      "music": 0.0
+    },
+    {
+      "from": 102.36,
+      "to": 105.08,
+      "sid": 52,
+      "location": 2,
+      "content": "用纳米表示制成的说法已经用了这么多年",
+      "music": 0.0
+    },
+    {
+      "from": 105.08,
+      "to": 106.36,
+      "sid": 53,
+      "location": 2,
+      "content": "大家也都听习惯了",
+      "music": 0.0
+    },
+    {
+      "from": 106.36,
+      "to": 107.44,
+      "sid": 54,
+      "location": 2,
+      "content": "既然他一直能用",
+      "music": 0.0
+    },
+    {
+      "from": 107.44,
+      "to": 110.76,
+      "sid": 55,
+      "location": 2,
+      "content": "为什么现在华为还要给芯片换一把叫做涛的",
+      "music": 0.0
+    },
+    {
+      "from": 110.76,
+      "to": 111.73,
+      "sid": 56,
+      "location": 2,
+      "content": "新池子呢",
+      "music": 0.0
+    },
+    {
+      "from": 111.73,
+      "to": 113.01,
+      "sid": 57,
+      "location": 2,
+      "content": "要搞清楚这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 113.01,
+      "to": 115.01,
+      "sid": 58,
+      "location": 2,
+      "content": "我们先要回到制程这个概念上",
+      "music": 0.0
+    },
+    {
+      "from": 115.01,
+      "to": 115.81,
+      "sid": 59,
+      "location": 2,
+      "content": "我们都知道",
+      "music": 0.0
+    },
+    {
+      "from": 115.81,
+      "to": 116.71,
+      "sid": 60,
+      "location": 2,
+      "content": "芯片的计算",
+      "music": 0.0
+    },
+    {
+      "from": 116.71,
+      "to": 119.26,
+      "sid": 61,
+      "location": 2,
+      "content": "本质上就是大量晶体管在不断的开关",
+      "music": 0.0
+    },
+    {
+      "from": 119.26,
+      "to": 121.4,
+      "sid": 62,
+      "location": 2,
+      "content": "一个晶体管可以理解成一个微型开关",
+      "music": 0.0
+    },
+    {
+      "from": 121.4,
+      "to": 122.6,
+      "sid": 63,
+      "location": 2,
+      "content": "它可以表示零和一",
+      "music": 0.0
+    },
+    {
+      "from": 122.6,
+      "to": 125.35,
+      "sid": 64,
+      "location": 2,
+      "content": "并且相互组合变成更复杂的逻辑电路",
+      "music": 0.0
+    },
+    {
+      "from": 125.35,
+      "to": 127.21,
+      "sid": 65,
+      "location": 2,
+      "content": "所以在其他条件接近的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 127.21,
+      "to": 128.4,
+      "sid": 66,
+      "location": 2,
+      "content": "晶体管数量越多",
+      "music": 0.0
+    },
+    {
+      "from": 128.4,
+      "to": 130.66,
+      "sid": 67,
+      "location": 2,
+      "content": "芯片能同时处理的信息也就越多",
+      "music": 0.0
+    },
+    {
+      "from": 130.66,
+      "to": 132.04,
+      "sid": 68,
+      "location": 2,
+      "content": "计算能力也就越强",
+      "music": 0.0
+    },
+    {
+      "from": 132.04,
+      "to": 135.04,
+      "sid": 69,
+      "location": 2,
+      "content": "要在同样大小的芯片里塞进更多的晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 135.04,
+      "to": 137.54,
+      "sid": 70,
+      "location": 2,
+      "content": "最直接的办法就是把晶体管做的更小",
+      "music": 0.0
+    },
+    {
+      "from": 137.54,
+      "to": 140.12,
+      "sid": 71,
+      "location": 2,
+      "content": "而最能直观表示晶体管大小的参数",
+      "music": 0.0
+    },
+    {
+      "from": 140.12,
+      "to": 141.38,
+      "sid": 72,
+      "location": 2,
+      "content": "则是山脊的长度",
+      "music": 0.0
+    },
+    {
+      "from": 141.38,
+      "to": 143.35,
+      "sid": 73,
+      "location": 2,
+      "content": "也就是原教旨主义的制程",
+      "music": 0.0
+    },
+    {
+      "from": 143.35,
+      "to": 144.95,
+      "sid": 74,
+      "location": 2,
+      "content": "珊迪像一块闸门一样",
+      "music": 0.0
+    },
+    {
+      "from": 144.95,
+      "to": 146.45,
+      "sid": 75,
+      "location": 2,
+      "content": "横在晶体管两极之间",
+      "music": 0.0
+    },
+    {
+      "from": 146.45,
+      "to": 147.55,
+      "sid": 76,
+      "location": 2,
+      "content": "负责控制电流",
+      "music": 0.0
+    },
+    {
+      "from": 147.55,
+      "to": 149.09,
+      "sid": 77,
+      "location": 2,
+      "content": "通断三级越短",
+      "music": 0.0
+    },
+    {
+      "from": 149.09,
+      "to": 150.63,
+      "sid": 78,
+      "location": 2,
+      "content": "闸门控制的通道就越短",
+      "music": 0.0
+    },
+    {
+      "from": 150.63,
+      "to": 153.13,
+      "sid": 79,
+      "location": 2,
+      "content": "同样的尺寸下能塞下更多晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 153.13,
+      "to": 155.85,
+      "sid": 80,
+      "location": 2,
+      "content": "同时每次开关需要搬动的电荷更少",
+      "music": 0.0
+    },
+    {
+      "from": 155.85,
+      "to": 157.11,
+      "sid": 81,
+      "location": 2,
+      "content": "能耗也就越低",
+      "music": 0.0
+    },
+    {
+      "from": 157.11,
+      "to": 159.07,
+      "sid": 82,
+      "location": 2,
+      "content": "但今天我们常说的7NM",
+      "music": 0.0
+    },
+    {
+      "from": 159.07,
+      "to": 159.47,
+      "sid": 83,
+      "location": 2,
+      "content": "5nm",
+      "music": 0.0
+    },
+    {
+      "from": 159.47,
+      "to": 161.79,
+      "sid": 84,
+      "location": 2,
+      "content": "3NM其实已经不是一个长度单位",
+      "music": 0.0
+    },
+    {
+      "from": 161.79,
+      "to": 163.65,
+      "sid": 85,
+      "location": 2,
+      "content": "而是一个概括了晶体管密度",
+      "music": 0.0
+    },
+    {
+      "from": 163.65,
+      "to": 165.68,
+      "sid": 86,
+      "location": 2,
+      "content": "能耗和成本规律的综合指标",
+      "music": 0.0
+    },
+    {
+      "from": 165.68,
+      "to": 166.9,
+      "sid": 87,
+      "location": 2,
+      "content": "从1995年开始",
+      "music": 0.0
+    },
+    {
+      "from": 166.9,
+      "to": 170.01,
+      "sid": 88,
+      "location": 2,
+      "content": "山鸡长度和制程之间就不再有严格的对应关系",
+      "music": 0.0
+    },
+    {
+      "from": 170.01,
+      "to": 172.29,
+      "sid": 89,
+      "location": 2,
+      "content": "到14NMFINFIVE成为主流后",
+      "music": 0.0
+    },
+    {
+      "from": 172.29,
+      "to": 175.7,
+      "sid": 90,
+      "location": 2,
+      "content": "芯片铁带更是几乎和把山脊做短没什么关系了",
+      "music": 0.0
+    },
+    {
+      "from": 175.7,
+      "to": 177.86,
+      "sid": 91,
+      "location": 2,
+      "content": "我们说10NM比14NM先进",
+      "music": 0.0
+    },
+    {
+      "from": 177.86,
+      "to": 180.1,
+      "sid": 92,
+      "location": 2,
+      "content": "实际上说的是10NM芯片的性能",
+      "music": 0.0
+    },
+    {
+      "from": 180.1,
+      "to": 183.0,
+      "sid": 93,
+      "location": 2,
+      "content": "功耗成本和14NM比更有优势",
+      "music": 0.0
+    },
+    {
+      "from": 183.0,
+      "to": 184.8,
+      "sid": 94,
+      "location": 2,
+      "content": "所以只要这个数字变小之后",
+      "music": 0.0
+    },
+    {
+      "from": 184.8,
+      "to": 186.64,
+      "sid": 95,
+      "location": 2,
+      "content": "芯片仍然符合摩尔定律的规律",
+      "music": 0.0
+    },
+    {
+      "from": 186.64,
+      "to": 189.14,
+      "sid": 96,
+      "location": 2,
+      "content": "那么他就算不再有对应的真实物理量",
+      "music": 0.0
+    },
+    {
+      "from": 189.14,
+      "to": 190.58,
+      "sid": 97,
+      "location": 2,
+      "content": "也依然具有参考价值",
+      "music": 0.0
+    },
+    {
+      "from": 190.58,
+      "to": 193.32,
+      "sid": 98,
+      "location": 2,
+      "content": "于是志诚逐渐从山脊的物理长度",
+      "music": 0.0
+    },
+    {
+      "from": 193.32,
+      "to": 194.65,
+      "sid": 99,
+      "location": 2,
+      "content": "变成了一种厂牌",
+      "music": 0.0
+    },
+    {
+      "from": 194.65,
+      "to": 197.09,
+      "sid": 100,
+      "location": 2,
+      "content": "继续作为一种芯片性能指标的参考",
+      "music": 0.0
+    },
+    {
+      "from": 197.09,
+      "to": 198.14,
+      "sid": 101,
+      "location": 2,
+      "content": "被保留了下来",
+      "music": 0.0
+    },
+    {
+      "from": 198.14,
+      "to": 201.02,
+      "sid": 102,
+      "location": 2,
+      "content": "但甩开了物理规则这个锚定物后制成的概念",
+      "music": 0.0
+    },
+    {
+      "from": 201.02,
+      "to": 202.56,
+      "sid": 103,
+      "location": 2,
+      "content": "很快就被大家玩坏了",
+      "music": 0.0
+    },
+    {
+      "from": 202.56,
+      "to": 203.92,
+      "sid": 104,
+      "location": 2,
+      "content": "比如三星的3NM",
+      "music": 0.0
+    },
+    {
+      "from": 203.92,
+      "to": 204.88,
+      "sid": 105,
+      "location": 2,
+      "content": "台积电N3",
+      "music": 0.0
+    },
+    {
+      "from": 204.88,
+      "to": 206.32,
+      "sid": 106,
+      "location": 2,
+      "content": "英特尔的英特尔三",
+      "music": 0.0
+    },
+    {
+      "from": 206.32,
+      "to": 208.36,
+      "sid": 107,
+      "location": 2,
+      "content": "从名字上看好像都带个三",
+      "music": 0.0
+    },
+    {
+      "from": 208.36,
+      "to": 210.24,
+      "sid": 108,
+      "location": 2,
+      "content": "直觉上应该都是3NM",
+      "music": 0.0
+    },
+    {
+      "from": 210.24,
+      "to": 213.02,
+      "sid": 109,
+      "location": 2,
+      "content": "但它们的性能指标实际上完全不是一回事",
+      "music": 0.0
+    },
+    {
+      "from": 213.02,
+      "to": 214.34,
+      "sid": 110,
+      "location": 2,
+      "content": "以晶体管密度为例",
+      "music": 0.0
+    },
+    {
+      "from": 214.34,
+      "to": 215.74,
+      "sid": 111,
+      "location": 2,
+      "content": "A19天玑9500",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 217.38,
+      "sid": 112,
+      "location": 2,
+      "content": "用了台积电N3P工艺",
+      "music": 0.0
+    },
+    {
+      "from": 217.38,
+      "to": 219.88,
+      "sid": 113,
+      "location": 2,
+      "content": "等效晶体管密度是224",
+      "music": 0.0
+    },
+    {
+      "from": 219.88,
+      "to": 222.01,
+      "sid": 114,
+      "location": 2,
+      "content": "Mega ten per square millimeter",
+      "music": 0.0
+    },
+    {
+      "from": 222.01,
+      "to": 225.17,
+      "sid": 115,
+      "location": 2,
+      "content": "而猎户座2500用的是三星3G a p sf",
+      "music": 0.0
+    },
+    {
+      "from": 225.17,
+      "to": 225.71,
+      "sid": 116,
+      "location": 2,
+      "content": "三工艺",
+      "music": 0.0
+    },
+    {
+      "from": 225.71,
+      "to": 228.28,
+      "sid": 117,
+      "location": 2,
+      "content": "精灵管密度则只有190~195",
+      "music": 0.0
+    },
+    {
+      "from": 228.28,
+      "to": 230.56,
+      "sid": 118,
+      "location": 2,
+      "content": "而英特尔更是把密度只有143",
+      "music": 0.0
+    },
+    {
+      "from": 230.56,
+      "to": 232.36,
+      "sid": 119,
+      "location": 2,
+      "content": "本来应该叫做5NM的工艺",
+      "music": 0.0
+    },
+    {
+      "from": 232.36,
+      "to": 233.48,
+      "sid": 120,
+      "location": 2,
+      "content": "直接改名成了英特尔",
+      "music": 0.0
+    },
+    {
+      "from": 233.48,
+      "to": 233.86,
+      "sid": 121,
+      "location": 2,
+      "content": "三",
+      "music": 0.0
+    },
+    {
+      "from": 233.86,
+      "to": 235.8,
+      "sid": 122,
+      "location": 2,
+      "content": "而比厂商们超发名词",
+      "music": 0.0
+    },
+    {
+      "from": 235.8,
+      "to": 237.38,
+      "sid": 123,
+      "location": 2,
+      "content": "往制成数字上加吸铁石",
+      "music": 0.0
+    },
+    {
+      "from": 237.38,
+      "to": 238.75,
+      "sid": 124,
+      "location": 2,
+      "content": "更麻烦的是智能",
+      "music": 0.0
+    },
+    {
+      "from": 238.75,
+      "to": 241.35,
+      "sid": 125,
+      "location": 2,
+      "content": "这把尺子本身也开始逐渐失真了",
+      "music": 0.0
+    },
+    {
+      "from": 241.35,
+      "to": 242.67,
+      "sid": 126,
+      "location": 2,
+      "content": "过去制程缩小",
+      "music": 0.0
+    },
+    {
+      "from": 242.67,
+      "to": 243.43,
+      "sid": 127,
+      "location": 2,
+      "content": "性能变强",
+      "music": 0.0
+    },
+    {
+      "from": 243.43,
+      "to": 244.15,
+      "sid": 128,
+      "location": 2,
+      "content": "功耗降低",
+      "music": 0.0
+    },
+    {
+      "from": 244.15,
+      "to": 244.95,
+      "sid": 129,
+      "location": 2,
+      "content": "成本下降",
+      "music": 0.0
+    },
+    {
+      "from": 244.95,
+      "to": 246.8,
+      "sid": 130,
+      "location": 2,
+      "content": "这四件事是同时发生的",
+      "music": 0.0
+    },
+    {
+      "from": 246.8,
+      "to": 249.66,
+      "sid": 131,
+      "location": 2,
+      "content": "但到了7NM以下数字确实还在变小",
+      "music": 0.0
+    },
+    {
+      "from": 249.66,
+      "to": 251.81,
+      "sid": 132,
+      "location": 2,
+      "content": "可这四件事已经不再同步了",
+      "music": 0.0
+    },
+    {
+      "from": 251.81,
+      "to": 253.59,
+      "sid": 133,
+      "location": 2,
+      "content": "制造工艺当然还会继续进步",
+      "music": 0.0
+    },
+    {
+      "from": 253.59,
+      "to": 256.01,
+      "sid": 134,
+      "location": 2,
+      "content": "但它不再是一把同时能够撬动性能",
+      "music": 0.0
+    },
+    {
+      "from": 256.01,
+      "to": 257.85,
+      "sid": 135,
+      "location": 2,
+      "content": "功耗和成本的万能杠杆了",
+      "music": 0.0
+    },
+    {
+      "from": 257.85,
+      "to": 259.39,
+      "sid": 136,
+      "location": 2,
+      "content": "上限就在眼前",
+      "music": 0.0
+    },
+    {
+      "from": 259.39,
+      "to": 261.65,
+      "sid": 137,
+      "location": 2,
+      "content": "而套定律的核心思路就是",
+      "music": 0.0
+    },
+    {
+      "from": 261.65,
+      "to": 264.15,
+      "sid": 138,
+      "location": 2,
+      "content": "抛开这套越来越失真的空间叙事",
+      "music": 0.0
+    },
+    {
+      "from": 264.15,
+      "to": 267.05,
+      "sid": 139,
+      "location": 2,
+      "content": "改用实践为尺度衡量芯片的真实能力",
+      "music": 0.0
+    },
+    {
+      "from": 267.05,
+      "to": 269.13,
+      "sid": 140,
+      "location": 2,
+      "content": "这听起来好像是一套全新的东西",
+      "music": 0.0
+    },
+    {
+      "from": 269.13,
+      "to": 272.01,
+      "sid": 141,
+      "location": 2,
+      "content": "但如果你反过来看过去几十年的芯片发展",
+      "music": 0.0
+    },
+    {
+      "from": 272.01,
+      "to": 272.809,
+      "sid": 142,
+      "location": 2,
+      "content": "就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 272.809,
+      "to": 275.589,
+      "sid": 143,
+      "location": 2,
+      "content": "它其实是在把摩尔定律背后的隐藏逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 275.589,
+      "to": 276.96,
+      "sid": 144,
+      "location": 2,
+      "content": "重新翻译了一遍",
+      "music": 0.0
+    },
+    {
+      "from": 276.96,
+      "to": 278.88,
+      "sid": 145,
+      "location": 2,
+      "content": "过去我们说把晶体管做小",
+      "music": 0.0
+    },
+    {
+      "from": 278.88,
+      "to": 279.84,
+      "sid": 146,
+      "location": 2,
+      "content": "芯片就会变强",
+      "music": 0.0
+    },
+    {
+      "from": 279.84,
+      "to": 282.08,
+      "sid": 147,
+      "location": 2,
+      "content": "但晶体管为什么做小之后会变强呢",
+      "music": 0.0
+    },
+    {
+      "from": 282.08,
+      "to": 283.46,
+      "sid": 148,
+      "location": 2,
+      "content": "按照摩尔定律的解释",
+      "music": 0.0
+    },
+    {
+      "from": 283.46,
+      "to": 284.72,
+      "sid": 149,
+      "location": 2,
+      "content": "是因为同样面积里",
+      "music": 0.0
+    },
+    {
+      "from": 284.72,
+      "to": 286.28,
+      "sid": 150,
+      "location": 2,
+      "content": "芯片里集成了更多电路",
+      "music": 0.0
+    },
+    {
+      "from": 286.28,
+      "to": 287.4,
+      "sid": 151,
+      "location": 2,
+      "content": "计算性能变高了",
+      "music": 0.0
+    },
+    {
+      "from": 287.4,
+      "to": 289.32,
+      "sid": 152,
+      "location": 2,
+      "content": "这强调的是空间密度",
+      "music": 0.0
+    },
+    {
+      "from": 289.32,
+      "to": 291.22,
+      "sid": 153,
+      "location": 2,
+      "content": "但晶体管变小带来的提升",
+      "music": 0.0
+    },
+    {
+      "from": 291.22,
+      "to": 293.02,
+      "sid": 154,
+      "location": 2,
+      "content": "其实并不只有数量这一层",
+      "music": 0.0
+    },
+    {
+      "from": 293.02,
+      "to": 294.5,
+      "sid": 155,
+      "location": 2,
+      "content": "它还有一个更隐蔽的变化",
+      "music": 0.0
+    },
+    {
+      "from": 294.5,
+      "to": 295.9,
+      "sid": 156,
+      "location": 2,
+      "content": "电路切换会变快",
+      "music": 0.0
+    },
+    {
+      "from": 295.9,
+      "to": 297.38,
+      "sid": 157,
+      "location": 2,
+      "content": "因为晶体管并不是一个",
+      "music": 0.0
+    },
+    {
+      "from": 297.38,
+      "to": 299.88,
+      "sid": 158,
+      "location": 2,
+      "content": "按下就立刻完成变化的理想开关",
+      "music": 0.0
+    },
+    {
+      "from": 299.88,
+      "to": 301.24,
+      "sid": 159,
+      "location": 2,
+      "content": "它从零切到一",
+      "music": 0.0
+    },
+    {
+      "from": 301.24,
+      "to": 302.54,
+      "sid": 160,
+      "location": 2,
+      "content": "或者从一切到零",
+      "music": 0.0
+    },
+    {
+      "from": 302.54,
+      "to": 305.12,
+      "sid": 161,
+      "location": 2,
+      "content": "都需要给电路里的微小电容充放电",
+      "music": 0.0
+    },
+    {
+      "from": 305.12,
+      "to": 307.32,
+      "sid": 162,
+      "location": 2,
+      "content": "在涛的理论框架下就可以解释成",
+      "music": 0.0
+    },
+    {
+      "from": 307.32,
+      "to": 308.48,
+      "sid": 163,
+      "location": 2,
+      "content": "晶体管越做越小",
+      "music": 0.0
+    },
+    {
+      "from": 308.48,
+      "to": 310.0,
+      "sid": 164,
+      "location": 2,
+      "content": "需要搬动的电荷变少",
+      "music": 0.0
+    },
+    {
+      "from": 310.0,
+      "to": 310.76,
+      "sid": 165,
+      "location": 2,
+      "content": "电容变小",
+      "music": 0.0
+    },
+    {
+      "from": 310.76,
+      "to": 313.8,
+      "sid": 166,
+      "location": 2,
+      "content": "完成一次切换所需要的时间也会随之缩短",
+      "music": 0.0
+    },
+    {
+      "from": 313.8,
+      "to": 316.68,
+      "sid": 167,
+      "location": 2,
+      "content": "这套理论不仅能完美兼容制程和摩尔定律",
+      "music": 0.0
+    },
+    {
+      "from": 316.68,
+      "to": 319.3,
+      "sid": 168,
+      "location": 2,
+      "content": "对过去70年里半导体发展的解释",
+      "music": 0.0
+    },
+    {
+      "from": 319.3,
+      "to": 322.1,
+      "sid": 169,
+      "location": 2,
+      "content": "还能把很多没法等效成纳米数的优化方案",
+      "music": 0.0
+    },
+    {
+      "from": 322.1,
+      "to": 323.16,
+      "sid": 170,
+      "location": 2,
+      "content": "也纳入框架内",
+      "music": 0.0
+    },
+    {
+      "from": 323.16,
+      "to": 326.62,
+      "sid": 171,
+      "location": 2,
+      "content": "让他们在尺上的位置更接近自己的真实水平",
+      "music": 0.0
+    },
+    {
+      "from": 326.62,
+      "to": 328.04,
+      "sid": 172,
+      "location": 2,
+      "content": "比如AMD的7led",
+      "music": 0.0
+    },
+    {
+      "from": 328.04,
+      "to": 329.96,
+      "sid": 173,
+      "location": 2,
+      "content": "苹果M系列的统一内存架构",
+      "music": 0.0
+    },
+    {
+      "from": 329.96,
+      "to": 332.04,
+      "sid": 174,
+      "location": 2,
+      "content": "这些东西放在传统制程语境里",
+      "music": 0.0
+    },
+    {
+      "from": 332.04,
+      "to": 334.419,
+      "sid": 175,
+      "location": 2,
+      "content": "很难说他们到底是几纳米的进步",
+      "music": 0.0
+    },
+    {
+      "from": 334.419,
+      "to": 336.019,
+      "sid": 176,
+      "location": 2,
+      "content": "但如果换成涛的视角",
+      "music": 0.0
+    },
+    {
+      "from": 336.019,
+      "to": 338.22,
+      "sid": 177,
+      "location": 2,
+      "content": "他们本质上都是在减少数据搬运",
+      "music": 0.0
+    },
+    {
+      "from": 338.22,
+      "to": 339.42,
+      "sid": 178,
+      "location": 2,
+      "content": "缩短信号传输",
+      "music": 0.0
+    },
+    {
+      "from": 339.42,
+      "to": 341.32,
+      "sid": 179,
+      "location": 2,
+      "content": "降低模块之间的等待时间",
+      "music": 0.0
+    },
+    {
+      "from": 341.32,
+      "to": 344.56,
+      "sid": 180,
+      "location": 2,
+      "content": "说白了都是在降低计算系统里的时间成本",
+      "music": 0.0
+    },
+    {
+      "from": 344.56,
+      "to": 345.52,
+      "sid": 181,
+      "location": 2,
+      "content": "思路打开之后",
+      "music": 0.0
+    },
+    {
+      "from": 345.52,
+      "to": 346.3,
+      "sid": 182,
+      "location": 2,
+      "content": "华为还发现",
+      "music": 0.0
+    },
+    {
+      "from": 346.3,
+      "to": 348.8,
+      "sid": 183,
+      "location": 2,
+      "content": "韬理论不仅能描述晶体管级别的迭代",
+      "music": 0.0
+    },
+    {
+      "from": 348.8,
+      "to": 350.22,
+      "sid": 184,
+      "location": 2,
+      "content": "还能一路向上扩展",
+      "music": 0.0
+    },
+    {
+      "from": 350.22,
+      "to": 352.12,
+      "sid": 185,
+      "location": 2,
+      "content": "从晶体管到电路再到芯片",
+      "music": 0.0
+    },
+    {
+      "from": 352.12,
+      "to": 352.98,
+      "sid": 186,
+      "location": 2,
+      "content": "最后到系统",
+      "music": 0.0
+    },
+    {
+      "from": 352.98,
+      "to": 354.84,
+      "sid": 187,
+      "location": 2,
+      "content": "每个层级都可以定义一个陶",
+      "music": 0.0
+    },
+    {
+      "from": 354.84,
+      "to": 357.34,
+      "sid": 188,
+      "location": 2,
+      "content": "最终形成万物皆可掏的大一统",
+      "music": 0.0
+    },
+    {
+      "from": 357.34,
+      "to": 358.31,
+      "sid": 189,
+      "location": 2,
+      "content": "芯片进化论",
+      "music": 0.0
+    },
+    {
+      "from": 358.31,
+      "to": 359.03,
+      "sid": 190,
+      "location": 2,
+      "content": "过去几年",
+      "music": 0.0
+    },
+    {
+      "from": 359.03,
+      "to": 361.17,
+      "sid": 191,
+      "location": 2,
+      "content": "那些很难用制程去等效的技术",
+      "music": 0.0
+    },
+    {
+      "from": 361.17,
+      "to": 362.87,
+      "sid": 192,
+      "location": 2,
+      "content": "都可以被放进涛的框架里",
+      "music": 0.0
+    },
+    {
+      "from": 362.87,
+      "to": 365.76,
+      "sid": 193,
+      "location": 2,
+      "content": "重新理解晶体管里面的3D堆叠和封装",
+      "music": 0.0
+    },
+    {
+      "from": 365.76,
+      "to": 367.58,
+      "sid": 194,
+      "location": 2,
+      "content": "是在缩短信号传输的距离",
+      "music": 0.0
+    },
+    {
+      "from": 367.58,
+      "to": 368.54,
+      "sid": 195,
+      "location": 2,
+      "content": "是在降低它",
+      "music": 0.0
+    },
+    {
+      "from": 368.54,
+      "to": 369.6,
+      "sid": 196,
+      "location": 2,
+      "content": "在芯片层面上",
+      "music": 0.0
+    },
+    {
+      "from": 369.6,
+      "to": 371.32,
+      "sid": 197,
+      "location": 2,
+      "content": "片上网络近存计算",
+      "music": 0.0
+    },
+    {
+      "from": 371.32,
+      "to": 372.08,
+      "sid": 198,
+      "location": 2,
+      "content": "统一内存",
+      "music": 0.0
+    },
+    {
+      "from": 372.08,
+      "to": 375.62,
+      "sid": 199,
+      "location": 2,
+      "content": "这些技术降低了是计算器和存储器之间的延迟",
+      "music": 0.0
+    },
+    {
+      "from": 375.62,
+      "to": 376.76,
+      "sid": 200,
+      "location": 2,
+      "content": "是在降低淘",
+      "music": 0.0
+    },
+    {
+      "from": 376.76,
+      "to": 378.02,
+      "sid": 201,
+      "location": 2,
+      "content": "而在系统层面",
+      "music": 0.0
+    },
+    {
+      "from": 378.02,
+      "to": 381.86,
+      "sid": 202,
+      "location": 2,
+      "content": "向华为在cloud matrix384上展示过的hone光互联",
+      "music": 0.0
+    },
+    {
+      "from": 381.86,
+      "to": 383.36,
+      "sid": 203,
+      "location": 2,
+      "content": "unify bus等等技术",
+      "music": 0.0
+    },
+    {
+      "from": 383.36,
+      "to": 386.44,
+      "sid": 204,
+      "location": 2,
+      "content": "则可以看作是在压低芯片之间的通信延迟",
+      "music": 0.0
+    },
+    {
+      "from": 386.44,
+      "to": 387.72,
+      "sid": 205,
+      "location": 2,
+      "content": "还是在降低头",
+      "music": 0.0
+    },
+    {
+      "from": 387.72,
+      "to": 388.7,
+      "sid": 206,
+      "location": 2,
+      "content": "根据这个理论",
+      "music": 0.0
+    },
+    {
+      "from": 388.7,
+      "to": 390.22,
+      "sid": 207,
+      "location": 2,
+      "content": "后摩尔时代的芯片技术",
+      "music": 0.0
+    },
+    {
+      "from": 390.22,
+      "to": 393.24,
+      "sid": 208,
+      "location": 2,
+      "content": "不用在所有领域都一味追求更先进的制程",
+      "music": 0.0
+    },
+    {
+      "from": 393.24,
+      "to": 396.63,
+      "sid": 209,
+      "location": 2,
+      "content": "而是可以先把一个计算系统拆成不同层级的套",
+      "music": 0.0
+    },
+    {
+      "from": 396.63,
+      "to": 397.23,
+      "sid": 210,
+      "location": 2,
+      "content": "晶体管",
+      "music": 0.0
+    },
+    {
+      "from": 397.23,
+      "to": 397.93,
+      "sid": 211,
+      "location": 2,
+      "content": "开关多久",
+      "music": 0.0
+    },
+    {
+      "from": 397.93,
+      "to": 399.43,
+      "sid": 212,
+      "location": 2,
+      "content": "电路信号传输多久",
+      "music": 0.0
+    },
+    {
+      "from": 399.43,
+      "to": 401.27,
+      "sid": 213,
+      "location": 2,
+      "content": "芯片内部数据要搬运多久",
+      "music": 0.0
+    },
+    {
+      "from": 401.27,
+      "to": 403.47,
+      "sid": 214,
+      "location": 2,
+      "content": "系统之间的通信同步要多久",
+      "music": 0.0
+    },
+    {
+      "from": 403.47,
+      "to": 405.77,
+      "sid": 215,
+      "location": 2,
+      "content": "只要搞明白哪些地方还在浪费时间",
+      "music": 0.0
+    },
+    {
+      "from": 405.77,
+      "to": 407.11,
+      "sid": 216,
+      "location": 2,
+      "content": "再去针对做优化",
+      "music": 0.0
+    },
+    {
+      "from": 407.11,
+      "to": 408.45,
+      "sid": 217,
+      "location": 2,
+      "content": "把这些时间压下去",
+      "music": 0.0
+    },
+    {
+      "from": 408.45,
+      "to": 410.55,
+      "sid": 218,
+      "location": 2,
+      "content": "哪怕精灵管本身没有继续缩小",
+      "music": 0.0
+    },
+    {
+      "from": 410.55,
+      "to": 412.56,
+      "sid": 219,
+      "location": 2,
+      "content": "芯片也仍然可以继续变强",
+      "music": 0.0
+    },
+    {
+      "from": 412.56,
+      "to": 413.38,
+      "sid": 220,
+      "location": 2,
+      "content": "换句话来说",
+      "music": 0.0
+    },
+    {
+      "from": 413.38,
+      "to": 415.36,
+      "sid": 221,
+      "location": 2,
+      "content": "套并不能直接解决工程问题",
+      "music": 0.0
+    },
+    {
+      "from": 415.36,
+      "to": 418.22,
+      "sid": 222,
+      "location": 2,
+      "content": "不是说你有了它不用EUV也能造3NM了",
+      "music": 0.0
+    },
+    {
+      "from": 418.22,
+      "to": 420.38,
+      "sid": 223,
+      "location": 2,
+      "content": "但如果把它当做一套方法论执行",
+      "music": 0.0
+    },
+    {
+      "from": 420.38,
+      "to": 422.84,
+      "sid": 224,
+      "location": 2,
+      "content": "确实可能在不提升制程的前提下",
+      "music": 0.0
+    },
+    {
+      "from": 422.84,
+      "to": 424.38,
+      "sid": 225,
+      "location": 2,
+      "content": "完成芯片的性能迭代",
+      "music": 0.0
+    },
+    {
+      "from": 424.38,
+      "to": 426.9,
+      "sid": 226,
+      "location": 2,
+      "content": "比如手机芯片最怕的不一定是峰值性能",
+      "music": 0.0
+    },
+    {
+      "from": 426.9,
+      "to": 428.47,
+      "sid": 227,
+      "location": 2,
+      "content": "而是功耗和发热压不住",
+      "music": 0.0
+    },
+    {
+      "from": 428.47,
+      "to": 431.03,
+      "sid": 228,
+      "location": 2,
+      "content": "所以他要降低的韬是在有限功耗下",
+      "music": 0.0
+    },
+    {
+      "from": 431.03,
+      "to": 432.15,
+      "sid": 229,
+      "location": 2,
+      "content": "让应用启动更快",
+      "music": 0.0
+    },
+    {
+      "from": 432.15,
+      "to": 433.409,
+      "sid": 230,
+      "location": 2,
+      "content": "系统响应更快",
+      "music": 0.0
+    },
+    {
+      "from": 433.409,
+      "to": 436.289,
+      "sid": 231,
+      "location": 2,
+      "content": "汽车芯片面对的则是自动驾驶系统里摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 436.289,
+      "to": 437.849,
+      "sid": 232,
+      "location": 2,
+      "content": "激光雷达采集到信息之后",
+      "music": 0.0
+    },
+    {
+      "from": 437.849,
+      "to": 440.63,
+      "sid": 233,
+      "location": 2,
+      "content": "芯片要尽快完成感知判断和控制",
+      "music": 0.0
+    },
+    {
+      "from": 440.63,
+      "to": 442.65,
+      "sid": 234,
+      "location": 2,
+      "content": "所以他的逃关键在于",
+      "music": 0.0
+    },
+    {
+      "from": 442.65,
+      "to": 445.72,
+      "sid": 235,
+      "location": 2,
+      "content": "传感器输入到车辆动作之间的闭环时间",
+      "music": 0.0
+    },
+    {
+      "from": 445.72,
+      "to": 448.0,
+      "sid": 236,
+      "location": 2,
+      "content": "而AI场景下训练和大模型推理",
+      "music": 0.0
+    },
+    {
+      "from": 448.0,
+      "to": 449.74,
+      "sid": 237,
+      "location": 2,
+      "content": "往往不是一颗芯片自己完成的",
+      "music": 0.0
+    },
+    {
+      "from": 449.74,
+      "to": 452.24,
+      "sid": 238,
+      "location": 2,
+      "content": "而是成百上千和芯片一起协作的",
+      "music": 0.0
+    },
+    {
+      "from": 452.24,
+      "to": 455.4,
+      "sid": 239,
+      "location": 2,
+      "content": "所以优化的重点应该是芯片之间的互联效率",
+      "music": 0.0
+    },
+    {
+      "from": 455.4,
+      "to": 456.78,
+      "sid": 240,
+      "location": 2,
+      "content": "并且对华为来说",
+      "music": 0.0
+    },
+    {
+      "from": 456.78,
+      "to": 458.78,
+      "sid": 241,
+      "location": 2,
+      "content": "它不只是停留在纸面上的理论",
+      "music": 0.0
+    },
+    {
+      "from": 458.78,
+      "to": 461.27,
+      "sid": 242,
+      "location": 2,
+      "content": "而是一种已经投入实战的战略思想",
+      "music": 0.0
+    },
+    {
+      "from": 461.27,
+      "to": 463.65,
+      "sid": 243,
+      "location": 2,
+      "content": "今年即将发布的麒麟2026芯片",
+      "music": 0.0
+    },
+    {
+      "from": 463.65,
+      "to": 465.01,
+      "sid": 244,
+      "location": 2,
+      "content": "在涛理论指导下",
+      "music": 0.0
+    },
+    {
+      "from": 465.01,
+      "to": 466.83,
+      "sid": 245,
+      "location": 2,
+      "content": "搞出了一种不依赖制成工艺",
+      "music": 0.0
+    },
+    {
+      "from": 466.83,
+      "to": 469.08,
+      "sid": 246,
+      "location": 2,
+      "content": "就能提升性能的垂直互联方法",
+      "music": 0.0
+    },
+    {
+      "from": 469.08,
+      "to": 470.409,
+      "sid": 247,
+      "location": 2,
+      "content": "裸体设定",
+      "music": 0.0
+    },
+    {
+      "from": 470.409,
+      "to": 471.749,
+      "sid": 248,
+      "location": 2,
+      "content": "说到垂直互联",
+      "music": 0.0
+    },
+    {
+      "from": 471.749,
+      "to": 473.829,
+      "sid": 249,
+      "location": 2,
+      "content": "可能大家更熟悉的是3D堆叠",
+      "music": 0.0
+    },
+    {
+      "from": 473.829,
+      "to": 475.889,
+      "sid": 250,
+      "location": 2,
+      "content": "也就是把本来放在一个平面上",
+      "music": 0.0
+    },
+    {
+      "from": 475.889,
+      "to": 478.069,
+      "sid": 251,
+      "location": 2,
+      "content": "摊开的布线和逻辑单元中的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 478.069,
+      "to": 479.76,
+      "sid": 252,
+      "location": 2,
+      "content": "往垂直方向上叠起来",
+      "music": 0.0
+    },
+    {
+      "from": 479.76,
+      "to": 482.12,
+      "sid": 253,
+      "location": 2,
+      "content": "让原本相隔很远的模块变得更近",
+      "music": 0.0
+    },
+    {
+      "from": 482.12,
+      "to": 483.48,
+      "sid": 254,
+      "location": 2,
+      "content": "信号不用绕远路",
+      "music": 0.0
+    },
+    {
+      "from": 483.48,
+      "to": 486.26,
+      "sid": 255,
+      "location": 2,
+      "content": "但这种折叠更多的是物理关系上的折叠",
+      "music": 0.0
+    },
+    {
+      "from": 486.26,
+      "to": 489.3,
+      "sid": 256,
+      "location": 2,
+      "content": "当前行业主流的做法是先完成独立芯片设计",
+      "music": 0.0
+    },
+    {
+      "from": 489.3,
+      "to": 491.21,
+      "sid": 257,
+      "location": 2,
+      "content": "再将不同的裸片连接在一起",
+      "music": 0.0
+    },
+    {
+      "from": 491.21,
+      "to": 493.65,
+      "sid": 258,
+      "location": 2,
+      "content": "而逻辑折叠则更偏电路",
+      "music": 0.0
+    },
+    {
+      "from": 493.65,
+      "to": 494.91,
+      "sid": 259,
+      "location": 2,
+      "content": "逻辑关系上的折叠",
+      "music": 0.0
+    },
+    {
+      "from": 494.91,
+      "to": 496.63,
+      "sid": 260,
+      "location": 2,
+      "content": "也就是说在设计电路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 496.63,
+      "to": 498.84,
+      "sid": 261,
+      "location": 2,
+      "content": "就考虑到逻辑单元之间的连接关系",
+      "music": 0.0
+    },
+    {
+      "from": 498.84,
+      "to": 500.36,
+      "sid": 262,
+      "location": 2,
+      "content": "让关键路径变短",
+      "music": 0.0
+    },
+    {
+      "from": 500.36,
+      "to": 503.66,
+      "sid": 263,
+      "location": 2,
+      "content": "实现接近芯片内部互联级别的垂直连接",
+      "music": 0.0
+    },
+    {
+      "from": 503.66,
+      "to": 504.97,
+      "sid": 264,
+      "location": 2,
+      "content": "根据华为的说法",
+      "music": 0.0
+    },
+    {
+      "from": 504.97,
+      "to": 507.51,
+      "sid": 265,
+      "location": 2,
+      "content": "华为在麒麟2026的两层带间",
+      "music": 0.0
+    },
+    {
+      "from": 507.51,
+      "to": 509.21,
+      "sid": 266,
+      "location": 2,
+      "content": "提供了约5000万个连接",
+      "music": 0.0
+    },
+    {
+      "from": 509.21,
+      "to": 510.73,
+      "sid": 267,
+      "location": 2,
+      "content": "远高于3D封装中",
+      "music": 0.0
+    },
+    {
+      "from": 510.73,
+      "to": 513.789,
+      "sid": 268,
+      "location": 2,
+      "content": "两个带之间几万至几10万个连接的量级",
+      "music": 0.0
+    },
+    {
+      "from": 513.789,
+      "to": 516.2,
+      "sid": 269,
+      "location": 2,
+      "content": "如果把平面的芯片看成小平房",
+      "music": 0.0
+    },
+    {
+      "from": 516.2,
+      "to": 516.92,
+      "sid": 270,
+      "location": 2,
+      "content": "3D堆叠",
+      "music": 0.0
+    },
+    {
+      "from": 516.92,
+      "to": 519.42,
+      "sid": 271,
+      "location": 2,
+      "content": "就是在原有房子的基础上加盖一个阁楼",
+      "music": 0.0
+    },
+    {
+      "from": 519.42,
+      "to": 523.04,
+      "sid": 272,
+      "location": 2,
+      "content": "那么逻辑折叠则是相当于在一开始就按loft设计",
+      "music": 0.0
+    },
+    {
+      "from": 523.04,
+      "to": 523.809,
+      "sid": 273,
+      "location": 2,
+      "content": "画图纸",
+      "music": 0.0
+    },
+    {
+      "from": 523.809,
+      "to": 526.329,
+      "sid": 274,
+      "location": 2,
+      "content": "这样建出来的房子比平房空间更大",
+      "music": 0.0
+    },
+    {
+      "from": 526.329,
+      "to": 527.329,
+      "sid": 275,
+      "location": 2,
+      "content": "采光更好",
+      "music": 0.0
+    },
+    {
+      "from": 527.329,
+      "to": 530.429,
+      "sid": 276,
+      "location": 2,
+      "content": "相比于后期加盖的二层动线设计也更合理",
+      "music": 0.0
+    },
+    {
+      "from": 530.429,
+      "to": 531.329,
+      "sid": 277,
+      "location": 2,
+      "content": "通过这种方法",
+      "music": 0.0
+    },
+    {
+      "from": 531.329,
+      "to": 533.629,
+      "sid": 278,
+      "location": 2,
+      "content": "华为直接把麒麟2026的性能指标",
+      "music": 0.0
+    },
+    {
+      "from": 533.629,
+      "to": 535.109,
+      "sid": 279,
+      "location": 2,
+      "content": "拉到了3.1G赫兹",
+      "music": 0.0
+    },
+    {
+      "from": 535.109,
+      "to": 538.289,
+      "sid": 280,
+      "location": 2,
+      "content": "比现在最猛的9030pro提升了约12%",
+      "music": 0.0
+    },
+    {
+      "from": 538.289,
+      "to": 540.649,
+      "sid": 281,
+      "location": 2,
+      "content": "比2023年麒麟回归到现在的提升",
+      "music": 0.0
+    },
+    {
+      "from": 540.649,
+      "to": 541.64,
+      "sid": 282,
+      "location": 2,
+      "content": "加起来还大",
+      "music": 0.0
+    },
+    {
+      "from": 541.64,
+      "to": 542.16,
+      "sid": 283,
+      "location": 2,
+      "content": "说到这",
+      "music": 0.0
+    },
+    {
+      "from": 542.16,
+      "to": 544.92,
+      "sid": 284,
+      "location": 2,
+      "content": "大家应该大概能理解这个套定律是什么了",
+      "music": 0.0
+    },
+    {
+      "from": 544.92,
+      "to": 545.76,
+      "sid": 285,
+      "location": 2,
+      "content": "可能有人会说啊",
+      "music": 0.0
+    },
+    {
+      "from": 545.76,
+      "to": 547.78,
+      "sid": 286,
+      "location": 2,
+      "content": "这个套定律所包含的大部分东西",
+      "music": 0.0
+    },
+    {
+      "from": 547.78,
+      "to": 550.53,
+      "sid": 287,
+      "location": 2,
+      "content": "似乎都是行业早已讲烂了的内容",
+      "music": 0.0
+    },
+    {
+      "from": 550.53,
+      "to": 551.57,
+      "sid": 288,
+      "location": 2,
+      "content": "但在差评君看来",
+      "music": 0.0
+    },
+    {
+      "from": 551.57,
+      "to": 555.15,
+      "sid": 289,
+      "location": 2,
+      "content": "像这样真正的纲领其实呢都是简单甚至无趣的",
+      "music": 0.0
+    },
+    {
+      "from": 555.15,
+      "to": 557.24,
+      "sid": 290,
+      "location": 2,
+      "content": "就像摩尔定律说的无非是啊",
+      "music": 0.0
+    },
+    {
+      "from": 557.24,
+      "to": 559.08,
+      "sid": 291,
+      "location": 2,
+      "content": "我数了数过去几年的数据",
+      "music": 0.0
+    },
+    {
+      "from": 559.08,
+      "to": 561.36,
+      "sid": 292,
+      "location": 2,
+      "content": "晶体管数量大概每18个月翻了一番",
+      "music": 0.0
+    },
+    {
+      "from": 561.36,
+      "to": 562.16,
+      "sid": 293,
+      "location": 2,
+      "content": "没有新物里",
+      "music": 0.0
+    },
+    {
+      "from": 562.16,
+      "to": 562.72,
+      "sid": 294,
+      "location": 2,
+      "content": "没有新公寓",
+      "music": 0.0
+    },
+    {
+      "from": 562.72,
+      "to": 563.32,
+      "sid": 295,
+      "location": 2,
+      "content": "没有新架构",
+      "music": 0.0
+    },
+    {
+      "from": 563.32,
+      "to": 564.04,
+      "sid": 296,
+      "location": 2,
+      "content": "非常无聊",
+      "music": 0.0
+    },
+    {
+      "from": 564.04,
+      "to": 565.04,
+      "sid": 297,
+      "location": 2,
+      "content": "但是有用吗",
+      "music": 0.0
+    },
+    {
+      "from": 565.04,
+      "to": 566.02,
+      "sid": 298,
+      "location": 2,
+      "content": "相当有用",
+      "music": 0.0
+    },
+    {
+      "from": 566.02,
+      "to": 566.62,
+      "sid": 299,
+      "location": 2,
+      "content": "台积电",
+      "music": 0.0
+    },
+    {
+      "from": 566.62,
+      "to": 569.44,
+      "sid": 300,
+      "location": 2,
+      "content": "因为它直到两年之后要量产下一代节点",
+      "music": 0.0
+    },
+    {
+      "from": 569.44,
+      "to": 571.28,
+      "sid": 301,
+      "location": 2,
+      "content": "所以可以提前研发PC厂",
+      "music": 0.0
+    },
+    {
+      "from": 571.28,
+      "to": 572.86,
+      "sid": 302,
+      "location": 2,
+      "content": "知道下一代芯片什么时候出来",
+      "music": 0.0
+    },
+    {
+      "from": 572.86,
+      "to": 575.15,
+      "sid": 303,
+      "location": 2,
+      "content": "可以同步发布规划软件厂",
+      "music": 0.0
+    },
+    {
+      "from": 575.15,
+      "to": 576.75,
+      "sid": 304,
+      "location": 2,
+      "content": "知道我这个软件发布的时候",
+      "music": 0.0
+    },
+    {
+      "from": 576.75,
+      "to": 578.819,
+      "sid": 305,
+      "location": 2,
+      "content": "新电脑的性能大概是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 578.819,
+      "to": 580.739,
+      "sid": 306,
+      "location": 2,
+      "content": "整条链条上的每一个参与者",
+      "music": 0.0
+    },
+    {
+      "from": 580.739,
+      "to": 582.439,
+      "sid": 307,
+      "location": 2,
+      "content": "都在用同一个节奏对表",
+      "music": 0.0
+    },
+    {
+      "from": 582.439,
+      "to": 584.22,
+      "sid": 308,
+      "location": 2,
+      "content": "这就是共识的力量",
+      "music": 0.0
+    },
+    {
+      "from": 584.22,
+      "to": 585.8,
+      "sid": 309,
+      "location": 2,
+      "content": "而在2026年的今天",
+      "music": 0.0
+    },
+    {
+      "from": 585.8,
+      "to": 587.18,
+      "sid": 310,
+      "location": 2,
+      "content": "旧共识已经瓦解",
+      "music": 0.0
+    },
+    {
+      "from": 587.18,
+      "to": 588.65,
+      "sid": 311,
+      "location": 2,
+      "content": "新共识尚未形成",
+      "music": 0.0
+    },
+    {
+      "from": 588.65,
+      "to": 590.59,
+      "sid": 312,
+      "location": 2,
+      "content": "尤其是对于中国的芯片业来说",
+      "music": 0.0
+    },
+    {
+      "from": 590.59,
+      "to": 592.11,
+      "sid": 313,
+      "location": 2,
+      "content": "确实需要一个够分量",
+      "music": 0.0
+    },
+    {
+      "from": 592.11,
+      "to": 593.51,
+      "sid": 314,
+      "location": 2,
+      "content": "敢带队的带头大哥",
+      "music": 0.0
+    },
+    {
+      "from": 593.51,
+      "to": 595.609,
+      "sid": 315,
+      "location": 2,
+      "content": "把一些废话变成共识",
+      "music": 0.0
+    },
+    {
+      "from": 595.609,
+      "to": 596.669,
+      "sid": 316,
+      "location": 2,
+      "content": "而更重要的是",
+      "music": 0.0
+    },
+    {
+      "from": 596.669,
+      "to": 597.969,
+      "sid": 317,
+      "location": 2,
+      "content": "华为通过cloud matrix",
+      "music": 0.0
+    },
+    {
+      "from": 597.969,
+      "to": 600.68,
+      "sid": 318,
+      "location": 2,
+      "content": "384和逻辑折叠这些案例来告诉大家",
+      "music": 0.0
+    },
+    {
+      "from": 600.68,
+      "to": 602.62,
+      "sid": 319,
+      "location": 2,
+      "content": "在先进光刻受限的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 602.62,
+      "to": 604.16,
+      "sid": 320,
+      "location": 2,
+      "content": "这条路确实走得通",
+      "music": 0.0
+    },
+    {
+      "from": 604.16,
+      "to": 607.91,
+      "sid": 321,
+      "location": 2,
+      "content": "这可能才是中国芯片业此刻最需要的东西",
+      "music": 0.0
+    },
+    {
+      "from": 607.91,
+      "to": 608.47,
+      "sid": 322,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 609.31,
+      "to": 610.11,
+      "sid": 323,
+      "location": 2,
+      "content": "这就是今天的内容",
+      "music": 0.0
+    },
+    {
+      "from": 610.11,
+      "to": 610.95,
+      "sid": 324,
+      "location": 2,
+      "content": "如果你觉得好的话",
+      "music": 0.0
+    },
+    {
+      "from": 610.95,
+      "to": 611.99,
+      "sid": 325,
+      "location": 2,
+      "content": "欢迎你一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 611.99,
+      "to": 613.19,
+      "sid": 326,
+      "location": 2,
+      "content": "如果你有什么想说的",
+      "music": 0.0
+    },
+    {
+      "from": 613.19,
+      "to": 614.76,
+      "sid": 327,
+      "location": 2,
+      "content": "欢迎在评论区和我互动",
+      "music": 0.0
+    },
+    {
+      "from": 614.76,
+      "to": 616.04,
+      "sid": 328,
+      "location": 2,
+      "content": "最后拜托们的关注一下",
+      "music": 0.0
+    },
+    {
+      "from": 616.04,
+      "to": 617.92,
+      "sid": 329,
+      "location": 2,
+      "content": "我们也可以关注一下我们的公众号",
+      "music": 0.0
+    },
+    {
+      "from": 617.92,
+      "to": 620.36,
+      "sid": 330,
+      "location": 2,
+      "content": "差评我们下次再见",
+      "music": 0.0
+    }
+  ]
+}

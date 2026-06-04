@@ -1,0 +1,2620 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.94,
+      "to": 3.38,
+      "sid": 1,
+      "location": 2,
+      "content": "房地产盘面异动是黎明前的曙光",
+      "music": 0.0
+    },
+    {
+      "from": 3.38,
+      "to": 4.98,
+      "sid": 2,
+      "location": 2,
+      "content": "还只不过是昙花一现",
+      "music": 0.0
+    },
+    {
+      "from": 4.98,
+      "to": 6.52,
+      "sid": 3,
+      "location": 2,
+      "content": "本周星期五收盘前",
+      "music": 0.0
+    },
+    {
+      "from": 6.52,
+      "to": 8.76,
+      "sid": 4,
+      "location": 2,
+      "content": "高盛发布了一份很详细的研究报告",
+      "music": 0.0
+    },
+    {
+      "from": 8.76,
+      "to": 11.479,
+      "sid": 5,
+      "location": 2,
+      "content": "标题叫提前布局股价反弹",
+      "music": 0.0
+    },
+    {
+      "from": 11.479,
+      "to": 12.979,
+      "sid": 6,
+      "location": 2,
+      "content": "市场已经反映了什么",
+      "music": 0.0
+    },
+    {
+      "from": 12.979,
+      "to": 15.079,
+      "sid": 7,
+      "location": 2,
+      "content": "研报用一套非常系统的分析框架",
+      "music": 0.0
+    },
+    {
+      "from": 15.079,
+      "to": 16.58,
+      "sid": 8,
+      "location": 2,
+      "content": "从人口收入",
+      "music": 0.0
+    },
+    {
+      "from": 16.58,
+      "to": 19.04,
+      "sid": 9,
+      "location": 2,
+      "content": "购买力供应这四个维度去判断",
+      "music": 0.0
+    },
+    {
+      "from": 19.04,
+      "to": 20.48,
+      "sid": 10,
+      "location": 2,
+      "content": "哪些城市会先好起来",
+      "music": 0.0
+    },
+    {
+      "from": 20.48,
+      "to": 21.92,
+      "sid": 11,
+      "location": 2,
+      "content": "以及如果真的好转了",
+      "music": 0.0
+    },
+    {
+      "from": 21.92,
+      "to": 23.549,
+      "sid": 12,
+      "location": 2,
+      "content": "会对市场产生多大影响",
+      "music": 0.0
+    },
+    {
+      "from": 23.549,
+      "to": 24.929,
+      "sid": 13,
+      "location": 2,
+      "content": "欢迎来到调研现场",
+      "music": 0.0
+    },
+    {
+      "from": 24.929,
+      "to": 27.39,
+      "sid": 14,
+      "location": 2,
+      "content": "接下来我们将逐页拆解研报",
+      "music": 0.0
+    },
+    {
+      "from": 27.39,
+      "to": 29.27,
+      "sid": 15,
+      "location": 2,
+      "content": "首先是研报的第一部分",
+      "music": 0.0
+    },
+    {
+      "from": 29.27,
+      "to": 31.24,
+      "sid": 16,
+      "location": 2,
+      "content": "高盛给出的核心观点是",
+      "music": 0.0
+    },
+    {
+      "from": 31.24,
+      "to": 32.66,
+      "sid": 17,
+      "location": 2,
+      "content": "从历史经验看",
+      "music": 0.0
+    },
+    {
+      "from": 32.66,
+      "to": 34.7,
+      "sid": 18,
+      "location": 2,
+      "content": "股市总是抢跑楼市",
+      "music": 0.0
+    },
+    {
+      "from": 34.7,
+      "to": 37.28,
+      "sid": 19,
+      "location": 2,
+      "content": "报告里回顾了美国和日本的历史",
+      "music": 0.0
+    },
+    {
+      "from": 37.28,
+      "to": 38.44,
+      "sid": 20,
+      "location": 2,
+      "content": "过去几十年",
+      "music": 0.0
+    },
+    {
+      "from": 38.44,
+      "to": 40.7,
+      "sid": 21,
+      "location": 2,
+      "content": "每次房地产周期见底之前",
+      "music": 0.0
+    },
+    {
+      "from": 40.7,
+      "to": 44.12,
+      "sid": 22,
+      "location": 2,
+      "content": "房地产公司的股票都会先于房价开始上涨",
+      "music": 0.0
+    },
+    {
+      "from": 44.12,
+      "to": 45.07,
+      "sid": 23,
+      "location": 2,
+      "content": "在美国",
+      "music": 0.0
+    },
+    {
+      "from": 45.07,
+      "to": 45.79,
+      "sid": 24,
+      "location": 2,
+      "content": "房产股",
+      "music": 0.0
+    },
+    {
+      "from": 45.79,
+      "to": 48.55,
+      "sid": 25,
+      "location": 2,
+      "content": "一般在房价真正见底之前的一到两个季度",
+      "music": 0.0
+    },
+    {
+      "from": 48.55,
+      "to": 50.23,
+      "sid": 26,
+      "location": 2,
+      "content": "就率先触底反弹了",
+      "music": 0.0
+    },
+    {
+      "from": 50.23,
+      "to": 51.19,
+      "sid": 27,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 51.19,
+      "to": 54.35,
+      "sid": 28,
+      "location": 2,
+      "content": "当大家还在担心房价会不会继续跌的时候",
+      "music": 0.0
+    },
+    {
+      "from": 54.35,
+      "to": 57.05,
+      "sid": 29,
+      "location": 2,
+      "content": "股市里的聪明钱已经开始进场了",
+      "music": 0.0
+    },
+    {
+      "from": 57.05,
+      "to": 58.79,
+      "sid": 30,
+      "location": 2,
+      "content": "在日本就更夸张了",
+      "music": 0.0
+    },
+    {
+      "from": 62.13,
+      "to": 63.67,
+      "sid": 31,
+      "location": 2,
+      "content": "房价跌了很多年",
+      "music": 0.0
+    },
+    {
+      "from": 63.67,
+      "to": 66.43,
+      "sid": 32,
+      "location": 2,
+      "content": "但日本的一些大型房地产公司的股票",
+      "music": 0.0
+    },
+    {
+      "from": 66.43,
+      "to": 69.57,
+      "sid": 33,
+      "location": 2,
+      "content": "比房价复苏提前了好几年就开始上涨",
+      "music": 0.0
+    },
+    {
+      "from": 69.57,
+      "to": 70.49,
+      "sid": 34,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 70.49,
+      "to": 72.62,
+      "sid": 35,
+      "location": 2,
+      "content": "因为股市看的是预期",
+      "music": 0.0
+    },
+    {
+      "from": 72.62,
+      "to": 75.3,
+      "sid": 36,
+      "location": 2,
+      "content": "当市场判断最坏的时候已经过去",
+      "music": 0.0
+    },
+    {
+      "from": 75.3,
+      "to": 77.34,
+      "sid": 37,
+      "location": 2,
+      "content": "未来哪怕只是不再恶化",
+      "music": 0.0
+    },
+    {
+      "from": 77.34,
+      "to": 79.2,
+      "sid": 38,
+      "location": 2,
+      "content": "股价就可能先涨起来",
+      "music": 0.0
+    },
+    {
+      "from": 79.2,
+      "to": 82.06,
+      "sid": 39,
+      "location": 2,
+      "content": "高盛用了一个很形象的词抢跑",
+      "music": 0.0
+    },
+    {
+      "from": 82.06,
+      "to": 84.52,
+      "sid": 40,
+      "location": 2,
+      "content": "那抢跑之后能涨多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 84.52,
+      "to": 85.57,
+      "sid": 41,
+      "location": 2,
+      "content": "报告里说",
+      "music": 0.0
+    },
+    {
+      "from": 85.57,
+      "to": 88.49,
+      "sid": 42,
+      "location": 2,
+      "content": "在美国的几次房价复苏周期中",
+      "music": 0.0
+    },
+    {
+      "from": 88.49,
+      "to": 91.789,
+      "sid": 43,
+      "location": 2,
+      "content": "房产股的平均市净率差不多翻了一倍",
+      "music": 0.0
+    },
+    {
+      "from": 91.789,
+      "to": 94.909,
+      "sid": 44,
+      "location": 2,
+      "content": "在日本2000年之后的几次复苏中",
+      "music": 0.0
+    },
+    {
+      "from": 98.8,
+      "to": 100.75,
+      "sid": 45,
+      "location": 2,
+      "content": "这背后的原因也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 100.75,
+      "to": 101.81,
+      "sid": 46,
+      "location": 2,
+      "content": "房价一涨",
+      "music": 0.0
+    },
+    {
+      "from": 101.81,
+      "to": 103.55,
+      "sid": 47,
+      "location": 2,
+      "content": "开发商的利润率就提高了",
+      "music": 0.0
+    },
+    {
+      "from": 103.55,
+      "to": 105.37,
+      "sid": 48,
+      "location": 2,
+      "content": "净资产收益率跟着上升",
+      "music": 0.0
+    },
+    {
+      "from": 105.37,
+      "to": 107.73,
+      "sid": 49,
+      "location": 2,
+      "content": "同时市场觉得风险降低了",
+      "music": 0.0
+    },
+    {
+      "from": 107.73,
+      "to": 109.92,
+      "sid": 50,
+      "location": 2,
+      "content": "对回报的要求反而下降了",
+      "music": 0.0
+    },
+    {
+      "from": 109.92,
+      "to": 111.7,
+      "sid": 51,
+      "location": 2,
+      "content": "一个上升一个下降",
+      "music": 0.0
+    },
+    {
+      "from": 111.7,
+      "to": 113.4,
+      "sid": 52,
+      "location": 2,
+      "content": "中间的差值拉大",
+      "music": 0.0
+    },
+    {
+      "from": 113.4,
+      "to": 115.199,
+      "sid": 53,
+      "location": 2,
+      "content": "股价自然就会大涨",
+      "music": 0.0
+    },
+    {
+      "from": 115.199,
+      "to": 116.039,
+      "sid": 54,
+      "location": 2,
+      "content": "打个比方",
+      "music": 0.0
+    },
+    {
+      "from": 116.039,
+      "to": 117.5,
+      "sid": 55,
+      "location": 2,
+      "content": "这就好比一家面包店",
+      "music": 0.0
+    },
+    {
+      "from": 117.5,
+      "to": 119.2,
+      "sid": 56,
+      "location": 2,
+      "content": "以前一个面包卖五块钱",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 120.86,
+      "sid": 57,
+      "location": 2,
+      "content": "成本四块赚一块",
+      "music": 0.0
+    },
+    {
+      "from": 120.86,
+      "to": 122.52,
+      "sid": 58,
+      "location": 2,
+      "content": "现在面包能卖六块了",
+      "music": 0.0
+    },
+    {
+      "from": 122.52,
+      "to": 124.57,
+      "sid": 59,
+      "location": 2,
+      "content": "成本还是四块赚两块",
+      "music": 0.0
+    },
+    {
+      "from": 124.57,
+      "to": 125.79,
+      "sid": 60,
+      "location": 2,
+      "content": "利润直接翻倍",
+      "music": 0.0
+    },
+    {
+      "from": 125.79,
+      "to": 128.05,
+      "sid": 61,
+      "location": 2,
+      "content": "而且大家觉得这家店生意稳了",
+      "music": 0.0
+    },
+    {
+      "from": 128.05,
+      "to": 129.91,
+      "sid": 62,
+      "location": 2,
+      "content": "愿意给他更高的估值",
+      "music": 0.0
+    },
+    {
+      "from": 129.91,
+      "to": 131.69,
+      "sid": 63,
+      "location": 2,
+      "content": "股价自然就上去了",
+      "music": 0.0
+    },
+    {
+      "from": 131.69,
+      "to": 133.77,
+      "sid": 64,
+      "location": 2,
+      "content": "所以高盛的结论是",
+      "music": 0.0
+    },
+    {
+      "from": 133.77,
+      "to": 136.99,
+      "sid": 65,
+      "location": 2,
+      "content": "如果你想判断楼市什么时候真正回暖",
+      "music": 0.0
+    },
+    {
+      "from": 136.99,
+      "to": 139.23,
+      "sid": 66,
+      "location": 2,
+      "content": "盯住房地产股票的走势",
+      "music": 0.0
+    },
+    {
+      "from": 139.23,
+      "to": 141.31,
+      "sid": 67,
+      "location": 2,
+      "content": "往往能提前获得信号",
+      "music": 0.0
+    },
+    {
+      "from": 141.31,
+      "to": 143.399,
+      "sid": 68,
+      "location": 2,
+      "content": "那这次呢报告写到",
+      "music": 0.0
+    },
+    {
+      "from": 143.399,
+      "to": 145.939,
+      "sid": 69,
+      "location": 2,
+      "content": "从今年3月底到5月27日",
+      "music": 0.0
+    },
+    {
+      "from": 145.939,
+      "to": 148.64,
+      "sid": 70,
+      "location": 2,
+      "content": "他们跟踪了一批中国房地产公司",
+      "music": 0.0
+    },
+    {
+      "from": 148.64,
+      "to": 151.0,
+      "sid": 71,
+      "location": 2,
+      "content": "股价平均反弹了6%",
+      "music": 0.0
+    },
+    {
+      "from": 151.0,
+      "to": 152.72,
+      "sid": 72,
+      "location": 2,
+      "content": "其中几家比较大的央企",
+      "music": 0.0
+    },
+    {
+      "from": 152.72,
+      "to": 155.579,
+      "sid": 73,
+      "location": 2,
+      "content": "开发商平均反弹了17%",
+      "music": 0.0
+    },
+    {
+      "from": 155.579,
+      "to": 158.219,
+      "sid": 74,
+      "location": 2,
+      "content": "个别公司甚至涨了30%左右",
+      "music": 0.0
+    },
+    {
+      "from": 158.219,
+      "to": 159.42,
+      "sid": 75,
+      "location": 2,
+      "content": "问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 159.42,
+      "to": 163.2,
+      "sid": 76,
+      "location": 2,
+      "content": "这次反弹到底是跟过去一样昙花一现",
+      "music": 0.0
+    },
+    {
+      "from": 163.2,
+      "to": 165.31,
+      "sid": 77,
+      "location": 2,
+      "content": "还是真的有基本面支撑",
+      "music": 0.0
+    },
+    {
+      "from": 165.31,
+      "to": 167.71,
+      "sid": 78,
+      "location": 2,
+      "content": "接下来就要说到报告的核心了",
+      "music": 0.0
+    },
+    {
+      "from": 167.71,
+      "to": 168.8,
+      "sid": 79,
+      "location": 2,
+      "content": "研报指出",
+      "music": 0.0
+    },
+    {
+      "from": 168.8,
+      "to": 172.38,
+      "sid": 80,
+      "location": 2,
+      "content": "通过四根支柱去判断城市房价基本面",
+      "music": 0.0
+    },
+    {
+      "from": 172.38,
+      "to": 174.66,
+      "sid": 81,
+      "location": 2,
+      "content": "以及哪些城市会先复苏",
+      "music": 0.0
+    },
+    {
+      "from": 174.66,
+      "to": 178.24,
+      "sid": 82,
+      "location": 2,
+      "content": "高盛设计了一套叫四支柱的评估框架",
+      "music": 0.0
+    },
+    {
+      "from": 178.24,
+      "to": 181.859,
+      "sid": 83,
+      "location": 2,
+      "content": "这四个支柱分别是一人口流入",
+      "music": 0.0
+    },
+    {
+      "from": 181.859,
+      "to": 184.379,
+      "sid": 84,
+      "location": 2,
+      "content": "年轻人还愿不愿意去这个城市",
+      "music": 0.0
+    },
+    {
+      "from": 184.379,
+      "to": 186.23,
+      "sid": 85,
+      "location": 2,
+      "content": "二收入增长",
+      "music": 0.0
+    },
+    {
+      "from": 186.23,
+      "to": 188.41,
+      "sid": 86,
+      "location": 2,
+      "content": "这个城市的企业赚不赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 188.41,
+      "to": 190.18,
+      "sid": 87,
+      "location": 2,
+      "content": "老百姓工资涨不涨",
+      "music": 0.0
+    },
+    {
+      "from": 190.18,
+      "to": 191.82,
+      "sid": 88,
+      "location": 2,
+      "content": "三购买力",
+      "music": 0.0
+    },
+    {
+      "from": 191.82,
+      "to": 194.0,
+      "sid": 89,
+      "location": 2,
+      "content": "房价和收入比是不是合理",
+      "music": 0.0
+    },
+    {
+      "from": 194.0,
+      "to": 195.34,
+      "sid": 90,
+      "location": 2,
+      "content": "能不能买得起",
+      "music": 0.0
+    },
+    {
+      "from": 195.34,
+      "to": 197.23,
+      "sid": 91,
+      "location": 2,
+      "content": "四供应情况",
+      "music": 0.0
+    },
+    {
+      "from": 197.23,
+      "to": 198.93,
+      "sid": 92,
+      "location": 2,
+      "content": "市场上的房子是多的",
+      "music": 0.0
+    },
+    {
+      "from": 198.93,
+      "to": 199.51,
+      "sid": 93,
+      "location": 2,
+      "content": "卖不完",
+      "music": 0.0
+    },
+    {
+      "from": 199.51,
+      "to": 201.59,
+      "sid": 94,
+      "location": 2,
+      "content": "还是已经去化的差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 201.59,
+      "to": 202.87,
+      "sid": 95,
+      "location": 2,
+      "content": "用这四个维度",
+      "music": 0.0
+    },
+    {
+      "from": 202.87,
+      "to": 206.01,
+      "sid": 96,
+      "location": 2,
+      "content": "高盛把所有一二线城市打分排队",
+      "music": 0.0
+    },
+    {
+      "from": 206.01,
+      "to": 209.75,
+      "sid": 97,
+      "location": 2,
+      "content": "结果发现上海和深圳毫无疑问是第一梯队",
+      "music": 0.0
+    },
+    {
+      "from": 209.75,
+      "to": 212.36,
+      "sid": 98,
+      "location": 2,
+      "content": "他们在这四个维度上得分都很高",
+      "music": 0.0
+    },
+    {
+      "from": 212.36,
+      "to": 214.32,
+      "sid": 99,
+      "location": 2,
+      "content": "从去年底到今年一季度",
+      "music": 0.0
+    },
+    {
+      "from": 214.32,
+      "to": 217.459,
+      "sid": 100,
+      "location": 2,
+      "content": "这两个城市的房价已经出现了企稳迹象",
+      "music": 0.0
+    },
+    {
+      "from": 217.459,
+      "to": 218.959,
+      "sid": 101,
+      "location": 2,
+      "content": "那下一批是谁",
+      "music": 0.0
+    },
+    {
+      "from": 218.959,
+      "to": 220.319,
+      "sid": 102,
+      "location": 2,
+      "content": "报告精挑细选",
+      "music": 0.0
+    },
+    {
+      "from": 220.319,
+      "to": 222.239,
+      "sid": 103,
+      "location": 2,
+      "content": "选出了另外15个城市",
+      "music": 0.0
+    },
+    {
+      "from": 222.239,
+      "to": 223.49,
+      "sid": 104,
+      "location": 2,
+      "content": "包括哪些呢",
+      "music": 0.0
+    },
+    {
+      "from": 223.49,
+      "to": 224.87,
+      "sid": 105,
+      "location": 2,
+      "content": "首先是杭州",
+      "music": 0.0
+    },
+    {
+      "from": 224.87,
+      "to": 230.87,
+      "sid": 106,
+      "location": 2,
+      "content": "成都南京苏州武汉重庆广州这样的强二线城市",
+      "music": 0.0
+    },
+    {
+      "from": 230.87,
+      "to": 233.45,
+      "sid": 107,
+      "location": 2,
+      "content": "这些城市加上上海和深圳",
+      "music": 0.0
+    },
+    {
+      "from": 233.45,
+      "to": 235.77,
+      "sid": 108,
+      "location": 2,
+      "content": "组成了一个领先城市阵营",
+      "music": 0.0
+    },
+    {
+      "from": 235.77,
+      "to": 237.88,
+      "sid": 109,
+      "location": 2,
+      "content": "这17个城市到底有多强",
+      "music": 0.0
+    },
+    {
+      "from": 237.88,
+      "to": 240.49,
+      "sid": 110,
+      "location": 2,
+      "content": "报告里给了一组非常震撼的数据",
+      "music": 0.0
+    },
+    {
+      "from": 240.49,
+      "to": 242.37,
+      "sid": 111,
+      "location": 2,
+      "content": "他们占到了全国商品房",
+      "music": 0.0
+    },
+    {
+      "from": 242.37,
+      "to": 244.33,
+      "sid": 112,
+      "location": 2,
+      "content": "销售金额的40%以上",
+      "music": 0.0
+    },
+    {
+      "from": 244.33,
+      "to": 247.88,
+      "sid": 113,
+      "location": 2,
+      "content": "也占到了全国房地产投资的40%以上",
+      "music": 0.0
+    },
+    {
+      "from": 247.88,
+      "to": 248.89,
+      "sid": 114,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 248.89,
+      "to": 251.25,
+      "sid": 115,
+      "location": 2,
+      "content": "全国四成的房子买卖和投资",
+      "music": 0.0
+    },
+    {
+      "from": 251.25,
+      "to": 253.33,
+      "sid": 116,
+      "location": 2,
+      "content": "都集中在这十几个城市里",
+      "music": 0.0
+    },
+    {
+      "from": 253.33,
+      "to": 254.53,
+      "sid": 117,
+      "location": 2,
+      "content": "更夸张的是",
+      "music": 0.0
+    },
+    {
+      "from": 254.53,
+      "to": 258.08,
+      "sid": 118,
+      "location": 2,
+      "content": "他们占了全国住宅交易总额的近55%",
+      "music": 0.0
+    },
+    {
+      "from": 258.08,
+      "to": 261.88,
+      "sid": 119,
+      "location": 2,
+      "content": "超过一半的房子交易金额发生在这十几个城市",
+      "music": 0.0
+    },
+    {
+      "from": 261.88,
+      "to": 263.06,
+      "sid": 120,
+      "location": 2,
+      "content": "经济总量上",
+      "music": 0.0
+    },
+    {
+      "from": 263.06,
+      "to": 264.92,
+      "sid": 121,
+      "location": 2,
+      "content": "这17个城市贡献了全国",
+      "music": 0.0
+    },
+    {
+      "from": 264.92,
+      "to": 267.1,
+      "sid": 122,
+      "location": 2,
+      "content": "30%的GDP和零售额",
+      "music": 0.0
+    },
+    {
+      "from": 267.1,
+      "to": 268.84,
+      "sid": 123,
+      "location": 2,
+      "content": "不到20%的人口",
+      "music": 0.0
+    },
+    {
+      "from": 268.84,
+      "to": 271.08,
+      "sid": 124,
+      "location": 2,
+      "content": "创造了近13的GDP",
+      "music": 0.0
+    },
+    {
+      "from": 271.08,
+      "to": 274.22,
+      "sid": 125,
+      "location": 2,
+      "content": "他们还集中了全国超过90%的上市",
+      "music": 0.0
+    },
+    {
+      "from": 274.22,
+      "to": 275.82,
+      "sid": 126,
+      "location": 2,
+      "content": "房地产公司的市值",
+      "music": 0.0
+    },
+    {
+      "from": 275.82,
+      "to": 276.88,
+      "sid": 127,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 276.88,
+      "to": 278.96,
+      "sid": 128,
+      "location": 2,
+      "content": "你要说搞房地产的大公司",
+      "music": 0.0
+    },
+    {
+      "from": 278.96,
+      "to": 281.04,
+      "sid": 129,
+      "location": 2,
+      "content": "基本都在这十几个城市里",
+      "music": 0.0
+    },
+    {
+      "from": 281.04,
+      "to": 283.2,
+      "sid": 130,
+      "location": 2,
+      "content": "另外这些城市拥有全国",
+      "music": 0.0
+    },
+    {
+      "from": 283.2,
+      "to": 285.5,
+      "sid": 131,
+      "location": 2,
+      "content": "30%的家庭收入和储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 285.5,
+      "to": 288.81,
+      "sid": 132,
+      "location": 2,
+      "content": "以及超过55%的城市住房资产",
+      "music": 0.0
+    },
+    {
+      "from": 288.81,
+      "to": 290.73,
+      "sid": 133,
+      "location": 2,
+      "content": "这就是典型的二八定律",
+      "music": 0.0
+    },
+    {
+      "from": 290.73,
+      "to": 294.17,
+      "sid": 134,
+      "location": 2,
+      "content": "少数的头部城市集中了大部分的财富",
+      "music": 0.0
+    },
+    {
+      "from": 294.17,
+      "to": 296.01,
+      "sid": 135,
+      "location": 2,
+      "content": "交易和资产报告",
+      "music": 0.0
+    },
+    {
+      "from": 296.01,
+      "to": 297.71,
+      "sid": 136,
+      "location": 2,
+      "content": "还做了一个很有意思的对比",
+      "music": 0.0
+    },
+    {
+      "from": 297.71,
+      "to": 299.55,
+      "sid": 137,
+      "location": 2,
+      "content": "在2014~2015年的",
+      "music": 0.0
+    },
+    {
+      "from": 299.55,
+      "to": 301.539,
+      "sid": 138,
+      "location": 2,
+      "content": "上一轮房地产下行周期中",
+      "music": 0.0
+    },
+    {
+      "from": 301.539,
+      "to": 303.619,
+      "sid": 139,
+      "location": 2,
+      "content": "也是这些城市率先复苏",
+      "music": 0.0
+    },
+    {
+      "from": 303.619,
+      "to": 306.139,
+      "sid": 140,
+      "location": 2,
+      "content": "当时上海深圳启动之后",
+      "music": 0.0
+    },
+    {
+      "from": 306.139,
+      "to": 308.939,
+      "sid": 141,
+      "location": 2,
+      "content": "第二批城市大概滞后了4~5个月和",
+      "music": 0.0
+    },
+    {
+      "from": 308.939,
+      "to": 309.95,
+      "sid": 142,
+      "location": 2,
+      "content": "一到两个月",
+      "music": 0.0
+    },
+    {
+      "from": 309.95,
+      "to": 311.25,
+      "sid": 143,
+      "location": 2,
+      "content": "所以高盛判断",
+      "music": 0.0
+    },
+    {
+      "from": 312.51,
+      "to": 315.87,
+      "sid": 144,
+      "location": 2,
+      "content": "这15个城市有可能在2027年跟上上海",
+      "music": 0.0
+    },
+    {
+      "from": 315.87,
+      "to": 317.18,
+      "sid": 145,
+      "location": 2,
+      "content": "深圳的复苏节奏",
+      "music": 0.0
+    },
+    {
+      "from": 317.18,
+      "to": 319.14,
+      "sid": 146,
+      "location": 2,
+      "content": "那为什么是这些城市",
+      "music": 0.0
+    },
+    {
+      "from": 319.14,
+      "to": 320.72,
+      "sid": 147,
+      "location": 2,
+      "content": "除了人口和供应",
+      "music": 0.0
+    },
+    {
+      "from": 320.72,
+      "to": 322.95,
+      "sid": 148,
+      "location": 2,
+      "content": "报告特别强调了经济结构",
+      "music": 0.0
+    },
+    {
+      "from": 322.95,
+      "to": 326.36,
+      "sid": 149,
+      "location": 2,
+      "content": "他们不像过去那样靠传统基建和房地产拉动",
+      "music": 0.0
+    },
+    {
+      "from": 326.36,
+      "to": 328.76,
+      "sid": 150,
+      "location": 2,
+      "content": "而是有比较强的新经济成分",
+      "music": 0.0
+    },
+    {
+      "from": 328.76,
+      "to": 329.86,
+      "sid": 151,
+      "location": 2,
+      "content": "比如科技",
+      "music": 0.0
+    },
+    {
+      "from": 329.86,
+      "to": 330.88,
+      "sid": 152,
+      "location": 2,
+      "content": "人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 330.88,
+      "to": 331.88,
+      "sid": 153,
+      "location": 2,
+      "content": "先进制造",
+      "music": 0.0
+    },
+    {
+      "from": 331.88,
+      "to": 332.6,
+      "sid": 154,
+      "location": 2,
+      "content": "绿色能源",
+      "music": 0.0
+    },
+    {
+      "from": 332.6,
+      "to": 336.77,
+      "sid": 155,
+      "location": 2,
+      "content": "这些行业报告用了三个指标来衡量新经济占比",
+      "music": 0.0
+    },
+    {
+      "from": 336.77,
+      "to": 338.37,
+      "sid": 156,
+      "location": 2,
+      "content": "当地高科技企业",
+      "music": 0.0
+    },
+    {
+      "from": 338.37,
+      "to": 342.32,
+      "sid": 157,
+      "location": 2,
+      "content": "专精特新企业的市值和收入占GDP的比重",
+      "music": 0.0
+    },
+    {
+      "from": 342.32,
+      "to": 343.8,
+      "sid": 158,
+      "location": 2,
+      "content": "企业利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 343.8,
+      "to": 346.32,
+      "sid": 159,
+      "location": 2,
+      "content": "当地上市公司过去几年的收入",
+      "music": 0.0
+    },
+    {
+      "from": 346.32,
+      "to": 347.44,
+      "sid": 160,
+      "location": 2,
+      "content": "利润增速",
+      "music": 0.0
+    },
+    {
+      "from": 347.44,
+      "to": 348.76,
+      "sid": 161,
+      "location": 2,
+      "content": "就业和工资",
+      "music": 0.0
+    },
+    {
+      "from": 348.76,
+      "to": 350.02,
+      "sid": 162,
+      "location": 2,
+      "content": "企业赚钱了",
+      "music": 0.0
+    },
+    {
+      "from": 350.02,
+      "to": 351.22,
+      "sid": 163,
+      "location": 2,
+      "content": "是不是在招人",
+      "music": 0.0
+    },
+    {
+      "from": 351.22,
+      "to": 352.789,
+      "sid": 164,
+      "location": 2,
+      "content": "工资有没有涨",
+      "music": 0.0
+    },
+    {
+      "from": 352.789,
+      "to": 354.669,
+      "sid": 165,
+      "location": 2,
+      "content": "这些城市在以上三方面",
+      "music": 0.0
+    },
+    {
+      "from": 354.669,
+      "to": 356.909,
+      "sid": 166,
+      "location": 2,
+      "content": "都明显优于全国平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 356.909,
+      "to": 358.329,
+      "sid": 167,
+      "location": 2,
+      "content": "用报告的话说",
+      "music": 0.0
+    },
+    {
+      "from": 358.329,
+      "to": 360.309,
+      "sid": 168,
+      "location": 2,
+      "content": "当当传统引擎熄火时",
+      "music": 0.0
+    },
+    {
+      "from": 360.309,
+      "to": 362.589,
+      "sid": 169,
+      "location": 2,
+      "content": "这些城市找到了新的动力",
+      "music": 0.0
+    },
+    {
+      "from": 362.589,
+      "to": 365.82,
+      "sid": 170,
+      "location": 2,
+      "content": "那么这些城市的复苏能带来多大影响",
+      "music": 0.0
+    },
+    {
+      "from": 365.82,
+      "to": 368.54,
+      "sid": 171,
+      "location": 2,
+      "content": "现在我们知道了哪些城市会先好起来",
+      "music": 0.0
+    },
+    {
+      "from": 368.54,
+      "to": 369.88,
+      "sid": 172,
+      "location": 2,
+      "content": "下一个问题是",
+      "music": 0.0
+    },
+    {
+      "from": 369.88,
+      "to": 372.46,
+      "sid": 173,
+      "location": 2,
+      "content": "如果这些城市的房价真的上涨了",
+      "music": 0.0
+    },
+    {
+      "from": 372.46,
+      "to": 374.22,
+      "sid": 174,
+      "location": 2,
+      "content": "比如像上海深圳一样",
+      "music": 0.0
+    },
+    {
+      "from": 374.22,
+      "to": 376.789,
+      "sid": 175,
+      "location": 2,
+      "content": "到2028年底上涨15%",
+      "music": 0.0
+    },
+    {
+      "from": 376.789,
+      "to": 378.189,
+      "sid": 176,
+      "location": 2,
+      "content": "那将会发生什么",
+      "music": 0.0
+    },
+    {
+      "from": 378.189,
+      "to": 381.05,
+      "sid": 177,
+      "location": 2,
+      "content": "高盛选了两种类型的公司来做测算",
+      "music": 0.0
+    },
+    {
+      "from": 381.05,
+      "to": 384.09,
+      "sid": 178,
+      "location": 2,
+      "content": "一种是非常专注于住宅开发的公司",
+      "music": 0.0
+    },
+    {
+      "from": 384.09,
+      "to": 387.65,
+      "sid": 179,
+      "location": 2,
+      "content": "在领先城市的土地储备占比超过70%",
+      "music": 0.0
+    },
+    {
+      "from": 387.65,
+      "to": 389.19,
+      "sid": 180,
+      "location": 2,
+      "content": "甚至80%",
+      "music": 0.0
+    },
+    {
+      "from": 389.19,
+      "to": 390.87,
+      "sid": 181,
+      "location": 2,
+      "content": "另一种是除了住宅",
+      "music": 0.0
+    },
+    {
+      "from": 390.87,
+      "to": 393.83,
+      "sid": 182,
+      "location": 2,
+      "content": "还有大量购物中心等商业物业的公司",
+      "music": 0.0
+    },
+    {
+      "from": 393.83,
+      "to": 395.23,
+      "sid": 183,
+      "location": 2,
+      "content": "我们先看第一种",
+      "music": 0.0
+    },
+    {
+      "from": 395.23,
+      "to": 398.71,
+      "sid": 184,
+      "location": 2,
+      "content": "由于它的大部分楼盘都在这些即将复苏的城市",
+      "music": 0.0
+    },
+    {
+      "from": 398.71,
+      "to": 400.65,
+      "sid": 185,
+      "location": 2,
+      "content": "如果房价涨15%",
+      "music": 0.0
+    },
+    {
+      "from": 400.65,
+      "to": 402.03,
+      "sid": 186,
+      "location": 2,
+      "content": "那么到2028年",
+      "music": 0.0
+    },
+    {
+      "from": 402.03,
+      "to": 404.45,
+      "sid": 187,
+      "location": 2,
+      "content": "他的住宅销售额会比基准情形",
+      "music": 0.0
+    },
+    {
+      "from": 404.45,
+      "to": 406.4,
+      "sid": 188,
+      "location": 2,
+      "content": "多出5%到10%",
+      "music": 0.0
+    },
+    {
+      "from": 406.4,
+      "to": 408.66,
+      "sid": 189,
+      "location": 2,
+      "content": "相应的这块业务的净利润",
+      "music": 0.0
+    },
+    {
+      "from": 408.66,
+      "to": 411.0,
+      "sid": 190,
+      "location": 2,
+      "content": "会从2025年的103亿左右",
+      "music": 0.0
+    },
+    {
+      "from": 411.0,
+      "to": 413.8,
+      "sid": 191,
+      "location": 2,
+      "content": "增加到2028年的147亿左右",
+      "music": 0.0
+    },
+    {
+      "from": 413.8,
+      "to": 415.56,
+      "sid": 192,
+      "location": 2,
+      "content": "增长超过40%",
+      "music": 0.0
+    },
+    {
+      "from": 415.56,
+      "to": 417.21,
+      "sid": 193,
+      "location": 2,
+      "content": "为什么会多赚这么多",
+      "music": 0.0
+    },
+    {
+      "from": 417.21,
+      "to": 420.99,
+      "sid": 194,
+      "location": 2,
+      "content": "因为房价上涨的部分大部分会直接变成利润",
+      "music": 0.0
+    },
+    {
+      "from": 420.99,
+      "to": 422.75,
+      "sid": 195,
+      "location": 2,
+      "content": "还是那个面包店的例子",
+      "music": 0.0
+    },
+    {
+      "from": 422.75,
+      "to": 424.87,
+      "sid": 196,
+      "location": 2,
+      "content": "面包从五块涨到5.7",
+      "music": 0.0
+    },
+    {
+      "from": 424.87,
+      "to": 426.35,
+      "sid": 197,
+      "location": 2,
+      "content": "五块成本不变",
+      "music": 0.0
+    },
+    {
+      "from": 426.35,
+      "to": 427.51,
+      "sid": 198,
+      "location": 2,
+      "content": "增加了0.7",
+      "music": 0.0
+    },
+    {
+      "from": 427.51,
+      "to": 429.13,
+      "sid": 199,
+      "location": 2,
+      "content": "五块几乎全是利润",
+      "music": 0.0
+    },
+    {
+      "from": 429.13,
+      "to": 430.6,
+      "sid": 200,
+      "location": 2,
+      "content": "再看第二种公司",
+      "music": 0.0
+    },
+    {
+      "from": 430.6,
+      "to": 432.14,
+      "sid": 201,
+      "location": 2,
+      "content": "他除了住宅受益",
+      "music": 0.0
+    },
+    {
+      "from": 432.14,
+      "to": 433.419,
+      "sid": 202,
+      "location": 2,
+      "content": "还有购物中心",
+      "music": 0.0
+    },
+    {
+      "from": 433.419,
+      "to": 434.979,
+      "sid": 203,
+      "location": 2,
+      "content": "报告里发现一个规律",
+      "music": 0.0
+    },
+    {
+      "from": 434.979,
+      "to": 437.319,
+      "sid": 204,
+      "location": 2,
+      "content": "房价上涨会带来财富效应",
+      "music": 0.0
+    },
+    {
+      "from": 437.319,
+      "to": 439.619,
+      "sid": 205,
+      "location": 2,
+      "content": "老百姓觉得自己的房子更值钱了",
+      "music": 0.0
+    },
+    {
+      "from": 439.619,
+      "to": 441.0,
+      "sid": 206,
+      "location": 2,
+      "content": "就更愿意花钱",
+      "music": 0.0
+    },
+    {
+      "from": 441.0,
+      "to": 442.38,
+      "sid": 207,
+      "location": 2,
+      "content": "过去的数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 442.38,
+      "to": 445.16,
+      "sid": 208,
+      "location": 2,
+      "content": "一线城市住宅价格和零售租金之间",
+      "music": 0.0
+    },
+    {
+      "from": 445.16,
+      "to": 446.97,
+      "sid": 209,
+      "location": 2,
+      "content": "有很强的正相关关系",
+      "music": 0.0
+    },
+    {
+      "from": 446.97,
+      "to": 447.83,
+      "sid": 210,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 447.83,
+      "to": 451.25,
+      "sid": 211,
+      "location": 2,
+      "content": "如果这些领先城市的房价涨了过一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 451.25,
+      "to": 453.69,
+      "sid": 212,
+      "location": 2,
+      "content": "商场里的店铺租金也会跟着涨",
+      "music": 0.0
+    },
+    {
+      "from": 453.69,
+      "to": 457.09,
+      "sid": 213,
+      "location": 2,
+      "content": "报告估计滞后时间可能在5~6个月左右",
+      "music": 0.0
+    },
+    {
+      "from": 457.09,
+      "to": 459.59,
+      "sid": 214,
+      "location": 2,
+      "content": "就像2014~2015年那次一样",
+      "music": 0.0
+    },
+    {
+      "from": 459.59,
+      "to": 462.81,
+      "sid": 215,
+      "location": 2,
+      "content": "所以这种同时有住宅和商场的公司",
+      "music": 0.0
+    },
+    {
+      "from": 462.81,
+      "to": 464.45,
+      "sid": 216,
+      "location": 2,
+      "content": "会吃到两波红利",
+      "music": 0.0
+    },
+    {
+      "from": 464.45,
+      "to": 466.72,
+      "sid": 217,
+      "location": 2,
+      "content": "第一波是卖房子的利润增加",
+      "music": 0.0
+    },
+    {
+      "from": 466.72,
+      "to": 469.1,
+      "sid": 218,
+      "location": 2,
+      "content": "第二波是收租金的收入增加",
+      "music": 0.0
+    },
+    {
+      "from": 469.1,
+      "to": 470.289,
+      "sid": 219,
+      "location": 2,
+      "content": "报告算了一下",
+      "music": 0.0
+    },
+    {
+      "from": 470.289,
+      "to": 471.609,
+      "sid": 220,
+      "location": 2,
+      "content": "在乐观情形下",
+      "music": 0.0
+    },
+    {
+      "from": 471.609,
+      "to": 472.789,
+      "sid": 221,
+      "location": 2,
+      "content": "到2028年",
+      "music": 0.0
+    },
+    {
+      "from": 472.789,
+      "to": 474.869,
+      "sid": 222,
+      "location": 2,
+      "content": "这家公司的购物中心租金收入",
+      "music": 0.0
+    },
+    {
+      "from": 474.869,
+      "to": 477.659,
+      "sid": 223,
+      "location": 2,
+      "content": "会比基准情形高出25%左右",
+      "music": 0.0
+    },
+    {
+      "from": 477.659,
+      "to": 480.659,
+      "sid": 224,
+      "location": 2,
+      "content": "物业管理的利润也会增长15%以上",
+      "music": 0.0
+    },
+    {
+      "from": 480.659,
+      "to": 482.979,
+      "sid": 225,
+      "location": 2,
+      "content": "总的现金利润比2026年",
+      "music": 0.0
+    },
+    {
+      "from": 482.979,
+      "to": 484.94,
+      "sid": 226,
+      "location": 2,
+      "content": "预计能增长超过50%",
+      "music": 0.0
+    },
+    {
+      "from": 484.94,
+      "to": 487.4,
+      "sid": 227,
+      "location": 2,
+      "content": "最后市场已经反映了多少",
+      "music": 0.0
+    },
+    {
+      "from": 487.4,
+      "to": 488.46,
+      "sid": 228,
+      "location": 2,
+      "content": "还有空间吗",
+      "music": 0.0
+    },
+    {
+      "from": 488.46,
+      "to": 489.5,
+      "sid": 229,
+      "location": 2,
+      "content": "那问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 489.5,
+      "to": 490.94,
+      "sid": 230,
+      "location": 2,
+      "content": "从3月底到现在",
+      "music": 0.0
+    },
+    {
+      "from": 490.94,
+      "to": 493.6,
+      "sid": 231,
+      "location": 2,
+      "content": "这些公司的股价已经涨了二三十%",
+      "music": 0.0
+    },
+    {
+      "from": 493.6,
+      "to": 496.42,
+      "sid": 232,
+      "location": 2,
+      "content": "是不是已经把上面的利好都消化完了",
+      "music": 0.0
+    },
+    {
+      "from": 496.42,
+      "to": 498.82,
+      "sid": 233,
+      "location": 2,
+      "content": "高盛用了一个简单的模型来测试",
+      "music": 0.0
+    },
+    {
+      "from": 498.82,
+      "to": 500.78,
+      "sid": 234,
+      "location": 2,
+      "content": "股价上涨是否合理",
+      "music": 0.0
+    },
+    {
+      "from": 500.78,
+      "to": 502.68,
+      "sid": 235,
+      "location": 2,
+      "content": "他们计算了一个关键指标",
+      "music": 0.0
+    },
+    {
+      "from": 502.68,
+      "to": 504.69,
+      "sid": 236,
+      "location": 2,
+      "content": "现金净资产收益率",
+      "music": 0.0
+    },
+    {
+      "from": 504.69,
+      "to": 508.45,
+      "sid": 237,
+      "location": 2,
+      "content": "简单理解就是公司用股东的钱去赚钱的能力",
+      "music": 0.0
+    },
+    {
+      "from": 508.45,
+      "to": 511.11,
+      "sid": 238,
+      "location": 2,
+      "content": "而且是真金白银的现金利润",
+      "music": 0.0
+    },
+    {
+      "from": 511.11,
+      "to": 512.45,
+      "sid": 239,
+      "location": 2,
+      "content": "在乐观情景下",
+      "music": 0.0
+    },
+    {
+      "from": 512.45,
+      "to": 513.31,
+      "sid": 240,
+      "location": 2,
+      "content": "上面提到的",
+      "music": 0.0
+    },
+    {
+      "from": 513.31,
+      "to": 514.23,
+      "sid": 241,
+      "location": 2,
+      "content": "第一种公司",
+      "music": 0.0
+    },
+    {
+      "from": 514.23,
+      "to": 516.23,
+      "sid": 242,
+      "location": 2,
+      "content": "2028年的现金roe",
+      "music": 0.0
+    },
+    {
+      "from": 516.23,
+      "to": 518.48,
+      "sid": 243,
+      "location": 2,
+      "content": "会比2026年提高一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 518.48,
+      "to": 520.809,
+      "sid": 244,
+      "location": 2,
+      "content": "第二种公司提高三个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 520.809,
+      "to": 522.109,
+      "sid": 245,
+      "location": 2,
+      "content": "根据历史经验",
+      "music": 0.0
+    },
+    {
+      "from": 522.109,
+      "to": 524.069,
+      "sid": 246,
+      "location": 2,
+      "content": "LE每提高一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 524.069,
+      "to": 526.289,
+      "sid": 247,
+      "location": 2,
+      "content": "市净率大概能增加0.1倍",
+      "music": 0.0
+    },
+    {
+      "from": 526.289,
+      "to": 529.8,
+      "sid": 248,
+      "location": 2,
+      "content": "所以第一种公司LE提高一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 529.8,
+      "to": 531.38,
+      "sid": 249,
+      "location": 2,
+      "content": "市净率增加0.1倍",
+      "music": 0.0
+    },
+    {
+      "from": 531.38,
+      "to": 532.18,
+      "sid": 250,
+      "location": 2,
+      "content": "对应股价",
+      "music": 0.0
+    },
+    {
+      "from": 532.18,
+      "to": 534.74,
+      "sid": 251,
+      "location": 2,
+      "content": "应该比3月底的低点上涨26%",
+      "music": 0.0
+    },
+    {
+      "from": 534.74,
+      "to": 537.56,
+      "sid": 252,
+      "location": 2,
+      "content": "第二种公司LE提高三个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 537.56,
+      "to": 539.2,
+      "sid": 253,
+      "location": 2,
+      "content": "市净率增加0.3倍",
+      "music": 0.0
+    },
+    {
+      "from": 539.2,
+      "to": 541.36,
+      "sid": 254,
+      "location": 2,
+      "content": "对应股价应该上涨35%",
+      "music": 0.0
+    },
+    {
+      "from": 541.36,
+      "to": 543.24,
+      "sid": 255,
+      "location": 2,
+      "content": "而实际到5月27日",
+      "music": 0.0
+    },
+    {
+      "from": 543.24,
+      "to": 545.68,
+      "sid": 256,
+      "location": 2,
+      "content": "第一种公司股价涨了32%",
+      "music": 0.0
+    },
+    {
+      "from": 545.68,
+      "to": 547.42,
+      "sid": 257,
+      "location": 2,
+      "content": "第二种涨了25%",
+      "music": 0.0
+    },
+    {
+      "from": 547.42,
+      "to": 548.32,
+      "sid": 258,
+      "location": 2,
+      "content": "可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 548.32,
+      "to": 552.08,
+      "sid": 259,
+      "location": 2,
+      "content": "实际涨幅和模型算出来的合理涨幅非常接近",
+      "music": 0.0
+    },
+    {
+      "from": 552.08,
+      "to": 553.04,
+      "sid": 260,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 553.04,
+      "to": 554.829,
+      "sid": 261,
+      "location": 2,
+      "content": "最近这波股价反弹",
+      "music": 0.0
+    },
+    {
+      "from": 554.829,
+      "to": 558.229,
+      "sid": 262,
+      "location": 2,
+      "content": "基本是靠基本面改善的预期支撑起来的",
+      "music": 0.0
+    },
+    {
+      "from": 558.229,
+      "to": 559.829,
+      "sid": 263,
+      "location": 2,
+      "content": "并不是纯炒作",
+      "music": 0.0
+    },
+    {
+      "from": 559.829,
+      "to": 562.95,
+      "sid": 264,
+      "location": 2,
+      "content": "但是高盛认为这还不算完",
+      "music": 0.0
+    },
+    {
+      "from": 562.95,
+      "to": 565.87,
+      "sid": 265,
+      "location": 2,
+      "content": "因为上面这个模型只考虑了ROE提升",
+      "music": 0.0
+    },
+    {
+      "from": 565.87,
+      "to": 567.17,
+      "sid": 266,
+      "location": 2,
+      "content": "带来的估值修复",
+      "music": 0.0
+    },
+    {
+      "from": 567.17,
+      "to": 569.37,
+      "sid": 267,
+      "location": 2,
+      "content": "没有考虑一个更重要的东西",
+      "music": 0.0
+    },
+    {
+      "from": 569.37,
+      "to": 571.329,
+      "sid": 268,
+      "location": 2,
+      "content": "估值倍数正常化",
+      "music": 0.0
+    },
+    {
+      "from": 571.329,
+      "to": 572.329,
+      "sid": 269,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 572.329,
+      "to": 573.569,
+      "sid": 270,
+      "location": 2,
+      "content": "过去两三年",
+      "music": 0.0
+    },
+    {
+      "from": 573.569,
+      "to": 575.829,
+      "sid": 271,
+      "location": 2,
+      "content": "市场对中国房地产非常悲观",
+      "music": 0.0
+    },
+    {
+      "from": 575.829,
+      "to": 577.849,
+      "sid": 272,
+      "location": 2,
+      "content": "给这些公司的估值压得很低",
+      "music": 0.0
+    },
+    {
+      "from": 577.849,
+      "to": 579.529,
+      "sid": 273,
+      "location": 2,
+      "content": "比如正常周期下",
+      "music": 0.0
+    },
+    {
+      "from": 579.529,
+      "to": 583.05,
+      "sid": 274,
+      "location": 2,
+      "content": "一家稳健的开发商可能值得6~8倍的市盈率",
+      "music": 0.0
+    },
+    {
+      "from": 583.05,
+      "to": 585.07,
+      "sid": 275,
+      "location": 2,
+      "content": "但过去两年只有3~4倍",
+      "music": 0.0
+    },
+    {
+      "from": 585.07,
+      "to": 587.11,
+      "sid": 276,
+      "location": 2,
+      "content": "这就像一个人本来值100块钱",
+      "music": 0.0
+    },
+    {
+      "from": 587.11,
+      "to": 588.33,
+      "sid": 277,
+      "location": 2,
+      "content": "但因为心情不好",
+      "music": 0.0
+    },
+    {
+      "from": 588.33,
+      "to": 589.43,
+      "sid": 278,
+      "location": 2,
+      "content": "只肯出50块",
+      "music": 0.0
+    },
+    {
+      "from": 589.43,
+      "to": 591.65,
+      "sid": 279,
+      "location": 2,
+      "content": "如果未来市场情绪恢复正常",
+      "music": 0.0
+    },
+    {
+      "from": 591.65,
+      "to": 592.91,
+      "sid": 280,
+      "location": 2,
+      "content": "加上业绩改善",
+      "music": 0.0
+    },
+    {
+      "from": 592.91,
+      "to": 594.71,
+      "sid": 281,
+      "location": 2,
+      "content": "估值倍数也会回升",
+      "music": 0.0
+    },
+    {
+      "from": 594.71,
+      "to": 596.71,
+      "sid": 282,
+      "location": 2,
+      "content": "高盛的另一种估值方法显示",
+      "music": 0.0
+    },
+    {
+      "from": 596.71,
+      "to": 598.9,
+      "sid": 283,
+      "location": 2,
+      "content": "如果考虑到倍数正常化",
+      "music": 0.0
+    },
+    {
+      "from": 598.9,
+      "to": 600.88,
+      "sid": 284,
+      "location": 2,
+      "content": "第一种公司的潜在上涨空间",
+      "music": 0.0
+    },
+    {
+      "from": 600.88,
+      "to": 602.44,
+      "sid": 285,
+      "location": 2,
+      "content": "还有50%以上",
+      "music": 0.0
+    },
+    {
+      "from": 602.44,
+      "to": 604.849,
+      "sid": 286,
+      "location": 2,
+      "content": "第二种甚至超过70%",
+      "music": 0.0
+    },
+    {
+      "from": 604.849,
+      "to": 607.589,
+      "sid": 287,
+      "location": 2,
+      "content": "当然报告也提示不确定的风险",
+      "music": 0.0
+    },
+    {
+      "from": 607.589,
+      "to": 610.889,
+      "sid": 288,
+      "location": 2,
+      "content": "这一切基于经济跟随经济复苏的节奏",
+      "music": 0.0
+    },
+    {
+      "from": 610.889,
+      "to": 612.849,
+      "sid": 289,
+      "location": 2,
+      "content": "不要出现什么黑天鹅事件",
+      "music": 0.0
+    },
+    {
+      "from": 612.849,
+      "to": 614.969,
+      "sid": 290,
+      "location": 2,
+      "content": "基于研报全部的观点和数据",
+      "music": 0.0
+    },
+    {
+      "from": 614.969,
+      "to": 616.599,
+      "sid": 291,
+      "location": 2,
+      "content": "我们可以总结以下五点",
+      "music": 0.0
+    },
+    {
+      "from": 616.599,
+      "to": 618.119,
+      "sid": 292,
+      "location": 2,
+      "content": "一历史规律",
+      "music": 0.0
+    },
+    {
+      "from": 618.119,
+      "to": 620.399,
+      "sid": 293,
+      "location": 2,
+      "content": "股市往往是楼市的先行指标",
+      "music": 0.0
+    },
+    {
+      "from": 620.399,
+      "to": 624.16,
+      "sid": 294,
+      "location": 2,
+      "content": "美国日本都出现过股价先于房价见底的现象",
+      "music": 0.0
+    },
+    {
+      "from": 624.16,
+      "to": 625.66,
+      "sid": 295,
+      "location": 2,
+      "content": "二本轮不同",
+      "music": 0.0
+    },
+    {
+      "from": 625.66,
+      "to": 627.46,
+      "sid": 296,
+      "location": 2,
+      "content": "这次股价反弹背后",
+      "music": 0.0
+    },
+    {
+      "from": 627.46,
+      "to": 629.88,
+      "sid": 297,
+      "location": 2,
+      "content": "有实实在在的城市基本面支撑",
+      "music": 0.0
+    },
+    {
+      "from": 629.88,
+      "to": 631.92,
+      "sid": 298,
+      "location": 2,
+      "content": "不是单纯的政策炒作",
+      "music": 0.0
+    },
+    {
+      "from": 631.92,
+      "to": 633.66,
+      "sid": 299,
+      "location": 2,
+      "content": "三哪些城市",
+      "music": 0.0
+    },
+    {
+      "from": 633.66,
+      "to": 635.0,
+      "sid": 300,
+      "location": 2,
+      "content": "除了上海深圳",
+      "music": 0.0
+    },
+    {
+      "from": 635.0,
+      "to": 636.7,
+      "sid": 301,
+      "location": 2,
+      "content": "另外15个强二线城市",
+      "music": 0.0
+    },
+    {
+      "from": 636.7,
+      "to": 639.17,
+      "sid": 302,
+      "location": 2,
+      "content": "是最有可能第二批复苏的",
+      "music": 0.0
+    },
+    {
+      "from": 639.17,
+      "to": 641.63,
+      "sid": 303,
+      "location": 2,
+      "content": "它们的共同特点是人口流入",
+      "music": 0.0
+    },
+    {
+      "from": 641.63,
+      "to": 642.67,
+      "sid": 304,
+      "location": 2,
+      "content": "新经济强",
+      "music": 0.0
+    },
+    {
+      "from": 642.67,
+      "to": 643.81,
+      "sid": 305,
+      "location": 2,
+      "content": "收入增长好",
+      "music": 0.0
+    },
+    {
+      "from": 643.81,
+      "to": 644.87,
+      "sid": 306,
+      "location": 2,
+      "content": "供应合理",
+      "music": 0.0
+    },
+    {
+      "from": 644.87,
+      "to": 646.75,
+      "sid": 307,
+      "location": 2,
+      "content": "四影响有多大",
+      "music": 0.0
+    },
+    {
+      "from": 646.75,
+      "to": 649.39,
+      "sid": 308,
+      "location": 2,
+      "content": "如果这些城市房价到2028年上涨",
+      "music": 0.0
+    },
+    {
+      "from": 649.39,
+      "to": 650.33,
+      "sid": 309,
+      "location": 2,
+      "content": "15%",
+      "music": 0.0
+    },
+    {
+      "from": 650.33,
+      "to": 652.11,
+      "sid": 310,
+      "location": 2,
+      "content": "专注这些城市的开发商",
+      "music": 0.0
+    },
+    {
+      "from": 652.11,
+      "to": 654.66,
+      "sid": 311,
+      "location": 2,
+      "content": "住宅利润可增长40%以上",
+      "music": 0.0
+    },
+    {
+      "from": 654.66,
+      "to": 658.8,
+      "sid": 312,
+      "location": 2,
+      "content": "如果还持有商场租金和物业收入也会显著提升",
+      "music": 0.0
+    },
+    {
+      "from": 658.8,
+      "to": 660.38,
+      "sid": 313,
+      "location": 2,
+      "content": "五市场定价",
+      "music": 0.0
+    },
+    {
+      "from": 660.38,
+      "to": 663.96,
+      "sid": 314,
+      "location": 2,
+      "content": "目前的股价上涨基本反映了ROE改善的预期",
+      "music": 0.0
+    },
+    {
+      "from": 663.96,
+      "to": 666.2,
+      "sid": 315,
+      "location": 2,
+      "content": "但如果市场情绪恢复正常",
+      "music": 0.0
+    },
+    {
+      "from": 666.2,
+      "to": 668.42,
+      "sid": 316,
+      "location": 2,
+      "content": "估值倍数还有可能进一步扩张",
+      "music": 0.0
+    },
+    {
+      "from": 668.42,
+      "to": 668.9,
+      "sid": 317,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 668.9,
+      "to": 670.5,
+      "sid": 318,
+      "location": 2,
+      "content": "以上是研报的全部内容",
+      "music": 0.0
+    },
+    {
+      "from": 670.5,
+      "to": 673.46,
+      "sid": 319,
+      "location": 2,
+      "content": "我们将持续跟踪更新房地产的最新动向",
+      "music": 0.0
+    },
+    {
+      "from": 673.46,
+      "to": 675.44,
+      "sid": 320,
+      "location": 2,
+      "content": "如果是巨龙重新腾飞",
+      "music": 0.0
+    },
+    {
+      "from": 675.44,
+      "to": 678.08,
+      "sid": 321,
+      "location": 2,
+      "content": "中国经济和市场将进入一个新格局",
+      "music": 0.0
+    },
+    {
+      "from": 678.08,
+      "to": 681.52,
+      "sid": 322,
+      "location": 2,
+      "content": "同时希望这套四支柱的逻辑和那些具体的数据",
+      "music": 0.0
+    },
+    {
+      "from": 681.52,
+      "to": 684.16,
+      "sid": 323,
+      "location": 2,
+      "content": "能帮你在纷繁复杂的楼市新闻中",
+      "music": 0.0
+    },
+    {
+      "from": 684.16,
+      "to": 686.31,
+      "sid": 324,
+      "location": 2,
+      "content": "找到一条清晰的思考线索",
+      "music": 0.0
+    },
+    {
+      "from": 686.31,
+      "to": 687.29,
+      "sid": 325,
+      "location": 2,
+      "content": "感谢您的收听",
+      "music": 0.0
+    },
+    {
+      "from": 687.29,
+      "to": 688.84,
+      "sid": 326,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0.0
+    }
+  ]
+}

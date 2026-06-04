@@ -72,4 +72,33 @@
 
 ---
 
-*最后更新: 2026-05-27*
+---
+
+## How Transformer LLMs Work
+
+**课程链接**: https://learn.deeplearning.ai/courses/how-transformer-llms-work
+**下载时间**: 2026-06-04
+**课程简介**: 由 Jay Alammar 和 Maarten Grootendorst 讲授，介绍 LLM Transformer 架构的主要组件。涵盖从词袋模型到 Word2Vec、再到 Transformer 的语言表示数值化演进过程。
+
+### 视频列表
+
+| 序号 | 视频标题 | 时长 | 链接 |
+|------|---------|------|------|
+| 1 | Introduction | ~5 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction) |
+| 2 | Language as a Bag-of-Words | ~5 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/oo4d8/understanding-language-models-language-as-a-bag-of-words) |
+| 3 | Word Embeddings | ~5 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/ch1aa/understanding-language-models-word-embeddings) |
+| 4 | Encoding and Decoding Context with Attention | ~6 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/lbu6s/understanding-language-models-encoding-and-decoding-context-with-attention) |
+| 5 | Transformers | ~8 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/hrpcy/understanding-language-models-transformers) |
+| 6 | Architectural Overview | ~6 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/g7roa/architectural-overview) |
+| 7 | The Transformer Block | ~7 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nbrpv/the-transformer-block) |
+| 8 | Self-Attention | ~10 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/bpx95/self-attention) |
+| 9 | Recent Improvements | ~11 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/od9s5/recent-improvements) |
+| 10 | Mixture of Experts (MoE) | ~10 min | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/ktp7u/mixture-of-experts-moe) |
+| 11 | Conclusion | ~20 sec | [链接](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/newqc/conclusion) |
+
+**总结文件**: [how-transformer-llms-work/summary.md](./how-transformer-llms-work/summary.md)
+
+---
+
+*最后更新: 2026-06-04*
+
