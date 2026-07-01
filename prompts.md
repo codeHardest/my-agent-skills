@@ -36,3 +36,6 @@ https://learn.deeplearning.ai/courses/generative-ai-for-everyone/lesson/ieb07/we
 页面本身自带 Transcript, 
 
 监控peek
+
+将有道云笔记的所有内容转成markdown
+ 然后按照不同主题总结

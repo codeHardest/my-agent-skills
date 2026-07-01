@@ -1,0 +1,4132 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 1.72,
+      "sid": 2,
+      "location": 2,
+      "content": "我是康康",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 4.81,
+      "sid": 3,
+      "location": 2,
+      "content": "今天咱们继续聊聊国内的房地产",
+      "music": 0.0
+    },
+    {
+      "from": 4.81,
+      "to": 8.97,
+      "sid": 4,
+      "location": 2,
+      "content": "每日经济新闻刚刚发布的一篇报道冲上了热搜",
+      "music": 0.0
+    },
+    {
+      "from": 8.97,
+      "to": 12.21,
+      "sid": 5,
+      "location": 2,
+      "content": "标题是这十个人口净流入的城市",
+      "music": 0.0
+    },
+    {
+      "from": 12.21,
+      "to": 13.99,
+      "sid": 6,
+      "location": 2,
+      "content": "房价情况如何",
+      "music": 0.0
+    },
+    {
+      "from": 13.99,
+      "to": 16.35,
+      "sid": 7,
+      "location": 2,
+      "content": "文章里的数据很有意思",
+      "music": 0.0
+    },
+    {
+      "from": 16.35,
+      "to": 17.73,
+      "sid": 8,
+      "location": 2,
+      "content": "2025年末",
+      "music": 0.0
+    },
+    {
+      "from": 17.73,
+      "to": 21.18,
+      "sid": 9,
+      "location": 2,
+      "content": "深圳新增常住人口25.9万人",
+      "music": 0.0
+    },
+    {
+      "from": 21.18,
+      "to": 22.86,
+      "sid": 10,
+      "location": 2,
+      "content": "东莞23万人",
+      "music": 0.0
+    },
+    {
+      "from": 22.86,
+      "to": 24.36,
+      "sid": 11,
+      "location": 2,
+      "content": "广州12万人",
+      "music": 0.0
+    },
+    {
+      "from": 24.36,
+      "to": 28.42,
+      "sid": 12,
+      "location": 2,
+      "content": "这三个城市包揽了全国人口增量的前三名",
+      "music": 0.0
+    },
+    {
+      "from": 28.42,
+      "to": 31.48,
+      "sid": 13,
+      "location": 2,
+      "content": "紧随其后的是长沙10.5万人",
+      "music": 0.0
+    },
+    {
+      "from": 31.48,
+      "to": 32.84,
+      "sid": 14,
+      "location": 2,
+      "content": "济南10万人",
+      "music": 0.0
+    },
+    {
+      "from": 32.84,
+      "to": 34.64,
+      "sid": 15,
+      "location": 2,
+      "content": "惠州7.6万人",
+      "music": 0.0
+    },
+    {
+      "from": 34.64,
+      "to": 36.42,
+      "sid": 16,
+      "location": 2,
+      "content": "杭州7.6万人",
+      "music": 0.0
+    },
+    {
+      "from": 36.42,
+      "to": 38.31,
+      "sid": 17,
+      "location": 2,
+      "content": "青岛7.3万人",
+      "music": 0.0
+    },
+    {
+      "from": 38.31,
+      "to": 39.83,
+      "sid": 18,
+      "location": 2,
+      "content": "按照过去的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 39.83,
+      "to": 43.58,
+      "sid": 19,
+      "location": 2,
+      "content": "人口流入就是房价上涨的最强引擎",
+      "music": 0.0
+    },
+    {
+      "from": 43.58,
+      "to": 45.46,
+      "sid": 20,
+      "location": 2,
+      "content": "专家们一直告诉我们",
+      "music": 0.0
+    },
+    {
+      "from": 45.46,
+      "to": 47.2,
+      "sid": 21,
+      "location": 2,
+      "content": "房价长期看人口",
+      "music": 0.0
+    },
+    {
+      "from": 47.2,
+      "to": 48.4,
+      "sid": 22,
+      "location": 2,
+      "content": "中期看土地",
+      "music": 0.0
+    },
+    {
+      "from": 48.4,
+      "to": 49.97,
+      "sid": 23,
+      "location": 2,
+      "content": "短期看金融",
+      "music": 0.0
+    },
+    {
+      "from": 49.97,
+      "to": 53.45,
+      "sid": 24,
+      "location": 2,
+      "content": "只要一个城市还有源源不断的人口流入",
+      "music": 0.0
+    },
+    {
+      "from": 53.45,
+      "to": 56.29,
+      "sid": 25,
+      "location": 2,
+      "content": "这个城市的房价就一定会涨",
+      "music": 0.0
+    },
+    {
+      "from": 56.29,
+      "to": 59.35,
+      "sid": 26,
+      "location": 2,
+      "content": "这个逻辑在过去20年屡试不爽",
+      "music": 0.0
+    },
+    {
+      "from": 59.35,
+      "to": 62.06,
+      "sid": 27,
+      "location": 2,
+      "content": "也成就了无数人的财富神话",
+      "music": 0.0
+    },
+    {
+      "from": 62.06,
+      "to": 65.94,
+      "sid": 28,
+      "location": 2,
+      "content": "但当记者把这些城市的房价走势摊开来看时",
+      "music": 0.0
+    },
+    {
+      "from": 65.94,
+      "to": 68.61,
+      "sid": 29,
+      "location": 2,
+      "content": "答案却让所有人都沉默了",
+      "music": 0.0
+    },
+    {
+      "from": 68.61,
+      "to": 70.43,
+      "sid": 30,
+      "location": 2,
+      "content": "人口增量第一的深圳",
+      "music": 0.0
+    },
+    {
+      "from": 70.43,
+      "to": 72.33,
+      "sid": 31,
+      "location": 2,
+      "content": "自2016年1月以来",
+      "music": 0.0
+    },
+    {
+      "from": 72.33,
+      "to": 74.83,
+      "sid": 32,
+      "location": 2,
+      "content": "新房价格月度平均环比增长",
+      "music": 0.0
+    },
+    {
+      "from": 74.83,
+      "to": 76.64,
+      "sid": 33,
+      "location": 2,
+      "content": "只有0.12%",
+      "music": 0.0
+    },
+    {
+      "from": 76.64,
+      "to": 78.9,
+      "sid": 34,
+      "location": 2,
+      "content": "这个数字意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 78.9,
+      "to": 80.6,
+      "sid": 35,
+      "location": 2,
+      "content": "意味着过去10年",
+      "music": 0.0
+    },
+    {
+      "from": 80.6,
+      "to": 82.1,
+      "sid": 36,
+      "location": 2,
+      "content": "深圳的新房价格",
+      "music": 0.0
+    },
+    {
+      "from": 82.1,
+      "to": 84.84,
+      "sid": 37,
+      "location": 2,
+      "content": "平均每年只涨了1.44%",
+      "music": 0.0
+    },
+    {
+      "from": 84.84,
+      "to": 87.94,
+      "sid": 38,
+      "location": 2,
+      "content": "甚至跑不赢银行的定期存款利率",
+      "music": 0.0
+    },
+    {
+      "from": 87.94,
+      "to": 90.39,
+      "sid": 39,
+      "location": 2,
+      "content": "而在2021~2025年",
+      "music": 0.0
+    },
+    {
+      "from": 90.39,
+      "to": 92.53,
+      "sid": 40,
+      "location": 2,
+      "content": "深圳还经历了深度调整",
+      "music": 0.0
+    },
+    {
+      "from": 92.53,
+      "to": 96.35,
+      "sid": 41,
+      "location": 2,
+      "content": "很多区域的房价从最高点下跌了30%",
+      "music": 0.0
+    },
+    {
+      "from": 96.35,
+      "to": 97.75,
+      "sid": 42,
+      "location": 2,
+      "content": "到40%",
+      "music": 0.0
+    },
+    {
+      "from": 97.75,
+      "to": 98.99,
+      "sid": 43,
+      "location": 2,
+      "content": "我有一个朋友",
+      "music": 0.0
+    },
+    {
+      "from": 98.99,
+      "to": 102.47,
+      "sid": 44,
+      "location": 2,
+      "content": "2020年在深圳光明区买了一套房子",
+      "music": 0.0
+    },
+    {
+      "from": 102.47,
+      "to": 104.43,
+      "sid": 45,
+      "location": 2,
+      "content": "当时单价是6万1平",
+      "music": 0.0
+    },
+    {
+      "from": 104.43,
+      "to": 106.2,
+      "sid": 46,
+      "location": 2,
+      "content": "总价500多万",
+      "music": 0.0
+    },
+    {
+      "from": 106.2,
+      "to": 107.88,
+      "sid": 47,
+      "location": 2,
+      "content": "他掏空了六个钱包",
+      "music": 0.0
+    },
+    {
+      "from": 107.88,
+      "to": 109.52,
+      "sid": 48,
+      "location": 2,
+      "content": "凑了200万首付",
+      "music": 0.0
+    },
+    {
+      "from": 109.52,
+      "to": 110.96,
+      "sid": 49,
+      "location": 2,
+      "content": "贷款300万",
+      "music": 0.0
+    },
+    {
+      "from": 110.96,
+      "to": 113.92,
+      "sid": 50,
+      "location": 2,
+      "content": "每个月要还1万6000多的房贷",
+      "music": 0.0
+    },
+    {
+      "from": 113.92,
+      "to": 117.84,
+      "sid": 51,
+      "location": 2,
+      "content": "现在他那套房子的市场价已经跌到了3.5万",
+      "music": 0.0
+    },
+    {
+      "from": 117.84,
+      "to": 118.3,
+      "sid": 52,
+      "location": 2,
+      "content": "一平",
+      "music": 0.0
+    },
+    {
+      "from": 118.3,
+      "to": 119.94,
+      "sid": 53,
+      "location": 2,
+      "content": "总价不到300万",
+      "music": 0.0
+    },
+    {
+      "from": 119.94,
+      "to": 123.1,
+      "sid": 54,
+      "location": 2,
+      "content": "也就是说他不仅亏光了所有的首付",
+      "music": 0.0
+    },
+    {
+      "from": 123.1,
+      "to": 125.13,
+      "sid": 55,
+      "location": 2,
+      "content": "还到欠银行几10万",
+      "music": 0.0
+    },
+    {
+      "from": 125.13,
+      "to": 126.15,
+      "sid": 56,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 126.15,
+      "to": 129.79,
+      "sid": 57,
+      "location": 2,
+      "content": "现在每天一睁眼就想到欠银行的那笔钱",
+      "music": 0.0
+    },
+    {
+      "from": 129.79,
+      "to": 131.71,
+      "sid": 58,
+      "location": 2,
+      "content": "压力大到睡不着觉",
+      "music": 0.0
+    },
+    {
+      "from": 131.71,
+      "to": 132.99,
+      "sid": 59,
+      "location": 2,
+      "content": "他不敢辞职",
+      "music": 0.0
+    },
+    {
+      "from": 132.99,
+      "to": 133.95,
+      "sid": 60,
+      "location": 2,
+      "content": "不敢生病",
+      "music": 0.0
+    },
+    {
+      "from": 133.95,
+      "to": 134.89,
+      "sid": 61,
+      "location": 2,
+      "content": "不敢消费",
+      "music": 0.0
+    },
+    {
+      "from": 134.89,
+      "to": 136.57,
+      "sid": 62,
+      "location": 2,
+      "content": "甚至不敢要孩子",
+      "music": 0.0
+    },
+    {
+      "from": 136.57,
+      "to": 138.83,
+      "sid": 63,
+      "location": 2,
+      "content": "他说如果当初没有买房",
+      "music": 0.0
+    },
+    {
+      "from": 138.83,
+      "to": 141.37,
+      "sid": 64,
+      "location": 2,
+      "content": "现在手里拿着200万现金",
+      "music": 0.0
+    },
+    {
+      "from": 141.37,
+      "to": 143.66,
+      "sid": 65,
+      "location": 2,
+      "content": "日子不知道过得有多舒服",
+      "music": 0.0
+    },
+    {
+      "from": 143.66,
+      "to": 145.68,
+      "sid": 66,
+      "location": 2,
+      "content": "广州的情况稍好一些",
+      "music": 0.0
+    },
+    {
+      "from": 145.68,
+      "to": 148.68,
+      "sid": 67,
+      "location": 2,
+      "content": "月度平均环比增长0.26%",
+      "music": 0.0
+    },
+    {
+      "from": 148.68,
+      "to": 151.63,
+      "sid": 68,
+      "location": 2,
+      "content": "但调整节奏和深圳几乎同步",
+      "music": 0.0
+    },
+    {
+      "from": 151.63,
+      "to": 153.77,
+      "sid": 69,
+      "location": 2,
+      "content": "2021年最高点的时候",
+      "music": 0.0
+    },
+    {
+      "from": 153.77,
+      "to": 157.19,
+      "sid": 70,
+      "location": 2,
+      "content": "广州天河区的房价一度涨到了10万1平",
+      "music": 0.0
+    },
+    {
+      "from": 157.19,
+      "to": 160.65,
+      "sid": 71,
+      "location": 2,
+      "content": "现在很多楼盘已经跌回了6万到7万",
+      "music": 0.0
+    },
+    {
+      "from": 160.65,
+      "to": 164.05,
+      "sid": 72,
+      "location": 2,
+      "content": "增城从化这些远郊区的跌幅更大",
+      "music": 0.0
+    },
+    {
+      "from": 164.05,
+      "to": 166.3,
+      "sid": 73,
+      "location": 2,
+      "content": "很多楼盘直接腰斩",
+      "music": 0.0
+    },
+    {
+      "from": 166.3,
+      "to": 167.48,
+      "sid": 74,
+      "location": 2,
+      "content": "惠州更惨",
+      "music": 0.0
+    },
+    {
+      "from": 167.48,
+      "to": 168.76,
+      "sid": 75,
+      "location": 2,
+      "content": "近24个月里",
+      "music": 0.0
+    },
+    {
+      "from": 168.76,
+      "to": 169.64,
+      "sid": 76,
+      "location": 2,
+      "content": "只有五个月",
+      "music": 0.0
+    },
+    {
+      "from": 169.64,
+      "to": 172.64,
+      "sid": 77,
+      "location": 2,
+      "content": "环比微涨0.1%到0.2%",
+      "music": 0.0
+    },
+    {
+      "from": 172.64,
+      "to": 174.4,
+      "sid": 78,
+      "location": 2,
+      "content": "其余时间全部下跌",
+      "music": 0.0
+    },
+    {
+      "from": 174.4,
+      "to": 178.3,
+      "sid": 79,
+      "location": 2,
+      "content": "今年前四个月环比平均下降0.42%",
+      "music": 0.0
+    },
+    {
+      "from": 178.3,
+      "to": 181.22,
+      "sid": 80,
+      "location": 2,
+      "content": "惠州曾经是深圳投资客的天堂",
+      "music": 0.0
+    },
+    {
+      "from": 181.22,
+      "to": 183.3,
+      "sid": 81,
+      "location": 2,
+      "content": "很多人在深圳买不起房",
+      "music": 0.0
+    },
+    {
+      "from": 183.3,
+      "to": 184.86,
+      "sid": 82,
+      "location": 2,
+      "content": "就跑到惠州去买",
+      "music": 0.0
+    },
+    {
+      "from": 184.86,
+      "to": 187.78,
+      "sid": 83,
+      "location": 2,
+      "content": "想着将来深圳的人口会外溢到惠州",
+      "music": 0.0
+    },
+    {
+      "from": 187.78,
+      "to": 189.48,
+      "sid": 84,
+      "location": 2,
+      "content": "房价会跟着涨",
+      "music": 0.0
+    },
+    {
+      "from": 189.48,
+      "to": 193.079,
+      "sid": 85,
+      "location": 2,
+      "content": "但现在看来这个想法太天真了",
+      "music": 0.0
+    },
+    {
+      "from": 193.079,
+      "to": 195.639,
+      "sid": 86,
+      "location": 2,
+      "content": "我去年去惠州大亚湾看过一次",
+      "music": 0.0
+    },
+    {
+      "from": 195.639,
+      "to": 198.099,
+      "sid": 87,
+      "location": 2,
+      "content": "那里密密麻麻建了无数的楼盘",
+      "music": 0.0
+    },
+    {
+      "from": 198.099,
+      "to": 200.1,
+      "sid": 88,
+      "location": 2,
+      "content": "但入住率低的可怜",
+      "music": 0.0
+    },
+    {
+      "from": 200.1,
+      "to": 202.58,
+      "sid": 89,
+      "location": 2,
+      "content": "晚上开车经过整个小区",
+      "music": 0.0
+    },
+    {
+      "from": 202.58,
+      "to": 204.88,
+      "sid": 90,
+      "location": 2,
+      "content": "只有零星的几盏灯亮着",
+      "music": 0.0
+    },
+    {
+      "from": 204.88,
+      "to": 207.14,
+      "sid": 91,
+      "location": 2,
+      "content": "很多房子卖出去好几年了",
+      "music": 0.0
+    },
+    {
+      "from": 207.14,
+      "to": 208.54,
+      "sid": 92,
+      "location": 2,
+      "content": "还是毛坯状态",
+      "music": 0.0
+    },
+    {
+      "from": 208.54,
+      "to": 210.16,
+      "sid": 93,
+      "location": 2,
+      "content": "根本没有人住",
+      "music": 0.0
+    },
+    {
+      "from": 210.16,
+      "to": 211.34,
+      "sid": 94,
+      "location": 2,
+      "content": "中介跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 211.34,
+      "to": 214.04,
+      "sid": 95,
+      "location": 2,
+      "content": "现在大亚湾的房子只要你想卖",
+      "music": 0.0
+    },
+    {
+      "from": 214.04,
+      "to": 217.22,
+      "sid": 96,
+      "location": 2,
+      "content": "就必须比市场价低20%才能出手",
+      "music": 0.0
+    },
+    {
+      "from": 217.22,
+      "to": 219.02,
+      "sid": 97,
+      "location": 2,
+      "content": "否则根本没有人看",
+      "music": 0.0
+    },
+    {
+      "from": 219.02,
+      "to": 222.08,
+      "sid": 98,
+      "location": 2,
+      "content": "就连一直被视为房价坚挺的长沙",
+      "music": 0.0
+    },
+    {
+      "from": 222.08,
+      "to": 226.65,
+      "sid": 99,
+      "location": 2,
+      "content": "2026年前四个月新房价格也全部环比下降",
+      "music": 0.0
+    },
+    {
+      "from": 226.65,
+      "to": 229.05,
+      "sid": 100,
+      "location": 2,
+      "content": "长沙因为严格的限购政策",
+      "music": 0.0
+    },
+    {
+      "from": 229.05,
+      "to": 230.95,
+      "sid": 101,
+      "location": 2,
+      "content": "房价一直没有大涨过",
+      "music": 0.0
+    },
+    {
+      "from": 230.95,
+      "to": 233.82,
+      "sid": 102,
+      "location": 2,
+      "content": "被称为全国楼市的一股清流",
+      "music": 0.0
+    },
+    {
+      "from": 233.82,
+      "to": 235.22,
+      "sid": 103,
+      "location": 2,
+      "content": "但即便是这样",
+      "music": 0.0
+    },
+    {
+      "from": 235.22,
+      "to": 237.06,
+      "sid": 104,
+      "location": 2,
+      "content": "在大环境的影响下",
+      "music": 0.0
+    },
+    {
+      "from": 237.06,
+      "to": 239.64,
+      "sid": 105,
+      "location": 2,
+      "content": "长沙的房价也开始撑不住了",
+      "music": 0.0
+    },
+    {
+      "from": 239.64,
+      "to": 243.4,
+      "sid": 106,
+      "location": 2,
+      "content": "济南和青岛这两个北方城市房价走势接近",
+      "music": 0.0
+    },
+    {
+      "from": 243.4,
+      "to": 245.36,
+      "sid": 107,
+      "location": 2,
+      "content": "从2023年8月至今",
+      "music": 0.0
+    },
+    {
+      "from": 245.36,
+      "to": 247.88,
+      "sid": 108,
+      "location": 2,
+      "content": "一直保持小幅度调整趋势",
+      "music": 0.0
+    },
+    {
+      "from": 247.88,
+      "to": 251.08,
+      "sid": 109,
+      "location": 2,
+      "content": "青岛虽然已经连续两个月由降转升",
+      "music": 0.0
+    },
+    {
+      "from": 251.08,
+      "to": 252.68,
+      "sid": 110,
+      "location": 2,
+      "content": "但涨幅微乎其微",
+      "music": 0.0
+    },
+    {
+      "from": 252.68,
+      "to": 254.56,
+      "sid": 111,
+      "location": 2,
+      "content": "根本谈不上回暖",
+      "music": 0.0
+    },
+    {
+      "from": 254.56,
+      "to": 258.42,
+      "sid": 112,
+      "location": 2,
+      "content": "杭州和西安的新房价格则是另一种走势",
+      "music": 0.0
+    },
+    {
+      "from": 258.42,
+      "to": 261.46,
+      "sid": 113,
+      "location": 2,
+      "content": "西安从2016年至2021年11月",
+      "music": 0.0
+    },
+    {
+      "from": 261.46,
+      "to": 263.78,
+      "sid": 114,
+      "location": 2,
+      "content": "连续70一个月份环比上涨",
+      "music": 0.0
+    },
+    {
+      "from": 263.78,
+      "to": 266.78,
+      "sid": 115,
+      "location": 2,
+      "content": "平均环比涨幅为0.93%",
+      "music": 0.0
+    },
+    {
+      "from": 266.78,
+      "to": 269.86,
+      "sid": 116,
+      "location": 2,
+      "content": "这个涨幅在全国都是数一数二的",
+      "music": 0.0
+    },
+    {
+      "from": 269.86,
+      "to": 271.94,
+      "sid": 117,
+      "location": 2,
+      "content": "也让西安成为了过去10年",
+      "music": 0.0
+    },
+    {
+      "from": 271.94,
+      "to": 274.37,
+      "sid": 118,
+      "location": 2,
+      "content": "房价涨得最多的城市之一",
+      "music": 0.0
+    },
+    {
+      "from": 274.37,
+      "to": 276.79,
+      "sid": 119,
+      "location": 2,
+      "content": "但从2024年9月开始",
+      "music": 0.0
+    },
+    {
+      "from": 276.79,
+      "to": 279.39,
+      "sid": 120,
+      "location": 2,
+      "content": "西安的房价出现了大幅度调整",
+      "music": 0.0
+    },
+    {
+      "from": 279.39,
+      "to": 280.77,
+      "sid": 121,
+      "location": 2,
+      "content": "直至今年4月份",
+      "music": 0.0
+    },
+    {
+      "from": 280.77,
+      "to": 283.55,
+      "sid": 122,
+      "location": 2,
+      "content": "环比仍然下跌0.3%",
+      "music": 0.0
+    },
+    {
+      "from": 283.55,
+      "to": 286.53,
+      "sid": 123,
+      "location": 2,
+      "content": "杭州的平均涨幅稍弱于西安",
+      "music": 0.0
+    },
+    {
+      "from": 286.53,
+      "to": 288.43,
+      "sid": 124,
+      "location": 2,
+      "content": "为0.44%",
+      "music": 0.0
+    },
+    {
+      "from": 288.43,
+      "to": 291.01,
+      "sid": 125,
+      "location": 2,
+      "content": "但止跌回稳的信号更强",
+      "music": 0.0
+    },
+    {
+      "from": 291.01,
+      "to": 293.41,
+      "sid": 126,
+      "location": 2,
+      "content": "在2021年至2025年",
+      "music": 0.0
+    },
+    {
+      "from": 293.41,
+      "to": 295.789,
+      "sid": 127,
+      "location": 2,
+      "content": "多个城市深度调整的周期中",
+      "music": 0.0
+    },
+    {
+      "from": 295.789,
+      "to": 298.829,
+      "sid": 128,
+      "location": 2,
+      "content": "杭州仅有14个月出现环比下降",
+      "music": 0.0
+    },
+    {
+      "from": 298.829,
+      "to": 300.65,
+      "sid": 129,
+      "location": 2,
+      "content": "且降幅极为有限",
+      "music": 0.0
+    },
+    {
+      "from": 300.65,
+      "to": 304.21,
+      "sid": 130,
+      "location": 2,
+      "content": "同时杭州新房价格回暖也出现较早",
+      "music": 0.0
+    },
+    {
+      "from": 307.799,
+      "to": 310.9,
+      "sid": 131,
+      "location": 2,
+      "content": "终止研究院的曹晶晶说的很客观",
+      "music": 0.0
+    },
+    {
+      "from": 315.12,
+      "to": 317.55,
+      "sid": 132,
+      "location": 2,
+      "content": "5月同比增幅仍较为明显",
+      "music": 0.0
+    },
+    {
+      "from": 317.55,
+      "to": 319.91,
+      "sid": 133,
+      "location": 2,
+      "content": "市场延续性好于往年同期",
+      "music": 0.0
+    },
+    {
+      "from": 319.91,
+      "to": 321.23,
+      "sid": 134,
+      "location": 2,
+      "content": "但需要看到的是",
+      "music": 0.0
+    },
+    {
+      "from": 321.23,
+      "to": 324.69,
+      "sid": 135,
+      "location": 2,
+      "content": "人口对房地产市场影响已不再像过去那样",
+      "music": 0.0
+    },
+    {
+      "from": 324.69,
+      "to": 326.76,
+      "sid": 136,
+      "location": 2,
+      "content": "呈现明显的线性关系",
+      "music": 0.0
+    },
+    {
+      "from": 326.76,
+      "to": 328.98,
+      "sid": 137,
+      "location": 2,
+      "content": "这句话我深以为然",
+      "music": 0.0
+    },
+    {
+      "from": 328.98,
+      "to": 333.78,
+      "sid": 138,
+      "location": 2,
+      "content": "现在看未来人口流入的城市也未必房价会涨",
+      "music": 0.0
+    },
+    {
+      "from": 333.78,
+      "to": 337.76,
+      "sid": 139,
+      "location": 2,
+      "content": "不要迷信什么人口流入等于房价上涨的铁律",
+      "music": 0.0
+    },
+    {
+      "from": 337.76,
+      "to": 341.65,
+      "sid": 140,
+      "location": 2,
+      "content": "因为我们首先要面对一个无法回避的大前提",
+      "music": 0.0
+    },
+    {
+      "from": 341.65,
+      "to": 344.59,
+      "sid": 141,
+      "location": 2,
+      "content": "全国总人口正在断崖式下跌",
+      "music": 0.0
+    },
+    {
+      "from": 344.59,
+      "to": 345.93,
+      "sid": 142,
+      "location": 2,
+      "content": "2022年",
+      "music": 0.0
+    },
+    {
+      "from": 345.93,
+      "to": 348.59,
+      "sid": 143,
+      "location": 2,
+      "content": "我国总人口首次出现负增长",
+      "music": 0.0
+    },
+    {
+      "from": 348.59,
+      "to": 350.549,
+      "sid": 144,
+      "location": 2,
+      "content": "减少了85万人",
+      "music": 0.0
+    },
+    {
+      "from": 350.549,
+      "to": 354.94,
+      "sid": 145,
+      "location": 2,
+      "content": "2023年这个数字变成了208万人",
+      "music": 0.0
+    },
+    {
+      "from": 354.94,
+      "to": 358.58,
+      "sid": 146,
+      "location": 2,
+      "content": "2024年人口减少了300多万人",
+      "music": 0.0
+    },
+    {
+      "from": 358.58,
+      "to": 359.84,
+      "sid": 147,
+      "location": 2,
+      "content": "按照这个趋势",
+      "music": 0.0
+    },
+    {
+      "from": 359.84,
+      "to": 364.36,
+      "sid": 148,
+      "location": 2,
+      "content": "未来几十年我国的总人口会持续快速下降",
+      "music": 0.0
+    },
+    {
+      "from": 364.36,
+      "to": 367.48,
+      "sid": 149,
+      "location": 2,
+      "content": "即便少数几个城市还有人口流入",
+      "music": 0.0
+    },
+    {
+      "from": 367.48,
+      "to": 371.7,
+      "sid": 150,
+      "location": 2,
+      "content": "也改变不了整个房地产市场供过于求的大格局",
+      "music": 0.0
+    },
+    {
+      "from": 371.7,
+      "to": 375.96,
+      "sid": 151,
+      "location": 2,
+      "content": "因为这些流入的人口是从其他城市抽走的",
+      "music": 0.0
+    },
+    {
+      "from": 375.96,
+      "to": 377.88,
+      "sid": 152,
+      "location": 2,
+      "content": "一个城市多了一个人",
+      "music": 0.0
+    },
+    {
+      "from": 377.88,
+      "to": 380.94,
+      "sid": 153,
+      "location": 2,
+      "content": "就意味着另一个城市少了一个人",
+      "music": 0.0
+    },
+    {
+      "from": 380.94,
+      "to": 383.42,
+      "sid": 154,
+      "location": 2,
+      "content": "全国的总人口是在减少的",
+      "music": 0.0
+    },
+    {
+      "from": 383.42,
+      "to": 387.15,
+      "sid": 155,
+      "location": 2,
+      "content": "所以总的住房需求也必然是在减少的",
+      "music": 0.0
+    },
+    {
+      "from": 387.15,
+      "to": 391.83,
+      "sid": 156,
+      "location": 2,
+      "content": "更何况我们的工作方式正在发生根本性的变化",
+      "music": 0.0
+    },
+    {
+      "from": 391.83,
+      "to": 394.21,
+      "sid": 157,
+      "location": 2,
+      "content": "十几年前你在哪里上班",
+      "music": 0.0
+    },
+    {
+      "from": 394.21,
+      "to": 395.69,
+      "sid": 158,
+      "location": 2,
+      "content": "就必须住在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 395.69,
+      "to": 398.64,
+      "sid": 159,
+      "location": 2,
+      "content": "一线城市的地理优势无可替代",
+      "music": 0.0
+    },
+    {
+      "from": 398.64,
+      "to": 403.08,
+      "sid": 160,
+      "location": 2,
+      "content": "但现在远程办公已经成为越来越多行业的常态",
+      "music": 0.0
+    },
+    {
+      "from": 403.08,
+      "to": 404.6,
+      "sid": 161,
+      "location": 2,
+      "content": "在我之前的视频里",
+      "music": 0.0
+    },
+    {
+      "from": 404.6,
+      "to": 406.38,
+      "sid": 162,
+      "location": 2,
+      "content": "地理套现那期说过",
+      "music": 0.0
+    },
+    {
+      "from": 406.38,
+      "to": 407.73,
+      "sid": 163,
+      "location": 2,
+      "content": "这里不赘述",
+      "music": 0.0
+    },
+    {
+      "from": 407.73,
+      "to": 409.95,
+      "sid": 164,
+      "location": 2,
+      "content": "我认识一个做设计的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 409.95,
+      "to": 412.89,
+      "sid": 165,
+      "location": 2,
+      "content": "他之前在北京一家互联网公司上班",
+      "music": 0.0
+    },
+    {
+      "from": 412.89,
+      "to": 414.67,
+      "sid": 166,
+      "location": 2,
+      "content": "每个月工资2万多",
+      "music": 0.0
+    },
+    {
+      "from": 414.67,
+      "to": 416.919,
+      "sid": 167,
+      "location": 2,
+      "content": "但房租就要花掉6000",
+      "music": 0.0
+    },
+    {
+      "from": 416.919,
+      "to": 419.119,
+      "sid": 168,
+      "location": 2,
+      "content": "后来公司允许远程办公",
+      "music": 0.0
+    },
+    {
+      "from": 419.119,
+      "to": 420.479,
+      "sid": 169,
+      "location": 2,
+      "content": "他就回到了老家",
+      "music": 0.0
+    },
+    {
+      "from": 420.479,
+      "to": 423.239,
+      "sid": 170,
+      "location": 2,
+      "content": "成都租了一套100多平的房子",
+      "music": 0.0
+    },
+    {
+      "from": 423.239,
+      "to": 425.08,
+      "sid": 171,
+      "location": 2,
+      "content": "房租只要2000多",
+      "music": 0.0
+    },
+    {
+      "from": 425.08,
+      "to": 426.62,
+      "sid": 172,
+      "location": 2,
+      "content": "他的工资没有变",
+      "music": 0.0
+    },
+    {
+      "from": 426.62,
+      "to": 429.96,
+      "sid": 173,
+      "location": 2,
+      "content": "但生活质量却提高了不止一个档次",
+      "music": 0.0
+    },
+    {
+      "from": 429.96,
+      "to": 430.98,
+      "sid": 174,
+      "location": 2,
+      "content": "他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 430.98,
+      "to": 433.22,
+      "sid": 175,
+      "location": 2,
+      "content": "现在他每天不用挤地铁",
+      "music": 0.0
+    },
+    {
+      "from": 433.22,
+      "to": 434.34,
+      "sid": 176,
+      "location": 2,
+      "content": "不用吃外卖",
+      "music": 0.0
+    },
+    {
+      "from": 434.34,
+      "to": 436.79,
+      "sid": 177,
+      "location": 2,
+      "content": "下班了还能回家陪父母吃饭",
+      "music": 0.0
+    },
+    {
+      "from": 436.79,
+      "to": 439.63,
+      "sid": 178,
+      "location": 2,
+      "content": "他打算以后就在成都定居了",
+      "music": 0.0
+    },
+    {
+      "from": 439.63,
+      "to": 441.43,
+      "sid": 179,
+      "location": 2,
+      "content": "再也不回北京了",
+      "music": 0.0
+    },
+    {
+      "from": 441.43,
+      "to": 444.52,
+      "sid": 180,
+      "location": 2,
+      "content": "像他这样的人现在越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 444.52,
+      "to": 446.64,
+      "sid": 181,
+      "location": 2,
+      "content": "随着互联网技术的发展",
+      "music": 0.0
+    },
+    {
+      "from": 446.64,
+      "to": 448.96,
+      "sid": 182,
+      "location": 2,
+      "content": "很多工作都可以在线完成",
+      "music": 0.0
+    },
+    {
+      "from": 448.96,
+      "to": 452.64,
+      "sid": 183,
+      "location": 2,
+      "content": "我们对空间和距离的依赖正在急剧减弱",
+      "music": 0.0
+    },
+    {
+      "from": 452.64,
+      "to": 453.86,
+      "sid": 184,
+      "location": 2,
+      "content": "这就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 453.86,
+      "to": 457.14,
+      "sid": 185,
+      "location": 2,
+      "content": "未来人们不一定非要挤在一线城市生活",
+      "music": 0.0
+    },
+    {
+      "from": 457.14,
+      "to": 459.68,
+      "sid": 186,
+      "location": 2,
+      "content": "他们可以选择去生活成本更低",
+      "music": 0.0
+    },
+    {
+      "from": 459.68,
+      "to": 461.51,
+      "sid": 187,
+      "location": 2,
+      "content": "环境更好的城市",
+      "music": 0.0
+    },
+    {
+      "from": 461.51,
+      "to": 465.13,
+      "sid": 188,
+      "location": 2,
+      "content": "这就像10年前我们迷信房价永远涨一样",
+      "music": 0.0
+    },
+    {
+      "from": 465.13,
+      "to": 467.33,
+      "sid": 189,
+      "location": 2,
+      "content": "现在迷信人口流入的地方",
+      "music": 0.0
+    },
+    {
+      "from": 467.33,
+      "to": 468.56,
+      "sid": 190,
+      "location": 2,
+      "content": "房价就会涨",
+      "music": 0.0
+    },
+    {
+      "from": 468.56,
+      "to": 471.96,
+      "sid": 191,
+      "location": 2,
+      "content": "本质上都是在用过去的经验预测未来",
+      "music": 0.0
+    },
+    {
+      "from": 471.96,
+      "to": 473.64,
+      "sid": 192,
+      "location": 2,
+      "content": "但时代已经变了",
+      "music": 0.0
+    },
+    {
+      "from": 473.64,
+      "to": 476.14,
+      "sid": 193,
+      "location": 2,
+      "content": "过去的经验已经不再适用了",
+      "music": 0.0
+    },
+    {
+      "from": 476.14,
+      "to": 479.919,
+      "sid": 194,
+      "location": 2,
+      "content": "当然人口结构的变化才是最关键的",
+      "music": 0.0
+    },
+    {
+      "from": 482.879,
+      "to": 486.21,
+      "sid": 195,
+      "location": 2,
+      "content": "现在我们讲人才红利看的是质量",
+      "music": 0.0
+    },
+    {
+      "from": 486.21,
+      "to": 488.73,
+      "sid": 196,
+      "location": 2,
+      "content": "同样是新增7.6万人口",
+      "music": 0.0
+    },
+    {
+      "from": 488.73,
+      "to": 491.03,
+      "sid": 197,
+      "location": 2,
+      "content": "如果其中大部分是高学历",
+      "music": 0.0
+    },
+    {
+      "from": 491.03,
+      "to": 492.71,
+      "sid": 198,
+      "location": 2,
+      "content": "高收入的科技人才",
+      "music": 0.0
+    },
+    {
+      "from": 492.71,
+      "to": 495.36,
+      "sid": 199,
+      "location": 2,
+      "content": "那对房价的支撑力自然不同",
+      "music": 0.0
+    },
+    {
+      "from": 495.36,
+      "to": 497.88,
+      "sid": 200,
+      "location": 2,
+      "content": "但如果只是普通的务工人员",
+      "music": 0.0
+    },
+    {
+      "from": 497.88,
+      "to": 500.16,
+      "sid": 201,
+      "location": 2,
+      "content": "他们可能连首付都凑不齐",
+      "music": 0.0
+    },
+    {
+      "from": 500.16,
+      "to": 502.13,
+      "sid": 202,
+      "location": 2,
+      "content": "更别说拉动房价了",
+      "music": 0.0
+    },
+    {
+      "from": 502.13,
+      "to": 504.19,
+      "sid": 203,
+      "location": 2,
+      "content": "曹晶晶在报告中指出",
+      "music": 0.0
+    },
+    {
+      "from": 504.19,
+      "to": 505.99,
+      "sid": 204,
+      "location": 2,
+      "content": "近几年人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 505.99,
+      "to": 506.95,
+      "sid": 205,
+      "location": 2,
+      "content": "数字经济",
+      "music": 0.0
+    },
+    {
+      "from": 506.95,
+      "to": 510.5,
+      "sid": 206,
+      "location": 2,
+      "content": "高端制造等产业越来越集中在核心城市",
+      "music": 0.0
+    },
+    {
+      "from": 510.5,
+      "to": 511.24,
+      "sid": 207,
+      "location": 2,
+      "content": "高学历",
+      "music": 0.0
+    },
+    {
+      "from": 511.24,
+      "to": 515.36,
+      "sid": 208,
+      "location": 2,
+      "content": "年轻高收入的人群也更多流向产业基础强",
+      "music": 0.0
+    },
+    {
+      "from": 515.36,
+      "to": 517.339,
+      "sid": 209,
+      "location": 2,
+      "content": "就业预期好的区域",
+      "music": 0.0
+    },
+    {
+      "from": 517.339,
+      "to": 519.199,
+      "sid": 210,
+      "location": 2,
+      "content": "所以在核心区域",
+      "music": 0.0
+    },
+    {
+      "from": 519.199,
+      "to": 522.479,
+      "sid": 211,
+      "location": 2,
+      "content": "产业聚集板块以及公共资源好的区域",
+      "music": 0.0
+    },
+    {
+      "from": 522.479,
+      "to": 524.68,
+      "sid": 212,
+      "location": 2,
+      "content": "住房需求支撑性更好",
+      "music": 0.0
+    },
+    {
+      "from": 524.68,
+      "to": 525.92,
+      "sid": 213,
+      "location": 2,
+      "content": "他还补充说",
+      "music": 0.0
+    },
+    {
+      "from": 525.92,
+      "to": 529.62,
+      "sid": 214,
+      "location": 2,
+      "content": "以高科技产业和现代服务业为主导的城市",
+      "music": 0.0
+    },
+    {
+      "from": 529.62,
+      "to": 530.64,
+      "sid": 215,
+      "location": 2,
+      "content": "例如深圳",
+      "music": 0.0
+    },
+    {
+      "from": 530.64,
+      "to": 531.66,
+      "sid": 216,
+      "location": 2,
+      "content": "杭州等地",
+      "music": 0.0
+    },
+    {
+      "from": 531.66,
+      "to": 534.52,
+      "sid": 217,
+      "location": 2,
+      "content": "高学历高收入群体占比更高",
+      "music": 0.0
+    },
+    {
+      "from": 534.52,
+      "to": 537.86,
+      "sid": 218,
+      "location": 2,
+      "content": "这类人群的收入结构中往往包含股权",
+      "music": 0.0
+    },
+    {
+      "from": 537.86,
+      "to": 541.13,
+      "sid": 219,
+      "location": 2,
+      "content": "期权以及资本市场相关的财富兑现",
+      "music": 0.0
+    },
+    {
+      "from": 541.13,
+      "to": 545.42,
+      "sid": 220,
+      "location": 2,
+      "content": "因此在资本市场或企业经营周期向上阶段",
+      "music": 0.0
+    },
+    {
+      "from": 545.42,
+      "to": 547.76,
+      "sid": 221,
+      "location": 2,
+      "content": "财富效应传导相对更快",
+      "music": 0.0
+    },
+    {
+      "from": 547.76,
+      "to": 550.5,
+      "sid": 222,
+      "location": 2,
+      "content": "更容易形成对改善性住房的拉动",
+      "music": 0.0
+    },
+    {
+      "from": 550.5,
+      "to": 552.02,
+      "sid": 223,
+      "location": 2,
+      "content": "包括置换升级",
+      "music": 0.0
+    },
+    {
+      "from": 552.02,
+      "to": 554.11,
+      "sid": 224,
+      "location": 2,
+      "content": "核心区改善等需求",
+      "music": 0.0
+    },
+    {
+      "from": 554.11,
+      "to": 555.21,
+      "sid": 225,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 555.21,
+      "to": 557.71,
+      "sid": 226,
+      "location": 2,
+      "content": "以制造业和传统产业为主",
+      "music": 0.0
+    },
+    {
+      "from": 557.71,
+      "to": 560.069,
+      "sid": 227,
+      "location": 2,
+      "content": "产业工人占比更高的城市",
+      "music": 0.0
+    },
+    {
+      "from": 560.069,
+      "to": 563.66,
+      "sid": 228,
+      "location": 2,
+      "content": "人口流入同样能够形成稳定的居住需求",
+      "music": 0.0
+    },
+    {
+      "from": 563.66,
+      "to": 566.3,
+      "sid": 229,
+      "location": 2,
+      "content": "但收入结构以工资性收入为主",
+      "music": 0.0
+    },
+    {
+      "from": 566.3,
+      "to": 567.36,
+      "sid": 230,
+      "location": 2,
+      "content": "波动性较小",
+      "music": 0.0
+    },
+    {
+      "from": 567.36,
+      "to": 570.42,
+      "sid": 231,
+      "location": 2,
+      "content": "因此对房地产的支撑更多体现为刚需",
+      "music": 0.0
+    },
+    {
+      "from": 570.42,
+      "to": 572.59,
+      "sid": 232,
+      "location": 2,
+      "content": "释放节奏相对平缓",
+      "music": 0.0
+    },
+    {
+      "from": 572.59,
+      "to": 576.29,
+      "sid": 233,
+      "location": 2,
+      "content": "这就引出了当前房地产市场最撕裂的一幕",
+      "music": 0.0
+    },
+    {
+      "from": 576.29,
+      "to": 578.83,
+      "sid": 234,
+      "location": 2,
+      "content": "一边是豪宅市场的日光奇迹",
+      "music": 0.0
+    },
+    {
+      "from": 578.83,
+      "to": 581.49,
+      "sid": 235,
+      "location": 2,
+      "content": "一边是刚需市场的无人问津",
+      "music": 0.0
+    },
+    {
+      "from": 581.49,
+      "to": 585.01,
+      "sid": 236,
+      "location": 2,
+      "content": "深圳40万1平的豪宅开盘即售庆",
+      "music": 0.0
+    },
+    {
+      "from": 585.01,
+      "to": 588.89,
+      "sid": 237,
+      "location": 2,
+      "content": "杭州上海的顶级豪宅同样一房难求",
+      "music": 0.0
+    },
+    {
+      "from": 588.89,
+      "to": 591.29,
+      "sid": 238,
+      "location": 2,
+      "content": "这不是开发商制造的焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 591.29,
+      "to": 593.73,
+      "sid": 239,
+      "location": 2,
+      "content": "而是真实存在的市场现象",
+      "music": 0.0
+    },
+    {
+      "from": 593.73,
+      "to": 597.43,
+      "sid": 240,
+      "location": 2,
+      "content": "因为这些房子的买家根本不是普通工薪阶层",
+      "music": 0.0
+    },
+    {
+      "from": 597.43,
+      "to": 601.01,
+      "sid": 241,
+      "location": 2,
+      "content": "而是那些在资本市场上套现的科技新贵",
+      "music": 0.0
+    },
+    {
+      "from": 601.01,
+      "to": 603.73,
+      "sid": 242,
+      "location": 2,
+      "content": "最近硅基产业在资本市场大火",
+      "music": 0.0
+    },
+    {
+      "from": 603.73,
+      "to": 606.96,
+      "sid": 243,
+      "location": 2,
+      "content": "很多科技公司的股价都涨了好几倍",
+      "music": 0.0
+    },
+    {
+      "from": 606.96,
+      "to": 608.68,
+      "sid": 244,
+      "location": 2,
+      "content": "公司的高管和员工",
+      "music": 0.0
+    },
+    {
+      "from": 608.68,
+      "to": 612.069,
+      "sid": 245,
+      "location": 2,
+      "content": "手里的股票和期权也跟着水涨船高",
+      "music": 0.0
+    },
+    {
+      "from": 612.069,
+      "to": 613.749,
+      "sid": 246,
+      "location": 2,
+      "content": "他们在高位套现",
+      "music": 0.0
+    },
+    {
+      "from": 613.749,
+      "to": 616.85,
+      "sid": 247,
+      "location": 2,
+      "content": "动辄上亿的资金需要寻找出口",
+      "music": 0.0
+    },
+    {
+      "from": 616.85,
+      "to": 621.579,
+      "sid": 248,
+      "location": 2,
+      "content": "而豪宅就成了他们最安全最稳妥的选择",
+      "music": 0.0
+    },
+    {
+      "from": 621.579,
+      "to": 622.619,
+      "sid": 249,
+      "location": 2,
+      "content": "而另一边",
+      "music": 0.0
+    },
+    {
+      "from": 622.619,
+      "to": 626.46,
+      "sid": 250,
+      "location": 2,
+      "content": "普通购房者的购买力已经被压缩到了极致",
+      "music": 0.0
+    },
+    {
+      "from": 626.46,
+      "to": 629.2,
+      "sid": 251,
+      "location": 2,
+      "content": "北京上海的二手房市场",
+      "music": 0.0
+    },
+    {
+      "from": 629.2,
+      "to": 633.36,
+      "sid": 252,
+      "location": 2,
+      "content": "70%的成交都是200万左右的老破小",
+      "music": 0.0
+    },
+    {
+      "from": 633.36,
+      "to": 635.32,
+      "sid": 253,
+      "location": 2,
+      "content": "放在几年前的牛市里",
+      "music": 0.0
+    },
+    {
+      "from": 635.32,
+      "to": 638.06,
+      "sid": 254,
+      "location": 2,
+      "content": "200万只是一套房子的首付",
+      "music": 0.0
+    },
+    {
+      "from": 638.06,
+      "to": 641.91,
+      "sid": 255,
+      "location": 2,
+      "content": "现在却成了很多家庭能承受的总价上限",
+      "music": 0.0
+    },
+    {
+      "from": 641.91,
+      "to": 644.81,
+      "sid": 256,
+      "location": 2,
+      "content": "那些动辄上千万的改善型住房",
+      "music": 0.0
+    },
+    {
+      "from": 644.81,
+      "to": 648.25,
+      "sid": 257,
+      "location": 2,
+      "content": "已经彻底脱离了普通人的购买力范围",
+      "music": 0.0
+    },
+    {
+      "from": 648.25,
+      "to": 651.11,
+      "sid": 258,
+      "location": 2,
+      "content": "我认识一个在上海做医生的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 651.11,
+      "to": 652.97,
+      "sid": 259,
+      "location": 2,
+      "content": "他每个月工资3万多",
+      "music": 0.0
+    },
+    {
+      "from": 652.97,
+      "to": 655.74,
+      "sid": 260,
+      "location": 2,
+      "content": "在普通人里已经算高收入了",
+      "music": 0.0
+    },
+    {
+      "from": 655.74,
+      "to": 656.88,
+      "sid": 261,
+      "location": 2,
+      "content": "但他跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 656.88,
+      "to": 659.1,
+      "sid": 262,
+      "location": 2,
+      "content": "他想换一套大一点的房子",
+      "music": 0.0
+    },
+    {
+      "from": 659.1,
+      "to": 660.54,
+      "sid": 263,
+      "location": 2,
+      "content": "把父母接过来住",
+      "music": 0.0
+    },
+    {
+      "from": 660.54,
+      "to": 661.42,
+      "sid": 264,
+      "location": 2,
+      "content": "看了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 661.42,
+      "to": 663.26,
+      "sid": 265,
+      "location": 2,
+      "content": "发现根本买不起",
+      "music": 0.0
+    },
+    {
+      "from": 663.26,
+      "to": 666.56,
+      "sid": 266,
+      "location": 2,
+      "content": "稍微好一点的房子都要1000万以上",
+      "music": 0.0
+    },
+    {
+      "from": 666.56,
+      "to": 668.38,
+      "sid": 267,
+      "location": 2,
+      "content": "首付就要三四百万",
+      "music": 0.0
+    },
+    {
+      "from": 668.38,
+      "to": 670.0,
+      "sid": 268,
+      "location": 2,
+      "content": "他根本拿不出来",
+      "music": 0.0
+    },
+    {
+      "from": 670.0,
+      "to": 673.24,
+      "sid": 269,
+      "location": 2,
+      "content": "这种撕裂不仅仅存在于房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 673.24,
+      "to": 675.98,
+      "sid": 270,
+      "location": 2,
+      "content": "而是整个经济的真实写照",
+      "music": 0.0
+    },
+    {
+      "from": 675.98,
+      "to": 679.8,
+      "sid": 271,
+      "location": 2,
+      "content": "我们现在正处在一个前所未有的K型分化时代",
+      "music": 0.0
+    },
+    {
+      "from": 679.8,
+      "to": 681.02,
+      "sid": 272,
+      "location": 2,
+      "content": "有的人在天上",
+      "music": 0.0
+    },
+    {
+      "from": 681.02,
+      "to": 682.22,
+      "sid": 273,
+      "location": 2,
+      "content": "有的人在地下",
+      "music": 0.0
+    },
+    {
+      "from": 682.22,
+      "to": 683.73,
+      "sid": 274,
+      "location": 2,
+      "content": "有的人日进斗金",
+      "music": 0.0
+    },
+    {
+      "from": 683.73,
+      "to": 685.78,
+      "sid": 275,
+      "location": 2,
+      "content": "有的人连饭都吃不上",
+      "music": 0.0
+    },
+    {
+      "from": 685.78,
+      "to": 689.32,
+      "sid": 276,
+      "location": 2,
+      "content": "前几天看到一位博主写的回乡见闻",
+      "music": 0.0
+    },
+    {
+      "from": 689.32,
+      "to": 691.89,
+      "sid": 277,
+      "location": 2,
+      "content": "看完之后心里五味杂陈",
+      "music": 0.0
+    },
+    {
+      "from": 691.89,
+      "to": 694.13,
+      "sid": 278,
+      "location": 2,
+      "content": "他回到湖南的老家县城",
+      "music": 0.0
+    },
+    {
+      "from": 694.13,
+      "to": 697.12,
+      "sid": 279,
+      "location": 2,
+      "content": "发现那里的变化让他触目惊心",
+      "music": 0.0
+    },
+    {
+      "from": 697.12,
+      "to": 701.24,
+      "sid": 280,
+      "location": 2,
+      "content": "他说老家县城的房地产已经彻底熄火了",
+      "music": 0.0
+    },
+    {
+      "from": 701.24,
+      "to": 703.78,
+      "sid": 281,
+      "location": 2,
+      "content": "以前到处都是在建的楼盘",
+      "music": 0.0
+    },
+    {
+      "from": 703.78,
+      "to": 706.319,
+      "sid": 282,
+      "location": 2,
+      "content": "现在很多都已经烂尾了",
+      "music": 0.0
+    },
+    {
+      "from": 706.319,
+      "to": 707.959,
+      "sid": 283,
+      "location": 2,
+      "content": "售楼部人去楼空",
+      "music": 0.0
+    },
+    {
+      "from": 707.959,
+      "to": 709.839,
+      "sid": 284,
+      "location": 2,
+      "content": "上面长满了杂草",
+      "music": 0.0
+    },
+    {
+      "from": 709.839,
+      "to": 713.219,
+      "sid": 285,
+      "location": 2,
+      "content": "街上的房产中介店一家接一家的倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 713.219,
+      "to": 715.779,
+      "sid": 286,
+      "location": 2,
+      "content": "剩下的几家也都是门可罗雀",
+      "music": 0.0
+    },
+    {
+      "from": 715.779,
+      "to": 717.779,
+      "sid": 287,
+      "location": 2,
+      "content": "大量的人员闲置在家",
+      "music": 0.0
+    },
+    {
+      "from": 717.779,
+      "to": 719.04,
+      "sid": 288,
+      "location": 2,
+      "content": "没有工作",
+      "music": 0.0
+    },
+    {
+      "from": 719.04,
+      "to": 721.06,
+      "sid": 289,
+      "location": 2,
+      "content": "年轻人都出去打工了",
+      "music": 0.0
+    },
+    {
+      "from": 721.06,
+      "to": 723.98,
+      "sid": 290,
+      "location": 2,
+      "content": "留在县城的都是老人和孩子",
+      "music": 0.0
+    },
+    {
+      "from": 723.98,
+      "to": 725.66,
+      "sid": 291,
+      "location": 2,
+      "content": "旅游业也大不如前",
+      "music": 0.0
+    },
+    {
+      "from": 725.66,
+      "to": 727.34,
+      "sid": 292,
+      "location": 2,
+      "content": "以前节假日的时候",
+      "music": 0.0
+    },
+    {
+      "from": 727.34,
+      "to": 729.28,
+      "sid": 293,
+      "location": 2,
+      "content": "县城里到处都是游客",
+      "music": 0.0
+    },
+    {
+      "from": 729.28,
+      "to": 730.68,
+      "sid": 294,
+      "location": 2,
+      "content": "现在冷冷清清",
+      "music": 0.0
+    },
+    {
+      "from": 730.68,
+      "to": 732.96,
+      "sid": 295,
+      "location": 2,
+      "content": "很多景点都已经关门了",
+      "music": 0.0
+    },
+    {
+      "from": 732.96,
+      "to": 735.44,
+      "sid": 296,
+      "location": 2,
+      "content": "餐饮店在不断减少服务员",
+      "music": 0.0
+    },
+    {
+      "from": 735.44,
+      "to": 738.21,
+      "sid": 297,
+      "location": 2,
+      "content": "很多老板都自己亲自上阵",
+      "music": 0.0
+    },
+    {
+      "from": 738.21,
+      "to": 739.11,
+      "sid": 298,
+      "location": 2,
+      "content": "按摩店",
+      "music": 0.0
+    },
+    {
+      "from": 739.11,
+      "to": 739.89,
+      "sid": 299,
+      "location": 2,
+      "content": "Ktv",
+      "music": 0.0
+    },
+    {
+      "from": 739.89,
+      "to": 742.19,
+      "sid": 300,
+      "location": 2,
+      "content": "健身房等服务业大量倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 742.19,
+      "to": 744.43,
+      "sid": 301,
+      "location": 2,
+      "content": "街上的商铺空了一半以上",
+      "music": 0.0
+    },
+    {
+      "from": 744.43,
+      "to": 746.7,
+      "sid": 302,
+      "location": 2,
+      "content": "很多都贴着转让的告示",
+      "music": 0.0
+    },
+    {
+      "from": 746.7,
+      "to": 748.96,
+      "sid": 303,
+      "location": 2,
+      "content": "不少人只能组队去新疆",
+      "music": 0.0
+    },
+    {
+      "from": 748.96,
+      "to": 751.75,
+      "sid": 304,
+      "location": 2,
+      "content": "甚至吉尔吉斯斯坦打工谋生",
+      "music": 0.0
+    },
+    {
+      "from": 751.75,
+      "to": 756.23,
+      "sid": 305,
+      "location": 2,
+      "content": "他说他有几个小学同学以前在县城开出租车",
+      "music": 0.0
+    },
+    {
+      "from": 756.23,
+      "to": 757.05,
+      "sid": 306,
+      "location": 2,
+      "content": "开饭馆",
+      "music": 0.0
+    },
+    {
+      "from": 757.05,
+      "to": 760.79,
+      "sid": 307,
+      "location": 2,
+      "content": "现在都去了吉尔吉斯斯坦种蔬菜搞建筑",
+      "music": 0.0
+    },
+    {
+      "from": 760.79,
+      "to": 762.69,
+      "sid": 308,
+      "location": 2,
+      "content": "虽然那里条件艰苦",
+      "music": 0.0
+    },
+    {
+      "from": 762.69,
+      "to": 764.69,
+      "sid": 309,
+      "location": 2,
+      "content": "但至少能赚到钱",
+      "music": 0.0
+    },
+    {
+      "from": 764.69,
+      "to": 766.73,
+      "sid": 310,
+      "location": 2,
+      "content": "县城里的公务员体系",
+      "music": 0.0
+    },
+    {
+      "from": 766.73,
+      "to": 769.98,
+      "sid": 311,
+      "location": 2,
+      "content": "成了唯一还保持着往日体面的群体",
+      "music": 0.0
+    },
+    {
+      "from": 769.98,
+      "to": 773.02,
+      "sid": 312,
+      "location": 2,
+      "content": "这种差距在过去其实一直存在",
+      "music": 0.0
+    },
+    {
+      "from": 773.02,
+      "to": 775.86,
+      "sid": 313,
+      "location": 2,
+      "content": "但当大家口袋里都含有点钱的时候",
+      "music": 0.0
+    },
+    {
+      "from": 775.86,
+      "to": 778.05,
+      "sid": 314,
+      "location": 2,
+      "content": "这种阶层感并不明显",
+      "music": 0.0
+    },
+    {
+      "from": 778.05,
+      "to": 780.01,
+      "sid": 315,
+      "location": 2,
+      "content": "很多人做生意赚了钱",
+      "music": 0.0
+    },
+    {
+      "from": 780.01,
+      "to": 782.85,
+      "sid": 316,
+      "location": 2,
+      "content": "觉得自己和公务员也没什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 782.85,
+      "to": 784.8,
+      "sid": 317,
+      "location": 2,
+      "content": "甚至过得比他们还好",
+      "music": 0.0
+    },
+    {
+      "from": 784.8,
+      "to": 787.46,
+      "sid": 318,
+      "location": 2,
+      "content": "但现在当生意越来越难做",
+      "music": 0.0
+    },
+    {
+      "from": 787.46,
+      "to": 789.54,
+      "sid": 319,
+      "location": 2,
+      "content": "工作越来越难找的时候",
+      "music": 0.0
+    },
+    {
+      "from": 789.54,
+      "to": 792.319,
+      "sid": 320,
+      "location": 2,
+      "content": "这种差距就变得无比刺眼",
+      "music": 0.0
+    },
+    {
+      "from": 792.319,
+      "to": 795.719,
+      "sid": 321,
+      "location": 2,
+      "content": "很多普通老百姓和公务员体系之间的距离",
+      "music": 0.0
+    },
+    {
+      "from": 795.719,
+      "to": 796.519,
+      "sid": 322,
+      "location": 2,
+      "content": "越来越远",
+      "music": 0.0
+    },
+    {
+      "from": 796.519,
+      "to": 799.39,
+      "sid": 323,
+      "location": 2,
+      "content": "慢慢变成了两个截然不同的世界",
+      "music": 0.0
+    },
+    {
+      "from": 799.39,
+      "to": 800.95,
+      "sid": 324,
+      "location": 2,
+      "content": "一边是旱涝保收",
+      "music": 0.0
+    },
+    {
+      "from": 800.95,
+      "to": 802.83,
+      "sid": 325,
+      "location": 2,
+      "content": "按时发薪的稳定生活",
+      "music": 0.0
+    },
+    {
+      "from": 802.83,
+      "to": 804.33,
+      "sid": 326,
+      "location": 2,
+      "content": "一边是朝不保夕",
+      "music": 0.0
+    },
+    {
+      "from": 804.33,
+      "to": 806.99,
+      "sid": 327,
+      "location": 2,
+      "content": "不知道下一顿饭在哪里的焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 806.99,
+      "to": 810.89,
+      "sid": 328,
+      "location": 2,
+      "content": "这种对比让很多人心里充满了无力感",
+      "music": 0.0
+    },
+    {
+      "from": 810.89,
+      "to": 814.48,
+      "sid": 329,
+      "location": 2,
+      "content": "治安也呈现出一种奇怪的两极分化",
+      "music": 0.0
+    },
+    {
+      "from": 814.48,
+      "to": 816.48,
+      "sid": 330,
+      "location": 2,
+      "content": "街头巷尾干干净净",
+      "music": 0.0
+    },
+    {
+      "from": 816.48,
+      "to": 817.36,
+      "sid": 331,
+      "location": 2,
+      "content": "路不拾遗",
+      "music": 0.0
+    },
+    {
+      "from": 817.36,
+      "to": 819.86,
+      "sid": 332,
+      "location": 2,
+      "content": "但很久没出现过的恶性案件",
+      "music": 0.0
+    },
+    {
+      "from": 819.86,
+      "to": 822.05,
+      "sid": 333,
+      "location": 2,
+      "content": "最近几年却开始抬头",
+      "music": 0.0
+    },
+    {
+      "from": 822.05,
+      "to": 825.17,
+      "sid": 334,
+      "location": 2,
+      "content": "公安的主要精力似乎放在了抓赌上",
+      "music": 0.0
+    },
+    {
+      "from": 825.17,
+      "to": 826.89,
+      "sid": 335,
+      "location": 2,
+      "content": "以前只是小罚一下",
+      "music": 0.0
+    },
+    {
+      "from": 826.89,
+      "to": 830.31,
+      "sid": 336,
+      "location": 2,
+      "content": "现在动辄罚款1万还要拘留两周",
+      "music": 0.0
+    },
+    {
+      "from": 830.31,
+      "to": 831.43,
+      "sid": 337,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 831.43,
+      "to": 834.11,
+      "sid": 338,
+      "location": 2,
+      "content": "民间的麻将馆却越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 834.11,
+      "to": 836.05,
+      "sid": 339,
+      "location": 2,
+      "content": "每天下午小区里",
+      "music": 0.0
+    },
+    {
+      "from": 836.05,
+      "to": 839.18,
+      "sid": 340,
+      "location": 2,
+      "content": "小树林里到处都是打麻将的人",
+      "music": 0.0
+    },
+    {
+      "from": 839.18,
+      "to": 842.64,
+      "sid": 341,
+      "location": 2,
+      "content": "很多四五十岁的中年人没有固定工作",
+      "music": 0.0
+    },
+    {
+      "from": 842.64,
+      "to": 845.15,
+      "sid": 342,
+      "location": 2,
+      "content": "每天就靠打麻将打发时间",
+      "music": 0.0
+    },
+    {
+      "from": 845.15,
+      "to": 847.73,
+      "sid": 343,
+      "location": 2,
+      "content": "没有人知道他们靠什么为生",
+      "music": 0.0
+    },
+    {
+      "from": 847.73,
+      "to": 851.12,
+      "sid": 344,
+      "location": 2,
+      "content": "也没有人知道他们对未来有什么打算",
+      "music": 0.0
+    },
+    {
+      "from": 851.12,
+      "to": 852.84,
+      "sid": 345,
+      "location": 2,
+      "content": "我看到这里的时候",
+      "music": 0.0
+    },
+    {
+      "from": 852.84,
+      "to": 855.01,
+      "sid": 346,
+      "location": 2,
+      "content": "心里真的特别难受",
+      "music": 0.0
+    },
+    {
+      "from": 855.01,
+      "to": 856.29,
+      "sid": 347,
+      "location": 2,
+      "content": "我想象不出",
+      "music": 0.0
+    },
+    {
+      "from": 856.29,
+      "to": 858.03,
+      "sid": 348,
+      "location": 2,
+      "content": "当一个地方的中年人",
+      "music": 0.0
+    },
+    {
+      "from": 858.03,
+      "to": 861.05,
+      "sid": 349,
+      "location": 2,
+      "content": "每天只能靠打麻将消磨时光的时候",
+      "music": 0.0
+    },
+    {
+      "from": 861.05,
+      "to": 863.03,
+      "sid": 350,
+      "location": 2,
+      "content": "那里的未来在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 863.03,
+      "to": 865.05,
+      "sid": 351,
+      "location": 2,
+      "content": "这不是什么唱空经济",
+      "music": 0.0
+    },
+    {
+      "from": 865.05,
+      "to": 867.48,
+      "sid": 352,
+      "location": 2,
+      "content": "而是发生在我们身边的现实",
+      "music": 0.0
+    },
+    {
+      "from": 867.48,
+      "to": 869.28,
+      "sid": 353,
+      "location": 2,
+      "content": "在这样的大背景下",
+      "music": 0.0
+    },
+    {
+      "from": 869.28,
+      "to": 873.52,
+      "sid": 354,
+      "location": 2,
+      "content": "我们必须彻底抛弃过去那种买房致富的幻想",
+      "music": 0.0
+    },
+    {
+      "from": 873.52,
+      "to": 875.6,
+      "sid": 355,
+      "location": 2,
+      "content": "房子已经从一个投资品",
+      "music": 0.0
+    },
+    {
+      "from": 875.6,
+      "to": 878.069,
+      "sid": 356,
+      "location": 2,
+      "content": "变成了一个纯粹的消费品",
+      "music": 0.0
+    },
+    {
+      "from": 878.069,
+      "to": 879.909,
+      "sid": 357,
+      "location": 2,
+      "content": "我不是在唱空楼市",
+      "music": 0.0
+    },
+    {
+      "from": 879.909,
+      "to": 882.11,
+      "sid": 358,
+      "location": 2,
+      "content": "只是在陈述一个事实",
+      "music": 0.0
+    },
+    {
+      "from": 882.11,
+      "to": 883.79,
+      "sid": 359,
+      "location": 2,
+      "content": "楼市能不能稳住",
+      "music": 0.0
+    },
+    {
+      "from": 883.79,
+      "to": 886.62,
+      "sid": 360,
+      "location": 2,
+      "content": "最终取决于普通老百姓的口袋",
+      "music": 0.0
+    },
+    {
+      "from": 886.62,
+      "to": 888.48,
+      "sid": 361,
+      "location": 2,
+      "content": "如果你的收入在增长",
+      "music": 0.0
+    },
+    {
+      "from": 888.48,
+      "to": 890.32,
+      "sid": 362,
+      "location": 2,
+      "content": "对未来有稳定的预期",
+      "music": 0.0
+    },
+    {
+      "from": 890.32,
+      "to": 892.18,
+      "sid": 363,
+      "location": 2,
+      "content": "那楼市自然会稳住",
+      "music": 0.0
+    },
+    {
+      "from": 892.18,
+      "to": 894.2,
+      "sid": 364,
+      "location": 2,
+      "content": "如果你的收入不增反降",
+      "music": 0.0
+    },
+    {
+      "from": 894.2,
+      "to": 896.34,
+      "sid": 365,
+      "location": 2,
+      "content": "甚至连工作都朝不保夕",
+      "music": 0.0
+    },
+    {
+      "from": 896.34,
+      "to": 898.74,
+      "sid": 366,
+      "location": 2,
+      "content": "那再怎么救市也无济于事",
+      "music": 0.0
+    },
+    {
+      "from": 898.74,
+      "to": 900.66,
+      "sid": 367,
+      "location": 2,
+      "content": "现在很多专家都在说",
+      "music": 0.0
+    },
+    {
+      "from": 900.66,
+      "to": 902.12,
+      "sid": 368,
+      "location": 2,
+      "content": "楼市已经见底了",
+      "music": 0.0
+    },
+    {
+      "from": 902.12,
+      "to": 903.8,
+      "sid": 369,
+      "location": 2,
+      "content": "马上就要反弹了",
+      "music": 0.0
+    },
+    {
+      "from": 903.8,
+      "to": 904.82,
+      "sid": 370,
+      "location": 2,
+      "content": "还有人说",
+      "music": 0.0
+    },
+    {
+      "from": 904.82,
+      "to": 907.42,
+      "sid": 371,
+      "location": 2,
+      "content": "2026年或者2027年",
+      "music": 0.0
+    },
+    {
+      "from": 907.42,
+      "to": 910.54,
+      "sid": 372,
+      "location": 2,
+      "content": "楼市就会迎来新一轮的上涨周期",
+      "music": 0.0
+    },
+    {
+      "from": 910.54,
+      "to": 914.03,
+      "sid": 373,
+      "location": 2,
+      "content": "但我觉得这些说法都太乐观了",
+      "music": 0.0
+    },
+    {
+      "from": 914.03,
+      "to": 917.41,
+      "sid": 374,
+      "location": 2,
+      "content": "我认为未来的房价走势深不可测",
+      "music": 0.0
+    },
+    {
+      "from": 917.41,
+      "to": 919.18,
+      "sid": 375,
+      "location": 2,
+      "content": "一切皆有可能",
+      "music": 0.0
+    },
+    {
+      "from": 919.18,
+      "to": 922.44,
+      "sid": 376,
+      "location": 2,
+      "content": "今年和明年可能会构筑一个小平台",
+      "music": 0.0
+    },
+    {
+      "from": 922.44,
+      "to": 925.75,
+      "sid": 377,
+      "location": 2,
+      "content": "但这个平台很可能是一个跳水平台",
+      "music": 0.0
+    },
+    {
+      "from": 925.75,
+      "to": 929.35,
+      "sid": 378,
+      "location": 2,
+      "content": "也就是说今年和明年说不定稍微稳一下",
+      "music": 0.0
+    },
+    {
+      "from": 929.35,
+      "to": 930.61,
+      "sid": 379,
+      "location": 2,
+      "content": "到明年上半年",
+      "music": 0.0
+    },
+    {
+      "from": 930.61,
+      "to": 932.53,
+      "sid": 380,
+      "location": 2,
+      "content": "后面就是剧烈的跳水",
+      "music": 0.0
+    },
+    {
+      "from": 932.53,
+      "to": 934.95,
+      "sid": 381,
+      "location": 2,
+      "content": "甚至今年年底就开始跳水",
+      "music": 0.0
+    },
+    {
+      "from": 934.95,
+      "to": 937.47,
+      "sid": 382,
+      "location": 2,
+      "content": "因为经济形势就摆在这",
+      "music": 0.0
+    },
+    {
+      "from": 937.47,
+      "to": 938.87,
+      "sid": 383,
+      "location": 2,
+      "content": "现在连送外卖",
+      "music": 0.0
+    },
+    {
+      "from": 938.87,
+      "to": 940.53,
+      "sid": 384,
+      "location": 2,
+      "content": "开网约车都饱和了",
+      "music": 0.0
+    },
+    {
+      "from": 940.53,
+      "to": 942.47,
+      "sid": 385,
+      "location": 2,
+      "content": "我昨天的节目也提过",
+      "music": 0.0
+    },
+    {
+      "from": 942.47,
+      "to": 944.67,
+      "sid": 386,
+      "location": 2,
+      "content": "很多大学生毕业就失业",
+      "music": 0.0
+    },
+    {
+      "from": 944.67,
+      "to": 946.79,
+      "sid": 387,
+      "location": 2,
+      "content": "你还指着谁去买房",
+      "music": 0.0
+    },
+    {
+      "from": 946.79,
+      "to": 947.77,
+      "sid": 388,
+      "location": 2,
+      "content": "买了房",
+      "music": 0.0
+    },
+    {
+      "from": 947.77,
+      "to": 950.43,
+      "sid": 389,
+      "location": 2,
+      "content": "人家拿什么去还按揭贷款",
+      "music": 0.0
+    },
+    {
+      "from": 950.43,
+      "to": 952.35,
+      "sid": 390,
+      "location": 2,
+      "content": "现在没有任何一份工作",
+      "music": 0.0
+    },
+    {
+      "from": 952.35,
+      "to": 954.69,
+      "sid": 391,
+      "location": 2,
+      "content": "能给你30年的稳定预期",
+      "music": 0.0
+    },
+    {
+      "from": 954.69,
+      "to": 956.03,
+      "sid": 392,
+      "location": 2,
+      "content": "别说30年了",
+      "music": 0.0
+    },
+    {
+      "from": 956.03,
+      "to": 958.96,
+      "sid": 393,
+      "location": 2,
+      "content": "就是3年的稳定预期都没有",
+      "music": 0.0
+    },
+    {
+      "from": 958.96,
+      "to": 961.14,
+      "sid": 394,
+      "location": 2,
+      "content": "现在很多公司都在裁员",
+      "music": 0.0
+    },
+    {
+      "from": 961.14,
+      "to": 965.14,
+      "sid": 395,
+      "location": 2,
+      "content": "35岁以上的员工更是裁员的重点对象",
+      "music": 0.0
+    },
+    {
+      "from": 965.14,
+      "to": 967.4,
+      "sid": 396,
+      "location": 2,
+      "content": "你贷款一贷就是30年",
+      "music": 0.0
+    },
+    {
+      "from": 967.4,
+      "to": 971.52,
+      "sid": 397,
+      "location": 2,
+      "content": "这意味着你要从20多岁一直还到50多岁",
+      "music": 0.0
+    },
+    {
+      "from": 971.52,
+      "to": 972.98,
+      "sid": 398,
+      "location": 2,
+      "content": "在这30年里",
+      "music": 0.0
+    },
+    {
+      "from": 972.98,
+      "to": 974.14,
+      "sid": 399,
+      "location": 2,
+      "content": "你不能失业",
+      "music": 0.0
+    },
+    {
+      "from": 974.14,
+      "to": 975.1,
+      "sid": 400,
+      "location": 2,
+      "content": "不能生病",
+      "music": 0.0
+    },
+    {
+      "from": 975.1,
+      "to": 977.0,
+      "sid": 401,
+      "location": 2,
+      "content": "不能有任何意外",
+      "music": 0.0
+    },
+    {
+      "from": 977.0,
+      "to": 978.52,
+      "sid": 402,
+      "location": 2,
+      "content": "只要有一次断供",
+      "music": 0.0
+    },
+    {
+      "from": 978.52,
+      "to": 980.84,
+      "sid": 403,
+      "location": 2,
+      "content": "你的房子就可能被银行收走",
+      "music": 0.0
+    },
+    {
+      "from": 980.84,
+      "to": 983.849,
+      "sid": 404,
+      "location": 2,
+      "content": "你之前所有的努力都将付诸东流",
+      "music": 0.0
+    },
+    {
+      "from": 983.849,
+      "to": 985.829,
+      "sid": 405,
+      "location": 2,
+      "content": "所以对于普通人来说",
+      "music": 0.0
+    },
+    {
+      "from": 985.829,
+      "to": 988.709,
+      "sid": 406,
+      "location": 2,
+      "content": "现在买房一定要想清楚三件事",
+      "music": 0.0
+    },
+    {
+      "from": 988.709,
+      "to": 992.44,
+      "sid": 407,
+      "location": 2,
+      "content": "第一不要迷信任何城市的房价不会跌",
+      "music": 0.0
+    },
+    {
+      "from": 992.44,
+      "to": 994.3,
+      "sid": 408,
+      "location": 2,
+      "content": "即便是北上广深",
+      "music": 0.0
+    },
+    {
+      "from": 994.3,
+      "to": 996.42,
+      "sid": 409,
+      "location": 2,
+      "content": "也只是跌得慢一点而已",
+      "music": 0.0
+    },
+    {
+      "from": 996.42,
+      "to": 998.44,
+      "sid": 410,
+      "location": 2,
+      "content": "没有只涨不跌的神话",
+      "music": 0.0
+    },
+    {
+      "from": 998.44,
+      "to": 1000.66,
+      "sid": 411,
+      "location": 2,
+      "content": "一线城市内部也会分化",
+      "music": 0.0
+    },
+    {
+      "from": 1000.66,
+      "to": 1003.1,
+      "sid": 412,
+      "location": 2,
+      "content": "核心区域可能抗跌性强一些",
+      "music": 0.0
+    },
+    {
+      "from": 1003.1,
+      "to": 1007.17,
+      "sid": 413,
+      "location": 2,
+      "content": "但远郊区的房子同样会面临大幅贬值的风险",
+      "music": 0.0
+    },
+    {
+      "from": 1007.17,
+      "to": 1008.69,
+      "sid": 414,
+      "location": 2,
+      "content": "我见过太多人",
+      "music": 0.0
+    },
+    {
+      "from": 1008.69,
+      "to": 1012.79,
+      "sid": 415,
+      "location": 2,
+      "content": "因为相信一线城市房价永远涨在最高点的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1012.79,
+      "to": 1014.65,
+      "sid": 416,
+      "location": 2,
+      "content": "接盘了远郊区的房子",
+      "music": 0.0
+    },
+    {
+      "from": 1014.65,
+      "to": 1016.67,
+      "sid": 417,
+      "location": 2,
+      "content": "现在被套得死死的",
+      "music": 0.0
+    },
+    {
+      "from": 1016.67,
+      "to": 1018.35,
+      "sid": 418,
+      "location": 2,
+      "content": "比如北京的燕郊",
+      "music": 0.0
+    },
+    {
+      "from": 1018.35,
+      "to": 1020.65,
+      "sid": 419,
+      "location": 2,
+      "content": "房价从最高点的4万1平",
+      "music": 0.0
+    },
+    {
+      "from": 1020.65,
+      "to": 1022.57,
+      "sid": 420,
+      "location": 2,
+      "content": "跌到了现在的1万1平",
+      "music": 0.0
+    },
+    {
+      "from": 1022.57,
+      "to": 1024.52,
+      "sid": 421,
+      "location": 2,
+      "content": "很多人都断供了",
+      "music": 0.0
+    },
+    {
+      "from": 1024.52,
+      "to": 1027.18,
+      "sid": 422,
+      "location": 2,
+      "content": "第二如果你手上有足够的钱",
+      "music": 0.0
+    },
+    {
+      "from": 1027.18,
+      "to": 1028.38,
+      "sid": 423,
+      "location": 2,
+      "content": "不需要贷款",
+      "music": 0.0
+    },
+    {
+      "from": 1028.38,
+      "to": 1030.38,
+      "sid": 424,
+      "location": 2,
+      "content": "而且确实有居住需求",
+      "music": 0.0
+    },
+    {
+      "from": 1030.38,
+      "to": 1031.619,
+      "sid": 425,
+      "location": 2,
+      "content": "那你可以买",
+      "music": 0.0
+    },
+    {
+      "from": 1031.619,
+      "to": 1034.239,
+      "sid": 426,
+      "location": 2,
+      "content": "把房子当成一个普通的消费品",
+      "music": 0.0
+    },
+    {
+      "from": 1034.239,
+      "to": 1035.559,
+      "sid": 427,
+      "location": 2,
+      "content": "就像买车一样",
+      "music": 0.0
+    },
+    {
+      "from": 1035.559,
+      "to": 1036.779,
+      "sid": 428,
+      "location": 2,
+      "content": "买了就是为了用",
+      "music": 0.0
+    },
+    {
+      "from": 1036.779,
+      "to": 1039.63,
+      "sid": 429,
+      "location": 2,
+      "content": "不要去纠结它明年是涨还是跌",
+      "music": 0.0
+    },
+    {
+      "from": 1039.63,
+      "to": 1040.93,
+      "sid": 430,
+      "location": 2,
+      "content": "早买早享受",
+      "music": 0.0
+    },
+    {
+      "from": 1040.93,
+      "to": 1042.73,
+      "sid": 431,
+      "location": 2,
+      "content": "有一个属于自己的家",
+      "music": 0.0
+    },
+    {
+      "from": 1042.73,
+      "to": 1045.33,
+      "sid": 432,
+      "location": 2,
+      "content": "对生活品质和精神状态的提升",
+      "music": 0.0
+    },
+    {
+      "from": 1045.33,
+      "to": 1047.55,
+      "sid": 433,
+      "location": 2,
+      "content": "是无法用金钱衡量的",
+      "music": 0.0
+    },
+    {
+      "from": 1047.55,
+      "to": 1050.19,
+      "sid": 434,
+      "location": 2,
+      "content": "你不用再年年跟房东谈房租",
+      "music": 0.0
+    },
+    {
+      "from": 1050.19,
+      "to": 1052.31,
+      "sid": 435,
+      "location": 2,
+      "content": "不用再担心被房东赶出去",
+      "music": 0.0
+    },
+    {
+      "from": 1052.31,
+      "to": 1056.33,
+      "sid": 436,
+      "location": 2,
+      "content": "不用再因为是租的房子而不敢买好的家具家电",
+      "music": 0.0
+    },
+    {
+      "from": 1056.33,
+      "to": 1060.87,
+      "sid": 437,
+      "location": 2,
+      "content": "我有一个朋友去年全款在老家买了一套房子",
+      "music": 0.0
+    },
+    {
+      "from": 1060.87,
+      "to": 1063.81,
+      "sid": 438,
+      "location": 2,
+      "content": "虽然很多人都说现在买房会亏",
+      "music": 0.0
+    },
+    {
+      "from": 1063.81,
+      "to": 1065.69,
+      "sid": 439,
+      "location": 2,
+      "content": "但他一点都不后悔",
+      "music": 0.0
+    },
+    {
+      "from": 1065.69,
+      "to": 1068.26,
+      "sid": 440,
+      "location": 2,
+      "content": "他说以前租房子的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1068.26,
+      "to": 1070.06,
+      "sid": 441,
+      "location": 2,
+      "content": "总觉得自己是个外人",
+      "music": 0.0
+    },
+    {
+      "from": 1070.06,
+      "to": 1071.3,
+      "sid": 442,
+      "location": 2,
+      "content": "没有归属感",
+      "music": 0.0
+    },
+    {
+      "from": 1071.3,
+      "to": 1073.38,
+      "sid": 443,
+      "location": 2,
+      "content": "现在有了自己的房子",
+      "music": 0.0
+    },
+    {
+      "from": 1073.38,
+      "to": 1074.84,
+      "sid": 444,
+      "location": 2,
+      "content": "心里特别踏实",
+      "music": 0.0
+    },
+    {
+      "from": 1074.84,
+      "to": 1077.98,
+      "sid": 445,
+      "location": 2,
+      "content": "每天下班回家都觉得特别幸福",
+      "music": 0.0
+    },
+    {
+      "from": 1077.98,
+      "to": 1080.04,
+      "sid": 446,
+      "location": 2,
+      "content": "第三如果你钱不够",
+      "music": 0.0
+    },
+    {
+      "from": 1080.04,
+      "to": 1081.42,
+      "sid": 447,
+      "location": 2,
+      "content": "需要贷款买房",
+      "music": 0.0
+    },
+    {
+      "from": 1081.42,
+      "to": 1084.23,
+      "sid": 448,
+      "location": 2,
+      "content": "那我劝你一定要慎重再慎重",
+      "music": 0.0
+    },
+    {
+      "from": 1084.23,
+      "to": 1087.03,
+      "sid": 449,
+      "location": 2,
+      "content": "不要被再不买就来不及了的言论忽悠",
+      "music": 0.0
+    },
+    {
+      "from": 1087.03,
+      "to": 1088.17,
+      "sid": 450,
+      "location": 2,
+      "content": "对于刚需来说",
+      "music": 0.0
+    },
+    {
+      "from": 1088.17,
+      "to": 1090.72,
+      "sid": 451,
+      "location": 2,
+      "content": "晚买几年可能会多花一些钱",
+      "music": 0.0
+    },
+    {
+      "from": 1090.72,
+      "to": 1093.78,
+      "sid": 452,
+      "location": 2,
+      "content": "但也可能会让你避免陷入财务危机",
+      "music": 0.0
+    },
+    {
+      "from": 1093.78,
+      "to": 1095.08,
+      "sid": 453,
+      "location": 2,
+      "content": "我见过太多",
+      "music": 0.0
+    },
+    {
+      "from": 1095.08,
+      "to": 1098.86,
+      "sid": 454,
+      "location": 2,
+      "content": "因为贷款买房而生活质量一落千丈的人",
+      "music": 0.0
+    },
+    {
+      "from": 1098.86,
+      "to": 1102.26,
+      "sid": 455,
+      "location": 2,
+      "content": "他们每个月的工资大部分都用来还房贷",
+      "music": 0.0
+    },
+    {
+      "from": 1102.26,
+      "to": 1103.16,
+      "sid": 456,
+      "location": 2,
+      "content": "不敢旅游",
+      "music": 0.0
+    },
+    {
+      "from": 1103.16,
+      "to": 1104.3,
+      "sid": 457,
+      "location": 2,
+      "content": "不敢下馆子",
+      "music": 0.0
+    },
+    {
+      "from": 1104.3,
+      "to": 1105.58,
+      "sid": 458,
+      "location": 2,
+      "content": "不敢买新衣服",
+      "music": 0.0
+    },
+    {
+      "from": 1105.58,
+      "to": 1107.4,
+      "sid": 459,
+      "location": 2,
+      "content": "日子过得紧巴巴的",
+      "music": 0.0
+    },
+    {
+      "from": 1107.4,
+      "to": 1109.6,
+      "sid": 460,
+      "location": 2,
+      "content": "一旦遇到失业或者生病",
+      "music": 0.0
+    },
+    {
+      "from": 1109.6,
+      "to": 1111.949,
+      "sid": 461,
+      "location": 2,
+      "content": "整个家庭就会陷入绝境",
+      "music": 0.0
+    },
+    {
+      "from": 1111.949,
+      "to": 1114.009,
+      "sid": 462,
+      "location": 2,
+      "content": "所以如果你钱不够",
+      "music": 0.0
+    },
+    {
+      "from": 1114.009,
+      "to": 1115.809,
+      "sid": 463,
+      "location": 2,
+      "content": "那就先租房子住",
+      "music": 0.0
+    },
+    {
+      "from": 1115.809,
+      "to": 1117.649,
+      "sid": 464,
+      "location": 2,
+      "content": "现在租房也很方便",
+      "music": 0.0
+    },
+    {
+      "from": 1117.649,
+      "to": 1119.5,
+      "sid": 465,
+      "location": 2,
+      "content": "而且租金也不贵",
+      "music": 0.0
+    },
+    {
+      "from": 1119.5,
+      "to": 1121.1,
+      "sid": 466,
+      "location": 2,
+      "content": "你可以把钱存起来",
+      "music": 0.0
+    },
+    {
+      "from": 1121.1,
+      "to": 1122.82,
+      "sid": 467,
+      "location": 2,
+      "content": "等以后经济形势好了",
+      "music": 0.0
+    },
+    {
+      "from": 1122.82,
+      "to": 1123.9,
+      "sid": 468,
+      "location": 2,
+      "content": "收入稳定了",
+      "music": 0.0
+    },
+    {
+      "from": 1123.9,
+      "to": 1125.659,
+      "sid": 469,
+      "location": 2,
+      "content": "再考虑买房的事情",
+      "music": 0.0
+    },
+    {
+      "from": 1125.659,
+      "to": 1129.44,
+      "sid": 470,
+      "location": 2,
+      "content": "未来的房价走势没有人能准确预测",
+      "music": 0.0
+    },
+    {
+      "from": 1129.44,
+      "to": 1131.74,
+      "sid": 471,
+      "location": 2,
+      "content": "但有两个大趋势是确定的",
+      "music": 0.0
+    },
+    {
+      "from": 1131.74,
+      "to": 1134.52,
+      "sid": 472,
+      "location": 2,
+      "content": "一是全国总人口会继续下降",
+      "music": 0.0
+    },
+    {
+      "from": 1134.52,
+      "to": 1137.34,
+      "sid": 473,
+      "location": 2,
+      "content": "房子的总体过剩会越来越严重",
+      "music": 0.0
+    },
+    {
+      "from": 1137.34,
+      "to": 1139.96,
+      "sid": 474,
+      "location": 2,
+      "content": "二是经济的K型分化会持续",
+      "music": 0.0
+    },
+    {
+      "from": 1139.96,
+      "to": 1140.88,
+      "sid": 475,
+      "location": 2,
+      "content": "不同城市",
+      "music": 0.0
+    },
+    {
+      "from": 1140.88,
+      "to": 1144.179,
+      "sid": 476,
+      "location": 2,
+      "content": "不同区域的房价差距会越来越大",
+      "music": 0.0
+    },
+    {
+      "from": 1144.179,
+      "to": 1146.599,
+      "sid": 477,
+      "location": 2,
+      "content": "三四线城市和县城的房子",
+      "music": 0.0
+    },
+    {
+      "from": 1146.599,
+      "to": 1148.839,
+      "sid": 478,
+      "location": 2,
+      "content": "基本上已经没有投资价值了",
+      "music": 0.0
+    },
+    {
+      "from": 1148.839,
+      "to": 1150.619,
+      "sid": 479,
+      "location": 2,
+      "content": "未来只会越来越便宜",
+      "music": 0.0
+    },
+    {
+      "from": 1150.619,
+      "to": 1152.429,
+      "sid": 480,
+      "location": 2,
+      "content": "最终走向鹤钢化",
+      "music": 0.0
+    },
+    {
+      "from": 1152.429,
+      "to": 1155.049,
+      "sid": 481,
+      "location": 2,
+      "content": "如果你在这些地方有多套房子",
+      "music": 0.0
+    },
+    {
+      "from": 1155.049,
+      "to": 1156.669,
+      "sid": 482,
+      "location": 2,
+      "content": "建议你尽快卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 1156.669,
+      "to": 1159.03,
+      "sid": 483,
+      "location": 2,
+      "content": "否则以后可能会砸在手里",
+      "music": 0.0
+    },
+    {
+      "from": 1159.03,
+      "to": 1161.41,
+      "sid": 484,
+      "location": 2,
+      "content": "二线城市中只有杭州",
+      "music": 0.0
+    },
+    {
+      "from": 1161.41,
+      "to": 1164.01,
+      "sid": 485,
+      "location": 2,
+      "content": "成都等少数几个产业基础好",
+      "music": 0.0
+    },
+    {
+      "from": 1164.01,
+      "to": 1167.76,
+      "sid": 486,
+      "location": 2,
+      "content": "人口吸引力强的城市还有一定的支撑力",
+      "music": 0.0
+    },
+    {
+      "from": 1167.76,
+      "to": 1169.58,
+      "sid": 487,
+      "location": 2,
+      "content": "但即便是这些城市",
+      "music": 0.0
+    },
+    {
+      "from": 1169.58,
+      "to": 1172.18,
+      "sid": 488,
+      "location": 2,
+      "content": "也只有核心区域的房子能保值",
+      "music": 0.0
+    },
+    {
+      "from": 1172.18,
+      "to": 1175.69,
+      "sid": 489,
+      "location": 2,
+      "content": "远郊区的房子同样会面临贬值的风险",
+      "music": 0.0
+    },
+    {
+      "from": 1175.69,
+      "to": 1178.95,
+      "sid": 490,
+      "location": 2,
+      "content": "一线城市的房子抗跌性会强一些",
+      "music": 0.0
+    },
+    {
+      "from": 1178.95,
+      "to": 1181.82,
+      "sid": 491,
+      "location": 2,
+      "content": "但也不会再像以前那样大涨了",
+      "music": 0.0
+    },
+    {
+      "from": 1181.82,
+      "to": 1185.4,
+      "sid": 492,
+      "location": 2,
+      "content": "未来一线城市的房价会保持相对稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1185.4,
+      "to": 1186.9,
+      "sid": 493,
+      "location": 2,
+      "content": "或者缓慢下跌",
+      "music": 0.0
+    },
+    {
+      "from": 1187.94,
+      "to": 1189.1,
+      "sid": 494,
+      "location": 2,
+      "content": "在这样的时代",
+      "music": 0.0
+    },
+    {
+      "from": 1189.1,
+      "to": 1191.4,
+      "sid": 495,
+      "location": 2,
+      "content": "我们能做的就是保持清醒",
+      "music": 0.0
+    },
+    {
+      "from": 1191.4,
+      "to": 1193.22,
+      "sid": 496,
+      "location": 2,
+      "content": "不要被各种噪音干扰",
+      "music": 0.0
+    },
+    {
+      "from": 1193.22,
+      "to": 1194.92,
+      "sid": 497,
+      "location": 2,
+      "content": "根据自己的实际情况",
+      "music": 0.0
+    },
+    {
+      "from": 1194.92,
+      "to": 1197.219,
+      "sid": 498,
+      "location": 2,
+      "content": "做出最适合自己的选择",
+      "music": 0.0
+    },
+    {
+      "from": 1197.219,
+      "to": 1198.319,
+      "sid": 499,
+      "location": 2,
+      "content": "买房也好",
+      "music": 0.0
+    },
+    {
+      "from": 1198.319,
+      "to": 1199.499,
+      "sid": 500,
+      "location": 2,
+      "content": "不买房也罢",
+      "music": 0.0
+    },
+    {
+      "from": 1199.499,
+      "to": 1201.899,
+      "sid": 501,
+      "location": 2,
+      "content": "只要是经过深思熟虑的决定",
+      "music": 0.0
+    },
+    {
+      "from": 1201.899,
+      "to": 1203.79,
+      "sid": 502,
+      "location": 2,
+      "content": "将来就不会后悔",
+      "music": 0.0
+    },
+    {
+      "from": 1203.79,
+      "to": 1205.95,
+      "sid": 503,
+      "location": 2,
+      "content": "房子不再是财富的象征",
+      "music": 0.0
+    },
+    {
+      "from": 1205.95,
+      "to": 1207.89,
+      "sid": 504,
+      "location": 2,
+      "content": "不再是跨越阶层的阶梯",
+      "music": 0.0
+    },
+    {
+      "from": 1207.89,
+      "to": 1210.38,
+      "sid": 505,
+      "location": 2,
+      "content": "它只是一个用来居住的地方",
+      "music": 0.0
+    },
+    {
+      "from": 1210.38,
+      "to": 1212.7,
+      "sid": 506,
+      "location": 2,
+      "content": "我们应该放下对房子的执念",
+      "music": 0.0
+    },
+    {
+      "from": 1212.7,
+      "to": 1214.96,
+      "sid": 507,
+      "location": 2,
+      "content": "去追求更有意义的生活",
+      "music": 0.0
+    },
+    {
+      "from": 1214.96,
+      "to": 1217.52,
+      "sid": 508,
+      "location": 2,
+      "content": "毕竟人生不是只有房子",
+      "music": 0.0
+    },
+    {
+      "from": 1217.52,
+      "to": 1219.12,
+      "sid": 509,
+      "location": 2,
+      "content": "还有诗和远方",
+      "music": 0.0
+    },
+    {
+      "from": 1219.12,
+      "to": 1220.88,
+      "sid": 510,
+      "location": 2,
+      "content": "今天的内容就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1220.88,
+      "to": 1221.64,
+      "sid": 511,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 1221.64,
+      "to": 1223.34,
+      "sid": 512,
+      "location": 2,
+      "content": "持续看懂楼市走势",
+      "music": 0.0
+    },
+    {
+      "from": 1223.34,
+      "to": 1225.0,
+      "sid": 513,
+      "location": 2,
+      "content": "拆解楼市最新动态",
+      "music": 0.0
+    },
+    {
+      "from": 1225.0,
+      "to": 1225.94,
+      "sid": 514,
+      "location": 2,
+      "content": "我是康康",
+      "music": 0.0
+    },
+    {
+      "from": 1225.94,
+      "to": 1227.52,
+      "sid": 515,
+      "location": 2,
+      "content": "我们下期见",
+      "music": 0.0
+    }
+  ]
+}

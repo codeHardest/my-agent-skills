@@ -1,0 +1,3556 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.58,
+      "sid": 1,
+      "location": 2,
+      "content": "随着4月底A股5000多家上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 2.58,
+      "to": 4.8,
+      "sid": 2,
+      "location": 2,
+      "content": "2025年年报和2026年一季报",
+      "music": 0.0
+    },
+    {
+      "from": 4.8,
+      "to": 5.7,
+      "sid": 3,
+      "location": 2,
+      "content": "的披露结束",
+      "music": 0.0
+    },
+    {
+      "from": 5.7,
+      "to": 7.3,
+      "sid": 4,
+      "location": 2,
+      "content": "从去年到今年前三个月",
+      "music": 0.0
+    },
+    {
+      "from": 7.3,
+      "to": 10.68,
+      "sid": 5,
+      "location": 2,
+      "content": "我国各行各业真实的经营情况逐渐的浮出水面",
+      "music": 0.0
+    },
+    {
+      "from": 10.68,
+      "to": 13.9,
+      "sid": 6,
+      "location": 2,
+      "content": "今年也是我连续制作中国行业盈利和衰落",
+      "music": 0.0
+    },
+    {
+      "from": 13.9,
+      "to": 14.92,
+      "sid": 7,
+      "location": 2,
+      "content": "榜单的第3年",
+      "music": 0.0
+    },
+    {
+      "from": 14.92,
+      "to": 17.24,
+      "sid": 8,
+      "location": 2,
+      "content": "而今年的上榜行业相比前两年呢",
+      "music": 0.0
+    },
+    {
+      "from": 17.24,
+      "to": 18.44,
+      "sid": 9,
+      "location": 2,
+      "content": "出现了很大的变化",
+      "music": 0.0
+    },
+    {
+      "from": 18.44,
+      "to": 19.76,
+      "sid": 10,
+      "location": 2,
+      "content": "如果说过去几年",
+      "music": 0.0
+    },
+    {
+      "from": 19.76,
+      "to": 22.31,
+      "sid": 11,
+      "location": 2,
+      "content": "我国行业的盈利情况是二八分化的话",
+      "music": 0.0
+    },
+    {
+      "from": 22.31,
+      "to": 23.45,
+      "sid": 12,
+      "location": 2,
+      "content": "但从去年开始",
+      "music": 0.0
+    },
+    {
+      "from": 23.45,
+      "to": 25.1,
+      "sid": 13,
+      "location": 2,
+      "content": "尤其是进入今年一季度后",
+      "music": 0.0
+    },
+    {
+      "from": 25.1,
+      "to": 27.1,
+      "sid": 14,
+      "location": 2,
+      "content": "二八分化更是极端的演绎",
+      "music": 0.0
+    },
+    {
+      "from": 27.1,
+      "to": 28.16,
+      "sid": 15,
+      "location": 2,
+      "content": "为了一九分化",
+      "music": 0.0
+    },
+    {
+      "from": 28.16,
+      "to": 29.02,
+      "sid": 16,
+      "location": 2,
+      "content": "那开始之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 29.02,
+      "to": 30.98,
+      "sid": 17,
+      "location": 2,
+      "content": "我们还是简单讲一下排名的依据",
+      "music": 0.0
+    },
+    {
+      "from": 30.98,
+      "to": 31.82,
+      "sid": 18,
+      "location": 2,
+      "content": "本次的排名呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.82,
+      "to": 34.18,
+      "sid": 19,
+      "location": 2,
+      "content": "我们把这5000多家公司分为七个大类",
+      "music": 0.0
+    },
+    {
+      "from": 34.18,
+      "to": 35.04,
+      "sid": 20,
+      "location": 2,
+      "content": "及上游资源",
+      "music": 0.0
+    },
+    {
+      "from": 35.04,
+      "to": 35.82,
+      "sid": 21,
+      "location": 2,
+      "content": "中游制造",
+      "music": 0.0
+    },
+    {
+      "from": 35.82,
+      "to": 39.62,
+      "sid": 22,
+      "location": 2,
+      "content": "中游材料必选消费可选消费TMT也就是科技媒体",
+      "music": 0.0
+    },
+    {
+      "from": 39.62,
+      "to": 40.18,
+      "sid": 23,
+      "location": 2,
+      "content": "电信行业",
+      "music": 0.0
+    },
+    {
+      "from": 40.18,
+      "to": 42.18,
+      "sid": 24,
+      "location": 2,
+      "content": "那最后是周期地产七个大类",
+      "music": 0.0
+    },
+    {
+      "from": 42.18,
+      "to": 43.52,
+      "sid": 25,
+      "location": 2,
+      "content": "下分30个一级行业",
+      "music": 0.0
+    },
+    {
+      "from": 43.52,
+      "to": 44.58,
+      "sid": 26,
+      "location": 2,
+      "content": "过百个二级行业",
+      "music": 0.0
+    },
+    {
+      "from": 44.58,
+      "to": 47.61,
+      "sid": 27,
+      "location": 2,
+      "content": "而我们则对这些细分后的二级行业进行排名",
+      "music": 0.0
+    },
+    {
+      "from": 49.29,
+      "to": 50.01,
+      "sid": 28,
+      "location": 2,
+      "content": "那首先是",
+      "music": 0.0
+    },
+    {
+      "from": 50.01,
+      "to": 53.349,
+      "sid": 29,
+      "location": 2,
+      "content": "该行业要在2025年的利润增速排名居前",
+      "music": 0.0
+    },
+    {
+      "from": 53.349,
+      "to": 55.989,
+      "sid": 30,
+      "location": 2,
+      "content": "同时剔除掉因为2024年业绩下滑",
+      "music": 0.0
+    },
+    {
+      "from": 55.989,
+      "to": 59.44,
+      "sid": 31,
+      "location": 2,
+      "content": "而2025年增速回正而造成数据异常的行业",
+      "music": 0.0
+    },
+    {
+      "from": 59.44,
+      "to": 60.44,
+      "sid": 32,
+      "location": 2,
+      "content": "在这个基础上",
+      "music": 0.0
+    },
+    {
+      "from": 60.44,
+      "to": 62.78,
+      "sid": 33,
+      "location": 2,
+      "content": "再对比2026年一季度的经营情况",
+      "music": 0.0
+    },
+    {
+      "from": 62.78,
+      "to": 65.28,
+      "sid": 34,
+      "location": 2,
+      "content": "如果一季度利润增速又开始明显下滑的",
+      "music": 0.0
+    },
+    {
+      "from": 65.28,
+      "to": 66.7,
+      "sid": 35,
+      "location": 2,
+      "content": "也会被排除好了",
+      "music": 0.0
+    },
+    {
+      "from": 66.7,
+      "to": 67.64,
+      "sid": 36,
+      "location": 2,
+      "content": "那我们话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 69.72,
+      "to": 71.52,
+      "sid": 37,
+      "location": 2,
+      "content": "车行业第五名游戏",
+      "music": 0.0
+    },
+    {
+      "from": 71.52,
+      "to": 72.3,
+      "sid": 38,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 72.3,
+      "to": 73.54,
+      "sid": 39,
+      "location": 2,
+      "content": "A股上市的游戏公司",
+      "music": 0.0
+    },
+    {
+      "from": 73.54,
+      "to": 76.26,
+      "sid": 40,
+      "location": 2,
+      "content": "利润大幅增长了222.15%",
+      "music": 0.0
+    },
+    {
+      "from": 76.26,
+      "to": 77.66,
+      "sid": 41,
+      "location": 2,
+      "content": "今年一季度继续保持",
+      "music": 0.0
+    },
+    {
+      "from": 77.66,
+      "to": 79.79,
+      "sid": 42,
+      "location": 2,
+      "content": "54.32%的高增速",
+      "music": 0.0
+    },
+    {
+      "from": 79.79,
+      "to": 82.55,
+      "sid": 43,
+      "location": 2,
+      "content": "其实游戏行业呢一直是一个偷偷吃肉的行业",
+      "music": 0.0
+    },
+    {
+      "from": 82.55,
+      "to": 85.48,
+      "sid": 44,
+      "location": 2,
+      "content": "尤其是一直稳定云几款爆款的top公司",
+      "music": 0.0
+    },
+    {
+      "from": 85.48,
+      "to": 88.48,
+      "sid": 45,
+      "location": 2,
+      "content": "一款游戏最大的成本就是前期的研发费用",
+      "music": 0.0
+    },
+    {
+      "from": 88.48,
+      "to": 89.6,
+      "sid": 46,
+      "location": 2,
+      "content": "如果能获得成功",
+      "music": 0.0
+    },
+    {
+      "from": 89.6,
+      "to": 91.32,
+      "sid": 47,
+      "location": 2,
+      "content": "后期的运营费用并不高",
+      "music": 0.0
+    },
+    {
+      "from": 91.32,
+      "to": 93.66,
+      "sid": 48,
+      "location": 2,
+      "content": "国民游戏呢更是一本万利的买卖",
+      "music": 0.0
+    },
+    {
+      "from": 93.66,
+      "to": 95.13,
+      "sid": 49,
+      "location": 2,
+      "content": "毛利率堪比茅台",
+      "music": 0.0
+    },
+    {
+      "from": 95.13,
+      "to": 96.27,
+      "sid": 50,
+      "location": 2,
+      "content": "以腾讯为例呢",
+      "music": 0.0
+    },
+    {
+      "from": 96.27,
+      "to": 99.21,
+      "sid": 51,
+      "location": 2,
+      "content": "游戏板块的利润占这家我国最大互联网公司",
+      "music": 0.0
+    },
+    {
+      "from": 99.21,
+      "to": 100.04,
+      "sid": 52,
+      "location": 2,
+      "content": "40%",
+      "music": 0.0
+    },
+    {
+      "from": 100.04,
+      "to": 101.4,
+      "sid": 53,
+      "location": 2,
+      "content": "而行业老二的网易",
+      "music": 0.0
+    },
+    {
+      "from": 101.4,
+      "to": 104.82,
+      "sid": 54,
+      "location": 2,
+      "content": "其游戏板块利润更是占了总利润的接近九成",
+      "music": 0.0
+    },
+    {
+      "from": 104.82,
+      "to": 107.16,
+      "sid": 55,
+      "location": 2,
+      "content": "王者荣耀呢作为我国最赚钱的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 107.16,
+      "to": 108.7,
+      "sid": 56,
+      "location": 2,
+      "content": "在节假日高峰的时候",
+      "music": 0.0
+    },
+    {
+      "from": 108.7,
+      "to": 110.44,
+      "sid": 57,
+      "location": 2,
+      "content": "日流水可以做到一个亿以上",
+      "music": 0.0
+    },
+    {
+      "from": 110.44,
+      "to": 111.58,
+      "sid": 58,
+      "location": 2,
+      "content": "而这一个亿的营收",
+      "music": 0.0
+    },
+    {
+      "from": 111.58,
+      "to": 113.56,
+      "sid": 59,
+      "location": 2,
+      "content": "对应的实际成本可能只有几百万",
+      "music": 0.0
+    },
+    {
+      "from": 113.56,
+      "to": 115.72,
+      "sid": 60,
+      "location": 2,
+      "content": "虽然我国最赚钱的几个游戏公司呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.72,
+      "to": 117.24,
+      "sid": 61,
+      "location": 2,
+      "content": "要么在美股港股上市",
+      "music": 0.0
+    },
+    {
+      "from": 117.24,
+      "to": 118.24,
+      "sid": 62,
+      "location": 2,
+      "content": "要么没有上市",
+      "music": 0.0
+    },
+    {
+      "from": 118.24,
+      "to": 119.28,
+      "sid": 63,
+      "location": 2,
+      "content": "但2025年",
+      "music": 0.0
+    },
+    {
+      "from": 119.28,
+      "to": 121.96,
+      "sid": 64,
+      "location": 2,
+      "content": "可以说是游戏行业的一个小爆发的年份",
+      "music": 0.0
+    },
+    {
+      "from": 121.96,
+      "to": 122.84,
+      "sid": 65,
+      "location": 2,
+      "content": "2025年呢",
+      "music": 0.0
+    },
+    {
+      "from": 122.84,
+      "to": 124.16,
+      "sid": 66,
+      "location": 2,
+      "content": "A股上市的游戏公司里",
+      "music": 0.0
+    },
+    {
+      "from": 124.16,
+      "to": 125.9,
+      "sid": 67,
+      "location": 2,
+      "content": "有84%实现了盈利",
+      "music": 0.0
+    },
+    {
+      "from": 125.9,
+      "to": 127.78,
+      "sid": 68,
+      "location": 2,
+      "content": "65%实现了利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 127.78,
+      "to": 130.24,
+      "sid": 69,
+      "location": 2,
+      "content": "25%的公司呢实现了扭亏为盈",
+      "music": 0.0
+    },
+    {
+      "from": 130.24,
+      "to": 131.16,
+      "sid": 70,
+      "location": 2,
+      "content": "究其原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 131.16,
+      "to": 133.44,
+      "sid": 71,
+      "location": 2,
+      "content": "其实跟我国的创新药行业有点像",
+      "music": 0.0
+    },
+    {
+      "from": 133.44,
+      "to": 134.32,
+      "sid": 72,
+      "location": 2,
+      "content": "2018年",
+      "music": 0.0
+    },
+    {
+      "from": 134.32,
+      "to": 134.96,
+      "sid": 73,
+      "location": 2,
+      "content": "游戏行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 134.96,
+      "to": 137.52,
+      "sid": 74,
+      "location": 2,
+      "content": "迎来了史上最严的未成年人保护政策",
+      "music": 0.0
+    },
+    {
+      "from": 137.52,
+      "to": 140.62,
+      "sid": 75,
+      "location": 2,
+      "content": "自此游戏版号进入了长达4年的零审批寒冬",
+      "music": 0.0
+    },
+    {
+      "from": 140.62,
+      "to": 141.4,
+      "sid": 76,
+      "location": 2,
+      "content": "没有新版号",
+      "music": 0.0
+    },
+    {
+      "from": 141.4,
+      "to": 143.4,
+      "sid": 77,
+      "location": 2,
+      "content": "也就意味着没有新的游戏能上市",
+      "music": 0.0
+    },
+    {
+      "from": 143.4,
+      "to": 145.82,
+      "sid": 78,
+      "location": 2,
+      "content": "除了之前就占据了头部的几家公司之外",
+      "music": 0.0
+    },
+    {
+      "from": 145.82,
+      "to": 147.84,
+      "sid": 79,
+      "location": 2,
+      "content": "中小游戏厂商大批量的倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 147.84,
+      "to": 150.46,
+      "sid": 80,
+      "location": 2,
+      "content": "低质量游戏买量补短线的模式也被终结",
+      "music": 0.0
+    },
+    {
+      "from": 150.46,
+      "to": 152.42,
+      "sid": 81,
+      "location": 2,
+      "content": "在整个行业快速出现的同时",
+      "music": 0.0
+    },
+    {
+      "from": 152.42,
+      "to": 154.08,
+      "sid": 82,
+      "location": 2,
+      "content": "大厂们也在降本增效",
+      "music": 0.0
+    },
+    {
+      "from": 154.08,
+      "to": 155.34,
+      "sid": 83,
+      "location": 2,
+      "content": "严格控制研发预算",
+      "music": 0.0
+    },
+    {
+      "from": 155.34,
+      "to": 157.2,
+      "sid": 84,
+      "location": 2,
+      "content": "并且积极地开始布局出海",
+      "music": 0.0
+    },
+    {
+      "from": 157.2,
+      "to": 159.86,
+      "sid": 85,
+      "location": 2,
+      "content": "等到了2022年版号重新开始获批后",
+      "music": 0.0
+    },
+    {
+      "from": 159.86,
+      "to": 162.52,
+      "sid": 86,
+      "location": 2,
+      "content": "行业的内卷减轻了公司的成本下来了",
+      "music": 0.0
+    },
+    {
+      "from": 162.52,
+      "to": 163.92,
+      "sid": 87,
+      "location": 2,
+      "content": "员工的工资下降了",
+      "music": 0.0
+    },
+    {
+      "from": 163.92,
+      "to": 166.02,
+      "sid": 88,
+      "location": 2,
+      "content": "出海的游戏也开始获得额外收益了",
+      "music": 0.0
+    },
+    {
+      "from": 166.02,
+      "to": 168.269,
+      "sid": 89,
+      "location": 2,
+      "content": "自此游戏行业逐渐走出了低谷",
+      "music": 0.0
+    },
+    {
+      "from": 168.269,
+      "to": 171.489,
+      "sid": 90,
+      "location": 2,
+      "content": "例如2025年A股头部的游戏公司世界华通",
+      "music": 0.0
+    },
+    {
+      "from": 171.489,
+      "to": 172.889,
+      "sid": 91,
+      "location": 2,
+      "content": "其出海的两款游戏",
+      "music": 0.0
+    },
+    {
+      "from": 172.889,
+      "to": 175.46,
+      "sid": 92,
+      "location": 2,
+      "content": "无尽冬日和国王战争呢在去年大获成功",
+      "music": 0.0
+    },
+    {
+      "from": 175.46,
+      "to": 176.38,
+      "sid": 93,
+      "location": 2,
+      "content": "让世纪华通呢",
+      "music": 0.0
+    },
+    {
+      "from": 176.38,
+      "to": 178.76,
+      "sid": 94,
+      "location": 2,
+      "content": "一度成为了中国出海厂商的收入一哥",
+      "music": 0.0
+    },
+    {
+      "from": 178.76,
+      "to": 179.92,
+      "sid": 95,
+      "location": 2,
+      "content": "利润的大幅增长",
+      "music": 0.0
+    },
+    {
+      "from": 179.92,
+      "to": 181.64,
+      "sid": 96,
+      "location": 2,
+      "content": "股价在一年内也翻了两倍",
+      "music": 0.0
+    },
+    {
+      "from": 181.64,
+      "to": 183.74,
+      "sid": 97,
+      "location": 2,
+      "content": "而其他厂商在沉寂了几年之后",
+      "music": 0.0
+    },
+    {
+      "from": 183.74,
+      "to": 186.74,
+      "sid": 98,
+      "location": 2,
+      "content": "也陆续在近几年开始密集上市新的游戏产品",
+      "music": 0.0
+    },
+    {
+      "from": 186.74,
+      "to": 189.5,
+      "sid": 99,
+      "location": 2,
+      "content": "最终呢让整个游戏行业的利润增长快速的提升",
+      "music": 0.0
+    },
+    {
+      "from": 189.5,
+      "to": 191.18,
+      "sid": 100,
+      "location": 2,
+      "content": "凭借游戏的高毛利属性",
+      "music": 0.0
+    },
+    {
+      "from": 191.18,
+      "to": 192.5,
+      "sid": 101,
+      "location": 2,
+      "content": "这些公司在近两年",
+      "music": 0.0
+    },
+    {
+      "from": 192.5,
+      "to": 194.92,
+      "sid": 102,
+      "location": 2,
+      "content": "可以说是闷声发财的代表行业之一",
+      "music": 0.0
+    },
+    {
+      "from": 194.92,
+      "to": 196.3,
+      "sid": 103,
+      "location": 2,
+      "content": "吃肉行业第四名",
+      "music": 0.0
+    },
+    {
+      "from": 196.3,
+      "to": 197.12,
+      "sid": 104,
+      "location": 2,
+      "content": "能源金属",
+      "music": 0.0
+    },
+    {
+      "from": 197.12,
+      "to": 199.86,
+      "sid": 105,
+      "location": 2,
+      "content": "能源金属呢主要指的就是电池所用的金属锂",
+      "music": 0.0
+    },
+    {
+      "from": 199.86,
+      "to": 200.58,
+      "sid": 106,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 200.58,
+      "to": 202.38,
+      "sid": 107,
+      "location": 2,
+      "content": "能源金属行业盈利增速",
+      "music": 0.0
+    },
+    {
+      "from": 202.38,
+      "to": 204.82,
+      "sid": 108,
+      "location": 2,
+      "content": "高达2893.37%",
+      "music": 0.0
+    },
+    {
+      "from": 204.82,
+      "to": 205.98,
+      "sid": 109,
+      "location": 2,
+      "content": "一季度继续保持",
+      "music": 0.0
+    },
+    {
+      "from": 205.98,
+      "to": 208.12,
+      "sid": 110,
+      "location": 2,
+      "content": "378.82%的增速",
+      "music": 0.0
+    },
+    {
+      "from": 208.12,
+      "to": 209.54,
+      "sid": 111,
+      "location": 2,
+      "content": "领跑A股的全体行业",
+      "music": 0.0
+    },
+    {
+      "from": 209.54,
+      "to": 210.62,
+      "sid": 112,
+      "location": 2,
+      "content": "而下游的电池行业",
+      "music": 0.0
+    },
+    {
+      "from": 210.62,
+      "to": 213.02,
+      "sid": 113,
+      "location": 2,
+      "content": "也在去年实现了54.81%",
+      "music": 0.0
+    },
+    {
+      "from": 213.02,
+      "to": 216.019,
+      "sid": 114,
+      "location": 2,
+      "content": "今年一季度实现了83.81%的增速",
+      "music": 0.0
+    },
+    {
+      "from": 216.019,
+      "to": 218.09,
+      "sid": 115,
+      "location": 2,
+      "content": "可以说价格传导得非常顺利",
+      "music": 0.0
+    },
+    {
+      "from": 218.09,
+      "to": 220.09,
+      "sid": 116,
+      "location": 2,
+      "content": "为什么能源金属行业这么高的增速",
+      "music": 0.0
+    },
+    {
+      "from": 220.09,
+      "to": 221.41,
+      "sid": 117,
+      "location": 2,
+      "content": "我还只给排到了第四",
+      "music": 0.0
+    },
+    {
+      "from": 221.41,
+      "to": 223.05,
+      "sid": 118,
+      "location": 2,
+      "content": "原因在于高增速的背后",
+      "music": 0.0
+    },
+    {
+      "from": 223.05,
+      "to": 225.54,
+      "sid": 119,
+      "location": 2,
+      "content": "其实是之前几年低迷拉低的基数",
+      "music": 0.0
+    },
+    {
+      "from": 225.54,
+      "to": 227.34,
+      "sid": 120,
+      "location": 2,
+      "content": "原本呢按照我们进榜的规则",
+      "music": 0.0
+    },
+    {
+      "from": 227.34,
+      "to": 229.7,
+      "sid": 121,
+      "location": 2,
+      "content": "这种前低后高的行业应该被剔除",
+      "music": 0.0
+    },
+    {
+      "from": 229.7,
+      "to": 232.54,
+      "sid": 122,
+      "location": 2,
+      "content": "但架不住能源金属行业复苏的够快够猛",
+      "music": 0.0
+    },
+    {
+      "from": 232.54,
+      "to": 233.5,
+      "sid": 123,
+      "location": 2,
+      "content": "去年到今年呢",
+      "music": 0.0
+    },
+    {
+      "from": 233.5,
+      "to": 235.62,
+      "sid": 124,
+      "location": 2,
+      "content": "行业内部的企业的确吃到了大肉",
+      "music": 0.0
+    },
+    {
+      "from": 235.62,
+      "to": 237.68,
+      "sid": 125,
+      "location": 2,
+      "content": "所以我们最终给了他第四的位置",
+      "music": 0.0
+    },
+    {
+      "from": 237.68,
+      "to": 239.58,
+      "sid": 126,
+      "location": 2,
+      "content": "这也是我做行业榜单3年来",
+      "music": 0.0
+    },
+    {
+      "from": 241.97,
+      "to": 243.01,
+      "sid": 127,
+      "location": 2,
+      "content": "2020年后",
+      "music": 0.0
+    },
+    {
+      "from": 243.01,
+      "to": 244.61,
+      "sid": 128,
+      "location": 2,
+      "content": "国内电动车概念爆发",
+      "music": 0.0
+    },
+    {
+      "from": 244.61,
+      "to": 247.58,
+      "sid": 129,
+      "location": 2,
+      "content": "金属里的上游材料碳酸锂的价格呢也随之飙涨",
+      "music": 0.0
+    },
+    {
+      "from": 247.58,
+      "to": 248.98,
+      "sid": 130,
+      "location": 2,
+      "content": "从最低的56万亿吨",
+      "music": 0.0
+    },
+    {
+      "from": 248.98,
+      "to": 251.74,
+      "sid": 131,
+      "location": 2,
+      "content": "在一年内涨到了最高超过50万亿吨",
+      "music": 0.0
+    },
+    {
+      "from": 251.74,
+      "to": 254.58,
+      "sid": 132,
+      "location": 2,
+      "content": "一时间中国所有的公司好像都在疯狂的找矿",
+      "music": 0.0
+    },
+    {
+      "from": 254.58,
+      "to": 256.02,
+      "sid": 133,
+      "location": 2,
+      "content": "但随着产能逐渐在",
+      "music": 0.0
+    },
+    {
+      "from": 256.02,
+      "to": 257.86,
+      "sid": 134,
+      "location": 2,
+      "content": "2022年和2023年释放",
+      "music": 0.0
+    },
+    {
+      "from": 257.86,
+      "to": 260.18,
+      "sid": 135,
+      "location": 2,
+      "content": "碳酸锂吹出来的价格泡沫破灭了",
+      "music": 0.0
+    },
+    {
+      "from": 260.18,
+      "to": 261.3,
+      "sid": 136,
+      "location": 2,
+      "content": "短短半年的时间",
+      "music": 0.0
+    },
+    {
+      "from": 261.3,
+      "to": 264.3,
+      "sid": 137,
+      "location": 2,
+      "content": "碳酸锂从50万每吨跌到了最低15万每吨",
+      "music": 0.0
+    },
+    {
+      "from": 264.3,
+      "to": 265.16,
+      "sid": 138,
+      "location": 2,
+      "content": "2023年",
+      "music": 0.0
+    },
+    {
+      "from": 265.16,
+      "to": 266.82,
+      "sid": 139,
+      "location": 2,
+      "content": "所有大干快上的金属里",
+      "music": 0.0
+    },
+    {
+      "from": 266.82,
+      "to": 268.08,
+      "sid": 140,
+      "location": 2,
+      "content": "上游公司呢都报亏",
+      "music": 0.0
+    },
+    {
+      "from": 268.08,
+      "to": 268.58,
+      "sid": 141,
+      "location": 2,
+      "content": "砸钱",
+      "music": 0.0
+    },
+    {
+      "from": 268.58,
+      "to": 271.0,
+      "sid": 142,
+      "location": 2,
+      "content": "新建的产业园厂房产线只能停工",
+      "music": 0.0
+    },
+    {
+      "from": 271.0,
+      "to": 272.64,
+      "sid": 143,
+      "location": 2,
+      "content": "那时间来到了2025年",
+      "music": 0.0
+    },
+    {
+      "from": 272.64,
+      "to": 273.64,
+      "sid": 144,
+      "location": 2,
+      "content": "直到7月之前",
+      "music": 0.0
+    },
+    {
+      "from": 273.64,
+      "to": 275.44,
+      "sid": 145,
+      "location": 2,
+      "content": "碳酸锂的价格还在一路下跌",
+      "music": 0.0
+    },
+    {
+      "from": 275.44,
+      "to": 277.56,
+      "sid": 146,
+      "location": 2,
+      "content": "最低呢甚至跌破了6万元每吨",
+      "music": 0.0
+    },
+    {
+      "from": 277.56,
+      "to": 280.38,
+      "sid": 147,
+      "location": 2,
+      "content": "这个价格呢除了成本最低的盐湖提锂之外",
+      "music": 0.0
+    },
+    {
+      "from": 280.38,
+      "to": 282.88,
+      "sid": 148,
+      "location": 2,
+      "content": "用李辉石和李云母提锂的技术路线",
+      "music": 0.0
+    },
+    {
+      "from": 282.88,
+      "to": 284.61,
+      "sid": 149,
+      "location": 2,
+      "content": "都已经陷入了亏损之中",
+      "music": 0.0
+    },
+    {
+      "from": 284.61,
+      "to": 286.97,
+      "sid": 150,
+      "location": 2,
+      "content": "整个行业在2025年的前七个月里",
+      "music": 0.0
+    },
+    {
+      "from": 286.97,
+      "to": 288.49,
+      "sid": 151,
+      "location": 2,
+      "content": "还处于一片死寂之中",
+      "music": 0.0
+    },
+    {
+      "from": 288.49,
+      "to": 291.44,
+      "sid": 152,
+      "location": 2,
+      "content": "但随着7月高层再度吹风行业反内卷",
+      "music": 0.0
+    },
+    {
+      "from": 291.44,
+      "to": 292.68,
+      "sid": 153,
+      "location": 2,
+      "content": "新能源的几个行业呢",
+      "music": 0.0
+    },
+    {
+      "from": 292.68,
+      "to": 294.54,
+      "sid": 154,
+      "location": 2,
+      "content": "作为这波被重点关注的对象",
+      "music": 0.0
+    },
+    {
+      "from": 294.54,
+      "to": 296.92,
+      "sid": 155,
+      "location": 2,
+      "content": "一时间上游材料被迅速的爆炒",
+      "music": 0.0
+    },
+    {
+      "from": 296.92,
+      "to": 297.9,
+      "sid": 156,
+      "location": 2,
+      "content": "三个月的时间",
+      "music": 0.0
+    },
+    {
+      "from": 297.9,
+      "to": 299.88,
+      "sid": 157,
+      "location": 2,
+      "content": "碳酸锂的价格被拉到了8万以上",
+      "music": 0.0
+    },
+    {
+      "from": 299.88,
+      "to": 302.46,
+      "sid": 158,
+      "location": 2,
+      "content": "行业内大部分的公司迅速实现了盈利",
+      "music": 0.0
+    },
+    {
+      "from": 302.46,
+      "to": 304.46,
+      "sid": 159,
+      "location": 2,
+      "content": "但反内卷的这阵风过去之后",
+      "music": 0.0
+    },
+    {
+      "from": 304.46,
+      "to": 306.78,
+      "sid": 160,
+      "location": 2,
+      "content": "市场重新回到供需定价之前",
+      "music": 0.0
+    },
+    {
+      "from": 306.78,
+      "to": 309.86,
+      "sid": 161,
+      "location": 2,
+      "content": "很多被疯炒的品种在实际供大于求的背景之下",
+      "music": 0.0
+    },
+    {
+      "from": 309.86,
+      "to": 311.1,
+      "sid": 162,
+      "location": 2,
+      "content": "已经从哪儿涨上来",
+      "music": 0.0
+    },
+    {
+      "from": 311.1,
+      "to": 312.22,
+      "sid": 163,
+      "location": 2,
+      "content": "就从哪跌回去了",
+      "music": 0.0
+    },
+    {
+      "from": 312.22,
+      "to": 315.18,
+      "sid": 164,
+      "location": 2,
+      "content": "比如光伏行业的多晶硅从3万涨到了6万",
+      "music": 0.0
+    },
+    {
+      "from": 315.18,
+      "to": 316.42,
+      "sid": 165,
+      "location": 2,
+      "content": "最后又跌回了3万",
+      "music": 0.0
+    },
+    {
+      "from": 316.42,
+      "to": 319.8,
+      "sid": 166,
+      "location": 2,
+      "content": "但碳酸锂呢在2025年储能需求爆发式增长",
+      "music": 0.0
+    },
+    {
+      "from": 319.8,
+      "to": 322.48,
+      "sid": 167,
+      "location": 2,
+      "content": "以及高成本矿山产能真实出清的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 322.48,
+      "to": 323.88,
+      "sid": 168,
+      "location": 2,
+      "content": "实现了供需的逆转",
+      "music": 0.0
+    },
+    {
+      "from": 323.88,
+      "to": 326.32,
+      "sid": 169,
+      "location": 2,
+      "content": "并且在2025年四季度和今年开年后",
+      "music": 0.0
+    },
+    {
+      "from": 326.32,
+      "to": 327.54,
+      "sid": 170,
+      "location": 2,
+      "content": "价格加速上涨",
+      "music": 0.0
+    },
+    {
+      "from": 327.54,
+      "to": 329.42,
+      "sid": 171,
+      "location": 2,
+      "content": "目前已经涨到了20万元一吨",
+      "music": 0.0
+    },
+    {
+      "from": 329.42,
+      "to": 332.46,
+      "sid": 172,
+      "location": 2,
+      "content": "这个价格呢对于所有上游公司来说都是暴利",
+      "music": 0.0
+    },
+    {
+      "from": 332.46,
+      "to": 334.9,
+      "sid": 173,
+      "location": 2,
+      "content": "尤其是成本下不到5万美吨的盐湖提锂",
+      "music": 0.0
+    },
+    {
+      "from": 334.9,
+      "to": 337.16,
+      "sid": 174,
+      "location": 2,
+      "content": "每吨碳酸锂呢可以爆赚15万",
+      "music": 0.0
+    },
+    {
+      "from": 337.16,
+      "to": 337.7,
+      "sid": 175,
+      "location": 2,
+      "content": "可以说",
+      "music": 0.0
+    },
+    {
+      "from": 337.7,
+      "to": 339.92,
+      "sid": 176,
+      "location": 2,
+      "content": "能源金属行业在2025年四季度后",
+      "music": 0.0
+    },
+    {
+      "from": 339.92,
+      "to": 341.08,
+      "sid": 177,
+      "location": 2,
+      "content": "实现了一步登天",
+      "music": 0.0
+    },
+    {
+      "from": 343.82,
+      "to": 345.24,
+      "sid": 178,
+      "location": 2,
+      "content": "那看完了两个吃肉行业",
+      "music": 0.0
+    },
+    {
+      "from": 345.24,
+      "to": 346.44,
+      "sid": 179,
+      "location": 2,
+      "content": "相信各位都有点累了",
+      "music": 0.0
+    },
+    {
+      "from": 346.44,
+      "to": 347.64,
+      "sid": 180,
+      "location": 2,
+      "content": "但我们介绍一下今天的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 347.64,
+      "to": 348.96,
+      "sid": 181,
+      "location": 2,
+      "content": "有望大白无线除螨仪",
+      "music": 0.0
+    },
+    {
+      "from": 348.96,
+      "to": 350.4,
+      "sid": 182,
+      "location": 2,
+      "content": "新闻说呢不勤洗床单",
+      "music": 0.0
+    },
+    {
+      "from": 350.4,
+      "to": 352.12,
+      "sid": 183,
+      "location": 2,
+      "content": "等于白天和百万只螨虫一起睡",
+      "music": 0.0
+    },
+    {
+      "from": 352.12,
+      "to": 353.24,
+      "sid": 184,
+      "location": 2,
+      "content": "躺床上总打喷嚏",
+      "music": 0.0
+    },
+    {
+      "from": 353.24,
+      "to": 353.68,
+      "sid": 185,
+      "location": 2,
+      "content": "浑身痒",
+      "music": 0.0
+    },
+    {
+      "from": 353.68,
+      "to": 354.88,
+      "sid": 186,
+      "location": 2,
+      "content": "那可能就是螨虫闹的",
+      "music": 0.0
+    },
+    {
+      "from": 354.88,
+      "to": 355.34,
+      "sid": 187,
+      "location": 2,
+      "content": "太阳晒",
+      "music": 0.0
+    },
+    {
+      "from": 355.34,
+      "to": 358.22,
+      "sid": 188,
+      "location": 2,
+      "content": "螨虫会躲尸体和排泄物产生的致敏蛋白还在",
+      "music": 0.0
+    },
+    {
+      "from": 358.22,
+      "to": 359.42,
+      "sid": 189,
+      "location": 2,
+      "content": "照样让人皮肤过敏",
+      "music": 0.0
+    },
+    {
+      "from": 359.42,
+      "to": 361.46,
+      "sid": 190,
+      "location": 2,
+      "content": "有望大白无限除螨仪呢由team代言",
+      "music": 0.0
+    },
+    {
+      "from": 361.46,
+      "to": 362.54,
+      "sid": 191,
+      "location": 2,
+      "content": "还是行业规模第一",
+      "music": 0.0
+    },
+    {
+      "from": 362.54,
+      "to": 363.56,
+      "sid": 192,
+      "location": 2,
+      "content": "用着确实安心",
+      "music": 0.0
+    },
+    {
+      "from": 363.56,
+      "to": 364.58,
+      "sid": 193,
+      "location": 2,
+      "content": "只需要一分钟",
+      "music": 0.0
+    },
+    {
+      "from": 364.58,
+      "to": 366.52,
+      "sid": 194,
+      "location": 2,
+      "content": "我就从床上吸出来这么多脏东西",
+      "music": 0.0
+    },
+    {
+      "from": 366.52,
+      "to": 368.36,
+      "sid": 195,
+      "location": 2,
+      "content": "它每分钟3万6000次的强力拍打",
+      "music": 0.0
+    },
+    {
+      "from": 368.36,
+      "to": 369.9,
+      "sid": 196,
+      "location": 2,
+      "content": "和1万3500帕的飓风吸力",
+      "music": 0.0
+    },
+    {
+      "from": 369.9,
+      "to": 370.92,
+      "sid": 197,
+      "location": 2,
+      "content": "连虫带软一锅端",
+      "music": 0.0
+    },
+    {
+      "from": 370.92,
+      "to": 373.8,
+      "sid": 198,
+      "location": 2,
+      "content": "紫外线和超声波呢帮你从根源上消除过敏源",
+      "music": 0.0
+    },
+    {
+      "from": 373.8,
+      "to": 375.44,
+      "sid": 199,
+      "location": 2,
+      "content": "像我家养宠物的就更推荐了",
+      "music": 0.0
+    },
+    {
+      "from": 375.44,
+      "to": 377.26,
+      "sid": 200,
+      "location": 2,
+      "content": "它有着处理毛发的静电除毛盖板",
+      "music": 0.0
+    },
+    {
+      "from": 377.26,
+      "to": 379.24,
+      "sid": 201,
+      "location": 2,
+      "content": "植物上的毛发轻轻松松的就能吸附上",
+      "music": 0.0
+    },
+    {
+      "from": 379.24,
+      "to": 380.68,
+      "sid": 202,
+      "location": 2,
+      "content": "而且无线特别轻盈方便",
+      "music": 0.0
+    },
+    {
+      "from": 380.68,
+      "to": 381.4,
+      "sid": 203,
+      "location": 2,
+      "content": "走哪儿吸哪儿",
+      "music": 0.0
+    },
+    {
+      "from": 381.4,
+      "to": 382.98,
+      "sid": 204,
+      "location": 2,
+      "content": "长期使用依旧猛男犀利",
+      "music": 0.0
+    },
+    {
+      "from": 382.98,
+      "to": 384.78,
+      "sid": 205,
+      "location": 2,
+      "content": "也不担心线弄到床上二次污染",
+      "music": 0.0
+    },
+    {
+      "from": 384.78,
+      "to": 386.76,
+      "sid": 206,
+      "location": 2,
+      "content": "这个双尘杯呢能让我们从此告别头发",
+      "music": 0.0
+    },
+    {
+      "from": 386.76,
+      "to": 389.38,
+      "sid": 207,
+      "location": 2,
+      "content": "绕尘杯的角时刻用完呢直接一到轻松省事儿",
+      "music": 0.0
+    },
+    {
+      "from": 389.38,
+      "to": 391.24,
+      "sid": 208,
+      "location": 2,
+      "content": "尤其像是南方英语多养宠家庭",
+      "music": 0.0
+    },
+    {
+      "from": 391.24,
+      "to": 393.34,
+      "sid": 209,
+      "location": 2,
+      "content": "皮肤敏感或者没地方晒被子的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 393.34,
+      "to": 395.64,
+      "sid": 210,
+      "location": 2,
+      "content": "5分钟搞定一个清新又干净的睡眠环境",
+      "music": 0.0
+    },
+    {
+      "from": 395.64,
+      "to": 397.1,
+      "sid": 211,
+      "location": 2,
+      "content": "售后靠谱呢自然不用多说",
+      "music": 0.0
+    },
+    {
+      "from": 397.1,
+      "to": 398.82,
+      "sid": 212,
+      "location": 2,
+      "content": "感兴趣的可以报CLS更优惠",
+      "music": 0.0
+    },
+    {
+      "from": 398.82,
+      "to": 399.92,
+      "sid": 213,
+      "location": 2,
+      "content": "吃肉行业第三名",
+      "music": 0.0
+    },
+    {
+      "from": 399.92,
+      "to": 400.97,
+      "sid": 214,
+      "location": 2,
+      "content": "航海装备",
+      "music": 0.0
+    },
+    {
+      "from": 400.97,
+      "to": 401.99,
+      "sid": 215,
+      "location": 2,
+      "content": "2024年呢",
+      "music": 0.0
+    },
+    {
+      "from": 401.99,
+      "to": 404.49,
+      "sid": 216,
+      "location": 2,
+      "content": "航海装备行业就获得了120%",
+      "music": 0.0
+    },
+    {
+      "from": 404.49,
+      "to": 405.81,
+      "sid": 217,
+      "location": 2,
+      "content": "5.59的利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 407.29,
+      "to": 409.46,
+      "sid": 218,
+      "location": 2,
+      "content": "来到了166.85%",
+      "music": 0.0
+    },
+    {
+      "from": 409.46,
+      "to": 411.66,
+      "sid": 219,
+      "location": 2,
+      "content": "而今年一季度更是直接暴涨",
+      "music": 0.0
+    },
+    {
+      "from": 411.66,
+      "to": 413.55,
+      "sid": 220,
+      "location": 2,
+      "content": "358.82%",
+      "music": 0.0
+    },
+    {
+      "from": 413.55,
+      "to": 414.79,
+      "sid": 221,
+      "location": 2,
+      "content": "成为了近几年来",
+      "music": 0.0
+    },
+    {
+      "from": 414.79,
+      "to": 417.15,
+      "sid": 222,
+      "location": 2,
+      "content": "为数不多能持续增收增利的行业",
+      "music": 0.0
+    },
+    {
+      "from": 417.15,
+      "to": 418.95,
+      "sid": 223,
+      "location": 2,
+      "content": "我国的传播行业在近两年",
+      "music": 0.0
+    },
+    {
+      "from": 418.95,
+      "to": 420.75,
+      "sid": 224,
+      "location": 2,
+      "content": "可以说是吃到了双重红利",
+      "music": 0.0
+    },
+    {
+      "from": 420.75,
+      "to": 424.13,
+      "sid": 225,
+      "location": 2,
+      "content": "低重红利呢就是全球航运市场的更新周期到来",
+      "music": 0.0
+    },
+    {
+      "from": 424.13,
+      "to": 426.62,
+      "sid": 226,
+      "location": 2,
+      "content": "受传联老化和环保法规的要求",
+      "music": 0.0
+    },
+    {
+      "from": 426.62,
+      "to": 429.3,
+      "sid": 227,
+      "location": 2,
+      "content": "大部分船舶的设计寿命约为25年",
+      "music": 0.0
+    },
+    {
+      "from": 429.3,
+      "to": 430.86,
+      "sid": 228,
+      "location": 2,
+      "content": "运营满20年左右呢",
+      "music": 0.0
+    },
+    {
+      "from": 430.86,
+      "to": 432.3,
+      "sid": 229,
+      "location": 2,
+      "content": "就要面临更替的需求",
+      "music": 0.0
+    },
+    {
+      "from": 432.3,
+      "to": 433.82,
+      "sid": 230,
+      "location": 2,
+      "content": "而上一轮造船高峰期",
+      "music": 0.0
+    },
+    {
+      "from": 433.82,
+      "to": 435.95,
+      "sid": 231,
+      "location": 2,
+      "content": "在2023年到2013年",
+      "music": 0.0
+    },
+    {
+      "from": 435.95,
+      "to": 438.83,
+      "sid": 232,
+      "location": 2,
+      "content": "所以新一轮的换船高峰就在2023年左右",
+      "music": 0.0
+    },
+    {
+      "from": 438.83,
+      "to": 439.71,
+      "sid": 233,
+      "location": 2,
+      "content": "拉开了帷幕",
+      "music": 0.0
+    },
+    {
+      "from": 439.71,
+      "to": 442.17,
+      "sid": 234,
+      "location": 2,
+      "content": "并且需求呢可能从2023年开始",
+      "music": 0.0
+    },
+    {
+      "from": 442.17,
+      "to": 444.72,
+      "sid": 235,
+      "location": 2,
+      "content": "在未来10年里都保持高速增长",
+      "music": 0.0
+    },
+    {
+      "from": 444.72,
+      "to": 446.8,
+      "sid": 236,
+      "location": 2,
+      "content": "这给我国船舶行业的快速增长",
+      "music": 0.0
+    },
+    {
+      "from": 446.8,
+      "to": 448.12,
+      "sid": 237,
+      "location": 2,
+      "content": "注入了核心驱动力",
+      "music": 0.0
+    },
+    {
+      "from": 448.12,
+      "to": 450.3,
+      "sid": 238,
+      "location": 2,
+      "content": "那第二重红利就是国际海事组织",
+      "music": 0.0
+    },
+    {
+      "from": 450.3,
+      "to": 451.22,
+      "sid": 239,
+      "location": 2,
+      "content": "碳排放新规",
+      "music": 0.0
+    },
+    {
+      "from": 451.22,
+      "to": 453.9,
+      "sid": 240,
+      "location": 2,
+      "content": "将在2027年到2028年逐渐生效",
+      "music": 0.0
+    },
+    {
+      "from": 453.9,
+      "to": 456.24,
+      "sid": 241,
+      "location": 2,
+      "content": "航运行业因为大量消耗化石燃料",
+      "music": 0.0
+    },
+    {
+      "from": 456.24,
+      "to": 457.68,
+      "sid": 242,
+      "location": 2,
+      "content": "整个行业的碳排放量",
+      "music": 0.0
+    },
+    {
+      "from": 457.68,
+      "to": 460.02,
+      "sid": 243,
+      "location": 2,
+      "content": "直接占到了全球碳排放的3%",
+      "music": 0.0
+    },
+    {
+      "from": 460.02,
+      "to": 463.4,
+      "sid": 244,
+      "location": 2,
+      "content": "目前一艘大型原船舶的年二氧化碳排放量",
+      "music": 0.0
+    },
+    {
+      "from": 463.4,
+      "to": 466.32,
+      "sid": 245,
+      "location": 2,
+      "content": "相当于1.5万辆家用汽车一年的排放量",
+      "music": 0.0
+    },
+    {
+      "from": 466.32,
+      "to": 468.06,
+      "sid": 246,
+      "location": 2,
+      "content": "如果将航运业当成一个国家",
+      "music": 0.0
+    },
+    {
+      "from": 468.06,
+      "to": 470.6,
+      "sid": 247,
+      "location": 2,
+      "content": "它将是全球第六大温室气体排放国",
+      "music": 0.0
+    },
+    {
+      "from": 470.6,
+      "to": 472.46,
+      "sid": 248,
+      "location": 2,
+      "content": "所以为了给航运行业减碳",
+      "music": 0.0
+    },
+    {
+      "from": 472.46,
+      "to": 474.52,
+      "sid": 249,
+      "location": 2,
+      "content": "从2028年后逐渐会提高",
+      "music": 0.0
+    },
+    {
+      "from": 474.52,
+      "to": 476.88,
+      "sid": 250,
+      "location": 2,
+      "content": "对船舶每吨二氧化碳当量的收费",
+      "music": 0.0
+    },
+    {
+      "from": 476.88,
+      "to": 479.88,
+      "sid": 251,
+      "location": 2,
+      "content": "这直接加剧了船东们尽快切换到LNG",
+      "music": 0.0
+    },
+    {
+      "from": 479.88,
+      "to": 482.12,
+      "sid": 252,
+      "location": 2,
+      "content": "甲醇动力等新能源传播的需求",
+      "music": 0.0
+    },
+    {
+      "from": 482.12,
+      "to": 484.66,
+      "sid": 253,
+      "location": 2,
+      "content": "而我国的造船行业呢在2018年前后",
+      "music": 0.0
+    },
+    {
+      "from": 484.66,
+      "to": 486.98,
+      "sid": 254,
+      "location": 2,
+      "content": "凭借高端常用钢材的全面国产化",
+      "music": 0.0
+    },
+    {
+      "from": 486.98,
+      "to": 488.58,
+      "sid": 255,
+      "location": 2,
+      "content": "成功实现了船舶制造中",
+      "music": 0.0
+    },
+    {
+      "from": 488.58,
+      "to": 490.96,
+      "sid": 256,
+      "location": 2,
+      "content": "占比高达25%到30%",
+      "music": 0.0
+    },
+    {
+      "from": 490.96,
+      "to": 493.06,
+      "sid": 257,
+      "location": 2,
+      "content": "也是最大成本端的钢板的降本",
+      "music": 0.0
+    },
+    {
+      "from": 493.06,
+      "to": 495.98,
+      "sid": 258,
+      "location": 2,
+      "content": "比之前全球这个领域里最强的日本和韩国",
+      "music": 0.0
+    },
+    {
+      "from": 495.98,
+      "to": 497.44,
+      "sid": 259,
+      "location": 2,
+      "content": "价格能低10%左右",
+      "music": 0.0
+    },
+    {
+      "from": 497.44,
+      "to": 500.26,
+      "sid": 260,
+      "location": 2,
+      "content": "最终呢在2020年前后实现了全面超越",
+      "music": 0.0
+    },
+    {
+      "from": 500.26,
+      "to": 502.409,
+      "sid": 261,
+      "location": 2,
+      "content": "韩国成为了全球造船的一个",
+      "music": 0.0
+    },
+    {
+      "from": 502.409,
+      "to": 503.089,
+      "sid": 262,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 503.089,
+      "to": 505.99,
+      "sid": 263,
+      "location": 2,
+      "content": "我国传奇手持的订单呢再创历史新高",
+      "music": 0.0
+    },
+    {
+      "from": 505.99,
+      "to": 508.53,
+      "sid": 264,
+      "location": 2,
+      "content": "全球市场的份额呢占到了接近七成",
+      "music": 0.0
+    },
+    {
+      "from": 508.53,
+      "to": 510.91,
+      "sid": 265,
+      "location": 2,
+      "content": "而韩国呢已经下降到了20%",
+      "music": 0.0
+    },
+    {
+      "from": 510.91,
+      "to": 512.72,
+      "sid": 266,
+      "location": 2,
+      "content": "日本更是跌到了个位数",
+      "music": 0.0
+    },
+    {
+      "from": 512.72,
+      "to": 515.74,
+      "sid": 267,
+      "location": 2,
+      "content": "所以我国的造船以及其上下游的各类企业",
+      "music": 0.0
+    },
+    {
+      "from": 515.74,
+      "to": 518.419,
+      "sid": 268,
+      "location": 2,
+      "content": "凭借自身持续多年以来不断的技术进步",
+      "music": 0.0
+    },
+    {
+      "from": 518.419,
+      "to": 521.179,
+      "sid": 269,
+      "location": 2,
+      "content": "在碰上了全球造船周期和环保禁令",
+      "music": 0.0
+    },
+    {
+      "from": 521.179,
+      "to": 522.299,
+      "sid": 270,
+      "location": 2,
+      "content": "双重Buff之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 522.299,
+      "to": 524.34,
+      "sid": 271,
+      "location": 2,
+      "content": "最终实现了整个行业的大口吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 524.34,
+      "to": 525.62,
+      "sid": 272,
+      "location": 2,
+      "content": "而且可以预见的是呢",
+      "music": 0.0
+    },
+    {
+      "from": 525.62,
+      "to": 527.74,
+      "sid": 273,
+      "location": 2,
+      "content": "全球船舶更新还会持续多年",
+      "music": 0.0
+    },
+    {
+      "from": 527.74,
+      "to": 530.64,
+      "sid": 274,
+      "location": 2,
+      "content": "对于我国航海装备的红利还会持续释放",
+      "music": 0.0
+    },
+    {
+      "from": 530.64,
+      "to": 533.72,
+      "sid": 275,
+      "location": 2,
+      "content": "我国的造船行业跟去年我们讲到的摩托车一样",
+      "music": 0.0
+    },
+    {
+      "from": 533.72,
+      "to": 535.96,
+      "sid": 276,
+      "location": 2,
+      "content": "其实都已经在没有太多人注意的角落",
+      "music": 0.0
+    },
+    {
+      "from": 535.96,
+      "to": 538.13,
+      "sid": 277,
+      "location": 2,
+      "content": "实现了出海的成功吃肉行业",
+      "music": 0.0
+    },
+    {
+      "from": 538.13,
+      "to": 538.59,
+      "sid": 278,
+      "location": 2,
+      "content": "第二名",
+      "music": 0.0
+    },
+    {
+      "from": 538.59,
+      "to": 539.569,
+      "sid": 279,
+      "location": 2,
+      "content": "有色金属",
+      "music": 0.0
+    },
+    {
+      "from": 539.569,
+      "to": 542.489,
+      "sid": 280,
+      "location": 2,
+      "content": "贵金属行业呢已经在2023年和2024年",
+      "music": 0.0
+    },
+    {
+      "from": 544.429,
+      "to": 546.92,
+      "sid": 281,
+      "location": 2,
+      "content": "而随着各类金属在去年的全面涨价",
+      "music": 0.0
+    },
+    {
+      "from": 546.92,
+      "to": 550.16,
+      "sid": 282,
+      "location": 2,
+      "content": "金属行业里吃肉的范围呢已经从前两年的黄金",
+      "music": 0.0
+    },
+    {
+      "from": 550.16,
+      "to": 551.18,
+      "sid": 283,
+      "location": 2,
+      "content": "在去年到今年",
+      "music": 0.0
+    },
+    {
+      "from": 551.18,
+      "to": 554.16,
+      "sid": 284,
+      "location": 2,
+      "content": "全面扩散到了各类工业金属和小金属行业",
+      "music": 0.0
+    },
+    {
+      "from": 554.16,
+      "to": 556.74,
+      "sid": 285,
+      "location": 2,
+      "content": "也让上游的开采公司们赚得盆满钵满",
+      "music": 0.0
+    },
+    {
+      "from": 556.74,
+      "to": 557.56,
+      "sid": 286,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 557.56,
+      "to": 560.32,
+      "sid": 287,
+      "location": 2,
+      "content": "贵金属行业利润增速58.25%",
+      "music": 0.0
+    },
+    {
+      "from": 560.32,
+      "to": 562.54,
+      "sid": 288,
+      "location": 2,
+      "content": "工业金属47.82%",
+      "music": 0.0
+    },
+    {
+      "from": 562.54,
+      "to": 564.52,
+      "sid": 289,
+      "location": 2,
+      "content": "小金属30.52%",
+      "music": 0.0
+    },
+    {
+      "from": 564.52,
+      "to": 566.44,
+      "sid": 290,
+      "location": 2,
+      "content": "今年一季度增速还在加速",
+      "music": 0.0
+    },
+    {
+      "from": 566.44,
+      "to": 568.88,
+      "sid": 291,
+      "location": 2,
+      "content": "贵金属行业109.39%",
+      "music": 0.0
+    },
+    {
+      "from": 568.88,
+      "to": 571.04,
+      "sid": 292,
+      "location": 2,
+      "content": "工业金属102.81%",
+      "music": 0.0
+    },
+    {
+      "from": 571.04,
+      "to": 572.8,
+      "sid": 293,
+      "location": 2,
+      "content": "小金属99.9%",
+      "music": 0.0
+    },
+    {
+      "from": 572.8,
+      "to": 575.86,
+      "sid": 294,
+      "location": 2,
+      "content": "黄金的这波牛市自从2022年底开启后",
+      "music": 0.0
+    },
+    {
+      "from": 575.86,
+      "to": 577.4,
+      "sid": 295,
+      "location": 2,
+      "content": "到今年一季度最高点呢",
+      "music": 0.0
+    },
+    {
+      "from": 577.4,
+      "to": 579.099,
+      "sid": 296,
+      "location": 2,
+      "content": "已经上涨了2.5倍左右",
+      "music": 0.0
+    },
+    {
+      "from": 579.099,
+      "to": 581.199,
+      "sid": 297,
+      "location": 2,
+      "content": "如果说2023年到2024年",
+      "music": 0.0
+    },
+    {
+      "from": 581.199,
+      "to": 582.539,
+      "sid": 298,
+      "location": 2,
+      "content": "全球进入降息周期",
+      "music": 0.0
+    },
+    {
+      "from": 582.539,
+      "to": 584.38,
+      "sid": 299,
+      "location": 2,
+      "content": "是黄金上涨的点火期的话",
+      "music": 0.0
+    },
+    {
+      "from": 584.38,
+      "to": 586.32,
+      "sid": 300,
+      "location": 2,
+      "content": "那2025年特朗普上台后",
+      "music": 0.0
+    },
+    {
+      "from": 586.32,
+      "to": 589.2,
+      "sid": 301,
+      "location": 2,
+      "content": "加速的全球分裂和去美元化就是助燃剂",
+      "music": 0.0
+    },
+    {
+      "from": 589.2,
+      "to": 591.4,
+      "sid": 302,
+      "location": 2,
+      "content": "在黄金的比价效应之下之前",
+      "music": 0.0
+    },
+    {
+      "from": 591.4,
+      "to": 592.92,
+      "sid": 303,
+      "location": 2,
+      "content": "价格在低位的各类贵金属",
+      "music": 0.0
+    },
+    {
+      "from": 592.92,
+      "to": 593.7,
+      "sid": 304,
+      "location": 2,
+      "content": "比如白银",
+      "music": 0.0
+    },
+    {
+      "from": 593.7,
+      "to": 594.16,
+      "sid": 305,
+      "location": 2,
+      "content": "铂金",
+      "music": 0.0
+    },
+    {
+      "from": 594.16,
+      "to": 596.45,
+      "sid": 306,
+      "location": 2,
+      "content": "靶金在去年被市场集中炒作",
+      "music": 0.0
+    },
+    {
+      "from": 596.45,
+      "to": 598.77,
+      "sid": 307,
+      "location": 2,
+      "content": "黄金用了3年才涨了2.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 598.77,
+      "to": 600.93,
+      "sid": 308,
+      "location": 2,
+      "content": "白银呢只用一年就涨了3.5倍",
+      "music": 0.0
+    },
+    {
+      "from": 600.93,
+      "to": 602.39,
+      "sid": 309,
+      "location": 2,
+      "content": "但随着白银开始疯涨",
+      "music": 0.0
+    },
+    {
+      "from": 602.39,
+      "to": 604.34,
+      "sid": 310,
+      "location": 2,
+      "content": "叠加上AI对金属的需求增加",
+      "music": 0.0
+    },
+    {
+      "from": 604.34,
+      "to": 606.76,
+      "sid": 311,
+      "location": 2,
+      "content": "以及美国开始对关键金属进行控制",
+      "music": 0.0
+    },
+    {
+      "from": 606.76,
+      "to": 609.78,
+      "sid": 312,
+      "location": 2,
+      "content": "去年下半年的资金开始疯狂涌入各类有色金属",
+      "music": 0.0
+    },
+    {
+      "from": 609.78,
+      "to": 610.44,
+      "sid": 313,
+      "location": 2,
+      "content": "工业领域",
+      "music": 0.0
+    },
+    {
+      "from": 610.44,
+      "to": 612.41,
+      "sid": 314,
+      "location": 2,
+      "content": "主要的金属铜上涨了5%",
+      "music": 0.0
+    },
+    {
+      "from": 612.41,
+      "to": 613.93,
+      "sid": 315,
+      "location": 2,
+      "content": "屡上涨了15%",
+      "music": 0.0
+    },
+    {
+      "from": 613.93,
+      "to": 615.85,
+      "sid": 316,
+      "location": 2,
+      "content": "很多应用不广泛的小金属呢",
+      "music": 0.0
+    },
+    {
+      "from": 615.85,
+      "to": 618.31,
+      "sid": 317,
+      "location": 2,
+      "content": "也普遍达到了30%以上的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 618.31,
+      "to": 619.61,
+      "sid": 318,
+      "location": 2,
+      "content": "在这种普涨之下",
+      "music": 0.0
+    },
+    {
+      "from": 619.61,
+      "to": 621.76,
+      "sid": 319,
+      "location": 2,
+      "content": "金属上游公司的业绩全面开花",
+      "music": 0.0
+    },
+    {
+      "from": 621.76,
+      "to": 622.72,
+      "sid": 320,
+      "location": 2,
+      "content": "2025年呢",
+      "music": 0.0
+    },
+    {
+      "from": 622.72,
+      "to": 624.36,
+      "sid": 321,
+      "location": 2,
+      "content": "普遍都拿到了50%",
+      "music": 0.0
+    },
+    {
+      "from": 624.36,
+      "to": 625.84,
+      "sid": 322,
+      "location": 2,
+      "content": "到百分之百的利润增长",
+      "music": 0.0
+    },
+    {
+      "from": 625.84,
+      "to": 627.54,
+      "sid": 323,
+      "location": 2,
+      "content": "这都不能算是偷偷吃肉了",
+      "music": 0.0
+    },
+    {
+      "from": 627.54,
+      "to": 630.63,
+      "sid": 324,
+      "location": 2,
+      "content": "可以说是在明目张胆地躺着赚钱吃肉",
+      "music": 0.0
+    },
+    {
+      "from": 630.63,
+      "to": 631.35,
+      "sid": 325,
+      "location": 2,
+      "content": "行业第一名",
+      "music": 0.0
+    },
+    {
+      "from": 631.35,
+      "to": 632.33,
+      "sid": 326,
+      "location": 2,
+      "content": "AI产业链",
+      "music": 0.0
+    },
+    {
+      "from": 632.33,
+      "to": 633.11,
+      "sid": 327,
+      "location": 2,
+      "content": "去年初呢",
+      "music": 0.0
+    },
+    {
+      "from": 633.11,
+      "to": 634.57,
+      "sid": 328,
+      "location": 2,
+      "content": "随着deep sick横空出世",
+      "music": 0.0
+    },
+    {
+      "from": 634.57,
+      "to": 638.04,
+      "sid": 329,
+      "location": 2,
+      "content": "国内的各类AI大模型呢进入了百家争鸣的时代",
+      "music": 0.0
+    },
+    {
+      "from": 638.04,
+      "to": 640.72,
+      "sid": 330,
+      "location": 2,
+      "content": "叠加上AI应用呢在短短两年多的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 640.72,
+      "to": 643.28,
+      "sid": 331,
+      "location": 2,
+      "content": "已经从单一的对话生成扩展到了医疗",
+      "music": 0.0
+    },
+    {
+      "from": 643.28,
+      "to": 643.76,
+      "sid": 332,
+      "location": 2,
+      "content": "金融",
+      "music": 0.0
+    },
+    {
+      "from": 643.76,
+      "to": 644.38,
+      "sid": 333,
+      "location": 2,
+      "content": "制造营",
+      "music": 0.0
+    },
+    {
+      "from": 644.38,
+      "to": 645.22,
+      "sid": 334,
+      "location": 2,
+      "content": "影视互联网",
+      "music": 0.0
+    },
+    {
+      "from": 645.22,
+      "to": 647.08,
+      "sid": 335,
+      "location": 2,
+      "content": "智能体等多个垂直领域",
+      "music": 0.0
+    },
+    {
+      "from": 647.08,
+      "to": 649.2,
+      "sid": 336,
+      "location": 2,
+      "content": "带动了算力需求的爆发式增长",
+      "music": 0.0
+    },
+    {
+      "from": 649.2,
+      "to": 650.3,
+      "sid": 337,
+      "location": 2,
+      "content": "根据行业数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 650.3,
+      "to": 651.52,
+      "sid": 338,
+      "location": 2,
+      "content": "截止到今年一季度",
+      "music": 0.0
+    },
+    {
+      "from": 651.52,
+      "to": 653.6,
+      "sid": 339,
+      "location": 2,
+      "content": "中国的AI token日均调用量呢",
+      "music": 0.0
+    },
+    {
+      "from": 653.6,
+      "to": 655.26,
+      "sid": 340,
+      "location": 2,
+      "content": "已经来到了140万亿",
+      "music": 0.0
+    },
+    {
+      "from": 655.26,
+      "to": 658.08,
+      "sid": 341,
+      "location": 2,
+      "content": "这个数呢在2024年才只有100亿左右",
+      "music": 0.0
+    },
+    {
+      "from": 658.08,
+      "to": 660.14,
+      "sid": 342,
+      "location": 2,
+      "content": "两年多的时间增长了1000倍",
+      "music": 0.0
+    },
+    {
+      "from": 660.14,
+      "to": 662.32,
+      "sid": 343,
+      "location": 2,
+      "content": "在全球急需算力的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 662.32,
+      "to": 663.92,
+      "sid": 344,
+      "location": 2,
+      "content": "2025年到2026年",
+      "music": 0.0
+    },
+    {
+      "from": 663.92,
+      "to": 666.48,
+      "sid": 345,
+      "location": 2,
+      "content": "各大科技公司对于AI基础建设的投资",
+      "music": 0.0
+    },
+    {
+      "from": 666.48,
+      "to": 667.5,
+      "sid": 346,
+      "location": 2,
+      "content": "翻倍式的增长",
+      "music": 0.0
+    },
+    {
+      "from": 667.5,
+      "to": 670.16,
+      "sid": 347,
+      "location": 2,
+      "content": "人们对算力的需求是在呈指数倍的增长",
+      "music": 0.0
+    },
+    {
+      "from": 670.16,
+      "to": 672.74,
+      "sid": 348,
+      "location": 2,
+      "content": "但算力中心的建设供给却受到芯片",
+      "music": 0.0
+    },
+    {
+      "from": 672.74,
+      "to": 675.4,
+      "sid": 349,
+      "location": 2,
+      "content": "存储产能以及电力等一系列因素的制约",
+      "music": 0.0
+    },
+    {
+      "from": 675.4,
+      "to": 677.92,
+      "sid": 350,
+      "location": 2,
+      "content": "无法跟上源源不断增长的算力需求",
+      "music": 0.0
+    },
+    {
+      "from": 677.92,
+      "to": 681.06,
+      "sid": 351,
+      "location": 2,
+      "content": "随之而来的就是AI供应端扩张的严重滞后",
+      "music": 0.0
+    },
+    {
+      "from": 681.06,
+      "to": 683.26,
+      "sid": 352,
+      "location": 2,
+      "content": "导致了AI全链条的供需失衡",
+      "music": 0.0
+    },
+    {
+      "from": 683.26,
+      "to": 685.42,
+      "sid": 353,
+      "location": 2,
+      "content": "而科技公司们为了抢占先机",
+      "music": 0.0
+    },
+    {
+      "from": 685.42,
+      "to": 686.18,
+      "sid": 354,
+      "location": 2,
+      "content": "争夺算力",
+      "music": 0.0
+    },
+    {
+      "from": 686.18,
+      "to": 687.9,
+      "sid": 355,
+      "location": 2,
+      "content": "不惜砸重金抢产能",
+      "music": 0.0
+    },
+    {
+      "from": 687.9,
+      "to": 688.96,
+      "sid": 356,
+      "location": 2,
+      "content": "GPU芯片",
+      "music": 0.0
+    },
+    {
+      "from": 688.96,
+      "to": 691.08,
+      "sid": 357,
+      "location": 2,
+      "content": "存储等中游产品全球缺货",
+      "music": 0.0
+    },
+    {
+      "from": 691.08,
+      "to": 692.2,
+      "sid": 358,
+      "location": 2,
+      "content": "而设备上的扩展",
+      "music": 0.0
+    },
+    {
+      "from": 692.2,
+      "to": 695.26,
+      "sid": 359,
+      "location": 2,
+      "content": "也让再上游的制造设备与材料的订单暴增",
+      "music": 0.0
+    },
+    {
+      "from": 695.26,
+      "to": 697.56,
+      "sid": 360,
+      "location": 2,
+      "content": "最终让AI相关的上下游产业链",
+      "music": 0.0
+    },
+    {
+      "from": 697.56,
+      "to": 700.15,
+      "sid": 361,
+      "location": 2,
+      "content": "在2025年后利润爆炸式的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 700.15,
+      "to": 701.03,
+      "sid": 362,
+      "location": 2,
+      "content": "半导体行业",
+      "music": 0.0
+    },
+    {
+      "from": 701.03,
+      "to": 703.579,
+      "sid": 363,
+      "location": 2,
+      "content": "2025年利润增速36.63%",
+      "music": 0.0
+    },
+    {
+      "from": 703.579,
+      "to": 706.579,
+      "sid": 364,
+      "location": 2,
+      "content": "今年一季度直接飙到了201.4%",
+      "music": 0.0
+    },
+    {
+      "from": 706.579,
+      "to": 706.819,
+      "sid": 365,
+      "location": 2,
+      "content": "二",
+      "music": 0.0
+    },
+    {
+      "from": 706.819,
+      "to": 707.739,
+      "sid": 366,
+      "location": 2,
+      "content": "电子元件行业",
+      "music": 0.0
+    },
+    {
+      "from": 707.739,
+      "to": 710.0,
+      "sid": 367,
+      "location": 2,
+      "content": "2025年增长了55.8%",
+      "music": 0.0
+    },
+    {
+      "from": 710.0,
+      "to": 712.32,
+      "sid": 368,
+      "location": 2,
+      "content": "一季度继续增长42.8%",
+      "music": 0.0
+    },
+    {
+      "from": 712.32,
+      "to": 713.16,
+      "sid": 369,
+      "location": 2,
+      "content": "通信设备呢",
+      "music": 0.0
+    },
+    {
+      "from": 713.16,
+      "to": 715.2,
+      "sid": 370,
+      "location": 2,
+      "content": "2025年利润增长了49.5%",
+      "music": 0.0
+    },
+    {
+      "from": 715.2,
+      "to": 715.52,
+      "sid": 371,
+      "location": 2,
+      "content": "四",
+      "music": 0.0
+    },
+    {
+      "from": 715.52,
+      "to": 717.84,
+      "sid": 372,
+      "location": 2,
+      "content": "一季度提速到了61.07%",
+      "music": 0.0
+    },
+    {
+      "from": 717.84,
+      "to": 718.94,
+      "sid": 373,
+      "location": 2,
+      "content": "而我国的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 718.94,
+      "to": 721.91,
+      "sid": 374,
+      "location": 2,
+      "content": "通信等行业在多年的国产替代的战略之下",
+      "music": 0.0
+    },
+    {
+      "from": 721.91,
+      "to": 723.23,
+      "sid": 375,
+      "location": 2,
+      "content": "很多中低端产品呢",
+      "music": 0.0
+    },
+    {
+      "from": 723.23,
+      "to": 725.15,
+      "sid": 376,
+      "location": 2,
+      "content": "已经基本实现了全面的国产化",
+      "music": 0.0
+    },
+    {
+      "from": 725.15,
+      "to": 728.3,
+      "sid": 377,
+      "location": 2,
+      "content": "在近两年里呢又碰上了AI算力的军备竞赛红利",
+      "music": 0.0
+    },
+    {
+      "from": 728.3,
+      "to": 730.64,
+      "sid": 378,
+      "location": 2,
+      "content": "直接让相关行业吃肉吃得满嘴流油",
+      "music": 0.0
+    },
+    {
+      "from": 730.64,
+      "to": 732.14,
+      "sid": 379,
+      "location": 2,
+      "content": "也成为了我国出口端",
+      "music": 0.0
+    },
+    {
+      "from": 732.14,
+      "to": 734.7,
+      "sid": 380,
+      "location": 2,
+      "content": "目前保持高速增长的最重要拉动项",
+      "music": 0.0
+    },
+    {
+      "from": 734.7,
+      "to": 736.34,
+      "sid": 381,
+      "location": 2,
+      "content": "今年A股上涨的板块呢",
+      "music": 0.0
+    },
+    {
+      "from": 736.34,
+      "to": 738.02,
+      "sid": 382,
+      "location": 2,
+      "content": "也几乎都集中在了这些行业",
+      "music": 0.0
+    },
+    {
+      "from": 738.02,
+      "to": 740.74,
+      "sid": 383,
+      "location": 2,
+      "content": "而且资金的拥挤度呢已经来到了历史极值",
+      "music": 0.0
+    },
+    {
+      "from": 740.74,
+      "to": 742.78,
+      "sid": 384,
+      "location": 2,
+      "content": "但从实际对接客户端的下游",
+      "music": 0.0
+    },
+    {
+      "from": 742.78,
+      "to": 743.96,
+      "sid": 385,
+      "location": 2,
+      "content": "各类应用公司来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 743.96,
+      "to": 746.46,
+      "sid": 386,
+      "location": 2,
+      "content": "目前能实现稳定盈利的还极为稀少",
+      "music": 0.0
+    },
+    {
+      "from": 746.46,
+      "to": 749.8,
+      "sid": 387,
+      "location": 2,
+      "content": "所谓的AI泡沫论主要也是围绕这一点进行唱空",
+      "music": 0.0
+    },
+    {
+      "from": 749.8,
+      "to": 752.24,
+      "sid": 388,
+      "location": 2,
+      "content": "那至于这个泡沫会不会最终被戳破",
+      "music": 0.0
+    },
+    {
+      "from": 752.24,
+      "to": 755.18,
+      "sid": 389,
+      "location": 2,
+      "content": "亦或者最终能够实现高投资持续飞在空中",
+      "music": 0.0
+    },
+    {
+      "from": 755.18,
+      "to": 757.62,
+      "sid": 390,
+      "location": 2,
+      "content": "而下游收入逐渐抬升式的软着陆",
+      "music": 0.0
+    },
+    {
+      "from": 757.62,
+      "to": 758.66,
+      "sid": 391,
+      "location": 2,
+      "content": "谁都说不好",
+      "music": 0.0
+    },
+    {
+      "from": 758.66,
+      "to": 759.74,
+      "sid": 392,
+      "location": 2,
+      "content": "但不管怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 759.74,
+      "to": 763.339,
+      "sid": 393,
+      "location": 2,
+      "content": "目前产业链上的各家公司钱是真正的赚到手了",
+      "music": 0.0
+    },
+    {
+      "from": 766.039,
+      "to": 768.519,
+      "sid": 394,
+      "location": 2,
+      "content": "我国行业盈利分化的更加剧烈了",
+      "music": 0.0
+    },
+    {
+      "from": 768.519,
+      "to": 770.31,
+      "sid": 395,
+      "location": 2,
+      "content": "盈利主要围绕四个主题",
+      "music": 0.0
+    },
+    {
+      "from": 770.31,
+      "to": 771.97,
+      "sid": 396,
+      "location": 2,
+      "content": "一个是全球AI大潮",
+      "music": 0.0
+    },
+    {
+      "from": 771.97,
+      "to": 774.69,
+      "sid": 397,
+      "location": 2,
+      "content": "以及中美科技博弈之下的高端制造行业",
+      "music": 0.0
+    },
+    {
+      "from": 778.19,
+      "to": 779.56,
+      "sid": 398,
+      "location": 2,
+      "content": "矿产等关键资源",
+      "music": 0.0
+    },
+    {
+      "from": 779.56,
+      "to": 782.68,
+      "sid": 399,
+      "location": 2,
+      "content": "三呢则是围绕安全的国防军工相关产业",
+      "music": 0.0
+    },
+    {
+      "from": 782.68,
+      "to": 785.02,
+      "sid": 400,
+      "location": 2,
+      "content": "最后则是出海获得一定成功的行业",
+      "music": 0.0
+    },
+    {
+      "from": 785.02,
+      "to": 786.72,
+      "sid": 401,
+      "location": 2,
+      "content": "比如我们去年提到的摩托车",
+      "music": 0.0
+    },
+    {
+      "from": 786.72,
+      "to": 788.68,
+      "sid": 402,
+      "location": 2,
+      "content": "今年入榜的航海装备等等",
+      "music": 0.0
+    },
+    {
+      "from": 788.68,
+      "to": 790.84,
+      "sid": 403,
+      "location": 2,
+      "content": "但随着过去几年全球经济的增长",
+      "music": 0.0
+    },
+    {
+      "from": 790.84,
+      "to": 792.32,
+      "sid": 404,
+      "location": 2,
+      "content": "主线从全球化提升",
+      "music": 0.0
+    },
+    {
+      "from": 792.32,
+      "to": 794.92,
+      "sid": 405,
+      "location": 2,
+      "content": "全球整体的生产率被美国的再工业化",
+      "music": 0.0
+    },
+    {
+      "from": 794.92,
+      "to": 796.93,
+      "sid": 406,
+      "location": 2,
+      "content": "以及中美科技角逐所取代",
+      "music": 0.0
+    },
+    {
+      "from": 796.93,
+      "to": 799.29,
+      "sid": 407,
+      "location": 2,
+      "content": "产业的发展也从之前美国等产业",
+      "music": 0.0
+    },
+    {
+      "from": 799.29,
+      "to": 801.29,
+      "sid": 408,
+      "location": 2,
+      "content": "上游发达国家的金融和科技",
+      "music": 0.0
+    },
+    {
+      "from": 801.29,
+      "to": 803.14,
+      "sid": 409,
+      "location": 2,
+      "content": "我国这类产业中下游国家",
+      "music": 0.0
+    },
+    {
+      "from": 803.14,
+      "to": 804.78,
+      "sid": 410,
+      "location": 2,
+      "content": "城镇化率提升背后的地产",
+      "music": 0.0
+    },
+    {
+      "from": 804.78,
+      "to": 807.04,
+      "sid": 411,
+      "location": 2,
+      "content": "以及工业化率提升背后的低端制造业",
+      "music": 0.0
+    },
+    {
+      "from": 807.04,
+      "to": 808.12,
+      "sid": 412,
+      "location": 2,
+      "content": "切换到了发达国家",
+      "music": 0.0
+    },
+    {
+      "from": 808.12,
+      "to": 809.34,
+      "sid": 413,
+      "location": 2,
+      "content": "再工业化和产能转移",
+      "music": 0.0
+    },
+    {
+      "from": 809.34,
+      "to": 811.44,
+      "sid": 414,
+      "location": 2,
+      "content": "北美东南亚所需要的工业金属",
+      "music": 0.0
+    },
+    {
+      "from": 811.44,
+      "to": 814.62,
+      "sid": 415,
+      "location": 2,
+      "content": "基建和我国产业升级所对应的各类先进制造",
+      "music": 0.0
+    },
+    {
+      "from": 814.62,
+      "to": 816.14,
+      "sid": 416,
+      "location": 2,
+      "content": "这个周期呢可能会很长",
+      "music": 0.0
+    },
+    {
+      "from": 816.14,
+      "to": 818.6,
+      "sid": 417,
+      "location": 2,
+      "content": "甚至会尝过已经结束了的房地产周期",
+      "music": 0.0
+    },
+    {
+      "from": 818.6,
+      "to": 820.16,
+      "sid": 418,
+      "location": 2,
+      "content": "其中的机会呢只多不少",
+      "music": 0.0
+    },
+    {
+      "from": 820.16,
+      "to": 822.1,
+      "sid": 419,
+      "location": 2,
+      "content": "具体则需要大家仔细斟酌",
+      "music": 0.0
+    },
+    {
+      "from": 822.1,
+      "to": 823.09,
+      "sid": 420,
+      "location": 2,
+      "content": "慢慢挖掘了",
+      "music": 0.0
+    },
+    {
+      "from": 824.61,
+      "to": 827.37,
+      "sid": 421,
+      "location": 2,
+      "content": "能有你入局或者投资的行业出现好了",
+      "music": 0.0
+    },
+    {
+      "from": 827.37,
+      "to": 829.37,
+      "sid": 422,
+      "location": 2,
+      "content": "2025年吃肉行业靠谱的榜单",
+      "music": 0.0
+    },
+    {
+      "from": 829.37,
+      "to": 831.08,
+      "sid": 423,
+      "location": 2,
+      "content": "到这里就算公布完毕了",
+      "music": 0.0
+    },
+    {
+      "from": 831.08,
+      "to": 832.24,
+      "sid": 424,
+      "location": 2,
+      "content": "这30个一级行业",
+      "music": 0.0
+    },
+    {
+      "from": 832.24,
+      "to": 834.92,
+      "sid": 425,
+      "location": 2,
+      "content": "和过百个二级行业的具体数据都在这份研报里",
+      "music": 0.0
+    },
+    {
+      "from": 834.92,
+      "to": 836.4,
+      "sid": 426,
+      "location": 2,
+      "content": "想要的同学给视频三连",
+      "music": 0.0
+    },
+    {
+      "from": 836.4,
+      "to": 837.26,
+      "sid": 427,
+      "location": 2,
+      "content": "并关注账号后",
+      "music": 0.0
+    },
+    {
+      "from": 837.26,
+      "to": 838.76,
+      "sid": 428,
+      "location": 2,
+      "content": "在评论区留下你的邮箱",
+      "music": 0.0
+    },
+    {
+      "from": 838.76,
+      "to": 840.32,
+      "sid": 429,
+      "location": 2,
+      "content": "不要在别人的评论下评论",
+      "music": 0.0
+    },
+    {
+      "from": 840.32,
+      "to": 841.18,
+      "sid": 430,
+      "location": 2,
+      "content": "我会采集不到",
+      "music": 0.0
+    },
+    {
+      "from": 841.18,
+      "to": 842.78,
+      "sid": 431,
+      "location": 2,
+      "content": "往年呢我都手动攒一波",
+      "music": 0.0
+    },
+    {
+      "from": 842.78,
+      "to": 843.58,
+      "sid": 432,
+      "location": 2,
+      "content": "然后群发一次",
+      "music": 0.0
+    },
+    {
+      "from": 843.58,
+      "to": 844.52,
+      "sid": 433,
+      "location": 2,
+      "content": "那总有人不信",
+      "music": 0.0
+    },
+    {
+      "from": 844.52,
+      "to": 846.0,
+      "sid": 434,
+      "location": 2,
+      "content": "这次截图给大家证明一下",
+      "music": 0.0
+    },
+    {
+      "from": 846.0,
+      "to": 848.02,
+      "sid": 435,
+      "location": 2,
+      "content": "那最后呢也推荐大家在评论区",
+      "music": 0.0
+    },
+    {
+      "from": 848.02,
+      "to": 849.24,
+      "sid": 436,
+      "location": 2,
+      "content": "聊聊自己的行业情况",
+      "music": 0.0
+    },
+    {
+      "from": 849.24,
+      "to": 851.14,
+      "sid": 437,
+      "location": 2,
+      "content": "大家一起交换一下一线的信息",
+      "music": 0.0
+    },
+    {
+      "from": 851.14,
+      "to": 852.4,
+      "sid": 438,
+      "location": 2,
+      "content": "最后感谢各位的点赞",
+      "music": 0.0
+    },
+    {
+      "from": 852.4,
+      "to": 852.98,
+      "sid": 439,
+      "location": 2,
+      "content": "投币支持",
+      "music": 0.0
+    },
+    {
+      "from": 852.98,
+      "to": 855.7,
+      "sid": 440,
+      "location": 2,
+      "content": "我们每年的5月到6月都会更新这个系列",
+      "music": 0.0
+    },
+    {
+      "from": 855.7,
+      "to": 857.78,
+      "sid": 441,
+      "location": 2,
+      "content": "感兴趣的新朋友也记得点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 857.78,
+      "to": 858.32,
+      "sid": 442,
+      "location": 2,
+      "content": "不迷路",
+      "music": 0.0
+    },
+    {
+      "from": 858.32,
+      "to": 859.48,
+      "sid": 443,
+      "location": 2,
+      "content": "我们下期见",
+      "music": 0.0
+    }
+  ]
+}

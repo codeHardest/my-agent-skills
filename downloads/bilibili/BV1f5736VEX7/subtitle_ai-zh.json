@@ -1,0 +1,2188 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.4,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.4,
+      "to": 2.24,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 4.44,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢和大家聊一些不一样的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.44,
+      "to": 6.4,
+      "sid": 4,
+      "location": 2,
+      "content": "我们来聊一聊小灯行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 6.4,
+      "to": 9.08,
+      "sid": 5,
+      "location": 2,
+      "content": "今天给大家分享的也是一篇小灯行业的研报",
+      "music": 0.0
+    },
+    {
+      "from": 9.08,
+      "to": 10.88,
+      "sid": 6,
+      "location": 2,
+      "content": "就是大家在屏幕当中看到的这篇",
+      "music": 0.0
+    },
+    {
+      "from": 10.88,
+      "to": 12.54,
+      "sid": 7,
+      "location": 2,
+      "content": "杰弗瑞的科技行业研报",
+      "music": 0.0
+    },
+    {
+      "from": 12.54,
+      "to": 16.06,
+      "sid": 8,
+      "location": 2,
+      "content": "这电报主要探讨了国内大模型厂商的隐忧啊",
+      "music": 0.0
+    },
+    {
+      "from": 16.06,
+      "to": 19.26,
+      "sid": 9,
+      "location": 2,
+      "content": "当然这个隐忧呢总结来看主要来自于三方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 19.26,
+      "to": 21.28,
+      "sid": 10,
+      "location": 2,
+      "content": "分别是存储价格",
+      "music": 0.0
+    },
+    {
+      "from": 21.28,
+      "to": 23.9,
+      "sid": 11,
+      "location": 2,
+      "content": "当然也包括集成电路价格的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 23.9,
+      "to": 26.96,
+      "sid": 12,
+      "location": 2,
+      "content": "挤压了国内大模型厂商的企业利润",
+      "music": 0.0
+    },
+    {
+      "from": 26.96,
+      "to": 29.88,
+      "sid": 13,
+      "location": 2,
+      "content": "第二呢是ANTHROPIC的反蒸馏技术啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.88,
+      "to": 33.5,
+      "sid": 14,
+      "location": 2,
+      "content": "也让国内的厂商在追赶方面有更大的困难",
+      "music": 0.0
+    },
+    {
+      "from": 33.5,
+      "to": 35.76,
+      "sid": 15,
+      "location": 2,
+      "content": "第三呢就是美国政府现在也下场了",
+      "music": 0.0
+    },
+    {
+      "from": 35.76,
+      "to": 38.83,
+      "sid": 16,
+      "location": 2,
+      "content": "对ANTHROPYS最新发布的FBO5",
+      "music": 0.0
+    },
+    {
+      "from": 38.83,
+      "to": 41.77,
+      "sid": 17,
+      "location": 2,
+      "content": "这个新的大模型采取了出口管制措施",
+      "music": 0.0
+    },
+    {
+      "from": 41.77,
+      "to": 43.89,
+      "sid": 18,
+      "location": 2,
+      "content": "那综合这以上的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 43.89,
+      "to": 45.15,
+      "sid": 19,
+      "location": 2,
+      "content": "杰弗瑞认为",
+      "music": 0.0
+    },
+    {
+      "from": 45.15,
+      "to": 47.75,
+      "sid": 20,
+      "location": 2,
+      "content": "国内大模型的智力和美国之间的差距",
+      "music": 0.0
+    },
+    {
+      "from": 47.75,
+      "to": 49.33,
+      "sid": 21,
+      "location": 2,
+      "content": "可能会进一步的拉大",
+      "music": 0.0
+    },
+    {
+      "from": 49.33,
+      "to": 51.21,
+      "sid": 22,
+      "location": 2,
+      "content": "那还是照例先和大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 51.21,
+      "to": 52.63,
+      "sid": 23,
+      "location": 2,
+      "content": "这篇研报的核心结论",
+      "music": 0.0
+    },
+    {
+      "from": 52.63,
+      "to": 54.21,
+      "sid": 24,
+      "location": 2,
+      "content": "首先呢就是ANTHROPIC",
+      "music": 0.0
+    },
+    {
+      "from": 54.21,
+      "to": 57.56,
+      "sid": 25,
+      "location": 2,
+      "content": "在最近发布了他们的最新大模型FEB5",
+      "music": 0.0
+    },
+    {
+      "from": 57.56,
+      "to": 59.48,
+      "sid": 26,
+      "location": 2,
+      "content": "在这个FBO5发布之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 59.48,
+      "to": 61.28,
+      "sid": 27,
+      "location": 2,
+      "content": "中美之间的模型智力差距",
+      "music": 0.0
+    },
+    {
+      "from": 61.28,
+      "to": 64.75,
+      "sid": 28,
+      "location": 2,
+      "content": "从之前的8%拉大到了13%啊",
+      "music": 0.0
+    },
+    {
+      "from": 64.75,
+      "to": 66.27,
+      "sid": 29,
+      "location": 2,
+      "content": "大家可以看一下右边这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.27,
+      "to": 68.25,
+      "sid": 30,
+      "location": 2,
+      "content": "当然一会我会去具体的分享啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.25,
+      "to": 69.15,
+      "sid": 31,
+      "location": 2,
+      "content": "但是你可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 69.15,
+      "to": 70.58,
+      "sid": 32,
+      "location": 2,
+      "content": "如果按照基准线",
+      "music": 0.0
+    },
+    {
+      "from": 70.58,
+      "to": 73.22,
+      "sid": 33,
+      "location": 2,
+      "content": "浅蓝色这条线作为最新的大模型里面",
+      "music": 0.0
+    },
+    {
+      "from": 73.22,
+      "to": 74.42,
+      "sid": 34,
+      "location": 2,
+      "content": "智力最高的来看",
+      "music": 0.0
+    },
+    {
+      "from": 74.42,
+      "to": 76.84,
+      "sid": 35,
+      "location": 2,
+      "content": "那深蓝色这条线是中国的大模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 76.84,
+      "to": 79.14,
+      "sid": 36,
+      "location": 2,
+      "content": "在前段时间确实是有所追赶",
+      "music": 0.0
+    },
+    {
+      "from": 79.14,
+      "to": 80.88,
+      "sid": 37,
+      "location": 2,
+      "content": "但是在最近一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 80.88,
+      "to": 82.52,
+      "sid": 38,
+      "location": 2,
+      "content": "智力差距是被拉大了",
+      "music": 0.0
+    },
+    {
+      "from": 82.52,
+      "to": 85.92,
+      "sid": 39,
+      "location": 2,
+      "content": "而且呢考虑到中国在获取更高算力的芯片方面",
+      "music": 0.0
+    },
+    {
+      "from": 85.92,
+      "to": 87.58,
+      "sid": 40,
+      "location": 2,
+      "content": "也受到了一定的制约啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.58,
+      "to": 88.44,
+      "sid": 41,
+      "location": 2,
+      "content": "杰弗瑞认为",
+      "music": 0.0
+    },
+    {
+      "from": 88.44,
+      "to": 90.8,
+      "sid": 42,
+      "location": 2,
+      "content": "后续这个差距也就是智利之间的差距啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.8,
+      "to": 92.59,
+      "sid": 43,
+      "location": 2,
+      "content": "还会逐渐的扩大",
+      "music": 0.0
+    },
+    {
+      "from": 92.59,
+      "to": 93.31,
+      "sid": 44,
+      "location": 2,
+      "content": "此外呢",
+      "music": 0.0
+    },
+    {
+      "from": 93.31,
+      "to": 94.63,
+      "sid": 45,
+      "location": 2,
+      "content": "ANTHROPIC的新模型",
+      "music": 0.0
+    },
+    {
+      "from": 94.63,
+      "to": 97.56,
+      "sid": 46,
+      "location": 2,
+      "content": "FEBO5中采取了反蒸馏的技术啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.56,
+      "to": 101.04,
+      "sid": 47,
+      "location": 2,
+      "content": "那这也让之前比较擅长蒸馏的中国大模型厂商",
+      "music": 0.0
+    },
+    {
+      "from": 101.04,
+      "to": 102.16,
+      "sid": 48,
+      "location": 2,
+      "content": "特别是像deep sick",
+      "music": 0.0
+    },
+    {
+      "from": 102.16,
+      "to": 104.64,
+      "sid": 49,
+      "location": 2,
+      "content": "包括之前爆出来的这个mini max啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 104.64,
+      "to": 106.9,
+      "sid": 50,
+      "location": 2,
+      "content": "在追赶方面是更加的困难",
+      "music": 0.0
+    },
+    {
+      "from": 106.9,
+      "to": 107.68,
+      "sid": 51,
+      "location": 2,
+      "content": "更何况呢",
+      "music": 0.0
+    },
+    {
+      "from": 107.68,
+      "to": 111.66,
+      "sid": 52,
+      "location": 2,
+      "content": "近期美国以网络安全防护措施存在漏洞为由",
+      "music": 0.0
+    },
+    {
+      "from": 111.66,
+      "to": 115.75,
+      "sid": 53,
+      "location": 2,
+      "content": "也对新的大模型fib5实施了出口管制",
+      "music": 0.0
+    },
+    {
+      "from": 115.75,
+      "to": 118.47,
+      "sid": 54,
+      "location": 2,
+      "content": "那在以上这些内容的基础之上呢",
+      "music": 0.0
+    },
+    {
+      "from": 118.47,
+      "to": 121.95,
+      "sid": 55,
+      "location": 2,
+      "content": "又由于近期硬件价格当然主要指的是集成电路",
+      "music": 0.0
+    },
+    {
+      "from": 121.95,
+      "to": 123.82,
+      "sid": 56,
+      "location": 2,
+      "content": "特别是存储价格的快速上涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.82,
+      "to": 127.18,
+      "sid": 57,
+      "location": 2,
+      "content": "那美国大模型厂商如何应对这个成本",
+      "music": 0.0
+    },
+    {
+      "from": 127.18,
+      "to": 128.34,
+      "sid": 58,
+      "location": 2,
+      "content": "价格的上涨呢",
+      "music": 0.0
+    },
+    {
+      "from": 128.34,
+      "to": 130.18,
+      "sid": 59,
+      "location": 2,
+      "content": "就是上调API的定价",
+      "music": 0.0
+    },
+    {
+      "from": 130.18,
+      "to": 133.52,
+      "sid": 60,
+      "location": 2,
+      "content": "比如说ANTHROPIC在3月到6月之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.52,
+      "to": 135.56,
+      "sid": 61,
+      "location": 2,
+      "content": "就是刚刚过去的这三个月",
+      "music": 0.0
+    },
+    {
+      "from": 135.56,
+      "to": 138.2,
+      "sid": 62,
+      "location": 2,
+      "content": "AAPI的价格呢是上涨了89%",
+      "music": 0.0
+    },
+    {
+      "from": 138.2,
+      "to": 140.04,
+      "sid": 63,
+      "location": 2,
+      "content": "而中国的大模型厂商呢",
+      "music": 0.0
+    },
+    {
+      "from": 140.04,
+      "to": 141.7,
+      "sid": 64,
+      "location": 2,
+      "content": "在内卷环境之下",
+      "music": 0.0
+    },
+    {
+      "from": 141.7,
+      "to": 145.64,
+      "sid": 65,
+      "location": 2,
+      "content": "上游硬件价格的上涨其实是没有传递到下游的",
+      "music": 0.0
+    },
+    {
+      "from": 145.64,
+      "to": 147.68,
+      "sid": 66,
+      "location": 2,
+      "content": "呃想必大家其实也都有感受啊",
+      "music": 0.0
+    },
+    {
+      "from": 147.68,
+      "to": 150.92,
+      "sid": 67,
+      "location": 2,
+      "content": "国内厂商API的定价在最近几个月不但没有上涨",
+      "music": 0.0
+    },
+    {
+      "from": 150.92,
+      "to": 153.61,
+      "sid": 68,
+      "location": 2,
+      "content": "反而还在不断的给出进一步的折扣啊",
+      "music": 0.0
+    },
+    {
+      "from": 153.61,
+      "to": 156.85,
+      "sid": 69,
+      "location": 2,
+      "content": "所以呢杰弗瑞对国内大模型厂商的盈利能力",
+      "music": 0.0
+    },
+    {
+      "from": 156.85,
+      "to": 158.15,
+      "sid": 70,
+      "location": 2,
+      "content": "是表示担忧的",
+      "music": 0.0
+    },
+    {
+      "from": 158.15,
+      "to": 159.49,
+      "sid": 71,
+      "location": 2,
+      "content": "这块呢我也多说一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.49,
+      "to": 162.98,
+      "sid": 72,
+      "location": 2,
+      "content": "其实大模型领域目前的情况和中东冲突之后",
+      "music": 0.0
+    },
+    {
+      "from": 162.98,
+      "to": 166.91,
+      "sid": 73,
+      "location": 2,
+      "content": "油价上涨的输入性通胀无法传导到国内",
+      "music": 0.0
+    },
+    {
+      "from": 166.91,
+      "to": 169.83,
+      "sid": 74,
+      "location": 2,
+      "content": "广谱意义上的消费端是非常类似的",
+      "music": 0.0
+    },
+    {
+      "from": 169.83,
+      "to": 171.99,
+      "sid": 75,
+      "location": 2,
+      "content": "主要呢还是因为国内供给过剩",
+      "music": 0.0
+    },
+    {
+      "from": 171.99,
+      "to": 173.11,
+      "sid": 76,
+      "location": 2,
+      "content": "有效需求不足",
+      "music": 0.0
+    },
+    {
+      "from": 173.11,
+      "to": 175.82,
+      "sid": 77,
+      "location": 2,
+      "content": "所以下游企业只能去压缩成本",
+      "music": 0.0
+    },
+    {
+      "from": 175.82,
+      "to": 177.22,
+      "sid": 78,
+      "location": 2,
+      "content": "国内的需求本身啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.22,
+      "to": 178.78,
+      "sid": 79,
+      "location": 2,
+      "content": "目前弹性是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 178.78,
+      "to": 180.94,
+      "sid": 80,
+      "location": 2,
+      "content": "但凡是能不花钱的地方",
+      "music": 0.0
+    },
+    {
+      "from": 180.94,
+      "to": 182.62,
+      "sid": 81,
+      "location": 2,
+      "content": "大家都选择不花钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 182.62,
+      "to": 183.78,
+      "sid": 82,
+      "location": 2,
+      "content": "这是目前的一个现状",
+      "music": 0.0
+    },
+    {
+      "from": 183.78,
+      "to": 185.54,
+      "sid": 83,
+      "location": 2,
+      "content": "当然在大模型端也是类似的",
+      "music": 0.0
+    },
+    {
+      "from": 185.54,
+      "to": 187.26,
+      "sid": 84,
+      "location": 2,
+      "content": "那我们就来看一下这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 187.26,
+      "to": 188.42,
+      "sid": 85,
+      "location": 2,
+      "content": "整体的一个论述逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 188.42,
+      "to": 190.43,
+      "sid": 86,
+      "location": 2,
+      "content": "前面摘要部分呢就不给大家说了",
+      "music": 0.0
+    },
+    {
+      "from": 190.43,
+      "to": 192.39,
+      "sid": 87,
+      "location": 2,
+      "content": "那大家可以看到第一段开篇呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.39,
+      "to": 193.19,
+      "sid": 88,
+      "location": 2,
+      "content": "他就提到说",
+      "music": 0.0
+    },
+    {
+      "from": 193.19,
+      "to": 196.77,
+      "sid": 89,
+      "location": 2,
+      "content": "美国目前大模型啊是improving at a faster pace",
+      "music": 0.0
+    },
+    {
+      "from": 196.77,
+      "to": 197.95,
+      "sid": 90,
+      "location": 2,
+      "content": "跑的越来越快了啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.95,
+      "to": 201.15,
+      "sid": 91,
+      "location": 2,
+      "content": "当然主要呢是得益于他们有算力的优势",
+      "music": 0.0
+    },
+    {
+      "from": 201.15,
+      "to": 204.17,
+      "sid": 92,
+      "location": 2,
+      "content": "就是更容易获得英伟达的最新的芯片啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.17,
+      "to": 207.79,
+      "sid": 93,
+      "location": 2,
+      "content": "而目前的反蒸馏技术和美国的出口禁运啊",
+      "music": 0.0
+    },
+    {
+      "from": 207.79,
+      "to": 209.65,
+      "sid": 94,
+      "location": 2,
+      "content": "也会导致中国的大模型厂商",
+      "music": 0.0
+    },
+    {
+      "from": 209.65,
+      "to": 213.39,
+      "sid": 95,
+      "location": 2,
+      "content": "在模型智力方面追赶美国的难度越来越大",
+      "music": 0.0
+    },
+    {
+      "from": 213.39,
+      "to": 214.79,
+      "sid": 96,
+      "location": 2,
+      "content": "在6月9号的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 214.79,
+      "to": 217.11,
+      "sid": 97,
+      "location": 2,
+      "content": "ANTHROPIC是发布了他们的最新模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.11,
+      "to": 219.6,
+      "sid": 98,
+      "location": 2,
+      "content": "FEBO5和miss5啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.6,
+      "to": 222.36,
+      "sid": 99,
+      "location": 2,
+      "content": "但miss5只是FIBBLE5的一个变种啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.36,
+      "to": 224.2,
+      "sid": 100,
+      "location": 2,
+      "content": "实际上还是同一个模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.2,
+      "to": 226.85,
+      "sid": 101,
+      "location": 2,
+      "content": "只不过miss5呢更关注的是数据的安全啊",
+      "music": 0.0
+    },
+    {
+      "from": 226.85,
+      "to": 228.07,
+      "sid": 102,
+      "location": 2,
+      "content": "那么FIBO5呢",
+      "music": 0.0
+    },
+    {
+      "from": 228.07,
+      "to": 232.16,
+      "sid": 103,
+      "location": 2,
+      "content": "他的智力得分已经是比之前的ANTHROPIC的office",
+      "music": 0.0
+    },
+    {
+      "from": 232.16,
+      "to": 234.26,
+      "sid": 104,
+      "location": 2,
+      "content": "4.8是提升了6%",
+      "music": 0.0
+    },
+    {
+      "from": 234.26,
+      "to": 238.48,
+      "sid": 105,
+      "location": 2,
+      "content": "也是目前全球智利排名第一的大模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 238.7,
+      "to": 239.42,
+      "sid": 106,
+      "location": 2,
+      "content": "说到这儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.42,
+      "to": 240.58,
+      "sid": 107,
+      "location": 2,
+      "content": "我先给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 240.58,
+      "to": 243.0,
+      "sid": 108,
+      "location": 2,
+      "content": "目前大模型的一个智力排序啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.0,
+      "to": 245.28,
+      "sid": 109,
+      "location": 2,
+      "content": "你可以看到这张表非常有意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 245.28,
+      "to": 249.46,
+      "sid": 110,
+      "location": 2,
+      "content": "目前AI这个领域真的是以周度为计算单位",
+      "music": 0.0
+    },
+    {
+      "from": 249.46,
+      "to": 252.55,
+      "sid": 111,
+      "location": 2,
+      "content": "每一周可能市场都有不同的变化啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.55,
+      "to": 253.71,
+      "sid": 112,
+      "location": 2,
+      "content": "比如说前面几周呢",
+      "music": 0.0
+    },
+    {
+      "from": 253.71,
+      "to": 255.43,
+      "sid": 113,
+      "location": 2,
+      "content": "OpenAI仍然是第一名啊",
+      "music": 0.0
+    },
+    {
+      "from": 257.96,
+      "to": 259.4,
+      "sid": 114,
+      "location": 2,
+      "content": "由于6月9号的时候",
+      "music": 0.0
+    },
+    {
+      "from": 259.4,
+      "to": 262.58,
+      "sid": 115,
+      "location": 2,
+      "content": "ANTHROPIC是发布了他们新的FEBO5这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 262.58,
+      "to": 265.06,
+      "sid": 116,
+      "location": 2,
+      "content": "所以他们的智力呢排到了全球的第一",
+      "music": 0.0
+    },
+    {
+      "from": 265.06,
+      "to": 266.36,
+      "sid": 117,
+      "location": 2,
+      "content": "目前是64.9",
+      "music": 0.0
+    },
+    {
+      "from": 266.36,
+      "to": 269.0,
+      "sid": 118,
+      "location": 2,
+      "content": "那OpenAI和ANTHROPIC今年也都要上市啊",
+      "music": 0.0
+    },
+    {
+      "from": 269.0,
+      "to": 270.92,
+      "sid": 119,
+      "location": 2,
+      "content": "我觉得大家还是有参与的机会的",
+      "music": 0.0
+    },
+    {
+      "from": 270.92,
+      "to": 274.07,
+      "sid": 120,
+      "location": 2,
+      "content": "那国内的厂商排名第一的大模型",
+      "music": 0.0
+    },
+    {
+      "from": 274.07,
+      "to": 276.11,
+      "sid": 121,
+      "location": 2,
+      "content": "智利还是阿里巴巴的千问啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.11,
+      "to": 277.65,
+      "sid": 122,
+      "location": 2,
+      "content": "这里面他其实也做了个对比",
+      "music": 0.0
+    },
+    {
+      "from": 277.65,
+      "to": 280.34,
+      "sid": 123,
+      "location": 2,
+      "content": "如果我们去看右边这个表格的话",
+      "music": 0.0
+    },
+    {
+      "from": 280.34,
+      "to": 281.9,
+      "sid": 124,
+      "location": 2,
+      "content": "会发现下面那条深蓝色的",
+      "music": 0.0
+    },
+    {
+      "from": 281.9,
+      "to": 283.56,
+      "sid": 125,
+      "location": 2,
+      "content": "现在最近一段时间呃",
+      "music": 0.0
+    },
+    {
+      "from": 283.56,
+      "to": 287.45,
+      "sid": 126,
+      "location": 2,
+      "content": "排名国内第一的就是千万的3.7max啊",
+      "music": 0.0
+    },
+    {
+      "from": 287.45,
+      "to": 288.27,
+      "sid": 127,
+      "location": 2,
+      "content": "这样一个模型",
+      "music": 0.0
+    },
+    {
+      "from": 288.27,
+      "to": 290.59,
+      "sid": 128,
+      "location": 2,
+      "content": "那么回到这篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.59,
+      "to": 291.99,
+      "sid": 129,
+      "location": 2,
+      "content": "赛博五的推出呢",
+      "music": 0.0
+    },
+    {
+      "from": 291.99,
+      "to": 294.55,
+      "sid": 130,
+      "location": 2,
+      "content": "也让中美之间AI模型的智力差距",
+      "music": 0.0
+    },
+    {
+      "from": 294.55,
+      "to": 295.95,
+      "sid": 131,
+      "location": 2,
+      "content": "从5月份的8%",
+      "music": 0.0
+    },
+    {
+      "from": 295.95,
+      "to": 298.49,
+      "sid": 132,
+      "location": 2,
+      "content": "进一步扩展到了6月份的13%啊",
+      "music": 0.0
+    },
+    {
+      "from": 298.49,
+      "to": 299.37,
+      "sid": 133,
+      "location": 2,
+      "content": "杰弗瑞认为",
+      "music": 0.0
+    },
+    {
+      "from": 299.37,
+      "to": 302.49,
+      "sid": 134,
+      "location": 2,
+      "content": "这里面并不是说双方代码之间有多大的差距啊",
+      "music": 0.0
+    },
+    {
+      "from": 302.49,
+      "to": 306.28,
+      "sid": 135,
+      "location": 2,
+      "content": "更最关键的因素还是英伟达芯片的获取能力",
+      "music": 0.0
+    },
+    {
+      "from": 306.28,
+      "to": 309.099,
+      "sid": 136,
+      "location": 2,
+      "content": "那由于美国的这些AI厂商啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.099,
+      "to": 311.499,
+      "sid": 137,
+      "location": 2,
+      "content": "能够非常轻松的去获得",
+      "music": 0.0
+    },
+    {
+      "from": 311.499,
+      "to": 315.2,
+      "sid": 138,
+      "location": 2,
+      "content": "去获取英伟达的BLACKWELL系列的旗舰级的产品",
+      "music": 0.0
+    },
+    {
+      "from": 315.2,
+      "to": 317.68,
+      "sid": 139,
+      "location": 2,
+      "content": "所以他们训练出来的模型智力比较高",
+      "music": 0.0
+    },
+    {
+      "from": 317.68,
+      "to": 319.04,
+      "sid": 140,
+      "location": 2,
+      "content": "也是非常合理的",
+      "music": 0.0
+    },
+    {
+      "from": 319.04,
+      "to": 320.64,
+      "sid": 141,
+      "location": 2,
+      "content": "而考虑到26年的下半年",
+      "music": 0.0
+    },
+    {
+      "from": 320.64,
+      "to": 323.36,
+      "sid": 142,
+      "location": 2,
+      "content": "英伟达即将推出最新的旗舰产品啊",
+      "music": 0.0
+    },
+    {
+      "from": 323.36,
+      "to": 324.36,
+      "sid": 143,
+      "location": 2,
+      "content": "叫RUBIN啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.36,
+      "to": 326.24,
+      "sid": 144,
+      "location": 2,
+      "content": "这样的一个芯片的推出呢",
+      "music": 0.0
+    },
+    {
+      "from": 326.24,
+      "to": 329.9,
+      "sid": 145,
+      "location": 2,
+      "content": "可能会导致中美之间在大模型的计算能力",
+      "music": 0.0
+    },
+    {
+      "from": 329.9,
+      "to": 333.34,
+      "sid": 146,
+      "location": 2,
+      "content": "和最终的智力方面差距被进一步拉大",
+      "music": 0.0
+    },
+    {
+      "from": 333.34,
+      "to": 334.68,
+      "sid": 147,
+      "location": 2,
+      "content": "不过杰弗瑞也谈到啊",
+      "music": 0.0
+    },
+    {
+      "from": 334.68,
+      "to": 336.84,
+      "sid": 148,
+      "location": 2,
+      "content": "中国的AI在未来的想象空间",
+      "music": 0.0
+    },
+    {
+      "from": 336.84,
+      "to": 340.08,
+      "sid": 149,
+      "location": 2,
+      "content": "并不局限在大模型的能力和智力方面",
+      "music": 0.0
+    },
+    {
+      "from": 340.08,
+      "to": 344.04,
+      "sid": 150,
+      "location": 2,
+      "content": "更多是来自于中国的商业化和应用的能力啊",
+      "music": 0.0
+    },
+    {
+      "from": 344.04,
+      "to": 345.51,
+      "sid": 151,
+      "location": 2,
+      "content": "你可以看到这句话啊",
+      "music": 0.0
+    },
+    {
+      "from": 345.51,
+      "to": 349.79,
+      "sid": 152,
+      "location": 2,
+      "content": "杰弗瑞对未来中国AI这个领域的投资的考虑",
+      "music": 0.0
+    },
+    {
+      "from": 349.79,
+      "to": 353.56,
+      "sid": 153,
+      "location": 2,
+      "content": "逻辑仍然是在商业化和可变现能力方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 353.56,
+      "to": 354.4,
+      "sid": 154,
+      "location": 2,
+      "content": "他举了一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 354.4,
+      "to": 357.44,
+      "sid": 155,
+      "location": 2,
+      "content": "就是最近腾讯在微信平台发布了一个A",
+      "music": 0.0
+    },
+    {
+      "from": 357.44,
+      "to": 358.42,
+      "sid": 156,
+      "location": 2,
+      "content": "2A的service啊",
+      "music": 0.0
+    },
+    {
+      "from": 358.42,
+      "to": 361.88,
+      "sid": 157,
+      "location": 2,
+      "content": "它是一个to c的AI的变现方式",
+      "music": 0.0
+    },
+    {
+      "from": 361.88,
+      "to": 364.37,
+      "sid": 158,
+      "location": 2,
+      "content": "那么接下来第二部分呢就来谈了一下",
+      "music": 0.0
+    },
+    {
+      "from": 364.37,
+      "to": 367.01,
+      "sid": 159,
+      "location": 2,
+      "content": "中美之间的这个大模型的智力差距啊",
+      "music": 0.0
+    },
+    {
+      "from": 367.01,
+      "to": 369.29,
+      "sid": 160,
+      "location": 2,
+      "content": "在未来一段时间中国越来越难追赶",
+      "music": 0.0
+    },
+    {
+      "from": 369.29,
+      "to": 371.33,
+      "sid": 161,
+      "location": 2,
+      "content": "这里面呢主要有两个原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.33,
+      "to": 373.19,
+      "sid": 162,
+      "location": 2,
+      "content": "第一个原因呢就是反蒸馏",
+      "music": 0.0
+    },
+    {
+      "from": 373.19,
+      "to": 375.47,
+      "sid": 163,
+      "location": 2,
+      "content": "那么第二个呢就是美国的出口禁运",
+      "music": 0.0
+    },
+    {
+      "from": 375.47,
+      "to": 377.57,
+      "sid": 164,
+      "location": 2,
+      "content": "首先呢先说一下反蒸馏啊",
+      "music": 0.0
+    },
+    {
+      "from": 377.57,
+      "to": 380.85,
+      "sid": 165,
+      "location": 2,
+      "content": "ANTHROPIC在FBO5这个新的大模型当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 380.85,
+      "to": 383.73,
+      "sid": 166,
+      "location": 2,
+      "content": "是加入了一个反蒸流的特性啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.73,
+      "to": 387.71,
+      "sid": 167,
+      "location": 2,
+      "content": "如果FIBO5发现了一些嫌疑的蒸馏行为啊",
+      "music": 0.0
+    },
+    {
+      "from": 387.71,
+      "to": 389.37,
+      "sid": 168,
+      "location": 2,
+      "content": "它将会在回答问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 389.37,
+      "to": 392.789,
+      "sid": 169,
+      "location": 2,
+      "content": "把模型自动的降为之前的OPPO4.8",
+      "music": 0.0
+    },
+    {
+      "from": 392.789,
+      "to": 394.209,
+      "sid": 170,
+      "location": 2,
+      "content": "并且通知用户",
+      "music": 0.0
+    },
+    {
+      "from": 394.209,
+      "to": 396.749,
+      "sid": 171,
+      "location": 2,
+      "content": "那因此呢国内的厂商未来想去蒸馏",
+      "music": 0.0
+    },
+    {
+      "from": 396.749,
+      "to": 398.09,
+      "sid": 172,
+      "location": 2,
+      "content": "难度是比较大的",
+      "music": 0.0
+    },
+    {
+      "from": 398.09,
+      "to": 402.01,
+      "sid": 173,
+      "location": 2,
+      "content": "另一方面呢就是美国政府现在也下场了",
+      "music": 0.0
+    },
+    {
+      "from": 402.01,
+      "to": 406.85,
+      "sid": 174,
+      "location": 2,
+      "content": "他们是以网络安全防护措施存在漏洞为由啊",
+      "music": 0.0
+    },
+    {
+      "from": 406.85,
+      "to": 409.57,
+      "sid": 175,
+      "location": 2,
+      "content": "要求ANTHROPIC去控制FEBO5啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.57,
+      "to": 413.0,
+      "sid": 176,
+      "location": 2,
+      "content": "不允许将FEBB5提供给任何外国人去使用",
+      "music": 0.0
+    },
+    {
+      "from": 413.0,
+      "to": 416.18,
+      "sid": 177,
+      "location": 2,
+      "content": "包括美国企业的外国员工",
+      "music": 0.0
+    },
+    {
+      "from": 416.18,
+      "to": 417.4,
+      "sid": 178,
+      "location": 2,
+      "content": "但是呢现实是",
+      "music": 0.0
+    },
+    {
+      "from": 417.4,
+      "to": 420.56,
+      "sid": 179,
+      "location": 2,
+      "content": "ANTHROPIC并不知道如何去区分用户",
+      "music": 0.0
+    },
+    {
+      "from": 420.56,
+      "to": 422.06,
+      "sid": 180,
+      "location": 2,
+      "content": "是不是美国国籍",
+      "music": 0.0
+    },
+    {
+      "from": 422.06,
+      "to": 424.58,
+      "sid": 181,
+      "location": 2,
+      "content": "至少目前还没有采取这样的措施啊",
+      "music": 0.0
+    },
+    {
+      "from": 424.58,
+      "to": 427.16,
+      "sid": 182,
+      "location": 2,
+      "content": "去查你是不是持有美国护照啊",
+      "music": 0.0
+    },
+    {
+      "from": 427.16,
+      "to": 429.6,
+      "sid": 183,
+      "location": 2,
+      "content": "因此呢ANTHROPIC现在是不得不暂停了",
+      "music": 0.0
+    },
+    {
+      "from": 429.6,
+      "to": 433.39,
+      "sid": 184,
+      "location": 2,
+      "content": "FEBO5和METHO5这两款大模型的使用",
+      "music": 0.0
+    },
+    {
+      "from": 433.39,
+      "to": 435.89,
+      "sid": 185,
+      "location": 2,
+      "content": "也就是说现在在全球任何一个地方",
+      "music": 0.0
+    },
+    {
+      "from": 435.89,
+      "to": 436.91,
+      "sid": 186,
+      "location": 2,
+      "content": "哪怕你在美国啊",
+      "music": 0.0
+    },
+    {
+      "from": 436.91,
+      "to": 439.2,
+      "sid": 187,
+      "location": 2,
+      "content": "都无法使用这两款最新的模型",
+      "music": 0.0
+    },
+    {
+      "from": 439.2,
+      "to": 440.76,
+      "sid": 188,
+      "location": 2,
+      "content": "所以这也导致中国的厂商",
+      "music": 0.0
+    },
+    {
+      "from": 440.76,
+      "to": 442.88,
+      "sid": 189,
+      "location": 2,
+      "content": "即便有办法绕过ANTHROPIC",
+      "music": 0.0
+    },
+    {
+      "from": 442.88,
+      "to": 446.51,
+      "sid": 190,
+      "location": 2,
+      "content": "在FBO5当中嵌套的反蒸流措施",
+      "music": 0.0
+    },
+    {
+      "from": 446.51,
+      "to": 450.19,
+      "sid": 191,
+      "location": 2,
+      "content": "但最终呢也因为无法使用FIBB5和METHUS5",
+      "music": 0.0
+    },
+    {
+      "from": 450.19,
+      "to": 451.09,
+      "sid": 192,
+      "location": 2,
+      "content": "而不能完成",
+      "music": 0.0
+    },
+    {
+      "from": 451.09,
+      "to": 453.22,
+      "sid": 193,
+      "location": 2,
+      "content": "而不能完成蒸馏这样一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 453.22,
+      "to": 454.02,
+      "sid": 194,
+      "location": 2,
+      "content": "除此之外呢",
+      "music": 0.0
+    },
+    {
+      "from": 454.02,
+      "to": 455.02,
+      "sid": 195,
+      "location": 2,
+      "content": "杰弗瑞也是提到",
+      "music": 0.0
+    },
+    {
+      "from": 455.02,
+      "to": 456.5,
+      "sid": 196,
+      "location": 2,
+      "content": "中国的大模型厂商",
+      "music": 0.0
+    },
+    {
+      "from": 456.5,
+      "to": 459.1,
+      "sid": 197,
+      "location": 2,
+      "content": "在当下还面临着另一重困境啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.1,
+      "to": 462.62,
+      "sid": 198,
+      "location": 2,
+      "content": "就是一方面API的定价在内卷的环境下",
+      "music": 0.0
+    },
+    {
+      "from": 462.62,
+      "to": 463.82,
+      "sid": 199,
+      "location": 2,
+      "content": "在不断的下探",
+      "music": 0.0
+    },
+    {
+      "from": 463.82,
+      "to": 466.26,
+      "sid": 200,
+      "location": 2,
+      "content": "另一方面呢由于硬件成本上升",
+      "music": 0.0
+    },
+    {
+      "from": 466.26,
+      "to": 468.44,
+      "sid": 201,
+      "location": 2,
+      "content": "特别是存储价格的上升",
+      "music": 0.0
+    },
+    {
+      "from": 468.44,
+      "to": 470.86,
+      "sid": 202,
+      "location": 2,
+      "content": "导致他们的成本是居高不下的",
+      "music": 0.0
+    },
+    {
+      "from": 470.86,
+      "to": 474.1,
+      "sid": 203,
+      "location": 2,
+      "content": "那么成本和收入之间的双重压缩",
+      "music": 0.0
+    },
+    {
+      "from": 474.1,
+      "to": 476.82,
+      "sid": 204,
+      "location": 2,
+      "content": "就导致企业的利润会持续的变薄",
+      "music": 0.0
+    },
+    {
+      "from": 476.82,
+      "to": 479.18,
+      "sid": 205,
+      "location": 2,
+      "content": "这里面杰弗瑞也做了一个对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.18,
+      "to": 482.3,
+      "sid": 206,
+      "location": 2,
+      "content": "ANTHROPIC在最新的FEBO5的API定价呢",
+      "music": 0.0
+    },
+    {
+      "from": 482.3,
+      "to": 484.99,
+      "sid": 207,
+      "location": 2,
+      "content": "是比之前的OPPO4.8提高了一倍",
+      "music": 0.0
+    },
+    {
+      "from": 484.99,
+      "to": 487.51,
+      "sid": 208,
+      "location": 2,
+      "content": "而在3月份到6月份呢",
+      "music": 0.0
+    },
+    {
+      "from": 487.51,
+      "to": 492.22,
+      "sid": 209,
+      "location": 2,
+      "content": "美国的平均大模型API的定价是已经上升了",
+      "music": 0.0
+    },
+    {
+      "from": 492.22,
+      "to": 493.12,
+      "sid": 210,
+      "location": 2,
+      "content": "89%",
+      "music": 0.0
+    },
+    {
+      "from": 493.12,
+      "to": 496.22,
+      "sid": 211,
+      "location": 2,
+      "content": "主要也是来应对硬件成本的上升",
+      "music": 0.0
+    },
+    {
+      "from": 496.22,
+      "to": 497.54,
+      "sid": 212,
+      "location": 2,
+      "content": "而作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 497.54,
+      "to": 500.74,
+      "sid": 213,
+      "location": 2,
+      "content": "中国的API定价是REMAFLAT",
+      "music": 0.0
+    },
+    {
+      "from": 500.74,
+      "to": 502.26,
+      "sid": 214,
+      "location": 2,
+      "content": "实际上呢在6月份",
+      "music": 0.0
+    },
+    {
+      "from": 502.26,
+      "to": 506.58,
+      "sid": 215,
+      "location": 2,
+      "content": "中国的API定价还比5月份环比下降了2%",
+      "music": 0.0
+    },
+    {
+      "from": 506.58,
+      "to": 510.76,
+      "sid": 216,
+      "location": 2,
+      "content": "这里面当然主要呢是因为mini max在6月份",
+      "music": 0.0
+    },
+    {
+      "from": 510.76,
+      "to": 513.02,
+      "sid": 217,
+      "location": 2,
+      "content": "API的定价有一个比较明显的下调",
+      "music": 0.0
+    },
+    {
+      "from": 513.02,
+      "to": 514.2,
+      "sid": 218,
+      "location": 2,
+      "content": "下调了1/3",
+      "music": 0.0
+    },
+    {
+      "from": 514.2,
+      "to": 515.64,
+      "sid": 219,
+      "location": 2,
+      "content": "这其实反映的也是",
+      "music": 0.0
+    },
+    {
+      "from": 515.64,
+      "to": 517.84,
+      "sid": 220,
+      "location": 2,
+      "content": "国内大模型厂商之间的内卷啊",
+      "music": 0.0
+    },
+    {
+      "from": 517.84,
+      "to": 519.84,
+      "sid": 221,
+      "location": 2,
+      "content": "但另一方面就像刚才提到的",
+      "music": 0.0
+    },
+    {
+      "from": 519.84,
+      "to": 522.01,
+      "sid": 222,
+      "location": 2,
+      "content": "硬件的成本在持续的攀升",
+      "music": 0.0
+    },
+    {
+      "from": 522.01,
+      "to": 525.21,
+      "sid": 223,
+      "location": 2,
+      "content": "这里面一方面呢是存储的价格在不断的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 525.21,
+      "to": 526.01,
+      "sid": 224,
+      "location": 2,
+      "content": "另一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 526.01,
+      "to": 527.76,
+      "sid": 225,
+      "location": 2,
+      "content": "由于国国内的大模型厂商",
+      "music": 0.0
+    },
+    {
+      "from": 527.76,
+      "to": 530.0,
+      "sid": 226,
+      "location": 2,
+      "content": "很难获取英伟达的新的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 530.0,
+      "to": 531.88,
+      "sid": 227,
+      "location": 2,
+      "content": "不得不去使用华为的芯片",
+      "music": 0.0
+    },
+    {
+      "from": 531.88,
+      "to": 535.33,
+      "sid": 228,
+      "location": 2,
+      "content": "而华为在最近提出的这个套定律和逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 535.33,
+      "to": 536.37,
+      "sid": 229,
+      "location": 2,
+      "content": "折叠的科技啊",
+      "music": 0.0
+    },
+    {
+      "from": 536.37,
+      "to": 538.67,
+      "sid": 230,
+      "location": 2,
+      "content": "也就意味着未来是未来",
+      "music": 0.0
+    },
+    {
+      "from": 538.67,
+      "to": 541.61,
+      "sid": 231,
+      "location": 2,
+      "content": "国内芯片生产的成本会大幅的攀升",
+      "music": 0.0
+    },
+    {
+      "from": 541.61,
+      "to": 544.0,
+      "sid": 232,
+      "location": 2,
+      "content": "所以杰弗瑞在这篇研报的结尾呢是说",
+      "music": 0.0
+    },
+    {
+      "from": 544.0,
+      "to": 547.02,
+      "sid": 233,
+      "location": 2,
+      "content": "我们必须看到更高的API定价",
+      "music": 0.0
+    },
+    {
+      "from": 547.02,
+      "to": 551.4,
+      "sid": 234,
+      "location": 2,
+      "content": "同时伴随着爆发式的API token的消费需求",
+      "music": 0.0
+    },
+    {
+      "from": 551.4,
+      "to": 552.29,
+      "sid": 235,
+      "location": 2,
+      "content": "不然的话",
+      "music": 0.0
+    },
+    {
+      "from": 552.29,
+      "to": 553.87,
+      "sid": 236,
+      "location": 2,
+      "content": "这些大模型厂商",
+      "music": 0.0
+    },
+    {
+      "from": 553.87,
+      "to": 557.03,
+      "sid": 237,
+      "location": 2,
+      "content": "企业的ROOI就没有基本面的支撑",
+      "music": 0.0
+    },
+    {
+      "from": 557.03,
+      "to": 560.01,
+      "sid": 238,
+      "location": 2,
+      "content": "但似乎在目前中国的大环境下",
+      "music": 0.0
+    },
+    {
+      "from": 560.01,
+      "to": 563.61,
+      "sid": 239,
+      "location": 2,
+      "content": "API定价的上涨和token消耗的大爆发",
+      "music": 0.0
+    },
+    {
+      "from": 563.61,
+      "to": 565.83,
+      "sid": 240,
+      "location": 2,
+      "content": "同时发生的可能性是非常小的",
+      "music": 0.0
+    },
+    {
+      "from": 565.83,
+      "to": 567.11,
+      "sid": 241,
+      "location": 2,
+      "content": "因此在结尾处",
+      "music": 0.0
+    },
+    {
+      "from": 567.11,
+      "to": 571.89,
+      "sid": 242,
+      "location": 2,
+      "content": "杰弗瑞是认为中国这些大模型厂商的价格战啊",
+      "music": 0.0
+    },
+    {
+      "from": 571.89,
+      "to": 574.97,
+      "sid": 243,
+      "location": 2,
+      "content": "是他们目前对整个国内大模型行业",
+      "music": 0.0
+    },
+    {
+      "from": 574.97,
+      "to": 576.35,
+      "sid": 244,
+      "location": 2,
+      "content": "最大的一个隐忧啊",
+      "music": 0.0
+    },
+    {
+      "from": 576.35,
+      "to": 578.67,
+      "sid": 245,
+      "location": 2,
+      "content": "our biggest concern好了",
+      "music": 0.0
+    },
+    {
+      "from": 578.67,
+      "to": 582.95,
+      "sid": 246,
+      "location": 2,
+      "content": "那以上呢就是这篇研报的全部内容了",
+      "music": 0.0
+    },
+    {
+      "from": 583.39,
+      "to": 586.15,
+      "sid": 247,
+      "location": 2,
+      "content": "最后呢我再给大家看研报当中的两张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.15,
+      "to": 588.79,
+      "sid": 248,
+      "location": 2,
+      "content": "第一张图呢就是中美模型之间的智力差距",
+      "music": 0.0
+    },
+    {
+      "from": 588.79,
+      "to": 590.23,
+      "sid": 249,
+      "location": 2,
+      "content": "刚才已经给大家看过了",
+      "music": 0.0
+    },
+    {
+      "from": 590.23,
+      "to": 593.77,
+      "sid": 250,
+      "location": 2,
+      "content": "在最近一段时间呈现出了比较明显的分化趋势",
+      "music": 0.0
+    },
+    {
+      "from": 593.77,
+      "to": 594.75,
+      "sid": 251,
+      "location": 2,
+      "content": "那么第二张图呢",
+      "music": 0.0
+    },
+    {
+      "from": 594.75,
+      "to": 596.79,
+      "sid": 252,
+      "location": 2,
+      "content": "就是涉及到刚刚讨论的这样一个",
+      "music": 0.0
+    },
+    {
+      "from": 596.79,
+      "to": 597.99,
+      "sid": 253,
+      "location": 2,
+      "content": "API定价的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 597.99,
+      "to": 600.47,
+      "sid": 254,
+      "location": 2,
+      "content": "美国的定价如果基准作为百分百的话",
+      "music": 0.0
+    },
+    {
+      "from": 600.47,
+      "to": 603.93,
+      "sid": 255,
+      "location": 2,
+      "content": "你可以看到中国的API定价始终是非常之低的",
+      "music": 0.0
+    },
+    {
+      "from": 603.93,
+      "to": 607.08,
+      "sid": 256,
+      "location": 2,
+      "content": "大概只有美国定价的1/3左右",
+      "music": 0.0
+    },
+    {
+      "from": 607.08,
+      "to": 610.6,
+      "sid": 257,
+      "location": 2,
+      "content": "所以呢这篇研报的标题啊也叫做model intelligence",
+      "music": 0.0
+    },
+    {
+      "from": 610.6,
+      "to": 612.08,
+      "sid": 258,
+      "location": 2,
+      "content": "就是模型的智力",
+      "music": 0.0
+    },
+    {
+      "from": 612.08,
+      "to": 614.54,
+      "sid": 259,
+      "location": 2,
+      "content": "and token price就是API的定价",
+      "music": 0.0
+    },
+    {
+      "from": 614.54,
+      "to": 619.64,
+      "sid": 260,
+      "location": 2,
+      "content": "这两个维度的gap已经在中美之间逐渐的扩大了",
+      "music": 0.0
+    },
+    {
+      "from": 619.64,
+      "to": 620.16,
+      "sid": 261,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 620.16,
+      "to": 622.06,
+      "sid": 262,
+      "location": 2,
+      "content": "那就简单的跟大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 622.06,
+      "to": 623.88,
+      "sid": 263,
+      "location": 2,
+      "content": "这篇小灯行业的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 623.88,
+      "to": 625.2,
+      "sid": 264,
+      "location": 2,
+      "content": "有什么说的不对的地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 625.2,
+      "to": 626.4,
+      "sid": 265,
+      "location": 2,
+      "content": "还请大家多多指正",
+      "music": 0.0
+    },
+    {
+      "from": 626.4,
+      "to": 627.16,
+      "sid": 266,
+      "location": 2,
+      "content": "还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.16,
+      "to": 628.64,
+      "sid": 267,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 628.64,
+      "to": 630.34,
+      "sid": 268,
+      "location": 2,
+      "content": "欢迎大家在本视频的描描述栏当中",
+      "music": 0.0
+    },
+    {
+      "from": 630.34,
+      "to": 631.98,
+      "sid": 269,
+      "location": 2,
+      "content": "去获取谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 631.98,
+      "to": 633.36,
+      "sid": 270,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 633.36,
+      "to": 634.84,
+      "sid": 271,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 634.84,
+      "to": 635.6,
+      "sid": 272,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1628 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.78,
+      "sid": 1,
+      "location": 2,
+      "content": "今天咱们要聊一份特别有意思的报告",
+      "music": 0.0
+    },
+    {
+      "from": 2.78,
+      "to": 7.4,
+      "sid": 2,
+      "location": 2,
+      "content": "摩根大通2026年5月发布的中国量化策略",
+      "music": 0.0
+    },
+    {
+      "from": 7.4,
+      "to": 9.78,
+      "sid": 3,
+      "location": 2,
+      "content": "股票风格因子参考手册",
+      "music": 0.0
+    },
+    {
+      "from": 9.78,
+      "to": 10.66,
+      "sid": 4,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 10.66,
+      "to": 13.129,
+      "sid": 5,
+      "location": 2,
+      "content": "这份报告最核心的观点就是",
+      "music": 0.0
+    },
+    {
+      "from": 13.129,
+      "to": 17.39,
+      "sid": 6,
+      "location": 2,
+      "content": "在中国市场没有一个投资风格能持续赚钱",
+      "music": 0.0
+    },
+    {
+      "from": 17.39,
+      "to": 20.19,
+      "sid": 7,
+      "location": 2,
+      "content": "对这个结论其实贯穿了整份报告",
+      "music": 0.0
+    },
+    {
+      "from": 20.19,
+      "to": 22.07,
+      "sid": 8,
+      "location": 2,
+      "content": "他们用了25年的数据",
+      "music": 0.0
+    },
+    {
+      "from": 22.07,
+      "to": 24.66,
+      "sid": 9,
+      "location": 2,
+      "content": "从2001年1月开始回测",
+      "music": 0.0
+    },
+    {
+      "from": 24.66,
+      "to": 29.48,
+      "sid": 10,
+      "location": 2,
+      "content": "涵盖了MSCI中国指数成份股从不到150只",
+      "music": 0.0
+    },
+    {
+      "from": 29.48,
+      "to": 32.12,
+      "sid": 11,
+      "location": 2,
+      "content": "扩张到超过700只的全过程",
+      "music": 0.0
+    },
+    {
+      "from": 32.12,
+      "to": 34.36,
+      "sid": 12,
+      "location": 2,
+      "content": "而且这个分析框架特别有意思",
+      "music": 0.0
+    },
+    {
+      "from": 34.36,
+      "to": 38.07,
+      "sid": 13,
+      "location": 2,
+      "content": "不是去寻找一个完美的单一因子",
+      "music": 0.0
+    },
+    {
+      "from": 38.07,
+      "to": 42.53,
+      "sid": 14,
+      "location": 2,
+      "content": "而是把价值动量质量成长这四个基础因子",
+      "music": 0.0
+    },
+    {
+      "from": 42.53,
+      "to": 43.71,
+      "sid": 15,
+      "location": 2,
+      "content": "用最透明",
+      "music": 0.0
+    },
+    {
+      "from": 43.71,
+      "to": 47.0,
+      "sid": 16,
+      "location": 2,
+      "content": "最简单的等权重方式组合起来等等",
+      "music": 0.0
+    },
+    {
+      "from": 47.0,
+      "to": 49.26,
+      "sid": 17,
+      "location": 2,
+      "content": "你说最简单",
+      "music": 0.0
+    },
+    {
+      "from": 49.26,
+      "to": 52.58,
+      "sid": 18,
+      "location": 2,
+      "content": "我以为量化策略都是那种特别复杂的",
+      "music": 0.0
+    },
+    {
+      "from": 52.58,
+      "to": 53.66,
+      "sid": 19,
+      "location": 2,
+      "content": "数学模型呢",
+      "music": 0.0
+    },
+    {
+      "from": 53.66,
+      "to": 54.62,
+      "sid": 20,
+      "location": 2,
+      "content": "恰恰相反",
+      "music": 0.0
+    },
+    {
+      "from": 54.62,
+      "to": 56.569,
+      "sid": 21,
+      "location": 2,
+      "content": "报告里特别强调",
+      "music": 0.0
+    },
+    {
+      "from": 56.569,
+      "to": 60.909,
+      "sid": 22,
+      "location": 2,
+      "content": "他们故意避免了过度优化和黑箱化的做法",
+      "music": 0.0
+    },
+    {
+      "from": 60.909,
+      "to": 62.609,
+      "sid": 23,
+      "location": 2,
+      "content": "就拿价值风格来说吧",
+      "music": 0.0
+    },
+    {
+      "from": 62.609,
+      "to": 64.42,
+      "sid": 24,
+      "location": 2,
+      "content": "他们用了八个基础指标",
+      "music": 0.0
+    },
+    {
+      "from": 64.42,
+      "to": 66.04,
+      "sid": 25,
+      "location": 2,
+      "content": "历史盈利收益率",
+      "music": 0.0
+    },
+    {
+      "from": 66.04,
+      "to": 67.58,
+      "sid": 26,
+      "location": 2,
+      "content": "现金流收益率",
+      "music": 0.0
+    },
+    {
+      "from": 67.58,
+      "to": 69.04,
+      "sid": 27,
+      "location": 2,
+      "content": "销售收益率",
+      "music": 0.0
+    },
+    {
+      "from": 69.04,
+      "to": 70.58,
+      "sid": 28,
+      "location": 2,
+      "content": "股息收益率",
+      "music": 0.0
+    },
+    {
+      "from": 70.58,
+      "to": 73.9,
+      "sid": 29,
+      "location": 2,
+      "content": "还有前瞻的每股盈利收益率",
+      "music": 0.0
+    },
+    {
+      "from": 73.9,
+      "to": 75.98,
+      "sid": 30,
+      "location": 2,
+      "content": "每股现金流收益率",
+      "music": 0.0
+    },
+    {
+      "from": 75.98,
+      "to": 78.16,
+      "sid": 31,
+      "location": 2,
+      "content": "净资产收益率和市净率",
+      "music": 0.0
+    },
+    {
+      "from": 78.16,
+      "to": 80.24,
+      "sid": 32,
+      "location": 2,
+      "content": "每个指标权重都一样",
+      "music": 0.0
+    },
+    {
+      "from": 80.24,
+      "to": 83.24,
+      "sid": 33,
+      "location": 2,
+      "content": "没有哪个指标会因为近期表现特别好",
+      "music": 0.0
+    },
+    {
+      "from": 83.24,
+      "to": 84.92,
+      "sid": 34,
+      "location": 2,
+      "content": "就被赋予更高权重",
+      "music": 0.0
+    },
+    {
+      "from": 85.63,
+      "to": 88.05,
+      "sid": 35,
+      "location": 2,
+      "content": "这个思路很务实啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.05,
+      "to": 92.47,
+      "sid": 36,
+      "location": 2,
+      "content": "那这些不同的投资风格在中国到底表现怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 92.47,
+      "to": 94.23,
+      "sid": 37,
+      "location": 2,
+      "content": "这就是最精彩的部分了",
+      "music": 0.0
+    },
+    {
+      "from": 94.23,
+      "to": 95.26,
+      "sid": 38,
+      "location": 2,
+      "content": "报告发现",
+      "music": 0.0
+    },
+    {
+      "from": 95.26,
+      "to": 99.28,
+      "sid": 39,
+      "location": 2,
+      "content": "单看任何一个风格业绩都相当不稳定",
+      "music": 0.0
+    },
+    {
+      "from": 99.28,
+      "to": 103.58,
+      "sid": 40,
+      "location": 2,
+      "content": "比如说动量策略就是买过去表现好的股票",
+      "music": 0.0
+    },
+    {
+      "from": 103.58,
+      "to": 105.24,
+      "sid": 41,
+      "location": 2,
+      "content": "卖掉表现差的",
+      "music": 0.0
+    },
+    {
+      "from": 105.24,
+      "to": 106.95,
+      "sid": 42,
+      "location": 2,
+      "content": "这是表现最好的",
+      "music": 0.0
+    },
+    {
+      "from": 106.95,
+      "to": 110.39,
+      "sid": 43,
+      "location": 2,
+      "content": "年化多空收益率能达到12.0%",
+      "music": 0.0
+    },
+    {
+      "from": 110.39,
+      "to": 112.35,
+      "sid": 44,
+      "location": 2,
+      "content": "但它的波动率也不小",
+      "music": 0.0
+    },
+    {
+      "from": 112.35,
+      "to": 113.97,
+      "sid": 45,
+      "location": 2,
+      "content": "有15.7%",
+      "music": 0.0
+    },
+    {
+      "from": 113.97,
+      "to": 115.859,
+      "sid": 46,
+      "location": 2,
+      "content": "等一下动量策略",
+      "music": 0.0
+    },
+    {
+      "from": 115.859,
+      "to": 117.659,
+      "sid": 47,
+      "location": 2,
+      "content": "这不就是追涨杀跌嘛",
+      "music": 0.0
+    },
+    {
+      "from": 117.659,
+      "to": 120.8,
+      "sid": 48,
+      "location": 2,
+      "content": "在中国能赚钱确实如此",
+      "music": 0.0
+    },
+    {
+      "from": 120.8,
+      "to": 123.42,
+      "sid": 49,
+      "location": 2,
+      "content": "而且不光是多空策略",
+      "music": 0.0
+    },
+    {
+      "from": 123.42,
+      "to": 125.4,
+      "sid": 50,
+      "location": 2,
+      "content": "纯做多的动量策略",
+      "music": 0.0
+    },
+    {
+      "from": 125.4,
+      "to": 128.18,
+      "sid": 51,
+      "location": 2,
+      "content": "年化收益也有16点2%",
+      "music": 0.0
+    },
+    {
+      "from": 128.18,
+      "to": 129.28,
+      "sid": 52,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 129.28,
+      "to": 131.12,
+      "sid": 53,
+      "location": 2,
+      "content": "价值策略就惨多了",
+      "music": 0.0
+    },
+    {
+      "from": 131.12,
+      "to": 134.279,
+      "sid": 54,
+      "location": 2,
+      "content": "年化多空收益只有4.4%",
+      "music": 0.0
+    },
+    {
+      "from": 134.279,
+      "to": 135.799,
+      "sid": 55,
+      "location": 2,
+      "content": "波动率却差不多",
+      "music": 0.0
+    },
+    {
+      "from": 135.799,
+      "to": 138.699,
+      "sid": 56,
+      "location": 2,
+      "content": "导致夏普比率只有0.28",
+      "music": 0.0
+    },
+    {
+      "from": 138.699,
+      "to": 141.26,
+      "sid": 57,
+      "location": 2,
+      "content": "最夸张的是成长风格",
+      "music": 0.0
+    },
+    {
+      "from": 141.26,
+      "to": 144.24,
+      "sid": 58,
+      "location": 2,
+      "content": "年化多空收益只有2.4%",
+      "music": 0.0
+    },
+    {
+      "from": 144.24,
+      "to": 146.51,
+      "sid": 59,
+      "location": 2,
+      "content": "哇这个对比太强烈了",
+      "music": 0.0
+    },
+    {
+      "from": 146.51,
+      "to": 147.95,
+      "sid": 60,
+      "location": 2,
+      "content": "那质量因子呢",
+      "music": 0.0
+    },
+    {
+      "from": 147.95,
+      "to": 152.05,
+      "sid": 61,
+      "location": 2,
+      "content": "很多投资者不是特别看重公司的质量指标吗",
+      "music": 0.0
+    },
+    {
+      "from": 152.05,
+      "to": 154.31,
+      "sid": 62,
+      "location": 2,
+      "content": "这个发现特别颠覆认知",
+      "music": 0.0
+    },
+    {
+      "from": 154.31,
+      "to": 155.3,
+      "sid": 63,
+      "location": 2,
+      "content": "报告里说",
+      "music": 0.0
+    },
+    {
+      "from": 155.3,
+      "to": 158.98,
+      "sid": 64,
+      "location": 2,
+      "content": "高质量公司在中国市场反而被过度定价了",
+      "music": 0.0
+    },
+    {
+      "from": 158.98,
+      "to": 164.32,
+      "sid": 65,
+      "location": 2,
+      "content": "你看那些ROEROIC特别高的蓝筹股市场",
+      "music": 0.0
+    },
+    {
+      "from": 164.32,
+      "to": 165.76,
+      "sid": 66,
+      "location": 2,
+      "content": "给了他们过高的溢价",
+      "music": 0.0
+    },
+    {
+      "from": 165.76,
+      "to": 166.99,
+      "sid": 67,
+      "location": 2,
+      "content": "结果是什么",
+      "music": 0.0
+    },
+    {
+      "from": 166.99,
+      "to": 171.23,
+      "sid": 68,
+      "location": 2,
+      "content": "质量策略的多空年化收益率只有0.6%",
+      "music": 0.0
+    },
+    {
+      "from": 171.23,
+      "to": 173.67,
+      "sid": 69,
+      "location": 2,
+      "content": "最大回撤达到37%",
+      "music": 0.0
+    },
+    {
+      "from": 173.67,
+      "to": 176.11,
+      "sid": 70,
+      "location": 2,
+      "content": "哈哈这不就是典型的贵的东西",
+      "music": 0.0
+    },
+    {
+      "from": 176.11,
+      "to": 177.12,
+      "sid": 71,
+      "location": 2,
+      "content": "不一定好嘛",
+      "music": 0.0
+    },
+    {
+      "from": 177.12,
+      "to": 179.76,
+      "sid": 72,
+      "location": 2,
+      "content": "那既然单个因子都这么不稳定",
+      "music": 0.0
+    },
+    {
+      "from": 179.76,
+      "to": 180.96,
+      "sid": 73,
+      "location": 2,
+      "content": "投资者该怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 180.96,
+      "to": 182.709,
+      "sid": 74,
+      "location": 2,
+      "content": "报告提出了两条路",
+      "music": 0.0
+    },
+    {
+      "from": 182.709,
+      "to": 184.329,
+      "sid": 75,
+      "location": 2,
+      "content": "一条是分散化",
+      "music": 0.0
+    },
+    {
+      "from": 184.329,
+      "to": 186.489,
+      "sid": 76,
+      "location": 2,
+      "content": "也就是做多所有因子",
+      "music": 0.0
+    },
+    {
+      "from": 186.489,
+      "to": 188.029,
+      "sid": 77,
+      "location": 2,
+      "content": "做空所有因子",
+      "music": 0.0
+    },
+    {
+      "from": 188.029,
+      "to": 189.8,
+      "sid": 78,
+      "location": 2,
+      "content": "形成一个平衡的组合",
+      "music": 0.0
+    },
+    {
+      "from": 189.8,
+      "to": 190.6,
+      "sid": 79,
+      "location": 2,
+      "content": "结果显示",
+      "music": 0.0
+    },
+    {
+      "from": 190.6,
+      "to": 192.44,
+      "sid": 80,
+      "location": 2,
+      "content": "这样一个简单的均衡组合",
+      "music": 0.0
+    },
+    {
+      "from": 192.44,
+      "to": 195.79,
+      "sid": 81,
+      "location": 2,
+      "content": "年化收益率能达到16.2%",
+      "music": 0.0
+    },
+    {
+      "from": 195.79,
+      "to": 197.53,
+      "sid": 82,
+      "location": 2,
+      "content": "夏普比率1.04",
+      "music": 0.0
+    },
+    {
+      "from": 197.53,
+      "to": 199.49,
+      "sid": 83,
+      "location": 2,
+      "content": "这个收益水平相当不错啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.49,
+      "to": 201.97,
+      "sid": 84,
+      "location": 2,
+      "content": "比动量策略还要好一点",
+      "music": 0.0
+    },
+    {
+      "from": 201.97,
+      "to": 204.71,
+      "sid": 85,
+      "location": 2,
+      "content": "是的而且更值得注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 204.71,
+      "to": 207.51,
+      "sid": 86,
+      "location": 2,
+      "content": "这种策略的主动收益很稳定",
+      "music": 0.0
+    },
+    {
+      "from": 207.51,
+      "to": 209.99,
+      "sid": 87,
+      "location": 2,
+      "content": "相对于m s sci中国指数",
+      "music": 0.0
+    },
+    {
+      "from": 209.99,
+      "to": 213.06,
+      "sid": 88,
+      "location": 2,
+      "content": "年化主动收益有6.6%",
+      "music": 0.0
+    },
+    {
+      "from": 213.06,
+      "to": 215.28,
+      "sid": 89,
+      "location": 2,
+      "content": "就是说不管市场怎么轮动",
+      "music": 0.0
+    },
+    {
+      "from": 215.28,
+      "to": 216.62,
+      "sid": 90,
+      "location": 2,
+      "content": "你都能跑赢基准",
+      "music": 0.0
+    },
+    {
+      "from": 216.62,
+      "to": 217.86,
+      "sid": 91,
+      "location": 2,
+      "content": "那另一条路呢",
+      "music": 0.0
+    },
+    {
+      "from": 217.86,
+      "to": 219.88,
+      "sid": 92,
+      "location": 2,
+      "content": "另一条路就是择时",
+      "music": 0.0
+    },
+    {
+      "from": 219.88,
+      "to": 223.9,
+      "sid": 93,
+      "location": 2,
+      "content": "报告提到中国市场的特点是regime driven",
+      "music": 0.0
+    },
+    {
+      "from": 223.9,
+      "to": 227.269,
+      "sid": 94,
+      "location": 2,
+      "content": "就是市场主导风格会快速切换",
+      "music": 0.0
+    },
+    {
+      "from": 227.269,
+      "to": 229.369,
+      "sid": 95,
+      "location": 2,
+      "content": "比如2019~2021年",
+      "music": 0.0
+    },
+    {
+      "from": 229.369,
+      "to": 230.889,
+      "sid": 96,
+      "location": 2,
+      "content": "市场追捧白酒",
+      "music": 0.0
+    },
+    {
+      "from": 230.889,
+      "to": 235.15,
+      "sid": 97,
+      "location": 2,
+      "content": "医药这些核心资产价值因子就完全失效了",
+      "music": 0.0
+    },
+    {
+      "from": 235.15,
+      "to": 237.15,
+      "sid": 98,
+      "location": 2,
+      "content": "但到了2021年之后",
+      "music": 0.0
+    },
+    {
+      "from": 237.15,
+      "to": 239.15,
+      "sid": 99,
+      "location": 2,
+      "content": "随着经济转向煤炭",
+      "music": 0.0
+    },
+    {
+      "from": 239.15,
+      "to": 243.34,
+      "sid": 100,
+      "location": 2,
+      "content": "石油银行这些传统行业又开始领涨哦",
+      "music": 0.0
+    },
+    {
+      "from": 243.34,
+      "to": 247.18,
+      "sid": 101,
+      "location": 2,
+      "content": "所以关键是要判断现在是成长风格还是价值",
+      "music": 0.0
+    },
+    {
+      "from": 247.18,
+      "to": 248.44,
+      "sid": 102,
+      "location": 2,
+      "content": "风格占优的时代",
+      "music": 0.0
+    },
+    {
+      "from": 248.44,
+      "to": 252.879,
+      "sid": 103,
+      "location": 2,
+      "content": "对报告给出了两个很实用的宏观指标",
+      "music": 0.0
+    },
+    {
+      "from": 252.879,
+      "to": 255.56,
+      "sid": 104,
+      "location": 2,
+      "content": "判断成长和价值论动",
+      "music": 0.0
+    },
+    {
+      "from": 255.56,
+      "to": 257.52,
+      "sid": 105,
+      "location": 2,
+      "content": "可以看信用脉冲",
+      "music": 0.0
+    },
+    {
+      "from": 257.52,
+      "to": 260.6,
+      "sid": 106,
+      "location": 2,
+      "content": "就是私人部门新增信贷的增速",
+      "music": 0.0
+    },
+    {
+      "from": 260.6,
+      "to": 261.94,
+      "sid": 107,
+      "location": 2,
+      "content": "信贷宽裕的时候",
+      "music": 0.0
+    },
+    {
+      "from": 261.94,
+      "to": 263.56,
+      "sid": 108,
+      "location": 2,
+      "content": "成钢股表现更好",
+      "music": 0.0
+    },
+    {
+      "from": 263.56,
+      "to": 265.12,
+      "sid": 109,
+      "location": 2,
+      "content": "现在收紧的时候",
+      "music": 0.0
+    },
+    {
+      "from": 265.12,
+      "to": 267.21,
+      "sid": 110,
+      "location": 2,
+      "content": "价值股就有机会嗯",
+      "music": 0.0
+    },
+    {
+      "from": 267.21,
+      "to": 269.23,
+      "sid": 111,
+      "location": 2,
+      "content": "这个指标挺直观的",
+      "music": 0.0
+    },
+    {
+      "from": 269.23,
+      "to": 271.05,
+      "sid": 112,
+      "location": 2,
+      "content": "那判断质量风格呢",
+      "music": 0.0
+    },
+    {
+      "from": 271.05,
+      "to": 274.11,
+      "sid": 113,
+      "location": 2,
+      "content": "质量风格有个特别的指标叫PMI",
+      "music": 0.0
+    },
+    {
+      "from": 274.11,
+      "to": 276.14,
+      "sid": 114,
+      "location": 2,
+      "content": "订单库存缺口",
+      "music": 0.0
+    },
+    {
+      "from": 276.14,
+      "to": 279.9,
+      "sid": 115,
+      "location": 2,
+      "content": "简单说就是当订单增长快于库存增长时",
+      "music": 0.0
+    },
+    {
+      "from": 279.9,
+      "to": 281.539,
+      "sid": 116,
+      "location": 2,
+      "content": "经济处于扩张期",
+      "music": 0.0
+    },
+    {
+      "from": 281.539,
+      "to": 284.199,
+      "sid": 117,
+      "location": 2,
+      "content": "高ROE的公司会有超额收益",
+      "music": 0.0
+    },
+    {
+      "from": 284.199,
+      "to": 285.379,
+      "sid": 118,
+      "location": 2,
+      "content": "反之则相反",
+      "music": 0.0
+    },
+    {
+      "from": 285.379,
+      "to": 286.259,
+      "sid": 119,
+      "location": 2,
+      "content": "我明白了",
+      "music": 0.0
+    },
+    {
+      "from": 286.259,
+      "to": 289.36,
+      "sid": 120,
+      "location": 2,
+      "content": "所以这份报告其实是在告诉投资者",
+      "music": 0.0
+    },
+    {
+      "from": 289.36,
+      "to": 292.74,
+      "sid": 121,
+      "location": 2,
+      "content": "与其去猜下一个热点是什么",
+      "music": 0.0
+    },
+    {
+      "from": 292.74,
+      "to": 295.39,
+      "sid": 122,
+      "location": 2,
+      "content": "不如建立一个多元化的组合",
+      "music": 0.0
+    },
+    {
+      "from": 295.39,
+      "to": 299.56,
+      "sid": 123,
+      "location": 2,
+      "content": "通过分散化来对冲不确定性没错",
+      "music": 0.0
+    },
+    {
+      "from": 299.56,
+      "to": 301.56,
+      "sid": 124,
+      "location": 2,
+      "content": "而且报告还提醒了一点",
+      "music": 0.0
+    },
+    {
+      "from": 301.56,
+      "to": 302.14,
+      "sid": 125,
+      "location": 2,
+      "content": "很重要",
+      "music": 0.0
+    },
+    {
+      "from": 302.14,
+      "to": 304.72,
+      "sid": 126,
+      "location": 2,
+      "content": "自从2018年开始纳入A股后",
+      "music": 0.0
+    },
+    {
+      "from": 304.72,
+      "to": 306.84,
+      "sid": 127,
+      "location": 2,
+      "content": "市场容量扩大了大约五倍",
+      "music": 0.0
+    },
+    {
+      "from": 306.84,
+      "to": 309.59,
+      "sid": 128,
+      "location": 2,
+      "content": "但风格轮动的特征并没有改变",
+      "music": 0.0
+    },
+    {
+      "from": 309.59,
+      "to": 314.05,
+      "sid": 129,
+      "location": 2,
+      "content": "这说明中国股市的周期性特征是根深蒂固的",
+      "music": 0.0
+    },
+    {
+      "from": 314.05,
+      "to": 315.44,
+      "sid": 130,
+      "location": 2,
+      "content": "说到市场结构",
+      "music": 0.0
+    },
+    {
+      "from": 315.44,
+      "to": 318.42,
+      "sid": 131,
+      "location": 2,
+      "content": "我注意到报告里提到了一个有意思的概念",
+      "music": 0.0
+    },
+    {
+      "from": 318.42,
+      "to": 321.23,
+      "sid": 132,
+      "location": 2,
+      "content": "有效N比率这是什么",
+      "music": 0.0
+    },
+    {
+      "from": 321.23,
+      "to": 324.25,
+      "sid": 133,
+      "location": 2,
+      "content": "这是一个衡量市场集中度的指标",
+      "music": 0.0
+    },
+    {
+      "from": 324.25,
+      "to": 325.38,
+      "sid": 134,
+      "location": 2,
+      "content": "报告发现",
+      "music": 0.0
+    },
+    {
+      "from": 325.38,
+      "to": 327.58,
+      "sid": 135,
+      "location": 2,
+      "content": "截至2026年4月底",
+      "music": 0.0
+    },
+    {
+      "from": 327.58,
+      "to": 330.49,
+      "sid": 136,
+      "location": 2,
+      "content": "中国市场的有效N比率是65",
+      "music": 0.0
+    },
+    {
+      "from": 330.49,
+      "to": 333.29,
+      "sid": 137,
+      "location": 2,
+      "content": "意思是前65只股票的涨跌幅",
+      "music": 0.0
+    },
+    {
+      "from": 333.29,
+      "to": 335.78,
+      "sid": 138,
+      "location": 2,
+      "content": "基本上决定了整个市场的走势",
+      "music": 0.0
+    },
+    {
+      "from": 335.78,
+      "to": 336.6,
+      "sid": 139,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 336.6,
+      "to": 338.76,
+      "sid": 140,
+      "location": 2,
+      "content": "美国的这个比例是9%",
+      "music": 0.0
+    },
+    {
+      "from": 338.76,
+      "to": 340.48,
+      "sid": 141,
+      "location": 2,
+      "content": "但也算是比较集中的",
+      "music": 0.0
+    },
+    {
+      "from": 340.48,
+      "to": 343.2,
+      "sid": 142,
+      "location": 2,
+      "content": "65只股票决定整个市场",
+      "music": 0.0
+    },
+    {
+      "from": 343.2,
+      "to": 345.3,
+      "sid": 143,
+      "location": 2,
+      "content": "这集中度也太高了吧",
+      "music": 0.0
+    },
+    {
+      "from": 345.3,
+      "to": 346.98,
+      "sid": 144,
+      "location": 2,
+      "content": "是特别高",
+      "music": 0.0
+    },
+    {
+      "from": 346.98,
+      "to": 350.37,
+      "sid": 145,
+      "location": 2,
+      "content": "而且报告还分析了最近的市场变化",
+      "music": 0.0
+    },
+    {
+      "from": 350.37,
+      "to": 352.27,
+      "sid": 146,
+      "location": 2,
+      "content": "2021年科技监管之后",
+      "music": 0.0
+    },
+    {
+      "from": 352.27,
+      "to": 354.09,
+      "sid": 147,
+      "location": 2,
+      "content": "市场集中度一度下降",
+      "music": 0.0
+    },
+    {
+      "from": 354.09,
+      "to": 356.44,
+      "sid": 148,
+      "location": 2,
+      "content": "但最近又有重新集中的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 356.44,
+      "to": 359.18,
+      "sid": 149,
+      "location": 2,
+      "content": "那在这种高度集中的市场里",
+      "music": 0.0
+    },
+    {
+      "from": 359.18,
+      "to": 360.94,
+      "sid": 150,
+      "location": 2,
+      "content": "投资者该怎么操作呢",
+      "music": 0.0
+    },
+    {
+      "from": 360.94,
+      "to": 363.77,
+      "sid": 151,
+      "location": 2,
+      "content": "报告建议投资者关注板块轮动",
+      "music": 0.0
+    },
+    {
+      "from": 363.77,
+      "to": 365.73,
+      "sid": 152,
+      "location": 2,
+      "content": "比如在当前环境下",
+      "music": 0.0
+    },
+    {
+      "from": 365.73,
+      "to": 370.53,
+      "sid": 153,
+      "location": 2,
+      "content": "金融原材料这些低估值板块可能更有配置价值",
+      "music": 0.0
+    },
+    {
+      "from": 370.53,
+      "to": 372.86,
+      "sid": 154,
+      "location": 2,
+      "content": "而信息技术板块需要谨慎",
+      "music": 0.0
+    },
+    {
+      "from": 372.86,
+      "to": 373.66,
+      "sid": 155,
+      "location": 2,
+      "content": "具体来说",
+      "music": 0.0
+    },
+    {
+      "from": 373.66,
+      "to": 376.32,
+      "sid": 156,
+      "location": 2,
+      "content": "他们建议超配金融和原材料",
+      "music": 0.0
+    },
+    {
+      "from": 376.32,
+      "to": 377.78,
+      "sid": 157,
+      "location": 2,
+      "content": "低配信息技术",
+      "music": 0.0
+    },
+    {
+      "from": 377.78,
+      "to": 380.96,
+      "sid": 158,
+      "location": 2,
+      "content": "听起来这套策略挺系统的",
+      "music": 0.0
+    },
+    {
+      "from": 380.96,
+      "to": 382.16,
+      "sid": 159,
+      "location": 2,
+      "content": "不过我有个疑问",
+      "music": 0.0
+    },
+    {
+      "from": 382.16,
+      "to": 384.26,
+      "sid": 160,
+      "location": 2,
+      "content": "如果这些因子这么有效",
+      "music": 0.0
+    },
+    {
+      "from": 384.26,
+      "to": 388.14,
+      "sid": 161,
+      "location": 2,
+      "content": "为什么市场上还有那么多亏钱的投资者呢",
+      "music": 0.0
+    },
+    {
+      "from": 388.14,
+      "to": 389.9,
+      "sid": 162,
+      "location": 2,
+      "content": "报告里其实暗示了这一点",
+      "music": 0.0
+    },
+    {
+      "from": 389.9,
+      "to": 392.16,
+      "sid": 163,
+      "location": 2,
+      "content": "他们说这些因子之所以有效",
+      "music": 0.0
+    },
+    {
+      "from": 392.16,
+      "to": 396.56,
+      "sid": 164,
+      "location": 2,
+      "content": "恰恰是因为很多人不愿意相信他们会一直有效",
+      "music": 0.0
+    },
+    {
+      "from": 396.56,
+      "to": 400.12,
+      "sid": 165,
+      "location": 2,
+      "content": "就像价值因子在2020~2021年间",
+      "music": 0.0
+    },
+    {
+      "from": 400.12,
+      "to": 401.69,
+      "sid": 166,
+      "location": 2,
+      "content": "被集体抛弃",
+      "music": 0.0
+    },
+    {
+      "from": 401.69,
+      "to": 403.99,
+      "sid": 167,
+      "location": 2,
+      "content": "大家都在追逐那些抱团股",
+      "music": 0.0
+    },
+    {
+      "from": 403.99,
+      "to": 406.37,
+      "sid": 168,
+      "location": 2,
+      "content": "结果等市场风格切换回来",
+      "music": 0.0
+    },
+    {
+      "from": 406.37,
+      "to": 407.93,
+      "sid": 169,
+      "location": 2,
+      "content": "坚持价值投资的人",
+      "music": 0.0
+    },
+    {
+      "from": 407.93,
+      "to": 410.57,
+      "sid": 170,
+      "location": 2,
+      "content": "反而获得了丰厚的回报啊",
+      "music": 0.0
+    },
+    {
+      "from": 410.57,
+      "to": 413.84,
+      "sid": 171,
+      "location": 2,
+      "content": "哈这就是所谓的均值回归",
+      "music": 0.0
+    },
+    {
+      "from": 413.84,
+      "to": 415.02,
+      "sid": 172,
+      "location": 2,
+      "content": "东西太便宜了",
+      "music": 0.0
+    },
+    {
+      "from": 415.02,
+      "to": 416.62,
+      "sid": 173,
+      "location": 2,
+      "content": "总有人买东西太贵了",
+      "music": 0.0
+    },
+    {
+      "from": 416.62,
+      "to": 417.3,
+      "sid": 174,
+      "location": 2,
+      "content": "总有人卖",
+      "music": 0.0
+    },
+    {
+      "from": 417.3,
+      "to": 418.67,
+      "sid": 175,
+      "location": 2,
+      "content": "正是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 418.67,
+      "to": 420.23,
+      "sid": 176,
+      "location": 2,
+      "content": "而且报告还提到",
+      "music": 0.0
+    },
+    {
+      "from": 420.23,
+      "to": 421.63,
+      "sid": 177,
+      "location": 2,
+      "content": "即使A股纳入后",
+      "music": 0.0
+    },
+    {
+      "from": 421.63,
+      "to": 422.91,
+      "sid": 178,
+      "location": 2,
+      "content": "市场变得更大",
+      "music": 0.0
+    },
+    {
+      "from": 422.91,
+      "to": 425.51,
+      "sid": 179,
+      "location": 2,
+      "content": "行业配置的alpha并没有消失",
+      "music": 0.0
+    },
+    {
+      "from": 425.51,
+      "to": 427.69,
+      "sid": 180,
+      "location": 2,
+      "content": "反而因为市场深度增加",
+      "music": 0.0
+    },
+    {
+      "from": 427.69,
+      "to": 429.33,
+      "sid": 181,
+      "location": 2,
+      "content": "变得更可持续了",
+      "music": 0.0
+    },
+    {
+      "from": 429.72,
+      "to": 430.4,
+      "sid": 182,
+      "location": 2,
+      "content": "听下来",
+      "music": 0.0
+    },
+    {
+      "from": 430.4,
+      "to": 430.86,
+      "sid": 183,
+      "location": 2,
+      "content": "感觉",
+      "music": 0.0
+    },
+    {
+      "from": 430.86,
+      "to": 432.84,
+      "sid": 184,
+      "location": 2,
+      "content": "这份报告给我们提供了一个",
+      "music": 0.0
+    },
+    {
+      "from": 432.84,
+      "to": 435.5,
+      "sid": 185,
+      "location": 2,
+      "content": "特别实用的投资框架",
+      "music": 0.0
+    },
+    {
+      "from": 435.5,
+      "to": 438.3,
+      "sid": 186,
+      "location": 2,
+      "content": "不是去预测哪个行业会涨",
+      "music": 0.0
+    },
+    {
+      "from": 438.3,
+      "to": 440.56,
+      "sid": 187,
+      "location": 2,
+      "content": "而是通过理解不同风格",
+      "music": 0.0
+    },
+    {
+      "from": 440.56,
+      "to": 443.08,
+      "sid": 188,
+      "location": 2,
+      "content": "在不同市场环境下的表现",
+      "music": 0.0
+    },
+    {
+      "from": 443.08,
+      "to": 448.24,
+      "sid": 189,
+      "location": 2,
+      "content": "构建一个均衡的能够适应各种市场状况的组合",
+      "music": 0.0
+    },
+    {
+      "from": 448.24,
+      "to": 449.36,
+      "sid": 190,
+      "location": 2,
+      "content": "是这样",
+      "music": 0.0
+    },
+    {
+      "from": 449.36,
+      "to": 451.06,
+      "sid": 191,
+      "location": 2,
+      "content": "报告特别强调",
+      "music": 0.0
+    },
+    {
+      "from": 451.06,
+      "to": 455.39,
+      "sid": 192,
+      "location": 2,
+      "content": "这套策略的关键是透明性和可解释性",
+      "music": 0.0
+    },
+    {
+      "from": 455.39,
+      "to": 457.55,
+      "sid": 193,
+      "location": 2,
+      "content": "每个因子的构造都很简单",
+      "music": 0.0
+    },
+    {
+      "from": 457.55,
+      "to": 460.43,
+      "sid": 194,
+      "location": 2,
+      "content": "每个决策都有明确的逻辑支撑",
+      "music": 0.0
+    },
+    {
+      "from": 460.43,
+      "to": 464.05,
+      "sid": 195,
+      "location": 2,
+      "content": "投资者不用担心遇到什么黑天鹅事件",
+      "music": 0.0
+    },
+    {
+      "from": 464.05,
+      "to": 468.07,
+      "sid": 196,
+      "location": 2,
+      "content": "因为整个策略是基于长期有效的市场规律",
+      "music": 0.0
+    },
+    {
+      "from": 468.07,
+      "to": 470.39,
+      "sid": 197,
+      "location": 2,
+      "content": "而不是短期的市场情绪",
+      "music": 0.0
+    },
+    {
+      "from": 470.39,
+      "to": 470.95,
+      "sid": 198,
+      "location": 2,
+      "content": "是啊",
+      "music": 0.0
+    },
+    {
+      "from": 470.95,
+      "to": 474.89,
+      "sid": 199,
+      "location": 2,
+      "content": "尤其是在中国市场这种波动这么大的环境里",
+      "music": 0.0
+    },
+    {
+      "from": 474.89,
+      "to": 478.33,
+      "sid": 200,
+      "location": 2,
+      "content": "有一个清晰的投资逻辑框架真的很重要",
+      "music": 0.0
+    },
+    {
+      "from": 478.33,
+      "to": 480.5,
+      "sid": 201,
+      "location": 2,
+      "content": "好啦今天的分享就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 480.5,
+      "to": 481.88,
+      "sid": 202,
+      "location": 2,
+      "content": "感谢大家的收听",
+      "music": 0.0
+    }
+  ]
+}

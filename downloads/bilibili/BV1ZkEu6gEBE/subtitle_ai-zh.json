@@ -1,0 +1,4460 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.5,
+      "sid": 1,
+      "location": 2,
+      "content": "又到了老生常谈的百城数据哈",
+      "music": 0.0
+    },
+    {
+      "from": 2.5,
+      "to": 4.08,
+      "sid": 2,
+      "location": 2,
+      "content": "今天呢这个发布的有点晚",
+      "music": 0.0
+    },
+    {
+      "from": 4.08,
+      "to": 5.54,
+      "sid": 3,
+      "location": 2,
+      "content": "跟大家也是告个假",
+      "music": 0.0
+    },
+    {
+      "from": 5.54,
+      "to": 6.1,
+      "sid": 4,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 6.1,
+      "to": 8.2,
+      "sid": 5,
+      "location": 2,
+      "content": "因为我一直在香港和澳门",
+      "music": 0.0
+    },
+    {
+      "from": 8.2,
+      "to": 9.02,
+      "sid": 6,
+      "location": 2,
+      "content": "大家看到哈",
+      "music": 0.0
+    },
+    {
+      "from": 9.02,
+      "to": 10.94,
+      "sid": 7,
+      "location": 2,
+      "content": "这个酒店的形象也好久没变了",
+      "music": 0.0
+    },
+    {
+      "from": 10.94,
+      "to": 12.73,
+      "sid": 8,
+      "location": 2,
+      "content": "呃所以呢有点不及时",
+      "music": 0.0
+    },
+    {
+      "from": 12.73,
+      "to": 14.97,
+      "sid": 9,
+      "location": 2,
+      "content": "但是不及时也是对老吉的一个保护哈",
+      "music": 0.0
+    },
+    {
+      "from": 14.97,
+      "to": 16.73,
+      "sid": 10,
+      "location": 2,
+      "content": "哈那今年的百城说什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 16.73,
+      "to": 18.33,
+      "sid": 11,
+      "location": 2,
+      "content": "就是一新房在涨哈",
+      "music": 0.0
+    },
+    {
+      "from": 18.33,
+      "to": 19.43,
+      "sid": 12,
+      "location": 2,
+      "content": "一二线都在涨",
+      "music": 0.0
+    },
+    {
+      "from": 19.43,
+      "to": 20.11,
+      "sid": 13,
+      "location": 2,
+      "content": "好事啊",
+      "music": 0.0
+    },
+    {
+      "from": 20.11,
+      "to": 21.05,
+      "sid": 14,
+      "location": 2,
+      "content": "但是为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 21.05,
+      "to": 25.089,
+      "sid": 15,
+      "location": 2,
+      "content": "你们也知道好房子多了嘛啊第二手呢涨跌互现",
+      "music": 0.0
+    },
+    {
+      "from": 25.089,
+      "to": 26.989,
+      "sid": 16,
+      "location": 2,
+      "content": "总的来说跌的多涨的少",
+      "music": 0.0
+    },
+    {
+      "from": 26.989,
+      "to": 30.66,
+      "sid": 17,
+      "location": 2,
+      "content": "但是啊应该说吧它已经到了一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 30.66,
+      "to": 32.74,
+      "sid": 18,
+      "location": 2,
+      "content": "有一些呃是不是到底啦等等的",
+      "music": 0.0
+    },
+    {
+      "from": 32.74,
+      "to": 34.32,
+      "sid": 19,
+      "location": 2,
+      "content": "对第三个有人说了",
+      "music": 0.0
+    },
+    {
+      "from": 34.32,
+      "to": 36.5,
+      "sid": 20,
+      "location": 2,
+      "content": "老吉你是不是空翻多了呀",
+      "music": 0.0
+    },
+    {
+      "from": 36.5,
+      "to": 37.12,
+      "sid": 21,
+      "location": 2,
+      "content": "没有",
+      "music": 0.0
+    },
+    {
+      "from": 37.12,
+      "to": 38.2,
+      "sid": 22,
+      "location": 2,
+      "content": "但老吉跟你们说",
+      "music": 0.0
+    },
+    {
+      "from": 38.2,
+      "to": 39.22,
+      "sid": 23,
+      "location": 2,
+      "content": "我不是死空投啊",
+      "music": 0.0
+    },
+    {
+      "from": 39.22,
+      "to": 40.44,
+      "sid": 24,
+      "location": 2,
+      "content": "我炒房出身啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.44,
+      "to": 41.12,
+      "sid": 25,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 41.12,
+      "to": 42.7,
+      "sid": 26,
+      "location": 2,
+      "content": "底一定是有底的",
+      "music": 0.0
+    },
+    {
+      "from": 42.7,
+      "to": 46.84,
+      "sid": 27,
+      "location": 2,
+      "content": "但是区别在于有些东西到了底它能起来",
+      "music": 0.0
+    },
+    {
+      "from": 46.84,
+      "to": 49.52,
+      "sid": 28,
+      "location": 2,
+      "content": "有些东西到了底就躺在那了",
+      "music": 0.0
+    },
+    {
+      "from": 49.52,
+      "to": 50.5,
+      "sid": 29,
+      "location": 2,
+      "content": "大家理解哈",
+      "music": 0.0
+    },
+    {
+      "from": 50.5,
+      "to": 53.04,
+      "sid": 30,
+      "location": 2,
+      "content": "那么第四个怎么看到不到底呢",
+      "music": 0.0
+    },
+    {
+      "from": 53.04,
+      "to": 54.72,
+      "sid": 31,
+      "location": 2,
+      "content": "我一直说过能算的",
+      "music": 0.0
+    },
+    {
+      "from": 54.72,
+      "to": 56.74,
+      "sid": 32,
+      "location": 2,
+      "content": "你现在更重要的是算什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 56.74,
+      "to": 58.1,
+      "sid": 33,
+      "location": 2,
+      "content": "就两种房子好卖",
+      "music": 0.0
+    },
+    {
+      "from": 58.1,
+      "to": 59.88,
+      "sid": 34,
+      "location": 2,
+      "content": "第一种新房嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 59.88,
+      "to": 60.76,
+      "sid": 35,
+      "location": 2,
+      "content": "确实好",
+      "music": 0.0
+    },
+    {
+      "from": 60.76,
+      "to": 62.06,
+      "sid": 36,
+      "location": 2,
+      "content": "那我就有钱哎",
+      "music": 0.0
+    },
+    {
+      "from": 62.06,
+      "to": 63.34,
+      "sid": 37,
+      "location": 2,
+      "content": "老吉如果挣了两个亿",
+      "music": 0.0
+    },
+    {
+      "from": 63.34,
+      "to": 64.66,
+      "sid": 38,
+      "location": 2,
+      "content": "你以为我不会去买新房吗",
+      "music": 0.0
+    },
+    {
+      "from": 64.66,
+      "to": 65.62,
+      "sid": 39,
+      "location": 2,
+      "content": "我不会去结婚吗",
+      "music": 0.0
+    },
+    {
+      "from": 65.62,
+      "to": 66.62,
+      "sid": 40,
+      "location": 2,
+      "content": "我不为了娶媳妇儿",
+      "music": 0.0
+    },
+    {
+      "from": 66.62,
+      "to": 67.48,
+      "sid": 41,
+      "location": 2,
+      "content": "我要跟我换一个吗",
+      "music": 0.0
+    },
+    {
+      "from": 67.48,
+      "to": 67.94,
+      "sid": 42,
+      "location": 2,
+      "content": "会的",
+      "music": 0.0
+    },
+    {
+      "from": 67.94,
+      "to": 70.6,
+      "sid": 43,
+      "location": 2,
+      "content": "还有一种就是跌出了极致性价比的",
+      "music": 0.0
+    },
+    {
+      "from": 70.6,
+      "to": 74.2,
+      "sid": 44,
+      "location": 2,
+      "content": "那假如说你在上海买个老破小一年的",
+      "music": 0.0
+    },
+    {
+      "from": 74.2,
+      "to": 75.18,
+      "sid": 45,
+      "location": 2,
+      "content": "租房的收益率",
+      "music": 0.0
+    },
+    {
+      "from": 75.18,
+      "to": 76.92,
+      "sid": 46,
+      "location": 2,
+      "content": "假如啊有3.5%",
+      "music": 0.0
+    },
+    {
+      "from": 76.92,
+      "to": 78.1,
+      "sid": 47,
+      "location": 2,
+      "content": "400%分之五",
+      "music": 0.0
+    },
+    {
+      "from": 78.1,
+      "to": 79.66,
+      "sid": 48,
+      "location": 2,
+      "content": "那他就到到底了吗",
+      "music": 0.0
+    },
+    {
+      "from": 79.66,
+      "to": 80.98,
+      "sid": 49,
+      "location": 2,
+      "content": "我们收收租就可以了吗",
+      "music": 0.0
+    },
+    {
+      "from": 80.98,
+      "to": 81.38,
+      "sid": 50,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 81.38,
+      "to": 82.68,
+      "sid": 51,
+      "location": 2,
+      "content": "所以可以自己算",
+      "music": 0.0
+    },
+    {
+      "from": 82.68,
+      "to": 85.36,
+      "sid": 52,
+      "location": 2,
+      "content": "那最后一个朋友对于你自己来说",
+      "music": 0.0
+    },
+    {
+      "from": 85.36,
+      "to": 88.93,
+      "sid": 53,
+      "location": 2,
+      "content": "我还是觉得整个房地产把它作为投资",
+      "music": 0.0
+    },
+    {
+      "from": 88.93,
+      "to": 90.87,
+      "sid": 54,
+      "location": 2,
+      "content": "作为那种的烈火烹油",
+      "music": 0.0
+    },
+    {
+      "from": 90.87,
+      "to": 92.03,
+      "sid": 55,
+      "location": 2,
+      "content": "肯定时代过去了",
+      "music": 0.0
+    },
+    {
+      "from": 92.03,
+      "to": 94.78,
+      "sid": 56,
+      "location": 2,
+      "content": "但是如果你说你稳稳的收租",
+      "music": 0.0
+    },
+    {
+      "from": 94.78,
+      "to": 96.42,
+      "sid": 57,
+      "location": 2,
+      "content": "就像买银行股那样的话",
+      "music": 0.0
+    },
+    {
+      "from": 96.42,
+      "to": 99.58,
+      "sid": 58,
+      "location": 2,
+      "content": "如果你所在那个城市人口是流入的啊",
+      "music": 0.0
+    },
+    {
+      "from": 99.58,
+      "to": 100.66,
+      "sid": 59,
+      "location": 2,
+      "content": "经济是增长的",
+      "music": 0.0
+    },
+    {
+      "from": 100.66,
+      "to": 102.74,
+      "sid": 60,
+      "location": 2,
+      "content": "是属于这个前排的",
+      "music": 0.0
+    },
+    {
+      "from": 102.74,
+      "to": 103.5,
+      "sid": 61,
+      "location": 2,
+      "content": "你可以做",
+      "music": 0.0
+    },
+    {
+      "from": 103.5,
+      "to": 106.22,
+      "sid": 62,
+      "location": 2,
+      "content": "但如果你那个城市像我的城市一样",
+      "music": 0.0
+    },
+    {
+      "from": 106.22,
+      "to": 108.04,
+      "sid": 63,
+      "location": 2,
+      "content": "连个人都留不住",
+      "music": 0.0
+    },
+    {
+      "from": 108.04,
+      "to": 110.2,
+      "sid": 64,
+      "location": 2,
+      "content": "你觉得呢香港情况大家知道",
+      "music": 0.0
+    },
+    {
+      "from": 110.2,
+      "to": 111.27,
+      "sid": 65,
+      "location": 2,
+      "content": "海外也知道了啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.27,
+      "to": 112.99,
+      "sid": 66,
+      "location": 2,
+      "content": "我们好好看世界杯吧",
+      "music": 0.0
+    },
+    {
+      "from": 112.99,
+      "to": 115.41,
+      "sid": 67,
+      "location": 2,
+      "content": "有一些具体的大家想了解的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.41,
+      "to": 118.31,
+      "sid": 68,
+      "location": 2,
+      "content": "保护老吉联系吉胖100W的北极贝好吗",
+      "music": 0.0
+    },
+    {
+      "from": 118.31,
+      "to": 119.29,
+      "sid": 69,
+      "location": 2,
+      "content": "废话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 119.29,
+      "to": 121.98,
+      "sid": 70,
+      "location": 2,
+      "content": "来咱们直接上图看一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 121.98,
+      "to": 125.54,
+      "sid": 71,
+      "location": 2,
+      "content": "这个图就是咱们百城的房价数据",
+      "music": 0.0
+    },
+    {
+      "from": 125.54,
+      "to": 127.5,
+      "sid": 72,
+      "location": 2,
+      "content": "里面一个新房的数据",
+      "music": 0.0
+    },
+    {
+      "from": 127.5,
+      "to": 128.699,
+      "sid": 73,
+      "location": 2,
+      "content": "对的朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 128.699,
+      "to": 131.999,
+      "sid": 74,
+      "location": 2,
+      "content": "我们看新建住宅的月度价格",
+      "music": 0.0
+    },
+    {
+      "from": 131.999,
+      "to": 134.41,
+      "sid": 75,
+      "location": 2,
+      "content": "这个趋势变化和环比怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 134.41,
+      "to": 135.63,
+      "sid": 76,
+      "location": 2,
+      "content": "是不是非常稳",
+      "music": 0.0
+    },
+    {
+      "from": 135.63,
+      "to": 140.25,
+      "sid": 77,
+      "location": 2,
+      "content": "而且很多城市已经走出了往上走的一个趋势喽",
+      "music": 0.0
+    },
+    {
+      "from": 140.25,
+      "to": 141.93,
+      "sid": 78,
+      "location": 2,
+      "content": "来我们可以看一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 141.93,
+      "to": 143.27,
+      "sid": 79,
+      "location": 2,
+      "content": "新建的5月份",
+      "music": 0.0
+    },
+    {
+      "from": 143.27,
+      "to": 148.12,
+      "sid": 80,
+      "location": 2,
+      "content": "一线城市的价格环比上涨了0.26%",
+      "music": 0.0
+    },
+    {
+      "from": 148.12,
+      "to": 149.92,
+      "sid": 81,
+      "location": 2,
+      "content": "同比涨了5.54",
+      "music": 0.0
+    },
+    {
+      "from": 149.92,
+      "to": 154.38,
+      "sid": 82,
+      "location": 2,
+      "content": "尤其是深圳上海广州环比分别上涨0.48",
+      "music": 0.0
+    },
+    {
+      "from": 154.38,
+      "to": 156.28,
+      "sid": 83,
+      "location": 2,
+      "content": "0.44和0.19",
+      "music": 0.0
+    },
+    {
+      "from": 156.28,
+      "to": 157.16,
+      "sid": 84,
+      "location": 2,
+      "content": "看见没有",
+      "music": 0.0
+    },
+    {
+      "from": 157.16,
+      "to": 158.5,
+      "sid": 85,
+      "location": 2,
+      "content": "四大一线城市",
+      "music": 0.0
+    },
+    {
+      "from": 158.5,
+      "to": 159.68,
+      "sid": 86,
+      "location": 2,
+      "content": "三个都是这么涨的",
+      "music": 0.0
+    },
+    {
+      "from": 159.68,
+      "to": 162.88,
+      "sid": 87,
+      "location": 2,
+      "content": "哎小月给大家把整个的这个表列出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.88,
+      "to": 166.5,
+      "sid": 88,
+      "location": 2,
+      "content": "你们自己看一看这个新建的商品住宅哪些在涨",
+      "music": 0.0
+    },
+    {
+      "from": 166.5,
+      "to": 167.0,
+      "sid": 89,
+      "location": 2,
+      "content": "都在涨",
+      "music": 0.0
+    },
+    {
+      "from": 167.0,
+      "to": 170.34,
+      "sid": 90,
+      "location": 2,
+      "content": "呼和浩特还涨了0.58%",
+      "music": 0.0
+    },
+    {
+      "from": 170.34,
+      "to": 172.42,
+      "sid": 91,
+      "location": 2,
+      "content": "那新建的你看成都涨了多少",
+      "music": 0.0
+    },
+    {
+      "from": 172.42,
+      "to": 173.0,
+      "sid": 92,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 173.0,
+      "to": 175.54,
+      "sid": 93,
+      "location": 2,
+      "content": "朋友们上涨的城市非常多啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.54,
+      "to": 176.48,
+      "sid": 94,
+      "location": 2,
+      "content": "无锡苏州",
+      "music": 0.0
+    },
+    {
+      "from": 176.48,
+      "to": 178.53,
+      "sid": 95,
+      "location": 2,
+      "content": "太原衡水等等都在涨是吧",
+      "music": 0.0
+    },
+    {
+      "from": 178.53,
+      "to": 180.17,
+      "sid": 96,
+      "location": 2,
+      "content": "形势好像是一片大好的",
+      "music": 0.0
+    },
+    {
+      "from": 180.17,
+      "to": 181.17,
+      "sid": 97,
+      "location": 2,
+      "content": "那为啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.17,
+      "to": 182.05,
+      "sid": 98,
+      "location": 2,
+      "content": "我说了吗",
+      "music": 0.0
+    },
+    {
+      "from": 182.05,
+      "to": 183.43,
+      "sid": 99,
+      "location": 2,
+      "content": "你卖的都是好东西",
+      "music": 0.0
+    },
+    {
+      "from": 183.43,
+      "to": 184.28,
+      "sid": 100,
+      "location": 2,
+      "content": "当然这样了",
+      "music": 0.0
+    },
+    {
+      "from": 184.28,
+      "to": 186.3,
+      "sid": 101,
+      "location": 2,
+      "content": "你卖的都是10万块钱的车",
+      "music": 0.0
+    },
+    {
+      "from": 186.3,
+      "to": 187.4,
+      "sid": 102,
+      "location": 2,
+      "content": "那你说平均多少",
+      "music": 0.0
+    },
+    {
+      "from": 187.4,
+      "to": 189.8,
+      "sid": 103,
+      "location": 2,
+      "content": "如果你卖的全是各种啊",
+      "music": 0.0
+    },
+    {
+      "from": 189.8,
+      "to": 191.36,
+      "sid": 104,
+      "location": 2,
+      "content": "1000万以内最好的车",
+      "music": 0.0
+    },
+    {
+      "from": 191.36,
+      "to": 192.93,
+      "sid": 105,
+      "location": 2,
+      "content": "那你当然就上去了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 192.93,
+      "to": 194.91,
+      "sid": 106,
+      "location": 2,
+      "content": "新入市都是高端项目",
+      "music": 0.0
+    },
+    {
+      "from": 194.91,
+      "to": 196.93,
+      "sid": 107,
+      "location": 2,
+      "content": "比如说我们看一下重点城市的",
+      "music": 0.0
+    },
+    {
+      "from": 196.93,
+      "to": 197.7,
+      "sid": 108,
+      "location": 2,
+      "content": "新开盘的",
+      "music": 0.0
+    },
+    {
+      "from": 197.7,
+      "to": 200.6,
+      "sid": 109,
+      "location": 2,
+      "content": "北京上海广州深圳杭州成都都是一二线城市哈",
+      "music": 0.0
+    },
+    {
+      "from": 200.6,
+      "to": 202.66,
+      "sid": 110,
+      "location": 2,
+      "content": "你自己看一看他开的是多少嗯",
+      "music": 0.0
+    },
+    {
+      "from": 202.66,
+      "to": 203.83,
+      "sid": 111,
+      "location": 2,
+      "content": "开的均价是多少",
+      "music": 0.0
+    },
+    {
+      "from": 203.83,
+      "to": 207.65,
+      "sid": 112,
+      "location": 2,
+      "content": "上海这个环宇九章开了11万5诶",
+      "music": 0.0
+    },
+    {
+      "from": 207.65,
+      "to": 210.05,
+      "sid": 113,
+      "location": 2,
+      "content": "保利江上运开了11万",
+      "music": 0.0
+    },
+    {
+      "from": 210.05,
+      "to": 210.99,
+      "sid": 114,
+      "location": 2,
+      "content": "还有深圳",
+      "music": 0.0
+    },
+    {
+      "from": 210.99,
+      "to": 214.13,
+      "sid": 115,
+      "location": 2,
+      "content": "你们知道的那个深圳的这个观观潮啊",
+      "music": 0.0
+    },
+    {
+      "from": 214.13,
+      "to": 217.66,
+      "sid": 116,
+      "location": 2,
+      "content": "就观澜附近的那深圳开说十几万二十万的",
+      "music": 0.0
+    },
+    {
+      "from": 217.66,
+      "to": 218.72,
+      "sid": 117,
+      "location": 2,
+      "content": "如果都是这种房子",
+      "music": 0.0
+    },
+    {
+      "from": 218.72,
+      "to": 219.64,
+      "sid": 118,
+      "location": 2,
+      "content": "肯定拉上去了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 219.64,
+      "to": 220.14,
+      "sid": 119,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 220.14,
+      "to": 221.52,
+      "sid": 120,
+      "location": 2,
+      "content": "所以确实是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 221.52,
+      "to": 223.94,
+      "sid": 121,
+      "location": 2,
+      "content": "那二线的环比也上涨了0.23",
+      "music": 0.0
+    },
+    {
+      "from": 223.94,
+      "to": 225.44,
+      "sid": 122,
+      "location": 2,
+      "content": "同比涨1.75",
+      "music": 0.0
+    },
+    {
+      "from": 225.44,
+      "to": 229.4,
+      "sid": 123,
+      "location": 2,
+      "content": "可是居于主流的三四线怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 229.4,
+      "to": 231.3,
+      "sid": 124,
+      "location": 2,
+      "content": "环比下跌了0.14",
+      "music": 0.0
+    },
+    {
+      "from": 231.3,
+      "to": 232.93,
+      "sid": 125,
+      "location": 2,
+      "content": "同比跌了2.6",
+      "music": 0.0
+    },
+    {
+      "from": 232.93,
+      "to": 235.03,
+      "sid": 126,
+      "location": 2,
+      "content": "涨跌的个数看29个",
+      "music": 0.0
+    },
+    {
+      "from": 235.03,
+      "to": 236.33,
+      "sid": 127,
+      "location": 2,
+      "content": "环比上涨65个",
+      "music": 0.0
+    },
+    {
+      "from": 236.33,
+      "to": 237.01,
+      "sid": 128,
+      "location": 2,
+      "content": "环比下跌",
+      "music": 0.0
+    },
+    {
+      "from": 237.01,
+      "to": 239.16,
+      "sid": 129,
+      "location": 2,
+      "content": "有六个城市是持平的",
+      "music": 0.0
+    },
+    {
+      "from": 239.16,
+      "to": 239.88,
+      "sid": 130,
+      "location": 2,
+      "content": "先留在这",
+      "music": 0.0
+    },
+    {
+      "from": 239.88,
+      "to": 240.6,
+      "sid": 131,
+      "location": 2,
+      "content": "大家发现了啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.6,
+      "to": 242.5,
+      "sid": 132,
+      "location": 2,
+      "content": "有1/3已经不跌了",
+      "music": 0.0
+    },
+    {
+      "from": 242.5,
+      "to": 243.74,
+      "sid": 133,
+      "location": 2,
+      "content": "涨或者是平了",
+      "music": 0.0
+    },
+    {
+      "from": 243.74,
+      "to": 244.74,
+      "sid": 134,
+      "location": 2,
+      "content": "是不是到底了呢",
+      "music": 0.0
+    },
+    {
+      "from": 244.74,
+      "to": 245.79,
+      "sid": 135,
+      "location": 2,
+      "content": "咱们一会再说",
+      "music": 0.0
+    },
+    {
+      "from": 245.79,
+      "to": 248.11,
+      "sid": 136,
+      "location": 2,
+      "content": "再看大家更关注的什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 248.11,
+      "to": 250.48,
+      "sid": 137,
+      "location": 2,
+      "content": "这个二手房的数据来接着看图",
+      "music": 0.0
+    },
+    {
+      "from": 250.48,
+      "to": 252.96,
+      "sid": 138,
+      "location": 2,
+      "content": "二手房如果你看那个价的话",
+      "music": 0.0
+    },
+    {
+      "from": 252.96,
+      "to": 254.27,
+      "sid": 139,
+      "location": 2,
+      "content": "是这样的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 254.27,
+      "to": 255.43,
+      "sid": 140,
+      "location": 2,
+      "content": "如果你看那个增速",
+      "music": 0.0
+    },
+    {
+      "from": 255.43,
+      "to": 258.97,
+      "sid": 141,
+      "location": 2,
+      "content": "我们达到了0.32%的向下增长啊",
+      "music": 0.0
+    },
+    {
+      "from": 258.97,
+      "to": 260.71,
+      "sid": 142,
+      "location": 2,
+      "content": "这是一个非常完美的数据",
+      "music": 0.0
+    },
+    {
+      "from": 260.71,
+      "to": 261.35,
+      "sid": 143,
+      "location": 2,
+      "content": "你看一看吧",
+      "music": 0.0
+    },
+    {
+      "from": 261.35,
+      "to": 264.11,
+      "sid": 144,
+      "location": 2,
+      "content": "那个很大的一个网上的那个鸿沟是吧",
+      "music": 0.0
+    },
+    {
+      "from": 264.11,
+      "to": 265.31,
+      "sid": 145,
+      "location": 2,
+      "content": "再上这个表",
+      "music": 0.0
+    },
+    {
+      "from": 265.31,
+      "to": 268.2,
+      "sid": 146,
+      "location": 2,
+      "content": "来小月给大家看一看二手房",
+      "music": 0.0
+    },
+    {
+      "from": 268.2,
+      "to": 271.26,
+      "sid": 147,
+      "location": 2,
+      "content": "咱们的百城数据是什么样的嘞",
+      "music": 0.0
+    },
+    {
+      "from": 271.26,
+      "to": 272.46,
+      "sid": 148,
+      "location": 2,
+      "content": "是这个看好啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.46,
+      "to": 273.84,
+      "sid": 149,
+      "location": 2,
+      "content": "涨的多不多挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 273.84,
+      "to": 277.31,
+      "sid": 150,
+      "location": 2,
+      "content": "你看江阴嘉兴德州都在涨",
+      "music": 0.0
+    },
+    {
+      "from": 277.31,
+      "to": 279.33,
+      "sid": 151,
+      "location": 2,
+      "content": "江阴涨了1.08%呢",
+      "music": 0.0
+    },
+    {
+      "from": 279.33,
+      "to": 281.03,
+      "sid": 152,
+      "location": 2,
+      "content": "哎涨的也挺多的",
+      "music": 0.0
+    },
+    {
+      "from": 281.03,
+      "to": 281.95,
+      "sid": 153,
+      "location": 2,
+      "content": "到这个洛阳啊",
+      "music": 0.0
+    },
+    {
+      "from": 281.95,
+      "to": 282.82,
+      "sid": 154,
+      "location": 2,
+      "content": "湘潭等等",
+      "music": 0.0
+    },
+    {
+      "from": 282.82,
+      "to": 284.66,
+      "sid": 155,
+      "location": 2,
+      "content": "当然很明显没有新房掌舵",
+      "music": 0.0
+    },
+    {
+      "from": 284.66,
+      "to": 287.42,
+      "sid": 156,
+      "location": 2,
+      "content": "因为二手房就没有那个好坏嘛",
+      "music": 0.0
+    },
+    {
+      "from": 287.42,
+      "to": 290.27,
+      "sid": 157,
+      "location": 2,
+      "content": "朋友我们都说老A8还是A8",
+      "music": 0.0
+    },
+    {
+      "from": 290.27,
+      "to": 292.53,
+      "sid": 158,
+      "location": 2,
+      "content": "那老法拉利不掉价吗",
+      "music": 0.0
+    },
+    {
+      "from": 292.53,
+      "to": 294.17,
+      "sid": 159,
+      "location": 2,
+      "content": "是不是一个道理",
+      "music": 0.0
+    },
+    {
+      "from": 294.17,
+      "to": 297.41,
+      "sid": 160,
+      "location": 2,
+      "content": "这个东西过去我们讲的房子永远涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 297.41,
+      "to": 298.41,
+      "sid": 161,
+      "location": 2,
+      "content": "房子跟车不一样",
+      "music": 0.0
+    },
+    {
+      "from": 298.41,
+      "to": 299.35,
+      "sid": 162,
+      "location": 2,
+      "content": "车是消费品",
+      "music": 0.0
+    },
+    {
+      "from": 299.35,
+      "to": 301.75,
+      "sid": 163,
+      "location": 2,
+      "content": "今天大多数地方的房子",
+      "music": 0.0
+    },
+    {
+      "from": 301.75,
+      "to": 303.33,
+      "sid": 164,
+      "location": 2,
+      "content": "大多数地方的二手房",
+      "music": 0.0
+    },
+    {
+      "from": 303.33,
+      "to": 306.21,
+      "sid": 165,
+      "location": 2,
+      "content": "他已经没有那个稀缺的收藏的属性",
+      "music": 0.0
+    },
+    {
+      "from": 306.21,
+      "to": 308.9,
+      "sid": 166,
+      "location": 2,
+      "content": "它不也是个消费品吗",
+      "music": 0.0
+    },
+    {
+      "from": 308.9,
+      "to": 310.3,
+      "sid": 167,
+      "location": 2,
+      "content": "是不是这个道理啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.3,
+      "to": 312.38,
+      "sid": 168,
+      "location": 2,
+      "content": "我这个房子握在手里看见没有",
+      "music": 0.0
+    },
+    {
+      "from": 312.38,
+      "to": 313.94,
+      "sid": 169,
+      "location": 2,
+      "content": "你知道哪个是王爷的奶嘴",
+      "music": 0.0
+    },
+    {
+      "from": 313.94,
+      "to": 315.24,
+      "sid": 170,
+      "location": 2,
+      "content": "哪个是妃子的脸盆啦",
+      "music": 0.0
+    },
+    {
+      "from": 315.24,
+      "to": 316.12,
+      "sid": 171,
+      "location": 2,
+      "content": "没那一说了",
+      "music": 0.0
+    },
+    {
+      "from": 316.12,
+      "to": 317.2,
+      "sid": 172,
+      "location": 2,
+      "content": "我说大多数啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.2,
+      "to": 319.0,
+      "sid": 173,
+      "location": 2,
+      "content": "你要非说我们家是马勒别墅",
+      "music": 0.0
+    },
+    {
+      "from": 319.0,
+      "to": 320.289,
+      "sid": 174,
+      "location": 2,
+      "content": "我们家有颐和园",
+      "music": 0.0
+    },
+    {
+      "from": 320.289,
+      "to": 321.249,
+      "sid": 175,
+      "location": 2,
+      "content": "那要这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 321.249,
+      "to": 322.489,
+      "sid": 176,
+      "location": 2,
+      "content": "那确实越老越值钱",
+      "music": 0.0
+    },
+    {
+      "from": 322.489,
+      "to": 323.429,
+      "sid": 177,
+      "location": 2,
+      "content": "哈哈你有吗",
+      "music": 0.0
+    },
+    {
+      "from": 323.429,
+      "to": 324.929,
+      "sid": 178,
+      "location": 2,
+      "content": "你家那个房子是文物吗",
+      "music": 0.0
+    },
+    {
+      "from": 324.929,
+      "to": 326.149,
+      "sid": 179,
+      "location": 2,
+      "content": "来我们来看数据",
+      "music": 0.0
+    },
+    {
+      "from": 326.149,
+      "to": 327.75,
+      "sid": 180,
+      "location": 2,
+      "content": "如果整体来算",
+      "music": 0.0
+    },
+    {
+      "from": 327.75,
+      "to": 331.09,
+      "sid": 181,
+      "location": 2,
+      "content": "5月份的新建住宅的均价是17156",
+      "music": 0.0
+    },
+    {
+      "from": 331.09,
+      "to": 332.15,
+      "sid": 182,
+      "location": 2,
+      "content": "环比0.16",
+      "music": 0.0
+    },
+    {
+      "from": 332.15,
+      "to": 333.76,
+      "sid": 183,
+      "location": 2,
+      "content": "同比2.03的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 333.76,
+      "to": 338.16,
+      "sid": 184,
+      "location": 2,
+      "content": "那么百城的二手均价是12692每平米",
+      "music": 0.0
+    },
+    {
+      "from": 338.16,
+      "to": 340.52,
+      "sid": 185,
+      "location": 2,
+      "content": "整体摆成环比下跌0.32",
+      "music": 0.0
+    },
+    {
+      "from": 340.52,
+      "to": 343.38,
+      "sid": 186,
+      "location": 2,
+      "content": "跌幅收窄了0.14个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 343.38,
+      "to": 344.72,
+      "sid": 187,
+      "location": 2,
+      "content": "同比7.99%",
+      "music": 0.0
+    },
+    {
+      "from": 344.72,
+      "to": 347.2,
+      "sid": 188,
+      "location": 2,
+      "content": "又收窄了0.35个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 347.2,
+      "to": 347.909,
+      "sid": 189,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 347.909,
+      "to": 352.009,
+      "sid": 190,
+      "location": 2,
+      "content": "特别是上海的二手房已经连续三个月上涨啦",
+      "music": 0.0
+    },
+    {
+      "from": 352.009,
+      "to": 353.109,
+      "sid": 191,
+      "location": 2,
+      "content": "上海多好啊",
+      "music": 0.0
+    },
+    {
+      "from": 353.109,
+      "to": 356.04,
+      "sid": 192,
+      "location": 2,
+      "content": "是不是再分梯队看5月份",
+      "music": 0.0
+    },
+    {
+      "from": 356.04,
+      "to": 358.86,
+      "sid": 193,
+      "location": 2,
+      "content": "1234线的住宅分别下跌0.15",
+      "music": 0.0
+    },
+    {
+      "from": 358.86,
+      "to": 360.66,
+      "sid": 194,
+      "location": 2,
+      "content": "0.34和0.38都在跌",
+      "music": 0.0
+    },
+    {
+      "from": 360.66,
+      "to": 365.04,
+      "sid": 195,
+      "location": 2,
+      "content": "但是一线城市跌幅收窄了万分之一呢",
+      "music": 0.0
+    },
+    {
+      "from": 365.04,
+      "to": 365.48,
+      "sid": 196,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 365.48,
+      "to": 366.32,
+      "sid": 197,
+      "location": 2,
+      "content": "一个BP呢",
+      "music": 0.0
+    },
+    {
+      "from": 366.32,
+      "to": 368.16,
+      "sid": 198,
+      "location": 2,
+      "content": "上海上涨环比是0.13",
+      "music": 0.0
+    },
+    {
+      "from": 368.16,
+      "to": 369.9,
+      "sid": 199,
+      "location": 2,
+      "content": "深圳跌了万分之四",
+      "music": 0.0
+    },
+    {
+      "from": 369.9,
+      "to": 371.32,
+      "sid": 200,
+      "location": 2,
+      "content": "价格修复很明显",
+      "music": 0.0
+    },
+    {
+      "from": 371.32,
+      "to": 372.8,
+      "sid": 201,
+      "location": 2,
+      "content": "而二线和三四线",
+      "music": 0.0
+    },
+    {
+      "from": 372.8,
+      "to": 375.74,
+      "sid": 202,
+      "location": 2,
+      "content": "分别收窄了0.17和0.16个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 375.74,
+      "to": 377.34,
+      "sid": 203,
+      "location": 2,
+      "content": "对降幅收窄了",
+      "music": 0.0
+    },
+    {
+      "from": 377.34,
+      "to": 378.7,
+      "sid": 204,
+      "location": 2,
+      "content": "我们知道有一个什么概念呢",
+      "music": 0.0
+    },
+    {
+      "from": 378.7,
+      "to": 379.42,
+      "sid": 205,
+      "location": 2,
+      "content": "一阶导啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.42,
+      "to": 380.22,
+      "sid": 206,
+      "location": 2,
+      "content": "二阶导啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.22,
+      "to": 382.06,
+      "sid": 207,
+      "location": 2,
+      "content": "大家现在数学都学的不错了哈",
+      "music": 0.0
+    },
+    {
+      "from": 382.06,
+      "to": 383.18,
+      "sid": 208,
+      "location": 2,
+      "content": "是的就是这个概念",
+      "music": 0.0
+    },
+    {
+      "from": 383.18,
+      "to": 384.48,
+      "sid": 209,
+      "location": 2,
+      "content": "朋友们同比",
+      "music": 0.0
+    },
+    {
+      "from": 384.48,
+      "to": 388.58,
+      "sid": 210,
+      "location": 2,
+      "content": "虽然说一二和三四线分别跌了7.32%",
+      "music": 0.0
+    },
+    {
+      "from": 388.58,
+      "to": 390.98,
+      "sid": 211,
+      "location": 2,
+      "content": "8.54%和7.74%",
+      "music": 0.0
+    },
+    {
+      "from": 390.98,
+      "to": 394.039,
+      "sid": 212,
+      "location": 2,
+      "content": "但是如果你从涨跌来看的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 394.039,
+      "to": 395.679,
+      "sid": 213,
+      "location": 2,
+      "content": "12个城市是上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 395.679,
+      "to": 396.999,
+      "sid": 214,
+      "location": 2,
+      "content": "87个下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 396.999,
+      "to": 398.84,
+      "sid": 215,
+      "location": 2,
+      "content": "有一个是环比持平的",
+      "music": 0.0
+    },
+    {
+      "from": 398.84,
+      "to": 400.14,
+      "sid": 216,
+      "location": 2,
+      "content": "那还有个量的问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 400.14,
+      "to": 401.6,
+      "sid": 217,
+      "location": 2,
+      "content": "朋友们量在价先",
+      "music": 0.0
+    },
+    {
+      "from": 401.6,
+      "to": 404.64,
+      "sid": 218,
+      "location": 2,
+      "content": "但是现在大家更多讲究什么叫以价换量",
+      "music": 0.0
+    },
+    {
+      "from": 404.64,
+      "to": 405.84,
+      "sid": 219,
+      "location": 2,
+      "content": "这个数大家都明白了哈",
+      "music": 0.0
+    },
+    {
+      "from": 405.84,
+      "to": 410.03,
+      "sid": 220,
+      "location": 2,
+      "content": "看5月份重点20城的二手房成交量多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 410.03,
+      "to": 411.49,
+      "sid": 221,
+      "location": 2,
+      "content": "突破了13万套",
+      "music": 0.0
+    },
+    {
+      "from": 411.49,
+      "to": 413.78,
+      "sid": 222,
+      "location": 2,
+      "content": "同比增长了23%点几呢",
+      "music": 0.0
+    },
+    {
+      "from": 413.78,
+      "to": 416.6,
+      "sid": 223,
+      "location": 2,
+      "content": "市场的热度持续性都强于往年",
+      "music": 0.0
+    },
+    {
+      "from": 416.6,
+      "to": 418.56,
+      "sid": 224,
+      "location": 2,
+      "content": "如果截止到27号的话",
+      "music": 0.0
+    },
+    {
+      "from": 418.56,
+      "to": 419.94,
+      "sid": 225,
+      "location": 2,
+      "content": "北京的二手住宅",
+      "music": 0.0
+    },
+    {
+      "from": 419.94,
+      "to": 423.19,
+      "sid": 226,
+      "location": 2,
+      "content": "上海的二手商品房分别是1.4和2.3万跑",
+      "music": 0.0
+    },
+    {
+      "from": 423.19,
+      "to": 425.93,
+      "sid": 227,
+      "location": 2,
+      "content": "同比增长了20%和26%",
+      "music": 0.0
+    },
+    {
+      "from": 425.93,
+      "to": 427.79,
+      "sid": 228,
+      "location": 2,
+      "content": "还有一个呢我没有单独做这个节目",
+      "music": 0.0
+    },
+    {
+      "from": 427.79,
+      "to": 429.1,
+      "sid": 229,
+      "location": 2,
+      "content": "很多上海的朋友跟我说了",
+      "music": 0.0
+    },
+    {
+      "from": 429.1,
+      "to": 432.44,
+      "sid": 230,
+      "location": 2,
+      "content": "说我们上海的二手房收购试点全部中心城区了",
+      "music": 0.0
+    },
+    {
+      "from": 432.44,
+      "to": 434.66,
+      "sid": 231,
+      "location": 2,
+      "content": "是不是有助于老旧房屋的估值呢",
+      "music": 0.0
+    },
+    {
+      "from": 434.66,
+      "to": 435.72,
+      "sid": 232,
+      "location": 2,
+      "content": "形成了支撑呢",
+      "music": 0.0
+    },
+    {
+      "from": 435.72,
+      "to": 436.64,
+      "sid": 233,
+      "location": 2,
+      "content": "有一定支撑",
+      "music": 0.0
+    },
+    {
+      "from": 436.64,
+      "to": 438.579,
+      "sid": 234,
+      "location": 2,
+      "content": "但是咱们后面会说一点什么",
+      "music": 0.0
+    },
+    {
+      "from": 438.579,
+      "to": 440.139,
+      "sid": 235,
+      "location": 2,
+      "content": "就是你得算这个账",
+      "music": 0.0
+    },
+    {
+      "from": 440.139,
+      "to": 442.26,
+      "sid": 236,
+      "location": 2,
+      "content": "你的租金回不回得来",
+      "music": 0.0
+    },
+    {
+      "from": 442.26,
+      "to": 443.04,
+      "sid": 237,
+      "location": 2,
+      "content": "看明白了吧",
+      "music": 0.0
+    },
+    {
+      "from": 443.04,
+      "to": 443.94,
+      "sid": 238,
+      "location": 2,
+      "content": "一手房啊",
+      "music": 0.0
+    },
+    {
+      "from": 443.94,
+      "to": 445.08,
+      "sid": 239,
+      "location": 2,
+      "content": "二手房都是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 445.08,
+      "to": 448.21,
+      "sid": 240,
+      "location": 2,
+      "content": "总的来说就是说新房价格非常好",
+      "music": 0.0
+    },
+    {
+      "from": 448.21,
+      "to": 449.95,
+      "sid": 241,
+      "location": 2,
+      "content": "一二线都往上涨",
+      "music": 0.0
+    },
+    {
+      "from": 449.95,
+      "to": 453.38,
+      "sid": 242,
+      "location": 2,
+      "content": "但是这个涨跟绝大多数的刚需没关系",
+      "music": 0.0
+    },
+    {
+      "from": 453.38,
+      "to": 454.72,
+      "sid": 243,
+      "location": 2,
+      "content": "哎我就问你啊",
+      "music": 0.0
+    },
+    {
+      "from": 454.72,
+      "to": 457.06,
+      "sid": 244,
+      "location": 2,
+      "content": "你的房子从一个亿涨回1.8亿了",
+      "music": 0.0
+    },
+    {
+      "from": 457.06,
+      "to": 459.26,
+      "sid": 245,
+      "location": 2,
+      "content": "这个这个你跟你有关系吗",
+      "music": 0.0
+    },
+    {
+      "from": 459.94,
+      "to": 462.27,
+      "sid": 246,
+      "location": 2,
+      "content": "你认识几个住两个一房子的人啊",
+      "music": 0.0
+    },
+    {
+      "from": 462.27,
+      "to": 463.59,
+      "sid": 247,
+      "location": 2,
+      "content": "我不能说认识",
+      "music": 0.0
+    },
+    {
+      "from": 463.59,
+      "to": 464.55,
+      "sid": 248,
+      "location": 2,
+      "content": "只能说见过",
+      "music": 0.0
+    },
+    {
+      "from": 464.55,
+      "to": 466.39,
+      "sid": 249,
+      "location": 2,
+      "content": "那人家也顶多是见过",
+      "music": 0.0
+    },
+    {
+      "from": 466.39,
+      "to": 467.71,
+      "sid": 250,
+      "location": 2,
+      "content": "我怎么好意思说认识呢",
+      "music": 0.0
+    },
+    {
+      "from": 467.71,
+      "to": 468.07,
+      "sid": 251,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 468.07,
+      "to": 469.25,
+      "sid": 252,
+      "location": 2,
+      "content": "就是这么个情况",
+      "music": 0.0
+    },
+    {
+      "from": 469.25,
+      "to": 472.7,
+      "sid": 253,
+      "location": 2,
+      "content": "哎朋友们为啥开发商想明白了呀",
+      "music": 0.0
+    },
+    {
+      "from": 472.7,
+      "to": 473.55,
+      "sid": 254,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 473.55,
+      "to": 474.79,
+      "sid": 255,
+      "location": 2,
+      "content": "我们大家都知道",
+      "music": 0.0
+    },
+    {
+      "from": 474.79,
+      "to": 475.87,
+      "sid": 256,
+      "location": 2,
+      "content": "无论你是卖保险",
+      "music": 0.0
+    },
+    {
+      "from": 475.87,
+      "to": 476.69,
+      "sid": 257,
+      "location": 2,
+      "content": "你是做什么的话",
+      "music": 0.0
+    },
+    {
+      "from": 476.69,
+      "to": 477.79,
+      "sid": 258,
+      "location": 2,
+      "content": "要抓大放小",
+      "music": 0.0
+    },
+    {
+      "from": 477.79,
+      "to": 479.45,
+      "sid": 259,
+      "location": 2,
+      "content": "要抓那些有钱人",
+      "music": 0.0
+    },
+    {
+      "from": 479.45,
+      "to": 481.6,
+      "sid": 260,
+      "location": 2,
+      "content": "是不是你抓一帮穷棒子",
+      "music": 0.0
+    },
+    {
+      "from": 481.6,
+      "to": 482.44,
+      "sid": 261,
+      "location": 2,
+      "content": "你有啥用啊",
+      "music": 0.0
+    },
+    {
+      "from": 482.44,
+      "to": 484.16,
+      "sid": 262,
+      "location": 2,
+      "content": "你都做老吉这种生意",
+      "music": 0.0
+    },
+    {
+      "from": 484.16,
+      "to": 486.28,
+      "sid": 263,
+      "location": 2,
+      "content": "我就是咬牙跺脚顶死了",
+      "music": 0.0
+    },
+    {
+      "from": 486.28,
+      "to": 488.0,
+      "sid": 264,
+      "location": 2,
+      "content": "我买个两三千万的房子不错了",
+      "music": 0.0
+    },
+    {
+      "from": 488.0,
+      "to": 489.04,
+      "sid": 265,
+      "location": 2,
+      "content": "能挣几个钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 489.04,
+      "to": 492.18,
+      "sid": 266,
+      "location": 2,
+      "content": "所以开发商不拿刚需的地扎堆儿",
+      "music": 0.0
+    },
+    {
+      "from": 492.18,
+      "to": 494.18,
+      "sid": 267,
+      "location": 2,
+      "content": "去核心区做高端改善",
+      "music": 0.0
+    },
+    {
+      "from": 494.18,
+      "to": 495.28,
+      "sid": 268,
+      "location": 2,
+      "content": "一平均上来了",
+      "music": 0.0
+    },
+    {
+      "from": 495.28,
+      "to": 497.12,
+      "sid": 269,
+      "location": 2,
+      "content": "那么目前我们来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 497.12,
+      "to": 499.4,
+      "sid": 270,
+      "location": 2,
+      "content": "市场上卖得动的两种我说了吗",
+      "music": 0.0
+    },
+    {
+      "from": 499.4,
+      "to": 501.88,
+      "sid": 271,
+      "location": 2,
+      "content": "一种核心区高价高品质",
+      "music": 0.0
+    },
+    {
+      "from": 501.88,
+      "to": 503.27,
+      "sid": 272,
+      "location": 2,
+      "content": "总有有钱人嘛",
+      "music": 0.0
+    },
+    {
+      "from": 503.27,
+      "to": 503.89,
+      "sid": 273,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 503.89,
+      "to": 506.79,
+      "sid": 274,
+      "location": 2,
+      "content": "那万绿丛中还有一点红的股灾没有涨停的吗",
+      "music": 0.0
+    },
+    {
+      "from": 506.79,
+      "to": 507.63,
+      "sid": 275,
+      "location": 2,
+      "content": "一个道理",
+      "music": 0.0
+    },
+    {
+      "from": 507.63,
+      "to": 510.31,
+      "sid": 276,
+      "location": 2,
+      "content": "另外一种就是符合极致低总价",
+      "music": 0.0
+    },
+    {
+      "from": 510.31,
+      "to": 511.7,
+      "sid": 277,
+      "location": 2,
+      "content": "就是刚需房",
+      "music": 0.0
+    },
+    {
+      "from": 511.7,
+      "to": 513.74,
+      "sid": 278,
+      "location": 2,
+      "content": "月供跟当地的什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 513.74,
+      "to": 516.8,
+      "sid": 279,
+      "location": 2,
+      "content": "租金差不多哎就有很多人以前就说的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 516.8,
+      "to": 517.5,
+      "sid": 280,
+      "location": 2,
+      "content": "你买个房子",
+      "music": 0.0
+    },
+    {
+      "from": 517.5,
+      "to": 519.16,
+      "sid": 281,
+      "location": 2,
+      "content": "为什么你这个房子钱",
+      "music": 0.0
+    },
+    {
+      "from": 519.16,
+      "to": 521.06,
+      "sid": 282,
+      "location": 2,
+      "content": "你你租金3000啊",
+      "music": 0.0
+    },
+    {
+      "from": 521.06,
+      "to": 522.74,
+      "sid": 283,
+      "location": 2,
+      "content": "然后房贷3200啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.74,
+      "to": 524.58,
+      "sid": 284,
+      "location": 2,
+      "content": "你与其把这个租金给了房东",
+      "music": 0.0
+    },
+    {
+      "from": 524.58,
+      "to": 525.61,
+      "sid": 285,
+      "location": 2,
+      "content": "你还不如自己呢",
+      "music": 0.0
+    },
+    {
+      "from": 525.61,
+      "to": 528.39,
+      "sid": 286,
+      "location": 2,
+      "content": "对如果有这样的性价比就又回来了",
+      "music": 0.0
+    },
+    {
+      "from": 528.39,
+      "to": 529.29,
+      "sid": 287,
+      "location": 2,
+      "content": "还有我前面说的",
+      "music": 0.0
+    },
+    {
+      "from": 529.29,
+      "to": 530.17,
+      "sid": 288,
+      "location": 2,
+      "content": "你要能算出来呢",
+      "music": 0.0
+    },
+    {
+      "from": 530.17,
+      "to": 530.99,
+      "sid": 289,
+      "location": 2,
+      "content": "是不是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 530.99,
+      "to": 532.53,
+      "sid": 290,
+      "location": 2,
+      "content": "现在都是这么个情况",
+      "music": 0.0
+    },
+    {
+      "from": 532.53,
+      "to": 534.87,
+      "sid": 291,
+      "location": 2,
+      "content": "朋友们在目前明白吧",
+      "music": 0.0
+    },
+    {
+      "from": 534.87,
+      "to": 536.51,
+      "sid": 292,
+      "location": 2,
+      "content": "大家都在讲什么",
+      "music": 0.0
+    },
+    {
+      "from": 536.51,
+      "to": 539.91,
+      "sid": 293,
+      "location": 2,
+      "content": "都在讲分化分化分化这个是没有问题的",
+      "music": 0.0
+    },
+    {
+      "from": 539.91,
+      "to": 541.59,
+      "sid": 294,
+      "location": 2,
+      "content": "要分化一手房",
+      "music": 0.0
+    },
+    {
+      "from": 541.59,
+      "to": 542.51,
+      "sid": 295,
+      "location": 2,
+      "content": "高端化",
+      "music": 0.0
+    },
+    {
+      "from": 542.51,
+      "to": 544.69,
+      "sid": 296,
+      "location": 2,
+      "content": "二手房以价换量",
+      "music": 0.0
+    },
+    {
+      "from": 544.69,
+      "to": 545.25,
+      "sid": 297,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 545.25,
+      "to": 546.27,
+      "sid": 298,
+      "location": 2,
+      "content": "都这样",
+      "music": 0.0
+    },
+    {
+      "from": 546.27,
+      "to": 549.19,
+      "sid": 299,
+      "location": 2,
+      "content": "所以你要让我说老吉形势变了吗",
+      "music": 0.0
+    },
+    {
+      "from": 549.19,
+      "to": 550.69,
+      "sid": 300,
+      "location": 2,
+      "content": "没有完全变啊",
+      "music": 0.0
+    },
+    {
+      "from": 550.69,
+      "to": 551.67,
+      "sid": 301,
+      "location": 2,
+      "content": "没有完全变",
+      "music": 0.0
+    },
+    {
+      "from": 551.67,
+      "to": 552.79,
+      "sid": 302,
+      "location": 2,
+      "content": "还会进一步的",
+      "music": 0.0
+    },
+    {
+      "from": 552.79,
+      "to": 554.44,
+      "sid": 303,
+      "location": 2,
+      "content": "他们都说分化两个字",
+      "music": 0.0
+    },
+    {
+      "from": 554.44,
+      "to": 555.44,
+      "sid": 304,
+      "location": 2,
+      "content": "其实中介都这样",
+      "music": 0.0
+    },
+    {
+      "from": 555.44,
+      "to": 556.92,
+      "sid": 305,
+      "location": 2,
+      "content": "他都会长大普涨",
+      "music": 0.0
+    },
+    {
+      "from": 556.92,
+      "to": 558.48,
+      "sid": 306,
+      "location": 2,
+      "content": "然后变成分化分化",
+      "music": 0.0
+    },
+    {
+      "from": 558.48,
+      "to": 560.12,
+      "sid": 307,
+      "location": 2,
+      "content": "他们都会说我们这不一样",
+      "music": 0.0
+    },
+    {
+      "from": 560.12,
+      "to": 562.2,
+      "sid": 308,
+      "location": 2,
+      "content": "那呼和浩特的知道我肯定是四线城市",
+      "music": 0.0
+    },
+    {
+      "from": 562.2,
+      "to": 563.38,
+      "sid": 309,
+      "location": 2,
+      "content": "三线城市咋办呢",
+      "music": 0.0
+    },
+    {
+      "from": 563.38,
+      "to": 564.24,
+      "sid": 310,
+      "location": 2,
+      "content": "我分化哦",
+      "music": 0.0
+    },
+    {
+      "from": 564.24,
+      "to": 567.14,
+      "sid": 311,
+      "location": 2,
+      "content": "我说我呼和浩特内部也有分化",
+      "music": 0.0
+    },
+    {
+      "from": 567.14,
+      "to": 569.6,
+      "sid": 312,
+      "location": 2,
+      "content": "还有我是苏虎街小学的学区房啊",
+      "music": 0.0
+    },
+    {
+      "from": 569.6,
+      "to": 571.08,
+      "sid": 313,
+      "location": 2,
+      "content": "我是三中的学区房啊",
+      "music": 0.0
+    },
+    {
+      "from": 571.08,
+      "to": 572.78,
+      "sid": 314,
+      "location": 2,
+      "content": "哎我是30中的学区房",
+      "music": 0.0
+    },
+    {
+      "from": 572.78,
+      "to": 574.38,
+      "sid": 315,
+      "location": 2,
+      "content": "他也在讲分化对吧",
+      "music": 0.0
+    },
+    {
+      "from": 574.38,
+      "to": 577.66,
+      "sid": 316,
+      "location": 2,
+      "content": "从整体全国上上确实是分化诶",
+      "music": 0.0
+    },
+    {
+      "from": 577.66,
+      "to": 578.34,
+      "sid": 317,
+      "location": 2,
+      "content": "结构性",
+      "music": 0.0
+    },
+    {
+      "from": 578.34,
+      "to": 582.07,
+      "sid": 318,
+      "location": 2,
+      "content": "你说未来会不会全国性的鸡犬升天没有了",
+      "music": 0.0
+    },
+    {
+      "from": 582.07,
+      "to": 584.23,
+      "sid": 319,
+      "location": 2,
+      "content": "那么会不会全国性的万马齐音",
+      "music": 0.0
+    },
+    {
+      "from": 584.23,
+      "to": 585.54,
+      "sid": 320,
+      "location": 2,
+      "content": "他应该也不会有",
+      "music": 0.0
+    },
+    {
+      "from": 585.54,
+      "to": 588.0,
+      "sid": 321,
+      "location": 2,
+      "content": "还是我说的有一些地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 588.0,
+      "to": 589.4,
+      "sid": 322,
+      "location": 2,
+      "content": "房价肯定有底",
+      "music": 0.0
+    },
+    {
+      "from": 589.4,
+      "to": 590.34,
+      "sid": 323,
+      "location": 2,
+      "content": "肯定有呢",
+      "music": 0.0
+    },
+    {
+      "from": 590.34,
+      "to": 593.829,
+      "sid": 324,
+      "location": 2,
+      "content": "呼和浩特我老开我自己家乡开鄂尔多斯的玩笑",
+      "music": 0.0
+    },
+    {
+      "from": 593.829,
+      "to": 595.149,
+      "sid": 325,
+      "location": 2,
+      "content": "那他也不能白送吧",
+      "music": 0.0
+    },
+    {
+      "from": 595.149,
+      "to": 597.089,
+      "sid": 326,
+      "location": 2,
+      "content": "说呼和浩特的房子白送给你",
+      "music": 0.0
+    },
+    {
+      "from": 597.089,
+      "to": 599.109,
+      "sid": 327,
+      "location": 2,
+      "content": "而且呢也不用你担这个那个的",
+      "music": 0.0
+    },
+    {
+      "from": 599.109,
+      "to": 600.209,
+      "sid": 328,
+      "location": 2,
+      "content": "只要有人住就白送",
+      "music": 0.0
+    },
+    {
+      "from": 600.209,
+      "to": 601.009,
+      "sid": 329,
+      "location": 2,
+      "content": "应该不会吧",
+      "music": 0.0
+    },
+    {
+      "from": 601.009,
+      "to": 602.8,
+      "sid": 330,
+      "location": 2,
+      "content": "北京的房子3100平米",
+      "music": 0.0
+    },
+    {
+      "from": 602.8,
+      "to": 603.78,
+      "sid": 331,
+      "location": 2,
+      "content": "不可不可能嘛",
+      "music": 0.0
+    },
+    {
+      "from": 603.78,
+      "to": 604.72,
+      "sid": 332,
+      "location": 2,
+      "content": "他肯定有底",
+      "music": 0.0
+    },
+    {
+      "from": 604.72,
+      "to": 607.44,
+      "sid": 333,
+      "location": 2,
+      "content": "但是区别在于有些地方到了底",
+      "music": 0.0
+    },
+    {
+      "from": 607.44,
+      "to": 609.64,
+      "sid": 334,
+      "location": 2,
+      "content": "比如北京的房子到了这个一两万",
+      "music": 0.0
+    },
+    {
+      "from": 609.64,
+      "to": 610.52,
+      "sid": 335,
+      "location": 2,
+      "content": "他就回来了啊",
+      "music": 0.0
+    },
+    {
+      "from": 610.52,
+      "to": 611.7,
+      "sid": 336,
+      "location": 2,
+      "content": "也伴随着经济的增长",
+      "music": 0.0
+    },
+    {
+      "from": 611.7,
+      "to": 613.08,
+      "sid": 337,
+      "location": 2,
+      "content": "人人口的进入啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.08,
+      "to": 613.76,
+      "sid": 338,
+      "location": 2,
+      "content": "北京进不进入",
+      "music": 0.0
+    },
+    {
+      "from": 613.76,
+      "to": 614.44,
+      "sid": 339,
+      "location": 2,
+      "content": "咱们单独再说",
+      "music": 0.0
+    },
+    {
+      "from": 614.44,
+      "to": 615.6,
+      "sid": 340,
+      "location": 2,
+      "content": "北京就是好就是好",
+      "music": 0.0
+    },
+    {
+      "from": 615.6,
+      "to": 616.92,
+      "sid": 341,
+      "location": 2,
+      "content": "大家理解老吉啊",
+      "music": 0.0
+    },
+    {
+      "from": 616.92,
+      "to": 618.28,
+      "sid": 342,
+      "location": 2,
+      "content": "那有一些呢",
+      "music": 0.0
+    },
+    {
+      "from": 618.28,
+      "to": 620.55,
+      "sid": 343,
+      "location": 2,
+      "content": "那你比如说像这个阜新呐",
+      "music": 0.0
+    },
+    {
+      "from": 620.55,
+      "to": 621.78,
+      "sid": 344,
+      "location": 2,
+      "content": "七台河呀",
+      "music": 0.0
+    },
+    {
+      "from": 621.78,
+      "to": 623.1,
+      "sid": 345,
+      "location": 2,
+      "content": "鹤岗啊对吧",
+      "music": 0.0
+    },
+    {
+      "from": 623.1,
+      "to": 623.64,
+      "sid": 346,
+      "location": 2,
+      "content": "鸡西啊",
+      "music": 0.0
+    },
+    {
+      "from": 623.64,
+      "to": 624.76,
+      "sid": 347,
+      "location": 2,
+      "content": "那躺平都躺平了",
+      "music": 0.0
+    },
+    {
+      "from": 624.76,
+      "to": 626.0,
+      "sid": 348,
+      "location": 2,
+      "content": "到这就会到这",
+      "music": 0.0
+    },
+    {
+      "from": 626.0,
+      "to": 628.66,
+      "sid": 349,
+      "location": 2,
+      "content": "所以有些城市能筑底甚至回暖",
+      "music": 0.0
+    },
+    {
+      "from": 628.66,
+      "to": 632.18,
+      "sid": 350,
+      "location": 2,
+      "content": "有些城市到了底就是抵了就在那儿了",
+      "music": 0.0
+    },
+    {
+      "from": 632.18,
+      "to": 635.48,
+      "sid": 351,
+      "location": 2,
+      "content": "他也不可能说倒找你钱买一套积蓄的房子",
+      "music": 0.0
+    },
+    {
+      "from": 635.48,
+      "to": 636.54,
+      "sid": 352,
+      "location": 2,
+      "content": "政府奖励你200万",
+      "music": 0.0
+    },
+    {
+      "from": 636.54,
+      "to": 637.52,
+      "sid": 353,
+      "location": 2,
+      "content": "不可能吧",
+      "music": 0.0
+    },
+    {
+      "from": 637.52,
+      "to": 639.92,
+      "sid": 354,
+      "location": 2,
+      "content": "但是呢就在那你买你想买就买",
+      "music": 0.0
+    },
+    {
+      "from": 639.92,
+      "to": 641.04,
+      "sid": 355,
+      "location": 2,
+      "content": "你不买就这样",
+      "music": 0.0
+    },
+    {
+      "from": 641.04,
+      "to": 642.8,
+      "sid": 356,
+      "location": 2,
+      "content": "那最后我们要过税什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 642.8,
+      "to": 643.52,
+      "sid": 357,
+      "location": 2,
+      "content": "就是租金",
+      "music": 0.0
+    },
+    {
+      "from": 643.52,
+      "to": 644.66,
+      "sid": 358,
+      "location": 2,
+      "content": "我前面老跟你说",
+      "music": 0.0
+    },
+    {
+      "from": 644.66,
+      "to": 645.86,
+      "sid": 359,
+      "location": 2,
+      "content": "算算算对",
+      "music": 0.0
+    },
+    {
+      "from": 645.86,
+      "to": 647.19,
+      "sid": 360,
+      "location": 2,
+      "content": "我不是死空头",
+      "music": 0.0
+    },
+    {
+      "from": 647.19,
+      "to": 649.11,
+      "sid": 361,
+      "location": 2,
+      "content": "我认为这个东西有价值",
+      "music": 0.0
+    },
+    {
+      "from": 649.11,
+      "to": 650.57,
+      "sid": 362,
+      "location": 2,
+      "content": "这个价值是能算的",
+      "music": 0.0
+    },
+    {
+      "from": 650.57,
+      "to": 652.23,
+      "sid": 363,
+      "location": 2,
+      "content": "来我们看一下朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 652.23,
+      "to": 653.01,
+      "sid": 364,
+      "location": 2,
+      "content": "5月份",
+      "music": 0.0
+    },
+    {
+      "from": 653.01,
+      "to": 655.74,
+      "sid": 365,
+      "location": 2,
+      "content": "全国50城的住宅平均租金",
+      "music": 0.0
+    },
+    {
+      "from": 655.74,
+      "to": 657.94,
+      "sid": 366,
+      "location": 2,
+      "content": "33块九毛四每平米",
+      "music": 0.0
+    },
+    {
+      "from": 657.94,
+      "to": 660.85,
+      "sid": 367,
+      "location": 2,
+      "content": "每月环比下跌了0.11%",
+      "music": 0.0
+    },
+    {
+      "from": 660.85,
+      "to": 663.94,
+      "sid": 368,
+      "location": 2,
+      "content": "同比下跌了3.17%",
+      "music": 0.0
+    },
+    {
+      "from": 663.94,
+      "to": 665.86,
+      "sid": 369,
+      "location": 2,
+      "content": "整体来看还是下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 665.86,
+      "to": 666.36,
+      "sid": 370,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 666.36,
+      "to": 667.76,
+      "sid": 371,
+      "location": 2,
+      "content": "来你们看图发现没有",
+      "music": 0.0
+    },
+    {
+      "from": 667.76,
+      "to": 670.32,
+      "sid": 372,
+      "location": 2,
+      "content": "这个红线已经是比较平稳的了",
+      "music": 0.0
+    },
+    {
+      "from": 670.32,
+      "to": 672.41,
+      "sid": 373,
+      "location": 2,
+      "content": "对确实是比较平稳的",
+      "music": 0.0
+    },
+    {
+      "from": 672.41,
+      "to": 675.4,
+      "sid": 374,
+      "location": 2,
+      "content": "而如果我们来看整个这张表呢",
+      "music": 0.0
+    },
+    {
+      "from": 675.4,
+      "to": 678.6,
+      "sid": 375,
+      "location": 2,
+      "content": "你们看一看50个城市里面有一些是上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 678.6,
+      "to": 680.3,
+      "sid": 376,
+      "location": 2,
+      "content": "比如上海乌鲁木齐",
+      "music": 0.0
+    },
+    {
+      "from": 680.3,
+      "to": 681.68,
+      "sid": 377,
+      "location": 2,
+      "content": "比如天津深圳",
+      "music": 0.0
+    },
+    {
+      "from": 681.68,
+      "to": 682.74,
+      "sid": 378,
+      "location": 2,
+      "content": "北京苏州",
+      "music": 0.0
+    },
+    {
+      "from": 682.74,
+      "to": 683.98,
+      "sid": 379,
+      "location": 2,
+      "content": "有这么多城市上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 683.98,
+      "to": 684.54,
+      "sid": 380,
+      "location": 2,
+      "content": "哎我天呐",
+      "music": 0.0
+    },
+    {
+      "from": 684.54,
+      "to": 685.62,
+      "sid": 381,
+      "location": 2,
+      "content": "我最关注的乌鲁木齐",
+      "music": 0.0
+    },
+    {
+      "from": 685.62,
+      "to": 687.24,
+      "sid": 382,
+      "location": 2,
+      "content": "呼和浩特咋还都是涨的",
+      "music": 0.0
+    },
+    {
+      "from": 687.24,
+      "to": 690.39,
+      "sid": 383,
+      "location": 2,
+      "content": "呼和浩特房租涨了万分之三",
+      "music": 0.0
+    },
+    {
+      "from": 690.39,
+      "to": 691.23,
+      "sid": 384,
+      "location": 2,
+      "content": "是的朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 691.23,
+      "to": 692.59,
+      "sid": 385,
+      "location": 2,
+      "content": "这就要说一个情况了",
+      "music": 0.0
+    },
+    {
+      "from": 692.59,
+      "to": 695.51,
+      "sid": 386,
+      "location": 2,
+      "content": "我们很经常的有的人说我要做这个房子",
+      "music": 0.0
+    },
+    {
+      "from": 695.51,
+      "to": 697.63,
+      "sid": 387,
+      "location": 2,
+      "content": "投资朋友过去投资",
+      "music": 0.0
+    },
+    {
+      "from": 697.63,
+      "to": 699.17,
+      "sid": 388,
+      "location": 2,
+      "content": "我们来类比为股票啊",
+      "music": 0.0
+    },
+    {
+      "from": 699.17,
+      "to": 702.5,
+      "sid": 389,
+      "location": 2,
+      "content": "你说有多少人在过去的时光当中",
+      "music": 0.0
+    },
+    {
+      "from": 702.5,
+      "to": 704.94,
+      "sid": 390,
+      "location": 2,
+      "content": "买股票是图股票那个分红的呢",
+      "music": 0.0
+    },
+    {
+      "from": 704.94,
+      "to": 706.94,
+      "sid": 391,
+      "location": 2,
+      "content": "有没有有我一直跟你们说嘛",
+      "music": 0.0
+    },
+    {
+      "from": 706.94,
+      "to": 708.04,
+      "sid": 392,
+      "location": 2,
+      "content": "你买那个低波啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.04,
+      "to": 708.64,
+      "sid": 393,
+      "location": 2,
+      "content": "红利啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.64,
+      "to": 709.3,
+      "sid": 394,
+      "location": 2,
+      "content": "分红啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.3,
+      "to": 710.08,
+      "sid": 395,
+      "location": 2,
+      "content": "银行股啊",
+      "music": 0.0
+    },
+    {
+      "from": 710.08,
+      "to": 710.86,
+      "sid": 396,
+      "location": 2,
+      "content": "就这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 710.86,
+      "to": 712.02,
+      "sid": 397,
+      "location": 2,
+      "content": "你涨跌怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 712.02,
+      "to": 713.88,
+      "sid": 398,
+      "location": 2,
+      "content": "我根本无所谓啊",
+      "music": 0.0
+    },
+    {
+      "from": 713.88,
+      "to": 716.24,
+      "sid": 399,
+      "location": 2,
+      "content": "我看的就是他给我每年那个3%啊",
+      "music": 0.0
+    },
+    {
+      "from": 716.24,
+      "to": 716.72,
+      "sid": 400,
+      "location": 2,
+      "content": "4%啊",
+      "music": 0.0
+    },
+    {
+      "from": 716.72,
+      "to": 718.04,
+      "sid": 401,
+      "location": 2,
+      "content": "已经高到那种分红",
+      "music": 0.0
+    },
+    {
+      "from": 718.04,
+      "to": 719.66,
+      "sid": 402,
+      "location": 2,
+      "content": "是不是我看的是这个",
+      "music": 0.0
+    },
+    {
+      "from": 719.66,
+      "to": 722.63,
+      "sid": 403,
+      "location": 2,
+      "content": "但是以前这点分红谁看得上啊",
+      "music": 0.0
+    },
+    {
+      "from": 722.63,
+      "to": 723.43,
+      "sid": 404,
+      "location": 2,
+      "content": "那不都看了",
+      "music": 0.0
+    },
+    {
+      "from": 723.43,
+      "to": 724.82,
+      "sid": 405,
+      "location": 2,
+      "content": "涨了房子也一样",
+      "music": 0.0
+    },
+    {
+      "from": 724.82,
+      "to": 727.28,
+      "sid": 406,
+      "location": 2,
+      "content": "为什么以前有很多人房子那放在那也不出租呢",
+      "music": 0.0
+    },
+    {
+      "from": 727.28,
+      "to": 729.2,
+      "sid": 407,
+      "location": 2,
+      "content": "我这个房子100万买的",
+      "music": 0.0
+    },
+    {
+      "from": 729.2,
+      "to": 731.75,
+      "sid": 408,
+      "location": 2,
+      "content": "我一个月哪怕是租个5000",
+      "music": 0.0
+    },
+    {
+      "from": 731.75,
+      "to": 733.11,
+      "sid": 409,
+      "location": 2,
+      "content": "我也无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 733.11,
+      "to": 735.09,
+      "sid": 410,
+      "location": 2,
+      "content": "我根本就不想靠这个挣钱",
+      "music": 0.0
+    },
+    {
+      "from": 735.09,
+      "to": 737.39,
+      "sid": 411,
+      "location": 2,
+      "content": "我想那房子怎么能涨到200万",
+      "music": 0.0
+    },
+    {
+      "from": 737.39,
+      "to": 737.75,
+      "sid": 412,
+      "location": 2,
+      "content": "300万",
+      "music": 0.0
+    },
+    {
+      "from": 737.75,
+      "to": 738.07,
+      "sid": 413,
+      "location": 2,
+      "content": "400万",
+      "music": 0.0
+    },
+    {
+      "from": 738.07,
+      "to": 739.25,
+      "sid": 414,
+      "location": 2,
+      "content": "我要挣这个钱呢",
+      "music": 0.0
+    },
+    {
+      "from": 739.25,
+      "to": 740.47,
+      "sid": 415,
+      "location": 2,
+      "content": "这个大家理解吧",
+      "music": 0.0
+    },
+    {
+      "from": 740.47,
+      "to": 741.83,
+      "sid": 416,
+      "location": 2,
+      "content": "而现在不一样了",
+      "music": 0.0
+    },
+    {
+      "from": 741.83,
+      "to": 743.63,
+      "sid": 417,
+      "location": 2,
+      "content": "当他回归了本质",
+      "music": 0.0
+    },
+    {
+      "from": 743.63,
+      "to": 746.55,
+      "sid": 418,
+      "location": 2,
+      "content": "那么房子他作为一个你把它当资产",
+      "music": 0.0
+    },
+    {
+      "from": 746.55,
+      "to": 749.24,
+      "sid": 419,
+      "location": 2,
+      "content": "他就应该按照房租来往回算",
+      "music": 0.0
+    },
+    {
+      "from": 749.24,
+      "to": 752.4,
+      "sid": 420,
+      "location": 2,
+      "content": "所以这个房租的重要性是越来越明显了",
+      "music": 0.0
+    },
+    {
+      "from": 752.4,
+      "to": 752.94,
+      "sid": 421,
+      "location": 2,
+      "content": "明白吗",
+      "music": 0.0
+    },
+    {
+      "from": 752.94,
+      "to": 754.62,
+      "sid": 422,
+      "location": 2,
+      "content": "粉丝粉丝们经常问我一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 754.62,
+      "to": 755.52,
+      "sid": 423,
+      "location": 2,
+      "content": "我能理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 755.52,
+      "to": 756.4,
+      "sid": 424,
+      "location": 2,
+      "content": "就老问啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.4,
+      "to": 758.3,
+      "sid": 425,
+      "location": 2,
+      "content": "金老师房价的底在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 758.3,
+      "to": 760.06,
+      "sid": 426,
+      "location": 2,
+      "content": "吉老师房价什么时候到底了",
+      "music": 0.0
+    },
+    {
+      "from": 760.06,
+      "to": 762.48,
+      "sid": 427,
+      "location": 2,
+      "content": "吉老师房子我都能理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 762.48,
+      "to": 764.44,
+      "sid": 428,
+      "location": 2,
+      "content": "其实呢你们就是想知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 764.44,
+      "to": 765.68,
+      "sid": 429,
+      "location": 2,
+      "content": "哪什么时候到底了",
+      "music": 0.0
+    },
+    {
+      "from": 765.68,
+      "to": 767.39,
+      "sid": 430,
+      "location": 2,
+      "content": "有些人想投资抄个底",
+      "music": 0.0
+    },
+    {
+      "from": 767.39,
+      "to": 769.41,
+      "sid": 431,
+      "location": 2,
+      "content": "有些人想跌的不要太狠等等",
+      "music": 0.0
+    },
+    {
+      "from": 769.41,
+      "to": 770.27,
+      "sid": 432,
+      "location": 2,
+      "content": "我能理解",
+      "music": 0.0
+    },
+    {
+      "from": 770.27,
+      "to": 772.93,
+      "sid": 433,
+      "location": 2,
+      "content": "但钱嘛那谁也不是大风刮来的哈",
+      "music": 0.0
+    },
+    {
+      "from": 772.93,
+      "to": 775.13,
+      "sid": 434,
+      "location": 2,
+      "content": "但是实际上就像我前面讲的",
+      "music": 0.0
+    },
+    {
+      "from": 775.13,
+      "to": 777.15,
+      "sid": 435,
+      "location": 2,
+      "content": "真正那个毛是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 777.15,
+      "to": 779.23,
+      "sid": 436,
+      "location": 2,
+      "content": "就是这个租金",
+      "music": 0.0
+    },
+    {
+      "from": 779.23,
+      "to": 782.25,
+      "sid": 437,
+      "location": 2,
+      "content": "绝大多数房产它最终的落脚点",
+      "music": 0.0
+    },
+    {
+      "from": 782.25,
+      "to": 784.94,
+      "sid": 438,
+      "location": 2,
+      "content": "就是看你这个房子能不能租出去",
+      "music": 0.0
+    },
+    {
+      "from": 784.94,
+      "to": 786.58,
+      "sid": 439,
+      "location": 2,
+      "content": "租出去能赚多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 786.58,
+      "to": 787.78,
+      "sid": 440,
+      "location": 2,
+      "content": "回报率是多少",
+      "music": 0.0
+    },
+    {
+      "from": 787.78,
+      "to": 788.94,
+      "sid": 441,
+      "location": 2,
+      "content": "我们现在都在讲啊",
+      "music": 0.0
+    },
+    {
+      "from": 788.94,
+      "to": 790.48,
+      "sid": 442,
+      "location": 2,
+      "content": "各种这个自媒体都在讲啊",
+      "music": 0.0
+    },
+    {
+      "from": 790.48,
+      "to": 791.3,
+      "sid": 443,
+      "location": 2,
+      "content": "吹房子等等",
+      "music": 0.0
+    },
+    {
+      "from": 791.3,
+      "to": 793.12,
+      "sid": 444,
+      "location": 2,
+      "content": "都说啊我们的房子怎么怎么样了",
+      "music": 0.0
+    },
+    {
+      "from": 793.12,
+      "to": 794.6,
+      "sid": 445,
+      "location": 2,
+      "content": "他里面一个很重要的什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 794.6,
+      "to": 796.04,
+      "sid": 446,
+      "location": 2,
+      "content": "就说啊你看我的量上来了",
+      "music": 0.0
+    },
+    {
+      "from": 796.04,
+      "to": 797.06,
+      "sid": 447,
+      "location": 2,
+      "content": "那你想过没有",
+      "music": 0.0
+    },
+    {
+      "from": 797.06,
+      "to": 799.14,
+      "sid": 448,
+      "location": 2,
+      "content": "这些城市的量为什么上来了",
+      "music": 0.0
+    },
+    {
+      "from": 799.14,
+      "to": 800.46,
+      "sid": 449,
+      "location": 2,
+      "content": "两个一以价换量",
+      "music": 0.0
+    },
+    {
+      "from": 800.46,
+      "to": 801.34,
+      "sid": 450,
+      "location": 2,
+      "content": "足够便宜了吗",
+      "music": 0.0
+    },
+    {
+      "from": 801.34,
+      "to": 803.16,
+      "sid": 451,
+      "location": 2,
+      "content": "二啥叫足够便宜呢",
+      "music": 0.0
+    },
+    {
+      "from": 803.16,
+      "to": 805.18,
+      "sid": 452,
+      "location": 2,
+      "content": "都前面讲了足够便宜",
+      "music": 0.0
+    },
+    {
+      "from": 805.18,
+      "to": 808.88,
+      "sid": 453,
+      "location": 2,
+      "content": "就是说当你的整个这个月供跟你的租金差不多",
+      "music": 0.0
+    },
+    {
+      "from": 808.88,
+      "to": 810.79,
+      "sid": 454,
+      "location": 2,
+      "content": "那不就是足够便宜了吗",
+      "music": 0.0
+    },
+    {
+      "from": 810.79,
+      "to": 812.87,
+      "sid": 455,
+      "location": 2,
+      "content": "以价换量之余",
+      "music": 0.0
+    },
+    {
+      "from": 812.87,
+      "to": 816.04,
+      "sid": 456,
+      "location": 2,
+      "content": "那么就是租金回报率在提升",
+      "music": 0.0
+    },
+    {
+      "from": 816.04,
+      "to": 818.24,
+      "sid": 457,
+      "location": 2,
+      "content": "比如上海有一些老破小",
+      "music": 0.0
+    },
+    {
+      "from": 818.24,
+      "to": 819.38,
+      "sid": 458,
+      "location": 2,
+      "content": "总价很低",
+      "music": 0.0
+    },
+    {
+      "from": 819.38,
+      "to": 821.14,
+      "sid": 459,
+      "location": 2,
+      "content": "他的租金覆盖月供了",
+      "music": 0.0
+    },
+    {
+      "from": 821.14,
+      "to": 823.38,
+      "sid": 460,
+      "location": 2,
+      "content": "甚至呢他已经实现了以租养贷",
+      "music": 0.0
+    },
+    {
+      "from": 823.38,
+      "to": 825.58,
+      "sid": 461,
+      "location": 2,
+      "content": "那就是说这个东西就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 825.58,
+      "to": 826.46,
+      "sid": 462,
+      "location": 2,
+      "content": "我们举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 826.46,
+      "to": 827.54,
+      "sid": 463,
+      "location": 2,
+      "content": "前面做过节目啊",
+      "music": 0.0
+    },
+    {
+      "from": 827.54,
+      "to": 831.21,
+      "sid": 464,
+      "location": 2,
+      "content": "说这一轮全中国涨的最好是哪香港啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.21,
+      "to": 831.95,
+      "sid": 465,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 831.95,
+      "to": 833.25,
+      "sid": 466,
+      "location": 2,
+      "content": "那香港为啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 833.25,
+      "to": 836.03,
+      "sid": 467,
+      "location": 2,
+      "content": "朋友们3月份以来保持着上涨对吧",
+      "music": 0.0
+    },
+    {
+      "from": 836.03,
+      "to": 839.75,
+      "sid": 468,
+      "location": 2,
+      "content": "香港起来就是因为什么房价跌的多呀",
+      "music": 0.0
+    },
+    {
+      "from": 839.75,
+      "to": 840.93,
+      "sid": 469,
+      "location": 2,
+      "content": "房价在跌",
+      "music": 0.0
+    },
+    {
+      "from": 840.93,
+      "to": 842.07,
+      "sid": 470,
+      "location": 2,
+      "content": "但是租金却在涨",
+      "music": 0.0
+    },
+    {
+      "from": 842.07,
+      "to": 843.03,
+      "sid": 471,
+      "location": 2,
+      "content": "你比如我去香港",
+      "music": 0.0
+    },
+    {
+      "from": 843.03,
+      "to": 843.99,
+      "sid": 472,
+      "location": 2,
+      "content": "我不得租个房嘛",
+      "music": 0.0
+    },
+    {
+      "from": 843.99,
+      "to": 844.55,
+      "sid": 473,
+      "location": 2,
+      "content": "啊老金",
+      "music": 0.0
+    },
+    {
+      "from": 844.55,
+      "to": 848.32,
+      "sid": 474,
+      "location": 2,
+      "content": "你租租房子在香港总比天天住酒店便宜吧",
+      "music": 0.0
+    },
+    {
+      "from": 848.32,
+      "to": 849.74,
+      "sid": 475,
+      "location": 2,
+      "content": "而且香港很多时候的话",
+      "music": 0.0
+    },
+    {
+      "from": 849.74,
+      "to": 851.38,
+      "sid": 476,
+      "location": 2,
+      "content": "你知道我有我是有香港身份的",
+      "music": 0.0
+    },
+    {
+      "from": 851.38,
+      "to": 853.39,
+      "sid": 477,
+      "location": 2,
+      "content": "但是还没有到7年那个永居啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.39,
+      "to": 855.51,
+      "sid": 478,
+      "location": 2,
+      "content": "所以我是需要有一些什么水电费呀",
+      "music": 0.0
+    },
+    {
+      "from": 855.51,
+      "to": 856.99,
+      "sid": 479,
+      "location": 2,
+      "content": "这个信用卡呀",
+      "music": 0.0
+    },
+    {
+      "from": 856.99,
+      "to": 858.15,
+      "sid": 480,
+      "location": 2,
+      "content": "他需要有个地址的",
+      "music": 0.0
+    },
+    {
+      "from": 858.15,
+      "to": 859.79,
+      "sid": 481,
+      "location": 2,
+      "content": "那么我租个房子",
+      "music": 0.0
+    },
+    {
+      "from": 859.79,
+      "to": 862.27,
+      "sid": 482,
+      "location": 2,
+      "content": "香港的房价跌的那么狠啊",
+      "music": 0.0
+    },
+    {
+      "from": 862.27,
+      "to": 863.61,
+      "sid": 483,
+      "location": 2,
+      "content": "然后租金涨",
+      "music": 0.0
+    },
+    {
+      "from": 863.61,
+      "to": 865.73,
+      "sid": 484,
+      "location": 2,
+      "content": "租金回报率不就快速提升了吗",
+      "music": 0.0
+    },
+    {
+      "from": 865.73,
+      "to": 867.33,
+      "sid": 485,
+      "location": 2,
+      "content": "所以当大家一旦能算出来哦",
+      "music": 0.0
+    },
+    {
+      "from": 867.33,
+      "to": 868.79,
+      "sid": 486,
+      "location": 2,
+      "content": "买房比租房划算",
+      "music": 0.0
+    },
+    {
+      "from": 868.79,
+      "to": 870.58,
+      "sid": 487,
+      "location": 2,
+      "content": "可不是刚需的投资客就进厂了",
+      "music": 0.0
+    },
+    {
+      "from": 870.58,
+      "to": 872.96,
+      "sid": 488,
+      "location": 2,
+      "content": "所以当租金能够稳定",
+      "music": 0.0
+    },
+    {
+      "from": 872.96,
+      "to": 876.32,
+      "sid": 489,
+      "location": 2,
+      "content": "或者租金掉得比房价掉的要慢",
+      "music": 0.0
+    },
+    {
+      "from": 876.32,
+      "to": 877.92,
+      "sid": 490,
+      "location": 2,
+      "content": "幅度要小的时候",
+      "music": 0.0
+    },
+    {
+      "from": 877.92,
+      "to": 879.92,
+      "sid": 491,
+      "location": 2,
+      "content": "这样就能够支撑了",
+      "music": 0.0
+    },
+    {
+      "from": 879.92,
+      "to": 880.86,
+      "sid": 492,
+      "location": 2,
+      "content": "再说了",
+      "music": 0.0
+    },
+    {
+      "from": 880.86,
+      "to": 882.7,
+      "sid": 493,
+      "location": 2,
+      "content": "一个城市的房租",
+      "music": 0.0
+    },
+    {
+      "from": 882.7,
+      "to": 886.34,
+      "sid": 494,
+      "location": 2,
+      "content": "在一定程度上是可以体现出吸引力啊",
+      "music": 0.0
+    },
+    {
+      "from": 886.34,
+      "to": 887.12,
+      "sid": 495,
+      "location": 2,
+      "content": "活力等等",
+      "music": 0.0
+    },
+    {
+      "from": 887.12,
+      "to": 888.46,
+      "sid": 496,
+      "location": 2,
+      "content": "那就能够托了底了",
+      "music": 0.0
+    },
+    {
+      "from": 888.46,
+      "to": 889.23,
+      "sid": 497,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 889.23,
+      "to": 892.41,
+      "sid": 498,
+      "location": 2,
+      "content": "这就是我让大家更多地关注这个房租的基础",
+      "music": 0.0
+    },
+    {
+      "from": 892.41,
+      "to": 895.04,
+      "sid": 499,
+      "location": 2,
+      "content": "以前你们只看房价本身涨跌",
+      "music": 0.0
+    },
+    {
+      "from": 895.04,
+      "to": 895.94,
+      "sid": 500,
+      "location": 2,
+      "content": "就像股票",
+      "music": 0.0
+    },
+    {
+      "from": 895.94,
+      "to": 900.0,
+      "sid": 501,
+      "location": 2,
+      "content": "只看它本身价格涨跌以后就得看房租的变化",
+      "music": 0.0
+    },
+    {
+      "from": 900.0,
+      "to": 902.56,
+      "sid": 502,
+      "location": 2,
+      "content": "就像你炒股票也得看这个分红的变化",
+      "music": 0.0
+    },
+    {
+      "from": 902.56,
+      "to": 904.47,
+      "sid": 503,
+      "location": 2,
+      "content": "大家明白这个道理吗",
+      "music": 0.0
+    },
+    {
+      "from": 904.47,
+      "to": 905.71,
+      "sid": 504,
+      "location": 2,
+      "content": "很多人说老吉",
+      "music": 0.0
+    },
+    {
+      "from": 905.71,
+      "to": 906.95,
+      "sid": 505,
+      "location": 2,
+      "content": "那你是不是翻多了",
+      "music": 0.0
+    },
+    {
+      "from": 906.95,
+      "to": 907.79,
+      "sid": 506,
+      "location": 2,
+      "content": "我前面讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 907.79,
+      "to": 908.67,
+      "sid": 507,
+      "location": 2,
+      "content": "我没有翻多",
+      "music": 0.0
+    },
+    {
+      "from": 908.67,
+      "to": 910.21,
+      "sid": 508,
+      "location": 2,
+      "content": "但是我一直告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 910.21,
+      "to": 911.23,
+      "sid": 509,
+      "location": 2,
+      "content": "我是随行救赎",
+      "music": 0.0
+    },
+    {
+      "from": 911.23,
+      "to": 912.09,
+      "sid": 510,
+      "location": 2,
+      "content": "我不是死空头",
+      "music": 0.0
+    },
+    {
+      "from": 912.09,
+      "to": 913.74,
+      "sid": 511,
+      "location": 2,
+      "content": "永远跌永远滴",
+      "music": 0.0
+    },
+    {
+      "from": 913.74,
+      "to": 914.44,
+      "sid": 512,
+      "location": 2,
+      "content": "没有永远",
+      "music": 0.0
+    },
+    {
+      "from": 914.44,
+      "to": 915.38,
+      "sid": 513,
+      "location": 2,
+      "content": "这个世界没有永远",
+      "music": 0.0
+    },
+    {
+      "from": 915.38,
+      "to": 917.16,
+      "sid": 514,
+      "location": 2,
+      "content": "我喜欢我女朋友嗯",
+      "music": 0.0
+    },
+    {
+      "from": 917.16,
+      "to": 918.32,
+      "sid": 515,
+      "location": 2,
+      "content": "我喜喜欢她",
+      "music": 0.0
+    },
+    {
+      "from": 918.32,
+      "to": 920.62,
+      "sid": 516,
+      "location": 2,
+      "content": "我爱她永远永远有多远",
+      "music": 0.0
+    },
+    {
+      "from": 920.62,
+      "to": 921.8,
+      "sid": 517,
+      "location": 2,
+      "content": "他喜欢我吗",
+      "music": 0.0
+    },
+    {
+      "from": 921.8,
+      "to": 923.04,
+      "sid": 518,
+      "location": 2,
+      "content": "能够能够永远吗",
+      "music": 0.0
+    },
+    {
+      "from": 923.04,
+      "to": 926.02,
+      "sid": 519,
+      "location": 2,
+      "content": "这个事情没有永远都是在变化的",
+      "music": 0.0
+    },
+    {
+      "from": 926.02,
+      "to": 928.68,
+      "sid": 520,
+      "location": 2,
+      "content": "所以你要不断的根据变化来调整自己",
+      "music": 0.0
+    },
+    {
+      "from": 928.68,
+      "to": 929.52,
+      "sid": 521,
+      "location": 2,
+      "content": "应对的思路",
+      "music": 0.0
+    },
+    {
+      "from": 929.52,
+      "to": 930.34,
+      "sid": 522,
+      "location": 2,
+      "content": "大家明白吗",
+      "music": 0.0
+    },
+    {
+      "from": 930.34,
+      "to": 931.58,
+      "sid": 523,
+      "location": 2,
+      "content": "再说这极端的吗",
+      "music": 0.0
+    },
+    {
+      "from": 931.58,
+      "to": 933.78,
+      "sid": 524,
+      "location": 2,
+      "content": "北京房价跌到均价1万1平米了",
+      "music": 0.0
+    },
+    {
+      "from": 933.78,
+      "to": 934.88,
+      "sid": 525,
+      "location": 2,
+      "content": "你以为我不买啊",
+      "music": 0.0
+    },
+    {
+      "from": 934.88,
+      "to": 936.54,
+      "sid": 526,
+      "location": 2,
+      "content": "不到1万我就买了",
+      "music": 0.0
+    },
+    {
+      "from": 936.54,
+      "to": 937.28,
+      "sid": 527,
+      "location": 2,
+      "content": "是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 937.28,
+      "to": 938.0,
+      "sid": 528,
+      "location": 2,
+      "content": "不呵呵",
+      "music": 0.0
+    },
+    {
+      "from": 938.0,
+      "to": 940.14,
+      "sid": 529,
+      "location": 2,
+      "content": "那有人说我一级1万21万诶",
+      "music": 0.0
+    },
+    {
+      "from": 940.14,
+      "to": 941.06,
+      "sid": 530,
+      "location": 2,
+      "content": "卷起来了",
+      "music": 0.0
+    },
+    {
+      "from": 941.06,
+      "to": 942.66,
+      "sid": 531,
+      "location": 2,
+      "content": "命运的齿轮开始了",
+      "music": 0.0
+    },
+    {
+      "from": 942.66,
+      "to": 944.03,
+      "sid": 532,
+      "location": 2,
+      "content": "转起来了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 944.03,
+      "to": 945.09,
+      "sid": 533,
+      "location": 2,
+      "content": "就是这个道理",
+      "music": 0.0
+    },
+    {
+      "from": 945.09,
+      "to": 947.47,
+      "sid": 534,
+      "location": 2,
+      "content": "所以呢朋友们最后再说一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 947.47,
+      "to": 948.67,
+      "sid": 535,
+      "location": 2,
+      "content": "你自己来决策",
+      "music": 0.0
+    },
+    {
+      "from": 948.67,
+      "to": 949.31,
+      "sid": 536,
+      "location": 2,
+      "content": "不要说啊",
+      "music": 0.0
+    },
+    {
+      "from": 949.31,
+      "to": 950.27,
+      "sid": 537,
+      "location": 2,
+      "content": "老吉翻多了哈",
+      "music": 0.0
+    },
+    {
+      "from": 950.27,
+      "to": 951.13,
+      "sid": 538,
+      "location": 2,
+      "content": "没有没有",
+      "music": 0.0
+    },
+    {
+      "from": 951.13,
+      "to": 952.25,
+      "sid": 539,
+      "location": 2,
+      "content": "我一直说是有底",
+      "music": 0.0
+    },
+    {
+      "from": 952.25,
+      "to": 953.59,
+      "sid": 540,
+      "location": 2,
+      "content": "这个底咱们要自己算",
+      "music": 0.0
+    },
+    {
+      "from": 953.59,
+      "to": 956.77,
+      "sid": 541,
+      "location": 2,
+      "content": "而且今天你才看到我说百城的",
+      "music": 0.0
+    },
+    {
+      "from": 956.77,
+      "to": 959.09,
+      "sid": 542,
+      "location": 2,
+      "content": "咱们月中还有一个统计局的呢",
+      "music": 0.0
+    },
+    {
+      "from": 959.09,
+      "to": 963.66,
+      "sid": 543,
+      "location": 2,
+      "content": "至于百城跟统计局哪一个更加的呃权威",
+      "music": 0.0
+    },
+    {
+      "from": 963.66,
+      "to": 965.7,
+      "sid": 544,
+      "location": 2,
+      "content": "至于这个终止研究院和统计局",
+      "music": 0.0
+    },
+    {
+      "from": 965.7,
+      "to": 967.72,
+      "sid": 545,
+      "location": 2,
+      "content": "你愿意采信哪个数据的话",
+      "music": 0.0
+    },
+    {
+      "from": 967.72,
+      "to": 970.04,
+      "sid": 546,
+      "location": 2,
+      "content": "总之数据都放在这里啊",
+      "music": 0.0
+    },
+    {
+      "from": 970.04,
+      "to": 971.48,
+      "sid": 547,
+      "location": 2,
+      "content": "形势是非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 971.48,
+      "to": 972.64,
+      "sid": 548,
+      "location": 2,
+      "content": "是越来越好的",
+      "music": 0.0
+    },
+    {
+      "from": 972.64,
+      "to": 975.28,
+      "sid": 549,
+      "location": 2,
+      "content": "我们的无论是向上增长还是向下增长",
+      "music": 0.0
+    },
+    {
+      "from": 975.28,
+      "to": 976.66,
+      "sid": 550,
+      "location": 2,
+      "content": "都是非常稳步的一个增长",
+      "music": 0.0
+    },
+    {
+      "from": 976.66,
+      "to": 978.38,
+      "sid": 551,
+      "location": 2,
+      "content": "这个态势是美好的",
+      "music": 0.0
+    },
+    {
+      "from": 978.38,
+      "to": 980.16,
+      "sid": 552,
+      "location": 2,
+      "content": "大家的未来是非常光明的",
+      "music": 0.0
+    },
+    {
+      "from": 980.16,
+      "to": 983.34,
+      "sid": 553,
+      "location": 2,
+      "content": "那么希望大家在光明的未来当中来寻求自己",
+      "music": 0.0
+    },
+    {
+      "from": 983.34,
+      "to": 985.89,
+      "sid": 554,
+      "location": 2,
+      "content": "那个一片人生的坦途好吗",
+      "music": 0.0
+    },
+    {
+      "from": 985.89,
+      "to": 988.47,
+      "sid": 555,
+      "location": 2,
+      "content": "有问题联系吉胖100W北极贝",
+      "music": 0.0
+    },
+    {
+      "from": 988.47,
+      "to": 989.58,
+      "sid": 556,
+      "location": 2,
+      "content": "我们等着你",
+      "music": 0.0
+    }
+  ]
+}

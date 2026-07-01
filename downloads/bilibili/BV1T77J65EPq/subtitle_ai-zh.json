@@ -1,0 +1,4188 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.48,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.48,
+      "to": 2.32,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.32,
+      "to": 5.529,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢和大家分享一篇高盛的中国策略研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.529,
+      "to": 7.889,
+      "sid": 4,
+      "location": 2,
+      "content": "那这篇研报呢主要是分析了中国",
+      "music": 0.0
+    },
+    {
+      "from": 7.889,
+      "to": 10.089,
+      "sid": 5,
+      "location": 2,
+      "content": "将近7000家的上市企业",
+      "music": 0.0
+    },
+    {
+      "from": 10.089,
+      "to": 12.69,
+      "sid": 6,
+      "location": 2,
+      "content": "在今年一季度的业绩表现情况",
+      "music": 0.0
+    },
+    {
+      "from": 12.69,
+      "to": 14.53,
+      "sid": 7,
+      "location": 2,
+      "content": "虽然这是一篇策略研报呢",
+      "music": 0.0
+    },
+    {
+      "from": 16.45,
+      "to": 19.73,
+      "sid": 8,
+      "location": 2,
+      "content": "但是我更关注的其实还是研报当中分析出来的",
+      "music": 0.0
+    },
+    {
+      "from": 19.73,
+      "to": 22.65,
+      "sid": 9,
+      "location": 2,
+      "content": "中国这些企业之间的分化程度啊",
+      "music": 0.0
+    },
+    {
+      "from": 22.65,
+      "to": 24.78,
+      "sid": 10,
+      "location": 2,
+      "content": "包括比如说上下游之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 24.78,
+      "to": 26.94,
+      "sid": 11,
+      "location": 2,
+      "content": "比如说不同所有制之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 26.94,
+      "to": 28.82,
+      "sid": 12,
+      "location": 2,
+      "content": "包括比如行业之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 28.82,
+      "to": 29.54,
+      "sid": 13,
+      "location": 2,
+      "content": "以及内需",
+      "music": 0.0
+    },
+    {
+      "from": 29.54,
+      "to": 31.29,
+      "sid": 14,
+      "location": 2,
+      "content": "外需之间的分化等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.29,
+      "to": 32.61,
+      "sid": 15,
+      "location": 2,
+      "content": "这块呢我也多插一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.61,
+      "to": 35.25,
+      "sid": 16,
+      "location": 2,
+      "content": "由于中国的这个企业财报数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 35.25,
+      "to": 37.66,
+      "sid": 17,
+      "location": 2,
+      "content": "相对来说可信度是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 37.66,
+      "to": 40.82,
+      "sid": 18,
+      "location": 2,
+      "content": "之前呢高善文也是用企业的财报数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.82,
+      "to": 42.22,
+      "sid": 19,
+      "location": 2,
+      "content": "来做宏观经济分析的",
+      "music": 0.0
+    },
+    {
+      "from": 42.22,
+      "to": 43.74,
+      "sid": 20,
+      "location": 2,
+      "content": "比如说被封之前啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.74,
+      "to": 45.62,
+      "sid": 21,
+      "location": 2,
+      "content": "最后一次在国内露面呢",
+      "music": 0.0
+    },
+    {
+      "from": 45.62,
+      "to": 49.36,
+      "sid": 22,
+      "location": 2,
+      "content": "是在2024年底的国投证券的投资策略会上",
+      "music": 0.0
+    },
+    {
+      "from": 49.36,
+      "to": 51.53,
+      "sid": 23,
+      "location": 2,
+      "content": "我不知道大家是否还有印象",
+      "music": 0.0
+    },
+    {
+      "from": 51.53,
+      "to": 53.85,
+      "sid": 24,
+      "location": 2,
+      "content": "高博当时分享的这个研究成果",
+      "music": 0.0
+    },
+    {
+      "from": 53.85,
+      "to": 54.55,
+      "sid": 25,
+      "location": 2,
+      "content": "是发现",
+      "music": 0.0
+    },
+    {
+      "from": 54.55,
+      "to": 58.74,
+      "sid": 26,
+      "location": 2,
+      "content": "中国经济当时面临的不只是官方叙事当中的",
+      "music": 0.0
+    },
+    {
+      "from": 58.74,
+      "to": 60.8,
+      "sid": 27,
+      "location": 2,
+      "content": "新旧动能转换的阵痛啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.8,
+      "to": 63.18,
+      "sid": 28,
+      "location": 2,
+      "content": "而主要呢是经济周期的压力",
+      "music": 0.0
+    },
+    {
+      "from": 63.18,
+      "to": 65.34,
+      "sid": 29,
+      "location": 2,
+      "content": "其实直到现在官方叙事当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.34,
+      "to": 67.84,
+      "sid": 30,
+      "location": 2,
+      "content": "仍然把目前经济下行的压力",
+      "music": 0.0
+    },
+    {
+      "from": 67.84,
+      "to": 70.3,
+      "sid": 31,
+      "location": 2,
+      "content": "主要归因为了转型的阵痛",
+      "music": 0.0
+    },
+    {
+      "from": 70.3,
+      "to": 72.68,
+      "sid": 32,
+      "location": 2,
+      "content": "就比如昨天我在YOUTUBE频道里面",
+      "music": 0.0
+    },
+    {
+      "from": 72.68,
+      "to": 73.86,
+      "sid": 33,
+      "location": 2,
+      "content": "其实也给大家分享了",
+      "music": 0.0
+    },
+    {
+      "from": 78.82,
+      "to": 81.15,
+      "sid": 34,
+      "location": 2,
+      "content": "它呢是把信贷数据的下滑",
+      "music": 0.0
+    },
+    {
+      "from": 81.15,
+      "to": 83.87,
+      "sid": 35,
+      "location": 2,
+      "content": "主要归因为了新旧动能的转换",
+      "music": 0.0
+    },
+    {
+      "from": 83.87,
+      "to": 84.51,
+      "sid": 36,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 84.51,
+      "to": 86.91,
+      "sid": 37,
+      "location": 2,
+      "content": "之前呢房地产和基建这类旧经济",
+      "music": 0.0
+    },
+    {
+      "from": 86.91,
+      "to": 89.09,
+      "sid": 38,
+      "location": 2,
+      "content": "主要依靠的是间接融资",
+      "music": 0.0
+    },
+    {
+      "from": 91.97,
+      "to": 93.61,
+      "sid": 39,
+      "location": 2,
+      "content": "主要依靠的是直接融资",
+      "music": 0.0
+    },
+    {
+      "from": 93.61,
+      "to": 94.96,
+      "sid": 40,
+      "location": 2,
+      "content": "所以直接融资呢",
+      "music": 0.0
+    },
+    {
+      "from": 94.96,
+      "to": 97.38,
+      "sid": 41,
+      "location": 2,
+      "content": "意味着它是票据融资或者股权融资",
+      "music": 0.0
+    },
+    {
+      "from": 97.38,
+      "to": 99.12,
+      "sid": 42,
+      "location": 2,
+      "content": "而不再需要信贷啊",
+      "music": 0.0
+    },
+    {
+      "from": 99.12,
+      "to": 101.7,
+      "sid": 43,
+      "location": 2,
+      "content": "那自然信贷数据就往下走了",
+      "music": 0.0
+    },
+    {
+      "from": 101.7,
+      "to": 103.56,
+      "sid": 44,
+      "location": 2,
+      "content": "那潘行长说的是不是事实呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.56,
+      "to": 104.32,
+      "sid": 45,
+      "location": 2,
+      "content": "显然是啊",
+      "music": 0.0
+    },
+    {
+      "from": 104.32,
+      "to": 105.16,
+      "sid": 46,
+      "location": 2,
+      "content": "我也认可",
+      "music": 0.0
+    },
+    {
+      "from": 105.16,
+      "to": 107.18,
+      "sid": 47,
+      "location": 2,
+      "content": "但是这是不是唯一的事实",
+      "music": 0.0
+    },
+    {
+      "from": 107.18,
+      "to": 108.44,
+      "sid": 48,
+      "location": 2,
+      "content": "或者说他是不是唯一",
+      "music": 0.0
+    },
+    {
+      "from": 108.44,
+      "to": 111.18,
+      "sid": 49,
+      "location": 2,
+      "content": "导致目前信贷数据下滑的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 111.18,
+      "to": 112.62,
+      "sid": 50,
+      "location": 2,
+      "content": "那显然也不不是对吧",
+      "music": 0.0
+    },
+    {
+      "from": 112.62,
+      "to": 115.36,
+      "sid": 51,
+      "location": 2,
+      "content": "那高博当时呢其实也得到了同样的结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.36,
+      "to": 116.68,
+      "sid": 52,
+      "location": 2,
+      "content": "如果大家还有印象的话",
+      "music": 0.0
+    },
+    {
+      "from": 116.68,
+      "to": 119.78,
+      "sid": 53,
+      "location": 2,
+      "content": "当时他是说支撑他当时这个结论的主要依据呢",
+      "music": 0.0
+    },
+    {
+      "from": 119.78,
+      "to": 122.63,
+      "sid": 54,
+      "location": 2,
+      "content": "是他把上市企业分为了三类",
+      "music": 0.0
+    },
+    {
+      "from": 122.63,
+      "to": 125.79,
+      "sid": 55,
+      "location": 2,
+      "content": "第一类呢是政策支持鼓励的新经济",
+      "music": 0.0
+    },
+    {
+      "from": 125.79,
+      "to": 127.35,
+      "sid": 56,
+      "location": 2,
+      "content": "行业里面的上市企业",
+      "music": 0.0
+    },
+    {
+      "from": 127.35,
+      "to": 130.55,
+      "sid": 57,
+      "location": 2,
+      "content": "第二类呢是政府坚定压降的旧经济啊",
+      "music": 0.0
+    },
+    {
+      "from": 130.55,
+      "to": 131.19,
+      "sid": 58,
+      "location": 2,
+      "content": "比如说基建",
+      "music": 0.0
+    },
+    {
+      "from": 131.19,
+      "to": 131.97,
+      "sid": 59,
+      "location": 2,
+      "content": "比如说房地产",
+      "music": 0.0
+    },
+    {
+      "from": 131.97,
+      "to": 133.55,
+      "sid": 60,
+      "location": 2,
+      "content": "第三类呢是中性企业",
+      "music": 0.0
+    },
+    {
+      "from": 133.55,
+      "to": 135.96,
+      "sid": 61,
+      "location": 2,
+      "content": "就是说政策既不支持也不打压",
+      "music": 0.0
+    },
+    {
+      "from": 135.96,
+      "to": 138.4,
+      "sid": 62,
+      "location": 2,
+      "content": "那如果说当时中国经济的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 138.4,
+      "to": 141.04,
+      "sid": 63,
+      "location": 2,
+      "content": "主要是来自于新旧动能的转换",
+      "music": 0.0
+    },
+    {
+      "from": 141.04,
+      "to": 143.92,
+      "sid": 64,
+      "location": 2,
+      "content": "那么不应该观察到第三类就是中性企业",
+      "music": 0.0
+    },
+    {
+      "from": 143.92,
+      "to": 146.34,
+      "sid": 65,
+      "location": 2,
+      "content": "它的营收和利润都在下降",
+      "music": 0.0
+    },
+    {
+      "from": 146.34,
+      "to": 149.94,
+      "sid": 66,
+      "location": 2,
+      "content": "但高博从企业财报数据当中还是发现了",
+      "music": 0.0
+    },
+    {
+      "from": 149.94,
+      "to": 153.7,
+      "sid": 67,
+      "location": 2,
+      "content": "这些中性企业也就是没有受到政策的支持",
+      "music": 0.0
+    },
+    {
+      "from": 153.7,
+      "to": 155.76,
+      "sid": 68,
+      "location": 2,
+      "content": "也没有受到政策打压的这些企业",
+      "music": 0.0
+    },
+    {
+      "from": 155.76,
+      "to": 159.18,
+      "sid": 69,
+      "location": 2,
+      "content": "他们的营收和利润均值和中位数都是在下降",
+      "music": 0.0
+    },
+    {
+      "from": 159.18,
+      "to": 162.84,
+      "sid": 70,
+      "location": 2,
+      "content": "所以显然呢驱动这些中性企业经营困难的动因",
+      "music": 0.0
+    },
+    {
+      "from": 162.84,
+      "to": 166.72,
+      "sid": 71,
+      "location": 2,
+      "content": "就不能用新旧动能转换这个逻辑来解释了",
+      "music": 0.0
+    },
+    {
+      "from": 166.72,
+      "to": 170.08,
+      "sid": 72,
+      "location": 2,
+      "content": "那也就是说这背后还是有经济周期的力量",
+      "music": 0.0
+    },
+    {
+      "from": 170.08,
+      "to": 171.9,
+      "sid": 73,
+      "location": 2,
+      "content": "那2024年末的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 171.9,
+      "to": 175.12,
+      "sid": 74,
+      "location": 2,
+      "content": "就是属于一个经济在持续下行的时间点啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.12,
+      "to": 176.52,
+      "sid": 75,
+      "location": 2,
+      "content": "所以他当时也呼吁啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.52,
+      "to": 179.92,
+      "sid": 76,
+      "location": 2,
+      "content": "应该采用更大力度的逆周期政策去支持经济",
+      "music": 0.0
+    },
+    {
+      "from": 179.92,
+      "to": 182.0,
+      "sid": 77,
+      "location": 2,
+      "content": "不过之后的故事大家就都知道了",
+      "music": 0.0
+    },
+    {
+      "from": 182.0,
+      "to": 184.36,
+      "sid": 78,
+      "location": 2,
+      "content": "在中国的这个cf40研究团队啊",
+      "music": 0.0
+    },
+    {
+      "from": 184.36,
+      "to": 186.12,
+      "sid": 79,
+      "location": 2,
+      "content": "和美国PIE研究团队",
+      "music": 0.0
+    },
+    {
+      "from": 186.12,
+      "to": 188.04,
+      "sid": 80,
+      "location": 2,
+      "content": "联合搞的这个中美经济论坛上",
+      "music": 0.0
+    },
+    {
+      "from": 188.04,
+      "to": 189.92,
+      "sid": 81,
+      "location": 2,
+      "content": "因为高博也是cf40研究团队",
+      "music": 0.0
+    },
+    {
+      "from": 189.92,
+      "to": 191.2,
+      "sid": 82,
+      "location": 2,
+      "content": "原来的成员之一啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 193.2,
+      "sid": 83,
+      "location": 2,
+      "content": "那他在这个论坛上呢是说",
+      "music": 0.0
+    },
+    {
+      "from": 193.2,
+      "to": 196.62,
+      "sid": 84,
+      "location": 2,
+      "content": "未来每年中国实际GDP增速都会完成目标",
+      "music": 0.0
+    },
+    {
+      "from": 196.62,
+      "to": 198.58,
+      "sid": 85,
+      "location": 2,
+      "content": "无论这个目标定在多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.58,
+      "to": 200.82,
+      "sid": 86,
+      "location": 2,
+      "content": "这个之后呢就被封杀了",
+      "music": 0.0
+    },
+    {
+      "from": 200.82,
+      "to": 202.42,
+      "sid": 87,
+      "location": 2,
+      "content": "那回到今天这篇研报呢",
+      "music": 0.0
+    },
+    {
+      "from": 202.42,
+      "to": 204.18,
+      "sid": 88,
+      "location": 2,
+      "content": "还是照例先和大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 204.18,
+      "to": 205.81,
+      "sid": 89,
+      "location": 2,
+      "content": "这篇研报的核心结论",
+      "music": 0.0
+    },
+    {
+      "from": 205.81,
+      "to": 209.57,
+      "sid": 90,
+      "location": 2,
+      "content": "首先呢就是中国上市企业在26年一季度",
+      "music": 0.0
+    },
+    {
+      "from": 209.57,
+      "to": 212.41,
+      "sid": 91,
+      "location": 2,
+      "content": "整体营收是同比增长了4%",
+      "music": 0.0
+    },
+    {
+      "from": 212.41,
+      "to": 215.63,
+      "sid": 92,
+      "location": 2,
+      "content": "合并的净利润同比增长是6%",
+      "music": 0.0
+    },
+    {
+      "from": 215.63,
+      "to": 218.93,
+      "sid": 93,
+      "location": 2,
+      "content": "两个数据首先都实现了同比的增长",
+      "music": 0.0
+    },
+    {
+      "from": 218.93,
+      "to": 220.73,
+      "sid": 94,
+      "location": 2,
+      "content": "不过呢可以做一个对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 220.73,
+      "to": 224.66,
+      "sid": 95,
+      "location": 2,
+      "content": "25年全年整体营收呢是同比增长了1%",
+      "music": 0.0
+    },
+    {
+      "from": 224.66,
+      "to": 226.5,
+      "sid": 96,
+      "location": 2,
+      "content": "合并的这个净利润啊",
+      "music": 0.0
+    },
+    {
+      "from": 226.5,
+      "to": 228.16,
+      "sid": 97,
+      "location": 2,
+      "content": "同比是增长了7%",
+      "music": 0.0
+    },
+    {
+      "from": 228.16,
+      "to": 231.46,
+      "sid": 98,
+      "location": 2,
+      "content": "也就是说今年一季度营收增速呢是有提速的",
+      "music": 0.0
+    },
+    {
+      "from": 231.46,
+      "to": 233.64,
+      "sid": 99,
+      "location": 2,
+      "content": "但是利润增速是稍有放缓的",
+      "music": 0.0
+    },
+    {
+      "from": 233.64,
+      "to": 235.26,
+      "sid": 100,
+      "location": 2,
+      "content": "那这个呢是总体情况",
+      "music": 0.0
+    },
+    {
+      "from": 235.26,
+      "to": 236.62,
+      "sid": 101,
+      "location": 2,
+      "content": "如果看内部呢",
+      "music": 0.0
+    },
+    {
+      "from": 236.62,
+      "to": 239.16,
+      "sid": 102,
+      "location": 2,
+      "content": "7000家上市企业之间分化也非常大",
+      "music": 0.0
+    },
+    {
+      "from": 239.16,
+      "to": 241.26,
+      "sid": 103,
+      "location": 2,
+      "content": "我这里面主要说四个维度的分化",
+      "music": 0.0
+    },
+    {
+      "from": 241.26,
+      "to": 242.02,
+      "sid": 104,
+      "location": 2,
+      "content": "就是在开篇",
+      "music": 0.0
+    },
+    {
+      "from": 242.02,
+      "to": 243.41,
+      "sid": 105,
+      "location": 2,
+      "content": "其实我也大概提了一下",
+      "music": 0.0
+    },
+    {
+      "from": 243.41,
+      "to": 246.27,
+      "sid": 106,
+      "location": 2,
+      "content": "一个呢是按照所有制企业的对比",
+      "music": 0.0
+    },
+    {
+      "from": 246.27,
+      "to": 246.85,
+      "sid": 107,
+      "location": 2,
+      "content": "发现呢",
+      "music": 0.0
+    },
+    {
+      "from": 246.85,
+      "to": 249.97,
+      "sid": 108,
+      "location": 2,
+      "content": "国有企业利润增速从去年的1%",
+      "music": 0.0
+    },
+    {
+      "from": 249.97,
+      "to": 252.7,
+      "sid": 109,
+      "location": 2,
+      "content": "进一步提速到了今年7%的增长",
+      "music": 0.0
+    },
+    {
+      "from": 252.7,
+      "to": 254.62,
+      "sid": 110,
+      "location": 2,
+      "content": "而民营企业的利润增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.62,
+      "to": 256.98,
+      "sid": 111,
+      "location": 2,
+      "content": "从2025年的11%是放缓",
+      "music": 0.0
+    },
+    {
+      "from": 256.98,
+      "to": 259.939,
+      "sid": 112,
+      "location": 2,
+      "content": "到了今年一季度的4%",
+      "music": 0.0
+    },
+    {
+      "from": 259.939,
+      "to": 261.879,
+      "sid": 113,
+      "location": 2,
+      "content": "所以这一增一减之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 264.54,
+      "to": 267.7,
+      "sid": 114,
+      "location": 2,
+      "content": "那第二个呢是按照上下游之间去做对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.7,
+      "to": 270.16,
+      "sid": 115,
+      "location": 2,
+      "content": "自然我相信大家也能猜到是什么情况",
+      "music": 0.0
+    },
+    {
+      "from": 270.16,
+      "to": 272.72,
+      "sid": 116,
+      "location": 2,
+      "content": "那受到原材料价格的上涨的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 272.72,
+      "to": 274.04,
+      "sid": 117,
+      "location": 2,
+      "content": "包括中东能源冲突啊",
+      "music": 0.0
+    },
+    {
+      "from": 274.04,
+      "to": 275.6,
+      "sid": 118,
+      "location": 2,
+      "content": "虽然说我们是一季度的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 275.6,
+      "to": 278.24,
+      "sid": 119,
+      "location": 2,
+      "content": "3月份可能中东能源冲突并不是特别强",
+      "music": 0.0
+    },
+    {
+      "from": 278.24,
+      "to": 281.0,
+      "sid": 120,
+      "location": 2,
+      "content": "但同时呢我们看到存储包括集成电路啊",
+      "music": 0.0
+    },
+    {
+      "from": 281.0,
+      "to": 283.24,
+      "sid": 121,
+      "location": 2,
+      "content": "他们的价格其实从3月份就已经开始上涨了",
+      "music": 0.0
+    },
+    {
+      "from": 283.24,
+      "to": 286.04,
+      "sid": 122,
+      "location": 2,
+      "content": "其实他们从去年的年末就开始上涨了",
+      "music": 0.0
+    },
+    {
+      "from": 286.04,
+      "to": 288.58,
+      "sid": 123,
+      "location": 2,
+      "content": "那受到这些原材料价格的上涨影响",
+      "music": 0.0
+    },
+    {
+      "from": 288.58,
+      "to": 291.36,
+      "sid": 124,
+      "location": 2,
+      "content": "以及国有企业在上游占据主导的地位",
+      "music": 0.0
+    },
+    {
+      "from": 291.36,
+      "to": 293.84,
+      "sid": 125,
+      "location": 2,
+      "content": "那上游的材料板块合并净利润",
+      "music": 0.0
+    },
+    {
+      "from": 293.84,
+      "to": 295.92,
+      "sid": 126,
+      "location": 2,
+      "content": "同比是增长了73%",
+      "music": 0.0
+    },
+    {
+      "from": 295.92,
+      "to": 297.92,
+      "sid": 127,
+      "location": 2,
+      "content": "能源板块同比增长48%",
+      "music": 0.0
+    },
+    {
+      "from": 297.92,
+      "to": 301.449,
+      "sid": 128,
+      "location": 2,
+      "content": "而下游板块无论是终端消费还是房地产",
+      "music": 0.0
+    },
+    {
+      "from": 301.449,
+      "to": 303.269,
+      "sid": 129,
+      "location": 2,
+      "content": "汽车表现都很疲软啊",
+      "music": 0.0
+    },
+    {
+      "from": 303.269,
+      "to": 304.24,
+      "sid": 130,
+      "location": 2,
+      "content": "一会我们再去说",
+      "music": 0.0
+    },
+    {
+      "from": 304.24,
+      "to": 305.72,
+      "sid": 131,
+      "location": 2,
+      "content": "那第三个维度的分化呢",
+      "music": 0.0
+    },
+    {
+      "from": 305.72,
+      "to": 307.34,
+      "sid": 132,
+      "location": 2,
+      "content": "就是按照行业去做对比",
+      "music": 0.0
+    },
+    {
+      "from": 307.34,
+      "to": 309.24,
+      "sid": 133,
+      "location": 2,
+      "content": "那存储集成电路设计",
+      "music": 0.0
+    },
+    {
+      "from": 309.24,
+      "to": 313.45,
+      "sid": 134,
+      "location": 2,
+      "content": "包括材料板块的利润份额提升是最为明显的",
+      "music": 0.0
+    },
+    {
+      "from": 313.45,
+      "to": 314.88,
+      "sid": 135,
+      "location": 2,
+      "content": "而比如说消费板块",
+      "music": 0.0
+    },
+    {
+      "from": 314.88,
+      "to": 316.06,
+      "sid": 136,
+      "location": 2,
+      "content": "比如说建筑材料",
+      "music": 0.0
+    },
+    {
+      "from": 316.06,
+      "to": 318.12,
+      "sid": 137,
+      "location": 2,
+      "content": "甚至是跟反内卷相关的",
+      "music": 0.0
+    },
+    {
+      "from": 318.12,
+      "to": 319.98,
+      "sid": 138,
+      "location": 2,
+      "content": "比如说光伏行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 319.98,
+      "to": 323.34,
+      "sid": 139,
+      "location": 2,
+      "content": "这些板块的利润呢仍然是继续承压的",
+      "music": 0.0
+    },
+    {
+      "from": 323.34,
+      "to": 325.98,
+      "sid": 140,
+      "location": 2,
+      "content": "那第四呢就是按照内需和外需做对比",
+      "music": 0.0
+    },
+    {
+      "from": 325.98,
+      "to": 329.1,
+      "sid": 141,
+      "location": 2,
+      "content": "中国上市公司的海外营收暴露度呢",
+      "music": 0.0
+    },
+    {
+      "from": 329.1,
+      "to": 331.46,
+      "sid": 142,
+      "location": 2,
+      "content": "已经是从2024年的16%",
+      "music": 0.0
+    },
+    {
+      "from": 331.46,
+      "to": 333.82,
+      "sid": 143,
+      "location": 2,
+      "content": "上升到了2025年的18%",
+      "music": 0.0
+    },
+    {
+      "from": 333.82,
+      "to": 338.58,
+      "sid": 144,
+      "location": 2,
+      "content": "而且海外利润率也相较于内需啊有明显的溢价",
+      "music": 0.0
+    },
+    {
+      "from": 338.58,
+      "to": 340.14,
+      "sid": 145,
+      "location": 2,
+      "content": "也就是说同样的商品啊",
+      "music": 0.0
+    },
+    {
+      "from": 340.14,
+      "to": 342.29,
+      "sid": 146,
+      "location": 2,
+      "content": "在海外卖的利润",
+      "music": 0.0
+    },
+    {
+      "from": 342.29,
+      "to": 344.85,
+      "sid": 147,
+      "location": 2,
+      "content": "要比在国内卖利润还要更高一些",
+      "music": 0.0
+    },
+    {
+      "from": 344.85,
+      "to": 346.01,
+      "sid": 148,
+      "location": 2,
+      "content": "那出口型企业呢",
+      "music": 0.0
+    },
+    {
+      "from": 346.01,
+      "to": 348.44,
+      "sid": 149,
+      "location": 2,
+      "content": "在2026年一季度的营收和利润",
+      "music": 0.0
+    },
+    {
+      "from": 348.44,
+      "to": 351.68,
+      "sid": 150,
+      "location": 2,
+      "content": "都大幅超过了这7000家上市公司的平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 351.68,
+      "to": 355.52,
+      "sid": 151,
+      "location": 2,
+      "content": "也反映出啊企业目前都在选择going in global啊",
+      "music": 0.0
+    },
+    {
+      "from": 355.52,
+      "to": 357.97,
+      "sid": 152,
+      "location": 2,
+      "content": "就是在海外可能机会更多",
+      "music": 0.0
+    },
+    {
+      "from": 357.97,
+      "to": 359.45,
+      "sid": 153,
+      "location": 2,
+      "content": "所以简单的做一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 359.45,
+      "to": 361.17,
+      "sid": 154,
+      "location": 2,
+      "content": "刚才说到这四个维度的分化呢",
+      "music": 0.0
+    },
+    {
+      "from": 361.17,
+      "to": 362.74,
+      "sid": 155,
+      "location": 2,
+      "content": "就是说上游企业",
+      "music": 0.0
+    },
+    {
+      "from": 362.74,
+      "to": 363.72,
+      "sid": 156,
+      "location": 2,
+      "content": "新经济部门",
+      "music": 0.0
+    },
+    {
+      "from": 363.72,
+      "to": 365.86,
+      "sid": 157,
+      "location": 2,
+      "content": "出口国企是好的",
+      "music": 0.0
+    },
+    {
+      "from": 365.86,
+      "to": 369.46,
+      "sid": 158,
+      "location": 2,
+      "content": "下游旧经济内需民企是偏差的",
+      "music": 0.0
+    },
+    {
+      "from": 369.46,
+      "to": 372.62,
+      "sid": 159,
+      "location": 2,
+      "content": "那接下来呢我们就来看一下这篇研报的整体",
+      "music": 0.0
+    },
+    {
+      "from": 372.62,
+      "to": 373.3,
+      "sid": 160,
+      "location": 2,
+      "content": "论述逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 373.3,
+      "to": 376.02,
+      "sid": 161,
+      "location": 2,
+      "content": "前面的这些核心的摘要部分我就跳过了",
+      "music": 0.0
+    },
+    {
+      "from": 376.02,
+      "to": 377.1,
+      "sid": 162,
+      "location": 2,
+      "content": "首先呢我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 377.1,
+      "to": 380.76,
+      "sid": 163,
+      "location": 2,
+      "content": "第一部分是关于A股的整体的增长情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 380.76,
+      "to": 382.429,
+      "sid": 164,
+      "location": 2,
+      "content": "当然也包括内部的结构",
+      "music": 0.0
+    },
+    {
+      "from": 382.429,
+      "to": 383.989,
+      "sid": 165,
+      "location": 2,
+      "content": "首先呢高盛是提到啊",
+      "music": 0.0
+    },
+    {
+      "from": 383.989,
+      "to": 386.749,
+      "sid": 166,
+      "location": 2,
+      "content": "A股今年的表现是outpacing h股",
+      "music": 0.0
+    },
+    {
+      "from": 386.749,
+      "to": 390.709,
+      "sid": 167,
+      "location": 2,
+      "content": "也就是呃国内的A股表现要比港股更优啊",
+      "music": 0.0
+    },
+    {
+      "from": 390.709,
+      "to": 393.029,
+      "sid": 168,
+      "location": 2,
+      "content": "这里面的数据呢刚才也简单跟大家说了一下",
+      "music": 0.0
+    },
+    {
+      "from": 393.029,
+      "to": 395.51,
+      "sid": 169,
+      "location": 2,
+      "content": "就是累计合并的这个净利润啊",
+      "music": 0.0
+    },
+    {
+      "from": 395.51,
+      "to": 399.25,
+      "sid": 170,
+      "location": 2,
+      "content": "在今年一季度是实现了6%的增长",
+      "music": 0.0
+    },
+    {
+      "from": 399.25,
+      "to": 401.83,
+      "sid": 171,
+      "location": 2,
+      "content": "那相较于2025年的7%的增长呢",
+      "music": 0.0
+    },
+    {
+      "from": 401.83,
+      "to": 402.78,
+      "sid": 172,
+      "location": 2,
+      "content": "是稍有放缓",
+      "music": 0.0
+    },
+    {
+      "from": 402.78,
+      "to": 404.02,
+      "sid": 173,
+      "location": 2,
+      "content": "但仍然在增长",
+      "music": 0.0
+    },
+    {
+      "from": 404.02,
+      "to": 405.9,
+      "sid": 174,
+      "location": 2,
+      "content": "如果对比去年四季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 405.9,
+      "to": 407.26,
+      "sid": 175,
+      "location": 2,
+      "content": "当然是负的4%的话",
+      "music": 0.0
+    },
+    {
+      "from": 407.26,
+      "to": 409.14,
+      "sid": 176,
+      "location": 2,
+      "content": "那今年的表现确实是不错的",
+      "music": 0.0
+    },
+    {
+      "from": 409.14,
+      "to": 411.34,
+      "sid": 177,
+      "location": 2,
+      "content": "是从负增长变为了正增长啊",
+      "music": 0.0
+    },
+    {
+      "from": 411.34,
+      "to": 412.42,
+      "sid": 178,
+      "location": 2,
+      "content": "但具体来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 412.42,
+      "to": 415.58,
+      "sid": 179,
+      "location": 2,
+      "content": "为什么A股的表现要比离岸市场表现更好",
+      "music": 0.0
+    },
+    {
+      "from": 415.58,
+      "to": 417.56,
+      "sid": 180,
+      "location": 2,
+      "content": "也就是比港股市场表现更好呢",
+      "music": 0.0
+    },
+    {
+      "from": 417.56,
+      "to": 419.92,
+      "sid": 181,
+      "location": 2,
+      "content": "高盛认为这里面主要的驱动力啊",
+      "music": 0.0
+    },
+    {
+      "from": 419.92,
+      "to": 421.8,
+      "sid": 182,
+      "location": 2,
+      "content": "仍然来自于A股",
+      "music": 0.0
+    },
+    {
+      "from": 421.8,
+      "to": 424.4,
+      "sid": 183,
+      "location": 2,
+      "content": "有更高的AI硬件曝光度",
+      "music": 0.0
+    },
+    {
+      "from": 424.4,
+      "to": 425.68,
+      "sid": 184,
+      "location": 2,
+      "content": "这里面有两个定语啊",
+      "music": 0.0
+    },
+    {
+      "from": 425.68,
+      "to": 427.0,
+      "sid": 185,
+      "location": 2,
+      "content": "一个是跟AI产业相关的",
+      "music": 0.0
+    },
+    {
+      "from": 427.0,
+      "to": 429.24,
+      "sid": 186,
+      "location": 2,
+      "content": "第二呢他一定是偏硬件的",
+      "music": 0.0
+    },
+    {
+      "from": 429.24,
+      "to": 431.32,
+      "sid": 187,
+      "location": 2,
+      "content": "这里这里面他进一步提到了一个数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 431.32,
+      "to": 432.38,
+      "sid": 188,
+      "location": 2,
+      "content": "就是创业板呢",
+      "music": 0.0
+    },
+    {
+      "from": 432.38,
+      "to": 434.72,
+      "sid": 189,
+      "location": 2,
+      "content": "它的利润今年是同今年一季度",
+      "music": 0.0
+    },
+    {
+      "from": 434.72,
+      "to": 436.539,
+      "sid": 190,
+      "location": 2,
+      "content": "同比增长了22%",
+      "music": 0.0
+    },
+    {
+      "from": 436.539,
+      "to": 440.18,
+      "sid": 191,
+      "location": 2,
+      "content": "而科创板是同比增长了198%",
+      "music": 0.0
+    },
+    {
+      "from": 440.18,
+      "to": 443.82,
+      "sid": 192,
+      "location": 2,
+      "content": "那主要也是得益于他们的AI硬件曝光度比较高",
+      "music": 0.0
+    },
+    {
+      "from": 443.82,
+      "to": 447.82,
+      "sid": 193,
+      "location": 2,
+      "content": "或者换句话说就是AI相关的硬件企业",
+      "music": 0.0
+    },
+    {
+      "from": 447.82,
+      "to": 449.94,
+      "sid": 194,
+      "location": 2,
+      "content": "基本上大部分是在国内",
+      "music": 0.0
+    },
+    {
+      "from": 449.94,
+      "to": 451.02,
+      "sid": 195,
+      "location": 2,
+      "content": "就是A股上市的",
+      "music": 0.0
+    },
+    {
+      "from": 451.02,
+      "to": 452.3,
+      "sid": 196,
+      "location": 2,
+      "content": "而不在港股上市",
+      "music": 0.0
+    },
+    {
+      "from": 452.3,
+      "to": 453.34,
+      "sid": 197,
+      "location": 2,
+      "content": "那作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 453.34,
+      "to": 455.46,
+      "sid": 198,
+      "location": 2,
+      "content": "离岸市场的表现就比较差了",
+      "music": 0.0
+    },
+    {
+      "from": 455.46,
+      "to": 456.66,
+      "sid": 199,
+      "location": 2,
+      "content": "这里面主要呢还是因为",
+      "music": 0.0
+    },
+    {
+      "from": 456.66,
+      "to": 459.78,
+      "sid": 200,
+      "location": 2,
+      "content": "离岸市场主要是以互联网大厂为主啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.78,
+      "to": 460.58,
+      "sid": 201,
+      "location": 2,
+      "content": "电商为主",
+      "music": 0.0
+    },
+    {
+      "from": 460.58,
+      "to": 463.26,
+      "sid": 202,
+      "location": 2,
+      "content": "那么电商呢由于加速了这个资本开支啊",
+      "music": 0.0
+    },
+    {
+      "from": 463.26,
+      "to": 464.82,
+      "sid": 203,
+      "location": 2,
+      "content": "本身利润就受损了",
+      "music": 0.0
+    },
+    {
+      "from": 464.82,
+      "to": 466.38,
+      "sid": 204,
+      "location": 2,
+      "content": "因为他会花大量的钱去买",
+      "music": 0.0
+    },
+    {
+      "from": 466.38,
+      "to": 468.26,
+      "sid": 205,
+      "location": 2,
+      "content": "比如说英伟达的显卡啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 468.26,
+      "to": 469.78,
+      "sid": 206,
+      "location": 2,
+      "content": "去做这种大模型的训练",
+      "music": 0.0
+    },
+    {
+      "from": 469.78,
+      "to": 472.06,
+      "sid": 207,
+      "location": 2,
+      "content": "同时呢他们的电商补贴本身啊",
+      "music": 0.0
+    },
+    {
+      "from": 472.06,
+      "to": 473.84,
+      "sid": 208,
+      "location": 2,
+      "content": "也导致他们的收入啊",
+      "music": 0.0
+    },
+    {
+      "from": 473.84,
+      "to": 475.94,
+      "sid": 209,
+      "location": 2,
+      "content": "包括利润是有所承压的",
+      "music": 0.0
+    },
+    {
+      "from": 475.94,
+      "to": 478.5,
+      "sid": 210,
+      "location": 2,
+      "content": "另外呢就是分所有制去看国企的利润增速呢",
+      "music": 0.0
+    },
+    {
+      "from": 478.5,
+      "to": 479.68,
+      "sid": 211,
+      "location": 2,
+      "content": "就像我刚才提到的",
+      "music": 0.0
+    },
+    {
+      "from": 479.68,
+      "to": 482.53,
+      "sid": 212,
+      "location": 2,
+      "content": "在今年一季度呢是同比增长了7%",
+      "music": 0.0
+    },
+    {
+      "from": 482.53,
+      "to": 485.53,
+      "sid": 213,
+      "location": 2,
+      "content": "也是比去年2025年的1%的增速",
+      "music": 0.0
+    },
+    {
+      "from": 485.53,
+      "to": 487.28,
+      "sid": 214,
+      "location": 2,
+      "content": "要更好的更进一步",
+      "music": 0.0
+    },
+    {
+      "from": 487.28,
+      "to": 490.68,
+      "sid": 215,
+      "location": 2,
+      "content": "而民营企业的利润增速呢则继续放缓啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.68,
+      "to": 493.32,
+      "sid": 216,
+      "location": 2,
+      "content": "从2025年的挣11%放缓",
+      "music": 0.0
+    },
+    {
+      "from": 493.32,
+      "to": 495.68,
+      "sid": 217,
+      "location": 2,
+      "content": "到了今年一季度只有4%啊",
+      "music": 0.0
+    },
+    {
+      "from": 495.68,
+      "to": 497.23,
+      "sid": 218,
+      "location": 2,
+      "content": "当然至少它还是同比增长的",
+      "music": 0.0
+    },
+    {
+      "from": 497.23,
+      "to": 497.95,
+      "sid": 219,
+      "location": 2,
+      "content": "同时呢",
+      "music": 0.0
+    },
+    {
+      "from": 497.95,
+      "to": 501.07,
+      "sid": 220,
+      "location": 2,
+      "content": "另一个分化就是上游的企业和下游之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 501.07,
+      "to": 504.92,
+      "sid": 221,
+      "location": 2,
+      "content": "你可以看到上游企业和科技相关的领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 504.92,
+      "to": 507.26,
+      "sid": 222,
+      "location": 2,
+      "content": "仍然保持着比较强劲的增速",
+      "music": 0.0
+    },
+    {
+      "from": 507.26,
+      "to": 508.1,
+      "sid": 223,
+      "location": 2,
+      "content": "比如说材料",
+      "music": 0.0
+    },
+    {
+      "from": 508.1,
+      "to": 510.18,
+      "sid": 224,
+      "location": 2,
+      "content": "比如说科技的硬件啊",
+      "music": 0.0
+    },
+    {
+      "from": 510.18,
+      "to": 511.62,
+      "sid": 225,
+      "location": 2,
+      "content": "比如说能源这三类",
+      "music": 0.0
+    },
+    {
+      "from": 511.62,
+      "to": 512.76,
+      "sid": 226,
+      "location": 2,
+      "content": "而作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 512.76,
+      "to": 516.37,
+      "sid": 227,
+      "location": 2,
+      "content": "在消费在房地产相关的领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 516.37,
+      "to": 519.09,
+      "sid": 228,
+      "location": 2,
+      "content": "这些企业的表现就不是很尽如人意了",
+      "music": 0.0
+    },
+    {
+      "from": 519.09,
+      "to": 520.29,
+      "sid": 229,
+      "location": 2,
+      "content": "比如说在利润方面",
+      "music": 0.0
+    },
+    {
+      "from": 520.29,
+      "to": 523.559,
+      "sid": 230,
+      "location": 2,
+      "content": "我们可以看到零售的利润增速呢是负的",
+      "music": 0.0
+    },
+    {
+      "from": 523.559,
+      "to": 524.599,
+      "sid": 231,
+      "location": 2,
+      "content": "50%啊",
+      "music": 0.0
+    },
+    {
+      "from": 524.599,
+      "to": 525.88,
+      "sid": 232,
+      "location": 2,
+      "content": "是有大幅的放缓",
+      "music": 0.0
+    },
+    {
+      "from": 525.88,
+      "to": 528.16,
+      "sid": 233,
+      "location": 2,
+      "content": "而汽车呢是负的27%啊",
+      "music": 0.0
+    },
+    {
+      "from": 528.16,
+      "to": 530.08,
+      "sid": 234,
+      "location": 2,
+      "content": "这两个都是contracting sharply啊",
+      "music": 0.0
+    },
+    {
+      "from": 530.08,
+      "to": 531.38,
+      "sid": 235,
+      "location": 2,
+      "content": "是大幅的收缩了",
+      "music": 0.0
+    },
+    {
+      "from": 531.38,
+      "to": 532.86,
+      "sid": 236,
+      "location": 2,
+      "content": "那展望下一个阶段呢",
+      "music": 0.0
+    },
+    {
+      "from": 532.86,
+      "to": 538.24,
+      "sid": 237,
+      "location": 2,
+      "content": "高盛是下调了2026和2027年全年msi china",
+      "music": 0.0
+    },
+    {
+      "from": 538.24,
+      "to": 542.47,
+      "sid": 238,
+      "location": 2,
+      "content": "也就是离岸的市场的这EPS的增速预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 542.47,
+      "to": 545.15,
+      "sid": 239,
+      "location": 2,
+      "content": "下调到了8%和12%",
+      "music": 0.0
+    },
+    {
+      "from": 545.15,
+      "to": 548.08,
+      "sid": 240,
+      "location": 2,
+      "content": "而反过来呢对于沪深300的EPS增速",
+      "music": 0.0
+    },
+    {
+      "from": 548.08,
+      "to": 549.76,
+      "sid": 241,
+      "location": 2,
+      "content": "他们仍然维持之前的判断",
+      "music": 0.0
+    },
+    {
+      "from": 549.76,
+      "to": 552.08,
+      "sid": 242,
+      "location": 2,
+      "content": "分别是2026年录得22%",
+      "music": 0.0
+    },
+    {
+      "from": 552.08,
+      "to": 553.97,
+      "sid": 243,
+      "location": 2,
+      "content": "今2027年录得12%",
+      "music": 0.0
+    },
+    {
+      "from": 553.97,
+      "to": 556.57,
+      "sid": 244,
+      "location": 2,
+      "content": "那显然呢它是好于m i c i china的",
+      "music": 0.0
+    },
+    {
+      "from": 556.57,
+      "to": 558.22,
+      "sid": 245,
+      "location": 2,
+      "content": "特别是针对于2026年啊",
+      "music": 0.0
+    },
+    {
+      "from": 558.22,
+      "to": 559.62,
+      "sid": 246,
+      "location": 2,
+      "content": "那境内的沪深300",
+      "music": 0.0
+    },
+    {
+      "from": 559.62,
+      "to": 562.06,
+      "sid": 247,
+      "location": 2,
+      "content": "是给了20%的EPS增速预期",
+      "music": 0.0
+    },
+    {
+      "from": 562.06,
+      "to": 563.22,
+      "sid": 248,
+      "location": 2,
+      "content": "而m s i china",
+      "music": 0.0
+    },
+    {
+      "from": 563.22,
+      "to": 566.75,
+      "sid": 249,
+      "location": 2,
+      "content": "名胜中国指数呢只给了8%的EPS增速预期",
+      "music": 0.0
+    },
+    {
+      "from": 566.75,
+      "to": 568.71,
+      "sid": 250,
+      "location": 2,
+      "content": "那之所以有这样的一个差距呢",
+      "music": 0.0
+    },
+    {
+      "from": 568.71,
+      "to": 569.87,
+      "sid": 251,
+      "location": 2,
+      "content": "高升也是提到说",
+      "music": 0.0
+    },
+    {
+      "from": 569.87,
+      "to": 572.59,
+      "sid": 252,
+      "location": 2,
+      "content": "这里面主要呢是软硬科技之间的差距",
+      "music": 0.0
+    },
+    {
+      "from": 572.59,
+      "to": 574.38,
+      "sid": 253,
+      "location": 2,
+      "content": "也就是说在港股上市的",
+      "music": 0.0
+    },
+    {
+      "from": 574.38,
+      "to": 576.16,
+      "sid": 254,
+      "location": 2,
+      "content": "一般都是互联网大厂为主啊",
+      "music": 0.0
+    },
+    {
+      "from": 576.16,
+      "to": 577.4,
+      "sid": 255,
+      "location": 2,
+      "content": "他们是软科技",
+      "music": 0.0
+    },
+    {
+      "from": 577.4,
+      "to": 580.38,
+      "sid": 256,
+      "location": 2,
+      "content": "而硬科技呢就是所谓的这些硬件的企业",
+      "music": 0.0
+    },
+    {
+      "from": 580.38,
+      "to": 582.42,
+      "sid": 257,
+      "location": 2,
+      "content": "大部分是在大A上市的",
+      "music": 0.0
+    },
+    {
+      "from": 582.42,
+      "to": 584.66,
+      "sid": 258,
+      "location": 2,
+      "content": "那另外呢高盛也提到一个市场共识啊",
+      "music": 0.0
+    },
+    {
+      "from": 584.66,
+      "to": 587.82,
+      "sid": 259,
+      "location": 2,
+      "content": "就是后续的创业板和科创五零啊",
+      "music": 0.0
+    },
+    {
+      "from": 587.82,
+      "to": 591.12,
+      "sid": 260,
+      "location": 2,
+      "content": "他们的增速在目前市场是有一致的",
+      "music": 0.0
+    },
+    {
+      "from": 591.12,
+      "to": 592.78,
+      "sid": 261,
+      "location": 2,
+      "content": "比较强的共识的",
+      "music": 0.0
+    },
+    {
+      "from": 592.78,
+      "to": 594.68,
+      "sid": 262,
+      "location": 2,
+      "content": "具具体的数字呢我就不给大家多说了",
+      "music": 0.0
+    },
+    {
+      "from": 594.68,
+      "to": 595.36,
+      "sid": 263,
+      "location": 2,
+      "content": "但是大家可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 595.36,
+      "to": 597.6,
+      "sid": 264,
+      "location": 2,
+      "content": "这个增速表现是非常不错的啊",
+      "music": 0.0
+    },
+    {
+      "from": 597.6,
+      "to": 599.47,
+      "sid": 265,
+      "location": 2,
+      "content": "至少从目前的预期来看",
+      "music": 0.0
+    },
+    {
+      "from": 599.47,
+      "to": 602.59,
+      "sid": 266,
+      "location": 2,
+      "content": "那这是针对于第一部分就是总体的情况",
+      "music": 0.0
+    },
+    {
+      "from": 602.59,
+      "to": 604.33,
+      "sid": 267,
+      "location": 2,
+      "content": "这里面我也给大家看一下这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 604.33,
+      "to": 608.46,
+      "sid": 268,
+      "location": 2,
+      "content": "图二呢就展现了当下中国经济分化的现状啊",
+      "music": 0.0
+    },
+    {
+      "from": 608.46,
+      "to": 611.22,
+      "sid": 269,
+      "location": 2,
+      "content": "大家可以看到图中黄色这条线呢是i it当中",
+      "music": 0.0
+    },
+    {
+      "from": 611.22,
+      "to": 614.24,
+      "sid": 270,
+      "location": 2,
+      "content": "跑不去互联网企业的一个营收的趋势啊",
+      "music": 0.0
+    },
+    {
+      "from": 614.24,
+      "to": 616.44,
+      "sid": 271,
+      "location": 2,
+      "content": "而如果单看互联网这条曲线的话",
+      "music": 0.0
+    },
+    {
+      "from": 616.44,
+      "to": 617.88,
+      "sid": 272,
+      "location": 2,
+      "content": "就变成了灰色这条线啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.88,
+      "to": 619.1,
+      "sid": 273,
+      "location": 2,
+      "content": "直接掉头向下",
+      "music": 0.0
+    },
+    {
+      "from": 619.1,
+      "to": 621.9,
+      "sid": 274,
+      "location": 2,
+      "content": "这也就是软硬件之间的区分啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.9,
+      "to": 625.46,
+      "sid": 275,
+      "location": 2,
+      "content": "另外呢浅蓝色这条线仍然是目前最差的行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 625.46,
+      "to": 626.08,
+      "sid": 276,
+      "location": 2,
+      "content": "房地产",
+      "music": 0.0
+    },
+    {
+      "from": 626.08,
+      "to": 629.58,
+      "sid": 277,
+      "location": 2,
+      "content": "那这个部门仍然是在持续的亏损当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 629.58,
+      "to": 631.98,
+      "sid": 278,
+      "location": 2,
+      "content": "接下来呢我们再来看一下第二部分内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 631.98,
+      "to": 634.14,
+      "sid": 279,
+      "location": 2,
+      "content": "主要在探讨AI行业的利润啊",
+      "music": 0.0
+    },
+    {
+      "from": 634.14,
+      "to": 635.62,
+      "sid": 280,
+      "location": 2,
+      "content": "首先呢高盛是提到",
+      "music": 0.0
+    },
+    {
+      "from": 635.62,
+      "to": 638.32,
+      "sid": 281,
+      "location": 2,
+      "content": "全球目前的这样一个AI利润池当中",
+      "music": 0.0
+    },
+    {
+      "from": 638.32,
+      "to": 640.84,
+      "sid": 282,
+      "location": 2,
+      "content": "美国仍然占据主导地位啊",
+      "music": 0.0
+    },
+    {
+      "from": 640.84,
+      "to": 644.82,
+      "sid": 283,
+      "location": 2,
+      "content": "主要原因呢还是因为知识产权相关的一些领域",
+      "music": 0.0
+    },
+    {
+      "from": 644.82,
+      "to": 646.82,
+      "sid": 284,
+      "location": 2,
+      "content": "他们是有比较高的利润率的",
+      "music": 0.0
+    },
+    {
+      "from": 646.82,
+      "to": 648.56,
+      "sid": 285,
+      "location": 2,
+      "content": "比如说集成电路设计啊",
+      "music": 0.0
+    },
+    {
+      "from": 648.56,
+      "to": 651.68,
+      "sid": 286,
+      "location": 2,
+      "content": "因此呢美国在整个AI的利润池当中",
+      "music": 0.0
+    },
+    {
+      "from": 651.68,
+      "to": 653.74,
+      "sid": 287,
+      "location": 2,
+      "content": "是分得了66%的蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 653.74,
+      "to": 654.54,
+      "sid": 288,
+      "location": 2,
+      "content": "作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 654.54,
+      "to": 657.14,
+      "sid": 289,
+      "location": 2,
+      "content": "中国的这个份额从2024年开始",
+      "music": 0.0
+    },
+    {
+      "from": 657.14,
+      "to": 658.86,
+      "sid": 290,
+      "location": 2,
+      "content": "实际上是在持续萎缩的",
+      "music": 0.0
+    },
+    {
+      "from": 658.86,
+      "to": 660.8,
+      "sid": 291,
+      "location": 2,
+      "content": "这个我确实之前没有关注到",
+      "music": 0.0
+    },
+    {
+      "from": 660.8,
+      "to": 661.76,
+      "sid": 292,
+      "location": 2,
+      "content": "2024年呢",
+      "music": 0.0
+    },
+    {
+      "from": 661.76,
+      "to": 663.04,
+      "sid": 293,
+      "location": 2,
+      "content": "中国是占10%",
+      "music": 0.0
+    },
+    {
+      "from": 663.04,
+      "to": 664.46,
+      "sid": 294,
+      "location": 2,
+      "content": "到2025年占9%",
+      "music": 0.0
+    },
+    {
+      "from": 664.46,
+      "to": 667.16,
+      "sid": 295,
+      "location": 2,
+      "content": "到今年一季度的话只占8%了",
+      "music": 0.0
+    },
+    {
+      "from": 667.16,
+      "to": 668.72,
+      "sid": 296,
+      "location": 2,
+      "content": "而另一方面呢其他的一些地区啊",
+      "music": 0.0
+    },
+    {
+      "from": 668.72,
+      "to": 670.86,
+      "sid": 297,
+      "location": 2,
+      "content": "这里面主要指的是北亚啊",
+      "music": 0.0
+    },
+    {
+      "from": 670.86,
+      "to": 673.56,
+      "sid": 298,
+      "location": 2,
+      "content": "那这个北亚我理解应该主要是韩国啊",
+      "music": 0.0
+    },
+    {
+      "from": 673.56,
+      "to": 676.08,
+      "sid": 299,
+      "location": 2,
+      "content": "那在这个AI的利润池当中",
+      "music": 0.0
+    },
+    {
+      "from": 676.08,
+      "to": 677.56,
+      "sid": 300,
+      "location": 2,
+      "content": "分得了越来越多的蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 677.56,
+      "to": 678.96,
+      "sid": 301,
+      "location": 2,
+      "content": "这里面主要一个原因还是",
+      "music": 0.0
+    },
+    {
+      "from": 678.96,
+      "to": 682.94,
+      "sid": 302,
+      "location": 2,
+      "content": "因为晶圆和存储相关的需求比较旺盛啊",
+      "music": 0.0
+    },
+    {
+      "from": 682.94,
+      "to": 684.28,
+      "sid": 303,
+      "location": 2,
+      "content": "所以像SK海力士啊",
+      "music": 0.0
+    },
+    {
+      "from": 684.28,
+      "to": 685.12,
+      "sid": 304,
+      "location": 2,
+      "content": "像三星啊",
+      "music": 0.0
+    },
+    {
+      "from": 685.12,
+      "to": 687.2,
+      "sid": 305,
+      "location": 2,
+      "content": "他们确实是在这里面赚到了大钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 687.2,
+      "to": 690.36,
+      "sid": 306,
+      "location": 2,
+      "content": "那对应的就是他们在整个蛋糕当中",
+      "music": 0.0
+    },
+    {
+      "from": 690.36,
+      "to": 691.819,
+      "sid": 307,
+      "location": 2,
+      "content": "分到了更多的利润",
+      "music": 0.0
+    },
+    {
+      "from": 691.819,
+      "to": 695.73,
+      "sid": 308,
+      "location": 2,
+      "content": "另外一方面呢如果看国内的AI产业链啊",
+      "music": 0.0
+    },
+    {
+      "from": 695.73,
+      "to": 698.97,
+      "sid": 309,
+      "location": 2,
+      "content": "利润池在国内这个小的圈子里面",
+      "music": 0.0
+    },
+    {
+      "from": 698.97,
+      "to": 702.19,
+      "sid": 310,
+      "location": 2,
+      "content": "也呈现出逐渐的向硬件去集中",
+      "music": 0.0
+    },
+    {
+      "from": 702.19,
+      "to": 705.87,
+      "sid": 311,
+      "location": 2,
+      "content": "比如说硬件在这个AI的利润池当中分得的蛋糕",
+      "music": 0.0
+    },
+    {
+      "from": 705.87,
+      "to": 707.84,
+      "sid": 312,
+      "location": 2,
+      "content": "在2024年只有41%",
+      "music": 0.0
+    },
+    {
+      "from": 707.84,
+      "to": 709.88,
+      "sid": 313,
+      "location": 2,
+      "content": "而到2026年的一季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 709.88,
+      "to": 711.24,
+      "sid": 314,
+      "location": 2,
+      "content": "是来到了54%",
+      "music": 0.0
+    },
+    {
+      "from": 711.24,
+      "to": 715.96,
+      "sid": 315,
+      "location": 2,
+      "content": "当然这也主要是受益于或者说受驱动于内存",
+      "music": 0.0
+    },
+    {
+      "from": 715.96,
+      "to": 719.27,
+      "sid": 316,
+      "location": 2,
+      "content": "以及集成电路等等的产品的涨价",
+      "music": 0.0
+    },
+    {
+      "from": 719.27,
+      "to": 721.75,
+      "sid": 317,
+      "location": 2,
+      "content": "那你可以看到这里面包括了内存",
+      "music": 0.0
+    },
+    {
+      "from": 721.75,
+      "to": 723.47,
+      "sid": 318,
+      "location": 2,
+      "content": "包括了集成电路设计",
+      "music": 0.0
+    },
+    {
+      "from": 723.47,
+      "to": 724.31,
+      "sid": 319,
+      "location": 2,
+      "content": "还有材料啊",
+      "music": 0.0
+    },
+    {
+      "from": 724.31,
+      "to": 726.69,
+      "sid": 320,
+      "location": 2,
+      "content": "他们是获取了更多的利润",
+      "music": 0.0
+    },
+    {
+      "from": 726.69,
+      "to": 730.01,
+      "sid": 321,
+      "location": 2,
+      "content": "而在基础设施和能源这一类这一端呢",
+      "music": 0.0
+    },
+    {
+      "from": 730.01,
+      "to": 732.69,
+      "sid": 322,
+      "location": 2,
+      "content": "利润池也逐渐的在向数据中心",
+      "music": 0.0
+    },
+    {
+      "from": 732.69,
+      "to": 735.92,
+      "sid": 323,
+      "location": 2,
+      "content": "向一些发电的企业去倾斜",
+      "music": 0.0
+    },
+    {
+      "from": 735.92,
+      "to": 739.7,
+      "sid": 324,
+      "location": 2,
+      "content": "而大家关注度比较高的AI应用这个领域",
+      "music": 0.0
+    },
+    {
+      "from": 739.7,
+      "to": 742.46,
+      "sid": 325,
+      "location": 2,
+      "content": "它能够分到的利润其实是在逐渐的萎缩的",
+      "music": 0.0
+    },
+    {
+      "from": 742.46,
+      "to": 745.92,
+      "sid": 326,
+      "location": 2,
+      "content": "这个其实也和目前大家的现状感受也是一致的",
+      "music": 0.0
+    },
+    {
+      "from": 745.92,
+      "to": 747.8,
+      "sid": 327,
+      "location": 2,
+      "content": "就是各大的大模型厂商之间啊",
+      "music": 0.0
+    },
+    {
+      "from": 747.8,
+      "to": 750.42,
+      "sid": 328,
+      "location": 2,
+      "content": "在互相的内卷这个token的价格",
+      "music": 0.0
+    },
+    {
+      "from": 750.42,
+      "to": 751.66,
+      "sid": 329,
+      "location": 2,
+      "content": "把价格压的非常低",
+      "music": 0.0
+    },
+    {
+      "from": 751.66,
+      "to": 753.38,
+      "sid": 330,
+      "location": 2,
+      "content": "我前两天也给大家分享过一篇",
+      "music": 0.0
+    },
+    {
+      "from": 753.38,
+      "to": 755.98,
+      "sid": 331,
+      "location": 2,
+      "content": "中美之间大模型厂商的一个对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 755.98,
+      "to": 759.04,
+      "sid": 332,
+      "location": 2,
+      "content": "智力的差距和token的差距都在逐渐拉大中",
+      "music": 0.0
+    },
+    {
+      "from": 759.04,
+      "to": 761.9,
+      "sid": 333,
+      "location": 2,
+      "content": "中国的大模型可能智力相对来说弱一些",
+      "music": 0.0
+    },
+    {
+      "from": 761.9,
+      "to": 764.58,
+      "sid": 334,
+      "location": 2,
+      "content": "同时呢token的价格是非常的便宜",
+      "music": 0.0
+    },
+    {
+      "from": 764.58,
+      "to": 766.66,
+      "sid": 335,
+      "location": 2,
+      "content": "而美国的大模型智力可能更强啊",
+      "music": 0.0
+    },
+    {
+      "from": 766.66,
+      "to": 769.48,
+      "sid": 336,
+      "location": 2,
+      "content": "特别是ANTHROPIC新发布的这个FEBO5啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.48,
+      "to": 772.65,
+      "sid": 337,
+      "location": 2,
+      "content": "但是呢他的token价格也是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 772.65,
+      "to": 774.75,
+      "sid": 338,
+      "location": 2,
+      "content": "我们在这块呢其实也可以看一下图鉴啊",
+      "music": 0.0
+    },
+    {
+      "from": 774.75,
+      "to": 778.56,
+      "sid": 339,
+      "location": 2,
+      "content": "就是中国在全球AI利润池当中分到的蛋糕啊",
+      "music": 0.0
+    },
+    {
+      "from": 778.56,
+      "to": 780.84,
+      "sid": 340,
+      "location": 2,
+      "content": "表表现出来的呢就是深蓝色",
+      "music": 0.0
+    },
+    {
+      "from": 780.84,
+      "to": 781.8,
+      "sid": 341,
+      "location": 2,
+      "content": "这部分大家可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 781.8,
+      "to": 784.44,
+      "sid": 342,
+      "location": 2,
+      "content": "从24年二五年再到26年一季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 784.44,
+      "to": 786.22,
+      "sid": 343,
+      "location": 2,
+      "content": "这个份额是在持续下降的",
+      "music": 0.0
+    },
+    {
+      "from": 786.22,
+      "to": 789.26,
+      "sid": 344,
+      "location": 2,
+      "content": "而美国分到的蛋糕相对来说是比较平稳的",
+      "music": 0.0
+    },
+    {
+      "from": 789.26,
+      "to": 791.68,
+      "sid": 345,
+      "location": 2,
+      "content": "一直维持在66%到67之间",
+      "music": 0.0
+    },
+    {
+      "from": 791.68,
+      "to": 795.109,
+      "sid": 346,
+      "location": 2,
+      "content": "也就是2/3的利润都被美国的企业获取了",
+      "music": 0.0
+    },
+    {
+      "from": 795.109,
+      "to": 796.829,
+      "sid": 347,
+      "location": 2,
+      "content": "另外一个值得关注的点呢",
+      "music": 0.0
+    },
+    {
+      "from": 796.829,
+      "to": 798.429,
+      "sid": 348,
+      "location": 2,
+      "content": "就是从销量这一端",
+      "music": 0.0
+    },
+    {
+      "from": 798.429,
+      "to": 801.549,
+      "sid": 349,
+      "location": 2,
+      "content": "中国的企业在销量上其实占比是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 801.549,
+      "to": 804.66,
+      "sid": 350,
+      "location": 2,
+      "content": "但是呢更大的销量换不来更多的利润",
+      "music": 0.0
+    },
+    {
+      "from": 804.66,
+      "to": 805.7,
+      "sid": 351,
+      "location": 2,
+      "content": "其实这样一种现象",
+      "music": 0.0
+    },
+    {
+      "from": 805.7,
+      "to": 807.94,
+      "sid": 352,
+      "location": 2,
+      "content": "也不单单是在AI相关的产业链",
+      "music": 0.0
+    },
+    {
+      "from": 807.94,
+      "to": 809.34,
+      "sid": 353,
+      "location": 2,
+      "content": "包括比如说新能源汽车",
+      "music": 0.0
+    },
+    {
+      "from": 809.34,
+      "to": 811.03,
+      "sid": 354,
+      "location": 2,
+      "content": "我们也看到类似的现象啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.03,
+      "to": 812.55,
+      "sid": 355,
+      "location": 2,
+      "content": "我印象当中好像有一种说法啊",
+      "music": 0.0
+    },
+    {
+      "from": 812.55,
+      "to": 816.43,
+      "sid": 356,
+      "location": 2,
+      "content": "说中国前十家新能源汽车的厂商的利润总和",
+      "music": 0.0
+    },
+    {
+      "from": 816.43,
+      "to": 819.839,
+      "sid": 357,
+      "location": 2,
+      "content": "加起来还不如丰田这一家车企的利润啊",
+      "music": 0.0
+    },
+    {
+      "from": 820.119,
+      "to": 823.089,
+      "sid": 358,
+      "location": 2,
+      "content": "接下来我们再来看一下第三部分的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 823.089,
+      "to": 824.409,
+      "sid": 359,
+      "location": 2,
+      "content": "主要是梳理了一下",
+      "music": 0.0
+    },
+    {
+      "from": 824.409,
+      "to": 828.579,
+      "sid": 360,
+      "location": 2,
+      "content": "中国这7000家上市企业的营收和利润的情况",
+      "music": 0.0
+    },
+    {
+      "from": 828.579,
+      "to": 830.059,
+      "sid": 361,
+      "location": 2,
+      "content": "首先呢在营收这一段",
+      "music": 0.0
+    },
+    {
+      "from": 830.059,
+      "to": 833.879,
+      "sid": 362,
+      "location": 2,
+      "content": "我们可以看到26年一季度总的营收增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 833.879,
+      "to": 835.979,
+      "sid": 363,
+      "location": 2,
+      "content": "是有同比4%的增长",
+      "music": 0.0
+    },
+    {
+      "from": 835.979,
+      "to": 837.74,
+      "sid": 364,
+      "location": 2,
+      "content": "那相较于2025年的1%和",
+      "music": 0.0
+    },
+    {
+      "from": 837.74,
+      "to": 839.3,
+      "sid": 365,
+      "location": 2,
+      "content": "2024年的负1%啊",
+      "music": 0.0
+    },
+    {
+      "from": 839.3,
+      "to": 840.52,
+      "sid": 366,
+      "location": 2,
+      "content": "还是有所加速的",
+      "music": 0.0
+    },
+    {
+      "from": 840.52,
+      "to": 842.0,
+      "sid": 367,
+      "location": 2,
+      "content": "但是呢在内部啊",
+      "music": 0.0
+    },
+    {
+      "from": 842.0,
+      "to": 845.18,
+      "sid": 368,
+      "location": 2,
+      "content": "营收之间也呈现出了比较明显的分化状态",
+      "music": 0.0
+    },
+    {
+      "from": 845.18,
+      "to": 845.94,
+      "sid": 369,
+      "location": 2,
+      "content": "一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 845.94,
+      "to": 849.28,
+      "sid": 370,
+      "location": 2,
+      "content": "就是一些周期行业和一些重科技的领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 849.28,
+      "to": 852.0,
+      "sid": 371,
+      "location": 2,
+      "content": "相对来说这个反弹是比较强劲的",
+      "music": 0.0
+    },
+    {
+      "from": 852.0,
+      "to": 854.92,
+      "sid": 372,
+      "location": 2,
+      "content": "而表现相对平稳的是消费零售端",
+      "music": 0.0
+    },
+    {
+      "from": 854.92,
+      "to": 857.8,
+      "sid": 373,
+      "location": 2,
+      "content": "不过最差的呢仍然是房地产这个领域",
+      "music": 0.0
+    },
+    {
+      "from": 857.8,
+      "to": 859.98,
+      "sid": 374,
+      "location": 2,
+      "content": "所以这是目前营收端的格局",
+      "music": 0.0
+    },
+    {
+      "from": 859.98,
+      "to": 861.3,
+      "sid": 375,
+      "location": 2,
+      "content": "那利润端的格局呢",
+      "music": 0.0
+    },
+    {
+      "from": 861.3,
+      "to": 863.26,
+      "sid": 376,
+      "location": 2,
+      "content": "又呈现出了一些不一样的状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 863.26,
+      "to": 865.589,
+      "sid": 377,
+      "location": 2,
+      "content": "首先呢就是净的利润率啊",
+      "music": 0.0
+    },
+    {
+      "from": 865.589,
+      "to": 867.929,
+      "sid": 378,
+      "location": 2,
+      "content": "目前是保持着比较平稳的",
+      "music": 0.0
+    },
+    {
+      "from": 867.929,
+      "to": 870.96,
+      "sid": 379,
+      "location": 2,
+      "content": "相较于25年的一季度8.9%啊",
+      "music": 0.0
+    },
+    {
+      "from": 870.96,
+      "to": 873.6,
+      "sid": 380,
+      "location": 2,
+      "content": "那么到26年一季度也就刚刚过去的一季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 873.6,
+      "to": 874.84,
+      "sid": 381,
+      "location": 2,
+      "content": "是9%啊",
+      "music": 0.0
+    },
+    {
+      "from": 874.84,
+      "to": 877.04,
+      "sid": 382,
+      "location": 2,
+      "content": "稍稍的有所增长",
+      "music": 0.0
+    },
+    {
+      "from": 877.04,
+      "to": 880.18,
+      "sid": 383,
+      "location": 2,
+      "content": "在内部我们会发现和消费者相关的",
+      "music": 0.0
+    },
+    {
+      "from": 880.18,
+      "to": 881.48,
+      "sid": 384,
+      "location": 2,
+      "content": "和民营企业相关的",
+      "music": 0.0
+    },
+    {
+      "from": 881.48,
+      "to": 883.22,
+      "sid": 385,
+      "location": 2,
+      "content": "还有就是一些商业银行啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.22,
+      "to": 885.76,
+      "sid": 386,
+      "location": 2,
+      "content": "受制于这个净息差在不断的收窄",
+      "music": 0.0
+    },
+    {
+      "from": 885.76,
+      "to": 887.54,
+      "sid": 387,
+      "location": 2,
+      "content": "所以他们的利润表现呢",
+      "music": 0.0
+    },
+    {
+      "from": 887.54,
+      "to": 890.7,
+      "sid": 388,
+      "location": 2,
+      "content": "是比其他的企业和行业要更差的",
+      "music": 0.0
+    },
+    {
+      "from": 890.7,
+      "to": 893.76,
+      "sid": 389,
+      "location": 2,
+      "content": "而半导体工业金属和航空业啊",
+      "music": 0.0
+    },
+    {
+      "from": 893.76,
+      "to": 895.94,
+      "sid": 390,
+      "location": 2,
+      "content": "他们的利润其实是有所增长的",
+      "music": 0.0
+    },
+    {
+      "from": 895.94,
+      "to": 899.44,
+      "sid": 391,
+      "location": 2,
+      "content": "所以简单来说这样的一个营收和利润的图景啊",
+      "music": 0.0
+    },
+    {
+      "from": 899.44,
+      "to": 903.72,
+      "sid": 392,
+      "location": 2,
+      "content": "就形成了一个以硬件和科技为主的复苏",
+      "music": 0.0
+    },
+    {
+      "from": 903.72,
+      "to": 906.84,
+      "sid": 393,
+      "location": 2,
+      "content": "同时伴随着消费和房地产的持续疲软",
+      "music": 0.0
+    },
+    {
+      "from": 906.84,
+      "to": 909.12,
+      "sid": 394,
+      "location": 2,
+      "content": "那第四部分呢就来说一下出海啊",
+      "music": 0.0
+    },
+    {
+      "from": 909.12,
+      "to": 912.22,
+      "sid": 395,
+      "location": 2,
+      "content": "当然这里面主要说的是内需和外需之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 912.22,
+      "to": 915.3,
+      "sid": 396,
+      "location": 2,
+      "content": "首先呢就是中国企业出海的这个海外",
+      "music": 0.0
+    },
+    {
+      "from": 915.3,
+      "to": 916.7,
+      "sid": 397,
+      "location": 2,
+      "content": "营收的暴露度情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.7,
+      "to": 918.72,
+      "sid": 398,
+      "location": 2,
+      "content": "在2024年呢是16%",
+      "music": 0.0
+    },
+    {
+      "from": 918.72,
+      "to": 921.9,
+      "sid": 399,
+      "location": 2,
+      "content": "到2025年呢是进一步提升到了18%",
+      "music": 0.0
+    },
+    {
+      "from": 921.9,
+      "to": 925.7,
+      "sid": 400,
+      "location": 2,
+      "content": "其中呢汽车这个行业应该是出海最为积极的",
+      "music": 0.0
+    },
+    {
+      "from": 925.7,
+      "to": 927.62,
+      "sid": 401,
+      "location": 2,
+      "content": "2025年他的出海暴露度啊",
+      "music": 0.0
+    },
+    {
+      "from": 927.62,
+      "to": 930.85,
+      "sid": 402,
+      "location": 2,
+      "content": "已经是从2024年的21%",
+      "music": 0.0
+    },
+    {
+      "from": 930.85,
+      "to": 932.3,
+      "sid": 403,
+      "location": 2,
+      "content": "提升到了29%",
+      "music": 0.0
+    },
+    {
+      "from": 932.3,
+      "to": 933.7,
+      "sid": 404,
+      "location": 2,
+      "content": "而除了汽车行业之外",
+      "music": 0.0
+    },
+    {
+      "from": 933.7,
+      "to": 937.26,
+      "sid": 405,
+      "location": 2,
+      "content": "其实整个出海的主题和趋势是broad based",
+      "music": 0.0
+    },
+    {
+      "from": 937.26,
+      "to": 939.22,
+      "sid": 406,
+      "location": 2,
+      "content": "包括了像半导体行业",
+      "music": 0.0
+    },
+    {
+      "from": 939.22,
+      "to": 941.92,
+      "sid": 407,
+      "location": 2,
+      "content": "包括了像交通运输一些资本品啊",
+      "music": 0.0
+    },
+    {
+      "from": 941.92,
+      "to": 944.34,
+      "sid": 408,
+      "location": 2,
+      "content": "包括耐用品啊等等这一系列啊",
+      "music": 0.0
+    },
+    {
+      "from": 944.34,
+      "to": 946.7,
+      "sid": 409,
+      "location": 2,
+      "content": "生物科技等等全部都在出海",
+      "music": 0.0
+    },
+    {
+      "from": 946.7,
+      "to": 948.66,
+      "sid": 410,
+      "location": 2,
+      "content": "那为什么这些企业愿意出海呢",
+      "music": 0.0
+    },
+    {
+      "from": 948.66,
+      "to": 949.58,
+      "sid": 411,
+      "location": 2,
+      "content": "一个最主要原因",
+      "music": 0.0
+    },
+    {
+      "from": 949.58,
+      "to": 951.72,
+      "sid": 412,
+      "location": 2,
+      "content": "其实在下面已经做了一个回答啊",
+      "music": 0.0
+    },
+    {
+      "from": 951.72,
+      "to": 955.24,
+      "sid": 413,
+      "location": 2,
+      "content": "高盛呢是用一个标题叫做profitability premium",
+      "music": 0.0
+    },
+    {
+      "from": 955.24,
+      "to": 958.32,
+      "sid": 414,
+      "location": 2,
+      "content": "简单来说就是出海的利润率更高啊",
+      "music": 0.0
+    },
+    {
+      "from": 958.32,
+      "to": 960.18,
+      "sid": 415,
+      "location": 2,
+      "content": "你可以看到绝大部分的部门啊",
+      "music": 0.0
+    },
+    {
+      "from": 960.18,
+      "to": 962.82,
+      "sid": 416,
+      "location": 2,
+      "content": "是能够享受到一个更高的利润",
+      "music": 0.0
+    },
+    {
+      "from": 962.82,
+      "to": 963.38,
+      "sid": 417,
+      "location": 2,
+      "content": "margin啊",
+      "music": 0.0
+    },
+    {
+      "from": 963.38,
+      "to": 965.14,
+      "sid": 418,
+      "location": 2,
+      "content": "是能够通过出海",
+      "music": 0.0
+    },
+    {
+      "from": 965.14,
+      "to": 968.44,
+      "sid": 419,
+      "location": 2,
+      "content": "或者说通过海外市场获取更高的利润",
+      "music": 0.0
+    },
+    {
+      "from": 968.44,
+      "to": 970.64,
+      "sid": 420,
+      "location": 2,
+      "content": "那也正是因为这样的利润驱动啊",
+      "music": 0.0
+    },
+    {
+      "from": 970.64,
+      "to": 973.32,
+      "sid": 421,
+      "location": 2,
+      "content": "所以更多的企业是在持续的出海",
+      "music": 0.0
+    },
+    {
+      "from": 973.32,
+      "to": 975.52,
+      "sid": 422,
+      "location": 2,
+      "content": "这样一个出海扩张的趋势啊",
+      "music": 0.0
+    },
+    {
+      "from": 975.52,
+      "to": 979.569,
+      "sid": 423,
+      "location": 2,
+      "content": "在未来仍然在高盛看来还是会延续啊",
+      "music": 0.0
+    },
+    {
+      "from": 979.569,
+      "to": 983.129,
+      "sid": 424,
+      "location": 2,
+      "content": "那大家可以看一下图14这样的两条趋势线啊",
+      "music": 0.0
+    },
+    {
+      "from": 983.129,
+      "to": 984.569,
+      "sid": 425,
+      "location": 2,
+      "content": "就呈现出了目前的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 984.569,
+      "to": 986.33,
+      "sid": 426,
+      "location": 2,
+      "content": "以及高盛对未来的预测",
+      "music": 0.0
+    },
+    {
+      "from": 986.33,
+      "to": 989.15,
+      "sid": 427,
+      "location": 2,
+      "content": "这两条线呢都是出海的营收",
+      "music": 0.0
+    },
+    {
+      "from": 989.15,
+      "to": 991.43,
+      "sid": 428,
+      "location": 2,
+      "content": "占企业全部营收的占比",
+      "music": 0.0
+    },
+    {
+      "from": 991.43,
+      "to": 994.36,
+      "sid": 429,
+      "location": 2,
+      "content": "在目前呢总的比例是17.6%",
+      "music": 0.0
+    },
+    {
+      "from": 994.36,
+      "to": 995.92,
+      "sid": 430,
+      "location": 2,
+      "content": "那如果刨除掉金融企业",
+      "music": 0.0
+    },
+    {
+      "from": 995.92,
+      "to": 997.2,
+      "sid": 431,
+      "location": 2,
+      "content": "其他的企业加到一起",
+      "music": 0.0
+    },
+    {
+      "from": 997.2,
+      "to": 998.92,
+      "sid": 432,
+      "location": 2,
+      "content": "它这个出海营收的占比呢",
+      "music": 0.0
+    },
+    {
+      "from": 998.92,
+      "to": 1000.48,
+      "sid": 433,
+      "location": 2,
+      "content": "已经占到了19.2%",
+      "music": 0.0
+    },
+    {
+      "from": 1000.48,
+      "to": 1003.06,
+      "sid": 434,
+      "location": 2,
+      "content": "而目前高盛认为到2030年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1003.06,
+      "to": 1005.82,
+      "sid": 435,
+      "location": 2,
+      "content": "还会进一步提升4.3个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 1005.82,
+      "to": 1007.58,
+      "sid": 436,
+      "location": 2,
+      "content": "就到23.5个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 1007.58,
+      "to": 1009.1,
+      "sid": 437,
+      "location": 2,
+      "content": "也就是到2030年的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1009.1,
+      "to": 1013.28,
+      "sid": 438,
+      "location": 2,
+      "content": "将近1/4的企业总营收都会来自于海外啊",
+      "music": 0.0
+    },
+    {
+      "from": 1013.28,
+      "to": 1014.94,
+      "sid": 439,
+      "location": 2,
+      "content": "那之所以大家这么愿意出海啊",
+      "music": 0.0
+    },
+    {
+      "from": 1014.94,
+      "to": 1016.7,
+      "sid": 440,
+      "location": 2,
+      "content": "就还回到了刚才的逻辑图",
+      "music": 0.0
+    },
+    {
+      "from": 1016.7,
+      "to": 1017.98,
+      "sid": 441,
+      "location": 2,
+      "content": "16也给出了答案啊",
+      "music": 0.0
+    },
+    {
+      "from": 1017.98,
+      "to": 1020.64,
+      "sid": 442,
+      "location": 2,
+      "content": "就是因为海外的利润率更高",
+      "music": 0.0
+    },
+    {
+      "from": 1020.64,
+      "to": 1023.46,
+      "sid": 443,
+      "location": 2,
+      "content": "大家可以看到左边对应的是overseas",
+      "music": 0.0
+    },
+    {
+      "from": 1023.46,
+      "to": 1025.42,
+      "sid": 444,
+      "location": 2,
+      "content": "就是海外的利润率情况",
+      "music": 0.0
+    },
+    {
+      "from": 1025.42,
+      "to": 1028.44,
+      "sid": 445,
+      "location": 2,
+      "content": "那么右边对应的是本土的利润率情况",
+      "music": 0.0
+    },
+    {
+      "from": 1028.44,
+      "to": 1030.8,
+      "sid": 446,
+      "location": 2,
+      "content": "那下面呢是不同行业的比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 1030.8,
+      "to": 1032.92,
+      "sid": 447,
+      "location": 2,
+      "content": "当然最左边是整体的一个比较",
+      "music": 0.0
+    },
+    {
+      "from": 1032.92,
+      "to": 1033.8,
+      "sid": 448,
+      "location": 2,
+      "content": "那也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1033.8,
+      "to": 1035.44,
+      "sid": 449,
+      "location": 2,
+      "content": "基本上各行各业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1035.44,
+      "to": 1039.279,
+      "sid": 450,
+      "location": 2,
+      "content": "都体现出了海外的利润要比国内更加丰厚",
+      "music": 0.0
+    },
+    {
+      "from": 1039.279,
+      "to": 1041.959,
+      "sid": 451,
+      "location": 2,
+      "content": "这里面唯一的一个就是媒体和娱乐行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1041.959,
+      "to": 1043.7,
+      "sid": 452,
+      "location": 2,
+      "content": "当然这里面有些文化差异",
+      "music": 0.0
+    },
+    {
+      "from": 1043.7,
+      "to": 1045.46,
+      "sid": 453,
+      "location": 2,
+      "content": "导致这个行业的企业",
+      "music": 0.0
+    },
+    {
+      "from": 1045.46,
+      "to": 1047.64,
+      "sid": 454,
+      "location": 2,
+      "content": "出海难度是稍微大一点点的",
+      "music": 0.0
+    },
+    {
+      "from": 1047.64,
+      "to": 1048.48,
+      "sid": 455,
+      "location": 2,
+      "content": "那第五部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 1048.48,
+      "to": 1051.68,
+      "sid": 456,
+      "location": 2,
+      "content": "主要在谈这些企业的分红和回购的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1051.68,
+      "to": 1052.8,
+      "sid": 457,
+      "location": 2,
+      "content": "我就简单的说一下",
+      "music": 0.0
+    },
+    {
+      "from": 1052.8,
+      "to": 1055.61,
+      "sid": 458,
+      "location": 2,
+      "content": "首先呢就是一些传统行业和一些以央",
+      "music": 0.0
+    },
+    {
+      "from": 1055.61,
+      "to": 1057.55,
+      "sid": 459,
+      "location": 2,
+      "content": "国企为主导的行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1057.55,
+      "to": 1059.85,
+      "sid": 460,
+      "location": 2,
+      "content": "由于监管政策是在积极鼓励",
+      "music": 0.0
+    },
+    {
+      "from": 1059.85,
+      "to": 1061.33,
+      "sid": 461,
+      "location": 2,
+      "content": "他们去提高分红比例的",
+      "music": 0.0
+    },
+    {
+      "from": 1061.33,
+      "to": 1065.63,
+      "sid": 462,
+      "location": 2,
+      "content": "所以他们在这两年呢也都提高了派息的总额啊",
+      "music": 0.0
+    },
+    {
+      "from": 1065.63,
+      "to": 1067.12,
+      "sid": 463,
+      "location": 2,
+      "content": "而作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 1067.12,
+      "to": 1069.56,
+      "sid": 464,
+      "location": 2,
+      "content": "股票的回购其实是低于预期的",
+      "music": 0.0
+    },
+    {
+      "from": 1069.56,
+      "to": 1070.32,
+      "sid": 465,
+      "location": 2,
+      "content": "2025年",
+      "music": 0.0
+    },
+    {
+      "from": 1070.32,
+      "to": 1074.2,
+      "sid": 466,
+      "location": 2,
+      "content": "企业回购股票总额同比是下降了11%",
+      "music": 0.0
+    },
+    {
+      "from": 1074.2,
+      "to": 1076.75,
+      "sid": 467,
+      "location": 2,
+      "content": "或者可以说是少了0.4万亿啊",
+      "music": 0.0
+    },
+    {
+      "from": 1076.75,
+      "to": 1078.91,
+      "sid": 468,
+      "location": 2,
+      "content": "而而回购之所以变少啊",
+      "music": 0.0
+    },
+    {
+      "from": 1078.91,
+      "to": 1081.91,
+      "sid": 469,
+      "location": 2,
+      "content": "高盛认为主要原因并不是大家不愿意回购啊",
+      "music": 0.0
+    },
+    {
+      "from": 1081.91,
+      "to": 1083.44,
+      "sid": 470,
+      "location": 2,
+      "content": "或者说这个意愿有所下降",
+      "music": 0.0
+    },
+    {
+      "from": 1083.44,
+      "to": 1085.06,
+      "sid": 471,
+      "location": 2,
+      "content": "主要还是能力有所下降",
+      "music": 0.0
+    },
+    {
+      "from": 1085.06,
+      "to": 1087.48,
+      "sid": 472,
+      "location": 2,
+      "content": "这里面主要呢还是互联网板块啊",
+      "music": 0.0
+    },
+    {
+      "from": 1087.48,
+      "to": 1091.16,
+      "sid": 473,
+      "location": 2,
+      "content": "由于这些企业都把资金优先配置到了",
+      "music": 0.0
+    },
+    {
+      "from": 1091.16,
+      "to": 1094.85,
+      "sid": 474,
+      "location": 2,
+      "content": "像AI的这种资本开支以及及时的零售补贴上啊",
+      "music": 0.0
+    },
+    {
+      "from": 1094.85,
+      "to": 1096.32,
+      "sid": 475,
+      "location": 2,
+      "content": "比如说外卖大战等等上",
+      "music": 0.0
+    },
+    {
+      "from": 1096.32,
+      "to": 1099.2,
+      "sid": 476,
+      "location": 2,
+      "content": "所以他们回购股票的能力是有所下降的",
+      "music": 0.0
+    },
+    {
+      "from": 1099.2,
+      "to": 1102.659,
+      "sid": 477,
+      "location": 2,
+      "content": "说白了就是把账上的现金大部分都花掉了",
+      "music": 0.0
+    },
+    {
+      "from": 1102.659,
+      "to": 1104.639,
+      "sid": 478,
+      "location": 2,
+      "content": "那对2026年的展望呢",
+      "music": 0.0
+    },
+    {
+      "from": 1104.639,
+      "to": 1107.779,
+      "sid": 479,
+      "location": 2,
+      "content": "高盛是认为2026年总的股东回报啊",
+      "music": 0.0
+    },
+    {
+      "from": 1107.779,
+      "to": 1109.84,
+      "sid": 480,
+      "location": 2,
+      "content": "将会达到3.8万亿",
+      "music": 0.0
+    },
+    {
+      "from": 1109.84,
+      "to": 1112.96,
+      "sid": 481,
+      "location": 2,
+      "content": "其中分红将同比增长15%啊",
+      "music": 0.0
+    },
+    {
+      "from": 1112.96,
+      "to": 1115.1,
+      "sid": 482,
+      "location": 2,
+      "content": "这里面主要还是监管的鼓励啊",
+      "music": 0.0
+    },
+    {
+      "from": 1115.1,
+      "to": 1116.9,
+      "sid": 483,
+      "location": 2,
+      "content": "那这也就意味着整体市场",
+      "music": 0.0
+    },
+    {
+      "from": 1116.9,
+      "to": 1119.86,
+      "sid": 484,
+      "location": 2,
+      "content": "总的股东回报率将会达到2.9%",
+      "music": 0.0
+    },
+    {
+      "from": 1119.86,
+      "to": 1122.06,
+      "sid": 485,
+      "location": 2,
+      "content": "相较于2025年的2.7%",
+      "music": 0.0
+    },
+    {
+      "from": 1122.06,
+      "to": 1122.98,
+      "sid": 486,
+      "location": 2,
+      "content": "还是有所提升",
+      "music": 0.0
+    },
+    {
+      "from": 1122.98,
+      "to": 1125.66,
+      "sid": 487,
+      "location": 2,
+      "content": "而且这个比例呢还是显著的高于目前",
+      "music": 0.0
+    },
+    {
+      "from": 1125.66,
+      "to": 1129.34,
+      "sid": 488,
+      "location": 2,
+      "content": "无论是国债的收益率还是我们定存的收益率啊",
+      "music": 0.0
+    },
+    {
+      "from": 1129.72,
+      "to": 1130.96,
+      "sid": 489,
+      "location": 2,
+      "content": "那最后第六部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 1130.96,
+      "to": 1133.69,
+      "sid": 490,
+      "location": 2,
+      "content": "高盛就简单的做了一个总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 1133.69,
+      "to": 1137.45,
+      "sid": 491,
+      "location": 2,
+      "content": "中国上市企业近期的主题呢其实就两块",
+      "music": 0.0
+    },
+    {
+      "from": 1137.45,
+      "to": 1139.65,
+      "sid": 492,
+      "location": 2,
+      "content": "第一块呢是AI相关的探讨",
+      "music": 0.0
+    },
+    {
+      "from": 1139.65,
+      "to": 1141.14,
+      "sid": 493,
+      "location": 2,
+      "content": "是在持续的增多的",
+      "music": 0.0
+    },
+    {
+      "from": 1141.14,
+      "to": 1143.1,
+      "sid": 494,
+      "location": 2,
+      "content": "第二块呢就是企业的出海",
+      "music": 0.0
+    },
+    {
+      "from": 1143.1,
+      "to": 1144.9,
+      "sid": 495,
+      "location": 2,
+      "content": "那针对于第一块AI的探讨呢",
+      "music": 0.0
+    },
+    {
+      "from": 1144.9,
+      "to": 1146.82,
+      "sid": 496,
+      "location": 2,
+      "content": "这块他们做了一个非常有意思的事啊",
+      "music": 0.0
+    },
+    {
+      "from": 1146.82,
+      "to": 1148.86,
+      "sid": 497,
+      "location": 2,
+      "content": "就是利用文本挖掘工具啊",
+      "music": 0.0
+    },
+    {
+      "from": 1148.86,
+      "to": 1152.44,
+      "sid": 498,
+      "location": 2,
+      "content": "对中国上市公司发布的4500多份的业绩",
+      "music": 0.0
+    },
+    {
+      "from": 1152.44,
+      "to": 1155.32,
+      "sid": 499,
+      "location": 2,
+      "content": "电话会议纪要和这种投资者关系问答",
+      "music": 0.0
+    },
+    {
+      "from": 1155.32,
+      "to": 1157.54,
+      "sid": 500,
+      "location": 2,
+      "content": "进行了这种系统性的解析",
+      "music": 0.0
+    },
+    {
+      "from": 1157.54,
+      "to": 1158.3,
+      "sid": 501,
+      "location": 2,
+      "content": "发现",
+      "music": 0.0
+    },
+    {
+      "from": 1158.3,
+      "to": 1160.46,
+      "sid": 502,
+      "location": 2,
+      "content": "大概有1/4的企业都",
+      "music": 0.0
+    },
+    {
+      "from": 1160.46,
+      "to": 1164.2,
+      "sid": 503,
+      "location": 2,
+      "content": "直接或者间接的提及了AI相关的内容",
+      "music": 0.0
+    },
+    {
+      "from": 1164.2,
+      "to": 1166.68,
+      "sid": 504,
+      "location": 2,
+      "content": "包括比如说直接提及了人工智能",
+      "music": 0.0
+    },
+    {
+      "from": 1166.68,
+      "to": 1169.54,
+      "sid": 505,
+      "location": 2,
+      "content": "或者说半导体芯片等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 1169.54,
+      "to": 1171.7,
+      "sid": 506,
+      "location": 2,
+      "content": "可见呢中国的这些上市企业",
+      "music": 0.0
+    },
+    {
+      "from": 1171.7,
+      "to": 1173.58,
+      "sid": 507,
+      "location": 2,
+      "content": "还是在持续的拥抱AI的",
+      "music": 0.0
+    },
+    {
+      "from": 1173.58,
+      "to": 1174.86,
+      "sid": 508,
+      "location": 2,
+      "content": "另外呢就是出海啊",
+      "music": 0.0
+    },
+    {
+      "from": 1174.86,
+      "to": 1177.94,
+      "sid": 509,
+      "location": 2,
+      "content": "出海的讨论热度呢也是持续在高位",
+      "music": 0.0
+    },
+    {
+      "from": 1177.94,
+      "to": 1182.04,
+      "sid": 510,
+      "location": 2,
+      "content": "几乎所有的制造业企业和一些硬核科技的板块",
+      "music": 0.0
+    },
+    {
+      "from": 1182.04,
+      "to": 1185.22,
+      "sid": 511,
+      "location": 2,
+      "content": "在一季度呢都非常关注出海这个主题",
+      "music": 0.0
+    },
+    {
+      "from": 1185.22,
+      "to": 1187.94,
+      "sid": 512,
+      "location": 2,
+      "content": "那以上呢就是这篇研报的全部内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 1187.94,
+      "to": 1190.18,
+      "sid": 513,
+      "location": 2,
+      "content": "我觉得从这些上市企业的业绩数据上",
+      "music": 0.0
+    },
+    {
+      "from": 1190.18,
+      "to": 1193.34,
+      "sid": 514,
+      "location": 2,
+      "content": "还是能够看到中国目前的一个K型分化的",
+      "music": 0.0
+    },
+    {
+      "from": 1193.34,
+      "to": 1196.27,
+      "sid": 515,
+      "location": 2,
+      "content": "也希望这些内容对大家有所帮助好了",
+      "music": 0.0
+    },
+    {
+      "from": 1196.27,
+      "to": 1197.11,
+      "sid": 516,
+      "location": 2,
+      "content": "那还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 1197.11,
+      "to": 1198.59,
+      "sid": 517,
+      "location": 2,
+      "content": "如果大家对这篇音报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 1198.59,
+      "to": 1200.96,
+      "sid": 518,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 1200.96,
+      "to": 1202.34,
+      "sid": 519,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 1202.34,
+      "to": 1203.66,
+      "sid": 520,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1203.66,
+      "to": 1205.08,
+      "sid": 521,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1205.08,
+      "to": 1205.78,
+      "sid": 522,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

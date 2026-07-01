@@ -1,0 +1,3308 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.48,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.48,
+      "to": 2.32,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.32,
+      "to": 3.6,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢和大家分享一篇",
+      "music": 0.0
+    },
+    {
+      "from": 3.6,
+      "to": 5.5,
+      "sid": 4,
+      "location": 2,
+      "content": "巴克莱的中国宏观经济研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.5,
+      "to": 8.98,
+      "sid": 5,
+      "location": 2,
+      "content": "主要呢是对前段时间发布的中国官方的PMI",
+      "music": 0.0
+    },
+    {
+      "from": 8.98,
+      "to": 11.76,
+      "sid": 6,
+      "location": 2,
+      "content": "还有包括像rating dog的PMI进行了拆解",
+      "music": 0.0
+    },
+    {
+      "from": 11.76,
+      "to": 14.53,
+      "sid": 7,
+      "location": 2,
+      "content": "并且呢结合了一下近期的高频数据",
+      "music": 0.0
+    },
+    {
+      "from": 14.53,
+      "to": 17.05,
+      "sid": 8,
+      "location": 2,
+      "content": "巴克莱给出了一个相对偏谨慎的",
+      "music": 0.0
+    },
+    {
+      "from": 17.05,
+      "to": 18.09,
+      "sid": 9,
+      "location": 2,
+      "content": "中国经济展望啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.09,
+      "to": 20.46,
+      "sid": 10,
+      "location": 2,
+      "content": "特别是在今年剩下的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 20.46,
+      "to": 21.5,
+      "sid": 11,
+      "location": 2,
+      "content": "也就是二季度",
+      "music": 0.0
+    },
+    {
+      "from": 21.5,
+      "to": 22.1,
+      "sid": 12,
+      "location": 2,
+      "content": "三季度",
+      "music": 0.0
+    },
+    {
+      "from": 22.1,
+      "to": 22.66,
+      "sid": 13,
+      "location": 2,
+      "content": "四季度",
+      "music": 0.0
+    },
+    {
+      "from": 22.66,
+      "to": 24.16,
+      "sid": 14,
+      "location": 2,
+      "content": "包括明年全年啊",
+      "music": 0.0
+    },
+    {
+      "from": 24.16,
+      "to": 24.98,
+      "sid": 15,
+      "location": 2,
+      "content": "还是照例呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.98,
+      "to": 27.42,
+      "sid": 16,
+      "location": 2,
+      "content": "先和大家分享一下这篇研报的核心结论",
+      "music": 0.0
+    },
+    {
+      "from": 27.42,
+      "to": 29.14,
+      "sid": 17,
+      "location": 2,
+      "content": "其实从研报的标题",
+      "music": 0.0
+    },
+    {
+      "from": 29.14,
+      "to": 31.34,
+      "sid": 18,
+      "location": 2,
+      "content": "大家就能看到巴克莱的观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.34,
+      "to": 34.14,
+      "sid": 19,
+      "location": 2,
+      "content": "叫做growth is lower and biffcated",
+      "music": 0.0
+    },
+    {
+      "from": 34.14,
+      "to": 35.96,
+      "sid": 20,
+      "location": 2,
+      "content": "对应的就是中国经济增长",
+      "music": 0.0
+    },
+    {
+      "from": 35.96,
+      "to": 38.3,
+      "sid": 21,
+      "location": 2,
+      "content": "意思就是中国的经济增长会更慢",
+      "music": 0.0
+    },
+    {
+      "from": 38.3,
+      "to": 40.22,
+      "sid": 22,
+      "location": 2,
+      "content": "并且会持续的分化",
+      "music": 0.0
+    },
+    {
+      "from": 40.22,
+      "to": 42.06,
+      "sid": 23,
+      "location": 2,
+      "content": "所以这篇研报的核心结论呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.06,
+      "to": 45.22,
+      "sid": 24,
+      "location": 2,
+      "content": "也就可以简单的拆解成了后面的主要内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.22,
+      "to": 47.97,
+      "sid": 25,
+      "location": 2,
+      "content": "分为了总量和分部门两个维度",
+      "music": 0.0
+    },
+    {
+      "from": 47.97,
+      "to": 50.989,
+      "sid": 26,
+      "location": 2,
+      "content": "总量呢就是中国总体的经济增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 50.989,
+      "to": 52.609,
+      "sid": 27,
+      "location": 2,
+      "content": "是会持续下滑的",
+      "music": 0.0
+    },
+    {
+      "from": 52.609,
+      "to": 56.769,
+      "sid": 28,
+      "location": 2,
+      "content": "那分部门呢就是经济内部结构是分化的",
+      "music": 0.0
+    },
+    {
+      "from": 56.769,
+      "to": 58.569,
+      "sid": 29,
+      "location": 2,
+      "content": "那我们就分开来说一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.569,
+      "to": 60.149,
+      "sid": 30,
+      "location": 2,
+      "content": "首先呢说一下总量维度啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.149,
+      "to": 62.53,
+      "sid": 31,
+      "location": 2,
+      "content": "先说短期官方制造业的PMI呢",
+      "music": 0.0
+    },
+    {
+      "from": 62.53,
+      "to": 63.85,
+      "sid": 32,
+      "location": 2,
+      "content": "从4月的50.3",
+      "music": 0.0
+    },
+    {
+      "from": 63.85,
+      "to": 66.09,
+      "sid": 33,
+      "location": 2,
+      "content": "是回落到了5月的50.0啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.09,
+      "to": 67.05,
+      "sid": 34,
+      "location": 2,
+      "content": "那巴克莱呢认为",
+      "music": 0.0
+    },
+    {
+      "from": 67.05,
+      "to": 69.71,
+      "sid": 35,
+      "location": 2,
+      "content": "中国的经济增速可能在本已经",
+      "music": 0.0
+    },
+    {
+      "from": 69.71,
+      "to": 72.19,
+      "sid": 36,
+      "location": 2,
+      "content": "4月份大幅放缓的基础上",
+      "music": 0.0
+    },
+    {
+      "from": 72.19,
+      "to": 73.759,
+      "sid": 37,
+      "location": 2,
+      "content": "进一步在5月放缓",
+      "music": 0.0
+    },
+    {
+      "from": 73.759,
+      "to": 76.379,
+      "sid": 38,
+      "location": 2,
+      "content": "巴克莱目前的基准情形判断是说",
+      "music": 0.0
+    },
+    {
+      "from": 76.379,
+      "to": 80.169,
+      "sid": 39,
+      "location": 2,
+      "content": "中国二季度的实际GDP环比折年率啊",
+      "music": 0.0
+    },
+    {
+      "from": 80.169,
+      "to": 81.969,
+      "sid": 40,
+      "location": 2,
+      "content": "仅为3.2%",
+      "music": 0.0
+    },
+    {
+      "from": 81.969,
+      "to": 83.089,
+      "sid": 41,
+      "location": 2,
+      "content": "而一季度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 83.089,
+      "to": 84.629,
+      "sid": 42,
+      "location": 2,
+      "content": "这个数据我们可以做一个对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.629,
+      "to": 86.33,
+      "sid": 43,
+      "location": 2,
+      "content": "当时是6.8%",
+      "music": 0.0
+    },
+    {
+      "from": 86.33,
+      "to": 89.49,
+      "sid": 44,
+      "location": 2,
+      "content": "也就是说经济增速在二季度相较于一季度",
+      "music": 0.0
+    },
+    {
+      "from": 89.49,
+      "to": 91.09,
+      "sid": 45,
+      "location": 2,
+      "content": "是属于一个腰斩的水平",
+      "music": 0.0
+    },
+    {
+      "from": 91.09,
+      "to": 92.73,
+      "sid": 46,
+      "location": 2,
+      "content": "那这块呢我也补充一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 92.73,
+      "to": 94.17,
+      "sid": 47,
+      "location": 2,
+      "content": "可能有些小伙伴不太理解",
+      "music": 0.0
+    },
+    {
+      "from": 94.17,
+      "to": 95.66,
+      "sid": 48,
+      "location": 2,
+      "content": "什么叫做环比折年率啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 98.36,
+      "sid": 49,
+      "location": 2,
+      "content": "因为我们经常用到的一个指标是同比增速",
+      "music": 0.0
+    },
+    {
+      "from": 98.36,
+      "to": 99.48,
+      "sid": 50,
+      "location": 2,
+      "content": "那环比折年率呢",
+      "music": 0.0
+    },
+    {
+      "from": 99.48,
+      "to": 103.26,
+      "sid": 51,
+      "location": 2,
+      "content": "它其实是用实际GDP的季度环比增速作为基础",
+      "music": 0.0
+    },
+    {
+      "from": 103.26,
+      "to": 107.53,
+      "sid": 52,
+      "location": 2,
+      "content": "那么假设按照这样一个季度的环比增速",
+      "music": 0.0
+    },
+    {
+      "from": 107.53,
+      "to": 109.37,
+      "sid": 53,
+      "location": 2,
+      "content": "去维持一整年的话",
+      "music": 0.0
+    },
+    {
+      "from": 109.37,
+      "to": 112.22,
+      "sid": 54,
+      "location": 2,
+      "content": "那么全年的经济增速是多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.22,
+      "to": 114.35,
+      "sid": 55,
+      "location": 2,
+      "content": "是这样一个环比折年率的概念",
+      "music": 0.0
+    },
+    {
+      "from": 114.35,
+      "to": 116.19,
+      "sid": 56,
+      "location": 2,
+      "content": "作为二季度相较于一季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 116.19,
+      "to": 118.35,
+      "sid": 57,
+      "location": 2,
+      "content": "实际GDP的环比折年率腰斩",
+      "music": 0.0
+    },
+    {
+      "from": 118.35,
+      "to": 119.07,
+      "sid": 58,
+      "location": 2,
+      "content": "也就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 119.07,
+      "to": 122.5,
+      "sid": 59,
+      "location": 2,
+      "content": "二季度确实在经济增长方面有大幅的放缓",
+      "music": 0.0
+    },
+    {
+      "from": 122.5,
+      "to": 123.62,
+      "sid": 60,
+      "location": 2,
+      "content": "那说完短期啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.62,
+      "to": 124.52,
+      "sid": 61,
+      "location": 2,
+      "content": "再说一下中期",
+      "music": 0.0
+    },
+    {
+      "from": 124.52,
+      "to": 126.78,
+      "sid": 62,
+      "location": 2,
+      "content": "虽然报告呢正文中没有提及啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.78,
+      "to": 129.14,
+      "sid": 63,
+      "location": 2,
+      "content": "但是在报告的最后一页的附表当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 129.14,
+      "to": 131.9,
+      "sid": 64,
+      "location": 2,
+      "content": "巴克莱是给了一个22026和2027年",
+      "music": 0.0
+    },
+    {
+      "from": 131.9,
+      "to": 134.36,
+      "sid": 65,
+      "location": 2,
+      "content": "中国经济展望的量化预期",
+      "music": 0.0
+    },
+    {
+      "from": 134.36,
+      "to": 136.86,
+      "sid": 66,
+      "location": 2,
+      "content": "就是大家现在在屏幕当中看到的这个表啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.86,
+      "to": 138.22,
+      "sid": 67,
+      "location": 2,
+      "content": "我们一起来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 138.22,
+      "to": 140.62,
+      "sid": 68,
+      "location": 2,
+      "content": "那首先巴克莱呢是认为今年三季度",
+      "music": 0.0
+    },
+    {
+      "from": 140.62,
+      "to": 143.49,
+      "sid": 69,
+      "location": 2,
+      "content": "中国的实际GDP环比折年率",
+      "music": 0.0
+    },
+    {
+      "from": 143.49,
+      "to": 146.47,
+      "sid": 70,
+      "location": 2,
+      "content": "也会保持在3.2的一个水平啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.47,
+      "to": 148.03,
+      "sid": 71,
+      "location": 2,
+      "content": "和二季度的这3.2",
+      "music": 0.0
+    },
+    {
+      "from": 148.03,
+      "to": 150.45,
+      "sid": 72,
+      "location": 2,
+      "content": "就是我鼠标的这个位置是完全一致的",
+      "music": 0.0
+    },
+    {
+      "from": 150.45,
+      "to": 153.37,
+      "sid": 73,
+      "location": 2,
+      "content": "那么对应的呢是今年的第三季度",
+      "music": 0.0
+    },
+    {
+      "from": 153.37,
+      "to": 155.69,
+      "sid": 74,
+      "location": 2,
+      "content": "实际GDP的同比增速预期",
+      "music": 0.0
+    },
+    {
+      "from": 155.69,
+      "to": 158.11,
+      "sid": 75,
+      "location": 2,
+      "content": "则是进一步下调到了4.4%",
+      "music": 0.0
+    },
+    {
+      "from": 158.11,
+      "to": 160.85,
+      "sid": 76,
+      "location": 2,
+      "content": "二季度呢即便说环比折年率是3.2",
+      "music": 0.0
+    },
+    {
+      "from": 160.85,
+      "to": 163.52,
+      "sid": 77,
+      "location": 2,
+      "content": "但是对应的是同比增速啊是4.7",
+      "music": 0.0
+    },
+    {
+      "from": 163.52,
+      "to": 166.06,
+      "sid": 78,
+      "location": 2,
+      "content": "而三季度会进一步放缓到4.4",
+      "music": 0.0
+    },
+    {
+      "from": 166.06,
+      "to": 167.68,
+      "sid": 79,
+      "location": 2,
+      "content": "那么到四季度的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 167.68,
+      "to": 169.28,
+      "sid": 80,
+      "location": 2,
+      "content": "实际GDP同比增速预期",
+      "music": 0.0
+    },
+    {
+      "from": 169.28,
+      "to": 171.75,
+      "sid": 81,
+      "location": 2,
+      "content": "巴克莱只给到了4.3%啊",
+      "music": 0.0
+    },
+    {
+      "from": 171.75,
+      "to": 174.43,
+      "sid": 82,
+      "location": 2,
+      "content": "因此呢巴克莱对2026年全年",
+      "music": 0.0
+    },
+    {
+      "from": 174.43,
+      "to": 178.71,
+      "sid": 83,
+      "location": 2,
+      "content": "中国实际GDP的增速预期只给了4.6个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 178.71,
+      "to": 179.43,
+      "sid": 84,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 179.43,
+      "to": 183.58,
+      "sid": 85,
+      "location": 2,
+      "content": "全年的经济增速是处于一个前高后低的状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.58,
+      "to": 185.72,
+      "sid": 86,
+      "location": 2,
+      "content": "越往后呢经济下行的压力越大",
+      "music": 0.0
+    },
+    {
+      "from": 185.72,
+      "to": 189.58,
+      "sid": 87,
+      "location": 2,
+      "content": "同时4.6也是基本上贴着4.5%",
+      "music": 0.0
+    },
+    {
+      "from": 189.58,
+      "to": 194.7,
+      "sid": 88,
+      "location": 2,
+      "content": "到5%的实际GDP增长目标的下沿在运行啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.12,
+      "to": 197.08,
+      "sid": 89,
+      "location": 2,
+      "content": "但如果我们去看剩下三个季度",
+      "music": 0.0
+    },
+    {
+      "from": 197.08,
+      "to": 199.649,
+      "sid": 90,
+      "location": 2,
+      "content": "巴克莱给的实际GDP增速的预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.649,
+      "to": 200.929,
+      "sid": 91,
+      "location": 2,
+      "content": "其实我个人理解",
+      "music": 0.0
+    },
+    {
+      "from": 200.929,
+      "to": 203.089,
+      "sid": 92,
+      "location": 2,
+      "content": "这里面巴克莱也隐含了一个假设",
+      "music": 0.0
+    },
+    {
+      "from": 206.6,
+      "to": 207.32,
+      "sid": 93,
+      "location": 2,
+      "content": "刺激经济",
+      "music": 0.0
+    },
+    {
+      "from": 207.32,
+      "to": 209.04,
+      "sid": 94,
+      "location": 2,
+      "content": "特别是刺激内需的政策",
+      "music": 0.0
+    },
+    {
+      "from": 209.04,
+      "to": 211.8,
+      "sid": 95,
+      "location": 2,
+      "content": "而决策层呢可能会把全年的重心",
+      "music": 0.0
+    },
+    {
+      "from": 211.8,
+      "to": 216.46,
+      "sid": 96,
+      "location": 2,
+      "content": "以及可能的增量财政资源都放在大连科技上",
+      "music": 0.0
+    },
+    {
+      "from": 216.46,
+      "to": 219.78,
+      "sid": 97,
+      "location": 2,
+      "content": "那其实相信各位小伙伴啊也都关注到了今天啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.78,
+      "to": 222.46,
+      "sid": 98,
+      "location": 2,
+      "content": "当然大家看这个影片的时候已经是昨天了啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.46,
+      "to": 226.02,
+      "sid": 99,
+      "location": 2,
+      "content": "彭博在这个昨天下午吧的一则新闻啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.16,
+      "to": 232.32,
+      "sid": 100,
+      "location": 2,
+      "content": "在全国各地建设数据中心",
+      "music": 0.0
+    },
+    {
+      "from": 232.32,
+      "to": 235.12,
+      "sid": 101,
+      "location": 2,
+      "content": "以推动国内人工智能产业的发展",
+      "music": 0.0
+    },
+    {
+      "from": 235.12,
+      "to": 237.04,
+      "sid": 102,
+      "location": 2,
+      "content": "那简单来做一个数学题啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.04,
+      "to": 238.88,
+      "sid": 103,
+      "location": 2,
+      "content": "5年对应的是2万亿",
+      "music": 0.0
+    },
+    {
+      "from": 238.88,
+      "to": 241.04,
+      "sid": 104,
+      "location": 2,
+      "content": "那么每年的就是4000亿呃",
+      "music": 0.0
+    },
+    {
+      "from": 241.04,
+      "to": 243.12,
+      "sid": 105,
+      "location": 2,
+      "content": "我不知道大家对4000亿有没有概念啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.12,
+      "to": 244.72,
+      "sid": 106,
+      "location": 2,
+      "content": "我可以给大家做一个对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 244.72,
+      "to": 245.56,
+      "sid": 107,
+      "location": 2,
+      "content": "我查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 248.72,
+      "to": 249.92,
+      "sid": 108,
+      "location": 2,
+      "content": "支出决算表啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.92,
+      "to": 253.2,
+      "sid": 109,
+      "location": 2,
+      "content": "2024年全国城乡居民啊",
+      "music": 0.0
+    },
+    {
+      "from": 253.2,
+      "to": 254.71,
+      "sid": 110,
+      "location": 2,
+      "content": "也就是我们说的农村啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.71,
+      "to": 255.39,
+      "sid": 111,
+      "location": 2,
+      "content": "这个老人啊",
+      "music": 0.0
+    },
+    {
+      "from": 255.39,
+      "to": 256.71,
+      "sid": 112,
+      "location": 2,
+      "content": "他们的基本养老保",
+      "music": 0.0
+    },
+    {
+      "from": 256.71,
+      "to": 260.59,
+      "sid": 113,
+      "location": 2,
+      "content": "险基金的总支出是5283.3亿",
+      "music": 0.0
+    },
+    {
+      "from": 260.59,
+      "to": 263.75,
+      "sid": 114,
+      "location": 2,
+      "content": "其中中央和地方财政直接兜底的",
+      "music": 0.0
+    },
+    {
+      "from": 263.75,
+      "to": 265.11,
+      "sid": 115,
+      "location": 2,
+      "content": "就是完全由中央和财政",
+      "music": 0.0
+    },
+    {
+      "from": 265.11,
+      "to": 266.15,
+      "sid": 116,
+      "location": 2,
+      "content": "地方出钱的",
+      "music": 0.0
+    },
+    {
+      "from": 266.15,
+      "to": 268.26,
+      "sid": 117,
+      "location": 2,
+      "content": "就不是这些老年人",
+      "music": 0.0
+    },
+    {
+      "from": 268.26,
+      "to": 269.98,
+      "sid": 118,
+      "location": 2,
+      "content": "他们自己缴纳的个人部分",
+      "music": 0.0
+    },
+    {
+      "from": 269.98,
+      "to": 272.86,
+      "sid": 119,
+      "location": 2,
+      "content": "而是完全由中央和地方财政兜底的",
+      "music": 0.0
+    },
+    {
+      "from": 272.86,
+      "to": 274.32,
+      "sid": 120,
+      "location": 2,
+      "content": "这部分基础养老金啊",
+      "music": 0.0
+    },
+    {
+      "from": 274.32,
+      "to": 276.52,
+      "sid": 121,
+      "location": 2,
+      "content": "只有4392亿",
+      "music": 0.0
+    },
+    {
+      "from": 276.52,
+      "to": 279.08,
+      "sid": 122,
+      "location": 2,
+      "content": "那2025年呢应该是要比这个高一点",
+      "music": 0.0
+    },
+    {
+      "from": 279.08,
+      "to": 280.72,
+      "sid": 123,
+      "location": 2,
+      "content": "因为我们每个老年人",
+      "music": 0.0
+    },
+    {
+      "from": 280.72,
+      "to": 282.82,
+      "sid": 124,
+      "location": 2,
+      "content": "他的这个养老金都涨了20块钱嘛",
+      "music": 0.0
+    },
+    {
+      "from": 282.82,
+      "to": 284.22,
+      "sid": 125,
+      "location": 2,
+      "content": "每个月涨20块钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 284.22,
+      "to": 286.46,
+      "sid": 126,
+      "location": 2,
+      "content": "但是由于2025年的结算表还没有出来",
+      "music": 0.0
+    },
+    {
+      "from": 286.46,
+      "to": 288.7,
+      "sid": 127,
+      "location": 2,
+      "content": "所以也没有这个相应的数据",
+      "music": 0.0
+    },
+    {
+      "from": 288.7,
+      "to": 290.08,
+      "sid": 128,
+      "location": 2,
+      "content": "可以跟大家做做对比",
+      "music": 0.0
+    },
+    {
+      "from": 290.08,
+      "to": 292.34,
+      "sid": 129,
+      "location": 2,
+      "content": "那我就用24年的给大家做个对比",
+      "music": 0.0
+    },
+    {
+      "from": 292.34,
+      "to": 294.4,
+      "sid": 130,
+      "location": 2,
+      "content": "也就是说呢同样量级的一笔资金",
+      "music": 0.0
+    },
+    {
+      "from": 294.4,
+      "to": 296.18,
+      "sid": 131,
+      "location": 2,
+      "content": "完全可以让城乡居民",
+      "music": 0.0
+    },
+    {
+      "from": 296.18,
+      "to": 299.03,
+      "sid": 132,
+      "location": 2,
+      "content": "平均目前每个月200多块钱的养老金",
+      "music": 0.0
+    },
+    {
+      "from": 299.03,
+      "to": 300.35,
+      "sid": 133,
+      "location": 2,
+      "content": "接近于翻倍啊",
+      "music": 0.0
+    },
+    {
+      "from": 300.35,
+      "to": 303.5,
+      "sid": 134,
+      "location": 2,
+      "content": "但是呢政策制定者认为科技更为重要",
+      "music": 0.0
+    },
+    {
+      "from": 303.5,
+      "to": 305.68,
+      "sid": 135,
+      "location": 2,
+      "content": "那再继续往后推演一步啊",
+      "music": 0.0
+    },
+    {
+      "from": 305.68,
+      "to": 307.54,
+      "sid": 136,
+      "location": 2,
+      "content": "这么多的数据中心投下去",
+      "music": 0.0
+    },
+    {
+      "from": 307.54,
+      "to": 311.64,
+      "sid": 137,
+      "location": 2,
+      "content": "未来这个AI替代大量的城镇居民的就业岗位",
+      "music": 0.0
+    },
+    {
+      "from": 311.64,
+      "to": 313.16,
+      "sid": 138,
+      "location": 2,
+      "content": "特别是白领的岗位啊",
+      "music": 0.0
+    },
+    {
+      "from": 313.16,
+      "to": 314.98,
+      "sid": 139,
+      "location": 2,
+      "content": "这件事又要如何去解决呢",
+      "music": 0.0
+    },
+    {
+      "from": 314.98,
+      "to": 318.96,
+      "sid": 140,
+      "location": 2,
+      "content": "我们马上要面临的是一年比一年多的新增",
+      "music": 0.0
+    },
+    {
+      "from": 318.96,
+      "to": 320.22,
+      "sid": 141,
+      "location": 2,
+      "content": "应届大学毕业生",
+      "music": 0.0
+    },
+    {
+      "from": 320.22,
+      "to": 322.52,
+      "sid": 142,
+      "location": 2,
+      "content": "那么这些人未来又要如何去解决",
+      "music": 0.0
+    },
+    {
+      "from": 322.52,
+      "to": 323.82,
+      "sid": 143,
+      "location": 2,
+      "content": "他们的就业问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 323.82,
+      "to": 325.74,
+      "sid": 144,
+      "location": 2,
+      "content": "那说完了总量再说一下结构啊",
+      "music": 0.0
+    },
+    {
+      "from": 325.74,
+      "to": 326.82,
+      "sid": 145,
+      "location": 2,
+      "content": "巴克莱在报告里",
+      "music": 0.0
+    },
+    {
+      "from": 326.82,
+      "to": 330.02,
+      "sid": 146,
+      "location": 2,
+      "content": "同样用了大摩对中国经济描述的一个词啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.02,
+      "to": 331.86,
+      "sid": 147,
+      "location": 2,
+      "content": "叫做a speed economy",
+      "music": 0.0
+    },
+    {
+      "from": 331.86,
+      "to": 334.44,
+      "sid": 148,
+      "location": 2,
+      "content": "就是中国目前呢是一个两速经济",
+      "music": 0.0
+    },
+    {
+      "from": 334.44,
+      "to": 335.32,
+      "sid": 149,
+      "location": 2,
+      "content": "从表格中呢",
+      "music": 0.0
+    },
+    {
+      "from": 335.32,
+      "to": 336.64,
+      "sid": 150,
+      "location": 2,
+      "content": "大家其实也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 336.64,
+      "to": 341.06,
+      "sid": 151,
+      "location": 2,
+      "content": "巴克莱的判断就是出口强而内虚弱",
+      "music": 0.0
+    },
+    {
+      "from": 341.3,
+      "to": 343.16,
+      "sid": 152,
+      "location": 2,
+      "content": "我们可以先来看一下消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 343.16,
+      "to": 345.34,
+      "sid": 153,
+      "location": 2,
+      "content": "消费对实际GDP的贡献呢",
+      "music": 0.0
+    },
+    {
+      "from": 345.34,
+      "to": 347.68,
+      "sid": 154,
+      "location": 2,
+      "content": "在一季度是2.4个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 347.68,
+      "to": 349.0,
+      "sid": 155,
+      "location": 2,
+      "content": "那到二季度",
+      "music": 0.0
+    },
+    {
+      "from": 349.0,
+      "to": 349.48,
+      "sid": 156,
+      "location": 2,
+      "content": "三季度",
+      "music": 0.0
+    },
+    {
+      "from": 349.48,
+      "to": 351.52,
+      "sid": 157,
+      "location": 2,
+      "content": "四季度基本上都维持在2%",
+      "music": 0.0
+    },
+    {
+      "from": 351.52,
+      "to": 353.72,
+      "sid": 158,
+      "location": 2,
+      "content": "那考虑到我们全年实际GDP增速",
+      "music": 0.0
+    },
+    {
+      "from": 353.72,
+      "to": 355.7,
+      "sid": 159,
+      "location": 2,
+      "content": "肯定是在4%以上的",
+      "music": 0.0
+    },
+    {
+      "from": 355.7,
+      "to": 358.38,
+      "sid": 160,
+      "location": 2,
+      "content": "也就意味着按巴克莱目前的一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 358.38,
+      "to": 362.65,
+      "sid": 161,
+      "location": 2,
+      "content": "消费对于实际GDP增速的贡献是不到一半的",
+      "music": 0.0
+    },
+    {
+      "from": 362.65,
+      "to": 365.39,
+      "sid": 162,
+      "location": 2,
+      "content": "那另外一个值得关注的点呢就是投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 365.39,
+      "to": 368.01,
+      "sid": 163,
+      "location": 2,
+      "content": "投资整体呢也是处于一个下行的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 368.01,
+      "to": 369.01,
+      "sid": 164,
+      "location": 2,
+      "content": "从1.91.4",
+      "music": 0.0
+    },
+    {
+      "from": 369.01,
+      "to": 370.84,
+      "sid": 165,
+      "location": 2,
+      "content": "1.3再到1.2啊",
+      "music": 0.0
+    },
+    {
+      "from": 370.84,
+      "to": 372.04,
+      "sid": 166,
+      "location": 2,
+      "content": "就是在未来几个季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.04,
+      "to": 373.28,
+      "sid": 167,
+      "location": 2,
+      "content": "都会持续的往下走",
+      "music": 0.0
+    },
+    {
+      "from": 373.28,
+      "to": 376.0,
+      "sid": 168,
+      "location": 2,
+      "content": "但是好的一点呢是由于去年的基数比较较低啊",
+      "music": 0.0
+    },
+    {
+      "from": 376.0,
+      "to": 378.1,
+      "sid": 169,
+      "location": 2,
+      "content": "所以今年投资对于GDP的贡献",
+      "music": 0.0
+    },
+    {
+      "from": 378.1,
+      "to": 380.39,
+      "sid": 170,
+      "location": 2,
+      "content": "还是要比去年好不少的",
+      "music": 0.0
+    },
+    {
+      "from": 380.39,
+      "to": 382.87,
+      "sid": 171,
+      "location": 2,
+      "content": "作为对应的我们可以看到进出口啊",
+      "music": 0.0
+    },
+    {
+      "from": 382.87,
+      "to": 384.86,
+      "sid": 172,
+      "location": 2,
+      "content": "他的表现就比较高歌猛进了",
+      "music": 0.0
+    },
+    {
+      "from": 384.86,
+      "to": 387.9,
+      "sid": 173,
+      "location": 2,
+      "content": "一季度呢进出口对于实际GP增速的贡献啊",
+      "music": 0.0
+    },
+    {
+      "from": 387.9,
+      "to": 388.9,
+      "sid": 174,
+      "location": 2,
+      "content": "是0.8个点",
+      "music": 0.0
+    },
+    {
+      "from": 388.9,
+      "to": 390.12,
+      "sid": 175,
+      "location": 2,
+      "content": "但是在未来的",
+      "music": 0.0
+    },
+    {
+      "from": 390.12,
+      "to": 393.34,
+      "sid": 176,
+      "location": 2,
+      "content": "无论是马上过完的二季度还是三季度和四季度",
+      "music": 0.0
+    },
+    {
+      "from": 393.34,
+      "to": 395.06,
+      "sid": 177,
+      "location": 2,
+      "content": "巴克莱给出的都是1.4啊",
+      "music": 0.0
+    },
+    {
+      "from": 395.06,
+      "to": 395.68,
+      "sid": 178,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 395.68,
+      "to": 400.159,
+      "sid": 179,
+      "location": 2,
+      "content": "进出口仍然是拉动实际GDP增长的关键因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 400.159,
+      "to": 402.679,
+      "sid": 180,
+      "location": 2,
+      "content": "另外呢巴克莱还对5月的出口",
+      "music": 0.0
+    },
+    {
+      "from": 402.679,
+      "to": 405.319,
+      "sid": 181,
+      "location": 2,
+      "content": "信贷和物价数据啊进行了展望",
+      "music": 0.0
+    },
+    {
+      "from": 405.319,
+      "to": 408.919,
+      "sid": 182,
+      "location": 2,
+      "content": "他们认为呢我们可能会在5月啊继续见证历史",
+      "music": 0.0
+    },
+    {
+      "from": 408.919,
+      "to": 410.86,
+      "sid": 183,
+      "location": 2,
+      "content": "看到信贷和社融数据",
+      "music": 0.0
+    },
+    {
+      "from": 410.86,
+      "to": 413.42,
+      "sid": 184,
+      "location": 2,
+      "content": "在4月的基础上进一步转弱",
+      "music": 0.0
+    },
+    {
+      "from": 413.42,
+      "to": 417.509,
+      "sid": 185,
+      "location": 2,
+      "content": "并最终呢很有可能会看到一个创历史新低的",
+      "music": 0.0
+    },
+    {
+      "from": 417.509,
+      "to": 419.52,
+      "sid": 186,
+      "location": 2,
+      "content": "7.7%的社融增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 419.52,
+      "to": 421.62,
+      "sid": 187,
+      "location": 2,
+      "content": "而PPPI呢在油价的推动下",
+      "music": 0.0
+    },
+    {
+      "from": 421.62,
+      "to": 422.76,
+      "sid": 188,
+      "location": 2,
+      "content": "巴克莱目前预计",
+      "music": 0.0
+    },
+    {
+      "from": 422.76,
+      "to": 426.32,
+      "sid": 189,
+      "location": 2,
+      "content": "5月份的PPI将录得一个正的4%啊",
+      "music": 0.0
+    },
+    {
+      "from": 426.32,
+      "to": 428.73,
+      "sid": 190,
+      "location": 2,
+      "content": "这是一个非常夸张的输入性通胀",
+      "music": 0.0
+    },
+    {
+      "from": 428.73,
+      "to": 431.29,
+      "sid": 191,
+      "location": 2,
+      "content": "但是呢他也特别在文中强调啊",
+      "music": 0.0
+    },
+    {
+      "from": 431.29,
+      "to": 434.01,
+      "sid": 192,
+      "location": 2,
+      "content": "就是上游价格的上涨向下游的传导",
+      "music": 0.0
+    },
+    {
+      "from": 434.01,
+      "to": 435.32,
+      "sid": 193,
+      "location": 2,
+      "content": "在目前的中国",
+      "music": 0.0
+    },
+    {
+      "from": 435.32,
+      "to": 437.28,
+      "sid": 194,
+      "location": 2,
+      "content": "特别是内需疲软的中国来说",
+      "music": 0.0
+    },
+    {
+      "from": 437.28,
+      "to": 438.5,
+      "sid": 195,
+      "location": 2,
+      "content": "压力是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 438.5,
+      "to": 441.88,
+      "sid": 196,
+      "location": 2,
+      "content": "所以因此呢下游的企业将会承担绝大部分",
+      "music": 0.0
+    },
+    {
+      "from": 441.88,
+      "to": 444.48,
+      "sid": 197,
+      "location": 2,
+      "content": "上游成本和原材料价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 444.48,
+      "to": 446.13,
+      "sid": 198,
+      "location": 2,
+      "content": "对于他们利润的挤压",
+      "music": 0.0
+    },
+    {
+      "from": 446.13,
+      "to": 448.61,
+      "sid": 199,
+      "location": 2,
+      "content": "那接下来呢我们就来看一下这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 448.61,
+      "to": 450.2,
+      "sid": 200,
+      "location": 2,
+      "content": "整体的一个推导逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 450.2,
+      "to": 451.28,
+      "sid": 201,
+      "location": 2,
+      "content": "首先呢在开篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 451.28,
+      "to": 452.04,
+      "sid": 202,
+      "location": 2,
+      "content": "他就提到说",
+      "music": 0.0
+    },
+    {
+      "from": 452.04,
+      "to": 455.72,
+      "sid": 203,
+      "location": 2,
+      "content": "在4月份中国经济广泛放缓的背景之下",
+      "music": 0.0
+    },
+    {
+      "from": 455.72,
+      "to": 459.24,
+      "sid": 204,
+      "location": 2,
+      "content": "那么5月的PMI和一些高频数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.24,
+      "to": 461.86,
+      "sid": 205,
+      "location": 2,
+      "content": "正在显示着further wakening",
+      "music": 0.0
+    },
+    {
+      "from": 461.86,
+      "to": 462.58,
+      "sid": 206,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 462.58,
+      "to": 465.99,
+      "sid": 207,
+      "location": 2,
+      "content": "我们的经济增速可能会有进一步放缓的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 465.99,
+      "to": 468.63,
+      "sid": 208,
+      "location": 2,
+      "content": "其中主要的驱动力呢来自于两方面",
+      "music": 0.0
+    },
+    {
+      "from": 468.63,
+      "to": 471.73,
+      "sid": 209,
+      "location": 2,
+      "content": "第一方面呢就是非常疲软的内需",
+      "music": 0.0
+    },
+    {
+      "from": 471.73,
+      "to": 475.62,
+      "sid": 210,
+      "location": 2,
+      "content": "第二方面呢是和石油相关的一些部门啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.62,
+      "to": 477.59,
+      "sid": 211,
+      "location": 2,
+      "content": "受到了一定的供给冲击",
+      "music": 0.0
+    },
+    {
+      "from": 477.59,
+      "to": 479.25,
+      "sid": 212,
+      "location": 2,
+      "content": "那这样的一个发展呢",
+      "music": 0.0
+    },
+    {
+      "from": 479.25,
+      "to": 481.71,
+      "sid": 213,
+      "location": 2,
+      "content": "也符合他们之前基准情形的一个判断",
+      "music": 0.0
+    },
+    {
+      "from": 481.71,
+      "to": 484.35,
+      "sid": 214,
+      "location": 2,
+      "content": "就是二季度实际GDP的环比折年率",
+      "music": 0.0
+    },
+    {
+      "from": 484.35,
+      "to": 488.08,
+      "sid": 215,
+      "location": 2,
+      "content": "会从一季度的6.8%降到3.2%",
+      "music": 0.0
+    },
+    {
+      "from": 488.08,
+      "to": 491.03,
+      "sid": 216,
+      "location": 2,
+      "content": "接下来我们就具体来看一下PMI的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 491.03,
+      "to": 494.19,
+      "sid": 217,
+      "location": 2,
+      "content": "在5月份呢中国官方的制造业PMI啊",
+      "music": 0.0
+    },
+    {
+      "from": 494.19,
+      "to": 496.87,
+      "sid": 218,
+      "location": 2,
+      "content": "是从4月份的50.3下滑到了50",
+      "music": 0.0
+    },
+    {
+      "from": 496.87,
+      "to": 499.72,
+      "sid": 219,
+      "location": 2,
+      "content": "虽然说没有跌落到50以下的收缩区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 499.72,
+      "to": 502.86,
+      "sid": 220,
+      "location": 2,
+      "content": "但是距离收缩区间已经仅仅是一步之遥了",
+      "music": 0.0
+    },
+    {
+      "from": 502.86,
+      "to": 504.28,
+      "sid": 221,
+      "location": 2,
+      "content": "而这样的一个下滑趋势啊",
+      "music": 0.0
+    },
+    {
+      "from": 504.28,
+      "to": 507.46,
+      "sid": 222,
+      "location": 2,
+      "content": "和巴克莱之前的预测也是相对比较吻合的",
+      "music": 0.0
+    },
+    {
+      "from": 507.46,
+      "to": 508.58,
+      "sid": 223,
+      "location": 2,
+      "content": "之所以下滑",
+      "music": 0.0
+    },
+    {
+      "from": 508.58,
+      "to": 511.78,
+      "sid": 224,
+      "location": 2,
+      "content": "主要呢还是受到了消费品以及和石油",
+      "music": 0.0
+    },
+    {
+      "from": 511.78,
+      "to": 513.95,
+      "sid": 225,
+      "location": 2,
+      "content": "相关部门和行业的影响",
+      "music": 0.0
+    },
+    {
+      "from": 513.95,
+      "to": 517.13,
+      "sid": 226,
+      "location": 2,
+      "content": "另一方面更多反映出口导向企业的",
+      "music": 0.0
+    },
+    {
+      "from": 517.13,
+      "to": 519.34,
+      "sid": 227,
+      "location": 2,
+      "content": "reading dog的制造业PMI显示啊",
+      "music": 0.0
+    },
+    {
+      "from": 519.34,
+      "to": 521.82,
+      "sid": 228,
+      "location": 2,
+      "content": "5月份呢仍然是51.8",
+      "music": 0.0
+    },
+    {
+      "from": 521.82,
+      "to": 524.599,
+      "sid": 229,
+      "location": 2,
+      "content": "这也是高于市场共识的同时",
+      "music": 0.0
+    },
+    {
+      "from": 524.599,
+      "to": 526.399,
+      "sid": 230,
+      "location": 2,
+      "content": "也仍然处在扩张区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 526.399,
+      "to": 530.079,
+      "sid": 231,
+      "location": 2,
+      "content": "而且仅仅比4月份52.2的5年最高值",
+      "music": 0.0
+    },
+    {
+      "from": 530.079,
+      "to": 531.43,
+      "sid": 232,
+      "location": 2,
+      "content": "有小幅的回撤",
+      "music": 0.0
+    },
+    {
+      "from": 531.43,
+      "to": 532.89,
+      "sid": 233,
+      "location": 2,
+      "content": "接下来呢巴克莱就说到",
+      "music": 0.0
+    },
+    {
+      "from": 532.89,
+      "to": 535.93,
+      "sid": 234,
+      "location": 2,
+      "content": "中国目前是处于一个a two speed economy",
+      "music": 0.0
+    },
+    {
+      "from": 535.93,
+      "to": 537.4,
+      "sid": 235,
+      "location": 2,
+      "content": "就是一个两速经济",
+      "music": 0.0
+    },
+    {
+      "from": 537.4,
+      "to": 539.58,
+      "sid": 236,
+      "location": 2,
+      "content": "而经济内部呢是bifurcated",
+      "music": 0.0
+    },
+    {
+      "from": 539.58,
+      "to": 541.54,
+      "sid": 237,
+      "location": 2,
+      "content": "也就是持续的分化",
+      "music": 0.0
+    },
+    {
+      "from": 541.54,
+      "to": 545.02,
+      "sid": 238,
+      "location": 2,
+      "content": "一方面呢是出口和高科技行业表现强劲",
+      "music": 0.0
+    },
+    {
+      "from": 545.02,
+      "to": 548.31,
+      "sid": 239,
+      "location": 2,
+      "content": "另一方面呢就是传统行业和总体的内需",
+      "music": 0.0
+    },
+    {
+      "from": 548.31,
+      "to": 549.41,
+      "sid": 240,
+      "location": 2,
+      "content": "仍然是疲软的",
+      "music": 0.0
+    },
+    {
+      "from": 549.41,
+      "to": 551.63,
+      "sid": 241,
+      "location": 2,
+      "content": "这里面他做了两部分的拆解啊",
+      "music": 0.0
+    },
+    {
+      "from": 551.63,
+      "to": 554.49,
+      "sid": 242,
+      "location": 2,
+      "content": "首先呢是相对表现比较差的部门啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.49,
+      "to": 556.11,
+      "sid": 243,
+      "location": 2,
+      "content": "这里面主要分成了两类",
+      "music": 0.0
+    },
+    {
+      "from": 556.11,
+      "to": 558.68,
+      "sid": 244,
+      "location": 2,
+      "content": "一类呢是和石油相关的部门",
+      "music": 0.0
+    },
+    {
+      "from": 558.68,
+      "to": 560.32,
+      "sid": 245,
+      "location": 2,
+      "content": "一类是消费品行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 560.32,
+      "to": 562.0,
+      "sid": 246,
+      "location": 2,
+      "content": "那首先呢和石油相关部门里面",
+      "music": 0.0
+    },
+    {
+      "from": 562.0,
+      "to": 564.4,
+      "sid": 247,
+      "location": 2,
+      "content": "就包含了一些像化工的纤维",
+      "music": 0.0
+    },
+    {
+      "from": 564.4,
+      "to": 566.66,
+      "sid": 248,
+      "location": 2,
+      "content": "包括了像塑料制品啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 566.66,
+      "to": 570.42,
+      "sid": 249,
+      "location": 2,
+      "content": "而目前油价上涨对于石油相关行业的冲击啊",
+      "music": 0.0
+    },
+    {
+      "from": 570.42,
+      "to": 572.14,
+      "sid": 250,
+      "location": 2,
+      "content": "不单单是在需求侧",
+      "music": 0.0
+    },
+    {
+      "from": 572.14,
+      "to": 574.599,
+      "sid": 251,
+      "location": 2,
+      "content": "在供给侧其实也有对应的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 574.599,
+      "to": 575.279,
+      "sid": 252,
+      "location": 2,
+      "content": "另一方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 575.279,
+      "to": 576.569,
+      "sid": 253,
+      "location": 2,
+      "content": "在消费品这块",
+      "music": 0.0
+    },
+    {
+      "from": 576.569,
+      "to": 580.869,
+      "sid": 254,
+      "location": 2,
+      "content": "5月份消费品的PMI是从之前的50.7啊",
+      "music": 0.0
+    },
+    {
+      "from": 580.869,
+      "to": 582.209,
+      "sid": 255,
+      "location": 2,
+      "content": "回落到了49.7",
+      "music": 0.0
+    },
+    {
+      "from": 582.209,
+      "to": 584.92,
+      "sid": 256,
+      "location": 2,
+      "content": "也就是从扩张区间回落到了收缩区间",
+      "music": 0.0
+    },
+    {
+      "from": 584.92,
+      "to": 587.52,
+      "sid": 257,
+      "location": 2,
+      "content": "那么指向的就是私人部门的消费",
+      "music": 0.0
+    },
+    {
+      "from": 587.52,
+      "to": 589.08,
+      "sid": 258,
+      "location": 2,
+      "content": "仍然是非常疲软的",
+      "music": 0.0
+    },
+    {
+      "from": 589.08,
+      "to": 591.22,
+      "sid": 259,
+      "location": 2,
+      "content": "那说完了表现比较差的行业",
+      "music": 0.0
+    },
+    {
+      "from": 591.22,
+      "to": 593.5,
+      "sid": 260,
+      "location": 2,
+      "content": "我们再来说一下表现比较好的行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 593.5,
+      "to": 597.21,
+      "sid": 261,
+      "location": 2,
+      "content": "显然呢都是和科技和制造业相关的",
+      "music": 0.0
+    },
+    {
+      "from": 597.21,
+      "to": 599.01,
+      "sid": 262,
+      "location": 2,
+      "content": "巴克莱呢是提到说",
+      "music": 0.0
+    },
+    {
+      "from": 599.01,
+      "to": 602.61,
+      "sid": 263,
+      "location": 2,
+      "content": "我们的高科技制造业以及装备制造业啊",
+      "music": 0.0
+    },
+    {
+      "from": 602.61,
+      "to": 605.71,
+      "sid": 264,
+      "location": 2,
+      "content": "仍然是处于一个持续扩张的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 605.71,
+      "to": 608.21,
+      "sid": 265,
+      "location": 2,
+      "content": "其中高科技制造业的PMI呢",
+      "music": 0.0
+    },
+    {
+      "from": 608.21,
+      "to": 610.87,
+      "sid": 266,
+      "location": 2,
+      "content": "在5月份是录得了52.9啊",
+      "music": 0.0
+    },
+    {
+      "from": 610.87,
+      "to": 613.15,
+      "sid": 267,
+      "location": 2,
+      "content": "这也是近20个月的新高",
+      "music": 0.0
+    },
+    {
+      "from": 613.15,
+      "to": 617.8,
+      "sid": 268,
+      "location": 2,
+      "content": "另外装备制造的PMI呢是来到了3年的新高",
+      "music": 0.0
+    },
+    {
+      "from": 617.8,
+      "to": 619.12,
+      "sid": 269,
+      "location": 2,
+      "content": "也就是36个月的新高",
+      "music": 0.0
+    },
+    {
+      "from": 619.12,
+      "to": 620.04,
+      "sid": 270,
+      "location": 2,
+      "content": "52.1",
+      "music": 0.0
+    },
+    {
+      "from": 620.04,
+      "to": 622.92,
+      "sid": 271,
+      "location": 2,
+      "content": "这两个数值也都进入到了扩张区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 622.92,
+      "to": 625.28,
+      "sid": 272,
+      "location": 2,
+      "content": "同时生产指数和新订单指数啊",
+      "music": 0.0
+    },
+    {
+      "from": 625.28,
+      "to": 627.76,
+      "sid": 273,
+      "location": 2,
+      "content": "这里面反映的主要是供和需两端啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.76,
+      "to": 631.68,
+      "sid": 274,
+      "location": 2,
+      "content": "在药品铁路造船航空航天",
+      "music": 0.0
+    },
+    {
+      "from": 631.68,
+      "to": 633.48,
+      "sid": 275,
+      "location": 2,
+      "content": "其他的交通运输设备",
+      "music": 0.0
+    },
+    {
+      "from": 633.48,
+      "to": 634.7,
+      "sid": 276,
+      "location": 2,
+      "content": "计算机通信",
+      "music": 0.0
+    },
+    {
+      "from": 634.7,
+      "to": 636.08,
+      "sid": 277,
+      "location": 2,
+      "content": "电子设备等等",
+      "music": 0.0
+    },
+    {
+      "from": 636.08,
+      "to": 639.43,
+      "sid": 278,
+      "location": 2,
+      "content": "这些领域都是在53以上的一个读数",
+      "music": 0.0
+    },
+    {
+      "from": 639.43,
+      "to": 641.27,
+      "sid": 279,
+      "location": 2,
+      "content": "也就意味着这些行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 641.27,
+      "to": 643.93,
+      "sid": 280,
+      "location": 2,
+      "content": "目前是处于一个供需两旺的状态",
+      "music": 0.0
+    },
+    {
+      "from": 643.93,
+      "to": 645.69,
+      "sid": 281,
+      "location": 2,
+      "content": "说完了行业之间的分化呢",
+      "music": 0.0
+    },
+    {
+      "from": 645.69,
+      "to": 648.18,
+      "sid": 282,
+      "location": 2,
+      "content": "我们再来看一下上下游之间的分化",
+      "music": 0.0
+    },
+    {
+      "from": 648.18,
+      "to": 650.18,
+      "sid": 283,
+      "location": 2,
+      "content": "特别是体现在利润维度啊",
+      "music": 0.0
+    },
+    {
+      "from": 650.18,
+      "to": 652.8,
+      "sid": 284,
+      "location": 2,
+      "content": "由于中东的冲突导致油价上涨呢",
+      "music": 0.0
+    },
+    {
+      "from": 652.8,
+      "to": 654.76,
+      "sid": 285,
+      "location": 2,
+      "content": "阿克莱看到的是上游企业",
+      "music": 0.0
+    },
+    {
+      "from": 654.76,
+      "to": 657.84,
+      "sid": 286,
+      "location": 2,
+      "content": "也特别是和能源和石化相关的领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 657.84,
+      "to": 660.68,
+      "sid": 287,
+      "location": 2,
+      "content": "他们的利润出现了明显的好转",
+      "music": 0.0
+    },
+    {
+      "from": 660.68,
+      "to": 664.06,
+      "sid": 288,
+      "location": 2,
+      "content": "而下游的企业反而面临的是更大的压力",
+      "music": 0.0
+    },
+    {
+      "from": 664.06,
+      "to": 666.86,
+      "sid": 289,
+      "location": 2,
+      "content": "特别是考虑到终端需求不足啊",
+      "music": 0.0
+    },
+    {
+      "from": 667.06,
+      "to": 669.34,
+      "sid": 290,
+      "location": 2,
+      "content": "从数据上其实也有类似的指向啊",
+      "music": 0.0
+    },
+    {
+      "from": 669.34,
+      "to": 670.26,
+      "sid": 291,
+      "location": 2,
+      "content": "比如说PPI呢",
+      "music": 0.0
+    },
+    {
+      "from": 670.26,
+      "to": 672.26,
+      "sid": 292,
+      "location": 2,
+      "content": "在4月份同比增长了2.8%",
+      "music": 0.0
+    },
+    {
+      "from": 672.26,
+      "to": 675.17,
+      "sid": 293,
+      "location": 2,
+      "content": "而CPI呢只增长了1.2%",
+      "music": 0.0
+    },
+    {
+      "from": 675.17,
+      "to": 679.13,
+      "sid": 294,
+      "location": 2,
+      "content": "也就意味着下游企业的利润受到了严重的挤压",
+      "music": 0.0
+    },
+    {
+      "from": 679.13,
+      "to": 682.0,
+      "sid": 295,
+      "location": 2,
+      "content": "那展望未来短期的中国经济啊",
+      "music": 0.0
+    },
+    {
+      "from": 682.0,
+      "to": 683.52,
+      "sid": 296,
+      "location": 2,
+      "content": "巴克莱呢是认为",
+      "music": 0.0
+    },
+    {
+      "from": 683.52,
+      "to": 687.679,
+      "sid": 297,
+      "location": 2,
+      "content": "2026年进出口仍然会占到GDP的30%",
+      "music": 0.0
+    },
+    {
+      "from": 687.679,
+      "to": 690.159,
+      "sid": 298,
+      "location": 2,
+      "content": "即便相较于2025年的32%",
+      "music": 0.0
+    },
+    {
+      "from": 690.159,
+      "to": 691.319,
+      "sid": 299,
+      "location": 2,
+      "content": "有所下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 691.319,
+      "to": 693.92,
+      "sid": 300,
+      "location": 2,
+      "content": "但仍然是经济增长的主要拉动项",
+      "music": 0.0
+    },
+    {
+      "from": 693.92,
+      "to": 696.0,
+      "sid": 301,
+      "location": 2,
+      "content": "而在出口当中做进一步的拆解啊",
+      "music": 0.0
+    },
+    {
+      "from": 696.0,
+      "to": 697.96,
+      "sid": 302,
+      "location": 2,
+      "content": "发现绿色科技和AI",
+      "music": 0.0
+    },
+    {
+      "from": 697.96,
+      "to": 700.93,
+      "sid": 303,
+      "location": 2,
+      "content": "相关领域的出口表现是最为强劲的",
+      "music": 0.0
+    },
+    {
+      "from": 700.93,
+      "to": 702.09,
+      "sid": 304,
+      "location": 2,
+      "content": "那作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 702.09,
+      "to": 703.57,
+      "sid": 305,
+      "location": 2,
+      "content": "我们再来看一下消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 703.57,
+      "to": 705.73,
+      "sid": 306,
+      "location": 2,
+      "content": "就像在开篇的时候给大家分享的",
+      "music": 0.0
+    },
+    {
+      "from": 705.73,
+      "to": 709.52,
+      "sid": 307,
+      "location": 2,
+      "content": "巴克莱呢是预计消费对于GDP的增长贡献啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.52,
+      "to": 711.62,
+      "sid": 308,
+      "location": 2,
+      "content": "在今年会低于50%",
+      "music": 0.0
+    },
+    {
+      "from": 711.62,
+      "to": 714.23,
+      "sid": 309,
+      "location": 2,
+      "content": "这里面主要有三个维度的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 714.23,
+      "to": 717.01,
+      "sid": 310,
+      "location": 2,
+      "content": "第一呢就是目前仍然在恶化的劳动力市场",
+      "music": 0.0
+    },
+    {
+      "from": 717.01,
+      "to": 720.06,
+      "sid": 311,
+      "location": 2,
+      "content": "特别是考虑到目前正在发生的产业链的外迁",
+      "music": 0.0
+    },
+    {
+      "from": 720.06,
+      "to": 721.38,
+      "sid": 312,
+      "location": 2,
+      "content": "以及中国的制造业",
+      "music": 0.0
+    },
+    {
+      "from": 721.38,
+      "to": 724.74,
+      "sid": 313,
+      "location": 2,
+      "content": "在逐渐的由劳动密集型转向资本密集型",
+      "music": 0.0
+    },
+    {
+      "from": 724.74,
+      "to": 728.88,
+      "sid": 314,
+      "location": 2,
+      "content": "也就是由一些手工业啊逐渐转向高科技的行业",
+      "music": 0.0
+    },
+    {
+      "from": 729.28,
+      "to": 730.56,
+      "sid": 315,
+      "location": 2,
+      "content": "那既然说到就业啊",
+      "music": 0.0
+    },
+    {
+      "from": 730.56,
+      "to": 733.16,
+      "sid": 316,
+      "location": 2,
+      "content": "也不得不提大家最近都关注的一个焦点啊",
+      "music": 0.0
+    },
+    {
+      "from": 735.04,
+      "to": 736.54,
+      "sid": 317,
+      "location": 2,
+      "content": "已经达到了3.2亿啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.54,
+      "to": 738.9,
+      "sid": 318,
+      "location": 2,
+      "content": "前段时间我记得我还给大家分享过一篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 738.9,
+      "to": 739.62,
+      "sid": 319,
+      "location": 2,
+      "content": "当时标题啊",
+      "music": 0.0
+    },
+    {
+      "from": 739.62,
+      "to": 741.86,
+      "sid": 320,
+      "location": 2,
+      "content": "我还用的是每三个中国打工人",
+      "music": 0.0
+    },
+    {
+      "from": 743.84,
+      "to": 746.32,
+      "sid": 321,
+      "location": 2,
+      "content": "那么现在的话这个标题也应该改一改了啊",
+      "music": 0.0
+    },
+    {
+      "from": 746.32,
+      "to": 748.48,
+      "sid": 322,
+      "location": 2,
+      "content": "几乎已经来到了每两个打工人",
+      "music": 0.0
+    },
+    {
+      "from": 750.4,
+      "to": 751.76,
+      "sid": 323,
+      "location": 2,
+      "content": "按照最新的数据",
+      "music": 0.0
+    },
+    {
+      "from": 751.76,
+      "to": 752.68,
+      "sid": 324,
+      "location": 2,
+      "content": "3.2亿人的话",
+      "music": 0.0
+    },
+    {
+      "from": 752.68,
+      "to": 755.54,
+      "sid": 325,
+      "location": 2,
+      "content": "现在有44%的中国就业人口",
+      "music": 0.0
+    },
+    {
+      "from": 757.48,
+      "to": 760.079,
+      "sid": 326,
+      "location": 2,
+      "content": "这是一个非常非常夸张的数据了",
+      "music": 0.0
+    },
+    {
+      "from": 760.12,
+      "to": 761.24,
+      "sid": 327,
+      "location": 2,
+      "content": "那回到这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 761.24,
+      "to": 762.36,
+      "sid": 328,
+      "location": 2,
+      "content": "我们继续往下说啊",
+      "music": 0.0
+    },
+    {
+      "from": 762.36,
+      "to": 766.17,
+      "sid": 329,
+      "location": 2,
+      "content": "除了刚才提到的就业影响消费",
+      "music": 0.0
+    },
+    {
+      "from": 766.61,
+      "to": 769.25,
+      "sid": 330,
+      "location": 2,
+      "content": "另外就是以旧换新的补贴退坡啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.25,
+      "to": 771.29,
+      "sid": 331,
+      "location": 2,
+      "content": "也是今年消费的一个拖累项",
+      "music": 0.0
+    },
+    {
+      "from": 771.29,
+      "to": 773.09,
+      "sid": 332,
+      "location": 2,
+      "content": "更何况去年还有高基数的效应",
+      "music": 0.0
+    },
+    {
+      "from": 773.09,
+      "to": 774.65,
+      "sid": 333,
+      "location": 2,
+      "content": "这是这篇研报没有提到的",
+      "music": 0.0
+    },
+    {
+      "from": 774.65,
+      "to": 777.13,
+      "sid": 334,
+      "location": 2,
+      "content": "但是呢他还是提到说今年2500亿",
+      "music": 0.0
+    },
+    {
+      "from": 777.13,
+      "to": 778.35,
+      "sid": 335,
+      "location": 2,
+      "content": "相较于去年的3000亿",
+      "music": 0.0
+    },
+    {
+      "from": 778.35,
+      "to": 780.53,
+      "sid": 336,
+      "location": 2,
+      "content": "这样一个补贴总金额的推坡",
+      "music": 0.0
+    },
+    {
+      "from": 780.53,
+      "to": 781.68,
+      "sid": 337,
+      "location": 2,
+      "content": "对于消费的拖累",
+      "music": 0.0
+    },
+    {
+      "from": 781.68,
+      "to": 785.26,
+      "sid": 338,
+      "location": 2,
+      "content": "第三呢就是目前房价仍然是在持续下行的",
+      "music": 0.0
+    },
+    {
+      "from": 785.26,
+      "to": 787.66,
+      "sid": 339,
+      "location": 2,
+      "content": "按照巴克莱这篇研报最后的一句表述啊",
+      "music": 0.0
+    },
+    {
+      "from": 787.66,
+      "to": 790.86,
+      "sid": 340,
+      "location": 2,
+      "content": "他们认为今年的房价呢还是会继续往下走",
+      "music": 0.0
+    },
+    {
+      "from": 790.86,
+      "to": 792.93,
+      "sid": 341,
+      "location": 2,
+      "content": "只不过呢会以一个更缓的速度",
+      "music": 0.0
+    },
+    {
+      "from": 792.93,
+      "to": 795.57,
+      "sid": 342,
+      "location": 2,
+      "content": "但是房价带来的这样一个负的财富效应",
+      "music": 0.0
+    },
+    {
+      "from": 795.57,
+      "to": 797.17,
+      "sid": 343,
+      "location": 2,
+      "content": "仍然会继续的拖累消费",
+      "music": 0.0
+    },
+    {
+      "from": 797.17,
+      "to": 798.36,
+      "sid": 344,
+      "location": 2,
+      "content": "在今年的一个表现",
+      "music": 0.0
+    },
+    {
+      "from": 798.36,
+      "to": 800.84,
+      "sid": 345,
+      "location": 2,
+      "content": "那最后呢我们就来看一下图一啊",
+      "music": 0.0
+    },
+    {
+      "from": 803.7,
+      "to": 805.2,
+      "sid": 346,
+      "location": 2,
+      "content": "制造业PMI的数据",
+      "music": 0.0
+    },
+    {
+      "from": 805.2,
+      "to": 806.76,
+      "sid": 347,
+      "location": 2,
+      "content": "大家可以看到在5月啊",
+      "music": 0.0
+    },
+    {
+      "from": 806.76,
+      "to": 807.96,
+      "sid": 348,
+      "location": 2,
+      "content": "无论是哪条线啊",
+      "music": 0.0
+    },
+    {
+      "from": 807.96,
+      "to": 810.21,
+      "sid": 349,
+      "location": 2,
+      "content": "都是在全线的转弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 813.13,
+      "to": 815.82,
+      "sid": 350,
+      "location": 2,
+      "content": "那么蓝色这条线呢是新订单啊",
+      "music": 0.0
+    },
+    {
+      "from": 815.82,
+      "to": 818.28,
+      "sid": 351,
+      "location": 2,
+      "content": "你可以看到新订单是大幅的回落",
+      "music": 0.0
+    },
+    {
+      "from": 818.28,
+      "to": 820.94,
+      "sid": 352,
+      "location": 2,
+      "content": "从扩张区间呢也转向了收缩区间",
+      "music": 0.0
+    },
+    {
+      "from": 820.94,
+      "to": 823.3,
+      "sid": 353,
+      "location": 2,
+      "content": "就是黑色的这条实线之下",
+      "music": 0.0
+    },
+    {
+      "from": 823.3,
+      "to": 824.98,
+      "sid": 354,
+      "location": 2,
+      "content": "另外呢就是就业啊",
+      "music": 0.0
+    },
+    {
+      "from": 824.98,
+      "to": 826.94,
+      "sid": 355,
+      "location": 2,
+      "content": "虽然大家看到这条棕色的线呢",
+      "music": 0.0
+    },
+    {
+      "from": 826.94,
+      "to": 828.62,
+      "sid": 356,
+      "location": 2,
+      "content": "诶他表现是最为平稳的",
+      "music": 0.0
+    },
+    {
+      "from": 828.62,
+      "to": 831.24,
+      "sid": 357,
+      "location": 2,
+      "content": "它在最近一段时间的下降幅度也是最小的",
+      "music": 0.0
+    },
+    {
+      "from": 831.24,
+      "to": 832.64,
+      "sid": 358,
+      "location": 2,
+      "content": "但是很遗憾啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.64,
+      "to": 835.6,
+      "sid": 359,
+      "location": 2,
+      "content": "这条线已经长期的在48的区间",
+      "music": 0.0
+    },
+    {
+      "from": 835.6,
+      "to": 838.069,
+      "sid": 360,
+      "location": 2,
+      "content": "也就是说它你可以理解为它是个环比值",
+      "music": 0.0
+    },
+    {
+      "from": 838.069,
+      "to": 840.589,
+      "sid": 361,
+      "location": 2,
+      "content": "就是只要它环比低于50",
+      "music": 0.0
+    },
+    {
+      "from": 840.589,
+      "to": 843.01,
+      "sid": 362,
+      "location": 2,
+      "content": "就是相较于上一个月更差的",
+      "music": 0.0
+    },
+    {
+      "from": 843.01,
+      "to": 846.42,
+      "sid": 363,
+      "location": 2,
+      "content": "那这样一个制造业PMI当中的就业子项的表现",
+      "music": 0.0
+    },
+    {
+      "from": 846.42,
+      "to": 849.58,
+      "sid": 364,
+      "location": 2,
+      "content": "其实和目前的就业环境也是遥相呼应的",
+      "music": 0.0
+    },
+    {
+      "from": 849.58,
+      "to": 850.66,
+      "sid": 365,
+      "location": 2,
+      "content": "我就不去展开了",
+      "music": 0.0
+    },
+    {
+      "from": 850.66,
+      "to": 851.5,
+      "sid": 366,
+      "location": 2,
+      "content": "这篇研报的最后呢",
+      "music": 0.0
+    },
+    {
+      "from": 851.5,
+      "to": 852.22,
+      "sid": 367,
+      "location": 2,
+      "content": "还有一小段",
+      "music": 0.0
+    },
+    {
+      "from": 852.22,
+      "to": 854.88,
+      "sid": 368,
+      "location": 2,
+      "content": "巴克莱对于即将公布的5月",
+      "music": 0.0
+    },
+    {
+      "from": 854.88,
+      "to": 856.7,
+      "sid": 369,
+      "location": 2,
+      "content": "各项数据的一个前瞻啊",
+      "music": 0.0
+    },
+    {
+      "from": 856.7,
+      "to": 858.38,
+      "sid": 370,
+      "location": 2,
+      "content": "当然其中出口的数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 858.38,
+      "to": 860.98,
+      "sid": 371,
+      "location": 2,
+      "content": "因为今天官方已经发布了相关数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 860.98,
+      "to": 862.1,
+      "sid": 372,
+      "location": 2,
+      "content": "我就不去多说了",
+      "music": 0.0
+    },
+    {
+      "from": 862.1,
+      "to": 864.65,
+      "sid": 373,
+      "location": 2,
+      "content": "主要说一下信贷和通胀的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 864.65,
+      "to": 866.37,
+      "sid": 374,
+      "location": 2,
+      "content": "特别是信贷的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 866.37,
+      "to": 868.05,
+      "sid": 375,
+      "location": 2,
+      "content": "你可以看到巴克莱目前的预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 868.05,
+      "to": 871.11,
+      "sid": 376,
+      "location": 2,
+      "content": "是他们认为5月份的社融增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 871.11,
+      "to": 874.06,
+      "sid": 377,
+      "location": 2,
+      "content": "将会来到一个历史新低",
+      "music": 0.0
+    },
+    {
+      "from": 874.06,
+      "to": 878.02,
+      "sid": 378,
+      "location": 2,
+      "content": "Hit a record low of seven point seven percent",
+      "music": 0.0
+    },
+    {
+      "from": 878.02,
+      "to": 880.74,
+      "sid": 379,
+      "location": 2,
+      "content": "就是7.7的一个同比增速",
+      "music": 0.0
+    },
+    {
+      "from": 880.74,
+      "to": 883.02,
+      "sid": 380,
+      "location": 2,
+      "content": "那也就意味着55月的社融增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.02,
+      "to": 885.8,
+      "sid": 381,
+      "location": 2,
+      "content": "将会录得一个有数据以来的最差值",
+      "music": 0.0
+    },
+    {
+      "from": 885.8,
+      "to": 889.99,
+      "sid": 382,
+      "location": 2,
+      "content": "而且是相较于4月份的7.8继续的回落",
+      "music": 0.0
+    },
+    {
+      "from": 890.39,
+      "to": 893.75,
+      "sid": 383,
+      "location": 2,
+      "content": "当然这里面主要的推动力啊仍然是在私营部门",
+      "music": 0.0
+    },
+    {
+      "from": 893.75,
+      "to": 895.079,
+      "sid": 384,
+      "location": 2,
+      "content": "特别是居民端",
+      "music": 0.0
+    },
+    {
+      "from": 895.079,
+      "to": 896.999,
+      "sid": 385,
+      "location": 2,
+      "content": "由于大家的信贷需求很弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 896.999,
+      "to": 897.879,
+      "sid": 386,
+      "location": 2,
+      "content": "即便买房呢",
+      "music": 0.0
+    },
+    {
+      "from": 897.879,
+      "to": 899.859,
+      "sid": 387,
+      "location": 2,
+      "content": "现在也是用公积金贷款为主",
+      "music": 0.0
+    },
+    {
+      "from": 899.859,
+      "to": 901.359,
+      "sid": 388,
+      "location": 2,
+      "content": "所以5月的社融数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 901.359,
+      "to": 902.59,
+      "sid": 389,
+      "location": 2,
+      "content": "大概率是比较拉跨的",
+      "music": 0.0
+    },
+    {
+      "from": 902.59,
+      "to": 904.79,
+      "sid": 390,
+      "location": 2,
+      "content": "但是好的一点呢是6月份啊",
+      "music": 0.0
+    },
+    {
+      "from": 904.79,
+      "to": 907.95,
+      "sid": 391,
+      "location": 2,
+      "content": "由于各个银行又要开始做信贷的冲量了啊",
+      "music": 0.0
+    },
+    {
+      "from": 907.95,
+      "to": 909.5,
+      "sid": 392,
+      "location": 2,
+      "content": "去完成半年度的业绩",
+      "music": 0.0
+    },
+    {
+      "from": 909.5,
+      "to": 911.34,
+      "sid": 393,
+      "location": 2,
+      "content": "所以6月份我们会看到一个",
+      "music": 0.0
+    },
+    {
+      "from": 911.34,
+      "to": 913.89,
+      "sid": 394,
+      "location": 2,
+      "content": "相对比较好的社融数据",
+      "music": 0.0
+    },
+    {
+      "from": 913.89,
+      "to": 915.37,
+      "sid": 395,
+      "location": 2,
+      "content": "那通胀方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 915.37,
+      "to": 916.29,
+      "sid": 396,
+      "location": 2,
+      "content": "对于CPI啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.29,
+      "to": 919.09,
+      "sid": 397,
+      "location": 2,
+      "content": "目前巴克莱仍然维持着CPI比较平",
+      "music": 0.0
+    },
+    {
+      "from": 919.09,
+      "to": 919.93,
+      "sid": 398,
+      "location": 2,
+      "content": "稳的一个判断啊",
+      "music": 0.0
+    },
+    {
+      "from": 919.93,
+      "to": 922.72,
+      "sid": 399,
+      "location": 2,
+      "content": "就是5月份同比增长还是1.2%",
+      "music": 0.0
+    },
+    {
+      "from": 922.72,
+      "to": 923.56,
+      "sid": 400,
+      "location": 2,
+      "content": "而PPPI的话",
+      "music": 0.0
+    },
+    {
+      "from": 923.56,
+      "to": 925.78,
+      "sid": 401,
+      "location": 2,
+      "content": "巴克莱给出了一个相对比较夸张的判断",
+      "music": 0.0
+    },
+    {
+      "from": 925.78,
+      "to": 928.9,
+      "sid": 402,
+      "location": 2,
+      "content": "认为5月份的PPPI还会继续的超预期上行",
+      "music": 0.0
+    },
+    {
+      "from": 928.9,
+      "to": 930.6,
+      "sid": 403,
+      "location": 2,
+      "content": "从4月份的2.8%",
+      "music": 0.0
+    },
+    {
+      "from": 930.6,
+      "to": 934.33,
+      "sid": 404,
+      "location": 2,
+      "content": "进一步走到4%的同比正增长好了",
+      "music": 0.0
+    },
+    {
+      "from": 934.33,
+      "to": 937.54,
+      "sid": 405,
+      "location": 2,
+      "content": "那以上呢就是这篇研报的全部内容了啊",
+      "music": 0.0
+    },
+    {
+      "from": 937.54,
+      "to": 938.22,
+      "sid": 406,
+      "location": 2,
+      "content": "还是老规矩",
+      "music": 0.0
+    },
+    {
+      "from": 938.22,
+      "to": 939.82,
+      "sid": 407,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣的",
+      "music": 0.0
+    },
+    {
+      "from": 939.82,
+      "to": 942.02,
+      "sid": 408,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 942.02,
+      "to": 943.24,
+      "sid": 409,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 943.24,
+      "to": 944.6,
+      "sid": 410,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 944.6,
+      "to": 946.02,
+      "sid": 411,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 946.02,
+      "to": 946.76,
+      "sid": 412,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

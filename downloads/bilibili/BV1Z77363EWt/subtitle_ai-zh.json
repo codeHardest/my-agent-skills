@@ -1,0 +1,4044 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.44,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.44,
+      "to": 2.24,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.24,
+      "to": 2.72,
+      "sid": 3,
+      "location": 2,
+      "content": "昨天呢",
+      "music": 0.0
+    },
+    {
+      "from": 2.72,
+      "to": 4.04,
+      "sid": 4,
+      "location": 2,
+      "content": "国家统计局是公布了",
+      "music": 0.0
+    },
+    {
+      "from": 4.04,
+      "to": 6.279,
+      "sid": 5,
+      "location": 2,
+      "content": "5月中国的各项经济数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 6.279,
+      "to": 8.439,
+      "sid": 6,
+      "location": 2,
+      "content": "如果说4月的各项经济数据",
+      "music": 0.0
+    },
+    {
+      "from": 8.439,
+      "to": 11.059,
+      "sid": 7,
+      "location": 2,
+      "content": "用拉完了这三个字来形容比较贴切呢",
+      "music": 0.0
+    },
+    {
+      "from": 11.059,
+      "to": 13.62,
+      "sid": 8,
+      "location": 2,
+      "content": "那5月只能用完犊子来形容了",
+      "music": 0.0
+    },
+    {
+      "from": 16.22,
+      "to": 18.92,
+      "sid": 9,
+      "location": 2,
+      "content": "频道内有些小伙伴可能在外需科技",
+      "music": 0.0
+    },
+    {
+      "from": 18.92,
+      "to": 20.0,
+      "sid": 10,
+      "location": 2,
+      "content": "甚至是外贸领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.59,
+      "to": 27.25,
+      "sid": 11,
+      "location": 2,
+      "content": "今天呢我就借着高盛和野村的两篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.25,
+      "to": 28.69,
+      "sid": 12,
+      "location": 2,
+      "content": "就是大家看到的这两篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.69,
+      "to": 30.77,
+      "sid": 13,
+      "location": 2,
+      "content": "来简单的和大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 30.77,
+      "to": 33.79,
+      "sid": 14,
+      "location": 2,
+      "content": "最新公布的5月中国各项经济数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 33.79,
+      "to": 35.59,
+      "sid": 15,
+      "location": 2,
+      "content": "在分享研报观点之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 35.59,
+      "to": 38.35,
+      "sid": 16,
+      "location": 2,
+      "content": "我还是先借用着推上大V的图",
+      "music": 0.0
+    },
+    {
+      "from": 38.35,
+      "to": 41.36,
+      "sid": 17,
+      "location": 2,
+      "content": "来和大家分享一下5月各项经济数据的表现",
+      "music": 0.0
+    },
+    {
+      "from": 41.36,
+      "to": 43.56,
+      "sid": 18,
+      "location": 2,
+      "content": "首先呢我们先看一下上面这张图当中",
+      "music": 0.0
+    },
+    {
+      "from": 43.56,
+      "to": 44.62,
+      "sid": 19,
+      "location": 2,
+      "content": "左边这三列啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.62,
+      "to": 46.44,
+      "sid": 20,
+      "location": 2,
+      "content": "分别对应的是我们的三驾马车",
+      "music": 0.0
+    },
+    {
+      "from": 46.44,
+      "to": 47.76,
+      "sid": 21,
+      "location": 2,
+      "content": "那工业增加值啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.76,
+      "to": 49.92,
+      "sid": 22,
+      "location": 2,
+      "content": "就公增呢在5月表现是稍好啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.92,
+      "to": 52.76,
+      "sid": 23,
+      "location": 2,
+      "content": "也是三驾马车当中唯一的超出预期的",
+      "music": 0.0
+    },
+    {
+      "from": 52.76,
+      "to": 54.56,
+      "sid": 24,
+      "location": 2,
+      "content": "从4月的4.1%呢",
+      "music": 0.0
+    },
+    {
+      "from": 54.56,
+      "to": 57.42,
+      "sid": 25,
+      "location": 2,
+      "content": "是上升至了5月份的4.5%啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.42,
+      "to": 59.62,
+      "sid": 26,
+      "location": 2,
+      "content": "工增表现好呢和出口强劲",
+      "music": 0.0
+    },
+    {
+      "from": 59.62,
+      "to": 61.58,
+      "sid": 27,
+      "location": 2,
+      "content": "其实是有非常直接的关联性的",
+      "music": 0.0
+    },
+    {
+      "from": 61.58,
+      "to": 63.82,
+      "sid": 28,
+      "location": 2,
+      "content": "但之所以公增增速是4.5%",
+      "music": 0.0
+    },
+    {
+      "from": 63.82,
+      "to": 66.18,
+      "sid": 29,
+      "location": 2,
+      "content": "不如出口的19.44%啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.18,
+      "to": 68.7,
+      "sid": 30,
+      "location": 2,
+      "content": "这里面主要原因呢还是因为出口大增",
+      "music": 0.0
+    },
+    {
+      "from": 68.7,
+      "to": 71.64,
+      "sid": 31,
+      "location": 2,
+      "content": "目前主要依靠的是价格的上行",
+      "music": 0.0
+    },
+    {
+      "from": 71.64,
+      "to": 75.28,
+      "sid": 32,
+      "location": 2,
+      "content": "特别是集成电路相关产品的价格的大幅上行啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.28,
+      "to": 76.4,
+      "sid": 33,
+      "location": 2,
+      "content": "包括了像芯片",
+      "music": 0.0
+    },
+    {
+      "from": 76.4,
+      "to": 77.9,
+      "sid": 34,
+      "location": 2,
+      "content": "包括了像存储等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 77.9,
+      "to": 80.32,
+      "sid": 35,
+      "location": 2,
+      "content": "那进口同样也是这样的一个逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 80.32,
+      "to": 81.82,
+      "sid": 36,
+      "location": 2,
+      "content": "我们看到同进口呢",
+      "music": 0.0
+    },
+    {
+      "from": 81.82,
+      "to": 83.99,
+      "sid": 37,
+      "location": 2,
+      "content": "是同比大增了27.4%",
+      "music": 0.0
+    },
+    {
+      "from": 83.99,
+      "to": 86.87,
+      "sid": 38,
+      "location": 2,
+      "content": "那其中集成电路相关产品的价格上行",
+      "music": 0.0
+    },
+    {
+      "from": 86.87,
+      "to": 88.19,
+      "sid": 39,
+      "location": 2,
+      "content": "就贡献了1/3",
+      "music": 0.0
+    },
+    {
+      "from": 88.19,
+      "to": 89.99,
+      "sid": 40,
+      "location": 2,
+      "content": "之前也已经单独做过一期影片",
+      "music": 0.0
+    },
+    {
+      "from": 89.99,
+      "to": 91.55,
+      "sid": 41,
+      "location": 2,
+      "content": "和大家分享了野村的研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 91.55,
+      "to": 92.91,
+      "sid": 42,
+      "location": 2,
+      "content": "这里面我就不再赘述了",
+      "music": 0.0
+    },
+    {
+      "from": 92.91,
+      "to": 94.61,
+      "sid": 43,
+      "location": 2,
+      "content": "那再来看一下内需啊",
+      "music": 0.0
+    },
+    {
+      "from": 94.61,
+      "to": 96.73,
+      "sid": 44,
+      "location": 2,
+      "content": "无论是设灵还是固头",
+      "music": 0.0
+    },
+    {
+      "from": 96.73,
+      "to": 99.56,
+      "sid": 45,
+      "location": 2,
+      "content": "整体呢都是在掉头向下的社龄呢",
+      "music": 0.0
+    },
+    {
+      "from": 99.56,
+      "to": 101.08,
+      "sid": 46,
+      "location": 2,
+      "content": "这次是最拉胯的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 101.08,
+      "to": 103.64,
+      "sid": 47,
+      "location": 2,
+      "content": "5月同比呢是下滑了0.6%",
+      "music": 0.0
+    },
+    {
+      "from": 103.64,
+      "to": 105.48,
+      "sid": 48,
+      "location": 2,
+      "content": "这是一个什么概念的数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 105.48,
+      "to": 108.77,
+      "sid": 49,
+      "location": 2,
+      "content": "我相信昨天大家看了新闻应该都有所了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 108.77,
+      "to": 110.53,
+      "sid": 50,
+      "location": 2,
+      "content": "我也给大家补充一张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.53,
+      "to": 114.37,
+      "sid": 51,
+      "location": 2,
+      "content": "这张图呢是我们社零增速的一个历史值啊",
+      "music": 0.0
+    },
+    {
+      "from": 114.37,
+      "to": 115.7,
+      "sid": 52,
+      "location": 2,
+      "content": "当然是一个同比增速",
+      "music": 0.0
+    },
+    {
+      "from": 115.7,
+      "to": 118.34,
+      "sid": 53,
+      "location": 2,
+      "content": "那大家可以看到最近的读数呢是负的",
+      "music": 0.0
+    },
+    {
+      "from": 118.34,
+      "to": 119.46,
+      "sid": 54,
+      "location": 2,
+      "content": "百0.6%",
+      "music": 0.0
+    },
+    {
+      "from": 119.46,
+      "to": 120.789,
+      "sid": 55,
+      "location": 2,
+      "content": "也就是我鼠标的这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 120.789,
+      "to": 124.549,
+      "sid": 56,
+      "location": 2,
+      "content": "那上一次为负呢是在2022年的12月",
+      "music": 0.0
+    },
+    {
+      "from": 124.549,
+      "to": 126.73,
+      "sid": 57,
+      "location": 2,
+      "content": "当时是负的1.8%之后",
+      "music": 0.0
+    },
+    {
+      "from": 126.73,
+      "to": 129.05,
+      "sid": 58,
+      "location": 2,
+      "content": "随着12月放开疫情管控的社龄",
+      "music": 0.0
+    },
+    {
+      "from": 129.05,
+      "to": 131.12,
+      "sid": 59,
+      "location": 2,
+      "content": "就再也没有同比负增长过了",
+      "music": 0.0
+    },
+    {
+      "from": 131.12,
+      "to": 132.68,
+      "sid": 60,
+      "location": 2,
+      "content": "这么差的数据也就不难理解",
+      "music": 0.0
+    },
+    {
+      "from": 134.8,
+      "to": 138.439,
+      "sid": 61,
+      "location": 2,
+      "content": "国家统计局首次公布了社会消费",
+      "music": 0.0
+    },
+    {
+      "from": 138.439,
+      "to": 141.399,
+      "sid": 62,
+      "location": 2,
+      "content": "商品和服务零售总额这个新指标啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.399,
+      "to": 142.359,
+      "sid": 63,
+      "location": 2,
+      "content": "我给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 144.659,
+      "to": 146.67,
+      "sid": 64,
+      "location": 2,
+      "content": "大家可以看一下我标黄的这句话",
+      "music": 0.0
+    },
+    {
+      "from": 148.23,
+      "to": 149.23,
+      "sid": 65,
+      "location": 2,
+      "content": "傅林辉是说",
+      "music": 0.0
+    },
+    {
+      "from": 149.23,
+      "to": 152.07,
+      "sid": 66,
+      "location": 2,
+      "content": "这次我们首次发布了社会消费",
+      "music": 0.0
+    },
+    {
+      "from": 152.07,
+      "to": 154.92,
+      "sid": 67,
+      "location": 2,
+      "content": "商品和服务零售总额这个指标",
+      "music": 0.0
+    },
+    {
+      "from": 154.92,
+      "to": 157.67,
+      "sid": 68,
+      "location": 2,
+      "content": "一到5月份增长了2.8%",
+      "music": 0.0
+    },
+    {
+      "from": 157.67,
+      "to": 158.99,
+      "sid": 69,
+      "location": 2,
+      "content": "那对于消费的情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 158.99,
+      "to": 160.09,
+      "sid": 70,
+      "location": 2,
+      "content": "我们要全面的看",
+      "music": 0.0
+    },
+    {
+      "from": 160.09,
+      "to": 162.95,
+      "sid": 71,
+      "location": 2,
+      "content": "不仅要看商品消费就是负增长",
+      "music": 0.0
+    },
+    {
+      "from": 162.95,
+      "to": 164.58,
+      "sid": 72,
+      "location": 2,
+      "content": "这部分我们还要看正增长",
+      "music": 0.0
+    },
+    {
+      "from": 164.58,
+      "to": 166.08,
+      "sid": 73,
+      "location": 2,
+      "content": "这部分也就是服务消费",
+      "music": 0.0
+    },
+    {
+      "from": 166.08,
+      "to": 169.48,
+      "sid": 74,
+      "location": 2,
+      "content": "那我国的商品和服务消费如果放到一起看",
+      "music": 0.0
+    },
+    {
+      "from": 169.48,
+      "to": 171.7,
+      "sid": 75,
+      "location": 2,
+      "content": "规模总体是继续扩大的",
+      "music": 0.0
+    },
+    {
+      "from": 171.7,
+      "to": 172.82,
+      "sid": 76,
+      "location": 2,
+      "content": "所以简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 172.82,
+      "to": 174.18,
+      "sid": 77,
+      "location": 2,
+      "content": "加上服务消费之后",
+      "music": 0.0
+    },
+    {
+      "from": 174.18,
+      "to": 174.9,
+      "sid": 78,
+      "location": 2,
+      "content": "一到5月份",
+      "music": 0.0
+    },
+    {
+      "from": 174.9,
+      "to": 177.74,
+      "sid": 79,
+      "location": 2,
+      "content": "我们的消费呢就从负的0.6个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 177.74,
+      "to": 179.68,
+      "sid": 80,
+      "location": 2,
+      "content": "变成了正的2.8个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 179.68,
+      "to": 180.74,
+      "sid": 81,
+      "location": 2,
+      "content": "当然我也理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 180.74,
+      "to": 183.02,
+      "sid": 82,
+      "location": 2,
+      "content": "就是决策层越来越重视服务消费了",
+      "music": 0.0
+    },
+    {
+      "from": 183.02,
+      "to": 186.58,
+      "sid": 83,
+      "location": 2,
+      "content": "毕竟服务业是吸纳就业的最大的蓄水池啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.58,
+      "to": 188.44,
+      "sid": 84,
+      "location": 2,
+      "content": "显然我们是要发展好服务业的",
+      "music": 0.0
+    },
+    {
+      "from": 188.44,
+      "to": 190.24,
+      "sid": 85,
+      "location": 2,
+      "content": "而且我们的服务消费本身呢",
+      "music": 0.0
+    },
+    {
+      "from": 190.24,
+      "to": 192.32,
+      "sid": 86,
+      "location": 2,
+      "content": "也是相较于发达国家偏低的",
+      "music": 0.0
+    },
+    {
+      "from": 192.32,
+      "to": 193.52,
+      "sid": 87,
+      "location": 2,
+      "content": "我们国家的服务消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.52,
+      "to": 195.42,
+      "sid": 88,
+      "location": 2,
+      "content": "确实也还有很大的增长空间",
+      "music": 0.0
+    },
+    {
+      "from": 195.42,
+      "to": 198.08,
+      "sid": 89,
+      "location": 2,
+      "content": "但是呢这个重视肯定不是",
+      "music": 0.0
+    },
+    {
+      "from": 198.08,
+      "to": 200.48,
+      "sid": 90,
+      "location": 2,
+      "content": "从今年5月才开始重视的",
+      "music": 0.0
+    },
+    {
+      "from": 200.48,
+      "to": 202.68,
+      "sid": 91,
+      "location": 2,
+      "content": "但统计口径呢可是实打实的",
+      "music": 0.0
+    },
+    {
+      "from": 202.68,
+      "to": 206.32,
+      "sid": 92,
+      "location": 2,
+      "content": "从5月的社龄同比增速转负之后才调整的",
+      "music": 0.0
+    },
+    {
+      "from": 206.32,
+      "to": 208.56,
+      "sid": 93,
+      "location": 2,
+      "content": "所以难免的让市场也有一些偏见啊",
+      "music": 0.0
+    },
+    {
+      "from": 208.56,
+      "to": 210.02,
+      "sid": 94,
+      "location": 2,
+      "content": "这个我就不去展开了",
+      "music": 0.0
+    },
+    {
+      "from": 210.02,
+      "to": 212.44,
+      "sid": 95,
+      "location": 2,
+      "content": "那再回来我们看一下大V这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.44,
+      "to": 213.4,
+      "sid": 96,
+      "location": 2,
+      "content": "看一下固投",
+      "music": 0.0
+    },
+    {
+      "from": 213.4,
+      "to": 216.32,
+      "sid": 97,
+      "location": 2,
+      "content": "一到5月呢是累计下降了4.1%",
+      "music": 0.0
+    },
+    {
+      "from": 216.32,
+      "to": 218.2,
+      "sid": 98,
+      "location": 2,
+      "content": "但是呢官方还是按照惯例啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.2,
+      "to": 220.46,
+      "sid": 99,
+      "location": 2,
+      "content": "没有单独去提供单月的同比变化",
+      "music": 0.0
+    },
+    {
+      "from": 220.46,
+      "to": 223.5,
+      "sid": 100,
+      "location": 2,
+      "content": "那一到4月当时是累计同比下降1.6%",
+      "music": 0.0
+    },
+    {
+      "from": 223.5,
+      "to": 224.98,
+      "sid": 101,
+      "location": 2,
+      "content": "而几家外资投行测算",
+      "music": 0.0
+    },
+    {
+      "from": 224.98,
+      "to": 227.58,
+      "sid": 102,
+      "location": 2,
+      "content": "4月单月呢同比都是超过了8%的",
+      "music": 0.0
+    },
+    {
+      "from": 227.58,
+      "to": 228.96,
+      "sid": 103,
+      "location": 2,
+      "content": "所以推演到5月呢",
+      "music": 0.0
+    },
+    {
+      "from": 228.96,
+      "to": 232.12,
+      "sid": 104,
+      "location": 2,
+      "content": "单月同比降幅应该是在10%以上",
+      "music": 0.0
+    },
+    {
+      "from": 232.12,
+      "to": 234.02,
+      "sid": 105,
+      "location": 2,
+      "content": "那继续分拆固投的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.02,
+      "to": 235.26,
+      "sid": 106,
+      "location": 2,
+      "content": "无论是制造业",
+      "music": 0.0
+    },
+    {
+      "from": 235.26,
+      "to": 236.4,
+      "sid": 107,
+      "location": 2,
+      "content": "基建还是房地产",
+      "music": 0.0
+    },
+    {
+      "from": 236.4,
+      "to": 240.0,
+      "sid": 108,
+      "location": 2,
+      "content": "你可以看到这个箭头指向啊都是掉头向下的",
+      "music": 0.0
+    },
+    {
+      "from": 240.0,
+      "to": 241.24,
+      "sid": 109,
+      "location": 2,
+      "content": "那如果我们去看绝对值啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.24,
+      "to": 244.22,
+      "sid": 110,
+      "location": 2,
+      "content": "目前只有基建投资还是累计同比正增长的",
+      "music": 0.0
+    },
+    {
+      "from": 244.22,
+      "to": 246.48,
+      "sid": 111,
+      "location": 2,
+      "content": "但基建的增速下滑也是最明显的啊",
+      "music": 0.0
+    },
+    {
+      "from": 246.48,
+      "to": 249.78,
+      "sid": 112,
+      "location": 2,
+      "content": "而制造业投资呢在5月已经转为同比负增长了",
+      "music": 0.0
+    },
+    {
+      "from": 249.78,
+      "to": 253.04,
+      "sid": 113,
+      "location": 2,
+      "content": "房地产投资呢更是继续的双位数的下滑",
+      "music": 0.0
+    },
+    {
+      "from": 253.04,
+      "to": 254.6,
+      "sid": 114,
+      "location": 2,
+      "content": "负的16.2%啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.6,
+      "to": 256.4,
+      "sid": 115,
+      "location": 2,
+      "content": "所以无论是社龄还是固投",
+      "music": 0.0
+    },
+    {
+      "from": 256.4,
+      "to": 259.72,
+      "sid": 116,
+      "location": 2,
+      "content": "和前几天公布的我们5月官方信贷数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 259.72,
+      "to": 260.779,
+      "sid": 117,
+      "location": 2,
+      "content": "都是可以对应上的",
+      "music": 0.0
+    },
+    {
+      "from": 260.779,
+      "to": 263.039,
+      "sid": 118,
+      "location": 2,
+      "content": "一方面呢私营部门信贷需求很弱",
+      "music": 0.0
+    },
+    {
+      "from": 263.039,
+      "to": 264.659,
+      "sid": 119,
+      "location": 2,
+      "content": "居民呢不贷款也不消费",
+      "music": 0.0
+    },
+    {
+      "from": 264.659,
+      "to": 266.359,
+      "sid": 120,
+      "location": 2,
+      "content": "企业是不贷款也不投资",
+      "music": 0.0
+    },
+    {
+      "from": 266.359,
+      "to": 269.88,
+      "sid": 121,
+      "location": 2,
+      "content": "另一方面呢政府债券发行速度也有所减缓啊",
+      "music": 0.0
+    },
+    {
+      "from": 269.88,
+      "to": 271.55,
+      "sid": 122,
+      "location": 2,
+      "content": "拖累了基建的投资",
+      "music": 0.0
+    },
+    {
+      "from": 271.55,
+      "to": 273.07,
+      "sid": 123,
+      "location": 2,
+      "content": "最后呢说一下物价",
+      "music": 0.0
+    },
+    {
+      "from": 273.07,
+      "to": 275.91,
+      "sid": 124,
+      "location": 2,
+      "content": "5月呢PPI继续大幅的超预期上行啊",
+      "music": 0.0
+    },
+    {
+      "from": 275.91,
+      "to": 278.03,
+      "sid": 125,
+      "location": 2,
+      "content": "已经来到了同比增长3.9%",
+      "music": 0.0
+    },
+    {
+      "from": 278.03,
+      "to": 279.94,
+      "sid": 126,
+      "location": 2,
+      "content": "当然主要是因为油价的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 279.94,
+      "to": 282.22,
+      "sid": 127,
+      "location": 2,
+      "content": "而另一边CPI呢还是波澜不惊的",
+      "music": 0.0
+    },
+    {
+      "from": 282.22,
+      "to": 284.4,
+      "sid": 128,
+      "location": 2,
+      "content": "1.2%和上个月是持平的",
+      "music": 0.0
+    },
+    {
+      "from": 284.4,
+      "to": 287.08,
+      "sid": 129,
+      "location": 2,
+      "content": "也就是说油价推动的输入性通胀呢",
+      "music": 0.0
+    },
+    {
+      "from": 290.16,
+      "to": 290.88,
+      "sid": 130,
+      "location": 2,
+      "content": "也很好理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.88,
+      "to": 292.26,
+      "sid": 131,
+      "location": 2,
+      "content": "就是有效需求不足",
+      "music": 0.0
+    },
+    {
+      "from": 292.26,
+      "to": 294.08,
+      "sid": 132,
+      "location": 2,
+      "content": "所以下游企业呢它不敢涨价",
+      "music": 0.0
+    },
+    {
+      "from": 294.08,
+      "to": 296.84,
+      "sid": 133,
+      "location": 2,
+      "content": "涨价呢就只能意味着它失去市场份额",
+      "music": 0.0
+    },
+    {
+      "from": 296.84,
+      "to": 299.54,
+      "sid": 134,
+      "location": 2,
+      "content": "但是呢面对上游原材料价格的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 299.54,
+      "to": 301.06,
+      "sid": 135,
+      "location": 2,
+      "content": "对利润的进一步压缩",
+      "music": 0.0
+    },
+    {
+      "from": 301.06,
+      "to": 304.48,
+      "sid": 136,
+      "location": 2,
+      "content": "下游企业恐怕只能选择继续的降薪",
+      "music": 0.0
+    },
+    {
+      "from": 304.48,
+      "to": 305.98,
+      "sid": 137,
+      "location": 2,
+      "content": "裁员和降本增效",
+      "music": 0.0
+    },
+    {
+      "from": 305.98,
+      "to": 307.42,
+      "sid": 138,
+      "location": 2,
+      "content": "那看完了这样的数据",
+      "music": 0.0
+    },
+    {
+      "from": 307.42,
+      "to": 308.78,
+      "sid": 139,
+      "location": 2,
+      "content": "我不知道大家有什么感想啊",
+      "music": 0.0
+    },
+    {
+      "from": 308.78,
+      "to": 311.23,
+      "sid": 140,
+      "location": 2,
+      "content": "我觉得如果我们恶意的回忆一下",
+      "music": 0.0
+    },
+    {
+      "from": 311.23,
+      "to": 314.87,
+      "sid": 141,
+      "location": 2,
+      "content": "官方在4月当时对一季度经济数据点评的时候",
+      "music": 0.0
+    },
+    {
+      "from": 314.87,
+      "to": 316.83,
+      "sid": 142,
+      "location": 2,
+      "content": "用词是实现良好开局",
+      "music": 0.0
+    },
+    {
+      "from": 316.83,
+      "to": 319.33,
+      "sid": 143,
+      "location": 2,
+      "content": "发展韧性和活力进一步彰显",
+      "music": 0.0
+    },
+    {
+      "from": 319.33,
+      "to": 322.67,
+      "sid": 144,
+      "location": 2,
+      "content": "以及主要宏观指标增速回升",
+      "music": 0.0
+    },
+    {
+      "from": 322.67,
+      "to": 325.63,
+      "sid": 145,
+      "location": 2,
+      "content": "我不知道决策层看到5月的经济数据之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 325.63,
+      "to": 328.55,
+      "sid": 146,
+      "location": 2,
+      "content": "是否认为当时对经济的判断是过于乐观了",
+      "music": 0.0
+    },
+    {
+      "from": 331.78,
+      "to": 333.54,
+      "sid": 147,
+      "location": 2,
+      "content": "再次向高质量发展",
+      "music": 0.0
+    },
+    {
+      "from": 333.54,
+      "to": 334.98,
+      "sid": 148,
+      "location": 2,
+      "content": "向心智生产力发展",
+      "music": 0.0
+    },
+    {
+      "from": 334.98,
+      "to": 337.74,
+      "sid": 149,
+      "location": 2,
+      "content": "去做这种政策的倾斜和回摆啊",
+      "music": 0.0
+    },
+    {
+      "from": 337.74,
+      "to": 340.12,
+      "sid": 150,
+      "location": 2,
+      "content": "现在看来是否有一丝丝的草率",
+      "music": 0.0
+    },
+    {
+      "from": 340.12,
+      "to": 342.72,
+      "sid": 151,
+      "location": 2,
+      "content": "我相信决策层呢应该也没有预料到",
+      "music": 0.0
+    },
+    {
+      "from": 342.72,
+      "to": 344.84,
+      "sid": 152,
+      "location": 2,
+      "content": "二季度经济转弱的速度这么快",
+      "music": 0.0
+    },
+    {
+      "from": 344.84,
+      "to": 347.93,
+      "sid": 153,
+      "location": 2,
+      "content": "即便预料到二季度的经济会转弱",
+      "music": 0.0
+    },
+    {
+      "from": 347.93,
+      "to": 349.93,
+      "sid": 154,
+      "location": 2,
+      "content": "特别是考虑到一季度经济表现",
+      "music": 0.0
+    },
+    {
+      "from": 349.93,
+      "to": 351.25,
+      "sid": 155,
+      "location": 2,
+      "content": "比较良好的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 351.25,
+      "to": 352.77,
+      "sid": 156,
+      "location": 2,
+      "content": "那我记得4月初啊",
+      "music": 0.0
+    },
+    {
+      "from": 352.77,
+      "to": 353.75,
+      "sid": 157,
+      "location": 2,
+      "content": "还有一种声音说",
+      "music": 0.0
+    },
+    {
+      "from": 353.75,
+      "to": 357.0,
+      "sid": 158,
+      "location": 2,
+      "content": "借着油价的上涨带动的这种输入性通胀啊",
+      "music": 0.0
+    },
+    {
+      "from": 357.0,
+      "to": 359.4,
+      "sid": 159,
+      "location": 2,
+      "content": "中国呢有望改善通胀预期",
+      "music": 0.0
+    },
+    {
+      "from": 359.4,
+      "to": 361.84,
+      "sid": 160,
+      "location": 2,
+      "content": "从而一鼓作气彻底走出通缩",
+      "music": 0.0
+    },
+    {
+      "from": 361.84,
+      "to": 363.32,
+      "sid": 161,
+      "location": 2,
+      "content": "但从目前的需求端",
+      "music": 0.0
+    },
+    {
+      "from": 363.32,
+      "to": 365.65,
+      "sid": 162,
+      "location": 2,
+      "content": "似乎我们完全看不到这样的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 365.65,
+      "to": 366.81,
+      "sid": 163,
+      "location": 2,
+      "content": "不过话说回来啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.81,
+      "to": 370.19,
+      "sid": 164,
+      "location": 2,
+      "content": "从去年的12月中央经济工作会议至今呢",
+      "music": 0.0
+    },
+    {
+      "from": 370.19,
+      "to": 371.45,
+      "sid": 165,
+      "location": 2,
+      "content": "决策层的表述来看",
+      "music": 0.0
+    },
+    {
+      "from": 371.45,
+      "to": 374.64,
+      "sid": 166,
+      "location": 2,
+      "content": "似乎今年很难有超预期的货币或者财政政策",
+      "music": 0.0
+    },
+    {
+      "from": 374.64,
+      "to": 378.16,
+      "sid": 167,
+      "location": 2,
+      "content": "决策层呢可能更希望把现有的政策用足用好",
+      "music": 0.0
+    },
+    {
+      "from": 378.16,
+      "to": 379.36,
+      "sid": 168,
+      "location": 2,
+      "content": "我举几个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 379.36,
+      "to": 381.32,
+      "sid": 169,
+      "location": 2,
+      "content": "来表达我这样的一个看法",
+      "music": 0.0
+    },
+    {
+      "from": 381.32,
+      "to": 383.84,
+      "sid": 170,
+      "location": 2,
+      "content": "首先呢就是如果我们回顾一下去年12月",
+      "music": 0.0
+    },
+    {
+      "from": 385.58,
+      "to": 387.42,
+      "sid": 171,
+      "location": 2,
+      "content": "当时的原话提到的是",
+      "music": 0.0
+    },
+    {
+      "from": 387.42,
+      "to": 390.82,
+      "sid": 172,
+      "location": 2,
+      "content": "发挥存量政策和增量政策的集成效应",
+      "music": 0.0
+    },
+    {
+      "from": 390.82,
+      "to": 393.38,
+      "sid": 173,
+      "location": 2,
+      "content": "这里面可能重点还是在存量方面",
+      "music": 0.0
+    },
+    {
+      "from": 393.38,
+      "to": 396.05,
+      "sid": 174,
+      "location": 2,
+      "content": "而且呢重提了跨周期调节",
+      "music": 0.0
+    },
+    {
+      "from": 396.05,
+      "to": 399.69,
+      "sid": 175,
+      "location": 2,
+      "content": "也就是说经也就是政策方面会比较的克制",
+      "music": 0.0
+    },
+    {
+      "from": 399.69,
+      "to": 401.93,
+      "sid": 176,
+      "location": 2,
+      "content": "再比如说今年3月两会定调",
+      "music": 0.0
+    },
+    {
+      "from": 406.4,
+      "to": 407.48,
+      "sid": 177,
+      "location": 2,
+      "content": "为调结构",
+      "music": 0.0
+    },
+    {
+      "from": 407.48,
+      "to": 408.16,
+      "sid": 178,
+      "location": 2,
+      "content": "防风险",
+      "music": 0.0
+    },
+    {
+      "from": 408.16,
+      "to": 409.44,
+      "sid": 179,
+      "location": 2,
+      "content": "促改革留出空间",
+      "music": 0.0
+    },
+    {
+      "from": 409.44,
+      "to": 411.88,
+      "sid": 180,
+      "location": 2,
+      "content": "为后期更好发展打牢基础",
+      "music": 0.0
+    },
+    {
+      "from": 411.88,
+      "to": 415.78,
+      "sid": 181,
+      "location": 2,
+      "content": "也就是不太急于在今年把经济增速推上去",
+      "music": 0.0
+    },
+    {
+      "from": 415.78,
+      "to": 416.64,
+      "sid": 182,
+      "location": 2,
+      "content": "那以及呢",
+      "music": 0.0
+    },
+    {
+      "from": 417.24,
+      "to": 419.88,
+      "sid": 183,
+      "location": 2,
+      "content": "同时还公布了今年特别国债和地方专项债啊",
+      "music": 0.0
+    },
+    {
+      "from": 419.88,
+      "to": 421.2,
+      "sid": 184,
+      "location": 2,
+      "content": "从这个总金额来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 421.2,
+      "to": 422.52,
+      "sid": 185,
+      "location": 2,
+      "content": "也都是低于预期的",
+      "music": 0.0
+    },
+    {
+      "from": 422.52,
+      "to": 423.56,
+      "sid": 186,
+      "location": 2,
+      "content": "都和去年持平",
+      "music": 0.0
+    },
+    {
+      "from": 423.56,
+      "to": 424.84,
+      "sid": 187,
+      "location": 2,
+      "content": "特别国债是1.3万亿",
+      "music": 0.0
+    },
+    {
+      "from": 424.84,
+      "to": 425.56,
+      "sid": 188,
+      "location": 2,
+      "content": "和去年持平",
+      "music": 0.0
+    },
+    {
+      "from": 425.56,
+      "to": 426.94,
+      "sid": 189,
+      "location": 2,
+      "content": "地方中央债是4.4万亿",
+      "music": 0.0
+    },
+    {
+      "from": 426.94,
+      "to": 428.34,
+      "sid": 190,
+      "location": 2,
+      "content": "也是和去年持平",
+      "music": 0.0
+    },
+    {
+      "from": 428.34,
+      "to": 429.44,
+      "sid": 191,
+      "location": 2,
+      "content": "又比如说啊",
+      "music": 0.0
+    },
+    {
+      "from": 431.94,
+      "to": 435.04,
+      "sid": 192,
+      "location": 2,
+      "content": "是有一句话叫做用足用好宏观政策",
+      "music": 0.0
+    },
+    {
+      "from": 436.56,
+      "to": 438.08,
+      "sid": 193,
+      "location": 2,
+      "content": "当时的原话叫做加紧实施",
+      "music": 0.0
+    },
+    {
+      "from": 438.08,
+      "to": 439.84,
+      "sid": 194,
+      "location": 2,
+      "content": "更加积极有为的宏观政策",
+      "music": 0.0
+    },
+    {
+      "from": 439.84,
+      "to": 442.289,
+      "sid": 195,
+      "location": 2,
+      "content": "显然这一次呢更加的弱化了",
+      "music": 0.0
+    },
+    {
+      "from": 442.289,
+      "to": 444.029,
+      "sid": 196,
+      "location": 2,
+      "content": "改题为用足和用恒",
+      "music": 0.0
+    },
+    {
+      "from": 444.029,
+      "to": 445.569,
+      "sid": 197,
+      "location": 2,
+      "content": "也就是把现有政策用好",
+      "music": 0.0
+    },
+    {
+      "from": 445.569,
+      "to": 447.279,
+      "sid": 198,
+      "location": 2,
+      "content": "而没有提到增量政策",
+      "music": 0.0
+    },
+    {
+      "from": 447.279,
+      "to": 448.959,
+      "sid": 199,
+      "location": 2,
+      "content": "同时呢对应这句话",
+      "music": 0.0
+    },
+    {
+      "from": 448.959,
+      "to": 450.779,
+      "sid": 200,
+      "location": 2,
+      "content": "我们看到货币和财政政策端",
+      "music": 0.0
+    },
+    {
+      "from": 450.779,
+      "to": 452.719,
+      "sid": 201,
+      "location": 2,
+      "content": "表述上都没有提及增量政策",
+      "music": 0.0
+    },
+    {
+      "from": 455.68,
+      "to": 458.14,
+      "sid": 202,
+      "location": 2,
+      "content": "改为了增强货币政策的前瞻性",
+      "music": 0.0
+    },
+    {
+      "from": 458.14,
+      "to": 458.72,
+      "sid": 203,
+      "location": 2,
+      "content": "灵活性",
+      "music": 0.0
+    },
+    {
+      "from": 458.72,
+      "to": 459.4,
+      "sid": 204,
+      "location": 2,
+      "content": "针对性啊",
+      "music": 0.0
+    },
+    {
+      "from": 460.64,
+      "to": 462.96,
+      "sid": 205,
+      "location": 2,
+      "content": "当然现在所有的外资投行基本上都预计",
+      "music": 0.0
+    },
+    {
+      "from": 464.97,
+      "to": 466.21,
+      "sid": 206,
+      "location": 2,
+      "content": "那财政政策这一段呢",
+      "music": 0.0
+    },
+    {
+      "from": 466.21,
+      "to": 469.05,
+      "sid": 207,
+      "location": 2,
+      "content": "之前提的是加快地方专项债和超长期",
+      "music": 0.0
+    },
+    {
+      "from": 469.05,
+      "to": 470.67,
+      "sid": 208,
+      "location": 2,
+      "content": "特别国债的发行使用",
+      "music": 0.0
+    },
+    {
+      "from": 470.67,
+      "to": 474.87,
+      "sid": 209,
+      "location": 2,
+      "content": "那么今年呢也改为了持续优化财政支出结构啊",
+      "music": 0.0
+    },
+    {
+      "from": 474.87,
+      "to": 475.79,
+      "sid": 210,
+      "location": 2,
+      "content": "就是调结构",
+      "music": 0.0
+    },
+    {
+      "from": 475.79,
+      "to": 477.42,
+      "sid": 211,
+      "location": 2,
+      "content": "而不是加总量",
+      "music": 0.0
+    },
+    {
+      "from": 477.42,
+      "to": 481.22,
+      "sid": 212,
+      "location": 2,
+      "content": "所以无论是宏观还是货币政策还是财政政策",
+      "music": 0.0
+    },
+    {
+      "from": 481.22,
+      "to": 483.01,
+      "sid": 213,
+      "location": 2,
+      "content": "目前的这些表述来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 483.01,
+      "to": 484.73,
+      "sid": 214,
+      "location": 2,
+      "content": "我个人都觉得似乎指向的是",
+      "music": 0.0
+    },
+    {
+      "from": 484.73,
+      "to": 487.77,
+      "sid": 215,
+      "location": 2,
+      "content": "决策层不太急于去出台增量政策",
+      "music": 0.0
+    },
+    {
+      "from": 487.77,
+      "to": 490.94,
+      "sid": 216,
+      "location": 2,
+      "content": "那再考虑到比如说今年的一项主要拖累呀",
+      "music": 0.0
+    },
+    {
+      "from": 490.94,
+      "to": 492.84,
+      "sid": 217,
+      "location": 2,
+      "content": "是政府债券发行节奏偏慢",
+      "music": 0.0
+    },
+    {
+      "from": 497.34,
+      "to": 498.58,
+      "sid": 218,
+      "location": 2,
+      "content": "我不知道大家还有没有印象啊",
+      "music": 0.0
+    },
+    {
+      "from": 498.58,
+      "to": 501.02,
+      "sid": 219,
+      "location": 2,
+      "content": "那这样一个新型政策性金融工具呢",
+      "music": 0.0
+    },
+    {
+      "from": 501.02,
+      "to": 502.02,
+      "sid": 220,
+      "location": 2,
+      "content": "我大概查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 502.02,
+      "to": 504.28,
+      "sid": 221,
+      "location": 2,
+      "content": "在上个月才刚刚开始有点动静",
+      "music": 0.0
+    },
+    {
+      "from": 504.28,
+      "to": 505.4,
+      "sid": 222,
+      "location": 2,
+      "content": "所以我个人认为呢",
+      "music": 0.0
+    },
+    {
+      "from": 506.48,
+      "to": 509.34,
+      "sid": 223,
+      "location": 2,
+      "content": "推出增量政策的可能性是非常之低的",
+      "music": 0.0
+    },
+    {
+      "from": 509.34,
+      "to": 512.2,
+      "sid": 224,
+      "location": 2,
+      "content": "其实呢一会给大家分享的高盛的研报当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 512.2,
+      "to": 515.04,
+      "sid": 225,
+      "location": 2,
+      "content": "虽然认为7月政治局会议的决策层",
+      "music": 0.0
+    },
+    {
+      "from": 515.04,
+      "to": 518.26,
+      "sid": 226,
+      "location": 2,
+      "content": "可能会加大宽松政策的这种表态",
+      "music": 0.0
+    },
+    {
+      "from": 518.26,
+      "to": 520.38,
+      "sid": 227,
+      "location": 2,
+      "content": "但是呢在真金白银方面",
+      "music": 0.0
+    },
+    {
+      "from": 520.38,
+      "to": 522.4,
+      "sid": 228,
+      "location": 2,
+      "content": "仍然可能是加快财政资金",
+      "music": 0.0
+    },
+    {
+      "from": 522.4,
+      "to": 523.74,
+      "sid": 229,
+      "location": 2,
+      "content": "特别是现有财政资金",
+      "music": 0.0
+    },
+    {
+      "from": 523.74,
+      "to": 525.62,
+      "sid": 230,
+      "location": 2,
+      "content": "现有财政资源的使用",
+      "music": 0.0
+    },
+    {
+      "from": 525.62,
+      "to": 527.75,
+      "sid": 231,
+      "location": 2,
+      "content": "而不是推出增量政策",
+      "music": 0.0
+    },
+    {
+      "from": 527.75,
+      "to": 530.02,
+      "sid": 232,
+      "location": 2,
+      "content": "那接下来呢我们就来看一下这两篇年报啊",
+      "music": 0.0
+    },
+    {
+      "from": 530.02,
+      "to": 531.34,
+      "sid": 233,
+      "location": 2,
+      "content": "呃这里面我简单说一下",
+      "music": 0.0
+    },
+    {
+      "from": 531.34,
+      "to": 533.14,
+      "sid": 234,
+      "location": 2,
+      "content": "高盛这篇研报呢是一篇宏观研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 533.14,
+      "to": 535.86,
+      "sid": 235,
+      "location": 2,
+      "content": "他把这几个维度的数据都做了一个梳理",
+      "music": 0.0
+    },
+    {
+      "from": 535.86,
+      "to": 538.94,
+      "sid": 236,
+      "location": 2,
+      "content": "然后呢由于5月份的消费数据确实表现太差了",
+      "music": 0.0
+    },
+    {
+      "from": 538.94,
+      "to": 541.3,
+      "sid": 237,
+      "location": 2,
+      "content": "所以我单独跟大家分享一篇野村的研报",
+      "music": 0.0
+    },
+    {
+      "from": 541.3,
+      "to": 544.43,
+      "sid": 238,
+      "location": 2,
+      "content": "来对后续的消费做一个展望啊",
+      "music": 0.0
+    },
+    {
+      "from": 544.43,
+      "to": 546.27,
+      "sid": 239,
+      "location": 2,
+      "content": "首先呢我们看一下高盛这篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 546.27,
+      "to": 549.16,
+      "sid": 240,
+      "location": 2,
+      "content": "前面摘要部分和一些具体的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 549.16,
+      "to": 550.52,
+      "sid": 241,
+      "location": 2,
+      "content": "我就不去赘述了",
+      "music": 0.0
+    },
+    {
+      "from": 550.52,
+      "to": 552.06,
+      "sid": 242,
+      "location": 2,
+      "content": "我们就来看一下正文部分",
+      "music": 0.0
+    },
+    {
+      "from": 552.06,
+      "to": 554.32,
+      "sid": 243,
+      "location": 2,
+      "content": "首先呢高盛是提到工增啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.32,
+      "to": 555.88,
+      "sid": 244,
+      "location": 2,
+      "content": "从4.5的增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 555.88,
+      "to": 559.06,
+      "sid": 245,
+      "location": 2,
+      "content": "从4.1的增速呢是回升到了4.5的增速",
+      "music": 0.0
+    },
+    {
+      "from": 559.06,
+      "to": 561.9,
+      "sid": 246,
+      "location": 2,
+      "content": "主要得益于的还是比较强劲的出口",
+      "music": 0.0
+    },
+    {
+      "from": 561.9,
+      "to": 564.46,
+      "sid": 247,
+      "location": 2,
+      "content": "而且这个出口呢是强于预期的出口",
+      "music": 0.0
+    },
+    {
+      "from": 564.46,
+      "to": 566.86,
+      "sid": 248,
+      "location": 2,
+      "content": "但是如果我们去看宫增内部啊",
+      "music": 0.0
+    },
+    {
+      "from": 566.86,
+      "to": 570.64,
+      "sid": 249,
+      "location": 2,
+      "content": "会发现和能源冲击相关的一些石油",
+      "music": 0.0
+    },
+    {
+      "from": 570.64,
+      "to": 574.02,
+      "sid": 250,
+      "location": 2,
+      "content": "化工品的出的生产是受到了比较大的冲击",
+      "music": 0.0
+    },
+    {
+      "from": 574.02,
+      "to": 575.88,
+      "sid": 251,
+      "location": 2,
+      "content": "而工增之所以能增加",
+      "music": 0.0
+    },
+    {
+      "from": 575.88,
+      "to": 578.12,
+      "sid": 252,
+      "location": 2,
+      "content": "主要呢还是得益于这几方面",
+      "music": 0.0
+    },
+    {
+      "from": 578.12,
+      "to": 581.1,
+      "sid": 253,
+      "location": 2,
+      "content": "包括了像呃计算机以及一些装备啊",
+      "music": 0.0
+    },
+    {
+      "from": 581.1,
+      "to": 582.88,
+      "sid": 254,
+      "location": 2,
+      "content": "还有就是电子器械",
+      "music": 0.0
+    },
+    {
+      "from": 582.88,
+      "to": 584.5,
+      "sid": 255,
+      "location": 2,
+      "content": "还有我们的公用事业啊",
+      "music": 0.0
+    },
+    {
+      "from": 584.5,
+      "to": 586.34,
+      "sid": 256,
+      "location": 2,
+      "content": "这三个维度可能相对表现比较好",
+      "music": 0.0
+    },
+    {
+      "from": 586.34,
+      "to": 586.94,
+      "sid": 257,
+      "location": 2,
+      "content": "这是好的",
+      "music": 0.0
+    },
+    {
+      "from": 586.94,
+      "to": 587.38,
+      "sid": 258,
+      "location": 2,
+      "content": "一方面",
+      "music": 0.0
+    },
+    {
+      "from": 587.38,
+      "to": 590.22,
+      "sid": 259,
+      "location": 2,
+      "content": "就是公增至少虽然说增速没有超过5%",
+      "music": 0.0
+    },
+    {
+      "from": 590.22,
+      "to": 592.05,
+      "sid": 260,
+      "location": 2,
+      "content": "但是呢还是表现不错的",
+      "music": 0.0
+    },
+    {
+      "from": 592.05,
+      "to": 594.57,
+      "sid": 261,
+      "location": 2,
+      "content": "那另外呢我们就来看一下绿色部分啊",
+      "music": 0.0
+    },
+    {
+      "from": 594.57,
+      "to": 596.17,
+      "sid": 262,
+      "location": 2,
+      "content": "就是固头和设灵",
+      "music": 0.0
+    },
+    {
+      "from": 596.17,
+      "to": 598.89,
+      "sid": 263,
+      "location": 2,
+      "content": "首先呢固投在高盛的测算",
+      "music": 0.0
+    },
+    {
+      "from": 598.89,
+      "to": 602.09,
+      "sid": 264,
+      "location": 2,
+      "content": "5月单月呢是同比下降了10.6%",
+      "music": 0.0
+    },
+    {
+      "from": 602.09,
+      "to": 604.53,
+      "sid": 265,
+      "location": 2,
+      "content": "相较于4月单月的负8.2%",
+      "music": 0.0
+    },
+    {
+      "from": 604.53,
+      "to": 606.49,
+      "sid": 266,
+      "location": 2,
+      "content": "是进一步的下降了",
+      "music": 0.0
+    },
+    {
+      "from": 606.49,
+      "to": 609.37,
+      "sid": 267,
+      "location": 2,
+      "content": "这里面高盛呢主要把固投的下降",
+      "music": 0.0
+    },
+    {
+      "from": 609.37,
+      "to": 610.93,
+      "sid": 268,
+      "location": 2,
+      "content": "归因于两个维度",
+      "music": 0.0
+    },
+    {
+      "from": 610.93,
+      "to": 612.83,
+      "sid": 269,
+      "location": 2,
+      "content": "第一个呢是极端天气的影响",
+      "music": 0.0
+    },
+    {
+      "from": 612.83,
+      "to": 615.25,
+      "sid": 270,
+      "location": 2,
+      "content": "第二是政府债券的发行速度偏慢啊",
+      "music": 0.0
+    },
+    {
+      "from": 615.25,
+      "to": 617.13,
+      "sid": 271,
+      "location": 2,
+      "content": "特别是在极端天气这块啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.13,
+      "to": 618.09,
+      "sid": 272,
+      "location": 2,
+      "content": "我是不太了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 618.09,
+      "to": 621.78,
+      "sid": 273,
+      "location": 2,
+      "content": "但是啊高盛是提到我们的中部和南部地区啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.78,
+      "to": 623.46,
+      "sid": 274,
+      "location": 2,
+      "content": "在5月份经历了大雨",
+      "music": 0.0
+    },
+    {
+      "from": 623.46,
+      "to": 626.52,
+      "sid": 275,
+      "location": 2,
+      "content": "同时呢北部地区是经历了一些热流吧",
+      "music": 0.0
+    },
+    {
+      "from": 626.52,
+      "to": 627.3,
+      "sid": 276,
+      "location": 2,
+      "content": "heat wave啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.3,
+      "to": 628.329,
+      "sid": 277,
+      "location": 2,
+      "content": "应该就是很热",
+      "music": 0.0
+    },
+    {
+      "from": 628.329,
+      "to": 631.629,
+      "sid": 278,
+      "location": 2,
+      "content": "最终呢导致我们看到固投的表现是低于预期的",
+      "music": 0.0
+    },
+    {
+      "from": 631.629,
+      "to": 633.869,
+      "sid": 279,
+      "location": 2,
+      "content": "那如果把顾头做进一步的拆分呢",
+      "music": 0.0
+    },
+    {
+      "from": 633.869,
+      "to": 635.26,
+      "sid": 280,
+      "location": 2,
+      "content": "无论是基建投资",
+      "music": 0.0
+    },
+    {
+      "from": 635.26,
+      "to": 637.42,
+      "sid": 281,
+      "location": 2,
+      "content": "房地产投资还是其他投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.42,
+      "to": 639.48,
+      "sid": 282,
+      "location": 2,
+      "content": "同比的降幅呢都是大于4月的",
+      "music": 0.0
+    },
+    {
+      "from": 639.48,
+      "to": 641.1,
+      "sid": 283,
+      "location": 2,
+      "content": "你可以看到分别是11.2",
+      "music": 0.0
+    },
+    {
+      "from": 641.1,
+      "to": 642.54,
+      "sid": 284,
+      "location": 2,
+      "content": "24.3和13.2",
+      "music": 0.0
+    },
+    {
+      "from": 642.54,
+      "to": 644.599,
+      "sid": 285,
+      "location": 2,
+      "content": "那4月当时是5.6",
+      "music": 0.0
+    },
+    {
+      "from": 644.599,
+      "to": 646.099,
+      "sid": 286,
+      "location": 2,
+      "content": "20.1和10.6啊",
+      "music": 0.0
+    },
+    {
+      "from": 646.099,
+      "to": 648.459,
+      "sid": 287,
+      "location": 2,
+      "content": "显然这样一个下行的压力是在加大的",
+      "music": 0.0
+    },
+    {
+      "from": 648.459,
+      "to": 651.25,
+      "sid": 288,
+      "location": 2,
+      "content": "而制造业投资呢表现相对比较好啊",
+      "music": 0.0
+    },
+    {
+      "from": 651.25,
+      "to": 653.61,
+      "sid": 289,
+      "location": 2,
+      "content": "从4月份负4.8%的跌幅呢",
+      "music": 0.0
+    },
+    {
+      "from": 653.61,
+      "to": 655.43,
+      "sid": 290,
+      "location": 2,
+      "content": "是收窄到了负的4.1%",
+      "music": 0.0
+    },
+    {
+      "from": 655.43,
+      "to": 657.06,
+      "sid": 291,
+      "location": 2,
+      "content": "但仍然是在下跌的",
+      "music": 0.0
+    },
+    {
+      "from": 657.06,
+      "to": 659.06,
+      "sid": 292,
+      "location": 2,
+      "content": "那接下来呢我们再来看一下社零啊",
+      "music": 0.0
+    },
+    {
+      "from": 659.06,
+      "to": 660.2,
+      "sid": 293,
+      "location": 2,
+      "content": "也就是消费这一端",
+      "music": 0.0
+    },
+    {
+      "from": 660.2,
+      "to": 662.74,
+      "sid": 294,
+      "location": 2,
+      "content": "5月份的消费呢是负的0.6%啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.74,
+      "to": 664.96,
+      "sid": 295,
+      "location": 2,
+      "content": "也是从4月的正0.2%",
+      "music": 0.0
+    },
+    {
+      "from": 664.96,
+      "to": 667.2,
+      "sid": 296,
+      "location": 2,
+      "content": "在2022年12月之后",
+      "music": 0.0
+    },
+    {
+      "from": 667.2,
+      "to": 669.81,
+      "sid": 297,
+      "location": 2,
+      "content": "首次跌落到了负值区间",
+      "music": 0.0
+    },
+    {
+      "from": 669.81,
+      "to": 673.17,
+      "sid": 298,
+      "location": 2,
+      "content": "那主要的拖累项呢是商品的消费",
+      "music": 0.0
+    },
+    {
+      "from": 673.17,
+      "to": 675.25,
+      "sid": 299,
+      "location": 2,
+      "content": "和餐饮的消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 675.25,
+      "to": 677.61,
+      "sid": 300,
+      "location": 2,
+      "content": "特别呢在商品消费这块",
+      "music": 0.0
+    },
+    {
+      "from": 677.61,
+      "to": 681.59,
+      "sid": 301,
+      "location": 2,
+      "content": "他是提到线下的商品消费是有比较明显的下降",
+      "music": 0.0
+    },
+    {
+      "from": 681.59,
+      "to": 683.23,
+      "sid": 302,
+      "location": 2,
+      "content": "4月是负的0.2%",
+      "music": 0.0
+    },
+    {
+      "from": 683.23,
+      "to": 686.23,
+      "sid": 303,
+      "location": 2,
+      "content": "而到5月份呢是的来到了负的2.4%",
+      "music": 0.0
+    },
+    {
+      "from": 686.23,
+      "to": 689.2,
+      "sid": 304,
+      "location": 2,
+      "content": "也就是线下的实体店的生意越来越难做了",
+      "music": 0.0
+    },
+    {
+      "from": 689.2,
+      "to": 692.0,
+      "sid": 305,
+      "location": 2,
+      "content": "而线上商品的消费呢是有所增长的",
+      "music": 0.0
+    },
+    {
+      "from": 692.0,
+      "to": 694.62,
+      "sid": 306,
+      "location": 2,
+      "content": "这个我的理解呢是得益于618的前置啊",
+      "music": 0.0
+    },
+    {
+      "from": 694.62,
+      "to": 696.62,
+      "sid": 307,
+      "location": 2,
+      "content": "那另外呢就是餐饮的消费",
+      "music": 0.0
+    },
+    {
+      "from": 696.62,
+      "to": 699.34,
+      "sid": 308,
+      "location": 2,
+      "content": "餐饮消费的收入呢在5月份也是有所下滑",
+      "music": 0.0
+    },
+    {
+      "from": 699.34,
+      "to": 701.0,
+      "sid": 309,
+      "location": 2,
+      "content": "从4月份同比增长2.2%",
+      "music": 0.0
+    },
+    {
+      "from": 701.0,
+      "to": 704.38,
+      "sid": 310,
+      "location": 2,
+      "content": "回落到了5月份指同比增长0.6%",
+      "music": 0.0
+    },
+    {
+      "from": 704.38,
+      "to": 705.26,
+      "sid": 311,
+      "location": 2,
+      "content": "除此之外的话",
+      "music": 0.0
+    },
+    {
+      "from": 705.26,
+      "to": 707.04,
+      "sid": 312,
+      "location": 2,
+      "content": "我们再来看一下几个大件啊",
+      "music": 0.0
+    },
+    {
+      "from": 707.04,
+      "to": 710.579,
+      "sid": 313,
+      "location": 2,
+      "content": "比如说针对于家用电器和一些电子商品啊",
+      "music": 0.0
+    },
+    {
+      "from": 710.579,
+      "to": 712.979,
+      "sid": 314,
+      "location": 2,
+      "content": "那么他们的5月表现是非常差的",
+      "music": 0.0
+    },
+    {
+      "from": 712.979,
+      "to": 715.219,
+      "sid": 315,
+      "location": 2,
+      "content": "当然这里面主要原因也是去年的高基数啊",
+      "music": 0.0
+    },
+    {
+      "from": 715.219,
+      "to": 716.679,
+      "sid": 316,
+      "location": 2,
+      "content": "以旧换新的补贴之下",
+      "music": 0.0
+    },
+    {
+      "from": 716.679,
+      "to": 718.36,
+      "sid": 317,
+      "location": 2,
+      "content": "去年5月确实表现不错",
+      "music": 0.0
+    },
+    {
+      "from": 718.36,
+      "to": 720.64,
+      "sid": 318,
+      "location": 2,
+      "content": "那么今年呢我们看到的是家用电器",
+      "music": 0.0
+    },
+    {
+      "from": 720.64,
+      "to": 722.06,
+      "sid": 319,
+      "location": 2,
+      "content": "负的15.6%",
+      "music": 0.0
+    },
+    {
+      "from": 722.06,
+      "to": 723.88,
+      "sid": 320,
+      "location": 2,
+      "content": "那相较于4月的负15.1%",
+      "music": 0.0
+    },
+    {
+      "from": 723.88,
+      "to": 725.48,
+      "sid": 321,
+      "location": 2,
+      "content": "进一步的往下走",
+      "music": 0.0
+    },
+    {
+      "from": 725.48,
+      "to": 727.86,
+      "sid": 322,
+      "location": 2,
+      "content": "同时呢电子装备类的产品啊",
+      "music": 0.0
+    },
+    {
+      "from": 727.86,
+      "to": 730.04,
+      "sid": 323,
+      "location": 2,
+      "content": "在4月份是同比增长6.2%",
+      "music": 0.0
+    },
+    {
+      "from": 730.04,
+      "to": 733.18,
+      "sid": 324,
+      "location": 2,
+      "content": "而到5月份呢是同比增长0.7%啊",
+      "music": 0.0
+    },
+    {
+      "from": 733.18,
+      "to": 734.4,
+      "sid": 325,
+      "location": 2,
+      "content": "那汽车的销售情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 734.4,
+      "to": 736.46,
+      "sid": 326,
+      "location": 2,
+      "content": "前天我也给大家做了研报去分享啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.46,
+      "to": 738.52,
+      "sid": 327,
+      "location": 2,
+      "content": "整体的表现是非常不尽如人意的",
+      "music": 0.0
+    },
+    {
+      "from": 738.52,
+      "to": 740.5,
+      "sid": 328,
+      "location": 2,
+      "content": "但是在我们的社零数据上",
+      "music": 0.0
+    },
+    {
+      "from": 740.5,
+      "to": 743.62,
+      "sid": 329,
+      "location": 2,
+      "content": "似乎还没有完全反映汽车销售的转弱",
+      "music": 0.0
+    },
+    {
+      "from": 743.62,
+      "to": 745.94,
+      "sid": 330,
+      "location": 2,
+      "content": "因为从第三方机构的数据来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 745.94,
+      "to": 747.2,
+      "sid": 331,
+      "location": 2,
+      "content": "应该是负的20%",
+      "music": 0.0
+    },
+    {
+      "from": 747.2,
+      "to": 748.76,
+      "sid": 332,
+      "location": 2,
+      "content": "而在官方数据里面",
+      "music": 0.0
+    },
+    {
+      "from": 748.76,
+      "to": 750.36,
+      "sid": 333,
+      "location": 2,
+      "content": "它只是负的16.1%啊",
+      "music": 0.0
+    },
+    {
+      "from": 750.36,
+      "to": 751.84,
+      "sid": 334,
+      "location": 2,
+      "content": "但即便是负16.1%",
+      "music": 0.0
+    },
+    {
+      "from": 751.84,
+      "to": 753.76,
+      "sid": 335,
+      "location": 2,
+      "content": "相较于4月的负15.3%",
+      "music": 0.0
+    },
+    {
+      "from": 753.76,
+      "to": 756.069,
+      "sid": 336,
+      "location": 2,
+      "content": "也是进一步的下滑了",
+      "music": 0.0
+    },
+    {
+      "from": 756.069,
+      "to": 757.349,
+      "sid": 337,
+      "location": 2,
+      "content": "针对于消费这块",
+      "music": 0.0
+    },
+    {
+      "from": 757.349,
+      "to": 758.949,
+      "sid": 338,
+      "location": 2,
+      "content": "还有一个值得关注的点呢",
+      "music": 0.0
+    },
+    {
+      "from": 758.949,
+      "to": 760.6,
+      "sid": 339,
+      "location": 2,
+      "content": "就是关于汽油",
+      "music": 0.0
+    },
+    {
+      "from": 760.6,
+      "to": 763.74,
+      "sid": 340,
+      "location": 2,
+      "content": "和一些其他油相关的产品的销量啊",
+      "music": 0.0
+    },
+    {
+      "from": 763.74,
+      "to": 767.06,
+      "sid": 341,
+      "location": 2,
+      "content": "在5月份呢是大幅的收缩了13%",
+      "music": 0.0
+    },
+    {
+      "from": 767.06,
+      "to": 770.67,
+      "sid": 342,
+      "location": 2,
+      "content": "虽然说这是在本地的汽油价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 770.67,
+      "to": 772.24,
+      "sid": 343,
+      "location": 2,
+      "content": "11%的背景之下",
+      "music": 0.0
+    },
+    {
+      "from": 772.24,
+      "to": 774.2,
+      "sid": 344,
+      "location": 2,
+      "content": "所以理论上来说是不难理解的",
+      "music": 0.0
+    },
+    {
+      "from": 774.2,
+      "to": 775.52,
+      "sid": 345,
+      "location": 2,
+      "content": "但是高盛呢是想说一点",
+      "music": 0.0
+    },
+    {
+      "from": 775.52,
+      "to": 778.64,
+      "sid": 346,
+      "location": 2,
+      "content": "就是对于石油相关的产品的消费",
+      "music": 0.0
+    },
+    {
+      "from": 778.64,
+      "to": 781.0,
+      "sid": 347,
+      "location": 2,
+      "content": "目前的弹性是比之前要更大了",
+      "music": 0.0
+    },
+    {
+      "from": 781.0,
+      "to": 783.26,
+      "sid": 348,
+      "location": 2,
+      "content": "也就是说原来油价上涨",
+      "music": 0.0
+    },
+    {
+      "from": 783.26,
+      "to": 785.66,
+      "sid": 349,
+      "location": 2,
+      "content": "但是大家还是不得不去消费的啊",
+      "music": 0.0
+    },
+    {
+      "from": 785.66,
+      "to": 787.46,
+      "sid": 350,
+      "location": 2,
+      "content": "比如说你开车你还是必须要用的",
+      "music": 0.0
+    },
+    {
+      "from": 787.46,
+      "to": 790.2,
+      "sid": 351,
+      "location": 2,
+      "content": "但是由于现在都是以电动车去替代了啊",
+      "music": 0.0
+    },
+    {
+      "from": 790.2,
+      "to": 790.88,
+      "sid": 352,
+      "location": 2,
+      "content": "就是电气化",
+      "music": 0.0
+    },
+    {
+      "from": 790.88,
+      "to": 792.58,
+      "sid": 353,
+      "location": 2,
+      "content": "包括一些公共交通的替代",
+      "music": 0.0
+    },
+    {
+      "from": 792.58,
+      "to": 795.73,
+      "sid": 354,
+      "location": 2,
+      "content": "所以目前看呢就是油价上涨以后",
+      "music": 0.0
+    },
+    {
+      "from": 795.73,
+      "to": 798.77,
+      "sid": 355,
+      "location": 2,
+      "content": "跟汽油和油相关的消费总量",
+      "music": 0.0
+    },
+    {
+      "from": 798.77,
+      "to": 800.47,
+      "sid": 356,
+      "location": 2,
+      "content": "是有非常明显的收缩了",
+      "music": 0.0
+    },
+    {
+      "from": 800.47,
+      "to": 802.94,
+      "sid": 357,
+      "location": 2,
+      "content": "也就是大家有更多的替代选择",
+      "music": 0.0
+    },
+    {
+      "from": 802.94,
+      "to": 806.0,
+      "sid": 358,
+      "location": 2,
+      "content": "那接下来呢我们再来看一下服务业产出指数啊",
+      "music": 0.0
+    },
+    {
+      "from": 806.0,
+      "to": 808.26,
+      "sid": 359,
+      "location": 2,
+      "content": "那这是相对表现比较好的一个数据",
+      "music": 0.0
+    },
+    {
+      "from": 808.26,
+      "to": 810.22,
+      "sid": 360,
+      "location": 2,
+      "content": "在4月份呢是挣的4.3%",
+      "music": 0.0
+    },
+    {
+      "from": 810.22,
+      "to": 811.78,
+      "sid": 361,
+      "location": 2,
+      "content": "到5月份是挣的4.4%",
+      "music": 0.0
+    },
+    {
+      "from": 811.78,
+      "to": 813.86,
+      "sid": 362,
+      "location": 2,
+      "content": "这也是为什么我们的统计局",
+      "music": 0.0
+    },
+    {
+      "from": 813.86,
+      "to": 817.24,
+      "sid": 363,
+      "location": 2,
+      "content": "要把服务消费和商品消费并到一起的原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 817.24,
+      "to": 819.56,
+      "sid": 364,
+      "location": 2,
+      "content": "因为这是目前唯一的一个亮点了",
+      "music": 0.0
+    },
+    {
+      "from": 819.56,
+      "to": 820.6,
+      "sid": 365,
+      "location": 2,
+      "content": "那么高盛认为呢",
+      "music": 0.0
+    },
+    {
+      "from": 820.6,
+      "to": 823.8,
+      "sid": 366,
+      "location": 2,
+      "content": "这样一个商品消费和服务消费之间的分叉",
+      "music": 0.0
+    },
+    {
+      "from": 823.8,
+      "to": 824.9,
+      "sid": 367,
+      "location": 2,
+      "content": "还是会持续的",
+      "music": 0.0
+    },
+    {
+      "from": 824.9,
+      "to": 825.7,
+      "sid": 368,
+      "location": 2,
+      "content": "也就是未来的话",
+      "music": 0.0
+    },
+    {
+      "from": 825.7,
+      "to": 829.18,
+      "sid": 369,
+      "location": 2,
+      "content": "服务消费还是会继续保持相对比较强劲的水平",
+      "music": 0.0
+    },
+    {
+      "from": 829.18,
+      "to": 831.94,
+      "sid": 370,
+      "location": 2,
+      "content": "那再往下呢我们就看一下房地产相关的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 831.94,
+      "to": 832.78,
+      "sid": 371,
+      "location": 2,
+      "content": "在5月份呢",
+      "music": 0.0
+    },
+    {
+      "from": 832.78,
+      "to": 835.16,
+      "sid": 372,
+      "location": 2,
+      "content": "房地产相关的数据表现都不是特别好",
+      "music": 0.0
+    },
+    {
+      "from": 835.16,
+      "to": 837.48,
+      "sid": 373,
+      "location": 2,
+      "content": "5月仍然是存在着下行的压力啊",
+      "music": 0.0
+    },
+    {
+      "from": 837.48,
+      "to": 839.06,
+      "sid": 374,
+      "location": 2,
+      "content": "比如说房地产销售这一端",
+      "music": 0.0
+    },
+    {
+      "from": 839.06,
+      "to": 840.58,
+      "sid": 375,
+      "location": 2,
+      "content": "可能大家关注度比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 840.58,
+      "to": 843.6,
+      "sid": 376,
+      "location": 2,
+      "content": "那么销售呢是同比下降了13.1%",
+      "music": 0.0
+    },
+    {
+      "from": 843.6,
+      "to": 845.36,
+      "sid": 377,
+      "location": 2,
+      "content": "相较于4月的9.5%啊",
+      "music": 0.0
+    },
+    {
+      "from": 845.36,
+      "to": 847.16,
+      "sid": 378,
+      "location": 2,
+      "content": "也是继续的往下走了",
+      "music": 0.0
+    },
+    {
+      "from": 847.16,
+      "to": 848.94,
+      "sid": 379,
+      "location": 2,
+      "content": "当然这是销售的面积啊",
+      "music": 0.0
+    },
+    {
+      "from": 848.94,
+      "to": 850.82,
+      "sid": 380,
+      "location": 2,
+      "content": "如果按照销售金额来看的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 850.82,
+      "to": 853.26,
+      "sid": 381,
+      "location": 2,
+      "content": "是从-7.7降到了-9.5啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.26,
+      "to": 855.91,
+      "sid": 382,
+      "location": 2,
+      "content": "是从-13.1和-9.5之间的对比来看",
+      "music": 0.0
+    },
+    {
+      "from": 855.91,
+      "to": 857.99,
+      "sid": 383,
+      "location": 2,
+      "content": "似乎目前的房地产销售啊",
+      "music": 0.0
+    },
+    {
+      "from": 857.99,
+      "to": 860.93,
+      "sid": 384,
+      "location": 2,
+      "content": "更多的在向核心区和核心城市靠拢",
+      "music": 0.0
+    },
+    {
+      "from": 860.93,
+      "to": 862.95,
+      "sid": 385,
+      "location": 2,
+      "content": "因此呢销售额的下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 862.95,
+      "to": 865.05,
+      "sid": 386,
+      "location": 2,
+      "content": "是小于销售面积的下降",
+      "music": 0.0
+    },
+    {
+      "from": 865.05,
+      "to": 867.45,
+      "sid": 387,
+      "location": 2,
+      "content": "再往下呢我们再来看一下房价的数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 867.45,
+      "to": 870.74,
+      "sid": 388,
+      "location": 2,
+      "content": "无论是统计局还是一些第三方机构的房价",
+      "music": 0.0
+    },
+    {
+      "from": 870.74,
+      "to": 871.26,
+      "sid": 389,
+      "location": 2,
+      "content": "数据呢",
+      "music": 0.0
+    },
+    {
+      "from": 871.26,
+      "to": 875.58,
+      "sid": 390,
+      "location": 2,
+      "content": "都显示出继续的房价在5月继续的下行压力啊",
+      "music": 0.0
+    },
+    {
+      "from": 875.58,
+      "to": 878.26,
+      "sid": 391,
+      "location": 2,
+      "content": "当然主要呢是集中在第一线城市啊",
+      "music": 0.0
+    },
+    {
+      "from": 878.26,
+      "to": 879.56,
+      "sid": 392,
+      "location": 2,
+      "content": "这个我就不去展开了",
+      "music": 0.0
+    },
+    {
+      "from": 879.56,
+      "to": 881.84,
+      "sid": 393,
+      "location": 2,
+      "content": "第六部分呢是关于失业数据的",
+      "music": 0.0
+    },
+    {
+      "from": 881.84,
+      "to": 885.0,
+      "sid": 394,
+      "location": 2,
+      "content": "官方公布的5月失业数据呢是5.1%",
+      "music": 0.0
+    },
+    {
+      "from": 885.0,
+      "to": 887.56,
+      "sid": 395,
+      "location": 2,
+      "content": "相较于4月的5.2%是有小幅的回落的",
+      "music": 0.0
+    },
+    {
+      "from": 887.56,
+      "to": 890.44,
+      "sid": 396,
+      "location": 2,
+      "content": "那高盛呢是经过了他们的季节性调整",
+      "music": 0.0
+    },
+    {
+      "from": 890.44,
+      "to": 893.08,
+      "sid": 397,
+      "location": 2,
+      "content": "发现5月份大概是5.2%的水平啊",
+      "music": 0.0
+    },
+    {
+      "from": 893.08,
+      "to": 894.66,
+      "sid": 398,
+      "location": 2,
+      "content": "就是不考虑季节性的因素",
+      "music": 0.0
+    },
+    {
+      "from": 894.66,
+      "to": 897.18,
+      "sid": 399,
+      "location": 2,
+      "content": "确实相较于4月的5.3%",
+      "music": 0.0
+    },
+    {
+      "from": 897.18,
+      "to": 897.86,
+      "sid": 400,
+      "location": 2,
+      "content": "也是实打实的",
+      "music": 0.0
+    },
+    {
+      "from": 897.86,
+      "to": 898.66,
+      "sid": 401,
+      "location": 2,
+      "content": "有下降的",
+      "music": 0.0
+    },
+    {
+      "from": 898.66,
+      "to": 900.62,
+      "sid": 402,
+      "location": 2,
+      "content": "但是呢核心城市也就30一个",
+      "music": 0.0
+    },
+    {
+      "from": 900.62,
+      "to": 903.66,
+      "sid": 403,
+      "location": 2,
+      "content": "重点城市的失业率数据呢仍然是比较平稳",
+      "music": 0.0
+    },
+    {
+      "from": 903.66,
+      "to": 905.44,
+      "sid": 404,
+      "location": 2,
+      "content": "并没有看到下降的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 905.44,
+      "to": 907.8,
+      "sid": 405,
+      "location": 2,
+      "content": "同时呢呃高盛也是再次提及啊",
+      "music": 0.0
+    },
+    {
+      "from": 907.8,
+      "to": 910.04,
+      "sid": 406,
+      "location": 2,
+      "content": "就是这个失业数据我们要辩证的去看",
+      "music": 0.0
+    },
+    {
+      "from": 910.04,
+      "to": 910.68,
+      "sid": 407,
+      "location": 2,
+      "content": "因为这个事",
+      "music": 0.0
+    },
+    {
+      "from": 910.68,
+      "to": 911.64,
+      "sid": 408,
+      "location": 2,
+      "content": "这个数据本身呢",
+      "music": 0.0
+    },
+    {
+      "from": 911.64,
+      "to": 914.32,
+      "sid": 409,
+      "location": 2,
+      "content": "是低估了我们真实的失业情况的啊",
+      "music": 0.0
+    },
+    {
+      "from": 916.34,
+      "to": 917.8,
+      "sid": 410,
+      "location": 2,
+      "content": "虽然在这篇研报当中没有提",
+      "music": 0.0
+    },
+    {
+      "from": 917.8,
+      "to": 920.22,
+      "sid": 411,
+      "location": 2,
+      "content": "但是这些人到底算失业还是算就业呢",
+      "music": 0.0
+    },
+    {
+      "from": 920.22,
+      "to": 921.94,
+      "sid": 412,
+      "location": 2,
+      "content": "显然在官方的统计口径里面",
+      "music": 0.0
+    },
+    {
+      "from": 921.94,
+      "to": 922.76,
+      "sid": 413,
+      "location": 2,
+      "content": "他们算就业",
+      "music": 0.0
+    },
+    {
+      "from": 922.76,
+      "to": 924.38,
+      "sid": 414,
+      "location": 2,
+      "content": "但实际上他们是失业的状态",
+      "music": 0.0
+    },
+    {
+      "from": 924.38,
+      "to": 926.58,
+      "sid": 415,
+      "location": 2,
+      "content": "或者说他们是很难就业的状态",
+      "music": 0.0
+    },
+    {
+      "from": 926.58,
+      "to": 927.9,
+      "sid": 416,
+      "location": 2,
+      "content": "同时呢高盛也是提到",
+      "music": 0.0
+    },
+    {
+      "from": 927.9,
+      "to": 931.64,
+      "sid": 417,
+      "location": 2,
+      "content": "他们还是非常谨慎的看待目前青年的失业情况",
+      "music": 0.0
+    },
+    {
+      "from": 931.64,
+      "to": 934.3,
+      "sid": 418,
+      "location": 2,
+      "content": "特别是考虑到目前国内的内需疲软",
+      "music": 0.0
+    },
+    {
+      "from": 934.3,
+      "to": 938.54,
+      "sid": 419,
+      "location": 2,
+      "content": "以及AI对于一些初级的入门白领岗位的替代啊",
+      "music": 0.0
+    },
+    {
+      "from": 938.54,
+      "to": 939.82,
+      "sid": 420,
+      "location": 2,
+      "content": "可能在未来一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 939.82,
+      "to": 943.17,
+      "sid": 421,
+      "location": 2,
+      "content": "仍然会对青年群体的就业造成一定的障碍",
+      "music": 0.0
+    },
+    {
+      "from": 943.17,
+      "to": 946.03,
+      "sid": 422,
+      "location": 2,
+      "content": "那最后呢就是对于5月经济数据的一个总结啊",
+      "music": 0.0
+    },
+    {
+      "from": 946.03,
+      "to": 947.329,
+      "sid": 423,
+      "location": 2,
+      "content": "在高盛看来呢",
+      "music": 0.0
+    },
+    {
+      "from": 947.329,
+      "to": 951.589,
+      "sid": 424,
+      "location": 2,
+      "content": "4月和5月相对低于市场预期的经济数据",
+      "music": 0.0
+    },
+    {
+      "from": 951.589,
+      "to": 954.77,
+      "sid": 425,
+      "location": 2,
+      "content": "主要是由于全球的能源冲击的影响",
+      "music": 0.0
+    },
+    {
+      "from": 954.77,
+      "to": 959.17,
+      "sid": 426,
+      "location": 2,
+      "content": "国内极端天气的影响以及a lack of significant policy",
+      "music": 0.0
+    },
+    {
+      "from": 959.17,
+      "to": 959.61,
+      "sid": 427,
+      "location": 2,
+      "content": "Easing",
+      "music": 0.0
+    },
+    {
+      "from": 959.61,
+      "to": 962.7,
+      "sid": 428,
+      "location": 2,
+      "content": "就是缺少广泛的刺激政策",
+      "music": 0.0
+    },
+    {
+      "from": 962.7,
+      "to": 964.76,
+      "sid": 429,
+      "location": 2,
+      "content": "那么这三方面共同造成的",
+      "music": 0.0
+    },
+    {
+      "from": 964.76,
+      "to": 967.61,
+      "sid": 430,
+      "location": 2,
+      "content": "因此呢高盛目前呢认为",
+      "music": 0.0
+    },
+    {
+      "from": 967.61,
+      "to": 971.4,
+      "sid": 431,
+      "location": 2,
+      "content": "他们之前对于二季度实际GDP增速的预期",
+      "music": 0.0
+    },
+    {
+      "from": 971.4,
+      "to": 973.66,
+      "sid": 432,
+      "location": 2,
+      "content": "存在显著的下行风险",
+      "music": 0.0
+    },
+    {
+      "from": 973.66,
+      "to": 975.68,
+      "sid": 433,
+      "location": 2,
+      "content": "we see a downside risk啊",
+      "music": 0.0
+    },
+    {
+      "from": 975.68,
+      "to": 977.88,
+      "sid": 434,
+      "location": 2,
+      "content": "不过呢高盛对于中国三季度的经济",
+      "music": 0.0
+    },
+    {
+      "from": 977.88,
+      "to": 980.12,
+      "sid": 435,
+      "location": 2,
+      "content": "相对来说是比较乐观的",
+      "music": 0.0
+    },
+    {
+      "from": 980.12,
+      "to": 982.04,
+      "sid": 436,
+      "location": 2,
+      "content": "因为一方面呢是中东的冲突啊",
+      "music": 0.0
+    },
+    {
+      "from": 982.04,
+      "to": 983.54,
+      "sid": 437,
+      "location": 2,
+      "content": "似乎是要告一段落了",
+      "music": 0.0
+    },
+    {
+      "from": 983.54,
+      "to": 985.8,
+      "sid": 438,
+      "location": 2,
+      "content": "再加上我们还有很多的政府债的额度啊",
+      "music": 0.0
+    },
+    {
+      "from": 985.8,
+      "to": 986.6,
+      "sid": 439,
+      "location": 2,
+      "content": "没有使用",
+      "music": 0.0
+    },
+    {
+      "from": 986.6,
+      "to": 988.34,
+      "sid": 440,
+      "location": 2,
+      "content": "所以在三季度和四季度",
+      "music": 0.0
+    },
+    {
+      "from": 988.34,
+      "to": 990.32,
+      "sid": 441,
+      "location": 2,
+      "content": "可能我们的决策层会加紧的",
+      "music": 0.0
+    },
+    {
+      "from": 990.32,
+      "to": 992.04,
+      "sid": 442,
+      "location": 2,
+      "content": "用足用好现有政策啊",
+      "music": 0.0
+    },
+    {
+      "from": 992.04,
+      "to": 993.98,
+      "sid": 443,
+      "location": 2,
+      "content": "去推动经济的继续增长",
+      "music": 0.0
+    },
+    {
+      "from": 993.98,
+      "to": 996.1,
+      "sid": 444,
+      "location": 2,
+      "content": "来稳定投资和经济的增长",
+      "music": 0.0
+    },
+    {
+      "from": 996.1,
+      "to": 998.98,
+      "sid": 445,
+      "location": 2,
+      "content": "但是呢我们可能看不到增量政策",
+      "music": 0.0
+    },
+    {
+      "from": 998.98,
+      "to": 1001.06,
+      "sid": 446,
+      "location": 2,
+      "content": "那以上呢就是高盛这篇研报的观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1001.06,
+      "to": 1003.18,
+      "sid": 447,
+      "location": 2,
+      "content": "后面几张图我就不给大家去赘述了",
+      "music": 0.0
+    },
+    {
+      "from": 1003.18,
+      "to": 1005.62,
+      "sid": 448,
+      "location": 2,
+      "content": "我们最后呢再来看一下野村这篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 1005.62,
+      "to": 1007.1,
+      "sid": 449,
+      "location": 2,
+      "content": "它是一篇消费行业的研报",
+      "music": 0.0
+    },
+    {
+      "from": 1007.1,
+      "to": 1007.94,
+      "sid": 450,
+      "location": 2,
+      "content": "再多说一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 1007.94,
+      "to": 1010.86,
+      "sid": 451,
+      "location": 2,
+      "content": "如果大家在5月和6月去参加了一些券商的投",
+      "music": 0.0
+    },
+    {
+      "from": 1010.86,
+      "to": 1011.7,
+      "sid": 452,
+      "location": 2,
+      "content": "资策略会啊",
+      "music": 0.0
+    },
+    {
+      "from": 1011.7,
+      "to": 1013.1,
+      "sid": 453,
+      "location": 2,
+      "content": "应该有一种感受",
+      "music": 0.0
+    },
+    {
+      "from": 1013.1,
+      "to": 1015.979,
+      "sid": 454,
+      "location": 2,
+      "content": "就是消费的首席都被边缘化了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1015.979,
+      "to": 1016.519,
+      "sid": 455,
+      "location": 2,
+      "content": "确实啊",
+      "music": 0.0
+    },
+    {
+      "from": 1016.519,
+      "to": 1017.939,
+      "sid": 456,
+      "location": 2,
+      "content": "因为现在的公募基金",
+      "music": 0.0
+    },
+    {
+      "from": 1017.939,
+      "to": 1019.959,
+      "sid": 457,
+      "location": 2,
+      "content": "大家基本上都不关注消费了",
+      "music": 0.0
+    },
+    {
+      "from": 1019.959,
+      "to": 1022.759,
+      "sid": 458,
+      "location": 2,
+      "content": "因为一方面呢是就业和收入没有明显的改善",
+      "music": 0.0
+    },
+    {
+      "from": 1022.759,
+      "to": 1025.44,
+      "sid": 459,
+      "location": 2,
+      "content": "另一方面呢房地产仍然是在持续的下行",
+      "music": 0.0
+    },
+    {
+      "from": 1025.44,
+      "to": 1027.82,
+      "sid": 460,
+      "location": 2,
+      "content": "可能只有个别城市相对表现好一点",
+      "music": 0.0
+    },
+    {
+      "from": 1027.82,
+      "to": 1030.12,
+      "sid": 461,
+      "location": 2,
+      "content": "所以消费的所有的支撑因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 1030.12,
+      "to": 1031.24,
+      "sid": 462,
+      "location": 2,
+      "content": "目前都不存在",
+      "music": 0.0
+    },
+    {
+      "from": 1031.24,
+      "to": 1033.82,
+      "sid": 463,
+      "location": 2,
+      "content": "那野村的这篇消费行业的研报呢",
+      "music": 0.0
+    },
+    {
+      "from": 1033.82,
+      "to": 1035.78,
+      "sid": 464,
+      "location": 2,
+      "content": "大概也表达了这样一个观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1035.78,
+      "to": 1038.08,
+      "sid": 465,
+      "location": 2,
+      "content": "你可以看到在标题特别是副标题这里面",
+      "music": 0.0
+    },
+    {
+      "from": 1038.08,
+      "to": 1038.92,
+      "sid": 466,
+      "location": 2,
+      "content": "他加了一句话",
+      "music": 0.0
+    },
+    {
+      "from": 1038.92,
+      "to": 1042.309,
+      "sid": 467,
+      "location": 2,
+      "content": "叫not turn around the signal of the sector yet",
+      "music": 0.0
+    },
+    {
+      "from": 1042.309,
+      "to": 1047.04,
+      "sid": 468,
+      "location": 2,
+      "content": "就是目前来看消费行业没有任何拐点的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 1047.04,
+      "to": 1048.9,
+      "sid": 469,
+      "location": 2,
+      "content": "那具体的数据呢我就不给大家说了",
+      "music": 0.0
+    },
+    {
+      "from": 1048.9,
+      "to": 1051.75,
+      "sid": 470,
+      "location": 2,
+      "content": "我主要说一下野村这篇研报当中的核心观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1051.75,
+      "to": 1053.21,
+      "sid": 471,
+      "location": 2,
+      "content": "也算呢是说极",
+      "music": 0.0
+    },
+    {
+      "from": 1053.21,
+      "to": 1056.34,
+      "sid": 472,
+      "location": 2,
+      "content": "尽管我们在5月看到的这个社零数据比较差",
+      "music": 0.0
+    },
+    {
+      "from": 1056.34,
+      "to": 1058.5,
+      "sid": 473,
+      "location": 2,
+      "content": "可以归因于去年的高基数",
+      "music": 0.0
+    },
+    {
+      "from": 1058.5,
+      "to": 1060.38,
+      "sid": 474,
+      "location": 2,
+      "content": "以及今年的一些极端天气啊",
+      "music": 0.0
+    },
+    {
+      "from": 1060.38,
+      "to": 1063.07,
+      "sid": 475,
+      "location": 2,
+      "content": "就是一些高温导致大家不愿意出去消费",
+      "music": 0.0
+    },
+    {
+      "from": 1063.07,
+      "to": 1064.83,
+      "sid": 476,
+      "location": 2,
+      "content": "但是呢他们认为",
+      "music": 0.0
+    },
+    {
+      "from": 1064.83,
+      "to": 1068.21,
+      "sid": 477,
+      "location": 2,
+      "content": "5月份的数据还是显示了一个广泛意义上的",
+      "music": 0.0
+    },
+    {
+      "from": 1068.21,
+      "to": 1069.72,
+      "sid": 478,
+      "location": 2,
+      "content": "消费行业的低迷",
+      "music": 0.0
+    },
+    {
+      "from": 1069.72,
+      "to": 1072.16,
+      "sid": 479,
+      "location": 2,
+      "content": "那么野村呢是归因为了三个原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 1072.16,
+      "to": 1073.56,
+      "sid": 480,
+      "location": 2,
+      "content": "第一是在消费领域啊",
+      "music": 0.0
+    },
+    {
+      "from": 1073.56,
+      "to": 1076.52,
+      "sid": 481,
+      "location": 2,
+      "content": "没有看到任何广泛意义上的政策刺激",
+      "music": 0.0
+    },
+    {
+      "from": 1076.52,
+      "to": 1078.05,
+      "sid": 482,
+      "location": 2,
+      "content": "特别是在需求端的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 1078.05,
+      "to": 1080.49,
+      "sid": 483,
+      "location": 2,
+      "content": "第二呢是房价目前仍然没有见底",
+      "music": 0.0
+    },
+    {
+      "from": 1080.49,
+      "to": 1083.6,
+      "sid": 484,
+      "location": 2,
+      "content": "所以他的财富效应仍然是在拖累着消费",
+      "music": 0.0
+    },
+    {
+      "from": 1083.6,
+      "to": 1086.64,
+      "sid": 485,
+      "location": 2,
+      "content": "第三呢是AI驱动的股票价格的上涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 1086.64,
+      "to": 1089.86,
+      "sid": 486,
+      "location": 2,
+      "content": "对于消费的传导作用是比较有限的",
+      "music": 0.0
+    },
+    {
+      "from": 1089.86,
+      "to": 1092.52,
+      "sid": 487,
+      "location": 2,
+      "content": "所以综合以上的原因以及当下就业",
+      "music": 0.0
+    },
+    {
+      "from": 1092.52,
+      "to": 1094.26,
+      "sid": 488,
+      "location": 2,
+      "content": "消费和房地产的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1094.26,
+      "to": 1096.66,
+      "sid": 489,
+      "location": 2,
+      "content": "野村认为消费的sentiment",
+      "music": 0.0
+    },
+    {
+      "from": 1096.66,
+      "to": 1098.12,
+      "sid": 490,
+      "location": 2,
+      "content": "消费的情绪啊",
+      "music": 0.0
+    },
+    {
+      "from": 1098.12,
+      "to": 1100.66,
+      "sid": 491,
+      "location": 2,
+      "content": "Will remains sluggish in the near term",
+      "music": 0.0
+    },
+    {
+      "from": 1100.66,
+      "to": 1102.9,
+      "sid": 492,
+      "location": 2,
+      "content": "就是在短期内是看不到拐点的",
+      "music": 0.0
+    },
+    {
+      "from": 1102.9,
+      "to": 1105.11,
+      "sid": 493,
+      "location": 2,
+      "content": "仍然会延续着拉胯的状态",
+      "music": 0.0
+    },
+    {
+      "from": 1105.11,
+      "to": 1105.65,
+      "sid": 494,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 1105.65,
+      "to": 1108.75,
+      "sid": 495,
+      "location": 2,
+      "content": "那今天就简单的借着野村和高盛这两篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 1108.75,
+      "to": 1109.91,
+      "sid": 496,
+      "location": 2,
+      "content": "和大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 1109.91,
+      "to": 1113.05,
+      "sid": 497,
+      "location": 2,
+      "content": "昨天公布的官方5月经济数据的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1113.05,
+      "to": 1113.93,
+      "sid": 498,
+      "location": 2,
+      "content": "还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 1113.93,
+      "to": 1115.57,
+      "sid": 499,
+      "location": 2,
+      "content": "如果大家对这两篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 1115.57,
+      "to": 1117.29,
+      "sid": 500,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中",
+      "music": 0.0
+    },
+    {
+      "from": 1117.29,
+      "to": 1118.91,
+      "sid": 501,
+      "location": 2,
+      "content": "去获取谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 1118.91,
+      "to": 1120.25,
+      "sid": 502,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 1120.25,
+      "to": 1121.73,
+      "sid": 503,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1121.73,
+      "to": 1122.44,
+      "sid": 504,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}
