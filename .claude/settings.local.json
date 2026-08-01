@@ -224,6 +224,7 @@
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" P:/AI/my-agent-skills/.claude/skills/video-summarizer/scripts/update_catalog.py \"P:/AI/my-agent-skills/downloads/bilibili/BV16LV86DEu3/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" P:/AI/my-agent-skills/.claude/skills/video-summarizer/scripts/generate_summary.py \"P:/AI/my-agent-skills/downloads/bilibili/BV1NHJF6oE8m/transcript.txt\" \"P:/AI/my-agent-skills/downloads/bilibili/BV1NHJF6oE8m/summary.md\" --title \"【深度】过去三年中国行业谁在偷偷赚钱，谁在快速衰落？62分钟无广纯享大合集！\" --url \"https://www.bilibili.com/video/BV1NHJF6oE8m\" --duration 3713 --pubdate \"2026-06-19\")",
       "Bash(\"C:\\\\Users\\\\chandlernie\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" P:/AI/my-agent-skills/.claude/skills/video-summarizer/scripts/update_catalog.py \"P:/AI/my-agent-skills/downloads/bilibili/BV1NHJF6oE8m/summary.md\" \"P:/AI/my-agent-skills/downloads/bilibili/catalog.md\")"
+      "Bash(source:*)"
     ]
   }
 }
