@@ -1,0 +1,3580 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.6,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.6,
+      "to": 1.38,
+      "sid": 2,
+      "location": 2,
+      "content": "我是小金",
+      "music": 0.0
+    },
+    {
+      "from": 1.38,
+      "to": 3.32,
+      "sid": 3,
+      "location": 2,
+      "content": "最近网上经常有人在说",
+      "music": 0.0
+    },
+    {
+      "from": 3.32,
+      "to": 4.98,
+      "sid": 4,
+      "location": 2,
+      "content": "日本快不行了",
+      "music": 0.0
+    },
+    {
+      "from": 4.98,
+      "to": 6.7,
+      "sid": 5,
+      "location": 2,
+      "content": "日元越来越便宜",
+      "music": 0.0
+    },
+    {
+      "from": 6.7,
+      "to": 8.29,
+      "sid": 6,
+      "location": 2,
+      "content": "东西越来越贵",
+      "music": 0.0
+    },
+    {
+      "from": 8.29,
+      "to": 9.93,
+      "sid": 7,
+      "location": 2,
+      "content": "老人越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 9.93,
+      "to": 11.77,
+      "sid": 8,
+      "location": 2,
+      "content": "外国人越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 11.77,
+      "to": 15.55,
+      "sid": 9,
+      "location": 2,
+      "content": "很多人都在问日本还有未来吗",
+      "music": 0.0
+    },
+    {
+      "from": 15.55,
+      "to": 18.85,
+      "sid": 10,
+      "location": 2,
+      "content": "这个问题呀我也想过思考过",
+      "music": 0.0
+    },
+    {
+      "from": 18.85,
+      "to": 20.41,
+      "sid": 11,
+      "location": 2,
+      "content": "我们就一边散步",
+      "music": 0.0
+    },
+    {
+      "from": 20.41,
+      "to": 22.46,
+      "sid": 12,
+      "location": 2,
+      "content": "一边聊聊这个话题",
+      "music": 0.0
+    },
+    {
+      "from": 22.46,
+      "to": 25.06,
+      "sid": 13,
+      "location": 2,
+      "content": "也会看看这附近的房价",
+      "music": 0.0
+    },
+    {
+      "from": 25.06,
+      "to": 26.12,
+      "sid": 14,
+      "location": 2,
+      "content": "走累了",
+      "music": 0.0
+    },
+    {
+      "from": 26.12,
+      "to": 29.6,
+      "sid": 15,
+      "location": 2,
+      "content": "还会带大家去看一下隐藏在住宅里的咖啡店",
+      "music": 0.0
+    },
+    {
+      "from": 29.6,
+      "to": 32.32,
+      "sid": 16,
+      "location": 2,
+      "content": "休息一下那家店吧",
+      "music": 0.0
+    },
+    {
+      "from": 32.32,
+      "to": 34.26,
+      "sid": 17,
+      "location": 2,
+      "content": "装饰的非常可爱",
+      "music": 0.0
+    },
+    {
+      "from": 34.26,
+      "to": 37.92,
+      "sid": 18,
+      "location": 2,
+      "content": "估计少女心啊要膨胀了",
+      "music": 0.0
+    },
+    {
+      "from": 38.32,
+      "to": 40.44,
+      "sid": 19,
+      "location": 2,
+      "content": "我们今天散步的地方是",
+      "music": 0.0
+    },
+    {
+      "from": 40.44,
+      "to": 44.3,
+      "sid": 20,
+      "location": 2,
+      "content": "京都市北区金阁寺的附近",
+      "music": 0.0
+    },
+    {
+      "from": 44.3,
+      "to": 47.48,
+      "sid": 21,
+      "location": 2,
+      "content": "从这里走到世界文化遗产金额寺",
+      "music": 0.0
+    },
+    {
+      "from": 47.48,
+      "to": 49.79,
+      "sid": 22,
+      "location": 2,
+      "content": "差不多10分钟左右",
+      "music": 0.0
+    },
+    {
+      "from": 50.07,
+      "to": 52.51,
+      "sid": 23,
+      "location": 2,
+      "content": "这附近的话没有电车站",
+      "music": 0.0
+    },
+    {
+      "from": 52.51,
+      "to": 54.73,
+      "sid": 24,
+      "location": 2,
+      "content": "平时主要依靠公交车",
+      "music": 0.0
+    },
+    {
+      "from": 54.73,
+      "to": 55.65,
+      "sid": 25,
+      "location": 2,
+      "content": "自行车",
+      "music": 0.0
+    },
+    {
+      "from": 55.65,
+      "to": 57.22,
+      "sid": 26,
+      "location": 2,
+      "content": "私家车",
+      "music": 0.0
+    },
+    {
+      "from": 57.38,
+      "to": 59.2,
+      "sid": 27,
+      "location": 2,
+      "content": "小学倒是比较近",
+      "music": 0.0
+    },
+    {
+      "from": 59.2,
+      "to": 61.64,
+      "sid": 28,
+      "location": 2,
+      "content": "走路15分钟左右",
+      "music": 0.0
+    },
+    {
+      "from": 61.64,
+      "to": 65.02,
+      "sid": 29,
+      "location": 2,
+      "content": "开车78分钟也能到超市",
+      "music": 0.0
+    },
+    {
+      "from": 65.02,
+      "to": 68.69,
+      "sid": 30,
+      "location": 2,
+      "content": "生活的话基本没有什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 69.01,
+      "to": 71.07,
+      "sid": 31,
+      "location": 2,
+      "content": "不过长期住在这里的话",
+      "music": 0.0
+    },
+    {
+      "from": 71.07,
+      "to": 72.65,
+      "sid": 32,
+      "location": 2,
+      "content": "最好还是有车",
+      "music": 0.0
+    },
+    {
+      "from": 72.65,
+      "to": 73.49,
+      "sid": 33,
+      "location": 2,
+      "content": "没有车",
+      "music": 0.0
+    },
+    {
+      "from": 73.49,
+      "to": 75.2,
+      "sid": 34,
+      "location": 2,
+      "content": "不是完全不能生活",
+      "music": 0.0
+    },
+    {
+      "from": 75.2,
+      "to": 78.54,
+      "sid": 35,
+      "location": 2,
+      "content": "你像买菜去医院都会非常的麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 78.54,
+      "to": 80.28,
+      "sid": 36,
+      "location": 2,
+      "content": "这片住宅区的话",
+      "music": 0.0
+    },
+    {
+      "from": 80.28,
+      "to": 81.65,
+      "sid": 37,
+      "location": 2,
+      "content": "既有新房",
+      "music": 0.0
+    },
+    {
+      "from": 81.65,
+      "to": 84.51,
+      "sid": 38,
+      "location": 2,
+      "content": "也有一些住了几十年的老房子",
+      "music": 0.0
+    },
+    {
+      "from": 84.51,
+      "to": 87.27,
+      "sid": 39,
+      "location": 2,
+      "content": "整体环境非常的安静",
+      "music": 0.0
+    },
+    {
+      "from": 87.27,
+      "to": 89.87,
+      "sid": 40,
+      "location": 2,
+      "content": "不过这个上下坡比较明显",
+      "music": 0.0
+    },
+    {
+      "from": 89.87,
+      "to": 93.1,
+      "sid": 41,
+      "location": 2,
+      "content": "骑自行车的话会稍微辛苦一点",
+      "music": 0.0
+    },
+    {
+      "from": 93.3,
+      "to": 97.35,
+      "sid": 42,
+      "location": 2,
+      "content": "房价在京都北区来看不算特别贵",
+      "music": 0.0
+    },
+    {
+      "from": 97.35,
+      "to": 100.41,
+      "sid": 43,
+      "location": 2,
+      "content": "像房子建筑面积不到100米",
+      "music": 0.0
+    },
+    {
+      "from": 100.41,
+      "to": 102.19,
+      "sid": 44,
+      "location": 2,
+      "content": "土地也不是特别大的",
+      "music": 0.0
+    },
+    {
+      "from": 102.19,
+      "to": 106.02,
+      "sid": 45,
+      "location": 2,
+      "content": "新的一户建大概4000万日元左右",
+      "music": 0.0
+    },
+    {
+      "from": 106.02,
+      "to": 107.87,
+      "sid": 46,
+      "location": 2,
+      "content": "也能够买下来",
+      "music": 0.0
+    },
+    {
+      "from": 107.87,
+      "to": 111.81,
+      "sid": 47,
+      "location": 2,
+      "content": "土地大一点的能停一两辆车的",
+      "music": 0.0
+    },
+    {
+      "from": 111.81,
+      "to": 116.039,
+      "sid": 48,
+      "location": 2,
+      "content": "价格可能在5000万日元到6000万日元左右",
+      "music": 0.0
+    },
+    {
+      "from": 116.319,
+      "to": 120.219,
+      "sid": 49,
+      "location": 2,
+      "content": "这个价格啊没有金阁寺南边啊那么贵",
+      "music": 0.0
+    },
+    {
+      "from": 120.219,
+      "to": 123.58,
+      "sid": 50,
+      "location": 2,
+      "content": "最大的原因吧可能还是交通",
+      "music": 0.0
+    },
+    {
+      "from": 123.9,
+      "to": 127.26,
+      "sid": 51,
+      "location": 2,
+      "content": "对于每天坐电车通勤的年轻人来说",
+      "music": 0.0
+    },
+    {
+      "from": 127.26,
+      "to": 129.58,
+      "sid": 52,
+      "location": 2,
+      "content": "没有车站确实不方便",
+      "music": 0.0
+    },
+    {
+      "from": 129.58,
+      "to": 132.68,
+      "sid": 53,
+      "location": 2,
+      "content": "所以价格相对就便宜了一些",
+      "music": 0.0
+    },
+    {
+      "from": 133.0,
+      "to": 135.04,
+      "sid": 54,
+      "location": 2,
+      "content": "不过等大家走一圈以后",
+      "music": 0.0
+    },
+    {
+      "from": 135.04,
+      "to": 138.2,
+      "sid": 55,
+      "location": 2,
+      "content": "我相信还是会有不少朋友喜欢这里",
+      "music": 0.0
+    },
+    {
+      "from": 138.2,
+      "to": 139.56,
+      "sid": 56,
+      "location": 2,
+      "content": "因为安静",
+      "music": 0.0
+    },
+    {
+      "from": 139.56,
+      "to": 140.99,
+      "sid": 57,
+      "location": 2,
+      "content": "游客少",
+      "music": 0.0
+    },
+    {
+      "from": 140.99,
+      "to": 144.03,
+      "sid": 58,
+      "location": 2,
+      "content": "离市中心呢也不算特别远",
+      "music": 0.0
+    },
+    {
+      "from": 144.03,
+      "to": 147.02,
+      "sid": 59,
+      "location": 2,
+      "content": "适合喜欢慢生活的人",
+      "music": 0.0
+    },
+    {
+      "from": 147.46,
+      "to": 150.5,
+      "sid": 60,
+      "location": 2,
+      "content": "我们今天也回到原来的话题",
+      "music": 0.0
+    },
+    {
+      "from": 151.74,
+      "to": 155.56,
+      "sid": 61,
+      "location": 2,
+      "content": "网上呢关于日本未来的担忧非常的多",
+      "music": 0.0
+    },
+    {
+      "from": 155.56,
+      "to": 159.2,
+      "sid": 62,
+      "location": 2,
+      "content": "其中最常见的一个就是日元贬值",
+      "music": 0.0
+    },
+    {
+      "from": 160.24,
+      "to": 161.74,
+      "sid": 63,
+      "location": 2,
+      "content": "我的视频评论区呀",
+      "music": 0.0
+    },
+    {
+      "from": 161.74,
+      "to": 163.39,
+      "sid": 64,
+      "location": 2,
+      "content": "也经常有人说",
+      "music": 0.0
+    },
+    {
+      "from": 166.26,
+      "to": 169.0,
+      "sid": 65,
+      "location": 2,
+      "content": "现在换成人民币的话也没有多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 169.0,
+      "to": 171.04,
+      "sid": 66,
+      "location": 2,
+      "content": "日本工资已经不行了",
+      "music": 0.0
+    },
+    {
+      "from": 171.04,
+      "to": 172.42,
+      "sid": 67,
+      "location": 2,
+      "content": "说实话吧",
+      "music": 0.0
+    },
+    {
+      "from": 172.42,
+      "to": 175.64,
+      "sid": 68,
+      "location": 2,
+      "content": "我觉得这种算法不太准确",
+      "music": 0.0
+    },
+    {
+      "from": 175.64,
+      "to": 178.02,
+      "sid": 69,
+      "location": 2,
+      "content": "因为人在日本生活啊",
+      "music": 0.0
+    },
+    {
+      "from": 178.02,
+      "to": 180.7,
+      "sid": 70,
+      "location": 2,
+      "content": "工资是在日本赚的房租啊",
+      "music": 0.0
+    },
+    {
+      "from": 180.7,
+      "to": 184.659,
+      "sid": 71,
+      "location": 2,
+      "content": "医疗教育保险和日常收费呀",
+      "music": 0.0
+    },
+    {
+      "from": 184.659,
+      "to": 187.96,
+      "sid": 72,
+      "location": 2,
+      "content": "也应该是按日本的标准来衡量",
+      "music": 0.0
+    },
+    {
+      "from": 187.96,
+      "to": 190.46,
+      "sid": 73,
+      "location": 2,
+      "content": "不能只把工资换成人民币",
+      "music": 0.0
+    },
+    {
+      "from": 190.46,
+      "to": 195.29,
+      "sid": 74,
+      "location": 2,
+      "content": "然后判断你就比如说你在日本做一次大手术",
+      "music": 0.0
+    },
+    {
+      "from": 195.29,
+      "to": 197.76,
+      "sid": 75,
+      "location": 2,
+      "content": "到最后自己承担多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 197.76,
+      "to": 199.14,
+      "sid": 76,
+      "location": 2,
+      "content": "孩子看病啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.14,
+      "to": 200.14,
+      "sid": 77,
+      "location": 2,
+      "content": "上幼儿园呀",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 202.3,
+      "sid": 78,
+      "location": 2,
+      "content": "读书又需要多少钱",
+      "music": 0.0
+    },
+    {
+      "from": 202.3,
+      "to": 204.62,
+      "sid": 79,
+      "location": 2,
+      "content": "如果换成另外一个国家呀",
+      "music": 0.0
+    },
+    {
+      "from": 204.62,
+      "to": 206.26,
+      "sid": 80,
+      "location": 2,
+      "content": "收入可能不同",
+      "music": 0.0
+    },
+    {
+      "from": 206.26,
+      "to": 208.98,
+      "sid": 81,
+      "location": 2,
+      "content": "教育和医疗费用也完全不同",
+      "music": 0.0
+    },
+    {
+      "from": 208.98,
+      "to": 211.86,
+      "sid": 82,
+      "location": 2,
+      "content": "所以判断一个地方生活压力大不大",
+      "music": 0.0
+    },
+    {
+      "from": 211.86,
+      "to": 213.61,
+      "sid": 83,
+      "location": 2,
+      "content": "不能只看汇率啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.61,
+      "to": 216.05,
+      "sid": 84,
+      "location": 2,
+      "content": "还要看收入物价",
+      "music": 0.0
+    },
+    {
+      "from": 216.05,
+      "to": 220.21,
+      "sid": 85,
+      "location": 2,
+      "content": "住房公共服务和社会福利放在一起之后",
+      "music": 0.0
+    },
+    {
+      "from": 220.21,
+      "to": 222.48,
+      "sid": 86,
+      "location": 2,
+      "content": "到底还能剩下多少",
+      "music": 0.0
+    },
+    {
+      "from": 222.76,
+      "to": 223.68,
+      "sid": 87,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 223.68,
+      "to": 227.79,
+      "sid": 88,
+      "location": 2,
+      "content": "这个日元贬值对日本并不是没有影响",
+      "music": 0.0
+    },
+    {
+      "from": 227.79,
+      "to": 229.47,
+      "sid": 89,
+      "location": 2,
+      "content": "日本很多能源啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.47,
+      "to": 230.17,
+      "sid": 90,
+      "location": 2,
+      "content": "石口啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.17,
+      "to": 232.15,
+      "sid": 91,
+      "location": 2,
+      "content": "原材料高度依赖进口",
+      "music": 0.0
+    },
+    {
+      "from": 232.15,
+      "to": 233.55,
+      "sid": 92,
+      "location": 2,
+      "content": "日元越便宜呢",
+      "music": 0.0
+    },
+    {
+      "from": 233.55,
+      "to": 235.23,
+      "sid": 93,
+      "location": 2,
+      "content": "这个进口成本就越高",
+      "music": 0.0
+    },
+    {
+      "from": 235.23,
+      "to": 237.459,
+      "sid": 94,
+      "location": 2,
+      "content": "最后就反映这个物价上",
+      "music": 0.0
+    },
+    {
+      "from": 237.459,
+      "to": 239.059,
+      "sid": 95,
+      "location": 2,
+      "content": "这几年住在日本的人",
+      "music": 0.0
+    },
+    {
+      "from": 239.059,
+      "to": 242.34,
+      "sid": 96,
+      "location": 2,
+      "content": "应该都能感觉到东西明显变贵了",
+      "music": 0.0
+    },
+    {
+      "from": 242.34,
+      "to": 245.34,
+      "sid": 97,
+      "location": 2,
+      "content": "你像我特别喜欢吃那个思琪家",
+      "music": 0.0
+    },
+    {
+      "from": 245.34,
+      "to": 247.53,
+      "sid": 98,
+      "location": 2,
+      "content": "吉野家的牛肉盖饭呀",
+      "music": 0.0
+    },
+    {
+      "from": 247.53,
+      "to": 248.85,
+      "sid": 99,
+      "location": 2,
+      "content": "几年前的话",
+      "music": 0.0
+    },
+    {
+      "from": 248.85,
+      "to": 252.37,
+      "sid": 100,
+      "location": 2,
+      "content": "一份牛肉盖饭加沙拉味增汤的套餐",
+      "music": 0.0
+    },
+    {
+      "from": 252.37,
+      "to": 255.01,
+      "sid": 101,
+      "location": 2,
+      "content": "差不多550日元左右",
+      "music": 0.0
+    },
+    {
+      "from": 255.01,
+      "to": 257.579,
+      "sid": 102,
+      "location": 2,
+      "content": "现在的话要700日元左右",
+      "music": 0.0
+    },
+    {
+      "from": 257.579,
+      "to": 261.759,
+      "sid": 103,
+      "location": 2,
+      "content": "麦当劳也是以前一份标准的普通套餐呀",
+      "music": 0.0
+    },
+    {
+      "from": 261.759,
+      "to": 264.49,
+      "sid": 104,
+      "location": 2,
+      "content": "也是500多日元",
+      "music": 0.0
+    },
+    {
+      "from": 264.49,
+      "to": 267.37,
+      "sid": 105,
+      "location": 2,
+      "content": "现在也是700日元上下",
+      "music": 0.0
+    },
+    {
+      "from": 267.37,
+      "to": 271.53,
+      "sid": 106,
+      "location": 2,
+      "content": "牛奶以前一升一罐差不多150日元",
+      "music": 0.0
+    },
+    {
+      "from": 271.53,
+      "to": 273.86,
+      "sid": 107,
+      "location": 2,
+      "content": "后来涨到一百七一百八",
+      "music": 0.0
+    },
+    {
+      "from": 273.86,
+      "to": 277.12,
+      "sid": 108,
+      "location": 2,
+      "content": "现在的话普通的一般要228",
+      "music": 0.0
+    },
+    {
+      "from": 277.12,
+      "to": 279.34,
+      "sid": 109,
+      "location": 2,
+      "content": "238日元左右了",
+      "music": 0.0
+    },
+    {
+      "from": 279.34,
+      "to": 281.2,
+      "sid": 110,
+      "location": 2,
+      "content": "剩下的一些零食呀",
+      "music": 0.0
+    },
+    {
+      "from": 281.2,
+      "to": 282.36,
+      "sid": 111,
+      "location": 2,
+      "content": "调料什么的啊",
+      "music": 0.0
+    },
+    {
+      "from": 282.36,
+      "to": 284.66,
+      "sid": 112,
+      "location": 2,
+      "content": "或多或少都在涨价",
+      "music": 0.0
+    },
+    {
+      "from": 289.87,
+      "to": 291.79,
+      "sid": 113,
+      "location": 2,
+      "content": "因为我的工作原因呀",
+      "music": 0.0
+    },
+    {
+      "from": 291.79,
+      "to": 295.37,
+      "sid": 114,
+      "location": 2,
+      "content": "拍摄嘛接触到世界各国很多的人",
+      "music": 0.0
+    },
+    {
+      "from": 295.37,
+      "to": 296.73,
+      "sid": 115,
+      "location": 2,
+      "content": "大家聊天的时候",
+      "music": 0.0
+    },
+    {
+      "from": 296.73,
+      "to": 298.25,
+      "sid": 116,
+      "location": 2,
+      "content": "我发现每个人都说",
+      "music": 0.0
+    },
+    {
+      "from": 298.25,
+      "to": 301.03,
+      "sid": 117,
+      "location": 2,
+      "content": "自己国家这几年东西越来越贵",
+      "music": 0.0
+    },
+    {
+      "from": 308.58,
+      "to": 311.39,
+      "sid": 118,
+      "location": 2,
+      "content": "全部归结为日本经济不行",
+      "music": 0.0
+    },
+    {
+      "from": 311.39,
+      "to": 314.33,
+      "sid": 119,
+      "location": 2,
+      "content": "可能是有点欠缺客观的",
+      "music": 0.0
+    },
+    {
+      "from": 314.33,
+      "to": 317.02,
+      "sid": 120,
+      "location": 2,
+      "content": "不知道大家怎么觉得",
+      "music": 0.0
+    },
+    {
+      "from": 317.34,
+      "to": 320.46,
+      "sid": 121,
+      "location": 2,
+      "content": "另外呢就是这个日元贬值呀",
+      "music": 0.0
+    },
+    {
+      "from": 320.46,
+      "to": 321.66,
+      "sid": 122,
+      "location": 2,
+      "content": "有一个好处",
+      "music": 0.0
+    },
+    {
+      "from": 321.66,
+      "to": 325.46,
+      "sid": 123,
+      "location": 2,
+      "content": "就是国家税收处于非常高的水平",
+      "music": 0.0
+    },
+    {
+      "from": 325.7,
+      "to": 327.38,
+      "sid": 124,
+      "location": 2,
+      "content": "2026年度啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.38,
+      "to": 332.14,
+      "sid": 125,
+      "location": 2,
+      "content": "日本的会计收入差不多是83.7万日元",
+      "music": 0.0
+    },
+    {
+      "from": 332.14,
+      "to": 336.25,
+      "sid": 126,
+      "location": 2,
+      "content": "这里面呢有很多是出口增长带来的",
+      "music": 0.0
+    },
+    {
+      "from": 336.25,
+      "to": 337.93,
+      "sid": 127,
+      "location": 2,
+      "content": "你就比如说丰田呀",
+      "music": 0.0
+    },
+    {
+      "from": 337.93,
+      "to": 338.55,
+      "sid": 128,
+      "location": 2,
+      "content": "索尼呀",
+      "music": 0.0
+    },
+    {
+      "from": 338.55,
+      "to": 342.7,
+      "sid": 129,
+      "location": 2,
+      "content": "任天堂这种大型企业在海外赚的钱就多了",
+      "music": 0.0
+    },
+    {
+      "from": 342.7,
+      "to": 345.2,
+      "sid": 130,
+      "location": 2,
+      "content": "所谓企业利润呢也高了",
+      "music": 0.0
+    },
+    {
+      "from": 345.2,
+      "to": 347.02,
+      "sid": 131,
+      "location": 2,
+      "content": "税收增多之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 347.02,
+      "to": 351.46,
+      "sid": 132,
+      "location": 2,
+      "content": "用在这个社会保障这一片的的钱也就更多了",
+      "music": 0.0
+    },
+    {
+      "from": 351.46,
+      "to": 355.78,
+      "sid": 133,
+      "location": 2,
+      "content": "你像日本一般财政支出差不多1/3以上啊",
+      "music": 0.0
+    },
+    {
+      "from": 355.78,
+      "to": 358.2,
+      "sid": 134,
+      "location": 2,
+      "content": "都用在这个社会保障上",
+      "music": 0.0
+    },
+    {
+      "from": 358.2,
+      "to": 359.9,
+      "sid": 135,
+      "location": 2,
+      "content": "因为老年人太多了",
+      "music": 0.0
+    },
+    {
+      "from": 359.9,
+      "to": 361.6,
+      "sid": 136,
+      "location": 2,
+      "content": "年轻人呢越来越少",
+      "music": 0.0
+    },
+    {
+      "from": 361.6,
+      "to": 363.48,
+      "sid": 137,
+      "location": 2,
+      "content": "今天多收的税吧",
+      "music": 0.0
+    },
+    {
+      "from": 363.48,
+      "to": 365.84,
+      "sid": 138,
+      "location": 2,
+      "content": "也能够缓解一部分的压力",
+      "music": 0.0
+    },
+    {
+      "from": 365.84,
+      "to": 369.77,
+      "sid": 139,
+      "location": 2,
+      "content": "但是根本上却解决不了这个人口的结构问题",
+      "music": 0.0
+    },
+    {
+      "from": 369.77,
+      "to": 374.48,
+      "sid": 140,
+      "location": 2,
+      "content": "如果未来呀日本可能大概率还是要调整",
+      "music": 0.0
+    },
+    {
+      "from": 374.48,
+      "to": 378.42,
+      "sid": 141,
+      "location": 2,
+      "content": "比如提高这个部分老年人看病的比例吧",
+      "music": 0.0
+    },
+    {
+      "from": 378.42,
+      "to": 380.51,
+      "sid": 142,
+      "location": 2,
+      "content": "增加一点保险费",
+      "music": 0.0
+    },
+    {
+      "from": 380.51,
+      "to": 385.35,
+      "sid": 143,
+      "location": 2,
+      "content": "或者然后退休年龄也可能会削减一些福利",
+      "music": 0.0
+    },
+    {
+      "from": 385.35,
+      "to": 387.41,
+      "sid": 144,
+      "location": 2,
+      "content": "你像日本老年人看病",
+      "music": 0.0
+    },
+    {
+      "from": 387.41,
+      "to": 389.23,
+      "sid": 145,
+      "location": 2,
+      "content": "现在65岁之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 389.23,
+      "to": 392.7,
+      "sid": 146,
+      "location": 2,
+      "content": "一般就是承担10%到30%",
+      "music": 0.0
+    },
+    {
+      "from": 392.7,
+      "to": 395.98,
+      "sid": 147,
+      "location": 2,
+      "content": "我觉得如果今后继续这样下去的话",
+      "music": 0.0
+    },
+    {
+      "from": 395.98,
+      "to": 398.02,
+      "sid": 148,
+      "location": 2,
+      "content": "这个老年人承担的比例呀",
+      "music": 0.0
+    },
+    {
+      "from": 398.02,
+      "to": 401.13,
+      "sid": 149,
+      "location": 2,
+      "content": "可能渐渐的会接近30%",
+      "music": 0.0
+    },
+    {
+      "from": 401.13,
+      "to": 403.49,
+      "sid": 150,
+      "location": 2,
+      "content": "这样的话呢也会带来一些问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 403.49,
+      "to": 406.78,
+      "sid": 151,
+      "location": 2,
+      "content": "就是如果这个看病的承担费用增多了",
+      "music": 0.0
+    },
+    {
+      "from": 406.78,
+      "to": 410.61,
+      "sid": 152,
+      "location": 2,
+      "content": "可能有一些老人呢可能就不想去看病了",
+      "music": 0.0
+    },
+    {
+      "from": 410.61,
+      "to": 412.69,
+      "sid": 153,
+      "location": 2,
+      "content": "最后小病拖成大病",
+      "music": 0.0
+    },
+    {
+      "from": 412.69,
+      "to": 416.01,
+      "sid": 154,
+      "location": 2,
+      "content": "可能也会增加这个社会的医疗成本",
+      "music": 0.0
+    },
+    {
+      "from": 416.01,
+      "to": 420.51,
+      "sid": 155,
+      "location": 2,
+      "content": "所以日本少林老子化吧确实是一个很难的问题",
+      "music": 0.0
+    },
+    {
+      "from": 420.51,
+      "to": 423.63,
+      "sid": 156,
+      "location": 2,
+      "content": "但并不代表明天这个制度就会崩溃啊",
+      "music": 0.0
+    },
+    {
+      "from": 423.63,
+      "to": 426.35,
+      "sid": 157,
+      "location": 2,
+      "content": "日本也不是现在才知道自己老龄化",
+      "music": 0.0
+    },
+    {
+      "from": 426.35,
+      "to": 428.73,
+      "sid": 158,
+      "location": 2,
+      "content": "几十年前呀就开始准备了",
+      "music": 0.0
+    },
+    {
+      "from": 428.73,
+      "to": 431.07,
+      "sid": 159,
+      "location": 2,
+      "content": "未来可能没有那么轻松",
+      "music": 0.0
+    },
+    {
+      "from": 431.07,
+      "to": 432.43,
+      "sid": 160,
+      "location": 2,
+      "content": "但这个制度啊",
+      "music": 0.0
+    },
+    {
+      "from": 432.43,
+      "to": 434.52,
+      "sid": 161,
+      "location": 2,
+      "content": "福利啊也不会突然消失",
+      "music": 0.0
+    },
+    {
+      "from": 434.52,
+      "to": 436.5,
+      "sid": 162,
+      "location": 2,
+      "content": "而是一边增加负担",
+      "music": 0.0
+    },
+    {
+      "from": 436.5,
+      "to": 437.98,
+      "sid": 163,
+      "location": 2,
+      "content": "一边慢慢调整",
+      "music": 0.0
+    },
+    {
+      "from": 437.98,
+      "to": 440.0,
+      "sid": 164,
+      "location": 2,
+      "content": "网上还有一个担忧呢",
+      "music": 0.0
+    },
+    {
+      "from": 440.0,
+      "to": 441.84,
+      "sid": 165,
+      "location": 2,
+      "content": "就是关于外国人",
+      "music": 0.0
+    },
+    {
+      "from": 441.84,
+      "to": 445.4,
+      "sid": 166,
+      "location": 2,
+      "content": "之前我的视频也从不同的角度聊过",
+      "music": 0.0
+    },
+    {
+      "from": 445.4,
+      "to": 447.44,
+      "sid": 167,
+      "location": 2,
+      "content": "像我的看法其实很简单",
+      "music": 0.0
+    },
+    {
+      "from": 447.44,
+      "to": 449.5,
+      "sid": 168,
+      "location": 2,
+      "content": "就像日本的人口结构",
+      "music": 0.0
+    },
+    {
+      "from": 449.5,
+      "to": 452.2,
+      "sid": 169,
+      "location": 2,
+      "content": "根本不可能完全的拒绝外国人",
+      "music": 0.0
+    },
+    {
+      "from": 452.2,
+      "to": 454.75,
+      "sid": 170,
+      "location": 2,
+      "content": "他需要这个外国的劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 454.75,
+      "to": 458.78,
+      "sid": 171,
+      "location": 2,
+      "content": "你像日本工作的外国人已经超过了200多万人",
+      "music": 0.0
+    },
+    {
+      "from": 458.78,
+      "to": 461.66,
+      "sid": 172,
+      "location": 2,
+      "content": "很多行业高度依赖外国人",
+      "music": 0.0
+    },
+    {
+      "from": 461.66,
+      "to": 464.4,
+      "sid": 173,
+      "location": 2,
+      "content": "如果有一天这些外国人都撤走了",
+      "music": 0.0
+    },
+    {
+      "from": 464.4,
+      "to": 468.22,
+      "sid": 174,
+      "location": 2,
+      "content": "可能啊日本的经济并不会第二天就崩溃",
+      "music": 0.0
+    },
+    {
+      "from": 468.22,
+      "to": 470.14,
+      "sid": 175,
+      "location": 2,
+      "content": "但是呢很多工厂啊",
+      "music": 0.0
+    },
+    {
+      "from": 470.14,
+      "to": 470.8,
+      "sid": 176,
+      "location": 2,
+      "content": "农场啊",
+      "music": 0.0
+    },
+    {
+      "from": 470.8,
+      "to": 471.9,
+      "sid": 177,
+      "location": 2,
+      "content": "建筑工地啊",
+      "music": 0.0
+    },
+    {
+      "from": 471.9,
+      "to": 475.18,
+      "sid": 178,
+      "location": 2,
+      "content": "马上就会出现更严重的人手不足啊",
+      "music": 0.0
+    },
+    {
+      "from": 475.18,
+      "to": 476.4,
+      "sid": 179,
+      "location": 2,
+      "content": "服务减少啊",
+      "music": 0.0
+    },
+    {
+      "from": 476.4,
+      "to": 477.47,
+      "sid": 180,
+      "location": 2,
+      "content": "成本上涨",
+      "music": 0.0
+    },
+    {
+      "from": 477.47,
+      "to": 480.4,
+      "sid": 181,
+      "location": 2,
+      "content": "经济规模呀也肯定会缩小",
+      "music": 0.0
+    },
+    {
+      "from": 480.4,
+      "to": 482.74,
+      "sid": 182,
+      "location": 2,
+      "content": "所以日本真正要忧虑",
+      "music": 0.0
+    },
+    {
+      "from": 482.74,
+      "to": 485.84,
+      "sid": 183,
+      "location": 2,
+      "content": "担心的并不是要外国人怎样",
+      "music": 0.0
+    },
+    {
+      "from": 485.84,
+      "to": 487.6,
+      "sid": 184,
+      "location": 2,
+      "content": "而是应该怎样审核",
+      "music": 0.0
+    },
+    {
+      "from": 487.6,
+      "to": 488.8,
+      "sid": 185,
+      "location": 2,
+      "content": "怎样管理",
+      "music": 0.0
+    },
+    {
+      "from": 488.8,
+      "to": 491.299,
+      "sid": 186,
+      "location": 2,
+      "content": "怎样帮助他们融入社会",
+      "music": 0.0
+    },
+    {
+      "from": 491.299,
+      "to": 493.659,
+      "sid": 187,
+      "location": 2,
+      "content": "最近这个经营管理签证啊",
+      "music": 0.0
+    },
+    {
+      "from": 493.659,
+      "to": 494.459,
+      "sid": 188,
+      "location": 2,
+      "content": "永驻啊",
+      "music": 0.0
+    },
+    {
+      "from": 494.459,
+      "to": 497.18,
+      "sid": 189,
+      "location": 2,
+      "content": "还有一些其他的审核也越来越严",
+      "music": 0.0
+    },
+    {
+      "from": 497.18,
+      "to": 501.64,
+      "sid": 190,
+      "location": 2,
+      "content": "也意味着就是想整体提高这个外国人的质量",
+      "music": 0.0
+    },
+    {
+      "from": 501.64,
+      "to": 505.58,
+      "sid": 191,
+      "location": 2,
+      "content": "网络上吧也会有经常情绪化的声音",
+      "music": 0.0
+    },
+    {
+      "from": 505.58,
+      "to": 507.96,
+      "sid": 192,
+      "location": 2,
+      "content": "就好像把外国人都赶走啊",
+      "music": 0.0
+    },
+    {
+      "from": 507.96,
+      "to": 510.45,
+      "sid": 193,
+      "location": 2,
+      "content": "日本的这些问题都解决了",
+      "music": 0.0
+    },
+    {
+      "from": 510.45,
+      "to": 512.43,
+      "sid": 194,
+      "location": 2,
+      "content": "但是网络是网络",
+      "music": 0.0
+    },
+    {
+      "from": 512.43,
+      "to": 514.28,
+      "sid": 195,
+      "location": 2,
+      "content": "现实是现实",
+      "music": 0.0
+    },
+    {
+      "from": 514.28,
+      "to": 516.26,
+      "sid": 196,
+      "location": 2,
+      "content": "日本企业呀需要人",
+      "music": 0.0
+    },
+    {
+      "from": 516.26,
+      "to": 518.26,
+      "sid": 197,
+      "location": 2,
+      "content": "地方城市也需要人",
+      "music": 0.0
+    },
+    {
+      "from": 518.26,
+      "to": 520.78,
+      "sid": 198,
+      "location": 2,
+      "content": "外国人呢也需要工作机会",
+      "music": 0.0
+    },
+    {
+      "from": 520.78,
+      "to": 522.7,
+      "sid": 199,
+      "location": 2,
+      "content": "其实这都是互相选择",
+      "music": 0.0
+    },
+    {
+      "from": 522.7,
+      "to": 524.32,
+      "sid": 200,
+      "location": 2,
+      "content": "互相依赖的关系",
+      "music": 0.0
+    },
+    {
+      "from": 524.32,
+      "to": 527.16,
+      "sid": 201,
+      "location": 2,
+      "content": "如果只靠情绪做决定的话",
+      "music": 0.0
+    },
+    {
+      "from": 531.32,
+      "to": 532.62,
+      "sid": 202,
+      "location": 2,
+      "content": "服务减少啊",
+      "music": 0.0
+    },
+    {
+      "from": 532.62,
+      "to": 533.5,
+      "sid": 203,
+      "location": 2,
+      "content": "企业倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 533.5,
+      "to": 537.37,
+      "sid": 204,
+      "location": 2,
+      "content": "这些代价的可能还是普通的日本人自己",
+      "music": 0.0
+    },
+    {
+      "from": 537.37,
+      "to": 539.19,
+      "sid": 205,
+      "location": 2,
+      "content": "所以讲到这里啊",
+      "music": 0.0
+    },
+    {
+      "from": 539.19,
+      "to": 543.69,
+      "sid": 206,
+      "location": 2,
+      "content": "大家会发现日本现在确实面临着很多的问题",
+      "music": 0.0
+    },
+    {
+      "from": 543.69,
+      "to": 544.95,
+      "sid": 207,
+      "location": 2,
+      "content": "日元贬值",
+      "music": 0.0
+    },
+    {
+      "from": 546.28,
+      "to": 547.84,
+      "sid": 208,
+      "location": 2,
+      "content": "人口结构压力",
+      "music": 0.0
+    },
+    {
+      "from": 547.84,
+      "to": 549.3,
+      "sid": 209,
+      "location": 2,
+      "content": "社会保障压力",
+      "music": 0.0
+    },
+    {
+      "from": 549.3,
+      "to": 552.969,
+      "sid": 210,
+      "location": 2,
+      "content": "外国人的管理没有一个是简单的问题",
+      "music": 0.0
+    },
+    {
+      "from": 552.969,
+      "to": 555.149,
+      "sid": 211,
+      "location": 2,
+      "content": "但这些问题的存在呀",
+      "music": 0.0
+    },
+    {
+      "from": 555.149,
+      "to": 557.67,
+      "sid": 212,
+      "location": 2,
+      "content": "不等于日本没有未来",
+      "music": 0.0
+    },
+    {
+      "from": 557.67,
+      "to": 560.09,
+      "sid": 213,
+      "location": 2,
+      "content": "我们也聊了挺长的时间了",
+      "music": 0.0
+    },
+    {
+      "from": 560.09,
+      "to": 563.55,
+      "sid": 214,
+      "location": 2,
+      "content": "前面呢就是那家隐藏在住宅里的咖啡店",
+      "music": 0.0
+    },
+    {
+      "from": 563.55,
+      "to": 565.819,
+      "sid": 215,
+      "location": 2,
+      "content": "我们先进去休息一下",
+      "music": 0.0
+    },
+    {
+      "from": 565.819,
+      "to": 567.619,
+      "sid": 216,
+      "location": 2,
+      "content": "等喝完咖啡之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 567.619,
+      "to": 571.27,
+      "sid": 217,
+      "location": 2,
+      "content": "我再跟大家聊一聊我的几个日本邻居啊",
+      "music": 0.0
+    },
+    {
+      "from": 571.27,
+      "to": 573.23,
+      "sid": 218,
+      "location": 2,
+      "content": "如何看待这些事情",
+      "music": 0.0
+    },
+    {
+      "from": 573.23,
+      "to": 575.01,
+      "sid": 219,
+      "location": 2,
+      "content": "我也从他们身上啊",
+      "music": 0.0
+    },
+    {
+      "from": 575.01,
+      "to": 577.99,
+      "sid": 220,
+      "location": 2,
+      "content": "看到了一些日本的希望和未来",
+      "music": 0.0
+    },
+    {
+      "from": 577.99,
+      "to": 580.23,
+      "sid": 221,
+      "location": 2,
+      "content": "我感觉这一片区域啊",
+      "music": 0.0
+    },
+    {
+      "from": 580.23,
+      "to": 583.06,
+      "sid": 222,
+      "location": 2,
+      "content": "这一小片区域啊应该都是新开发的",
+      "music": 0.0
+    },
+    {
+      "from": 583.06,
+      "to": 585.5,
+      "sid": 223,
+      "location": 2,
+      "content": "因为这边的房子都是新的",
+      "music": 0.0
+    },
+    {
+      "from": 585.5,
+      "to": 587.76,
+      "sid": 224,
+      "location": 2,
+      "content": "可能以前是稻田什么的",
+      "music": 0.0
+    },
+    {
+      "from": 587.76,
+      "to": 590.39,
+      "sid": 225,
+      "location": 2,
+      "content": "你看这个咖啡店也是很新的",
+      "music": 0.0
+    },
+    {
+      "from": 590.39,
+      "to": 591.87,
+      "sid": 226,
+      "location": 2,
+      "content": "一楼是工作的",
+      "music": 0.0
+    },
+    {
+      "from": 591.87,
+      "to": 594.6,
+      "sid": 227,
+      "location": 2,
+      "content": "二楼呢可能是休息的",
+      "music": 0.0
+    },
+    {
+      "from": 594.6,
+      "to": 596.48,
+      "sid": 228,
+      "location": 2,
+      "content": "都是花啊",
+      "music": 0.0
+    },
+    {
+      "from": 596.48,
+      "to": 600.7,
+      "sid": 229,
+      "location": 2,
+      "content": "这个咖啡店那肯定会让你的少女心膨胀的",
+      "music": 0.0
+    },
+    {
+      "from": 600.7,
+      "to": 603.02,
+      "sid": 230,
+      "location": 2,
+      "content": "我们进去一探究竟",
+      "music": 0.0
+    },
+    {
+      "from": 603.5,
+      "to": 605.26,
+      "sid": 231,
+      "location": 2,
+      "content": "这是这家店的店主",
+      "music": 0.0
+    },
+    {
+      "from": 605.26,
+      "to": 608.85,
+      "sid": 232,
+      "location": 2,
+      "content": "一个女大爷笑容呢非常的可爱",
+      "music": 0.0
+    },
+    {
+      "from": 608.85,
+      "to": 610.73,
+      "sid": 233,
+      "location": 2,
+      "content": "看他穿着打扮什么的",
+      "music": 0.0
+    },
+    {
+      "from": 610.73,
+      "to": 612.43,
+      "sid": 234,
+      "location": 2,
+      "content": "感觉不是很像日本人啊",
+      "music": 0.0
+    },
+    {
+      "from": 612.43,
+      "to": 614.17,
+      "sid": 235,
+      "location": 2,
+      "content": "但是是日本人哈",
+      "music": 0.0
+    },
+    {
+      "from": 614.17,
+      "to": 616.95,
+      "sid": 236,
+      "location": 2,
+      "content": "应该这个大姐很喜欢花啊",
+      "music": 0.0
+    },
+    {
+      "from": 616.95,
+      "to": 619.51,
+      "sid": 237,
+      "location": 2,
+      "content": "这个屋子里摆了很多的花",
+      "music": 0.0
+    },
+    {
+      "from": 619.51,
+      "to": 620.85,
+      "sid": 238,
+      "location": 2,
+      "content": "有很多花啊",
+      "music": 0.0
+    },
+    {
+      "from": 620.85,
+      "to": 623.42,
+      "sid": 239,
+      "location": 2,
+      "content": "假花她是可以卖的",
+      "music": 0.0
+    },
+    {
+      "from": 623.86,
+      "to": 625.22,
+      "sid": 240,
+      "location": 2,
+      "content": "大家简单的看一下",
+      "music": 0.0
+    },
+    {
+      "from": 625.22,
+      "to": 626.36,
+      "sid": 241,
+      "location": 2,
+      "content": "整个店不大",
+      "music": 0.0
+    },
+    {
+      "from": 626.36,
+      "to": 628.36,
+      "sid": 242,
+      "location": 2,
+      "content": "差不多十几个位置左右",
+      "music": 0.0
+    },
+    {
+      "from": 629.84,
+      "to": 631.32,
+      "sid": 243,
+      "location": 2,
+      "content": "这边的花儿啊",
+      "music": 0.0
+    },
+    {
+      "from": 631.32,
+      "to": 635.42,
+      "sid": 244,
+      "location": 2,
+      "content": "应该是大姐自己做的吧",
+      "music": 0.0
+    },
+    {
+      "from": 636.43,
+      "to": 638.79,
+      "sid": 245,
+      "location": 2,
+      "content": "大家可以简单的看一下",
+      "music": 0.0
+    },
+    {
+      "from": 641.19,
+      "to": 643.62,
+      "sid": 246,
+      "location": 2,
+      "content": "这个西红柿是可以卖的",
+      "music": 0.0
+    },
+    {
+      "from": 643.62,
+      "to": 646.8,
+      "sid": 247,
+      "location": 2,
+      "content": "250日元一袋三个还是挺划算的",
+      "music": 0.0
+    },
+    {
+      "from": 646.8,
+      "to": 649.16,
+      "sid": 248,
+      "location": 2,
+      "content": "比超市看着颜色要好一些",
+      "music": 0.0
+    },
+    {
+      "from": 649.16,
+      "to": 652.94,
+      "sid": 249,
+      "location": 2,
+      "content": "这边的假花树呢是一个600日元",
+      "music": 0.0
+    },
+    {
+      "from": 652.94,
+      "to": 655.1,
+      "sid": 250,
+      "location": 2,
+      "content": "大家觉得怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 657.02,
+      "to": 660.52,
+      "sid": 251,
+      "location": 2,
+      "content": "这个装饰啊还是非常的温馨的",
+      "music": 0.0
+    },
+    {
+      "from": 660.96,
+      "to": 662.92,
+      "sid": 252,
+      "location": 2,
+      "content": "这边也有茄子可以卖",
+      "music": 0.0
+    },
+    {
+      "from": 662.92,
+      "to": 666.12,
+      "sid": 253,
+      "location": 2,
+      "content": "还有西红柿这个蔬菜呀",
+      "music": 0.0
+    },
+    {
+      "from": 666.12,
+      "to": 667.16,
+      "sid": 254,
+      "location": 2,
+      "content": "可能是大爷做的",
+      "music": 0.0
+    },
+    {
+      "from": 667.16,
+      "to": 668.8,
+      "sid": 255,
+      "location": 2,
+      "content": "也可能是周边邻居啊",
+      "music": 0.0
+    },
+    {
+      "from": 668.8,
+      "to": 670.13,
+      "sid": 256,
+      "location": 2,
+      "content": "放在这里卖",
+      "music": 0.0
+    },
+    {
+      "from": 670.15,
+      "to": 672.29,
+      "sid": 257,
+      "location": 2,
+      "content": "这边蔬菜更多一些",
+      "music": 0.0
+    },
+    {
+      "from": 672.29,
+      "to": 674.35,
+      "sid": 258,
+      "location": 2,
+      "content": "我一会儿准备晚点这个黄瓜",
+      "music": 0.0
+    },
+    {
+      "from": 674.35,
+      "to": 676.31,
+      "sid": 259,
+      "location": 2,
+      "content": "因为这个黄瓜大家看非常的新鲜",
+      "music": 0.0
+    },
+    {
+      "from": 676.31,
+      "to": 677.64,
+      "sid": 260,
+      "location": 2,
+      "content": "上面还有花的",
+      "music": 0.0
+    },
+    {
+      "from": 677.64,
+      "to": 681.42,
+      "sid": 261,
+      "location": 2,
+      "content": "超市卖的黄瓜上面几乎是没有花的",
+      "music": 0.0
+    },
+    {
+      "from": 681.42,
+      "to": 683.61,
+      "sid": 262,
+      "location": 2,
+      "content": "我点了一杯咖啡",
+      "music": 0.0
+    },
+    {
+      "from": 685.97,
+      "to": 688.25,
+      "sid": 263,
+      "location": 2,
+      "content": "给了一块小饼干",
+      "music": 0.0
+    },
+    {
+      "from": 691.38,
+      "to": 693.32,
+      "sid": 264,
+      "location": 2,
+      "content": "咖啡依旧很浓厚",
+      "music": 0.0
+    },
+    {
+      "from": 693.32,
+      "to": 694.69,
+      "sid": 265,
+      "location": 2,
+      "content": "很好喝",
+      "music": 0.0
+    },
+    {
+      "from": 694.69,
+      "to": 698.31,
+      "sid": 266,
+      "location": 2,
+      "content": "我发现日本的喝茶的店也好",
+      "music": 0.0
+    },
+    {
+      "from": 698.31,
+      "to": 699.81,
+      "sid": 267,
+      "location": 2,
+      "content": "咖啡店也好",
+      "music": 0.0
+    },
+    {
+      "from": 699.81,
+      "to": 702.589,
+      "sid": 268,
+      "location": 2,
+      "content": "大部分都是女店主啊",
+      "music": 0.0
+    },
+    {
+      "from": 702.589,
+      "to": 704.989,
+      "sid": 269,
+      "location": 2,
+      "content": "可能本身就是一个兴趣",
+      "music": 0.0
+    },
+    {
+      "from": 704.989,
+      "to": 707.8,
+      "sid": 270,
+      "location": 2,
+      "content": "把这个兴趣啊当成了工作",
+      "music": 0.0
+    },
+    {
+      "from": 707.8,
+      "to": 710.0,
+      "sid": 271,
+      "location": 2,
+      "content": "顺便再买三根黄瓜",
+      "music": 0.0
+    },
+    {
+      "from": 710.0,
+      "to": 711.44,
+      "sid": 272,
+      "location": 2,
+      "content": "三个西红柿",
+      "music": 0.0
+    },
+    {
+      "from": 711.44,
+      "to": 715.47,
+      "sid": 273,
+      "location": 2,
+      "content": "哎喝完我们继续散步",
+      "music": 0.0
+    },
+    {
+      "from": 715.47,
+      "to": 718.43,
+      "sid": 274,
+      "location": 2,
+      "content": "西红柿黄瓜外加咖啡",
+      "music": 0.0
+    },
+    {
+      "from": 718.43,
+      "to": 719.83,
+      "sid": 275,
+      "location": 2,
+      "content": "一共花了1000日元",
+      "music": 0.0
+    },
+    {
+      "from": 719.83,
+      "to": 721.88,
+      "sid": 276,
+      "location": 2,
+      "content": "我个人还是挺满意的",
+      "music": 0.0
+    },
+    {
+      "from": 721.88,
+      "to": 724.1,
+      "sid": 277,
+      "location": 2,
+      "content": "也感谢大家没有离开呀",
+      "music": 0.0
+    },
+    {
+      "from": 724.1,
+      "to": 725.42,
+      "sid": 278,
+      "location": 2,
+      "content": "我们继续散步",
+      "music": 0.0
+    },
+    {
+      "from": 725.42,
+      "to": 726.52,
+      "sid": 279,
+      "location": 2,
+      "content": "继续聊天",
+      "music": 0.0
+    },
+    {
+      "from": 726.52,
+      "to": 729.42,
+      "sid": 280,
+      "location": 2,
+      "content": "聊点呢贴近生活的",
+      "music": 0.0
+    },
+    {
+      "from": 729.42,
+      "to": 734.0,
+      "sid": 281,
+      "location": 2,
+      "content": "因为我家大宝啊经常跟邻居家的小孩一起玩",
+      "music": 0.0
+    },
+    {
+      "from": 734.0,
+      "to": 736.74,
+      "sid": 282,
+      "location": 2,
+      "content": "所以说跟周围几户日本的家庭啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.74,
+      "to": 737.98,
+      "sid": 283,
+      "location": 2,
+      "content": "关系还不错",
+      "music": 0.0
+    },
+    {
+      "from": 737.98,
+      "to": 739.82,
+      "sid": 284,
+      "location": 2,
+      "content": "孩子们在一起玩的时候",
+      "music": 0.0
+    },
+    {
+      "from": 739.82,
+      "to": 743.56,
+      "sid": 285,
+      "location": 2,
+      "content": "我们大人就聊聊孩子工作兴趣爱好",
+      "music": 0.0
+    },
+    {
+      "from": 743.56,
+      "to": 747.45,
+      "sid": 286,
+      "location": 2,
+      "content": "之前这个世界杯啊我们也一直会聊聊",
+      "music": 0.0
+    },
+    {
+      "from": 747.45,
+      "to": 749.45,
+      "sid": 287,
+      "location": 2,
+      "content": "后来慢慢接触以后啊",
+      "music": 0.0
+    },
+    {
+      "from": 749.45,
+      "to": 752.2,
+      "sid": 288,
+      "location": 2,
+      "content": "我发现一个挺有意思的现象",
+      "music": 0.0
+    },
+    {
+      "from": 752.2,
+      "to": 755.48,
+      "sid": 289,
+      "location": 2,
+      "content": "就是网络上天天讨论日元贬值",
+      "music": 0.0
+    },
+    {
+      "from": 755.48,
+      "to": 757.91,
+      "sid": 290,
+      "location": 2,
+      "content": "日本是不是没有未来了",
+      "music": 0.0
+    },
+    {
+      "from": 757.91,
+      "to": 760.79,
+      "sid": 291,
+      "location": 2,
+      "content": "但我发现这些日本家庭啊",
+      "music": 0.0
+    },
+    {
+      "from": 760.79,
+      "to": 763.579,
+      "sid": 292,
+      "location": 2,
+      "content": "很少直接聊这个日元汇率",
+      "music": 0.0
+    },
+    {
+      "from": 763.579,
+      "to": 766.419,
+      "sid": 293,
+      "location": 2,
+      "content": "他们肯定会说东西变贵了啊",
+      "music": 0.0
+    },
+    {
+      "from": 766.419,
+      "to": 767.339,
+      "sid": 294,
+      "location": 2,
+      "content": "电费啊",
+      "music": 0.0
+    },
+    {
+      "from": 767.339,
+      "to": 770.12,
+      "sid": 295,
+      "location": 2,
+      "content": "孩子啊什么的成本都涨价了",
+      "music": 0.0
+    },
+    {
+      "from": 770.12,
+      "to": 773.4,
+      "sid": 296,
+      "location": 2,
+      "content": "但是他们更关心的不是这个汇率问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 773.4,
+      "to": 775.16,
+      "sid": 297,
+      "location": 2,
+      "content": "日元贬值问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.16,
+      "to": 778.579,
+      "sid": 298,
+      "location": 2,
+      "content": "而是这个月家庭开支能不能控制呀",
+      "music": 0.0
+    },
+    {
+      "from": 778.579,
+      "to": 780.719,
+      "sid": 299,
+      "location": 2,
+      "content": "工作收入啊怎么样啊",
+      "music": 0.0
+    },
+    {
+      "from": 780.719,
+      "to": 782.619,
+      "sid": 300,
+      "location": 2,
+      "content": "孩子在学校怎么样啊",
+      "music": 0.0
+    },
+    {
+      "from": 782.619,
+      "to": 785.599,
+      "sid": 301,
+      "location": 2,
+      "content": "周末一家人呀将来要去哪玩啊",
+      "music": 0.0
+    },
+    {
+      "from": 785.599,
+      "to": 788.559,
+      "sid": 302,
+      "location": 2,
+      "content": "所以对于大部分普通日本人来说",
+      "music": 0.0
+    },
+    {
+      "from": 788.559,
+      "to": 790.699,
+      "sid": 303,
+      "location": 2,
+      "content": "如果不经常出国啊",
+      "music": 0.0
+    },
+    {
+      "from": 790.699,
+      "to": 793.069,
+      "sid": 304,
+      "location": 2,
+      "content": "也没有什么大量海外资产",
+      "music": 0.0
+    },
+    {
+      "from": 793.069,
+      "to": 796.069,
+      "sid": 305,
+      "location": 2,
+      "content": "日元兑美元的汇率到底是140啊",
+      "music": 0.0
+    },
+    {
+      "from": 796.069,
+      "to": 797.149,
+      "sid": 306,
+      "location": 2,
+      "content": "还是160",
+      "music": 0.0
+    },
+    {
+      "from": 797.149,
+      "to": 800.17,
+      "sid": 307,
+      "location": 2,
+      "content": "体感并没有我们外国人那么直接",
+      "music": 0.0
+    },
+    {
+      "from": 800.17,
+      "to": 802.33,
+      "sid": 308,
+      "location": 2,
+      "content": "他们真正能感受到的是",
+      "music": 0.0
+    },
+    {
+      "from": 802.33,
+      "to": 803.85,
+      "sid": 309,
+      "location": 2,
+      "content": "每天啊去买菜啊",
+      "music": 0.0
+    },
+    {
+      "from": 803.85,
+      "to": 805.13,
+      "sid": 310,
+      "location": 2,
+      "content": "电费涨了多少",
+      "music": 0.0
+    },
+    {
+      "from": 805.13,
+      "to": 807.359,
+      "sid": 311,
+      "location": 2,
+      "content": "工资有没有跟着上涨",
+      "music": 0.0
+    },
+    {
+      "from": 807.359,
+      "to": 809.839,
+      "sid": 312,
+      "location": 2,
+      "content": "你像日本老龄化也是一样",
+      "music": 0.0
+    },
+    {
+      "from": 809.839,
+      "to": 811.539,
+      "sid": 313,
+      "location": 2,
+      "content": "普通家庭早上起来",
+      "music": 0.0
+    },
+    {
+      "from": 811.539,
+      "to": 814.119,
+      "sid": 314,
+      "location": 2,
+      "content": "首先想到的还是送孩子上学呀",
+      "music": 0.0
+    },
+    {
+      "from": 814.119,
+      "to": 815.159,
+      "sid": 315,
+      "location": 2,
+      "content": "上下班呀",
+      "music": 0.0
+    },
+    {
+      "from": 815.159,
+      "to": 816.55,
+      "sid": 316,
+      "location": 2,
+      "content": "做饭问题呀",
+      "music": 0.0
+    },
+    {
+      "from": 816.55,
+      "to": 819.73,
+      "sid": 317,
+      "location": 2,
+      "content": "你像我们刚才聊到一些宏观问题呀",
+      "music": 0.0
+    },
+    {
+      "from": 819.73,
+      "to": 821.49,
+      "sid": 318,
+      "location": 2,
+      "content": "很多日本普通人啊",
+      "music": 0.0
+    },
+    {
+      "from": 821.49,
+      "to": 824.67,
+      "sid": 319,
+      "location": 2,
+      "content": "他也没有时间精力去抢这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 824.67,
+      "to": 826.83,
+      "sid": 320,
+      "location": 2,
+      "content": "关于这个外国人也是一样",
+      "music": 0.0
+    },
+    {
+      "from": 826.83,
+      "to": 829.829,
+      "sid": 321,
+      "location": 2,
+      "content": "虽然网络上讨论的非常激烈吧",
+      "music": 0.0
+    },
+    {
+      "from": 829.829,
+      "to": 831.389,
+      "sid": 322,
+      "location": 2,
+      "content": "但现实生活里",
+      "music": 0.0
+    },
+    {
+      "from": 831.389,
+      "to": 834.669,
+      "sid": 323,
+      "location": 2,
+      "content": "大部分日本人并不会一见到外国人就开始思考",
+      "music": 0.0
+    },
+    {
+      "from": 834.669,
+      "to": 835.84,
+      "sid": 324,
+      "location": 2,
+      "content": "这个移民政策",
+      "music": 0.0
+    },
+    {
+      "from": 835.84,
+      "to": 838.66,
+      "sid": 325,
+      "location": 2,
+      "content": "他们更在意的呢还是贴近生活",
+      "music": 0.0
+    },
+    {
+      "from": 838.66,
+      "to": 841.7,
+      "sid": 326,
+      "location": 2,
+      "content": "就比如说你住在旁边会不会乱扔垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 841.7,
+      "to": 843.33,
+      "sid": 327,
+      "location": 2,
+      "content": "晚上会不会太吵",
+      "music": 0.0
+    },
+    {
+      "from": 843.33,
+      "to": 845.01,
+      "sid": 328,
+      "location": 2,
+      "content": "见面会不会打招呼",
+      "music": 0.0
+    },
+    {
+      "from": 845.01,
+      "to": 847.3,
+      "sid": 329,
+      "location": 2,
+      "content": "孩子能不能正常一起玩",
+      "music": 0.0
+    },
+    {
+      "from": 847.3,
+      "to": 849.44,
+      "sid": 330,
+      "location": 2,
+      "content": "我觉得大部分的日本人啊",
+      "music": 0.0
+    },
+    {
+      "from": 849.44,
+      "to": 853.44,
+      "sid": 331,
+      "location": 2,
+      "content": "其实还是希望政府加强对外国人的审核和管理",
+      "music": 0.0
+    },
+    {
+      "from": 853.44,
+      "to": 855.04,
+      "sid": 332,
+      "location": 2,
+      "content": "这个也很正常",
+      "music": 0.0
+    },
+    {
+      "from": 855.04,
+      "to": 858.56,
+      "sid": 333,
+      "location": 2,
+      "content": "任何国家都会希望来的人呐遵守工作",
+      "music": 0.0
+    },
+    {
+      "from": 858.56,
+      "to": 860.08,
+      "sid": 334,
+      "location": 2,
+      "content": "有稳定的工作啊",
+      "music": 0.0
+    },
+    {
+      "from": 860.08,
+      "to": 862.03,
+      "sid": 335,
+      "location": 2,
+      "content": "不会给社会造成麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 862.03,
+      "to": 865.819,
+      "sid": 336,
+      "location": 2,
+      "content": "但这和排斥所有外国人啊并不是一回事儿",
+      "music": 0.0
+    },
+    {
+      "from": 865.819,
+      "to": 867.739,
+      "sid": 337,
+      "location": 2,
+      "content": "至于偶尔会有人问我",
+      "music": 0.0
+    },
+    {
+      "from": 867.739,
+      "to": 869.759,
+      "sid": 338,
+      "location": 2,
+      "content": "这个日本歧视多不多呀",
+      "music": 0.0
+    },
+    {
+      "from": 869.759,
+      "to": 871.899,
+      "sid": 339,
+      "location": 2,
+      "content": "我觉得任何国家应该都一样",
+      "music": 0.0
+    },
+    {
+      "from": 871.899,
+      "to": 873.95,
+      "sid": 340,
+      "location": 2,
+      "content": "虽然我只来过日本啊",
+      "music": 0.0
+    },
+    {
+      "from": 873.95,
+      "to": 876.09,
+      "sid": 341,
+      "location": 2,
+      "content": "正常善良的人呐",
+      "music": 0.0
+    },
+    {
+      "from": 876.09,
+      "to": 877.57,
+      "sid": 342,
+      "location": 2,
+      "content": "一定是多数的",
+      "music": 0.0
+    },
+    {
+      "from": 877.57,
+      "to": 879.05,
+      "sid": 343,
+      "location": 2,
+      "content": "哪里都有好人",
+      "music": 0.0
+    },
+    {
+      "from": 879.05,
+      "to": 882.28,
+      "sid": 344,
+      "location": 2,
+      "content": "哪里呀也都有差一点意思的人",
+      "music": 0.0
+    },
+    {
+      "from": 882.28,
+      "to": 883.8,
+      "sid": 345,
+      "location": 2,
+      "content": "作为外国人吧",
+      "music": 0.0
+    },
+    {
+      "from": 883.8,
+      "to": 886.02,
+      "sid": 346,
+      "location": 2,
+      "content": "我们控制不了别人怎么想",
+      "music": 0.0
+    },
+    {
+      "from": 886.02,
+      "to": 887.32,
+      "sid": 347,
+      "location": 2,
+      "content": "而且对方怎么想",
+      "music": 0.0
+    },
+    {
+      "from": 887.32,
+      "to": 890.02,
+      "sid": 348,
+      "location": 2,
+      "content": "我们也不知道自己能做到呢",
+      "music": 0.0
+    },
+    {
+      "from": 890.02,
+      "to": 891.9,
+      "sid": 349,
+      "location": 2,
+      "content": "就是遵纪守法啊",
+      "music": 0.0
+    },
+    {
+      "from": 891.9,
+      "to": 894.18,
+      "sid": 350,
+      "location": 2,
+      "content": "垃圾呀按时的扔",
+      "music": 0.0
+    },
+    {
+      "from": 894.18,
+      "to": 895.94,
+      "sid": 351,
+      "location": 2,
+      "content": "见到邻居要打招呼",
+      "music": 0.0
+    },
+    {
+      "from": 895.94,
+      "to": 898.68,
+      "sid": 352,
+      "location": 2,
+      "content": "孩子之间的事情呢也多多的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 898.68,
+      "to": 900.5,
+      "sid": 353,
+      "location": 2,
+      "content": "这个时间久了之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 900.5,
+      "to": 903.62,
+      "sid": 354,
+      "location": 2,
+      "content": "别人对你的印象自然会改变",
+      "music": 0.0
+    },
+    {
+      "from": 903.62,
+      "to": 906.78,
+      "sid": 355,
+      "location": 2,
+      "content": "这也是我从这些邻居身上看到的",
+      "music": 0.0
+    },
+    {
+      "from": 906.78,
+      "to": 910.15,
+      "sid": 356,
+      "location": 2,
+      "content": "不是说他们对日本的未来完全不担心",
+      "music": 0.0
+    },
+    {
+      "from": 910.15,
+      "to": 913.03,
+      "sid": 357,
+      "location": 2,
+      "content": "而是他们不会让这些宏观问题呀",
+      "music": 0.0
+    },
+    {
+      "from": 913.03,
+      "to": 915.01,
+      "sid": 358,
+      "location": 2,
+      "content": "占据自己的全部生活",
+      "music": 0.0
+    },
+    {
+      "from": 915.01,
+      "to": 917.87,
+      "sid": 359,
+      "location": 2,
+      "content": "他们更专注把自己的家庭照顾好",
+      "music": 0.0
+    },
+    {
+      "from": 917.87,
+      "to": 919.05,
+      "sid": 360,
+      "location": 2,
+      "content": "把工作做好",
+      "music": 0.0
+    },
+    {
+      "from": 919.05,
+      "to": 920.37,
+      "sid": 361,
+      "location": 2,
+      "content": "把孩子教育好",
+      "music": 0.0
+    },
+    {
+      "from": 920.37,
+      "to": 923.22,
+      "sid": 362,
+      "location": 2,
+      "content": "把这个邻里关系处理好",
+      "music": 0.0
+    },
+    {
+      "from": 923.22,
+      "to": 925.26,
+      "sid": 363,
+      "location": 2,
+      "content": "所以说日元贬值怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 925.26,
+      "to": 927.44,
+      "sid": 364,
+      "location": 2,
+      "content": "日本老龄化严重怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 927.44,
+      "to": 928.72,
+      "sid": 365,
+      "location": 2,
+      "content": "外国人增多了",
+      "music": 0.0
+    },
+    {
+      "from": 928.72,
+      "to": 930.4,
+      "sid": 366,
+      "location": 2,
+      "content": "犯罪多了怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 930.4,
+      "to": 932.96,
+      "sid": 367,
+      "location": 2,
+      "content": "普通人不可能一个人在家里啊",
+      "music": 0.0
+    },
+    {
+      "from": 932.96,
+      "to": 934.94,
+      "sid": 368,
+      "location": 2,
+      "content": "就把这些问题都给解决了",
+      "music": 0.0
+    },
+    {
+      "from": 934.94,
+      "to": 936.21,
+      "sid": 369,
+      "location": 2,
+      "content": "都想一遍",
+      "music": 0.0
+    },
+    {
+      "from": 936.21,
+      "to": 940.11,
+      "sid": 370,
+      "location": 2,
+      "content": "这也是我看到的一点日本式的思维吧",
+      "music": 0.0
+    },
+    {
+      "from": 944.599,
+      "to": 947.999,
+      "sid": 371,
+      "location": 2,
+      "content": "普通人呢就把每天能做的事情做好",
+      "music": 0.0
+    },
+    {
+      "from": 947.999,
+      "to": 948.919,
+      "sid": 372,
+      "location": 2,
+      "content": "一个家庭",
+      "music": 0.0
+    },
+    {
+      "from": 948.919,
+      "to": 950.359,
+      "sid": 373,
+      "location": 2,
+      "content": "努力把生活过好",
+      "music": 0.0
+    },
+    {
+      "from": 950.359,
+      "to": 953.45,
+      "sid": 374,
+      "location": 2,
+      "content": "如果成千上万个家庭都这样做",
+      "music": 0.0
+    },
+    {
+      "from": 953.45,
+      "to": 955.91,
+      "sid": 375,
+      "location": 2,
+      "content": "这个社会呀就不会乱掉",
+      "music": 0.0
+    },
+    {
+      "from": 955.91,
+      "to": 958.37,
+      "sid": 376,
+      "location": 2,
+      "content": "普通人呢也需要提出意见",
+      "music": 0.0
+    },
+    {
+      "from": 961.48,
+      "to": 962.6,
+      "sid": 377,
+      "location": 2,
+      "content": "但一个社会",
+      "music": 0.0
+    },
+    {
+      "from": 962.6,
+      "to": 965.92,
+      "sid": 378,
+      "location": 2,
+      "content": "如果所有人吧每天只剩下愤怒和焦虑啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.92,
+      "to": 967.18,
+      "sid": 379,
+      "location": 2,
+      "content": "什么都不相信",
+      "music": 0.0
+    },
+    {
+      "from": 967.18,
+      "to": 969.96,
+      "sid": 380,
+      "location": 2,
+      "content": "可能才真的看不到未来",
+      "music": 0.0
+    },
+    {
+      "from": 970.24,
+      "to": 972.86,
+      "sid": 381,
+      "location": 2,
+      "content": "所以我们回到最开始的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 972.86,
+      "to": 974.62,
+      "sid": 382,
+      "location": 2,
+      "content": "日本的未来在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 974.62,
+      "to": 976.76,
+      "sid": 383,
+      "location": 2,
+      "content": "我觉得不止在汇率里",
+      "music": 0.0
+    },
+    {
+      "from": 976.76,
+      "to": 979.11,
+      "sid": 384,
+      "location": 2,
+      "content": "也不在这个外国人数量里",
+      "music": 0.0
+    },
+    {
+      "from": 979.11,
+      "to": 982.55,
+      "sid": 385,
+      "location": 2,
+      "content": "而是日本能不能做出一些有智慧的决策",
+      "music": 0.0
+    },
+    {
+      "from": 982.55,
+      "to": 986.11,
+      "sid": 386,
+      "location": 2,
+      "content": "还有每一个普通家庭能不能继续的认真生活",
+      "music": 0.0
+    },
+    {
+      "from": 986.11,
+      "to": 988.96,
+      "sid": 387,
+      "location": 2,
+      "content": "也希望大家能够留下自己的观点",
+      "music": 0.0
+    },
+    {
+      "from": 988.96,
+      "to": 991.66,
+      "sid": 388,
+      "location": 2,
+      "content": "接下来还是我一家四口的生活花絮",
+      "music": 0.0
+    },
+    {
+      "from": 991.66,
+      "to": 995.18,
+      "sid": 389,
+      "location": 2,
+      "content": "希望大家能够点击订阅这个频道",
+      "music": 0.0
+    },
+    {
+      "from": 995.7,
+      "to": 999.14,
+      "sid": 390,
+      "location": 2,
+      "content": "大姨子把她的太阳伞给大宝了",
+      "music": 0.0
+    },
+    {
+      "from": 999.14,
+      "to": 1001.52,
+      "sid": 391,
+      "location": 2,
+      "content": "大宝非常的开心",
+      "music": 0.0
+    },
+    {
+      "from": 1001.52,
+      "to": 1004.64,
+      "sid": 392,
+      "location": 2,
+      "content": "人生中的第一把自己的伞呢",
+      "music": 0.0
+    },
+    {
+      "from": 1004.64,
+      "to": 1007.0,
+      "sid": 393,
+      "location": 2,
+      "content": "就说下大雨要出来试伞呢",
+      "music": 0.0
+    },
+    {
+      "from": 1007.0,
+      "to": 1008.56,
+      "sid": 394,
+      "location": 2,
+      "content": "啊开心呐",
+      "music": 0.0
+    },
+    {
+      "from": 1008.56,
+      "to": 1012.64,
+      "sid": 395,
+      "location": 2,
+      "content": "为啥我很开心嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1013.56,
+      "to": 1016.5,
+      "sid": 396,
+      "location": 2,
+      "content": "前一阵子他想让他妈给他买个雨伞",
+      "music": 0.0
+    },
+    {
+      "from": 1016.5,
+      "to": 1018.28,
+      "sid": 397,
+      "location": 2,
+      "content": "但是他妈觉得没有用",
+      "music": 0.0
+    },
+    {
+      "from": 1018.28,
+      "to": 1019.8,
+      "sid": 398,
+      "location": 2,
+      "content": "没给她买",
+      "music": 0.0
+    },
+    {
+      "from": 1021.64,
+      "to": 1022.88,
+      "sid": 399,
+      "location": 2,
+      "content": "小宝有点困了",
+      "music": 0.0
+    },
+    {
+      "from": 1022.88,
+      "to": 1031.39,
+      "sid": 400,
+      "location": 2,
+      "content": "是不嗯嗯啊嗯来",
+      "music": 0.0
+    },
+    {
+      "from": 1031.39,
+      "to": 1033.71,
+      "sid": 401,
+      "location": 2,
+      "content": "刚吃完饭啊",
+      "music": 0.0
+    },
+    {
+      "from": 1034.03,
+      "to": 1035.19,
+      "sid": 402,
+      "location": 2,
+      "content": "有点困了",
+      "music": 0.0
+    },
+    {
+      "from": 1035.19,
+      "to": 1037.19,
+      "sid": 403,
+      "location": 2,
+      "content": "是不大",
+      "music": 0.0
+    },
+    {
+      "from": 1037.19,
+      "to": 1042.77,
+      "sid": 404,
+      "location": 2,
+      "content": "胖小子爸爸的梦",
+      "music": 0.08398949910787167
+    },
+    {
+      "from": 1043.33,
+      "to": 1045.56,
+      "sid": 405,
+      "location": 2,
+      "content": "I'll take a bule st",
+      "music": 0.0
+    },
+    {
+      "from": 1046.0,
+      "to": 1048.0,
+      "sid": 406,
+      "location": 2,
+      "content": "哥哥想让弟弟换个地方",
+      "music": 0.0
+    },
+    {
+      "from": 1048.0,
+      "to": 1050.139,
+      "sid": 407,
+      "location": 2,
+      "content": "哥哥要在这里玩哈",
+      "music": 0.0
+    },
+    {
+      "from": 1059.44,
+      "to": 1064.08,
+      "sid": 408,
+      "location": 2,
+      "content": "轻轻的按嗯妹妹的脚脚",
+      "music": 0.0
+    },
+    {
+      "from": 1064.08,
+      "to": 1065.4,
+      "sid": 409,
+      "location": 2,
+      "content": "嗯宝宝",
+      "music": 0.0
+    },
+    {
+      "from": 1065.4,
+      "to": 1068.47,
+      "sid": 410,
+      "location": 2,
+      "content": "你看爸爸哼玩的挺好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1069.91,
+      "to": 1072.75,
+      "sid": 411,
+      "location": 2,
+      "content": "弟弟一脸懵啊嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1073.71,
+      "to": 1077.88,
+      "sid": 412,
+      "location": 2,
+      "content": "晚饭四点吃完再喝点奶",
+      "music": 0.0
+    },
+    {
+      "from": 1077.88,
+      "to": 1080.18,
+      "sid": 413,
+      "location": 2,
+      "content": "然后睡前再喝一顿奶",
+      "music": 0.0
+    },
+    {
+      "from": 1082.22,
+      "to": 1083.86,
+      "sid": 414,
+      "location": 2,
+      "content": "这嘴动这么多",
+      "music": 0.0
+    },
+    {
+      "from": 1083.86,
+      "to": 1085.6,
+      "sid": 415,
+      "location": 2,
+      "content": "说明它很爱吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 1085.6,
+      "to": 1088.74,
+      "sid": 416,
+      "location": 2,
+      "content": "吃瓜吃嗯",
+      "music": 0.12307691360953545
+    },
+    {
+      "from": 1088.74,
+      "to": 1089.64,
+      "sid": 417,
+      "location": 2,
+      "content": "好吃啊",
+      "music": 0.0
+    },
+    {
+      "from": 1090.72,
+      "to": 1093.75,
+      "sid": 418,
+      "location": 2,
+      "content": "嗯这还有一个表演绝活的",
+      "music": 0.0
+    },
+    {
+      "from": 1094.51,
+      "to": 1095.71,
+      "sid": 419,
+      "location": 2,
+      "content": "唱个歌儿吧",
+      "music": 0.0
+    },
+    {
+      "from": 1095.71,
+      "to": 1099.51,
+      "sid": 420,
+      "location": 2,
+      "content": "给我噗嘿诶大哈喇子嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1099.51,
+      "to": 1101.57,
+      "sid": 421,
+      "location": 2,
+      "content": "爸爸拿纸巾给你擦一擦啊",
+      "music": 0.0
+    },
+    {
+      "from": 1101.57,
+      "to": 1105.54,
+      "sid": 422,
+      "location": 2,
+      "content": "嗯饭刚吃完没有",
+      "music": 0.0
+    },
+    {
+      "from": 1105.54,
+      "to": 1106.72,
+      "sid": 423,
+      "location": 2,
+      "content": "立刻给你奶呀",
+      "music": 0.0
+    },
+    {
+      "from": 1106.72,
+      "to": 1108.52,
+      "sid": 424,
+      "location": 2,
+      "content": "立刻就哭了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1108.52,
+      "to": 1111.43,
+      "sid": 425,
+      "location": 2,
+      "content": "看来小宝也是个吃货呀",
+      "music": 0.0
+    },
+    {
+      "from": 1111.43,
+      "to": 1113.63,
+      "sid": 426,
+      "location": 2,
+      "content": "像谁像爸爸啊",
+      "music": 0.0
+    },
+    {
+      "from": 1113.63,
+      "to": 1116.11,
+      "sid": 427,
+      "location": 2,
+      "content": "在这偷摸吃葡萄干呢",
+      "music": 0.0
+    },
+    {
+      "from": 1116.11,
+      "to": 1120.37,
+      "sid": 428,
+      "location": 2,
+      "content": "哈怕妈妈看到生气是不爸爸给的哈",
+      "music": 0.0
+    },
+    {
+      "from": 1120.37,
+      "to": 1121.69,
+      "sid": 429,
+      "location": 2,
+      "content": "爸爸好不好",
+      "music": 0.0
+    },
+    {
+      "from": 1121.69,
+      "to": 1128.03,
+      "sid": 430,
+      "location": 2,
+      "content": "嗯怕爸爸吃饭了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1128.38,
+      "to": 1131.24,
+      "sid": 431,
+      "location": 2,
+      "content": "今天呢做一个角瓜炒猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 1131.24,
+      "to": 1133.56,
+      "sid": 432,
+      "location": 2,
+      "content": "然后某特意煮了一个南瓜",
+      "music": 0.0
+    },
+    {
+      "from": 1133.84,
+      "to": 1135.66,
+      "sid": 433,
+      "location": 2,
+      "content": "然后翻冰箱才发现啊",
+      "music": 0.0
+    },
+    {
+      "from": 1135.66,
+      "to": 1136.48,
+      "sid": 434,
+      "location": 2,
+      "content": "这还有个毛",
+      "music": 0.0
+    },
+    {
+      "from": 1136.48,
+      "to": 1139.38,
+      "sid": 435,
+      "location": 2,
+      "content": "把东北的特色炖个鸡蛋",
+      "music": 0.0
+    },
+    {
+      "from": 1139.38,
+      "to": 1141.59,
+      "sid": 436,
+      "location": 2,
+      "content": "炒个鸡蛋就吃饭了",
+      "music": 0.0
+    },
+    {
+      "from": 1141.59,
+      "to": 1143.41,
+      "sid": 437,
+      "location": 2,
+      "content": "小宝刚睡醒",
+      "music": 0.0
+    },
+    {
+      "from": 1143.41,
+      "to": 1145.23,
+      "sid": 438,
+      "location": 2,
+      "content": "紧接着就洗澡了",
+      "music": 0.0
+    },
+    {
+      "from": 1145.23,
+      "to": 1150.39,
+      "sid": 439,
+      "location": 2,
+      "content": "现在小宝对食物的欲望非常的强烈嗯",
+      "music": 0.06211179931331176
+    },
+    {
+      "from": 1153.36,
+      "to": 1157.1,
+      "sid": 440,
+      "location": 2,
+      "content": "飞机飞机来一个",
+      "music": 0.0
+    },
+    {
+      "from": 1166.4,
+      "to": 1170.6,
+      "sid": 441,
+      "location": 2,
+      "content": "嗯饭后一个大李子",
+      "music": 0.0
+    },
+    {
+      "from": 1170.76,
+      "to": 1172.86,
+      "sid": 442,
+      "location": 2,
+      "content": "感谢大家的收看呀",
+      "music": 0.0
+    },
+    {
+      "from": 1172.86,
+      "to": 1177.09,
+      "sid": 443,
+      "location": 2,
+      "content": "希望大家有一个美好的夜晚或者美好的白天",
+      "music": 0.0
+    },
+    {
+      "from": 1177.09,
+      "to": 1178.45,
+      "sid": 444,
+      "location": 2,
+      "content": "我是小金",
+      "music": 0.0
+    },
+    {
+      "from": 1178.45,
+      "to": 1179.83,
+      "sid": 445,
+      "location": 2,
+      "content": "我们下次再见",
+      "music": 0.0
+    },
+    {
+      "from": 1179.83,
+      "to": 1180.6,
+      "sid": 446,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

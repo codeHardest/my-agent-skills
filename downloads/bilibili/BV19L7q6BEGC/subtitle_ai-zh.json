@@ -1,0 +1,2692 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.06,
+      "to": 0.58,
+      "sid": 1,
+      "location": 2,
+      "content": "各位好",
+      "music": 0.0
+    },
+    {
+      "from": 0.58,
+      "to": 2.94,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎收看cs同学六月的宏观推演",
+      "music": 0.0
+    },
+    {
+      "from": 2.94,
+      "to": 6.04,
+      "sid": 3,
+      "location": 2,
+      "content": "上个月呢我们的主题是碳基通缩和硅基通胀",
+      "music": 0.0
+    },
+    {
+      "from": 6.04,
+      "to": 8.34,
+      "sid": 4,
+      "location": 2,
+      "content": "这个趋势呢到了本月依旧在加剧",
+      "music": 0.0
+    },
+    {
+      "from": 8.34,
+      "to": 8.98,
+      "sid": 5,
+      "location": 2,
+      "content": "国内方面",
+      "music": 0.0
+    },
+    {
+      "from": 8.98,
+      "to": 10.72,
+      "sid": 6,
+      "location": 2,
+      "content": "我们早在年前就预告大家了",
+      "music": 0.0
+    },
+    {
+      "from": 10.72,
+      "to": 13.73,
+      "sid": 7,
+      "location": 2,
+      "content": "我国经济呢会在二季度末到三季度开始放缓",
+      "music": 0.0
+    },
+    {
+      "from": 13.73,
+      "to": 16.72,
+      "sid": 8,
+      "location": 2,
+      "content": "这个进程超预期的进一步提前到了4月到5月",
+      "music": 0.0
+    },
+    {
+      "from": 16.72,
+      "to": 19.28,
+      "sid": 9,
+      "location": 2,
+      "content": "二季度呢我国经济除了出口为之强势",
+      "music": 0.0
+    },
+    {
+      "from": 19.28,
+      "to": 21.68,
+      "sid": 10,
+      "location": 2,
+      "content": "其余的投资和消费呢已经呈现出",
+      "music": 0.0
+    },
+    {
+      "from": 21.68,
+      "to": 23.34,
+      "sid": 11,
+      "location": 2,
+      "content": "回到去年四季度的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 23.34,
+      "to": 24.9,
+      "sid": 12,
+      "location": 2,
+      "content": "尤其是消费呢在近期",
+      "music": 0.0
+    },
+    {
+      "from": 24.9,
+      "to": 28.03,
+      "sid": 13,
+      "location": 2,
+      "content": "因为之前补贴造成的高基数和透支的效应",
+      "music": 0.0
+    },
+    {
+      "from": 28.03,
+      "to": 29.87,
+      "sid": 14,
+      "location": 2,
+      "content": "时隔多年首次负增长",
+      "music": 0.0
+    },
+    {
+      "from": 29.87,
+      "to": 31.89,
+      "sid": 15,
+      "location": 2,
+      "content": "而信贷的社融呢也在进一步恶化",
+      "music": 0.0
+    },
+    {
+      "from": 33.47,
+      "to": 34.82,
+      "sid": 16,
+      "location": 2,
+      "content": "信心不足的另一面",
+      "music": 0.0
+    },
+    {
+      "from": 34.82,
+      "to": 36.9,
+      "sid": 17,
+      "location": 2,
+      "content": "是科技相关的投融资一片火热",
+      "music": 0.0
+    },
+    {
+      "from": 36.9,
+      "to": 37.74,
+      "sid": 18,
+      "location": 2,
+      "content": "这种现象呢",
+      "music": 0.0
+    },
+    {
+      "from": 37.74,
+      "to": 40.34,
+      "sid": 19,
+      "location": 2,
+      "content": "因为我国经济处于房地产的下行周期",
+      "music": 0.0
+    },
+    {
+      "from": 40.34,
+      "to": 42.26,
+      "sid": 20,
+      "location": 2,
+      "content": "所以在全球表现的最为极化",
+      "music": 0.0
+    },
+    {
+      "from": 42.26,
+      "to": 43.22,
+      "sid": 21,
+      "location": 2,
+      "content": "但事实上呢",
+      "music": 0.0
+    },
+    {
+      "from": 43.22,
+      "to": 45.98,
+      "sid": 22,
+      "location": 2,
+      "content": "日韩欧美如今也都或多或少的出现了",
+      "music": 0.0
+    },
+    {
+      "from": 45.98,
+      "to": 47.76,
+      "sid": 23,
+      "location": 2,
+      "content": "这种科技热消费凉的症状",
+      "music": 0.0
+    },
+    {
+      "from": 47.76,
+      "to": 49.72,
+      "sid": 24,
+      "location": 2,
+      "content": "我总感觉这偏离经济学常识",
+      "music": 0.0
+    },
+    {
+      "from": 49.72,
+      "to": 51.1,
+      "sid": 25,
+      "location": 2,
+      "content": "人造出来的经济增长",
+      "music": 0.0
+    },
+    {
+      "from": 51.1,
+      "to": 53.14,
+      "sid": 26,
+      "location": 2,
+      "content": "背后呢会有一场高风险的处境",
+      "music": 0.0
+    },
+    {
+      "from": 53.14,
+      "to": 56.019,
+      "sid": 27,
+      "location": 2,
+      "content": "而且最后让科技崩盘的元凶可能是原油",
+      "music": 0.0
+    },
+    {
+      "from": 56.019,
+      "to": 57.159,
+      "sid": 28,
+      "location": 2,
+      "content": "就我国而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 57.159,
+      "to": 58.779,
+      "sid": 29,
+      "location": 2,
+      "content": "极度依靠出口拉动的经济",
+      "music": 0.0
+    },
+    {
+      "from": 58.779,
+      "to": 61.26,
+      "sid": 30,
+      "location": 2,
+      "content": "最怕的就是出口端的外需大幅走弱",
+      "music": 0.0
+    },
+    {
+      "from": 61.26,
+      "to": 63.2,
+      "sid": 31,
+      "location": 2,
+      "content": "目前国外的需求还并没有出现",
+      "music": 0.0
+    },
+    {
+      "from": 63.2,
+      "to": 65.22,
+      "sid": 32,
+      "location": 2,
+      "content": "我国内需负增长的极端情况",
+      "music": 0.0
+    },
+    {
+      "from": 65.22,
+      "to": 66.66,
+      "sid": 33,
+      "location": 2,
+      "content": "但高油价的长期影响",
+      "music": 0.0
+    },
+    {
+      "from": 66.66,
+      "to": 68.89,
+      "sid": 34,
+      "location": 2,
+      "content": "正在逐渐的削弱全球的购买力",
+      "music": 0.0
+    },
+    {
+      "from": 68.89,
+      "to": 71.57,
+      "sid": 35,
+      "location": 2,
+      "content": "而美国方面本月公布的5月居民物价",
+      "music": 0.0
+    },
+    {
+      "from": 71.57,
+      "to": 73.41,
+      "sid": 36,
+      "location": 2,
+      "content": "CPI同比上涨了4.2",
+      "music": 0.0
+    },
+    {
+      "from": 73.41,
+      "to": 75.43,
+      "sid": 37,
+      "location": 2,
+      "content": "创出了近3年来的最高水平",
+      "music": 0.0
+    },
+    {
+      "from": 75.43,
+      "to": 77.59,
+      "sid": 38,
+      "location": 2,
+      "content": "这场美伊冲突造成的油价上涨",
+      "music": 0.0
+    },
+    {
+      "from": 80.67,
+      "to": 82.99,
+      "sid": 39,
+      "location": 2,
+      "content": "高位的油价会持续压制降息预期",
+      "music": 0.0
+    },
+    {
+      "from": 82.99,
+      "to": 84.32,
+      "sid": 40,
+      "location": 2,
+      "content": "抬高加息压力",
+      "music": 0.0
+    },
+    {
+      "from": 84.32,
+      "to": 87.24,
+      "sid": 41,
+      "location": 2,
+      "content": "对高估值的科技股和支撑美国经济的科技",
+      "music": 0.0
+    },
+    {
+      "from": 87.24,
+      "to": 88.92,
+      "sid": 42,
+      "location": 2,
+      "content": "资本开支呢都是反式",
+      "music": 0.0
+    },
+    {
+      "from": 88.92,
+      "to": 91.1,
+      "sid": 43,
+      "location": 2,
+      "content": "虽然本月美伊的和谈出现了进展",
+      "music": 0.0
+    },
+    {
+      "from": 91.1,
+      "to": 92.66,
+      "sid": 44,
+      "location": 2,
+      "content": "油价跌回了80以下",
+      "music": 0.0
+    },
+    {
+      "from": 92.66,
+      "to": 96.12,
+      "sid": 45,
+      "location": 2,
+      "content": "让市场对中国外需回落和美国进入加息的担忧",
+      "music": 0.0
+    },
+    {
+      "from": 96.12,
+      "to": 96.94,
+      "sid": 46,
+      "location": 2,
+      "content": "有所缓解",
+      "music": 0.0
+    },
+    {
+      "from": 99.06,
+      "to": 101.02,
+      "sid": 47,
+      "location": 2,
+      "content": "但美伊谈判拖的有些太久了",
+      "music": 0.0
+    },
+    {
+      "from": 101.02,
+      "to": 104.14,
+      "sid": 48,
+      "location": 2,
+      "content": "目前全球原油的库存已经跌破了百日警戒线",
+      "music": 0.0
+    },
+    {
+      "from": 104.14,
+      "to": 105.02,
+      "sid": 49,
+      "location": 2,
+      "content": "到6月中旬",
+      "music": 0.0
+    },
+    {
+      "from": 105.02,
+      "to": 108.14,
+      "sid": 50,
+      "location": 2,
+      "content": "全球原油仅可满足全球98天的需求",
+      "music": 0.0
+    },
+    {
+      "from": 108.14,
+      "to": 110.22,
+      "sid": 51,
+      "location": 2,
+      "content": "就算现在海峡恢复通航",
+      "music": 0.0
+    },
+    {
+      "from": 110.22,
+      "to": 112.28,
+      "sid": 52,
+      "location": 2,
+      "content": "在全球补充库存的需求之下",
+      "music": 0.0
+    },
+    {
+      "from": 112.28,
+      "to": 114.39,
+      "sid": 53,
+      "location": 2,
+      "content": "油价也难以回到大涨之前",
+      "music": 0.0
+    },
+    {
+      "from": 114.39,
+      "to": 115.75,
+      "sid": 54,
+      "location": 2,
+      "content": "高油价造成的影响",
+      "music": 0.0
+    },
+    {
+      "from": 115.75,
+      "to": 117.71,
+      "sid": 55,
+      "location": 2,
+      "content": "现在可能还只是刚刚开始",
+      "music": 0.0
+    },
+    {
+      "from": 117.71,
+      "to": 120.75,
+      "sid": 56,
+      "location": 2,
+      "content": "本月这次的资本市场因为美伊和谈出现了上涨",
+      "music": 0.0
+    },
+    {
+      "from": 120.75,
+      "to": 123.66,
+      "sid": 57,
+      "location": 2,
+      "content": "我认为可能是正式入危机前的一次回光返照",
+      "music": 0.0
+    },
+    {
+      "from": 123.66,
+      "to": 125.86,
+      "sid": 58,
+      "location": 2,
+      "content": "何时危机才会张开它的大嘴",
+      "music": 0.0
+    },
+    {
+      "from": 125.86,
+      "to": 127.48,
+      "sid": 59,
+      "location": 2,
+      "content": "国内要看外需的变化",
+      "music": 0.0
+    },
+    {
+      "from": 127.48,
+      "to": 129.22,
+      "sid": 60,
+      "location": 2,
+      "content": "国际则要看利率变化",
+      "music": 0.0
+    },
+    {
+      "from": 129.22,
+      "to": 129.66,
+      "sid": 61,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 129.66,
+      "to": 132.7,
+      "sid": 62,
+      "location": 2,
+      "content": "接下来我们再具体的看看本月的经济数据变化",
+      "music": 0.0
+    },
+    {
+      "from": 132.7,
+      "to": 133.92,
+      "sid": 63,
+      "location": 2,
+      "content": "首先呢是国内方面",
+      "music": 0.0
+    },
+    {
+      "from": 133.92,
+      "to": 137.06,
+      "sid": 64,
+      "location": 2,
+      "content": "本月国内的物价在投资和消费双低迷的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 137.06,
+      "to": 138.04,
+      "sid": 65,
+      "location": 2,
+      "content": "保持了韧性",
+      "music": 0.0
+    },
+    {
+      "from": 138.04,
+      "to": 140.66,
+      "sid": 66,
+      "location": 2,
+      "content": "居民物价CPI同比增长了1.2%",
+      "music": 0.0
+    },
+    {
+      "from": 140.66,
+      "to": 142.8,
+      "sid": 67,
+      "location": 2,
+      "content": "环比上个月呢下降了1.1%",
+      "music": 0.0
+    },
+    {
+      "from": 142.8,
+      "to": 144.38,
+      "sid": 68,
+      "location": 2,
+      "content": "CPI能保持正增长",
+      "music": 0.0
+    },
+    {
+      "from": 144.38,
+      "to": 145.82,
+      "sid": 69,
+      "location": 2,
+      "content": "一个是去年基数太低",
+      "music": 0.0
+    },
+    {
+      "from": 145.82,
+      "to": 147.04,
+      "sid": 70,
+      "location": 2,
+      "content": "那另一个是上游",
+      "music": 0.0
+    },
+    {
+      "from": 147.04,
+      "to": 148.52,
+      "sid": 71,
+      "location": 2,
+      "content": "尤其是原油带来的涨价",
+      "music": 0.0
+    },
+    {
+      "from": 148.52,
+      "to": 150.5,
+      "sid": 72,
+      "location": 2,
+      "content": "已经影响到了下游的消费品",
+      "music": 0.0
+    },
+    {
+      "from": 150.5,
+      "to": 153.19,
+      "sid": 73,
+      "location": 2,
+      "content": "如果我们剔除掉原油带来的被动涨价",
+      "music": 0.0
+    },
+    {
+      "from": 153.19,
+      "to": 156.13,
+      "sid": 74,
+      "location": 2,
+      "content": "但实际其他消费品价格依旧在底部徘徊",
+      "music": 0.0
+    },
+    {
+      "from": 156.13,
+      "to": 157.95,
+      "sid": 75,
+      "location": 2,
+      "content": "而工业物价呢更是超预期的",
+      "music": 0.0
+    },
+    {
+      "from": 157.95,
+      "to": 159.47,
+      "sid": 76,
+      "location": 2,
+      "content": "同比增长了3.9%",
+      "music": 0.0
+    },
+    {
+      "from": 159.47,
+      "to": 160.89,
+      "sid": 77,
+      "location": 2,
+      "content": "环比增长0.5%",
+      "music": 0.0
+    },
+    {
+      "from": 160.89,
+      "to": 162.55,
+      "sid": 78,
+      "location": 2,
+      "content": "上升势头看似很强",
+      "music": 0.0
+    },
+    {
+      "from": 162.55,
+      "to": 164.23,
+      "sid": 79,
+      "location": 2,
+      "content": "但从这张图我们就能看到",
+      "music": 0.0
+    },
+    {
+      "from": 164.23,
+      "to": 165.95,
+      "sid": 80,
+      "location": 2,
+      "content": "我国工业端物价的回暖呢",
+      "music": 0.0
+    },
+    {
+      "from": 165.95,
+      "to": 168.11,
+      "sid": 81,
+      "location": 2,
+      "content": "主要集中在AI和能源相关的行业",
+      "music": 0.0
+    },
+    {
+      "from": 168.11,
+      "to": 169.02,
+      "sid": 82,
+      "location": 2,
+      "content": "正常的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 171.82,
+      "to": 173.98,
+      "sid": 83,
+      "location": 2,
+      "content": "进而拉动企业增产扩产的动力",
+      "music": 0.0
+    },
+    {
+      "from": 173.98,
+      "to": 176.72,
+      "sid": 84,
+      "location": 2,
+      "content": "但是从这份企业固定投资计划的数据来看",
+      "music": 0.0
+    },
+    {
+      "from": 176.72,
+      "to": 178.31,
+      "sid": 85,
+      "location": 2,
+      "content": "这种情况并没有发生",
+      "music": 0.0
+    },
+    {
+      "from": 178.31,
+      "to": 179.11,
+      "sid": 86,
+      "location": 2,
+      "content": "说到底呢",
+      "music": 0.0
+    },
+    {
+      "from": 179.11,
+      "to": 180.31,
+      "sid": 87,
+      "location": 2,
+      "content": "其实这波开年后",
+      "music": 0.0
+    },
+    {
+      "from": 180.31,
+      "to": 182.71,
+      "sid": 88,
+      "location": 2,
+      "content": "工业物价的上涨其实跟居民物价一样",
+      "music": 0.0
+    },
+    {
+      "from": 182.71,
+      "to": 184.04,
+      "sid": 89,
+      "location": 2,
+      "content": "被动大于主动",
+      "music": 0.0
+    },
+    {
+      "from": 184.04,
+      "to": 185.56,
+      "sid": 90,
+      "location": 2,
+      "content": "而AI带来的投资增量",
+      "music": 0.0
+    },
+    {
+      "from": 185.56,
+      "to": 187.8,
+      "sid": 91,
+      "location": 2,
+      "content": "跟我国全体行业的投资下行相比呢",
+      "music": 0.0
+    },
+    {
+      "from": 187.8,
+      "to": 188.84,
+      "sid": 92,
+      "location": 2,
+      "content": "只能是洒洒水",
+      "music": 0.0
+    },
+    {
+      "from": 188.84,
+      "to": 192.08,
+      "sid": 93,
+      "location": 2,
+      "content": "近期在我国工业端最为显著的问题是缺乏订单",
+      "music": 0.0
+    },
+    {
+      "from": 192.08,
+      "to": 195.14,
+      "sid": 94,
+      "location": 2,
+      "content": "本月公布的5月国内制造业PMI是50",
+      "music": 0.0
+    },
+    {
+      "from": 195.14,
+      "to": 197.78,
+      "sid": 95,
+      "location": 2,
+      "content": "至少呢没有重新调到荣枯线下方",
+      "music": 0.0
+    },
+    {
+      "from": 197.78,
+      "to": 199.5,
+      "sid": 96,
+      "location": 2,
+      "content": "但在政府和企业投资增速",
+      "music": 0.0
+    },
+    {
+      "from": 199.5,
+      "to": 201.86,
+      "sid": 97,
+      "location": 2,
+      "content": "二季度明显重新掉头向下的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 201.86,
+      "to": 204.86,
+      "sid": 98,
+      "location": 2,
+      "content": "制造业冷热最上游的订单在近期已经开始减少",
+      "music": 0.0
+    },
+    {
+      "from": 204.86,
+      "to": 206.22,
+      "sid": 99,
+      "location": 2,
+      "content": "从这张图呢可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 206.22,
+      "to": 209.3,
+      "sid": 100,
+      "location": 2,
+      "content": "新订单和新出口订单已经来到了荣枯线的下方",
+      "music": 0.0
+    },
+    {
+      "from": 209.3,
+      "to": 211.78,
+      "sid": 101,
+      "location": 2,
+      "content": "而生产端因为原材料价格的大幅升高",
+      "music": 0.0
+    },
+    {
+      "from": 211.78,
+      "to": 215.57,
+      "sid": 102,
+      "location": 2,
+      "content": "成为了拉动PMI还在50荣枯线上方的主要推力",
+      "music": 0.0
+    },
+    {
+      "from": 215.57,
+      "to": 217.47,
+      "sid": 103,
+      "location": 2,
+      "content": "跟刚刚我们讲到的物价一样",
+      "music": 0.0
+    },
+    {
+      "from": 217.47,
+      "to": 218.81,
+      "sid": 104,
+      "location": 2,
+      "content": "如果剔除掉油价影响",
+      "music": 0.0
+    },
+    {
+      "from": 218.81,
+      "to": 220.65,
+      "sid": 105,
+      "location": 2,
+      "content": "那实际数据都跟去年差不多",
+      "music": 0.0
+    },
+    {
+      "from": 220.65,
+      "to": 222.26,
+      "sid": 106,
+      "location": 2,
+      "content": "甚至说可能还不如去年",
+      "music": 0.0
+    },
+    {
+      "from": 222.26,
+      "to": 224.28,
+      "sid": 107,
+      "location": 2,
+      "content": "今年因为AI造成的一九分化",
+      "music": 0.0
+    },
+    {
+      "from": 224.28,
+      "to": 226.02,
+      "sid": 108,
+      "location": 2,
+      "content": "不在AI产业链的中小企业",
+      "music": 0.0
+    },
+    {
+      "from": 226.02,
+      "to": 227.72,
+      "sid": 109,
+      "location": 2,
+      "content": "体感可能会比去年更差",
+      "music": 0.0
+    },
+    {
+      "from": 227.72,
+      "to": 230.0,
+      "sid": 110,
+      "location": 2,
+      "content": "跟居民实际体感更接近的消费端",
+      "music": 0.0
+    },
+    {
+      "from": 230.0,
+      "to": 232.44,
+      "sid": 111,
+      "location": 2,
+      "content": "本月自2023年以来首次转服",
+      "music": 0.0
+    },
+    {
+      "from": 232.44,
+      "to": 232.92,
+      "sid": 112,
+      "location": 2,
+      "content": "之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 232.92,
+      "to": 234.2,
+      "sid": 113,
+      "location": 2,
+      "content": "我已经多次跟大家讲过",
+      "music": 0.0
+    },
+    {
+      "from": 234.2,
+      "to": 235.38,
+      "sid": 114,
+      "location": 2,
+      "content": "今年消费的压力",
+      "music": 0.0
+    },
+    {
+      "from": 235.38,
+      "to": 237.48,
+      "sid": 115,
+      "location": 2,
+      "content": "国补导致的前两年异常增长",
+      "music": 0.0
+    },
+    {
+      "from": 237.48,
+      "to": 240.64,
+      "sid": 116,
+      "location": 2,
+      "content": "在今年不仅让数据在高基数下进入了负增长",
+      "music": 0.0
+    },
+    {
+      "from": 240.64,
+      "to": 243.899,
+      "sid": 117,
+      "location": 2,
+      "content": "而且还让被透支的需求呢在今年恶果显现之前",
+      "music": 0.0
+    },
+    {
+      "from": 243.899,
+      "to": 245.359,
+      "sid": 118,
+      "location": 2,
+      "content": "被补贴的通讯器材",
+      "music": 0.0
+    },
+    {
+      "from": 245.359,
+      "to": 248.039,
+      "sid": 119,
+      "location": 2,
+      "content": "汽车家电如今负增长的最为剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 248.039,
+      "to": 250.499,
+      "sid": 120,
+      "location": 2,
+      "content": "而因为前两年异常增长而盲目扩产的",
+      "music": 0.0
+    },
+    {
+      "from": 250.499,
+      "to": 252.98,
+      "sid": 121,
+      "location": 2,
+      "content": "部分商家呢更是加剧了这种供需失衡",
+      "music": 0.0
+    },
+    {
+      "from": 252.98,
+      "to": 254.7,
+      "sid": 122,
+      "location": 2,
+      "content": "尤其最近消费的透支",
+      "music": 0.0
+    },
+    {
+      "from": 254.7,
+      "to": 256.58,
+      "sid": 123,
+      "location": 2,
+      "content": "进一步证明了补贴的反身性",
+      "music": 0.0
+    },
+    {
+      "from": 256.58,
+      "to": 259.64,
+      "sid": 124,
+      "location": 2,
+      "content": "持续了3年的消费国补大概率会继续退坡",
+      "music": 0.0
+    },
+    {
+      "from": 259.64,
+      "to": 261.08,
+      "sid": 125,
+      "location": 2,
+      "content": "在2020年之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 261.08,
+      "to": 263.6,
+      "sid": 126,
+      "location": 2,
+      "content": "我国的消费增速从没低于过8%",
+      "music": 0.0
+    },
+    {
+      "from": 263.6,
+      "to": 265.6,
+      "sid": 127,
+      "location": 2,
+      "content": "如果按照这个增速来计算的话",
+      "music": 0.0
+    },
+    {
+      "from": 265.6,
+      "to": 266.54,
+      "sid": 128,
+      "location": 2,
+      "content": "截止到上个月",
+      "music": 0.0
+    },
+    {
+      "from": 266.54,
+      "to": 269.0,
+      "sid": 129,
+      "location": 2,
+      "content": "我国居民少消费了大概60万亿",
+      "music": 0.0
+    },
+    {
+      "from": 269.0,
+      "to": 270.54,
+      "sid": 130,
+      "location": 2,
+      "content": "这消失的60万亿",
+      "music": 0.0
+    },
+    {
+      "from": 270.54,
+      "to": 273.909,
+      "sid": 131,
+      "location": 2,
+      "content": "其实才是目前大家对经济体感不佳的根本原因",
+      "music": 0.0
+    },
+    {
+      "from": 273.909,
+      "to": 276.569,
+      "sid": 132,
+      "location": 2,
+      "content": "过去3年超积极的货币政策也证明了",
+      "music": 0.0
+    },
+    {
+      "from": 276.569,
+      "to": 278.849,
+      "sid": 133,
+      "location": 2,
+      "content": "放水在投资回报率起不来的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 278.849,
+      "to": 279.84,
+      "sid": 134,
+      "location": 2,
+      "content": "效果并不大",
+      "music": 0.0
+    },
+    {
+      "from": 279.84,
+      "to": 280.82,
+      "sid": 135,
+      "location": 2,
+      "content": "从这张图来看",
+      "music": 0.0
+    },
+    {
+      "from": 280.82,
+      "to": 283.1,
+      "sid": 136,
+      "location": 2,
+      "content": "二季度以来我国的GDP降速明显",
+      "music": 0.0
+    },
+    {
+      "from": 283.1,
+      "to": 284.2,
+      "sid": 137,
+      "location": 2,
+      "content": "按照这个趋势",
+      "music": 0.0
+    },
+    {
+      "from": 284.2,
+      "to": 286.1,
+      "sid": 138,
+      "location": 2,
+      "content": "今年5%左右的增长目标",
+      "music": 0.0
+    },
+    {
+      "from": 286.1,
+      "to": 287.68,
+      "sid": 139,
+      "location": 2,
+      "content": "可能完成的不会很漂亮",
+      "music": 0.0
+    },
+    {
+      "from": 287.68,
+      "to": 290.98,
+      "sid": 140,
+      "location": 2,
+      "content": "所以呢有人推断三季度高层可能会有所动作",
+      "music": 0.0
+    },
+    {
+      "from": 290.98,
+      "to": 294.22,
+      "sid": 141,
+      "location": 2,
+      "content": "但现阶段呢外需和科技又都表现得比较强劲",
+      "music": 0.0
+    },
+    {
+      "from": 294.22,
+      "to": 297.7,
+      "sid": 142,
+      "location": 2,
+      "content": "再度扩表放水或者倾斜消费的必要性都在降低",
+      "music": 0.0
+    },
+    {
+      "from": 297.7,
+      "to": 299.86,
+      "sid": 143,
+      "location": 2,
+      "content": "最近央行和高层的经济工作会议",
+      "music": 0.0
+    },
+    {
+      "from": 299.86,
+      "to": 301.23,
+      "sid": 144,
+      "location": 2,
+      "content": "都没有松口的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 304.33,
+      "to": 307.78,
+      "sid": 145,
+      "location": 2,
+      "content": "那我认为虽然经济数据上不会表现的比去年差",
+      "music": 0.0
+    },
+    {
+      "from": 307.78,
+      "to": 309.3,
+      "sid": 146,
+      "location": 2,
+      "content": "但实际的就业和收入",
+      "music": 0.0
+    },
+    {
+      "from": 309.3,
+      "to": 312.46,
+      "sid": 147,
+      "location": 2,
+      "content": "可能会因为高层力挺的新经济而进一步下行",
+      "music": 0.0
+    },
+    {
+      "from": 312.46,
+      "to": 313.46,
+      "sid": 148,
+      "location": 2,
+      "content": "说的有点多了",
+      "music": 0.0
+    },
+    {
+      "from": 313.46,
+      "to": 314.06,
+      "sid": 149,
+      "location": 2,
+      "content": "国内方面的",
+      "music": 0.0
+    },
+    {
+      "from": 314.06,
+      "to": 317.18,
+      "sid": 150,
+      "location": 2,
+      "content": "最后呢我们再跟踪一下最新的房地产相关数据",
+      "music": 0.0
+    },
+    {
+      "from": 317.18,
+      "to": 318.46,
+      "sid": 151,
+      "location": 2,
+      "content": "本月开年后呢",
+      "music": 0.0
+    },
+    {
+      "from": 318.46,
+      "to": 320.39,
+      "sid": 152,
+      "location": 2,
+      "content": "房价反弹可以说是正式结束了",
+      "music": 0.0
+    },
+    {
+      "from": 320.39,
+      "to": 322.73,
+      "sid": 153,
+      "location": 2,
+      "content": "从这张图的灰线环比数据可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 322.73,
+      "to": 325.7,
+      "sid": 154,
+      "location": 2,
+      "content": "4月这波小阳春带来的止跌企稳开始松动",
+      "music": 0.0
+    },
+    {
+      "from": 325.7,
+      "to": 327.64,
+      "sid": 155,
+      "location": 2,
+      "content": "到了5月跌幅呢开始扩大",
+      "music": 0.0
+    },
+    {
+      "from": 327.64,
+      "to": 328.66,
+      "sid": 156,
+      "location": 2,
+      "content": "6月还在反弹",
+      "music": 0.0
+    },
+    {
+      "from": 328.66,
+      "to": 331.26,
+      "sid": 157,
+      "location": 2,
+      "content": "上涨的城市已经一只手可以数得过来了",
+      "music": 0.0
+    },
+    {
+      "from": 331.26,
+      "to": 332.46,
+      "sid": 158,
+      "location": 2,
+      "content": "从冰山的数据来看",
+      "music": 0.0
+    },
+    {
+      "from": 332.46,
+      "to": 335.2,
+      "sid": 159,
+      "location": 2,
+      "content": "1月到3月全国房价有止跌的迹象",
+      "music": 0.0
+    },
+    {
+      "from": 335.2,
+      "to": 337.26,
+      "sid": 160,
+      "location": 2,
+      "content": "但3月后再度回到下跌之中",
+      "music": 0.0
+    },
+    {
+      "from": 337.26,
+      "to": 338.9,
+      "sid": 161,
+      "location": 2,
+      "content": "虽然目前的下跌斜率呢",
+      "music": 0.0
+    },
+    {
+      "from": 338.9,
+      "to": 341.0,
+      "sid": 162,
+      "location": 2,
+      "content": "从之前的45度变成了30度",
+      "music": 0.0
+    },
+    {
+      "from": 341.0,
+      "to": 342.86,
+      "sid": 163,
+      "location": 2,
+      "content": "但刚刚我们也深度的分析了",
+      "music": 0.0
+    },
+    {
+      "from": 342.86,
+      "to": 344.55,
+      "sid": 164,
+      "location": 2,
+      "content": "目前国内消费的情况",
+      "music": 0.0
+    },
+    {
+      "from": 344.55,
+      "to": 346.85,
+      "sid": 165,
+      "location": 2,
+      "content": "可以说是已经回到了去年的水平",
+      "music": 0.0
+    },
+    {
+      "from": 346.85,
+      "to": 348.59,
+      "sid": 166,
+      "location": 2,
+      "content": "而且还有进一步加深的势头",
+      "music": 0.0
+    },
+    {
+      "from": 348.59,
+      "to": 351.36,
+      "sid": 167,
+      "location": 2,
+      "content": "而房地产作为我国居民最大的消费方向",
+      "music": 0.0
+    },
+    {
+      "from": 351.36,
+      "to": 353.6,
+      "sid": 168,
+      "location": 2,
+      "content": "受到新旧动能转换的影响也最大",
+      "music": 0.0
+    },
+    {
+      "from": 353.6,
+      "to": 355.56,
+      "sid": 169,
+      "location": 2,
+      "content": "这波反弹能让很多之前积压",
+      "music": 0.0
+    },
+    {
+      "from": 355.56,
+      "to": 357.34,
+      "sid": 170,
+      "location": 2,
+      "content": "等下场的买盘需求进场了",
+      "music": 0.0
+    },
+    {
+      "from": 357.34,
+      "to": 358.56,
+      "sid": 171,
+      "location": 2,
+      "content": "等到买盘枯竭",
+      "music": 0.0
+    },
+    {
+      "from": 358.56,
+      "to": 361.21,
+      "sid": 172,
+      "location": 2,
+      "content": "下跌斜率可能会重新回到45度",
+      "music": 0.0
+    },
+    {
+      "from": 361.21,
+      "to": 363.09,
+      "sid": 173,
+      "location": 2,
+      "content": "虽然目前某些城市的租售比",
+      "music": 0.0
+    },
+    {
+      "from": 363.09,
+      "to": 364.49,
+      "sid": 174,
+      "location": 2,
+      "content": "随着房价的持续下跌",
+      "music": 0.0
+    },
+    {
+      "from": 364.49,
+      "to": 366.45,
+      "sid": 175,
+      "location": 2,
+      "content": "已经超过了4%的平衡点",
+      "music": 0.0
+    },
+    {
+      "from": 366.45,
+      "to": 367.53,
+      "sid": 176,
+      "location": 2,
+      "content": "但这些房产呢",
+      "music": 0.0
+    },
+    {
+      "from": 367.53,
+      "to": 369.83,
+      "sid": 177,
+      "location": 2,
+      "content": "主要集中在三四线城市的老破小里",
+      "music": 0.0
+    },
+    {
+      "from": 369.83,
+      "to": 371.29,
+      "sid": 178,
+      "location": 2,
+      "content": "按照我们之前的算法",
+      "music": 0.0
+    },
+    {
+      "from": 371.29,
+      "to": 373.94,
+      "sid": 179,
+      "location": 2,
+      "content": "如果计算上隐形的未来维修成本",
+      "music": 0.0
+    },
+    {
+      "from": 373.94,
+      "to": 375.96,
+      "sid": 180,
+      "location": 2,
+      "content": "实际租售比呢可能要大幅打折",
+      "music": 0.0
+    },
+    {
+      "from": 375.96,
+      "to": 378.85,
+      "sid": 181,
+      "location": 2,
+      "content": "从今年我国房地产上游的投资开发来看",
+      "music": 0.0
+    },
+    {
+      "from": 378.85,
+      "to": 381.27,
+      "sid": 182,
+      "location": 2,
+      "content": "投资规模呢已经跌到了2014年",
+      "music": 0.0
+    },
+    {
+      "from": 381.27,
+      "to": 382.57,
+      "sid": 183,
+      "location": 2,
+      "content": "住宅新开工的面积",
+      "music": 0.0
+    },
+    {
+      "from": 382.57,
+      "to": 384.34,
+      "sid": 184,
+      "location": 2,
+      "content": "甚至跌到了2003年的水平",
+      "music": 0.0
+    },
+    {
+      "from": 384.34,
+      "to": 387.02,
+      "sid": 185,
+      "location": 2,
+      "content": "这说明掌握了大量数据和专业投研团队的",
+      "music": 0.0
+    },
+    {
+      "from": 387.02,
+      "to": 389.8,
+      "sid": 186,
+      "location": 2,
+      "content": "房地产商们并不看好未来的房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 389.8,
+      "to": 392.36,
+      "sid": 187,
+      "location": 2,
+      "content": "其实如果对比日本房价的企稳历程来看",
+      "music": 0.0
+    },
+    {
+      "from": 392.36,
+      "to": 395.5,
+      "sid": 188,
+      "location": 2,
+      "content": "就算未来我国房价能够实现企稳止跌",
+      "music": 0.0
+    },
+    {
+      "from": 395.5,
+      "to": 398.82,
+      "sid": 189,
+      "location": 2,
+      "content": "也只会有核心城市能够企稳对标我国的话",
+      "music": 0.0
+    },
+    {
+      "from": 398.82,
+      "to": 401.18,
+      "sid": 190,
+      "location": 2,
+      "content": "我认为要看到一二线城市老破小",
+      "music": 0.0
+    },
+    {
+      "from": 401.18,
+      "to": 402.84,
+      "sid": 191,
+      "location": 2,
+      "content": "租售比占上4%以上",
+      "music": 0.0
+    },
+    {
+      "from": 402.84,
+      "to": 404.14,
+      "sid": 192,
+      "location": 2,
+      "content": "目前的实际情况呢是",
+      "music": 0.0
+    },
+    {
+      "from": 404.14,
+      "to": 406.6,
+      "sid": 193,
+      "location": 2,
+      "content": "大部分核心城市的租售比只有2%点多",
+      "music": 0.0
+    },
+    {
+      "from": 406.6,
+      "to": 409.2,
+      "sid": 194,
+      "location": 2,
+      "content": "一二线城市出现大面积高多收比",
+      "music": 0.0
+    },
+    {
+      "from": 409.2,
+      "to": 410.4,
+      "sid": 195,
+      "location": 2,
+      "content": "房产这个指标呢",
+      "music": 0.0
+    },
+    {
+      "from": 410.4,
+      "to": 413.29,
+      "sid": 196,
+      "location": 2,
+      "content": "我认为可以作为一个观察房价到底的观察点",
+      "music": 0.0
+    },
+    {
+      "from": 413.29,
+      "to": 416.09,
+      "sid": 197,
+      "location": 2,
+      "content": "本月国际方面最主要的宏观事件呢是",
+      "music": 0.0
+    },
+    {
+      "from": 416.09,
+      "to": 417.83,
+      "sid": 198,
+      "location": 2,
+      "content": "欧洲和日本开启了加息",
+      "music": 0.0
+    },
+    {
+      "from": 417.83,
+      "to": 419.55,
+      "sid": 199,
+      "location": 2,
+      "content": "欧洲的加息是因为原油",
+      "music": 0.0
+    },
+    {
+      "from": 419.55,
+      "to": 422.06,
+      "sid": 200,
+      "location": 2,
+      "content": "而日本的加息则因为内生性的通胀",
+      "music": 0.0
+    },
+    {
+      "from": 422.06,
+      "to": 423.5,
+      "sid": 201,
+      "location": 2,
+      "content": "但不论欧洲还是日本",
+      "music": 0.0
+    },
+    {
+      "from": 423.5,
+      "to": 425.62,
+      "sid": 202,
+      "location": 2,
+      "content": "这次的加息都加的非常不情愿",
+      "music": 0.0
+    },
+    {
+      "from": 425.62,
+      "to": 427.62,
+      "sid": 203,
+      "location": 2,
+      "content": "这波原油上涨引发的通胀呢",
+      "music": 0.0
+    },
+    {
+      "from": 427.62,
+      "to": 429.44,
+      "sid": 204,
+      "location": 2,
+      "content": "已经让欧元区四大经济体",
+      "music": 0.0
+    },
+    {
+      "from": 429.44,
+      "to": 429.96,
+      "sid": 205,
+      "location": 2,
+      "content": "法国",
+      "music": 0.0
+    },
+    {
+      "from": 429.96,
+      "to": 430.46,
+      "sid": 206,
+      "location": 2,
+      "content": "意大利",
+      "music": 0.0
+    },
+    {
+      "from": 430.46,
+      "to": 431.82,
+      "sid": 207,
+      "location": 2,
+      "content": "西班牙和德国的通胀",
+      "music": 0.0
+    },
+    {
+      "from": 431.82,
+      "to": 435.27,
+      "sid": 208,
+      "location": 2,
+      "content": "连续第三个月高于欧洲央行2%的目标了",
+      "music": 0.0
+    },
+    {
+      "from": 435.27,
+      "to": 436.89,
+      "sid": 209,
+      "location": 2,
+      "content": "跟美联储既关注就业",
+      "music": 0.0
+    },
+    {
+      "from": 436.89,
+      "to": 438.17,
+      "sid": 210,
+      "location": 2,
+      "content": "也关注通胀不同",
+      "music": 0.0
+    },
+    {
+      "from": 440.68,
+      "to": 442.14,
+      "sid": 211,
+      "location": 2,
+      "content": "所以本次欧洲的加息",
+      "music": 0.0
+    },
+    {
+      "from": 442.14,
+      "to": 444.68,
+      "sid": 212,
+      "location": 2,
+      "content": "在顶着经济下行和裁员加剧的压力之下",
+      "music": 0.0
+    },
+    {
+      "from": 444.68,
+      "to": 445.44,
+      "sid": 213,
+      "location": 2,
+      "content": "还是出现了",
+      "music": 0.0
+    },
+    {
+      "from": 445.44,
+      "to": 447.96,
+      "sid": 214,
+      "location": 2,
+      "content": "这是欧洲央行近3年来的首次加息",
+      "music": 0.0
+    },
+    {
+      "from": 447.96,
+      "to": 450.13,
+      "sid": 215,
+      "location": 2,
+      "content": "但市场对这次加息反应不大",
+      "music": 0.0
+    },
+    {
+      "from": 450.13,
+      "to": 452.05,
+      "sid": 216,
+      "location": 2,
+      "content": "一个是因为刚刚我们讲的",
+      "music": 0.0
+    },
+    {
+      "from": 452.05,
+      "to": 453.79,
+      "sid": 217,
+      "location": 2,
+      "content": "在实际经济下行的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 453.79,
+      "to": 455.52,
+      "sid": 218,
+      "location": 2,
+      "content": "连续加息的可能性很小",
+      "music": 0.0
+    },
+    {
+      "from": 455.52,
+      "to": 457.52,
+      "sid": 219,
+      "location": 2,
+      "content": "二是目前油价呢已经有所回落",
+      "music": 0.0
+    },
+    {
+      "from": 457.52,
+      "to": 458.36,
+      "sid": 220,
+      "location": 2,
+      "content": "这次的加息",
+      "music": 0.0
+    },
+    {
+      "from": 458.36,
+      "to": 461.2,
+      "sid": 221,
+      "location": 2,
+      "content": "更像是一次对冲油价上涨的临时行为",
+      "music": 0.0
+    },
+    {
+      "from": 461.2,
+      "to": 462.16,
+      "sid": 222,
+      "location": 2,
+      "content": "而日本方面",
+      "music": 0.0
+    },
+    {
+      "from": 462.16,
+      "to": 462.98,
+      "sid": 223,
+      "location": 2,
+      "content": "从这张图来看",
+      "music": 0.0
+    },
+    {
+      "from": 462.98,
+      "to": 464.18,
+      "sid": 224,
+      "location": 2,
+      "content": "能源引起的通胀",
+      "music": 0.0
+    },
+    {
+      "from": 464.18,
+      "to": 466.1,
+      "sid": 225,
+      "location": 2,
+      "content": "因为政府大量释放原油储备",
+      "music": 0.0
+    },
+    {
+      "from": 466.1,
+      "to": 467.64,
+      "sid": 226,
+      "location": 2,
+      "content": "其实在日本呢并不显著",
+      "music": 0.0
+    },
+    {
+      "from": 467.64,
+      "to": 468.76,
+      "sid": 227,
+      "location": 2,
+      "content": "更为关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 468.76,
+      "to": 470.61,
+      "sid": 228,
+      "location": 2,
+      "content": "日本食品价格持续上涨",
+      "music": 0.0
+    },
+    {
+      "from": 470.61,
+      "to": 473.41,
+      "sid": 229,
+      "location": 2,
+      "content": "目前日本核心CPI呢已经连续57个月",
+      "music": 0.0
+    },
+    {
+      "from": 473.41,
+      "to": 474.11,
+      "sid": 230,
+      "location": 2,
+      "content": "同比上涨",
+      "music": 0.0
+    },
+    {
+      "from": 474.11,
+      "to": 477.16,
+      "sid": 231,
+      "location": 2,
+      "content": "叠加上日元执行的贬值和工资通胀螺旋",
+      "music": 0.0
+    },
+    {
+      "from": 477.16,
+      "to": 479.8,
+      "sid": 232,
+      "location": 2,
+      "content": "日本本次的加息跟欧洲一样都是被迫的",
+      "music": 0.0
+    },
+    {
+      "from": 479.8,
+      "to": 482.02,
+      "sid": 233,
+      "location": 2,
+      "content": "目前呢就是为了阶段性的压一压物价",
+      "music": 0.0
+    },
+    {
+      "from": 482.02,
+      "to": 484.74,
+      "sid": 234,
+      "location": 2,
+      "content": "而且这次的加息在通胀持续抬升的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 484.74,
+      "to": 485.68,
+      "sid": 235,
+      "location": 2,
+      "content": "已经拖了很久了",
+      "music": 0.0
+    },
+    {
+      "from": 488.14,
+      "to": 492.12,
+      "sid": 236,
+      "location": 2,
+      "content": "在声明还强调金融条件在加息后仍将保持宽松",
+      "music": 0.0
+    },
+    {
+      "from": 492.12,
+      "to": 494.52,
+      "sid": 237,
+      "location": 2,
+      "content": "最终呢让这场加息变成了靴子落地",
+      "music": 0.0
+    },
+    {
+      "from": 494.52,
+      "to": 497.54,
+      "sid": 238,
+      "location": 2,
+      "content": "日经反而在加息后开启了一路创新高的走势",
+      "music": 0.0
+    },
+    {
+      "from": 497.54,
+      "to": 498.3,
+      "sid": 239,
+      "location": 2,
+      "content": "可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 500.66,
+      "to": 503.0,
+      "sid": 240,
+      "location": 2,
+      "content": "都不太愿意轻易开启加息周期",
+      "music": 0.0
+    },
+    {
+      "from": 503.0,
+      "to": 504.539,
+      "sid": 241,
+      "location": 2,
+      "content": "美国这边其实也一样",
+      "music": 0.0
+    },
+    {
+      "from": 504.539,
+      "to": 507.259,
+      "sid": 242,
+      "location": 2,
+      "content": "在CPI同比上涨来到4.2%",
+      "music": 0.0
+    },
+    {
+      "from": 507.259,
+      "to": 509.899,
+      "sid": 243,
+      "location": 2,
+      "content": "达到2023年以来最高水平的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 509.899,
+      "to": 512.93,
+      "sid": 244,
+      "location": 2,
+      "content": "美联储在本月呢还是继续保持利率不变",
+      "music": 0.0
+    },
+    {
+      "from": 512.93,
+      "to": 514.13,
+      "sid": 245,
+      "location": 2,
+      "content": "上期的财经速递",
+      "music": 0.0
+    },
+    {
+      "from": 516.96,
+      "to": 519.14,
+      "sid": 246,
+      "location": 2,
+      "content": "我认为他不可能完全不听特朗普的",
+      "music": 0.0
+    },
+    {
+      "from": 520.48,
+      "to": 522.64,
+      "sid": 247,
+      "location": 2,
+      "content": "这次首秀对外刻意含糊的表态",
+      "music": 0.0
+    },
+    {
+      "from": 522.64,
+      "to": 524.72,
+      "sid": 248,
+      "location": 2,
+      "content": "更多的可能是为了新官上任之后",
+      "music": 0.0
+    },
+    {
+      "from": 524.72,
+      "to": 526.04,
+      "sid": 249,
+      "location": 2,
+      "content": "尽快掌握美联储",
+      "music": 0.0
+    },
+    {
+      "from": 526.04,
+      "to": 527.96,
+      "sid": 250,
+      "location": 2,
+      "content": "他首要的工作不是利率问题",
+      "music": 0.0
+    },
+    {
+      "from": 527.96,
+      "to": 528.7,
+      "sid": 251,
+      "location": 2,
+      "content": "而是改革",
+      "music": 0.0
+    },
+    {
+      "from": 528.7,
+      "to": 530.0,
+      "sid": 252,
+      "location": 2,
+      "content": "成立的五个工作组",
+      "music": 0.0
+    },
+    {
+      "from": 530.0,
+      "to": 531.92,
+      "sid": 253,
+      "location": 2,
+      "content": "要在今年底之前接管美联储",
+      "music": 0.0
+    },
+    {
+      "from": 531.92,
+      "to": 534.04,
+      "sid": 254,
+      "location": 2,
+      "content": "对外沟通经济数据的核心职能",
+      "music": 0.0
+    },
+    {
+      "from": 534.04,
+      "to": 535.0,
+      "sid": 255,
+      "location": 2,
+      "content": "工作完成",
+      "music": 0.0
+    },
+    {
+      "from": 535.0,
+      "to": 536.56,
+      "sid": 256,
+      "location": 2,
+      "content": "接管之后降息还是加息",
+      "music": 0.0
+    },
+    {
+      "from": 536.56,
+      "to": 537.52,
+      "sid": 257,
+      "location": 2,
+      "content": "缩表还是扩表",
+      "music": 0.0
+    },
+    {
+      "from": 537.52,
+      "to": 540.08,
+      "sid": 258,
+      "location": 2,
+      "content": "基本就可以由卧室及其团队来决定了",
+      "music": 0.0
+    },
+    {
+      "from": 540.08,
+      "to": 542.48,
+      "sid": 259,
+      "location": 2,
+      "content": "所以我判断目前握时刚刚上任",
+      "music": 0.0
+    },
+    {
+      "from": 542.48,
+      "to": 543.48,
+      "sid": 260,
+      "location": 2,
+      "content": "还在求稳阶段",
+      "music": 0.0
+    },
+    {
+      "from": 543.48,
+      "to": 546.21,
+      "sid": 261,
+      "location": 2,
+      "content": "新的动作最早也要等到年底才会出现",
+      "music": 0.0
+    },
+    {
+      "from": 546.21,
+      "to": 547.63,
+      "sid": 262,
+      "location": 2,
+      "content": "那如果根据这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 547.63,
+      "to": 549.75,
+      "sid": 263,
+      "location": 2,
+      "content": "日本欧洲的加息是一次性的",
+      "music": 0.0
+    },
+    {
+      "from": 549.75,
+      "to": 550.65,
+      "sid": 264,
+      "location": 2,
+      "content": "实际是鸽派的",
+      "music": 0.0
+    },
+    {
+      "from": 550.65,
+      "to": 552.58,
+      "sid": 265,
+      "location": 2,
+      "content": "卧实至少不会让美联储加息",
+      "music": 0.0
+    },
+    {
+      "from": 552.58,
+      "to": 554.78,
+      "sid": 266,
+      "location": 2,
+      "content": "叠加上美伊和谈逐渐出现进展",
+      "music": 0.0
+    },
+    {
+      "from": 554.78,
+      "to": 556.24,
+      "sid": 267,
+      "location": 2,
+      "content": "原油价格持续下跌",
+      "music": 0.0
+    },
+    {
+      "from": 556.24,
+      "to": 557.83,
+      "sid": 268,
+      "location": 2,
+      "content": "那从时间线上来看",
+      "music": 0.0
+    },
+    {
+      "from": 557.83,
+      "to": 559.05,
+      "sid": 269,
+      "location": 2,
+      "content": "从现在到年底",
+      "music": 0.0
+    },
+    {
+      "from": 559.05,
+      "to": 560.81,
+      "sid": 270,
+      "location": 2,
+      "content": "虽然流动性上不太乐观",
+      "music": 0.0
+    },
+    {
+      "from": 560.81,
+      "to": 563.72,
+      "sid": 271,
+      "location": 2,
+      "content": "但最关键的利率不会出现大幅受惊的可能",
+      "music": 0.0
+    },
+    {
+      "from": 563.72,
+      "to": 565.9,
+      "sid": 272,
+      "location": 2,
+      "content": "这样资本市场呢在本月再度乐观",
+      "music": 0.0
+    },
+    {
+      "from": 565.9,
+      "to": 568.32,
+      "sid": 273,
+      "location": 2,
+      "content": "尤其是最受利益影响的科技股出现了",
+      "music": 0.0
+    },
+    {
+      "from": 568.32,
+      "to": 569.23,
+      "sid": 274,
+      "location": 2,
+      "content": "再次的冲高",
+      "music": 0.0
+    },
+    {
+      "from": 569.23,
+      "to": 570.87,
+      "sid": 275,
+      "location": 2,
+      "content": "那就像是我们上期的主题",
+      "music": 0.0
+    },
+    {
+      "from": 570.87,
+      "to": 571.55,
+      "sid": 276,
+      "location": 2,
+      "content": "碳基通缩",
+      "music": 0.0
+    },
+    {
+      "from": 571.55,
+      "to": 572.11,
+      "sid": 277,
+      "location": 2,
+      "content": "硅基通胀",
+      "music": 0.0
+    },
+    {
+      "from": 572.11,
+      "to": 574.55,
+      "sid": 278,
+      "location": 2,
+      "content": "本月原油的下跌和加息的靴子落地",
+      "music": 0.0
+    },
+    {
+      "from": 574.55,
+      "to": 576.23,
+      "sid": 279,
+      "location": 2,
+      "content": "让硅基更加肆无忌惮",
+      "music": 0.0
+    },
+    {
+      "from": 576.23,
+      "to": 578.46,
+      "sid": 280,
+      "location": 2,
+      "content": "而我认为这更像是一次回光返照",
+      "music": 0.0
+    },
+    {
+      "from": 578.46,
+      "to": 580.62,
+      "sid": 281,
+      "location": 2,
+      "content": "目前美国实际可支配收入增速呢",
+      "music": 0.0
+    },
+    {
+      "from": 580.62,
+      "to": 581.76,
+      "sid": 282,
+      "location": 2,
+      "content": "已经极度的疲弱",
+      "music": 0.0
+    },
+    {
+      "from": 581.76,
+      "to": 584.1,
+      "sid": 283,
+      "location": 2,
+      "content": "特朗普在2月和3月发的退税红包",
+      "music": 0.0
+    },
+    {
+      "from": 584.1,
+      "to": 586.21,
+      "sid": 284,
+      "location": 2,
+      "content": "已经被飙升的能源账单所吞噬",
+      "music": 0.0
+    },
+    {
+      "from": 586.21,
+      "to": 589.25,
+      "sid": 285,
+      "location": 2,
+      "content": "随之而来的就是个人收入和支出的剪刀差出现",
+      "music": 0.0
+    },
+    {
+      "from": 589.25,
+      "to": 591.17,
+      "sid": 286,
+      "location": 2,
+      "content": "而储蓄率呢在短短的两个月内",
+      "music": 0.0
+    },
+    {
+      "from": 591.17,
+      "to": 592.26,
+      "sid": 287,
+      "location": 2,
+      "content": "下降了一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 592.26,
+      "to": 593.78,
+      "sid": 288,
+      "location": 2,
+      "content": "已经触及了2020年",
+      "music": 0.0
+    },
+    {
+      "from": 593.78,
+      "to": 595.56,
+      "sid": 289,
+      "location": 2,
+      "content": "疫情冲击以来的最低水平",
+      "music": 0.0
+    },
+    {
+      "from": 595.56,
+      "to": 598.1,
+      "sid": 290,
+      "location": 2,
+      "content": "这说明美国家庭呢正在动用存量储蓄",
+      "music": 0.0
+    },
+    {
+      "from": 598.1,
+      "to": 598.98,
+      "sid": 291,
+      "location": 2,
+      "content": "来维持消费",
+      "music": 0.0
+    },
+    {
+      "from": 598.98,
+      "to": 600.96,
+      "sid": 292,
+      "location": 2,
+      "content": "而非依靠收入增长驱动支出",
+      "music": 0.0
+    },
+    {
+      "from": 600.96,
+      "to": 603.14,
+      "sid": 293,
+      "location": 2,
+      "content": "这种模式本质上是不可持续的",
+      "music": 0.0
+    },
+    {
+      "from": 603.14,
+      "to": 605.78,
+      "sid": 294,
+      "location": 2,
+      "content": "现阶段呢中美的经济情况出奇的一致",
+      "music": 0.0
+    },
+    {
+      "from": 605.78,
+      "to": 607.9,
+      "sid": 295,
+      "location": 2,
+      "content": "中国依靠出口维持经济增速",
+      "music": 0.0
+    },
+    {
+      "from": 607.9,
+      "to": 609.42,
+      "sid": 296,
+      "location": 2,
+      "content": "但内需持续萎靡",
+      "music": 0.0
+    },
+    {
+      "from": 609.42,
+      "to": 611.64,
+      "sid": 297,
+      "location": 2,
+      "content": "美国依靠资本开支单脚跳舞",
+      "music": 0.0
+    },
+    {
+      "from": 611.64,
+      "to": 614.66,
+      "sid": 298,
+      "location": 2,
+      "content": "而居民储蓄率和消费者信心指数跌至冰点",
+      "music": 0.0
+    },
+    {
+      "from": 614.66,
+      "to": 615.66,
+      "sid": 299,
+      "location": 2,
+      "content": "更好玩的是呢",
+      "music": 0.0
+    },
+    {
+      "from": 615.66,
+      "to": 616.9,
+      "sid": 300,
+      "location": 2,
+      "content": "美国的科技资本开支",
+      "music": 0.0
+    },
+    {
+      "from": 616.9,
+      "to": 619.23,
+      "sid": 301,
+      "location": 2,
+      "content": "跟我国出口正好互为上下游",
+      "music": 0.0
+    },
+    {
+      "from": 619.23,
+      "to": 621.43,
+      "sid": 302,
+      "location": 2,
+      "content": "所以回光返照何时进入泡沫破裂",
+      "music": 0.0
+    },
+    {
+      "from": 621.43,
+      "to": 623.89,
+      "sid": 303,
+      "location": 2,
+      "content": "就要看美国的资本开支何时会结束",
+      "music": 0.0
+    },
+    {
+      "from": 623.89,
+      "to": 625.61,
+      "sid": 304,
+      "location": 2,
+      "content": "最近知名咨询公司贝恩",
+      "music": 0.0
+    },
+    {
+      "from": 625.61,
+      "to": 628.03,
+      "sid": 305,
+      "location": 2,
+      "content": "最新的大型企业全球调查显示",
+      "music": 0.0
+    },
+    {
+      "from": 628.03,
+      "to": 629.71,
+      "sid": 306,
+      "location": 2,
+      "content": "其统计的951家",
+      "music": 0.0
+    },
+    {
+      "from": 629.71,
+      "to": 631.67,
+      "sid": 307,
+      "location": 2,
+      "content": "收入超过1亿美元公司的高管",
+      "music": 0.0
+    },
+    {
+      "from": 631.67,
+      "to": 632.73,
+      "sid": 308,
+      "location": 2,
+      "content": "调研结果表明",
+      "music": 0.0
+    },
+    {
+      "from": 632.73,
+      "to": 635.09,
+      "sid": 309,
+      "location": 2,
+      "content": "在尝试利用AI降本效果的公司中",
+      "music": 0.0
+    },
+    {
+      "from": 635.09,
+      "to": 636.25,
+      "sid": 310,
+      "location": 2,
+      "content": "接近一半的公司",
+      "music": 0.0
+    },
+    {
+      "from": 636.25,
+      "to": 638.72,
+      "sid": 311,
+      "location": 2,
+      "content": "实际成本降幅在10%或以下",
+      "music": 0.0
+    },
+    {
+      "from": 638.72,
+      "to": 641.88,
+      "sid": 312,
+      "location": 2,
+      "content": "在AI投资回报率迟迟无法出现曙光的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 641.88,
+      "to": 644.46,
+      "sid": 313,
+      "location": 2,
+      "content": "明年头部科技公司在耗尽现金流后",
+      "music": 0.0
+    },
+    {
+      "from": 644.46,
+      "to": 647.6,
+      "sid": 314,
+      "location": 2,
+      "content": "真的还会维持市场所乐观预期的高资本开支吗",
+      "music": 0.0
+    },
+    {
+      "from": 647.6,
+      "to": 649.16,
+      "sid": 315,
+      "location": 2,
+      "content": "我觉得可能要打个问号",
+      "music": 0.0
+    },
+    {
+      "from": 651.78,
+      "to": 652.92,
+      "sid": 316,
+      "location": 2,
+      "content": "硅基的回光返照",
+      "music": 0.0
+    },
+    {
+      "from": 652.92,
+      "to": 655.9,
+      "sid": 317,
+      "location": 2,
+      "content": "可能还要持续到下一个重大宏观事件的发生",
+      "music": 0.0
+    },
+    {
+      "from": 655.9,
+      "to": 657.72,
+      "sid": 318,
+      "location": 2,
+      "content": "可能是加息预期的再度升温",
+      "music": 0.0
+    },
+    {
+      "from": 657.72,
+      "to": 660.04,
+      "sid": 319,
+      "location": 2,
+      "content": "也可能是硅基相关的黑天鹅事件",
+      "music": 0.0
+    },
+    {
+      "from": 660.04,
+      "to": 662.2,
+      "sid": 320,
+      "location": 2,
+      "content": "亦或者是碳基通缩到极限后",
+      "music": 0.0
+    },
+    {
+      "from": 662.2,
+      "to": 664.27,
+      "sid": 321,
+      "location": 2,
+      "content": "对经济数据造成的重大影响",
+      "music": 0.0
+    },
+    {
+      "from": 664.27,
+      "to": 665.07,
+      "sid": 322,
+      "location": 2,
+      "content": "我个人认为",
+      "music": 0.0
+    },
+    {
+      "from": 665.07,
+      "to": 667.51,
+      "sid": 323,
+      "location": 2,
+      "content": "这次AI泡沫一定会有一次明显的出镜",
+      "music": 0.0
+    },
+    {
+      "from": 667.51,
+      "to": 668.51,
+      "sid": 324,
+      "location": 2,
+      "content": "具体如何出镜呢",
+      "music": 0.0
+    },
+    {
+      "from": 668.51,
+      "to": 671.11,
+      "sid": 325,
+      "location": 2,
+      "content": "我会在下一期深度系列视频跟大家细聊",
+      "music": 0.0
+    },
+    {
+      "from": 671.11,
+      "to": 672.03,
+      "sid": 326,
+      "location": 2,
+      "content": "截止到本月呢",
+      "music": 0.0
+    },
+    {
+      "from": 672.03,
+      "to": 673.47,
+      "sid": 327,
+      "location": 2,
+      "content": "咱们这个系列已经三周年了",
+      "music": 0.0
+    },
+    {
+      "from": 673.47,
+      "to": 674.85,
+      "sid": 328,
+      "location": 2,
+      "content": "老粉求一波三连了",
+      "music": 0.0
+    },
+    {
+      "from": 674.85,
+      "to": 676.85,
+      "sid": 329,
+      "location": 2,
+      "content": "八四版的内容呢也已经同步更新",
+      "music": 0.0
+    },
+    {
+      "from": 676.85,
+      "to": 678.94,
+      "sid": 330,
+      "location": 2,
+      "content": "自动连播的下一个视频就是常规版",
+      "music": 0.0
+    },
+    {
+      "from": 678.94,
+      "to": 681.1,
+      "sid": 331,
+      "location": 2,
+      "content": "视频呢主要为宏观经济趋势分析",
+      "music": 0.0
+    },
+    {
+      "from": 681.1,
+      "to": 683.24,
+      "sid": 332,
+      "location": 2,
+      "content": "plus版视频为各类资产阅读分析",
+      "music": 0.0
+    },
+    {
+      "from": 683.24,
+      "to": 685.36,
+      "sid": 333,
+      "location": 2,
+      "content": "还会附上我个人的投资标的展示",
+      "music": 0.0
+    },
+    {
+      "from": 685.36,
+      "to": 687.5,
+      "sid": 334,
+      "location": 2,
+      "content": "最后感谢各位3年以来的支持",
+      "music": 0.0
+    },
+    {
+      "from": 687.5,
+      "to": 688.8,
+      "sid": 335,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0.0
+    }
+  ]
+}

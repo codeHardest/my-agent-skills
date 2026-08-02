@@ -1,0 +1,1180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.54,
+      "to": 1.34,
+      "sid": 1,
+      "location": 2,
+      "content": "你发现没",
+      "music": 0.0
+    },
+    {
+      "from": 1.34,
+      "to": 1.98,
+      "sid": 2,
+      "location": 2,
+      "content": "上个月",
+      "music": 0.0
+    },
+    {
+      "from": 1.98,
+      "to": 5.78,
+      "sid": 3,
+      "location": 2,
+      "content": "中国客户通过银行净卖出了574亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 5.78,
+      "to": 8.23,
+      "sid": 4,
+      "location": 2,
+      "content": "这可是今年2月以来的最高水平",
+      "music": 0.0
+    },
+    {
+      "from": 8.23,
+      "to": 10.41,
+      "sid": 5,
+      "location": 2,
+      "content": "相当于每天将近20亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 10.41,
+      "to": 13.33,
+      "sid": 6,
+      "location": 2,
+      "content": "悄悄从美元账户转进人民币口袋嚯",
+      "music": 0.0
+    },
+    {
+      "from": 13.33,
+      "to": 14.82,
+      "sid": 7,
+      "location": 2,
+      "content": "这可不是小数目",
+      "music": 0.0
+    },
+    {
+      "from": 14.82,
+      "to": 18.04,
+      "sid": 8,
+      "location": 2,
+      "content": "不过等等净卖出美元是啥意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.04,
+      "to": 19.14,
+      "sid": 9,
+      "location": 2,
+      "content": "听着有点绕",
+      "music": 0.0
+    },
+    {
+      "from": 19.14,
+      "to": 22.549,
+      "sid": 10,
+      "location": 2,
+      "content": "简单说就是大家把美元换成人民币了",
+      "music": 0.0
+    },
+    {
+      "from": 22.549,
+      "to": 26.57,
+      "sid": 11,
+      "location": 2,
+      "content": "而且不光是换出口企业的结汇意愿突然跳升",
+      "music": 0.0
+    },
+    {
+      "from": 26.57,
+      "to": 28.57,
+      "sid": 12,
+      "location": 2,
+      "content": "5月才58.2%",
+      "music": 0.0
+    },
+    {
+      "from": 28.57,
+      "to": 30.87,
+      "sid": 13,
+      "location": 2,
+      "content": "6月直接冲到64.5%",
+      "music": 0.0
+    },
+    {
+      "from": 30.87,
+      "to": 32.58,
+      "sid": 14,
+      "location": 2,
+      "content": "创了好几个月新高",
+      "music": 0.0
+    },
+    {
+      "from": 32.58,
+      "to": 35.18,
+      "sid": 15,
+      "location": 2,
+      "content": "这波啊这波是信心回暖了",
+      "music": 0.0
+    },
+    {
+      "from": 35.18,
+      "to": 36.45,
+      "sid": 16,
+      "location": 2,
+      "content": "但你先别激动",
+      "music": 0.0
+    },
+    {
+      "from": 36.45,
+      "to": 37.67,
+      "sid": 17,
+      "location": 2,
+      "content": "我瞅了眼数据",
+      "music": 0.0
+    },
+    {
+      "from": 37.67,
+      "to": 40.17,
+      "sid": 18,
+      "location": 2,
+      "content": "三个月平均值还是被拖着后腿",
+      "music": 0.0
+    },
+    {
+      "from": 40.17,
+      "to": 42.53,
+      "sid": 19,
+      "location": 2,
+      "content": "整体节奏有点冰火两重天啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.53,
+      "to": 45.53,
+      "sid": 20,
+      "location": 2,
+      "content": "没错就是因为4月那会儿节会特别弱",
+      "music": 0.0
+    },
+    {
+      "from": 45.53,
+      "to": 46.72,
+      "sid": 21,
+      "location": 2,
+      "content": "拉低了均值",
+      "music": 0.0
+    },
+    {
+      "from": 46.72,
+      "to": 49.02,
+      "sid": 22,
+      "location": 2,
+      "content": "但现在单月数据已经明显抬头",
+      "music": 0.0
+    },
+    {
+      "from": 49.02,
+      "to": 51.17,
+      "sid": 23,
+      "location": 2,
+      "content": "就像一辆刚踩下油门的车",
+      "music": 0.0
+    },
+    {
+      "from": 51.17,
+      "to": 52.59,
+      "sid": 24,
+      "location": 2,
+      "content": "平均速度还没上来",
+      "music": 0.0
+    },
+    {
+      "from": 52.59,
+      "to": 54.37,
+      "sid": 25,
+      "location": 2,
+      "content": "但加速度已经很明显了",
+      "music": 0.0
+    },
+    {
+      "from": 54.37,
+      "to": 56.18,
+      "sid": 26,
+      "location": 2,
+      "content": "得你这比喻还挺形象",
+      "music": 0.0
+    },
+    {
+      "from": 56.18,
+      "to": 57.36,
+      "sid": 27,
+      "location": 2,
+      "content": "不过问题来了",
+      "music": 0.0
+    },
+    {
+      "from": 57.36,
+      "to": 60.099,
+      "sid": 28,
+      "location": 2,
+      "content": "为啥企业突然爱换人民币了",
+      "music": 0.0
+    },
+    {
+      "from": 60.099,
+      "to": 62.459,
+      "sid": 29,
+      "location": 2,
+      "content": "这就得说到今天咱们聊的重点了",
+      "music": 0.0
+    },
+    {
+      "from": 62.459,
+      "to": 65.939,
+      "sid": 30,
+      "location": 2,
+      "content": "德意志银行最新那份外汇与跨境资本流动",
+      "music": 0.0
+    },
+    {
+      "from": 65.939,
+      "to": 66.97,
+      "sid": 31,
+      "location": 2,
+      "content": "深度研究",
+      "music": 0.0
+    },
+    {
+      "from": 66.97,
+      "to": 69.33,
+      "sid": 32,
+      "location": 2,
+      "content": "他们全球外汇团队的核心观点",
+      "music": 0.0
+    },
+    {
+      "from": 69.33,
+      "to": 69.95,
+      "sid": 33,
+      "location": 2,
+      "content": "就一句",
+      "music": 0.0
+    },
+    {
+      "from": 69.95,
+      "to": 72.45,
+      "sid": 34,
+      "location": 2,
+      "content": "人民币的升值故事还没讲完",
+      "music": 0.0
+    },
+    {
+      "from": 72.45,
+      "to": 75.46,
+      "sid": 35,
+      "location": 2,
+      "content": "而且有实打实的数据撑着哦",
+      "music": 0.0
+    },
+    {
+      "from": 75.46,
+      "to": 77.18,
+      "sid": 36,
+      "location": 2,
+      "content": "那他们拆了哪几个关键点",
+      "music": 0.0
+    },
+    {
+      "from": 77.18,
+      "to": 80.65,
+      "sid": 37,
+      "location": 2,
+      "content": "三个第一出口结汇强势反弹",
+      "music": 0.0
+    },
+    {
+      "from": 80.65,
+      "to": 82.63,
+      "sid": 38,
+      "location": 2,
+      "content": "成了人民币最硬的底气",
+      "music": 0.0
+    },
+    {
+      "from": 82.63,
+      "to": 85.71,
+      "sid": 39,
+      "location": 2,
+      "content": "第二跨境资金流里藏着什么信号",
+      "music": 0.0
+    },
+    {
+      "from": 85.71,
+      "to": 89.5,
+      "sid": 40,
+      "location": 2,
+      "content": "第三政策层在中间架上放了哪些暗号",
+      "music": 0.0
+    },
+    {
+      "from": 89.5,
+      "to": 90.74,
+      "sid": 41,
+      "location": 2,
+      "content": "看完你就明白",
+      "music": 0.0
+    },
+    {
+      "from": 90.74,
+      "to": 93.4,
+      "sid": 42,
+      "location": 2,
+      "content": "为啥德银现在还敢坚定做空",
+      "music": 0.0
+    },
+    {
+      "from": 93.4,
+      "to": 95.04,
+      "sid": 43,
+      "location": 2,
+      "content": "美元兑离岸人民币行",
+      "music": 0.0
+    },
+    {
+      "from": 95.04,
+      "to": 98.56,
+      "sid": 44,
+      "location": 2,
+      "content": "那你先说第一个出口结汇怎么就成了硬底气",
+      "music": 0.0
+    },
+    {
+      "from": 98.56,
+      "to": 102.04,
+      "sid": 45,
+      "location": 2,
+      "content": "6月客户通过银行净卖出574亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 102.04,
+      "to": 104.94,
+      "sid": 46,
+      "location": 2,
+      "content": "三个月移动平均值也升到了470亿",
+      "music": 0.0
+    },
+    {
+      "from": 104.94,
+      "to": 106.72,
+      "sid": 47,
+      "location": 2,
+      "content": "结汇比率从58%",
+      "music": 0.0
+    },
+    {
+      "from": 106.72,
+      "to": 108.08,
+      "sid": 48,
+      "location": 2,
+      "content": "跳到64.5%",
+      "music": 0.0
+    },
+    {
+      "from": 108.08,
+      "to": 111.13,
+      "sid": 49,
+      "location": 2,
+      "content": "说明企业对人民币的信心明显回暖",
+      "music": 0.0
+    },
+    {
+      "from": 111.13,
+      "to": 113.79,
+      "sid": 50,
+      "location": 2,
+      "content": "德银自家的E派克数据也印证了",
+      "music": 0.0
+    },
+    {
+      "from": 113.79,
+      "to": 116.51,
+      "sid": 51,
+      "location": 2,
+      "content": "企业端的人民币转换需求非常强劲",
+      "music": 0.0
+    },
+    {
+      "from": 116.51,
+      "to": 117.89,
+      "sid": 52,
+      "location": 2,
+      "content": "嗯刚才你也说了",
+      "music": 0.0
+    },
+    {
+      "from": 117.89,
+      "to": 119.87,
+      "sid": 53,
+      "location": 2,
+      "content": "三个月平均值还是不高",
+      "music": 0.0
+    },
+    {
+      "from": 119.87,
+      "to": 120.45,
+      "sid": 54,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 120.45,
+      "to": 122.22,
+      "sid": 55,
+      "location": 2,
+      "content": "因为4月太低迷",
+      "music": 0.0
+    },
+    {
+      "from": 122.22,
+      "to": 125.24,
+      "sid": 56,
+      "location": 2,
+      "content": "可关键是就算这个比率不再涨",
+      "music": 0.0
+    },
+    {
+      "from": 125.24,
+      "to": 127.76,
+      "sid": 57,
+      "location": 2,
+      "content": "只要中国贸易顺差还在扩大",
+      "music": 0.0
+    },
+    {
+      "from": 127.76,
+      "to": 130.32,
+      "sid": 58,
+      "location": 2,
+      "content": "出口赚的美元总量就越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 130.32,
+      "to": 132.87,
+      "sid": 59,
+      "location": 2,
+      "content": "能换的人民币自然水涨船高",
+      "music": 0.0
+    },
+    {
+      "from": 132.87,
+      "to": 134.05,
+      "sid": 60,
+      "location": 2,
+      "content": "这不是靠嘴吹",
+      "music": 0.0
+    },
+    {
+      "from": 134.05,
+      "to": 135.97,
+      "sid": 61,
+      "location": 2,
+      "content": "是靠真金白银堆出来的",
+      "music": 0.0
+    },
+    {
+      "from": 135.97,
+      "to": 136.85,
+      "sid": 62,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 136.85,
+      "to": 138.23,
+      "sid": 63,
+      "location": 2,
+      "content": "那第二个线索呢",
+      "music": 0.0
+    },
+    {
+      "from": 138.23,
+      "to": 139.75,
+      "sid": 64,
+      "location": 2,
+      "content": "政策层是不是也变了",
+      "music": 0.0
+    },
+    {
+      "from": 139.75,
+      "to": 141.23,
+      "sid": 65,
+      "location": 2,
+      "content": "态度太对了",
+      "music": 0.0
+    },
+    {
+      "from": 141.23,
+      "to": 144.37,
+      "sid": 66,
+      "location": 2,
+      "content": "最近USDCMY中间价持续走低",
+      "music": 0.0
+    },
+    {
+      "from": 144.37,
+      "to": 145.35,
+      "sid": 67,
+      "location": 2,
+      "content": "德银判断",
+      "music": 0.0
+    },
+    {
+      "from": 145.35,
+      "to": 148.19,
+      "sid": 68,
+      "location": 2,
+      "content": "这说明监管层对人民币温和升值的",
+      "music": 0.0
+    },
+    {
+      "from": 148.19,
+      "to": 149.49,
+      "sid": 69,
+      "location": 2,
+      "content": "容忍度提高了",
+      "music": 0.0
+    },
+    {
+      "from": 149.49,
+      "to": 151.43,
+      "sid": 70,
+      "location": 2,
+      "content": "以前怕升太快伤出口",
+      "music": 0.0
+    },
+    {
+      "from": 151.43,
+      "to": 153.53,
+      "sid": 71,
+      "location": 2,
+      "content": "现在觉得贸易顺差这么大",
+      "music": 0.0
+    },
+    {
+      "from": 153.53,
+      "to": 155.19,
+      "sid": 72,
+      "location": 2,
+      "content": "让人民币适当强一点",
+      "music": 0.0
+    },
+    {
+      "from": 155.19,
+      "to": 155.83,
+      "sid": 73,
+      "location": 2,
+      "content": "问题不大",
+      "music": 0.0
+    },
+    {
+      "from": 155.83,
+      "to": 157.16,
+      "sid": 74,
+      "location": 2,
+      "content": "而且人民币一强",
+      "music": 0.0
+    },
+    {
+      "from": 157.16,
+      "to": 159.86,
+      "sid": 75,
+      "location": 2,
+      "content": "企业拿着美元不动的成本就高了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 159.86,
+      "to": 160.68,
+      "sid": 76,
+      "location": 2,
+      "content": "机会成本嘛",
+      "music": 0.0
+    },
+    {
+      "from": 160.68,
+      "to": 161.7,
+      "sid": 77,
+      "location": 2,
+      "content": "放着美元不换",
+      "music": 0.0
+    },
+    {
+      "from": 161.7,
+      "to": 163.12,
+      "sid": 78,
+      "location": 2,
+      "content": "可能就错过了升值红利",
+      "music": 0.0
+    },
+    {
+      "from": 163.12,
+      "to": 163.86,
+      "sid": 79,
+      "location": 2,
+      "content": "Exactly",
+      "music": 0.0
+    },
+    {
+      "from": 163.86,
+      "to": 165.39,
+      "sid": 80,
+      "location": 2,
+      "content": "这就形成正反馈了",
+      "music": 0.0
+    },
+    {
+      "from": 165.39,
+      "to": 166.81,
+      "sid": 81,
+      "location": 2,
+      "content": "再来看第三个线索",
+      "music": 0.0
+    },
+    {
+      "from": 166.81,
+      "to": 168.28,
+      "sid": 82,
+      "location": 2,
+      "content": "跨境资本流动",
+      "music": 0.0
+    },
+    {
+      "from": 168.28,
+      "to": 170.2,
+      "sid": 83,
+      "location": 2,
+      "content": "6月组合投资向下",
+      "music": 0.0
+    },
+    {
+      "from": 170.2,
+      "to": 173.38,
+      "sid": 84,
+      "location": 2,
+      "content": "资金从之前净流入180亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 173.38,
+      "to": 175.93,
+      "sid": 85,
+      "location": 2,
+      "content": "突然转成净流出360亿",
+      "music": 0.0
+    },
+    {
+      "from": 175.93,
+      "to": 176.89,
+      "sid": 86,
+      "location": 2,
+      "content": "听着吓人吧",
+      "music": 0.0
+    },
+    {
+      "from": 176.89,
+      "to": 177.65,
+      "sid": 87,
+      "location": 2,
+      "content": "芭比Q啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.65,
+      "to": 179.09,
+      "sid": 88,
+      "location": 2,
+      "content": "外资跑路了别慌",
+      "music": 0.0
+    },
+    {
+      "from": 179.09,
+      "to": 180.42,
+      "sid": 89,
+      "location": 2,
+      "content": "这里面有分化",
+      "music": 0.0
+    },
+    {
+      "from": 180.42,
+      "to": 182.8,
+      "sid": 90,
+      "location": 2,
+      "content": "外资其实还在买中国国债",
+      "music": 0.0
+    },
+    {
+      "from": 182.8,
+      "to": 184.84,
+      "sid": 91,
+      "location": 2,
+      "content": "6月买了大约10亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 184.84,
+      "to": 186.9,
+      "sid": 92,
+      "location": 2,
+      "content": "债市的基本吸引力还在",
+      "music": 0.0
+    },
+    {
+      "from": 186.9,
+      "to": 188.46,
+      "sid": 93,
+      "location": 2,
+      "content": "只是其他金融资产",
+      "music": 0.0
+    },
+    {
+      "from": 188.46,
+      "to": 190.82,
+      "sid": 94,
+      "location": 2,
+      "content": "可能因为全球波动或套利调整",
+      "music": 0.0
+    },
+    {
+      "from": 190.82,
+      "to": 192.02,
+      "sid": 95,
+      "location": 2,
+      "content": "出现了短期外流",
+      "music": 0.0
+    },
+    {
+      "from": 192.02,
+      "to": 194.14,
+      "sid": 96,
+      "location": 2,
+      "content": "所以这360亿流出",
+      "music": 0.0
+    },
+    {
+      "from": 194.14,
+      "to": 197.14,
+      "sid": 97,
+      "location": 2,
+      "content": "其实被贸易项下574亿的结汇",
+      "music": 0.0
+    },
+    {
+      "from": 197.14,
+      "to": 198.12,
+      "sid": 98,
+      "location": 2,
+      "content": "完全盖过去了",
+      "music": 0.0
+    },
+    {
+      "from": 198.12,
+      "to": 201.68,
+      "sid": 99,
+      "location": 2,
+      "content": "对整体跨境资金流还是净流入人民币的",
+      "music": 0.0
+    },
+    {
+      "from": 201.68,
+      "to": 202.66,
+      "sid": 100,
+      "location": 2,
+      "content": "德银认为",
+      "music": 0.0
+    },
+    {
+      "from": 202.66,
+      "to": 203.98,
+      "sid": 101,
+      "location": 2,
+      "content": "这种结构性分化",
+      "music": 0.0
+    },
+    {
+      "from": 203.98,
+      "to": 206.3,
+      "sid": 102,
+      "location": 2,
+      "content": "暂时动摇不了人民币的基本面支撑",
+      "music": 0.0
+    },
+    {
+      "from": 206.3,
+      "to": 207.48,
+      "sid": 103,
+      "location": 2,
+      "content": "但话又说回来",
+      "music": 0.0
+    },
+    {
+      "from": 207.48,
+      "to": 209.94,
+      "sid": 104,
+      "location": 2,
+      "content": "如果后面组合投资或者直接投资",
+      "music": 0.0
+    },
+    {
+      "from": 209.94,
+      "to": 211.52,
+      "sid": 105,
+      "location": 2,
+      "content": "持续大额外流呢",
+      "music": 0.0
+    },
+    {
+      "from": 211.52,
+      "to": 214.37,
+      "sid": 106,
+      "location": 2,
+      "content": "那确实可能缓解升值压力",
+      "music": 0.0
+    },
+    {
+      "from": 214.37,
+      "to": 215.67,
+      "sid": 107,
+      "location": 2,
+      "content": "不过目前来看",
+      "music": 0.0
+    },
+    {
+      "from": 215.67,
+      "to": 217.47,
+      "sid": 108,
+      "location": 2,
+      "content": "贸易协会才是主力军",
+      "music": 0.0
+    },
+    {
+      "from": 217.47,
+      "to": 220.09,
+      "sid": 109,
+      "location": 2,
+      "content": "资本账户那点波动体量差远了",
+      "music": 0.0
+    },
+    {
+      "from": 220.09,
+      "to": 221.75,
+      "sid": 110,
+      "location": 2,
+      "content": "所以现在整个逻辑串起来了",
+      "music": 0.0
+    },
+    {
+      "from": 221.75,
+      "to": 222.93,
+      "sid": 111,
+      "location": 2,
+      "content": "贸易顺差扩大",
+      "music": 0.0
+    },
+    {
+      "from": 222.93,
+      "to": 224.29,
+      "sid": 112,
+      "location": 2,
+      "content": "企业手里美元变多",
+      "music": 0.0
+    },
+    {
+      "from": 224.29,
+      "to": 226.63,
+      "sid": 113,
+      "location": 2,
+      "content": "政策释放可以升一点的信号",
+      "music": 0.0
+    },
+    {
+      "from": 226.63,
+      "to": 228.47,
+      "sid": 114,
+      "location": 2,
+      "content": "企业觉得持美元不划算",
+      "music": 0.0
+    },
+    {
+      "from": 228.47,
+      "to": 229.49,
+      "sid": 115,
+      "location": 2,
+      "content": "赶紧结汇",
+      "music": 0.0
+    },
+    {
+      "from": 229.49,
+      "to": 230.77,
+      "sid": 116,
+      "location": 2,
+      "content": "人民币需求上升",
+      "music": 0.0
+    },
+    {
+      "from": 230.77,
+      "to": 232.39,
+      "sid": 117,
+      "location": 2,
+      "content": "汇率获得内升支撑",
+      "music": 0.0
+    },
+    {
+      "from": 232.39,
+      "to": 233.47,
+      "sid": 118,
+      "location": 2,
+      "content": "完美闭环",
+      "music": 0.0
+    },
+    {
+      "from": 233.47,
+      "to": 235.339,
+      "sid": 119,
+      "location": 2,
+      "content": "每一步都有数据验证",
+      "music": 0.0
+    },
+    {
+      "from": 235.339,
+      "to": 237.219,
+      "sid": 120,
+      "location": 2,
+      "content": "而德银之所以敢维持",
+      "music": 0.0
+    },
+    {
+      "from": 237.219,
+      "to": 240.119,
+      "sid": 121,
+      "location": 2,
+      "content": "通过期权做空USDCH的头寸",
+      "music": 0.0
+    },
+    {
+      "from": 240.119,
+      "to": 241.079,
+      "sid": 122,
+      "location": 2,
+      "content": "不是赌方向",
+      "music": 0.0
+    },
+    {
+      "from": 241.079,
+      "to": 243.599,
+      "sid": 123,
+      "location": 2,
+      "content": "而是压住这个结构性趋势还会延续",
+      "music": 0.0
+    },
+    {
+      "from": 243.599,
+      "to": 244.98,
+      "sid": 124,
+      "location": 2,
+      "content": "用期权确实聪明",
+      "music": 0.0
+    },
+    {
+      "from": 244.98,
+      "to": 246.56,
+      "sid": 125,
+      "location": 2,
+      "content": "既能参与潜在收益",
+      "music": 0.0
+    },
+    {
+      "from": 246.56,
+      "to": 248.0,
+      "sid": 126,
+      "location": 2,
+      "content": "又能控制下行风险",
+      "music": 0.0
+    },
+    {
+      "from": 248.0,
+      "to": 250.24,
+      "sid": 127,
+      "location": 2,
+      "content": "特别适合现在这种趋势明确",
+      "music": 0.0
+    },
+    {
+      "from": 250.24,
+      "to": 251.92,
+      "sid": 128,
+      "location": 2,
+      "content": "但波动难免的环境",
+      "music": 0.0
+    },
+    {
+      "from": 251.92,
+      "to": 252.86,
+      "sid": 129,
+      "location": 2,
+      "content": "总结一下",
+      "music": 0.0
+    },
+    {
+      "from": 252.86,
+      "to": 255.82,
+      "sid": 130,
+      "location": 2,
+      "content": "这轮人民币升值不再是靠外部炒作",
+      "music": 0.0
+    },
+    {
+      "from": 255.82,
+      "to": 259.2,
+      "sid": 131,
+      "location": 2,
+      "content": "而是由实实在在的贸易顺差和企业行为驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 259.2,
+      "to": 261.12,
+      "sid": 132,
+      "location": 2,
+      "content": "政策层也不再一味压制",
+      "music": 0.0
+    },
+    {
+      "from": 261.12,
+      "to": 262.52,
+      "sid": 133,
+      "location": 2,
+      "content": "而是顺势引导",
+      "music": 0.0
+    },
+    {
+      "from": 262.52,
+      "to": 264.34,
+      "sid": 134,
+      "location": 2,
+      "content": "那普通投资者该定啥指标",
+      "music": 0.0
+    },
+    {
+      "from": 264.34,
+      "to": 265.52,
+      "sid": 135,
+      "location": 2,
+      "content": "两个关键",
+      "music": 0.0
+    },
+    {
+      "from": 265.52,
+      "to": 267.8,
+      "sid": 136,
+      "location": 2,
+      "content": "一是每月出口结汇比率",
+      "music": 0.0
+    },
+    {
+      "from": 267.8,
+      "to": 270.42,
+      "sid": 137,
+      "location": 2,
+      "content": "二是外管局公布的跨境资金流数据",
+      "music": 0.0
+    },
+    {
+      "from": 270.42,
+      "to": 272.0,
+      "sid": 138,
+      "location": 2,
+      "content": "尤其是组合投资那一块",
+      "music": 0.0
+    },
+    {
+      "from": 272.0,
+      "to": 273.96,
+      "sid": 139,
+      "location": 2,
+      "content": "有没有持续大额流出了",
+      "music": 0.0
+    },
+    {
+      "from": 273.96,
+      "to": 275.52,
+      "sid": 140,
+      "location": 2,
+      "content": "不过最后还得提醒一句",
+      "music": 0.0
+    },
+    {
+      "from": 275.52,
+      "to": 276.46,
+      "sid": 141,
+      "location": 2,
+      "content": "投资有风险",
+      "music": 0.0
+    },
+    {
+      "from": 276.46,
+      "to": 277.5,
+      "sid": 142,
+      "location": 2,
+      "content": "决策需谨慎",
+      "music": 0.0
+    },
+    {
+      "from": 277.5,
+      "to": 278.94,
+      "sid": 143,
+      "location": 2,
+      "content": "以上内容仅供参考",
+      "music": 0.0
+    },
+    {
+      "from": 278.94,
+      "to": 280.11,
+      "sid": 144,
+      "location": 2,
+      "content": "不构成投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 280.11,
+      "to": 281.21,
+      "sid": 145,
+      "location": 2,
+      "content": "别到时候亏了",
+      "music": 0.0
+    },
+    {
+      "from": 281.21,
+      "to": 282.22,
+      "sid": 146,
+      "location": 2,
+      "content": "回头找我算账啊",
+      "music": 0.0
+    }
+  ]
+}

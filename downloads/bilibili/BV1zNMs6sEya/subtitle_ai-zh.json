@@ -1,0 +1,3924 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.079,
+      "sid": 1,
+      "location": 2,
+      "content": "古来的自在泡沫破裂之前",
+      "music": 0.4364023184458585
+    },
+    {
+      "from": 3.079,
+      "to": 5.159,
+      "sid": 2,
+      "location": 2,
+      "content": "日本年轻人也曾经过过好日子",
+      "music": 0.0
+    },
+    {
+      "from": 6.8,
+      "to": 9.24,
+      "sid": 3,
+      "location": 2,
+      "content": "新足就业市场一度是典型的卖方市场",
+      "music": 0.0
+    },
+    {
+      "from": 9.24,
+      "to": 10.22,
+      "sid": 4,
+      "location": 2,
+      "content": "会社为了抢人",
+      "music": 0.0
+    },
+    {
+      "from": 10.22,
+      "to": 12.06,
+      "sid": 5,
+      "location": 2,
+      "content": "不得不提前进入学校经营",
+      "music": 0.0
+    },
+    {
+      "from": 12.06,
+      "to": 13.84,
+      "sid": 6,
+      "location": 2,
+      "content": "教授校友和就业部门的关系",
+      "music": 0.0
+    },
+    {
+      "from": 13.84,
+      "to": 16.92,
+      "sid": 7,
+      "location": 2,
+      "content": "通过学校推荐教授介绍ob访问企业",
+      "music": 0.0
+    },
+    {
+      "from": 16.92,
+      "to": 18.5,
+      "sid": 8,
+      "location": 2,
+      "content": "说明会和内定承诺",
+      "music": 0.0
+    },
+    {
+      "from": 18.5,
+      "to": 20.2,
+      "sid": 9,
+      "location": 2,
+      "content": "提前锁定尚未毕业的学生",
+      "music": 0.0
+    },
+    {
+      "from": 20.2,
+      "to": 23.12,
+      "sid": 10,
+      "location": 2,
+      "content": "尤其是大城市名校理工科和热门专业的学生",
+      "music": 0.0
+    },
+    {
+      "from": 23.12,
+      "to": 24.68,
+      "sid": 11,
+      "location": 2,
+      "content": "只要能够顺利毕业工作",
+      "music": 0.0
+    },
+    {
+      "from": 24.68,
+      "to": 27.35,
+      "sid": 12,
+      "location": 2,
+      "content": "往往已经在毕业前就主动找上门了",
+      "music": 0.0
+    },
+    {
+      "from": 27.35,
+      "to": 30.39,
+      "sid": 13,
+      "location": 2,
+      "content": "名义上日本长期存在限制企业过早接触学生",
+      "music": 0.0
+    },
+    {
+      "from": 30.39,
+      "to": 31.06,
+      "sid": 14,
+      "location": 2,
+      "content": "就组织协定",
+      "music": 0.0
+    },
+    {
+      "from": 31.06,
+      "to": 32.22,
+      "sid": 15,
+      "location": 2,
+      "content": "但在泡沫顶峰期",
+      "music": 0.0
+    },
+    {
+      "from": 32.22,
+      "to": 35.2,
+      "sid": 16,
+      "location": 2,
+      "content": "企业真正担心的是看中的学生被别家公司抢走",
+      "music": 0.0
+    },
+    {
+      "from": 35.2,
+      "to": 38.28,
+      "sid": 17,
+      "location": 2,
+      "content": "于是内定拘束成为新组采用的灰色常态",
+      "music": 0.0
+    },
+    {
+      "from": 38.28,
+      "to": 40.62,
+      "sid": 18,
+      "location": 2,
+      "content": "ob访问原本只是确认意向的过场",
+      "music": 0.0
+    },
+    {
+      "from": 40.62,
+      "to": 41.88,
+      "sid": 19,
+      "location": 2,
+      "content": "企业也不放过机会",
+      "music": 0.0
+    },
+    {
+      "from": 41.88,
+      "to": 42.94,
+      "sid": 20,
+      "location": 2,
+      "content": "请学生吃寿司",
+      "music": 0.0
+    },
+    {
+      "from": 42.94,
+      "to": 44.94,
+      "sid": 21,
+      "location": 2,
+      "content": "安排高级餐厅和酒店接待",
+      "music": 0.0
+    },
+    {
+      "from": 44.94,
+      "to": 46.24,
+      "sid": 22,
+      "location": 2,
+      "content": "交通费全额报销",
+      "music": 0.0
+    },
+    {
+      "from": 46.24,
+      "to": 48.68,
+      "sid": 23,
+      "location": 2,
+      "content": "新干线和住宿费用一次性给到10万日元",
+      "music": 0.0
+    },
+    {
+      "from": 48.68,
+      "to": 49.82,
+      "sid": 24,
+      "location": 2,
+      "content": "更极端的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 49.82,
+      "to": 53.2,
+      "sid": 25,
+      "location": 2,
+      "content": "企业会在就职解禁日前后安排所谓的研修旅行",
+      "music": 0.0
+    },
+    {
+      "from": 53.2,
+      "to": 55.12,
+      "sid": 26,
+      "location": 2,
+      "content": "也就是把学生带去夏威夷",
+      "music": 0.0
+    },
+    {
+      "from": 55.12,
+      "to": 57.04,
+      "sid": 27,
+      "location": 2,
+      "content": "香港澳大利亚或者温泉地",
+      "music": 0.0
+    },
+    {
+      "from": 57.04,
+      "to": 59.34,
+      "sid": 28,
+      "location": 2,
+      "content": "避免他们继续参加其他公司的面试",
+      "music": 0.0
+    },
+    {
+      "from": 59.34,
+      "to": 60.92,
+      "sid": 29,
+      "location": 2,
+      "content": "表面上是福利和研修",
+      "music": 0.0
+    },
+    {
+      "from": 60.92,
+      "to": 62.62,
+      "sid": 30,
+      "location": 2,
+      "content": "实际功能是内定拘束",
+      "music": 0.0
+    },
+    {
+      "from": 62.62,
+      "to": 64.3,
+      "sid": 31,
+      "location": 2,
+      "content": "在这种纸醉金迷的环境中",
+      "music": 0.0
+    },
+    {
+      "from": 64.3,
+      "to": 65.36,
+      "sid": 32,
+      "location": 2,
+      "content": "许多日本人相信",
+      "music": 0.0
+    },
+    {
+      "from": 65.36,
+      "to": 67.02,
+      "sid": 33,
+      "location": 2,
+      "content": "1亿总中流就在眼前",
+      "music": 0.0
+    },
+    {
+      "from": 67.02,
+      "to": 68.36,
+      "sid": 34,
+      "location": 2,
+      "content": "日子只会越来越甜",
+      "music": 0.0
+    },
+    {
+      "from": 68.36,
+      "to": 70.92,
+      "sid": 35,
+      "location": 2,
+      "content": "因此这个时代的年轻人根本没有存钱的习惯",
+      "music": 0.0
+    },
+    {
+      "from": 70.92,
+      "to": 72.49,
+      "sid": 36,
+      "location": 2,
+      "content": "反正明天还能赚到更多",
+      "music": 0.0
+    },
+    {
+      "from": 73.45,
+      "to": 75.81,
+      "sid": 37,
+      "location": 2,
+      "content": "日经指数创下3万9000点的历史高位",
+      "music": 0.0
+    },
+    {
+      "from": 75.81,
+      "to": 77.47,
+      "sid": 38,
+      "location": 2,
+      "content": "更是让许多日本人飘飘然",
+      "music": 0.0
+    },
+    {
+      "from": 77.47,
+      "to": 77.81,
+      "sid": 39,
+      "location": 2,
+      "content": "认为",
+      "music": 0.0
+    },
+    {
+      "from": 77.81,
+      "to": 80.34,
+      "sid": 40,
+      "location": 2,
+      "content": "黄国兴废超越美国就在朝夕之间了",
+      "music": 0.0
+    },
+    {
+      "from": 80.34,
+      "to": 83.0,
+      "sid": 41,
+      "location": 2,
+      "content": "因此很多人花光信用卡过了个肥年",
+      "music": 0.0
+    },
+    {
+      "from": 83.0,
+      "to": 85.46,
+      "sid": 42,
+      "location": 2,
+      "content": "然而转年便迎来了断裂式的下跌",
+      "music": 0.0
+    },
+    {
+      "from": 85.46,
+      "to": 86.8,
+      "sid": 43,
+      "location": 2,
+      "content": "1990年1月4日",
+      "music": 0.0
+    },
+    {
+      "from": 86.8,
+      "to": 88.68,
+      "sid": 44,
+      "location": 2,
+      "content": "新年首个交易日即大幅跳水",
+      "music": 0.0
+    },
+    {
+      "from": 88.68,
+      "to": 90.78,
+      "sid": 45,
+      "location": 2,
+      "content": "此后数周内跌势持续扩大",
+      "music": 0.0
+    },
+    {
+      "from": 90.78,
+      "to": 92.26,
+      "sid": 46,
+      "location": 2,
+      "content": "到1990年3月底",
+      "music": 0.0
+    },
+    {
+      "from": 92.26,
+      "to": 94.1,
+      "sid": 47,
+      "location": 2,
+      "content": "日经指数已经跌破3万点",
+      "music": 0.0
+    },
+    {
+      "from": 94.1,
+      "to": 96.19,
+      "sid": 48,
+      "location": 2,
+      "content": "较峰值回落超过20%",
+      "music": 0.0
+    },
+    {
+      "from": 96.19,
+      "to": 98.43,
+      "sid": 49,
+      "location": 2,
+      "content": "同年10月进一步跌至2万点",
+      "music": 0.0
+    },
+    {
+      "from": 98.43,
+      "to": 99.55,
+      "sid": 50,
+      "location": 2,
+      "content": "基本完成腰斩",
+      "music": 0.0
+    },
+    {
+      "from": 99.55,
+      "to": 100.95,
+      "sid": 51,
+      "location": 2,
+      "content": "到1992年8月",
+      "music": 0.0
+    },
+    {
+      "from": 100.95,
+      "to": 103.11,
+      "sid": 52,
+      "location": 2,
+      "content": "指数一度下探至1万4000点",
+      "music": 0.0
+    },
+    {
+      "from": 103.11,
+      "to": 104.96,
+      "sid": 53,
+      "location": 2,
+      "content": "累计跌幅超过60%",
+      "music": 0.0
+    },
+    {
+      "from": 106.08,
+      "to": 108.52,
+      "sid": 54,
+      "location": 2,
+      "content": "首先表现为金融资产价格的崩盘",
+      "music": 0.0
+    },
+    {
+      "from": 108.52,
+      "to": 110.44,
+      "sid": 55,
+      "location": 2,
+      "content": "随后传导到土地企业",
+      "music": 0.0
+    },
+    {
+      "from": 110.44,
+      "to": 112.22,
+      "sid": 56,
+      "location": 2,
+      "content": "资产负债和青年就业市场",
+      "music": 0.0
+    },
+    {
+      "from": 112.22,
+      "to": 113.02,
+      "sid": 57,
+      "location": 2,
+      "content": "1991年",
+      "music": 0.0
+    },
+    {
+      "from": 113.02,
+      "to": 115.5,
+      "sid": 58,
+      "location": 2,
+      "content": "大学毕业生的求人倍率达到顶峰",
+      "music": 0.0
+    },
+    {
+      "from": 115.5,
+      "to": 116.28,
+      "sid": 59,
+      "location": 2,
+      "content": "2.86倍",
+      "music": 0.0
+    },
+    {
+      "from": 116.28,
+      "to": 118.22,
+      "sid": 60,
+      "location": 2,
+      "content": "随后一路下跌到196年",
+      "music": 0.0
+    },
+    {
+      "from": 118.22,
+      "to": 119.6,
+      "sid": 61,
+      "location": 2,
+      "content": "只剩下1.08倍",
+      "music": 0.0
+    },
+    {
+      "from": 119.6,
+      "to": 120.4,
+      "sid": 62,
+      "location": 2,
+      "content": "民间企业",
+      "music": 0.0
+    },
+    {
+      "from": 120.4,
+      "to": 123.18,
+      "sid": 63,
+      "location": 2,
+      "content": "面向大学生的求人总数跌到39万人",
+      "music": 0.0
+    },
+    {
+      "from": 123.18,
+      "to": 124.06,
+      "sid": 64,
+      "location": 2,
+      "content": "更残酷的是",
+      "music": 0.0
+    },
+    {
+      "from": 124.06,
+      "to": 125.54,
+      "sid": 65,
+      "location": 2,
+      "content": "大企业入口几乎关上",
+      "music": 0.0
+    },
+    {
+      "from": 125.54,
+      "to": 126.14,
+      "sid": 66,
+      "location": 2,
+      "content": "1997年",
+      "music": 0.0
+    },
+    {
+      "from": 126.14,
+      "to": 129.74,
+      "sid": 67,
+      "location": 2,
+      "content": "1000人以上大企业求人倍率只有0.36倍",
+      "music": 0.0
+    },
+    {
+      "from": 129.74,
+      "to": 130.86,
+      "sid": 68,
+      "location": 2,
+      "content": "学生想去大公司",
+      "music": 0.0
+    },
+    {
+      "from": 130.86,
+      "to": 132.52,
+      "sid": 69,
+      "location": 2,
+      "content": "差不多三个人抢一个岗位",
+      "music": 0.0
+    },
+    {
+      "from": 132.52,
+      "to": 134.0,
+      "sid": 70,
+      "location": 2,
+      "content": "ob访问阶段的寿司没了",
+      "music": 0.0
+    },
+    {
+      "from": 134.0,
+      "to": 136.96,
+      "sid": 71,
+      "location": 2,
+      "content": "高级酒店法餐全套和海外旅行也消失了",
+      "music": 0.0
+    },
+    {
+      "from": 136.96,
+      "to": 139.3,
+      "sid": 72,
+      "location": 2,
+      "content": "留下的只有不断被筛选的简历书",
+      "music": 0.0
+    },
+    {
+      "from": 139.3,
+      "to": 140.6,
+      "sid": 73,
+      "location": 2,
+      "content": "石沉大海的企业回复",
+      "music": 0.0
+    },
+    {
+      "from": 140.6,
+      "to": 142.5,
+      "sid": 74,
+      "location": 2,
+      "content": "以及越来越多的劳务派遣",
+      "music": 0.0
+    },
+    {
+      "from": 142.5,
+      "to": 145.02,
+      "sid": 75,
+      "location": 2,
+      "content": "临时零售和服务业岗位",
+      "music": 0.0
+    },
+    {
+      "from": 145.02,
+      "to": 146.78,
+      "sid": 76,
+      "location": 2,
+      "content": "而日本的新族一扩采用制度",
+      "music": 0.0
+    },
+    {
+      "from": 146.78,
+      "to": 148.4,
+      "sid": 77,
+      "location": 2,
+      "content": "又放大了这种失败的后果",
+      "music": 0.0
+    },
+    {
+      "from": 148.4,
+      "to": 150.66,
+      "sid": 78,
+      "location": 2,
+      "content": "毕业第一年的内定不只是第一份工作",
+      "music": 0.0
+    },
+    {
+      "from": 150.66,
+      "to": 153.2,
+      "sid": 79,
+      "location": 2,
+      "content": "往往也是死后一生劳动轨道的入口",
+      "music": 0.0
+    },
+    {
+      "from": 153.2,
+      "to": 154.4,
+      "sid": 80,
+      "location": 2,
+      "content": "如果能够进入大会社",
+      "music": 0.0
+    },
+    {
+      "from": 154.4,
+      "to": 155.78,
+      "sid": 81,
+      "location": 2,
+      "content": "就意味着培训轮岗",
+      "music": 0.0
+    },
+    {
+      "from": 155.78,
+      "to": 157.24,
+      "sid": 82,
+      "location": 2,
+      "content": "福利晋升和身份确认",
+      "music": 0.0
+    },
+    {
+      "from": 157.24,
+      "to": 159.68,
+      "sid": 83,
+      "location": 2,
+      "content": "若一开始就进入派遣临时工",
+      "music": 0.0
+    },
+    {
+      "from": 159.68,
+      "to": 162.16,
+      "sid": 84,
+      "location": 2,
+      "content": "零售服务或者地方低附加值岗位之后",
+      "music": 0.0
+    },
+    {
+      "from": 162.16,
+      "to": 164.9,
+      "sid": 85,
+      "location": 2,
+      "content": "再想回到核心就业轨道的难度就非常之高了",
+      "music": 0.0
+    },
+    {
+      "from": 164.9,
+      "to": 166.12,
+      "sid": 86,
+      "location": 2,
+      "content": "对于这一代年轻人来说",
+      "music": 0.0
+    },
+    {
+      "from": 166.12,
+      "to": 167.68,
+      "sid": 87,
+      "location": 2,
+      "content": "求职失败不是短期挫折",
+      "music": 0.0
+    },
+    {
+      "from": 167.68,
+      "to": 169.74,
+      "sid": 88,
+      "location": 2,
+      "content": "而是社会入口关闭后的长期后果",
+      "music": 0.0
+    },
+    {
+      "from": 169.74,
+      "to": 172.66,
+      "sid": 89,
+      "location": 2,
+      "content": "这就是日本劳动经济学者后来反复讨论的",
+      "music": 0.0
+    },
+    {
+      "from": 172.66,
+      "to": 173.84,
+      "sid": 90,
+      "location": 2,
+      "content": "就业疤痕效应",
+      "music": 0.0
+    },
+    {
+      "from": 173.84,
+      "to": 175.24,
+      "sid": 91,
+      "location": 2,
+      "content": "面对无法避免的衰退",
+      "music": 0.0
+    },
+    {
+      "from": 175.24,
+      "to": 177.14,
+      "sid": 92,
+      "location": 2,
+      "content": "日本政府在当年的经济白皮书中",
+      "music": 0.0
+    },
+    {
+      "from": 177.14,
+      "to": 179.3,
+      "sid": 93,
+      "location": 2,
+      "content": "仍将其表述为技术性调整",
+      "music": 0.0
+    },
+    {
+      "from": 179.3,
+      "to": 181.94,
+      "sid": 94,
+      "location": 2,
+      "content": "仿佛下跌只是为下一轮上涨创造条件",
+      "music": 0.0
+    },
+    {
+      "from": 181.94,
+      "to": 185.14,
+      "sid": 95,
+      "location": 2,
+      "content": "但日本企业比政府更早意识到局势已经改变",
+      "music": 0.0
+    },
+    {
+      "from": 185.14,
+      "to": 186.2,
+      "sid": 96,
+      "location": 2,
+      "content": "随着利润下滑",
+      "music": 0.0
+    },
+    {
+      "from": 186.2,
+      "to": 188.9,
+      "sid": 97,
+      "location": 2,
+      "content": "大型制造企业与金融机构开始冻结招聘",
+      "music": 0.0
+    },
+    {
+      "from": 188.9,
+      "to": 189.7,
+      "sid": 98,
+      "location": 2,
+      "content": "压缩岗位",
+      "music": 0.0
+    },
+    {
+      "from": 189.7,
+      "to": 190.74,
+      "sid": 99,
+      "location": 2,
+      "content": "削减正式雇佣",
+      "music": 0.0
+    },
+    {
+      "from": 190.74,
+      "to": 192.54,
+      "sid": 100,
+      "location": 2,
+      "content": "终身雇佣体系出现松动",
+      "music": 0.0
+    },
+    {
+      "from": 192.54,
+      "to": 195.92,
+      "sid": 101,
+      "location": 2,
+      "content": "新毕业生进入正式就业体系的比例持续下滑",
+      "music": 0.0
+    },
+    {
+      "from": 195.92,
+      "to": 196.58,
+      "sid": 102,
+      "location": 2,
+      "content": "多年以后",
+      "music": 0.0
+    },
+    {
+      "from": 196.58,
+      "to": 198.52,
+      "sid": 103,
+      "location": 2,
+      "content": "日本社会普遍将1992年前后",
+      "music": 0.0
+    },
+    {
+      "from": 198.52,
+      "to": 200.44,
+      "sid": 104,
+      "location": 2,
+      "content": "视为就职冰河期的起点",
+      "music": 0.0
+    },
+    {
+      "from": 200.44,
+      "to": 203.18,
+      "sid": 105,
+      "location": 2,
+      "content": "所谓旧时冰河期不只是工作更难找了",
+      "music": 0.0
+    },
+    {
+      "from": 203.18,
+      "to": 205.12,
+      "sid": 106,
+      "location": 2,
+      "content": "而是一代人在进入社会的第一步",
+      "music": 0.0
+    },
+    {
+      "from": 205.12,
+      "to": 206.52,
+      "sid": 107,
+      "location": 2,
+      "content": "就被打入低起点",
+      "music": 0.0
+    },
+    {
+      "from": 206.52,
+      "to": 207.1,
+      "sid": 108,
+      "location": 2,
+      "content": "低工资",
+      "music": 0.0
+    },
+    {
+      "from": 207.1,
+      "to": 209.28,
+      "sid": 109,
+      "location": 2,
+      "content": "非正式雇佣和低保障的轨道",
+      "music": 0.0
+    },
+    {
+      "from": 209.28,
+      "to": 211.12,
+      "sid": 110,
+      "location": 2,
+      "content": "到1994年至195年",
+      "music": 0.0
+    },
+    {
+      "from": 211.12,
+      "to": 212.44,
+      "sid": 111,
+      "location": 2,
+      "content": "日本社会已经普遍意识到",
+      "music": 0.0
+    },
+    {
+      "from": 212.44,
+      "to": 214.48,
+      "sid": 112,
+      "location": 2,
+      "content": "眼前的经济困境不是短期波动",
+      "music": 0.0
+    },
+    {
+      "from": 214.48,
+      "to": 216.26,
+      "sid": 113,
+      "location": 2,
+      "content": "而是长期萧条周期的开始",
+      "music": 0.0
+    },
+    {
+      "from": 216.26,
+      "to": 219.06,
+      "sid": 114,
+      "location": 2,
+      "content": "东京等大城市中大量背负30年住房贷款",
+      "music": 0.0
+    },
+    {
+      "from": 219.06,
+      "to": 220.62,
+      "sid": 115,
+      "location": 2,
+      "content": "却在中年遭遇裁员的男性",
+      "music": 0.0
+    },
+    {
+      "from": 220.62,
+      "to": 221.98,
+      "sid": 116,
+      "location": 2,
+      "content": "为了给家人留下保险金",
+      "music": 0.0
+    },
+    {
+      "from": 221.98,
+      "to": 224.02,
+      "sid": 117,
+      "location": 2,
+      "content": "选择以极端方式结束生命",
+      "music": 0.0
+    },
+    {
+      "from": 224.02,
+      "to": 226.96,
+      "sid": 118,
+      "location": 2,
+      "content": "地铁月台与高层建筑下反复响起的坠落声",
+      "music": 0.0
+    },
+    {
+      "from": 226.96,
+      "to": 227.58,
+      "sid": 119,
+      "location": 2,
+      "content": "成为泡沫",
+      "music": 0.0
+    },
+    {
+      "from": 227.58,
+      "to": 230.64,
+      "sid": 120,
+      "location": 2,
+      "content": "经济崩塌后的最残酷也最直观的社会注脚",
+      "music": 0.0
+    },
+    {
+      "from": 230.64,
+      "to": 233.36,
+      "sid": 121,
+      "location": 2,
+      "content": "年轻人也失去了上升通道和职业发展机会",
+      "music": 0.0
+    },
+    {
+      "from": 233.36,
+      "to": 235.12,
+      "sid": 122,
+      "location": 2,
+      "content": "应届毕业生一方面开始读研",
+      "music": 0.0
+    },
+    {
+      "from": 235.12,
+      "to": 235.74,
+      "sid": 123,
+      "location": 2,
+      "content": "逃避就业",
+      "music": 0.0
+    },
+    {
+      "from": 235.74,
+      "to": 237.66,
+      "sid": 124,
+      "location": 2,
+      "content": "另一方面则选择向下兼容",
+      "music": 0.0
+    },
+    {
+      "from": 237.66,
+      "to": 239.7,
+      "sid": 125,
+      "location": 2,
+      "content": "骑驴找马进入非正式就业路径",
+      "music": 0.0
+    },
+    {
+      "from": 239.7,
+      "to": 242.72,
+      "sid": 126,
+      "location": 2,
+      "content": "逐步沦为百元族和网吧难民青年就业",
+      "music": 0.0
+    },
+    {
+      "from": 242.72,
+      "to": 245.24,
+      "sid": 127,
+      "location": 2,
+      "content": "家庭资产和城市秩序一并承压",
+      "music": 0.0
+    },
+    {
+      "from": 245.24,
+      "to": 248.43,
+      "sid": 128,
+      "location": 2,
+      "content": "原本的1亿总中流开始滑向下流社会",
+      "music": 0.0
+    },
+    {
+      "from": 248.43,
+      "to": 249.57,
+      "sid": 129,
+      "location": 2,
+      "content": "日本政府很清楚",
+      "music": 0.0
+    },
+    {
+      "from": 249.57,
+      "to": 251.99,
+      "sid": 130,
+      "location": 2,
+      "content": "如果大量无业青年长期滞留在东京",
+      "music": 0.0
+    },
+    {
+      "from": 251.99,
+      "to": 252.79,
+      "sid": 131,
+      "location": 2,
+      "content": "大坂等大城市",
+      "music": 0.0
+    },
+    {
+      "from": 252.79,
+      "to": 254.22,
+      "sid": 132,
+      "location": 2,
+      "content": "不仅会冲击其有社会秩序",
+      "music": 0.0
+    },
+    {
+      "from": 254.22,
+      "to": 256.3,
+      "sid": 133,
+      "location": 2,
+      "content": "也会暴露经济治理的系统性失效",
+      "music": 0.0
+    },
+    {
+      "from": 256.3,
+      "to": 259.26,
+      "sid": 134,
+      "location": 2,
+      "content": "在大城市就业吸纳能力接近枯竭的背景下",
+      "music": 0.0
+    },
+    {
+      "from": 259.26,
+      "to": 261.329,
+      "sid": 135,
+      "location": 2,
+      "content": "政策重心开始转向人口分流",
+      "music": 0.0
+    },
+    {
+      "from": 261.329,
+      "to": 262.169,
+      "sid": 136,
+      "location": 2,
+      "content": "1992年",
+      "music": 0.0
+    },
+    {
+      "from": 262.169,
+      "to": 264.389,
+      "sid": 137,
+      "location": 2,
+      "content": "日本政府正式发布地方据点城市法",
+      "music": 0.0
+    },
+    {
+      "from": 264.389,
+      "to": 265.96,
+      "sid": 138,
+      "location": 2,
+      "content": "旨在疏解东京圈人口",
+      "music": 0.0
+    },
+    {
+      "from": 265.96,
+      "to": 268.0,
+      "sid": 139,
+      "location": 2,
+      "content": "提升地方中心城市居住水平",
+      "music": 0.0
+    },
+    {
+      "from": 268.0,
+      "to": 270.08,
+      "sid": 140,
+      "location": 2,
+      "content": "同时推动产业功能向地方分散",
+      "music": 0.0
+    },
+    {
+      "from": 270.08,
+      "to": 274.31,
+      "sid": 141,
+      "location": 2,
+      "content": "这政策正式开启了日后轰轰烈烈的返乡潮",
+      "music": 0.0
+    },
+    {
+      "from": 274.31,
+      "to": 276.19,
+      "sid": 142,
+      "location": 2,
+      "content": "在东京艰难求生的年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 276.19,
+      "to": 278.29,
+      "sid": 143,
+      "location": 2,
+      "content": "也在这一政策转向中看到了新的希望",
+      "music": 0.0
+    },
+    {
+      "from": 278.29,
+      "to": 279.47,
+      "sid": 144,
+      "location": 2,
+      "content": "东京居大不易",
+      "music": 0.0
+    },
+    {
+      "from": 279.47,
+      "to": 283.04,
+      "sid": 145,
+      "location": 2,
+      "content": "老家至少还有父母熟人住房和较低的生活成本",
+      "music": 0.0
+    },
+    {
+      "from": 283.04,
+      "to": 283.92,
+      "sid": 146,
+      "location": 2,
+      "content": "地方人行计划",
+      "music": 0.0
+    },
+    {
+      "from": 283.92,
+      "to": 286.74,
+      "sid": 147,
+      "location": 2,
+      "content": "又在地方制造了大量看得见的项目和岗位",
+      "music": 0.0
+    },
+    {
+      "from": 286.74,
+      "to": 288.04,
+      "sid": 148,
+      "location": 2,
+      "content": "公共工程在开工",
+      "music": 0.0
+    },
+    {
+      "from": 288.04,
+      "to": 289.02,
+      "sid": 149,
+      "location": 2,
+      "content": "景区的建设",
+      "music": 0.0
+    },
+    {
+      "from": 289.02,
+      "to": 290.12,
+      "sid": 150,
+      "location": 2,
+      "content": "地方商业在扩张",
+      "music": 0.0
+    },
+    {
+      "from": 290.12,
+      "to": 291.08,
+      "sid": 151,
+      "location": 2,
+      "content": "服务业在下沉",
+      "music": 0.0
+    },
+    {
+      "from": 291.08,
+      "to": 293.1,
+      "sid": 152,
+      "location": 2,
+      "content": "对没有拿到大企业内定的年轻人来说",
+      "music": 0.0
+    },
+    {
+      "from": 293.1,
+      "to": 295.02,
+      "sid": 153,
+      "location": 2,
+      "content": "返乡不再只是一个失败后的撤退",
+      "music": 0.0
+    },
+    {
+      "from": 295.02,
+      "to": 297.06,
+      "sid": 154,
+      "location": 2,
+      "content": "也可以被理解为更加务实的选择",
+      "music": 0.0
+    },
+    {
+      "from": 297.06,
+      "to": 298.9,
+      "sid": 155,
+      "location": 2,
+      "content": "和参与地方再生的新机会",
+      "music": 0.0
+    },
+    {
+      "from": 298.9,
+      "to": 301.22,
+      "sid": 156,
+      "location": 2,
+      "content": "日本政府为了更好的服务年轻人返乡",
+      "music": 0.0
+    },
+    {
+      "from": 301.22,
+      "to": 303.0,
+      "sid": 157,
+      "location": 2,
+      "content": "也搞了日本版的三线建设",
+      "music": 0.0
+    },
+    {
+      "from": 303.0,
+      "to": 303.74,
+      "sid": 158,
+      "location": 2,
+      "content": "在就业端",
+      "music": 0.0
+    },
+    {
+      "from": 303.74,
+      "to": 307.02,
+      "sid": 159,
+      "location": 2,
+      "content": "消费端和居住信贷宽松方面给予了充分的支持",
+      "music": 0.0
+    },
+    {
+      "from": 307.02,
+      "to": 308.02,
+      "sid": 160,
+      "location": 2,
+      "content": "首先是就业端",
+      "music": 0.0
+    },
+    {
+      "from": 308.02,
+      "to": 310.38,
+      "sid": 161,
+      "location": 2,
+      "content": "默许地方政府最后再搞一轮大基建",
+      "music": 0.0
+    },
+    {
+      "from": 310.38,
+      "to": 311.34,
+      "sid": 162,
+      "location": 2,
+      "content": "即使债务承压",
+      "music": 0.0
+    },
+    {
+      "from": 311.34,
+      "to": 313.809,
+      "sid": 163,
+      "location": 2,
+      "content": "经济刺激也是最后的纷飞狂欢",
+      "music": 0.0
+    },
+    {
+      "from": 313.809,
+      "to": 315.489,
+      "sid": 164,
+      "location": 2,
+      "content": "地方也借着建设文理经济",
+      "music": 0.0
+    },
+    {
+      "from": 315.489,
+      "to": 317.529,
+      "sid": 165,
+      "location": 2,
+      "content": "会展经济的名义大肆借债",
+      "music": 0.0
+    },
+    {
+      "from": 317.529,
+      "to": 319.229,
+      "sid": 166,
+      "location": 2,
+      "content": "搞不符合实际的奇观工程",
+      "music": 0.0
+    },
+    {
+      "from": 319.229,
+      "to": 321.32,
+      "sid": 167,
+      "location": 2,
+      "content": "这其中煤炭能源型城市西昌市",
+      "music": 0.0
+    },
+    {
+      "from": 321.32,
+      "to": 324.18,
+      "sid": 168,
+      "location": 2,
+      "content": "号称要做日本海侧国际交流中心的新泻市",
+      "music": 0.0
+    },
+    {
+      "from": 324.18,
+      "to": 325.72,
+      "sid": 169,
+      "location": 2,
+      "content": "我找到了升温时代遗址",
+      "music": 0.0
+    },
+    {
+      "from": 325.72,
+      "to": 327.3,
+      "sid": 170,
+      "location": 2,
+      "content": "因此要搞最大规模升温",
+      "music": 0.0
+    },
+    {
+      "from": 327.3,
+      "to": 328.94,
+      "sid": 171,
+      "location": 2,
+      "content": "时代文博度假村的青森县",
+      "music": 0.0
+    },
+    {
+      "from": 328.94,
+      "to": 331.42,
+      "sid": 172,
+      "location": 2,
+      "content": "多位可怜的日本人增加了巨额的债务",
+      "music": 0.0
+    },
+    {
+      "from": 331.42,
+      "to": 334.65,
+      "sid": 173,
+      "location": 2,
+      "content": "当然这些项目在当时确实创造了大量就业岗位",
+      "music": 0.0
+    },
+    {
+      "from": 334.65,
+      "to": 337.73,
+      "sid": 174,
+      "location": 2,
+      "content": "无论是工程施工岗位还是洗脚按摩服务产业",
+      "music": 0.0
+    },
+    {
+      "from": 337.73,
+      "to": 339.97,
+      "sid": 175,
+      "location": 2,
+      "content": "毕竟这么多工程佬钱总得有地方花嘛",
+      "music": 0.0
+    },
+    {
+      "from": 339.97,
+      "to": 340.69,
+      "sid": 176,
+      "location": 2,
+      "content": "另一方面",
+      "music": 0.0
+    },
+    {
+      "from": 340.69,
+      "to": 342.62,
+      "sid": 177,
+      "location": 2,
+      "content": "地方生活性服务业也在下沉",
+      "music": 0.0
+    },
+    {
+      "from": 342.62,
+      "to": 344.0,
+      "sid": 178,
+      "location": 2,
+      "content": "这里与其说是消费升级",
+      "music": 0.0
+    },
+    {
+      "from": 344.0,
+      "to": 345.34,
+      "sid": 179,
+      "location": 2,
+      "content": "不如说是消费下沉",
+      "music": 0.0
+    },
+    {
+      "from": 345.34,
+      "to": 346.38,
+      "sid": 180,
+      "location": 2,
+      "content": "90年代后期",
+      "music": 0.0
+    },
+    {
+      "from": 346.38,
+      "to": 349.76,
+      "sid": 181,
+      "location": 2,
+      "content": "日本地方公有工程与生活服务业同时扩张",
+      "music": 0.0
+    },
+    {
+      "from": 349.76,
+      "to": 350.44,
+      "sid": 182,
+      "location": 2,
+      "content": "便利店",
+      "music": 0.0
+    },
+    {
+      "from": 350.44,
+      "to": 351.32,
+      "sid": 183,
+      "location": 2,
+      "content": "家庭餐厅",
+      "music": 0.0
+    },
+    {
+      "from": 351.32,
+      "to": 352.98,
+      "sid": 184,
+      "location": 2,
+      "content": "沿公路布局的连锁门店",
+      "music": 0.0
+    },
+    {
+      "from": 352.98,
+      "to": 355.1,
+      "sid": 185,
+      "location": 2,
+      "content": "连锁零售和地方商场一起",
+      "music": 0.0
+    },
+    {
+      "from": 355.1,
+      "to": 356.88,
+      "sid": 186,
+      "location": 2,
+      "content": "改变了地方城市的生活场景",
+      "music": 0.0
+    },
+    {
+      "from": 356.88,
+      "to": 358.82,
+      "sid": 187,
+      "location": 2,
+      "content": "他们让返乡青年产生了一种错觉",
+      "music": 0.0
+    },
+    {
+      "from": 358.82,
+      "to": 359.9,
+      "sid": 188,
+      "location": 2,
+      "content": "即使离开了东京",
+      "music": 0.0
+    },
+    {
+      "from": 359.9,
+      "to": 362.15,
+      "sid": 189,
+      "location": 2,
+      "content": "自己也没有完全掉出现代生活的网络",
+      "music": 0.0
+    },
+    {
+      "from": 362.15,
+      "to": 364.31,
+      "sid": 190,
+      "location": 2,
+      "content": "其中便利店体系最具代表性",
+      "music": 0.0
+    },
+    {
+      "from": 364.31,
+      "to": 365.41,
+      "sid": 191,
+      "location": 2,
+      "content": "1990年代",
+      "music": 0.0
+    },
+    {
+      "from": 365.41,
+      "to": 367.67,
+      "sid": 192,
+      "location": 2,
+      "content": "日本便利店行业逐渐形成7-eleven",
+      "music": 0.0
+    },
+    {
+      "from": 367.67,
+      "to": 370.12,
+      "sid": 193,
+      "location": 2,
+      "content": "罗森和family mart3足鼎立的格局",
+      "music": 0.0
+    },
+    {
+      "from": 370.12,
+      "to": 371.44,
+      "sid": 194,
+      "location": 2,
+      "content": "95年至98年前后",
+      "music": 0.0
+    },
+    {
+      "from": 371.44,
+      "to": 372.6,
+      "sid": 195,
+      "location": 2,
+      "content": "便利店门店数量",
+      "music": 0.0
+    },
+    {
+      "from": 372.6,
+      "to": 375.68,
+      "sid": 196,
+      "location": 2,
+      "content": "在地方中小城市和郊区明显加速扩张",
+      "music": 0.0
+    },
+    {
+      "from": 375.68,
+      "to": 377.28,
+      "sid": 197,
+      "location": 2,
+      "content": "新增门店占比持续上升",
+      "music": 0.0
+    },
+    {
+      "from": 377.28,
+      "to": 379.5,
+      "sid": 198,
+      "location": 2,
+      "content": "连锁体系开始从大都市的核心区域",
+      "music": 0.0
+    },
+    {
+      "from": 379.5,
+      "to": 380.6,
+      "sid": 199,
+      "location": 2,
+      "content": "向周边县城扩张",
+      "music": 0.0
+    },
+    {
+      "from": 380.6,
+      "to": 381.94,
+      "sid": 200,
+      "location": 2,
+      "content": "并沿着交通线渗透后",
+      "music": 0.0
+    },
+    {
+      "from": 381.94,
+      "to": 383.44,
+      "sid": 201,
+      "location": 2,
+      "content": "便利店从都市消费设施",
+      "music": 0.0
+    },
+    {
+      "from": 383.44,
+      "to": 385.63,
+      "sid": 202,
+      "location": 2,
+      "content": "扩展为全国性的基础设施服务网络",
+      "music": 0.0
+    },
+    {
+      "from": 385.63,
+      "to": 388.65,
+      "sid": 203,
+      "location": 2,
+      "content": "逐渐承担起餐食缴费取款",
+      "music": 0.0
+    },
+    {
+      "from": 388.65,
+      "to": 391.03,
+      "sid": 204,
+      "location": 2,
+      "content": "宅配票务和夜间消费等功能",
+      "music": 0.0
+    },
+    {
+      "from": 391.03,
+      "to": 392.77,
+      "sid": 205,
+      "location": 2,
+      "content": "比如说你可以在711交话费",
+      "music": 0.0
+    },
+    {
+      "from": 392.77,
+      "to": 393.88,
+      "sid": 206,
+      "location": 2,
+      "content": "水费和电费",
+      "music": 0.0
+    },
+    {
+      "from": 393.88,
+      "to": 395.7,
+      "sid": 207,
+      "location": 2,
+      "content": "有点类似于支付宝当年做的事情",
+      "music": 0.0
+    },
+    {
+      "from": 395.7,
+      "to": 397.2,
+      "sid": 208,
+      "location": 2,
+      "content": "城市消费服务业态下沉",
+      "music": 0.0
+    },
+    {
+      "from": 397.2,
+      "to": 398.08,
+      "sid": 209,
+      "location": 2,
+      "content": "对年轻人的意义",
+      "music": 0.0
+    },
+    {
+      "from": 398.08,
+      "to": 400.76,
+      "sid": 210,
+      "location": 2,
+      "content": "不止在于提升了生活的便利性和丰富的夜生活",
+      "music": 0.0
+    },
+    {
+      "from": 400.76,
+      "to": 402.44,
+      "sid": 211,
+      "location": 2,
+      "content": "还让很多身在曹营",
+      "music": 0.0
+    },
+    {
+      "from": 402.44,
+      "to": 403.2,
+      "sid": 212,
+      "location": 2,
+      "content": "心在汉的年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 403.2,
+      "to": 406.289,
+      "sid": 213,
+      "location": 2,
+      "content": "觉得自己在家乡依然可以过上大城市的生活",
+      "music": 0.0
+    },
+    {
+      "from": 406.289,
+      "to": 407.489,
+      "sid": 214,
+      "location": 2,
+      "content": "对反家青年而言",
+      "music": 0.0
+    },
+    {
+      "from": 407.489,
+      "to": 408.909,
+      "sid": 215,
+      "location": 2,
+      "content": "便利店24小时亮着灯",
+      "music": 0.0
+    },
+    {
+      "from": 408.909,
+      "to": 410.329,
+      "sid": 216,
+      "location": 2,
+      "content": "连锁零售进驻和配送",
+      "music": 0.0
+    },
+    {
+      "from": 410.329,
+      "to": 411.52,
+      "sid": 217,
+      "location": 2,
+      "content": "物流服务的全覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 411.52,
+      "to": 413.68,
+      "sid": 218,
+      "location": 2,
+      "content": "让地方城市获得了一层现代感",
+      "music": 0.0
+    },
+    {
+      "from": 413.68,
+      "to": 415.84,
+      "sid": 219,
+      "location": 2,
+      "content": "这让他看起来不再只是衰退中的故乡",
+      "music": 0.0
+    },
+    {
+      "from": 415.84,
+      "to": 417.76,
+      "sid": 220,
+      "location": 2,
+      "content": "也像是一个值得生活的地方",
+      "music": 0.0
+    },
+    {
+      "from": 417.76,
+      "to": 418.7,
+      "sid": 221,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 418.7,
+      "to": 420.74,
+      "sid": 222,
+      "location": 2,
+      "content": "年轻人的消费喜好也出现了反转",
+      "music": 0.0
+    },
+    {
+      "from": 420.74,
+      "to": 422.84,
+      "sid": 223,
+      "location": 2,
+      "content": "泡沫时代的奢侈消费和炫耀性消费",
+      "music": 0.0
+    },
+    {
+      "from": 422.84,
+      "to": 423.5,
+      "sid": 224,
+      "location": 2,
+      "content": "退潮以后",
+      "music": 0.0
+    },
+    {
+      "from": 423.5,
+      "to": 426.64,
+      "sid": 225,
+      "location": 2,
+      "content": "90年代后期兴起的是所谓的疗愈系消费",
+      "music": 0.0
+    },
+    {
+      "from": 426.64,
+      "to": 429.86,
+      "sid": 226,
+      "location": 2,
+      "content": "也就是在一种未来无望的情景中找到小确幸",
+      "music": 0.0
+    },
+    {
+      "from": 429.86,
+      "to": 432.2,
+      "sid": 227,
+      "location": 2,
+      "content": "缓解自己返乡的失败感和疲惫感",
+      "music": 0.0
+    },
+    {
+      "from": 432.2,
+      "to": 433.72,
+      "sid": 228,
+      "location": 2,
+      "content": "的一种情绪性消费",
+      "music": 0.0
+    },
+    {
+      "from": 433.72,
+      "to": 435.68,
+      "sid": 229,
+      "location": 2,
+      "content": "其中最典型的代表就是sans",
+      "music": 0.0
+    },
+    {
+      "from": 435.68,
+      "to": 437.38,
+      "sid": 230,
+      "location": 2,
+      "content": "在1998年推出的啪啪熊",
+      "music": 0.0
+    },
+    {
+      "from": 437.38,
+      "to": 438.48,
+      "sid": 231,
+      "location": 2,
+      "content": "而到了2000年之后",
+      "music": 0.0
+    },
+    {
+      "from": 438.48,
+      "to": 440.76,
+      "sid": 232,
+      "location": 2,
+      "content": "第二代情趣玩具骚年angel开始流行",
+      "music": 0.0
+    },
+    {
+      "from": 440.76,
+      "to": 442.6,
+      "sid": 233,
+      "location": 2,
+      "content": "而一家中国代理商看到了机会",
+      "music": 0.0
+    },
+    {
+      "from": 442.6,
+      "to": 443.88,
+      "sid": 234,
+      "location": 2,
+      "content": "也把他引入了中国",
+      "music": 0.0
+    },
+    {
+      "from": 443.88,
+      "to": 445.7,
+      "sid": 235,
+      "location": 2,
+      "content": "然而因为彼时中国经济蒸蒸日上",
+      "music": 0.0
+    },
+    {
+      "from": 445.7,
+      "to": 447.52,
+      "sid": 236,
+      "location": 2,
+      "content": "因此这家代理商连年亏损",
+      "music": 0.0
+    },
+    {
+      "from": 447.52,
+      "to": 448.92,
+      "sid": 237,
+      "location": 2,
+      "content": "直到2019年疫情之后",
+      "music": 0.0
+    },
+    {
+      "from": 448.92,
+      "to": 450.5,
+      "sid": 238,
+      "location": 2,
+      "content": "他才首次实现盈利啊",
+      "music": 0.0
+    },
+    {
+      "from": 450.5,
+      "to": 451.9,
+      "sid": 239,
+      "location": 2,
+      "content": "大家知道这家公司是谁吗",
+      "music": 0.0
+    },
+    {
+      "from": 454.48,
+      "to": 455.72,
+      "sid": 240,
+      "location": 2,
+      "content": "经济好就没市场",
+      "music": 0.0
+    },
+    {
+      "from": 455.72,
+      "to": 457.18,
+      "sid": 241,
+      "location": 2,
+      "content": "只有大环境不好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 457.18,
+      "to": 458.66,
+      "sid": 242,
+      "location": 2,
+      "content": "这类情趣玩具才能卖得好",
+      "music": 0.0
+    },
+    {
+      "from": 458.66,
+      "to": 459.66,
+      "sid": 243,
+      "location": 2,
+      "content": "你说奇怪不奇怪",
+      "music": 0.0
+    },
+    {
+      "from": 459.66,
+      "to": 460.44,
+      "sid": 244,
+      "location": 2,
+      "content": "但无论如何",
+      "music": 0.0
+    },
+    {
+      "from": 460.44,
+      "to": 462.86,
+      "sid": 245,
+      "location": 2,
+      "content": "这疗愈系商品也开始进入下沉市场",
+      "music": 0.0
+    },
+    {
+      "from": 462.86,
+      "to": 465.16,
+      "sid": 246,
+      "location": 2,
+      "content": "为年轻的生活提供了一丝慰藉",
+      "music": 0.0
+    },
+    {
+      "from": 465.16,
+      "to": 466.08,
+      "sid": 247,
+      "location": 2,
+      "content": "更重要的是",
+      "music": 0.0
+    },
+    {
+      "from": 466.08,
+      "to": 466.88,
+      "sid": 248,
+      "location": 2,
+      "content": "服务下沉",
+      "music": 0.0
+    },
+    {
+      "from": 466.88,
+      "to": 468.299,
+      "sid": 249,
+      "location": 2,
+      "content": "同时也是岗位下沉",
+      "music": 0.0
+    },
+    {
+      "from": 468.299,
+      "to": 469.459,
+      "sid": 250,
+      "location": 2,
+      "content": "便利店流通",
+      "music": 0.0
+    },
+    {
+      "from": 469.459,
+      "to": 470.339,
+      "sid": 251,
+      "location": 2,
+      "content": "零售餐饮",
+      "music": 0.0
+    },
+    {
+      "from": 470.339,
+      "to": 472.479,
+      "sid": 252,
+      "location": 2,
+      "content": "地方商场和生活服务业的扩张",
+      "music": 0.0
+    },
+    {
+      "from": 472.479,
+      "to": 473.859,
+      "sid": 253,
+      "location": 2,
+      "content": "需要大量年轻店员",
+      "music": 0.0
+    },
+    {
+      "from": 473.859,
+      "to": 474.779,
+      "sid": 254,
+      "location": 2,
+      "content": "店长候补",
+      "music": 0.0
+    },
+    {
+      "from": 474.779,
+      "to": 476.7,
+      "sid": 255,
+      "location": 2,
+      "content": "基层管理人员和加盟商储备",
+      "music": 0.0
+    },
+    {
+      "from": 476.7,
+      "to": 479.36,
+      "sid": 256,
+      "location": 2,
+      "content": "日本政府也推动政策支持优秀的就业",
+      "music": 0.0
+    },
+    {
+      "from": 479.36,
+      "to": 481.82,
+      "sid": 257,
+      "location": 2,
+      "content": "呼吁刚需的年轻人脱下孔乙己的长衫",
+      "music": 0.0
+    },
+    {
+      "from": 481.82,
+      "to": 485.13,
+      "sid": 258,
+      "location": 2,
+      "content": "进入地方蓝领零售服务和基层管理岗位",
+      "music": 0.0
+    },
+    {
+      "from": 485.13,
+      "to": 486.05,
+      "sid": 259,
+      "location": 2,
+      "content": "新消费品牌",
+      "music": 0.0
+    },
+    {
+      "from": 486.05,
+      "to": 487.25,
+      "sid": 260,
+      "location": 2,
+      "content": "为了配合政府政策",
+      "music": 0.0
+    },
+    {
+      "from": 487.25,
+      "to": 488.71,
+      "sid": 261,
+      "location": 2,
+      "content": "也为了博取年轻人好感",
+      "music": 0.0
+    },
+    {
+      "from": 488.71,
+      "to": 490.33,
+      "sid": 262,
+      "location": 2,
+      "content": "普遍推出了管培生制度",
+      "music": 0.0
+    },
+    {
+      "from": 490.33,
+      "to": 492.45,
+      "sid": 263,
+      "location": 2,
+      "content": "积极吸纳返乡就业的大学毕业生",
+      "music": 0.0
+    },
+    {
+      "from": 492.45,
+      "to": 493.37,
+      "sid": 264,
+      "location": 2,
+      "content": "新消费品牌",
+      "music": 0.0
+    },
+    {
+      "from": 493.37,
+      "to": 495.11,
+      "sid": 265,
+      "location": 2,
+      "content": "全国连锁管理标准化",
+      "music": 0.0
+    },
+    {
+      "from": 495.11,
+      "to": 496.19,
+      "sid": 266,
+      "location": 2,
+      "content": "还有晋升的机会",
+      "music": 0.0
+    },
+    {
+      "from": 496.19,
+      "to": 498.1,
+      "sid": 267,
+      "location": 2,
+      "content": "让这份工作显得体面了一些",
+      "music": 0.0
+    },
+    {
+      "from": 498.1,
+      "to": 498.58,
+      "sid": 268,
+      "location": 2,
+      "content": "711",
+      "music": 0.0
+    },
+    {
+      "from": 498.58,
+      "to": 500.94,
+      "sid": 269,
+      "location": 2,
+      "content": "甚至推出了从业员独立志愿制度",
+      "music": 0.0
+    },
+    {
+      "from": 500.94,
+      "to": 502.02,
+      "sid": 270,
+      "location": 2,
+      "content": "也支持一个本科毕业生",
+      "music": 0.0
+    },
+    {
+      "from": 502.02,
+      "to": 502.7,
+      "sid": 271,
+      "location": 2,
+      "content": "如果干得好",
+      "music": 0.0
+    },
+    {
+      "from": 502.7,
+      "to": 503.82,
+      "sid": 272,
+      "location": 2,
+      "content": "不仅可以升到店长",
+      "music": 0.0
+    },
+    {
+      "from": 503.82,
+      "to": 506.06,
+      "sid": 273,
+      "location": 2,
+      "content": "还可以优惠的特许经营费独立开店",
+      "music": 0.0
+    },
+    {
+      "from": 506.06,
+      "to": 507.46,
+      "sid": 274,
+      "location": 2,
+      "content": "也就是成为加盟商",
+      "music": 0.0
+    },
+    {
+      "from": 507.46,
+      "to": 509.82,
+      "sid": 275,
+      "location": 2,
+      "content": "这对于身处旧之兵和其中的大学生来说",
+      "music": 0.0
+    },
+    {
+      "from": 509.82,
+      "to": 511.7,
+      "sid": 276,
+      "location": 2,
+      "content": "可以算是救命稻草了",
+      "music": 0.0
+    },
+    {
+      "from": 511.7,
+      "to": 513.02,
+      "sid": 277,
+      "location": 2,
+      "content": "这地方振兴计划",
+      "music": 0.0
+    },
+    {
+      "from": 513.02,
+      "to": 515.5,
+      "sid": 278,
+      "location": 2,
+      "content": "确实在短期内被大城市挤出的年轻人",
+      "music": 0.0
+    },
+    {
+      "from": 515.5,
+      "to": 517.12,
+      "sid": 279,
+      "location": 2,
+      "content": "提供了就业与落脚点",
+      "music": 0.0
+    },
+    {
+      "from": 517.12,
+      "to": 517.78,
+      "sid": 280,
+      "location": 2,
+      "content": "数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 517.78,
+      "to": 519.38,
+      "sid": 281,
+      "location": 2,
+      "content": "1991年至1993年间",
+      "music": 0.0
+    },
+    {
+      "from": 519.38,
+      "to": 521.9,
+      "sid": 282,
+      "location": 2,
+      "content": "东京都市圈大量企业裁员倒闭",
+      "music": 0.0
+    },
+    {
+      "from": 521.9,
+      "to": 524.9,
+      "sid": 283,
+      "location": 2,
+      "content": "不少20~39岁年轻人被迫退出大城市",
+      "music": 0.0
+    },
+    {
+      "from": 524.9,
+      "to": 527.74,
+      "sid": 284,
+      "location": 2,
+      "content": "并在1995年至1998年间回到了地方",
+      "music": 0.0
+    },
+    {
+      "from": 527.74,
+      "to": 530.83,
+      "sid": 285,
+      "location": 2,
+      "content": "这个过程不能被浪漫化为所谓的主动返乡",
+      "music": 0.0
+    },
+    {
+      "from": 530.83,
+      "to": 532.33,
+      "sid": 286,
+      "location": 2,
+      "content": "因为对相当一部分人而言",
+      "music": 0.0
+    },
+    {
+      "from": 532.33,
+      "to": 534.63,
+      "sid": 287,
+      "location": 2,
+      "content": "回家并非意味着认命定居",
+      "music": 0.0
+    },
+    {
+      "from": 534.63,
+      "to": 536.13,
+      "sid": 288,
+      "location": 2,
+      "content": "而只是暂时性的撤退",
+      "music": 0.0
+    },
+    {
+      "from": 536.13,
+      "to": 537.53,
+      "sid": 289,
+      "location": 2,
+      "content": "已完成劳动力赛培训",
+      "music": 0.0
+    },
+    {
+      "from": 537.53,
+      "to": 541.24,
+      "sid": 290,
+      "location": 2,
+      "content": "等待市场回暖或者寻找下一次向上流动的机会",
+      "music": 0.0
+    },
+    {
+      "from": 541.24,
+      "to": 542.44,
+      "sid": 291,
+      "location": 2,
+      "content": "但正是这一阶段",
+      "music": 0.0
+    },
+    {
+      "from": 542.44,
+      "to": 544.72,
+      "sid": 292,
+      "location": 2,
+      "content": "政府开始有意识地通过行政力量介入",
+      "music": 0.0
+    },
+    {
+      "from": 544.72,
+      "to": 547.56,
+      "sid": 293,
+      "location": 2,
+      "content": "将原本的返乡避难转化为返乡就业",
+      "music": 0.0
+    },
+    {
+      "from": 547.56,
+      "to": 550.24,
+      "sid": 294,
+      "location": 2,
+      "content": "并进一步推向所谓的返乡定居",
+      "music": 0.0
+    },
+    {
+      "from": 550.24,
+      "to": 552.22,
+      "sid": 295,
+      "location": 2,
+      "content": "日本内阁在1999年发布的",
+      "music": 0.0
+    },
+    {
+      "from": 552.22,
+      "to": 554.78,
+      "sid": 296,
+      "location": 2,
+      "content": "国民生活白皮书中对此作出明确判断",
+      "music": 0.0
+    },
+    {
+      "from": 554.78,
+      "to": 556.94,
+      "sid": 297,
+      "location": 2,
+      "content": "指出这一时期的地方人口回流",
+      "music": 0.0
+    },
+    {
+      "from": 556.94,
+      "to": 558.84,
+      "sid": 298,
+      "location": 2,
+      "content": "并非产业自然转移的结果",
+      "music": 0.0
+    },
+    {
+      "from": 558.84,
+      "to": 559.96,
+      "sid": 299,
+      "location": 2,
+      "content": "而与就业对策",
+      "music": 0.0
+    },
+    {
+      "from": 559.96,
+      "to": 562.88,
+      "sid": 300,
+      "location": 2,
+      "content": "住宅政策以及地方公共事业密切相关",
+      "music": 0.0
+    },
+    {
+      "from": 562.88,
+      "to": 564.68,
+      "sid": 301,
+      "location": 2,
+      "content": "这其中最重要的一项政策就是",
+      "music": 0.0
+    },
+    {
+      "from": 564.68,
+      "to": 566.55,
+      "sid": 302,
+      "location": 2,
+      "content": "针对地方的按揭政策放松",
+      "music": 0.0
+    },
+    {
+      "from": 566.55,
+      "to": 567.89,
+      "sid": 303,
+      "location": 2,
+      "content": "日本银行的数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 567.89,
+      "to": 569.59,
+      "sid": 304,
+      "location": 2,
+      "content": "日本全国住宅贷款余额",
+      "music": 0.0
+    },
+    {
+      "from": 569.59,
+      "to": 572.37,
+      "sid": 305,
+      "location": 2,
+      "content": "在1991年到1994年之间持续收缩",
+      "music": 0.0
+    },
+    {
+      "from": 572.37,
+      "to": 573.36,
+      "sid": 306,
+      "location": 2,
+      "content": "这很好理解",
+      "music": 0.0
+    },
+    {
+      "from": 573.36,
+      "to": 574.56,
+      "sid": 307,
+      "location": 2,
+      "content": "泡沫刚破裂的时候",
+      "music": 0.0
+    },
+    {
+      "from": 574.56,
+      "to": 575.72,
+      "sid": 308,
+      "location": 2,
+      "content": "房地产价格暴跌",
+      "music": 0.0
+    },
+    {
+      "from": 575.72,
+      "to": 577.02,
+      "sid": 309,
+      "location": 2,
+      "content": "银行坏账率上升",
+      "music": 0.0
+    },
+    {
+      "from": 577.02,
+      "to": 578.52,
+      "sid": 310,
+      "location": 2,
+      "content": "金融机构头寸紧张",
+      "music": 0.0
+    },
+    {
+      "from": 578.52,
+      "to": 580.08,
+      "sid": 311,
+      "location": 2,
+      "content": "年轻人也普遍持币观望",
+      "music": 0.0
+    },
+    {
+      "from": 580.08,
+      "to": 581.14,
+      "sid": 312,
+      "location": 2,
+      "content": "等待价格探底",
+      "music": 0.0
+    },
+    {
+      "from": 581.14,
+      "to": 581.82,
+      "sid": 313,
+      "location": 2,
+      "content": "但神奇的是",
+      "music": 0.0
+    },
+    {
+      "from": 581.82,
+      "to": 584.26,
+      "sid": 314,
+      "location": 2,
+      "content": "这一下跌趋势在1996年止住了",
+      "music": 0.0
+    },
+    {
+      "from": 584.26,
+      "to": 586.54,
+      "sid": 315,
+      "location": 2,
+      "content": "并且还在次年企稳回升了",
+      "music": 0.0
+    },
+    {
+      "from": 586.54,
+      "to": 587.98,
+      "sid": 316,
+      "location": 2,
+      "content": "这一违背市场规律的现象",
+      "music": 0.0
+    },
+    {
+      "from": 587.98,
+      "to": 590.44,
+      "sid": 317,
+      "location": 2,
+      "content": "背后是无数地方青年的为国接盘",
+      "music": 0.0
+    },
+    {
+      "from": 590.44,
+      "to": 591.08,
+      "sid": 318,
+      "location": 2,
+      "content": "数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 591.08,
+      "to": 592.64,
+      "sid": 319,
+      "location": 2,
+      "content": "新增贷款主要不是来自于东京",
+      "music": 0.0
+    },
+    {
+      "from": 592.64,
+      "to": 594.22,
+      "sid": 320,
+      "location": 2,
+      "content": "都市圈附近的房产和银行",
+      "music": 0.0
+    },
+    {
+      "from": 594.22,
+      "to": 597.04,
+      "sid": 321,
+      "location": 2,
+      "content": "而是主要来自于小型和分散的地方银行",
+      "music": 0.0
+    },
+    {
+      "from": 597.04,
+      "to": 600.02,
+      "sid": 322,
+      "location": 2,
+      "content": "信用金库以及住宅金融公库的公库贷款",
+      "music": 0.0
+    },
+    {
+      "from": 600.02,
+      "to": 601.22,
+      "sid": 323,
+      "location": 2,
+      "content": "这里做个名词解释",
+      "music": 0.0
+    },
+    {
+      "from": 601.22,
+      "to": 602.84,
+      "sid": 324,
+      "location": 2,
+      "content": "信用金库和金融公库",
+      "music": 0.0
+    },
+    {
+      "from": 602.84,
+      "to": 605.0,
+      "sid": 325,
+      "location": 2,
+      "content": "可以统一理解为日本版的公积金",
+      "music": 0.0
+    },
+    {
+      "from": 605.0,
+      "to": 606.62,
+      "sid": 326,
+      "location": 2,
+      "content": "只不过一个是地方性的",
+      "music": 0.0
+    },
+    {
+      "from": 606.62,
+      "to": 607.86,
+      "sid": 327,
+      "location": 2,
+      "content": "一个是中央的",
+      "music": 0.0
+    },
+    {
+      "from": 607.86,
+      "to": 608.96,
+      "sid": 328,
+      "location": 2,
+      "content": "这两者的数据上涨",
+      "music": 0.0
+    },
+    {
+      "from": 608.96,
+      "to": 610.8,
+      "sid": 329,
+      "location": 2,
+      "content": "说明主要是返乡青年的接盘",
+      "music": 0.0
+    },
+    {
+      "from": 610.8,
+      "to": 612.3,
+      "sid": 330,
+      "location": 2,
+      "content": "为这一轮反弹提供了动力",
+      "music": 0.0
+    },
+    {
+      "from": 612.3,
+      "to": 613.26,
+      "sid": 331,
+      "location": 2,
+      "content": "这不是我的猜测",
+      "music": 0.0
+    },
+    {
+      "from": 613.26,
+      "to": 613.46,
+      "sid": 332,
+      "location": 2,
+      "content": "出",
+      "music": 0.0
+    },
+    {
+      "from": 613.46,
+      "to": 614.2,
+      "sid": 333,
+      "location": 2,
+      "content": "山吉荣公库",
+      "music": 0.0
+    },
+    {
+      "from": 614.2,
+      "to": 616.66,
+      "sid": 334,
+      "location": 2,
+      "content": "在1996年到1997年的年度业务报告中",
+      "music": 0.0
+    },
+    {
+      "from": 616.66,
+      "to": 617.38,
+      "sid": 335,
+      "location": 2,
+      "content": "明确提到",
+      "music": 0.0
+    },
+    {
+      "from": 617.38,
+      "to": 618.74,
+      "sid": 336,
+      "location": 2,
+      "content": "为应对地方定居需求",
+      "music": 0.0
+    },
+    {
+      "from": 618.74,
+      "to": 621.1,
+      "sid": 337,
+      "location": 2,
+      "content": "对首次购房者放宽了部分贷款条件",
+      "music": 0.0
+    },
+    {
+      "from": 621.1,
+      "to": 623.22,
+      "sid": 338,
+      "location": 2,
+      "content": "包括贷款期限与首付比例",
+      "music": 0.0
+    },
+    {
+      "from": 623.22,
+      "to": 625.78,
+      "sid": 339,
+      "location": 2,
+      "content": "等于变相承认了政策性放水",
+      "music": 0.0
+    },
+    {
+      "from": 625.78,
+      "to": 626.74,
+      "sid": 340,
+      "location": 2,
+      "content": "我们都知道",
+      "music": 0.0
+    },
+    {
+      "from": 626.74,
+      "to": 629.38,
+      "sid": 341,
+      "location": 2,
+      "content": "日本的地价在泡沫顶峰期是高到天上去的",
+      "music": 0.0
+    },
+    {
+      "from": 629.38,
+      "to": 631.04,
+      "sid": 342,
+      "location": 2,
+      "content": "那时郭子兴官员甚至豪言",
+      "music": 0.0
+    },
+    {
+      "from": 631.04,
+      "to": 634.38,
+      "sid": 343,
+      "location": 2,
+      "content": "东京23区的土地价格就足以买下整个美国",
+      "music": 0.0
+    },
+    {
+      "from": 634.38,
+      "to": 635.68,
+      "sid": 344,
+      "location": 2,
+      "content": "但到1991年以后",
+      "music": 0.0
+    },
+    {
+      "from": 635.68,
+      "to": 638.16,
+      "sid": 345,
+      "location": 2,
+      "content": "商业地价和住宅地价开始全面下跌",
+      "music": 0.0
+    },
+    {
+      "from": 638.16,
+      "to": 640.84,
+      "sid": 346,
+      "location": 2,
+      "content": "东京大阪等核心城市的跌幅尤其剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 640.84,
+      "to": 642.12,
+      "sid": 347,
+      "location": 2,
+      "content": "91年至95年间",
+      "music": 0.0
+    },
+    {
+      "from": 642.12,
+      "to": 644.9,
+      "sid": 348,
+      "location": 2,
+      "content": "东京商业低价累计下跌超过50%",
+      "music": 0.0
+    },
+    {
+      "from": 644.9,
+      "to": 647.8,
+      "sid": 349,
+      "location": 2,
+      "content": "部分高端商务区的跌幅接近70%",
+      "music": 0.0
+    },
+    {
+      "from": 647.8,
+      "to": 649.36,
+      "sid": 350,
+      "location": 2,
+      "content": "住宅价格也随之回落",
+      "music": 0.0
+    },
+    {
+      "from": 649.36,
+      "to": 650.44,
+      "sid": 351,
+      "location": 2,
+      "content": "人们依靠土地抵押",
+      "music": 0.0
+    },
+    {
+      "from": 650.44,
+      "to": 651.94,
+      "sid": 352,
+      "location": 2,
+      "content": "房产增值和股票资产",
+      "music": 0.0
+    },
+    {
+      "from": 651.94,
+      "to": 654.24,
+      "sid": 353,
+      "location": 2,
+      "content": "支撑起来的中产幻觉迅速崩塌",
+      "music": 0.0
+    },
+    {
+      "from": 654.24,
+      "to": 656.08,
+      "sid": 354,
+      "location": 2,
+      "content": "大量家庭的资产开始缩水",
+      "music": 0.0
+    },
+    {
+      "from": 656.08,
+      "to": 657.42,
+      "sid": 355,
+      "location": 2,
+      "content": "负债却保持刚性",
+      "music": 0.0
+    },
+    {
+      "from": 657.42,
+      "to": 660.36,
+      "sid": 356,
+      "location": 2,
+      "content": "买房者和企业同时陷入了资产负债衰退",
+      "music": 0.0
+    },
+    {
+      "from": 660.36,
+      "to": 663.32,
+      "sid": 357,
+      "location": 2,
+      "content": "危机的严重程度不亚于美国08年次贷危机",
+      "music": 0.0
+    },
+    {
+      "from": 663.32,
+      "to": 665.04,
+      "sid": 358,
+      "location": 2,
+      "content": "这种核弹级别的金融危机",
+      "music": 0.0
+    },
+    {
+      "from": 665.04,
+      "to": 668.36,
+      "sid": 359,
+      "location": 2,
+      "content": "如果爆炸当量足以让日本再次升天",
+      "music": 0.0
+    },
+    {
+      "from": 668.36,
+      "to": 670.66,
+      "sid": 360,
+      "location": 2,
+      "content": "但现实是这一景象并未发生",
+      "music": 0.0
+    },
+    {
+      "from": 670.66,
+      "to": 672.41,
+      "sid": 361,
+      "location": 2,
+      "content": "原因藏在数据里",
+      "music": 0.0
+    },
+    {
+      "from": 672.41,
+      "to": 674.55,
+      "sid": 362,
+      "location": 2,
+      "content": "日本国土厅发布的地价公示显示",
+      "music": 0.0
+    },
+    {
+      "from": 674.55,
+      "to": 675.53,
+      "sid": 363,
+      "location": 2,
+      "content": "在泡沫破裂后",
+      "music": 0.0
+    },
+    {
+      "from": 675.53,
+      "to": 677.5,
+      "sid": 364,
+      "location": 2,
+      "content": "并没有与东京都同比例下跌",
+      "music": 0.0
+    },
+    {
+      "from": 677.5,
+      "to": 679.0,
+      "sid": 365,
+      "location": 2,
+      "content": "1996~1998年间",
+      "music": 0.0
+    },
+    {
+      "from": 679.0,
+      "to": 681.44,
+      "sid": 366,
+      "location": 2,
+      "content": "地方的住宅地价同比跌幅明显收敛",
+      "music": 0.0
+    },
+    {
+      "from": 681.44,
+      "to": 683.47,
+      "sid": 367,
+      "location": 2,
+      "content": "部分县城甚至进入横盘状态",
+      "music": 0.0
+    },
+    {
+      "from": 683.47,
+      "to": 685.27,
+      "sid": 368,
+      "location": 2,
+      "content": "日本不动产经济研究所指出",
+      "music": 0.0
+    },
+    {
+      "from": 685.27,
+      "to": 688.15,
+      "sid": 369,
+      "location": 2,
+      "content": "地方住宅市场的价格调整节奏显著慢于大都市",
+      "music": 0.0
+    },
+    {
+      "from": 688.15,
+      "to": 689.85,
+      "sid": 370,
+      "location": 2,
+      "content": "这一差异并非基本面改善",
+      "music": 0.0
+    },
+    {
+      "from": 689.85,
+      "to": 691.96,
+      "sid": 371,
+      "location": 2,
+      "content": "而是与交易量短期回升高度相关",
+      "music": 0.0
+    },
+    {
+      "from": 691.96,
+      "to": 693.6,
+      "sid": 372,
+      "location": 2,
+      "content": "研究所的人员说的很含蓄",
+      "music": 0.0
+    },
+    {
+      "from": 693.6,
+      "to": 694.76,
+      "sid": 373,
+      "location": 2,
+      "content": "我就直白的讲了",
+      "music": 0.0
+    },
+    {
+      "from": 694.76,
+      "to": 696.66,
+      "sid": 374,
+      "location": 2,
+      "content": "就是因为年轻人集中接盘",
+      "music": 0.0
+    },
+    {
+      "from": 696.66,
+      "to": 698.06,
+      "sid": 375,
+      "location": 2,
+      "content": "所以我们可以直接下结论了",
+      "music": 0.0
+    },
+    {
+      "from": 698.06,
+      "to": 698.96,
+      "sid": 376,
+      "location": 2,
+      "content": "地方再生政策",
+      "music": 0.0
+    },
+    {
+      "from": 698.96,
+      "to": 701.08,
+      "sid": 377,
+      "location": 2,
+      "content": "表面上是为了保障年轻人返乡生活",
+      "music": 0.0
+    },
+    {
+      "from": 701.08,
+      "to": 702.76,
+      "sid": 378,
+      "location": 2,
+      "content": "真实功能却至少有三层",
+      "music": 0.0
+    },
+    {
+      "from": 702.76,
+      "to": 704.74,
+      "sid": 379,
+      "location": 2,
+      "content": "第一它具有吸纳失业的功能",
+      "music": 0.0
+    },
+    {
+      "from": 707.0,
+      "to": 708.4,
+      "sid": 380,
+      "location": 2,
+      "content": "上山下乡的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 708.4,
+      "to": 710.66,
+      "sid": 381,
+      "location": 2,
+      "content": "地方中心城市在这一轮返乡潮中",
+      "music": 0.0
+    },
+    {
+      "from": 710.66,
+      "to": 713.54,
+      "sid": 382,
+      "location": 2,
+      "content": "实际上成为了资产蓄水池和就业压舱石",
+      "music": 0.0
+    },
+    {
+      "from": 713.54,
+      "to": 714.98,
+      "sid": 383,
+      "location": 2,
+      "content": "大城市挤出的青年劳动力",
+      "music": 0.0
+    },
+    {
+      "from": 714.98,
+      "to": 716.58,
+      "sid": 384,
+      "location": 2,
+      "content": "被重新吸收到地方社会中",
+      "music": 0.0
+    },
+    {
+      "from": 716.58,
+      "to": 717.44,
+      "sid": 385,
+      "location": 2,
+      "content": "避免失业",
+      "music": 0.0
+    },
+    {
+      "from": 717.44,
+      "to": 720.16,
+      "sid": 386,
+      "location": 2,
+      "content": "怨气和失败感在东京集中爆发",
+      "music": 0.0
+    },
+    {
+      "from": 720.16,
+      "to": 722.1,
+      "sid": 387,
+      "location": 2,
+      "content": "乃至演变成更大的宪政危机",
+      "music": 0.0
+    },
+    {
+      "from": 722.1,
+      "to": 724.46,
+      "sid": 388,
+      "location": 2,
+      "content": "第二他通过地方公共工程创造岗位",
+      "music": 0.0
+    },
+    {
+      "from": 724.46,
+      "to": 727.28,
+      "sid": 389,
+      "location": 2,
+      "content": "把财政支出转化为短期的工资和地方消费",
+      "music": 0.0
+    },
+    {
+      "from": 727.28,
+      "to": 728.36,
+      "sid": 390,
+      "location": 2,
+      "content": "基建和文旅项目",
+      "music": 0.0
+    },
+    {
+      "from": 728.36,
+      "to": 730.64,
+      "sid": 391,
+      "location": 2,
+      "content": "确实可以在短期内创造就业和消费",
+      "music": 0.0
+    },
+    {
+      "from": 732.02,
+      "to": 733.79,
+      "sid": 392,
+      "location": 2,
+      "content": "也就是所谓的有序出行",
+      "music": 0.0
+    },
+    {
+      "from": 733.79,
+      "to": 736.49,
+      "sid": 393,
+      "location": 2,
+      "content": "第三他为地方房地产市场重新创造需求",
+      "music": 0.0
+    },
+    {
+      "from": 736.49,
+      "to": 738.17,
+      "sid": 394,
+      "location": 2,
+      "content": "延缓地价和房价下跌",
+      "music": 0.0
+    },
+    {
+      "from": 738.17,
+      "to": 740.21,
+      "sid": 395,
+      "location": 2,
+      "content": "地方政府先用项目创造就业",
+      "music": 0.0
+    },
+    {
+      "from": 740.21,
+      "to": 741.96,
+      "sid": 396,
+      "location": 2,
+      "content": "再用就业制造定居理由",
+      "music": 0.0
+    },
+    {
+      "from": 741.96,
+      "to": 744.2,
+      "sid": 397,
+      "location": 2,
+      "content": "最后再通过地方房贷放松",
+      "music": 0.0
+    },
+    {
+      "from": 744.2,
+      "to": 746.579,
+      "sid": 398,
+      "location": 2,
+      "content": "把返乡青年推向地方住房市场",
+      "music": 0.0
+    },
+    {
+      "from": 746.579,
+      "to": 747.699,
+      "sid": 399,
+      "location": 2,
+      "content": "地方振兴的本质",
+      "music": 0.0
+    },
+    {
+      "from": 747.699,
+      "to": 750.079,
+      "sid": 400,
+      "location": 2,
+      "content": "就是泡沫破裂后的压力分流机制",
+      "music": 0.0
+    },
+    {
+      "from": 752.639,
+      "to": 755.35,
+      "sid": 401,
+      "location": 2,
+      "content": "本质上是一场债务和风险的三分配",
+      "music": 0.0
+    },
+    {
+      "from": 755.35,
+      "to": 756.89,
+      "sid": 402,
+      "location": 2,
+      "content": "通过地方公共工程",
+      "music": 0.0
+    },
+    {
+      "from": 756.89,
+      "to": 758.98,
+      "sid": 403,
+      "location": 2,
+      "content": "服务业下沉和地方房贷放松",
+      "music": 0.0
+    },
+    {
+      "from": 758.98,
+      "to": 760.7,
+      "sid": 404,
+      "location": 2,
+      "content": "原本集中在东京都市圈的其中",
+      "music": 0.0
+    },
+    {
+      "from": 760.7,
+      "to": 763.74,
+      "sid": 405,
+      "location": 2,
+      "content": "风险和土地债务被逐步分散到地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 763.74,
+      "to": 766.03,
+      "sid": 406,
+      "location": 2,
+      "content": "地方小银行和返乡青年身上",
+      "music": 0.0
+    },
+    {
+      "from": 766.03,
+      "to": 767.69,
+      "sid": 407,
+      "location": 2,
+      "content": "大银行的风险几经转手",
+      "music": 0.0
+    },
+    {
+      "from": 767.69,
+      "to": 769.57,
+      "sid": 408,
+      "location": 2,
+      "content": "变成地方金融机构的资产压力",
+      "music": 0.0
+    },
+    {
+      "from": 769.57,
+      "to": 771.62,
+      "sid": 409,
+      "location": 2,
+      "content": "地方政府的振兴项目几行包装",
+      "music": 0.0
+    },
+    {
+      "from": 771.62,
+      "to": 773.26,
+      "sid": 410,
+      "location": 2,
+      "content": "变成地方财政的长期负担",
+      "music": 0.0
+    },
+    {
+      "from": 773.26,
+      "to": 775.12,
+      "sid": 411,
+      "location": 2,
+      "content": "年轻人在地方买房定居",
+      "music": 0.0
+    },
+    {
+      "from": 775.12,
+      "to": 776.76,
+      "sid": 412,
+      "location": 2,
+      "content": "最终完成债务主体的置换",
+      "music": 0.0
+    },
+    {
+      "from": 776.76,
+      "to": 778.22,
+      "sid": 413,
+      "location": 2,
+      "content": "人口疏散的幌子之下",
+      "music": 0.0
+    },
+    {
+      "from": 778.22,
+      "to": 781.319,
+      "sid": 414,
+      "location": 2,
+      "content": "债务的稀释和转手已经悄然完成",
+      "music": 0.0
+    },
+    {
+      "from": 781.329,
+      "to": 783.249,
+      "sid": 415,
+      "location": 2,
+      "content": "但年轻人放弃了梦想和生活",
+      "music": 0.0
+    },
+    {
+      "from": 783.249,
+      "to": 784.429,
+      "sid": 416,
+      "location": 2,
+      "content": "回来投奔的三线城市",
+      "music": 0.0
+    },
+    {
+      "from": 784.429,
+      "to": 786.53,
+      "sid": 417,
+      "location": 2,
+      "content": "真的让他们过上好日子了吗",
+      "music": 0.0
+    },
+    {
+      "from": 786.53,
+      "to": 787.49,
+      "sid": 418,
+      "location": 2,
+      "content": "当然不能",
+      "music": 0.0
+    },
+    {
+      "from": 787.49,
+      "to": 787.97,
+      "sid": 419,
+      "location": 2,
+      "content": "事实上",
+      "music": 0.0
+    },
+    {
+      "from": 787.97,
+      "to": 790.29,
+      "sid": 420,
+      "location": 2,
+      "content": "因为地方缺乏真正的经济自循环能力",
+      "music": 0.0
+    },
+    {
+      "from": 790.29,
+      "to": 791.29,
+      "sid": 421,
+      "location": 2,
+      "content": "到了2000年前后",
+      "music": 0.0
+    },
+    {
+      "from": 791.29,
+      "to": 792.74,
+      "sid": 422,
+      "location": 2,
+      "content": "地方城市陆续暴雷",
+      "music": 0.0
+    },
+    {
+      "from": 792.74,
+      "to": 794.4,
+      "sid": 423,
+      "location": 2,
+      "content": "那些曾经靠公共工程",
+      "music": 0.0
+    },
+    {
+      "from": 794.4,
+      "to": 795.12,
+      "sid": 424,
+      "location": 2,
+      "content": "文旅项目",
+      "music": 0.0
+    },
+    {
+      "from": 795.12,
+      "to": 798.16,
+      "sid": 425,
+      "location": 2,
+      "content": "会展设施和奇观建筑支撑起来的地方振兴故事",
+      "music": 0.0
+    },
+    {
+      "from": 798.16,
+      "to": 800.52,
+      "sid": 426,
+      "location": 2,
+      "content": "开始一个接一个的露出底裤",
+      "music": 0.0
+    },
+    {
+      "from": 800.52,
+      "to": 803.94,
+      "sid": 427,
+      "location": 2,
+      "content": "最典型的便是2007年宣布破产的西昌市",
+      "music": 0.0
+    },
+    {
+      "from": 803.94,
+      "to": 805.4,
+      "sid": 428,
+      "location": 2,
+      "content": "西昌市位于北海道中部",
+      "music": 0.0
+    },
+    {
+      "from": 805.4,
+      "to": 807.26,
+      "sid": 429,
+      "location": 2,
+      "content": "曾经是日本重要的煤矿城市之一",
+      "music": 0.0
+    },
+    {
+      "from": 807.26,
+      "to": 808.4,
+      "sid": 430,
+      "location": 2,
+      "content": "煤炭产业繁荣时期",
+      "music": 0.0
+    },
+    {
+      "from": 809.96,
+      "to": 812.42,
+      "sid": 431,
+      "location": 2,
+      "content": "可随着日本能源结构变化而煤炭产业退出",
+      "music": 0.0
+    },
+    {
+      "from": 812.42,
+      "to": 814.28,
+      "sid": 432,
+      "location": 2,
+      "content": "西藏的经济基础迅速瓦解",
+      "music": 0.0
+    },
+    {
+      "from": 814.28,
+      "to": 815.88,
+      "sid": 433,
+      "location": 2,
+      "content": "为了替代已经消失的煤矿",
+      "music": 0.0
+    },
+    {
+      "from": 815.88,
+      "to": 817.96,
+      "sid": 434,
+      "location": 2,
+      "content": "经济希长陆续建设石炭博物馆",
+      "music": 0.0
+    },
+    {
+      "from": 817.96,
+      "to": 818.66,
+      "sid": 435,
+      "location": 2,
+      "content": "主题公园",
+      "music": 0.0
+    },
+    {
+      "from": 818.66,
+      "to": 819.84,
+      "sid": 436,
+      "location": 2,
+      "content": "酒店滑雪场",
+      "music": 0.0
+    },
+    {
+      "from": 819.84,
+      "to": 821.36,
+      "sid": 437,
+      "location": 2,
+      "content": "会馆和其他旅游设施",
+      "music": 0.0
+    },
+    {
+      "from": 821.36,
+      "to": 822.46,
+      "sid": 438,
+      "location": 2,
+      "content": "试图用煤炭技艺",
+      "music": 0.0
+    },
+    {
+      "from": 822.46,
+      "to": 824.08,
+      "sid": 439,
+      "location": 2,
+      "content": "地方品牌和观光消费",
+      "music": 0.0
+    },
+    {
+      "from": 824.08,
+      "to": 825.35,
+      "sid": 440,
+      "location": 2,
+      "content": "重造一座城市",
+      "music": 0.0
+    },
+    {
+      "from": 825.35,
+      "to": 827.65,
+      "sid": 441,
+      "location": 2,
+      "content": "旅游项目在短期内确实制造过热闹",
+      "music": 0.0
+    },
+    {
+      "from": 827.65,
+      "to": 830.43,
+      "sid": 442,
+      "location": 2,
+      "content": "也让地方政府相信旅游能够成为替代性产业",
+      "music": 0.0
+    },
+    {
+      "from": 830.43,
+      "to": 831.77,
+      "sid": 443,
+      "location": 2,
+      "content": "但新鲜热度过去以后",
+      "music": 0.0
+    },
+    {
+      "from": 831.77,
+      "to": 833.31,
+      "sid": 444,
+      "location": 2,
+      "content": "项目盈利能力快速下滑",
+      "music": 0.0
+    },
+    {
+      "from": 833.31,
+      "to": 834.64,
+      "sid": 445,
+      "location": 2,
+      "content": "债务却越积越多",
+      "music": 0.0
+    },
+    {
+      "from": 834.64,
+      "to": 836.12,
+      "sid": 446,
+      "location": 2,
+      "content": "到2007年破产前夕",
+      "music": 0.0
+    },
+    {
+      "from": 836.12,
+      "to": 837.86,
+      "sid": 447,
+      "location": 2,
+      "content": "新疆人口已经不足1万人",
+      "music": 0.0
+    },
+    {
+      "from": 837.86,
+      "to": 839.76,
+      "sid": 448,
+      "location": 2,
+      "content": "债务却高达350亿日元",
+      "music": 0.0
+    },
+    {
+      "from": 839.76,
+      "to": 842.74,
+      "sid": 449,
+      "location": 2,
+      "content": "要知道西昌市当时年收入也只有40亿元",
+      "music": 0.0
+    },
+    {
+      "from": 842.74,
+      "to": 845.53,
+      "sid": 450,
+      "location": 2,
+      "content": "债务相当于年收入的8.75倍",
+      "music": 0.0
+    },
+    {
+      "from": 845.53,
+      "to": 847.95,
+      "sid": 451,
+      "location": 2,
+      "content": "随后西藏进入漫长的财政再建期",
+      "music": 0.0
+    },
+    {
+      "from": 847.95,
+      "to": 851.46,
+      "sid": 452,
+      "location": 2,
+      "content": "居民被迫承受极高的税负和极低的工资水平",
+      "music": 0.0
+    },
+    {
+      "from": 851.46,
+      "to": 852.1,
+      "sid": 453,
+      "location": 2,
+      "content": "破产以后",
+      "music": 0.0
+    },
+    {
+      "from": 852.1,
+      "to": 854.18,
+      "sid": 454,
+      "location": 2,
+      "content": "社会服务整合公务员工资削减",
+      "music": 0.0
+    },
+    {
+      "from": 854.18,
+      "to": 855.26,
+      "sid": 455,
+      "location": 2,
+      "content": "公共设施关闭",
+      "music": 0.0
+    },
+    {
+      "from": 855.26,
+      "to": 856.14,
+      "sid": 456,
+      "location": 2,
+      "content": "税负提高",
+      "music": 0.0
+    },
+    {
+      "from": 856.14,
+      "to": 858.46,
+      "sid": 457,
+      "location": 2,
+      "content": "长期紧缩开始成为日常债务",
+      "music": 0.0
+    },
+    {
+      "from": 858.46,
+      "to": 859.58,
+      "sid": 458,
+      "location": 2,
+      "content": "不会停在报表上",
+      "music": 0.0
+    },
+    {
+      "from": 859.58,
+      "to": 860.72,
+      "sid": 459,
+      "location": 2,
+      "content": "他会以水费上涨",
+      "music": 0.0
+    },
+    {
+      "from": 860.72,
+      "to": 861.36,
+      "sid": 460,
+      "location": 2,
+      "content": "税费增加",
+      "music": 0.0
+    },
+    {
+      "from": 861.36,
+      "to": 862.26,
+      "sid": 461,
+      "location": 2,
+      "content": "公共交通减少",
+      "music": 0.0
+    },
+    {
+      "from": 862.26,
+      "to": 863.02,
+      "sid": 462,
+      "location": 2,
+      "content": "学校合并",
+      "music": 0.0
+    },
+    {
+      "from": 863.02,
+      "to": 863.8,
+      "sid": 463,
+      "location": 2,
+      "content": "医院收缩",
+      "music": 0.0
+    },
+    {
+      "from": 863.8,
+      "to": 866.1,
+      "sid": 464,
+      "location": 2,
+      "content": "工资下降和公共设施关闭的形式",
+      "music": 0.0
+    },
+    {
+      "from": 866.1,
+      "to": 868.0,
+      "sid": 465,
+      "location": 2,
+      "content": "重新回到居民生活当中",
+      "music": 0.0
+    },
+    {
+      "from": 868.0,
+      "to": 869.98,
+      "sid": 466,
+      "location": 2,
+      "content": "结果就是能走的人继续离开",
+      "music": 0.0
+    },
+    {
+      "from": 869.98,
+      "to": 872.02,
+      "sid": 467,
+      "location": 2,
+      "content": "留下来的人都是无力迁移的老人",
+      "music": 0.0
+    },
+    {
+      "from": 872.02,
+      "to": 873.72,
+      "sid": 468,
+      "location": 2,
+      "content": "以及被房产照顾责任",
+      "music": 0.0
+    },
+    {
+      "from": 873.72,
+      "to": 875.1,
+      "sid": 469,
+      "location": 2,
+      "content": "地方工作绑定的人",
+      "music": 0.0
+    },
+    {
+      "from": 875.1,
+      "to": 876.08,
+      "sid": 470,
+      "location": 2,
+      "content": "房屋老化以后",
+      "music": 0.0
+    },
+    {
+      "from": 876.08,
+      "to": 877.9,
+      "sid": 471,
+      "location": 2,
+      "content": "没有足够资金修缮公共空间",
+      "music": 0.0
+    },
+    {
+      "from": 877.9,
+      "to": 878.56,
+      "sid": 472,
+      "location": 2,
+      "content": "缺乏维护",
+      "music": 0.0
+    },
+    {
+      "from": 878.56,
+      "to": 880.3,
+      "sid": 473,
+      "location": 2,
+      "content": "街区逐渐空洞化",
+      "music": 0.0
+    },
+    {
+      "from": 880.3,
+      "to": 882.28,
+      "sid": 474,
+      "location": 2,
+      "content": "地方振兴没有让城市再生",
+      "music": 0.0
+    },
+    {
+      "from": 882.28,
+      "to": 883.88,
+      "sid": 475,
+      "location": 2,
+      "content": "只是把产业坍塌以后的债务",
+      "music": 0.0
+    },
+    {
+      "from": 883.88,
+      "to": 885.32,
+      "sid": 476,
+      "location": 2,
+      "content": "留给更少的居民承担",
+      "music": 0.0
+    },
+    {
+      "from": 885.32,
+      "to": 887.12,
+      "sid": 477,
+      "location": 2,
+      "content": "年轻人返乡后掏空六个钱包",
+      "music": 0.0
+    },
+    {
+      "from": 887.12,
+      "to": 889.4,
+      "sid": 478,
+      "location": 2,
+      "content": "买下的不过就是这样一堆没有流通性",
+      "music": 0.0
+    },
+    {
+      "from": 889.4,
+      "to": 891.41,
+      "sid": 479,
+      "location": 2,
+      "content": "缺乏维护的灰色垃圾",
+      "music": 0.0
+    },
+    {
+      "from": 891.41,
+      "to": 892.25,
+      "sid": 480,
+      "location": 2,
+      "content": "某种意义上",
+      "music": 0.0
+    },
+    {
+      "from": 892.25,
+      "to": 894.69,
+      "sid": 481,
+      "location": 2,
+      "content": "红利时代在经济上行期完成了财富积累",
+      "music": 0.0
+    },
+    {
+      "from": 894.69,
+      "to": 896.29,
+      "sid": 482,
+      "location": 2,
+      "content": "又在经济下行期继续消费",
+      "music": 0.0
+    },
+    {
+      "from": 896.29,
+      "to": 898.34,
+      "sid": 483,
+      "location": 2,
+      "content": "构成了一种典型的双重套利",
+      "music": 0.0
+    },
+    {
+      "from": 898.34,
+      "to": 900.52,
+      "sid": 484,
+      "location": 2,
+      "content": "而年轻时代不仅要接盘地方的烂尾楼",
+      "music": 0.0
+    },
+    {
+      "from": 900.52,
+      "to": 903.11,
+      "sid": 485,
+      "location": 2,
+      "content": "还要偿付三线建设留下的巨额地方债务",
+      "music": 0.0
+    },
+    {
+      "from": 903.11,
+      "to": 903.95,
+      "sid": 486,
+      "location": 2,
+      "content": "更可悲的是",
+      "music": 0.0
+    },
+    {
+      "from": 903.95,
+      "to": 905.95,
+      "sid": 487,
+      "location": 2,
+      "content": "未来他们还得通过税费和社保",
+      "music": 0.0
+    },
+    {
+      "from": 905.95,
+      "to": 907.67,
+      "sid": 488,
+      "location": 2,
+      "content": "继续为红利时代养老",
+      "music": 0.0
+    },
+    {
+      "from": 907.67,
+      "to": 910.1,
+      "sid": 489,
+      "location": 2,
+      "content": "前人享受后人买单",
+      "music": 0.0
+    }
+  ]
+}

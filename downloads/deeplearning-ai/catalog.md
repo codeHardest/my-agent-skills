@@ -100,5 +100,22 @@
 
 ---
 
-*最后更新: 2026-06-04*
+## Transformers in Practice
+
+**课程链接**: https://learn.deeplearning.ai/courses/transformers-in-practice
+**下载时间**: 2026-07-15
+**课程简介**: 由 Sharon Zhou 讲授，深入理解 Transformer 模型的行为、调试实际问题，并做出更明智的部署决策。课程涵盖观察到的行为、LLM 内部机制与注意力、规模化与部署三个模块（合作方：AMD）。
+**课程发布日期**: 2026-05-12
+
+### 视频列表
+
+| 序号 | 视频标题 | 时长 | 链接 |
+|------|---------|------|------|
+| 1 | Grounding in context (Module 1, L12) | ~7 min | [链接](https://learn.deeplearning.ai/courses/transformers-in-practice/lesson/pu29b7sl/grounding-in-context) |
+
+**总结文件**: [pu29b7sl/summary.md](./pu29b7sl/summary.md)
+
+---
+
+*最后更新: 2026-07-15*
 

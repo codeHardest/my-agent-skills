@@ -1,0 +1,5380 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.06,
+      "sid": 1,
+      "location": 2,
+      "content": "嗨大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.06,
+      "to": 2.02,
+      "sid": 2,
+      "location": 2,
+      "content": "我是姚川",
+      "music": 0.0
+    },
+    {
+      "from": 2.02,
+      "to": 3.74,
+      "sid": 3,
+      "location": 2,
+      "content": "今天这期内容比较特别",
+      "music": 0.0
+    },
+    {
+      "from": 3.74,
+      "to": 7.07,
+      "sid": 4,
+      "location": 2,
+      "content": "前段时间清华经管学院办了一场闭门演讲",
+      "music": 0.0
+    },
+    {
+      "from": 7.07,
+      "to": 9.01,
+      "sid": 5,
+      "location": 2,
+      "content": "邀请的主讲人是瑞达利欧",
+      "music": 0.0
+    },
+    {
+      "from": 9.01,
+      "to": 11.44,
+      "sid": 6,
+      "location": 2,
+      "content": "也就是桥水投资公司的创始人",
+      "music": 0.0
+    },
+    {
+      "from": 11.44,
+      "to": 15.42,
+      "sid": 7,
+      "location": 2,
+      "content": "他演讲的主题是投资周期及大原则",
+      "music": 0.0
+    },
+    {
+      "from": 15.42,
+      "to": 17.54,
+      "sid": 8,
+      "location": 2,
+      "content": "了解这场演讲的内容之后",
+      "music": 0.0
+    },
+    {
+      "from": 17.54,
+      "to": 18.98,
+      "sid": 9,
+      "location": 2,
+      "content": "我觉得非常有价值",
+      "music": 0.0
+    },
+    {
+      "from": 18.98,
+      "to": 20.68,
+      "sid": 10,
+      "location": 2,
+      "content": "值得分享给更多的人",
+      "music": 0.0
+    },
+    {
+      "from": 20.68,
+      "to": 22.64,
+      "sid": 11,
+      "location": 2,
+      "content": "我认为本质上来说",
+      "music": 0.0
+    },
+    {
+      "from": 22.64,
+      "to": 24.08,
+      "sid": 12,
+      "location": 2,
+      "content": "他讲的不是投资建议",
+      "music": 0.0
+    },
+    {
+      "from": 24.08,
+      "to": 26.52,
+      "sid": 13,
+      "location": 2,
+      "content": "而是怎么理解我们身处的这个世界",
+      "music": 0.0
+    },
+    {
+      "from": 26.52,
+      "to": 28.7,
+      "sid": 14,
+      "location": 2,
+      "content": "以及这件事对每个人的资产",
+      "music": 0.0
+    },
+    {
+      "from": 28.7,
+      "to": 31.36,
+      "sid": 15,
+      "location": 2,
+      "content": "职业人生选择到底意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 31.36,
+      "to": 32.44,
+      "sid": 16,
+      "location": 2,
+      "content": "演讲的核心问题",
+      "music": 0.0
+    },
+    {
+      "from": 32.44,
+      "to": 35.48,
+      "sid": 17,
+      "location": 2,
+      "content": "就一个我们当前处在大周期的哪个位置",
+      "music": 0.0
+    },
+    {
+      "from": 35.48,
+      "to": 38.04,
+      "sid": 18,
+      "location": 2,
+      "content": "以及这个位置对你的含义是什么",
+      "music": 0.0
+    },
+    {
+      "from": 38.04,
+      "to": 38.64,
+      "sid": 19,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 38.64,
+      "to": 41.98,
+      "sid": 20,
+      "location": 2,
+      "content": "今天我就带大家把这次演讲里最核心的内容",
+      "music": 0.0
+    },
+    {
+      "from": 41.98,
+      "to": 42.89,
+      "sid": 21,
+      "location": 2,
+      "content": "回顾一遍",
+      "music": 0.0
+    },
+    {
+      "from": 42.89,
+      "to": 45.73,
+      "sid": 22,
+      "location": 2,
+      "content": "达利欧的整个框架建立在一个前提假设上",
+      "music": 0.0
+    },
+    {
+      "from": 45.73,
+      "to": 47.53,
+      "sid": 23,
+      "location": 2,
+      "content": "他说在历史上",
+      "music": 0.0
+    },
+    {
+      "from": 47.53,
+      "to": 51.61,
+      "sid": 24,
+      "location": 2,
+      "content": "每一次大周期下降段和短期债务周期收缩",
+      "music": 0.0
+    },
+    {
+      "from": 51.61,
+      "to": 52.989,
+      "sid": 25,
+      "location": 2,
+      "content": "叠加在一起的时候",
+      "music": 0.0
+    },
+    {
+      "from": 52.989,
+      "to": 55.369,
+      "sid": 26,
+      "location": 2,
+      "content": "系统性风险不是1+1=2",
+      "music": 0.0
+    },
+    {
+      "from": 55.369,
+      "to": 57.229,
+      "sid": 27,
+      "location": 2,
+      "content": "而是指数级放大",
+      "music": 0.0
+    },
+    {
+      "from": 57.229,
+      "to": 60.74,
+      "sid": 28,
+      "location": 2,
+      "content": "这种叠加在过去500年里只出现过三四次",
+      "music": 0.0
+    },
+    {
+      "from": 60.74,
+      "to": 62.74,
+      "sid": 29,
+      "location": 2,
+      "content": "每一次都有一个共同特征",
+      "music": 0.0
+    },
+    {
+      "from": 62.74,
+      "to": 65.38,
+      "sid": 30,
+      "location": 2,
+      "content": "让所有人都不相信危机真的会发生",
+      "music": 0.0
+    },
+    {
+      "from": 65.38,
+      "to": 66.52,
+      "sid": 31,
+      "location": 2,
+      "content": "直到它发生",
+      "music": 0.0
+    },
+    {
+      "from": 66.52,
+      "to": 70.02,
+      "sid": 32,
+      "location": 2,
+      "content": "达利欧认为我们正处在第五次这样的叠加窗口",
+      "music": 0.0
+    },
+    {
+      "from": 70.02,
+      "to": 72.199,
+      "sid": 33,
+      "location": 2,
+      "content": "那这个叠加窗口意味着什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 72.199,
+      "to": 73.639,
+      "sid": 34,
+      "location": 2,
+      "content": "它意味着一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 73.639,
+      "to": 75.839,
+      "sid": 35,
+      "location": 2,
+      "content": "如果最坏的情况发生了",
+      "music": 0.0
+    },
+    {
+      "from": 75.839,
+      "to": 76.979,
+      "sid": 36,
+      "location": 2,
+      "content": "你持有的资产",
+      "music": 0.0
+    },
+    {
+      "from": 76.979,
+      "to": 78.099,
+      "sid": 37,
+      "location": 2,
+      "content": "你选择的职业",
+      "music": 0.0
+    },
+    {
+      "from": 78.099,
+      "to": 81.38,
+      "sid": 38,
+      "location": 2,
+      "content": "你扎根的体系会因此变得更有价值",
+      "music": 0.0
+    },
+    {
+      "from": 81.38,
+      "to": 82.74,
+      "sid": 39,
+      "location": 2,
+      "content": "还是更没有价值",
+      "music": 0.0
+    },
+    {
+      "from": 82.74,
+      "to": 84.1,
+      "sid": 40,
+      "location": 2,
+      "content": "要理解这个框架",
+      "music": 0.0
+    },
+    {
+      "from": 84.1,
+      "to": 87.32,
+      "sid": 41,
+      "location": 2,
+      "content": "第一步是搞清楚大周期的三层结构",
+      "music": 0.0
+    },
+    {
+      "from": 87.32,
+      "to": 88.98,
+      "sid": 42,
+      "location": 2,
+      "content": "这三层同时在运行",
+      "music": 0.0
+    },
+    {
+      "from": 88.98,
+      "to": 91.82,
+      "sid": 43,
+      "location": 2,
+      "content": "但不同的时间尺度上有不同的主导力量",
+      "music": 0.0
+    },
+    {
+      "from": 91.82,
+      "to": 95.66,
+      "sid": 44,
+      "location": 2,
+      "content": "最底层是技术驱动的生产率长期增长",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 98.06,
+      "sid": 45,
+      "location": 2,
+      "content": "这是一条几百年的单调上升线",
+      "music": 0.0
+    },
+    {
+      "from": 98.06,
+      "to": 100.4,
+      "sid": 46,
+      "location": 2,
+      "content": "人类通过学习和技术积累",
+      "music": 0.0
+    },
+    {
+      "from": 100.4,
+      "to": 102.44,
+      "sid": 47,
+      "location": 2,
+      "content": "整体生产力在持续提升",
+      "music": 0.0
+    },
+    {
+      "from": 102.44,
+      "to": 103.9,
+      "sid": 48,
+      "location": 2,
+      "content": "这是大历史的基线",
+      "music": 0.0
+    },
+    {
+      "from": 103.9,
+      "to": 105.0,
+      "sid": 49,
+      "location": 2,
+      "content": "不可逆转",
+      "music": 0.0
+    },
+    {
+      "from": 105.0,
+      "to": 107.96,
+      "sid": 50,
+      "location": 2,
+      "content": "达利欧把AI定位为这条曲线上",
+      "music": 0.0
+    },
+    {
+      "from": 107.96,
+      "to": 109.52,
+      "sid": 51,
+      "location": 2,
+      "content": "迄今最大的加速点",
+      "music": 0.0
+    },
+    {
+      "from": 109.52,
+      "to": 113.59,
+      "sid": 52,
+      "location": 2,
+      "content": "中间那一层是短期债务和政治周期",
+      "music": 0.0
+    },
+    {
+      "from": 113.59,
+      "to": 114.95,
+      "sid": 53,
+      "location": 2,
+      "content": "大概八到10年",
+      "music": 0.0
+    },
+    {
+      "from": 114.95,
+      "to": 117.57,
+      "sid": 54,
+      "location": 2,
+      "content": "一个循环信贷扩张繁荣",
+      "music": 0.0
+    },
+    {
+      "from": 117.57,
+      "to": 118.47,
+      "sid": 55,
+      "location": 2,
+      "content": "债务过重",
+      "music": 0.0
+    },
+    {
+      "from": 118.47,
+      "to": 119.79,
+      "sid": 56,
+      "location": 2,
+      "content": "收缩衰退",
+      "music": 0.0
+    },
+    {
+      "from": 119.79,
+      "to": 121.19,
+      "sid": 57,
+      "location": 2,
+      "content": "然后再扩张",
+      "music": 0.0
+    },
+    {
+      "from": 121.19,
+      "to": 124.11,
+      "sid": 58,
+      "location": 2,
+      "content": "这层叠加在底层生产率线上形成",
+      "music": 0.0
+    },
+    {
+      "from": 124.11,
+      "to": 127.07,
+      "sid": 59,
+      "location": 2,
+      "content": "我们日常感受到的所谓经济好还是不好",
+      "music": 0.0
+    },
+    {
+      "from": 127.07,
+      "to": 129.15,
+      "sid": 60,
+      "location": 2,
+      "content": "政治周期跟他高度耦合",
+      "music": 0.0
+    },
+    {
+      "from": 129.15,
+      "to": 130.19,
+      "sid": 61,
+      "location": 2,
+      "content": "经济好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 131.05,
+      "to": 132.01,
+      "sid": 62,
+      "location": 2,
+      "content": "经济差的时候",
+      "music": 0.0
+    },
+    {
+      "from": 132.01,
+      "to": 133.41,
+      "sid": 63,
+      "location": 2,
+      "content": "社会矛盾就激化",
+      "music": 0.0
+    },
+    {
+      "from": 133.41,
+      "to": 135.33,
+      "sid": 64,
+      "location": 2,
+      "content": "最顶层是大周期",
+      "music": 0.0
+    },
+    {
+      "from": 135.33,
+      "to": 135.73,
+      "sid": 65,
+      "location": 2,
+      "content": "本身",
+      "music": 0.0
+    },
+    {
+      "from": 135.73,
+      "to": 138.839,
+      "sid": 66,
+      "location": 2,
+      "content": "也就是帝国和秩序的兴衰大波浪",
+      "music": 0.0
+    },
+    {
+      "from": 138.839,
+      "to": 141.999,
+      "sid": 67,
+      "location": 2,
+      "content": "大约50到250年一个完整弧线",
+      "music": 0.0
+    },
+    {
+      "from": 141.999,
+      "to": 144.339,
+      "sid": 68,
+      "location": 2,
+      "content": "从新秩序建立到强盛期",
+      "music": 0.0
+    },
+    {
+      "from": 144.339,
+      "to": 145.959,
+      "sid": 69,
+      "location": 2,
+      "content": "再到积累债务和内耗",
+      "music": 0.0
+    },
+    {
+      "from": 145.959,
+      "to": 147.36,
+      "sid": 70,
+      "location": 2,
+      "content": "再到相对衰落",
+      "music": 0.0
+    },
+    {
+      "from": 147.36,
+      "to": 149.4,
+      "sid": 71,
+      "location": 2,
+      "content": "最后被一个新的秩序取代",
+      "music": 0.0
+    },
+    {
+      "from": 149.4,
+      "to": 150.28,
+      "sid": 72,
+      "location": 2,
+      "content": "达利欧认为",
+      "music": 0.0
+    },
+    {
+      "from": 150.28,
+      "to": 152.74,
+      "sid": 73,
+      "location": 2,
+      "content": "上一个大的转折点是1945年",
+      "music": 0.0
+    },
+    {
+      "from": 152.74,
+      "to": 154.34,
+      "sid": 74,
+      "location": 2,
+      "content": "布雷顿森林体系建立",
+      "music": 0.0
+    },
+    {
+      "from": 154.34,
+      "to": 156.22,
+      "sid": 75,
+      "location": 2,
+      "content": "美国取代了英国的主导地位",
+      "music": 0.0
+    },
+    {
+      "from": 156.22,
+      "to": 159.42,
+      "sid": 76,
+      "location": 2,
+      "content": "而现在我们正处在这个大周期的下降段",
+      "music": 0.0
+    },
+    {
+      "from": 159.42,
+      "to": 161.67,
+      "sid": 77,
+      "location": 2,
+      "content": "三层同时在脚下运动",
+      "music": 0.0
+    },
+    {
+      "from": 161.67,
+      "to": 163.93,
+      "sid": 78,
+      "location": 2,
+      "content": "你看得见的是短周期的起伏",
+      "music": 0.0
+    },
+    {
+      "from": 163.93,
+      "to": 166.46,
+      "sid": 79,
+      "location": 2,
+      "content": "感觉不到的是顶层板块在漂移",
+      "music": 0.0
+    },
+    {
+      "from": 166.46,
+      "to": 167.92,
+      "sid": 80,
+      "location": 2,
+      "content": "达利欧的意思很明确",
+      "music": 0.0
+    },
+    {
+      "from": 167.92,
+      "to": 169.76,
+      "sid": 81,
+      "location": 2,
+      "content": "不要只盯着短期经济数据",
+      "music": 0.0
+    },
+    {
+      "from": 169.76,
+      "to": 171.07,
+      "sid": 82,
+      "location": 2,
+      "content": "得往上看一层",
+      "music": 0.0
+    },
+    {
+      "from": 171.07,
+      "to": 172.75,
+      "sid": 83,
+      "location": 2,
+      "content": "搞清楚这三层结构以后",
+      "music": 0.0
+    },
+    {
+      "from": 172.75,
+      "to": 175.11,
+      "sid": 84,
+      "location": 2,
+      "content": "咱们来看达利欧定义的五大力量",
+      "music": 0.0
+    },
+    {
+      "from": 175.11,
+      "to": 177.2,
+      "sid": 85,
+      "location": 2,
+      "content": "这是他用来判断一个国家",
+      "music": 0.0
+    },
+    {
+      "from": 177.2,
+      "to": 178.88,
+      "sid": 86,
+      "location": 2,
+      "content": "或者整个世界处在周期",
+      "music": 0.0
+    },
+    {
+      "from": 178.88,
+      "to": 181.13,
+      "sid": 87,
+      "location": 2,
+      "content": "哪个阶段的系统性风险清单",
+      "music": 0.0
+    },
+    {
+      "from": 181.13,
+      "to": 183.81,
+      "sid": 88,
+      "location": 2,
+      "content": "当下五大力量同时进入高危区间",
+      "music": 0.0
+    },
+    {
+      "from": 183.81,
+      "to": 185.29,
+      "sid": 89,
+      "location": 2,
+      "content": "历史上极为罕见",
+      "music": 0.0
+    },
+    {
+      "from": 185.29,
+      "to": 186.21,
+      "sid": 90,
+      "location": 2,
+      "content": "第一个力量",
+      "music": 0.0
+    },
+    {
+      "from": 186.21,
+      "to": 187.59,
+      "sid": 91,
+      "location": 2,
+      "content": "货币信贷",
+      "music": 0.0
+    },
+    {
+      "from": 187.59,
+      "to": 189.39,
+      "sid": 92,
+      "location": 2,
+      "content": "债务和经济秩序周期",
+      "music": 0.0
+    },
+    {
+      "from": 189.39,
+      "to": 192.649,
+      "sid": 93,
+      "location": 2,
+      "content": "全球债务占GDP的比例处于历史最高水平",
+      "music": 0.0
+    },
+    {
+      "from": 192.649,
+      "to": 194.449,
+      "sid": 94,
+      "location": 2,
+      "content": "利率已经压到接近下限",
+      "music": 0.0
+    },
+    {
+      "from": 197.66,
+      "to": 199.7,
+      "sid": 95,
+      "location": 2,
+      "content": "但这会腐蚀货币购买力",
+      "music": 0.0
+    },
+    {
+      "from": 199.7,
+      "to": 201.54,
+      "sid": 96,
+      "location": 2,
+      "content": "历史上这个局只有三个",
+      "music": 0.0
+    },
+    {
+      "from": 201.54,
+      "to": 201.96,
+      "sid": 97,
+      "location": 2,
+      "content": "出口",
+      "music": 0.0
+    },
+    {
+      "from": 201.96,
+      "to": 202.84,
+      "sid": 98,
+      "location": 2,
+      "content": "债务重组",
+      "music": 0.0
+    },
+    {
+      "from": 202.84,
+      "to": 205.04,
+      "sid": 99,
+      "location": 2,
+      "content": "货币失序或者战争消耗",
+      "music": 0.0
+    },
+    {
+      "from": 205.04,
+      "to": 207.5,
+      "sid": 100,
+      "location": 2,
+      "content": "这一轮哪个选项都不是无痛的",
+      "music": 0.0
+    },
+    {
+      "from": 207.5,
+      "to": 209.72,
+      "sid": 101,
+      "location": 2,
+      "content": "达里欧把这个力量列为五个力量中",
+      "music": 0.0
+    },
+    {
+      "from": 209.72,
+      "to": 211.209,
+      "sid": 102,
+      "location": 2,
+      "content": "当前最危险的一个",
+      "music": 0.0
+    },
+    {
+      "from": 211.209,
+      "to": 212.049,
+      "sid": 103,
+      "location": 2,
+      "content": "第二个力量",
+      "music": 0.0
+    },
+    {
+      "from": 212.049,
+      "to": 213.549,
+      "sid": 104,
+      "location": 2,
+      "content": "国内政治秩序周期",
+      "music": 0.0
+    },
+    {
+      "from": 215.69,
+      "to": 218.61,
+      "sid": 105,
+      "location": 2,
+      "content": "民粹主义在全球主要经济体同步崛起",
+      "music": 0.0
+    },
+    {
+      "from": 218.61,
+      "to": 222.209,
+      "sid": 106,
+      "location": 2,
+      "content": "内部撕裂会削弱国家应对外部冲击的能力",
+      "music": 0.0
+    },
+    {
+      "from": 222.209,
+      "to": 223.449,
+      "sid": 107,
+      "location": 2,
+      "content": "你内部越乱",
+      "music": 0.0
+    },
+    {
+      "from": 223.449,
+      "to": 225.22,
+      "sid": 108,
+      "location": 2,
+      "content": "外部力量越容易被利用",
+      "music": 0.0
+    },
+    {
+      "from": 225.22,
+      "to": 226.06,
+      "sid": 109,
+      "location": 2,
+      "content": "达利欧说",
+      "music": 0.0
+    },
+    {
+      "from": 226.06,
+      "to": 228.14,
+      "sid": 110,
+      "location": 2,
+      "content": "历史上几乎所有帝国的衰落",
+      "music": 0.0
+    },
+    {
+      "from": 228.14,
+      "to": 230.54,
+      "sid": 111,
+      "location": 2,
+      "content": "都是从内部凝聚力的瓦解开始的",
+      "music": 0.0
+    },
+    {
+      "from": 230.54,
+      "to": 231.99,
+      "sid": 112,
+      "location": 2,
+      "content": "不是外敌打进来的",
+      "music": 0.0
+    },
+    {
+      "from": 231.99,
+      "to": 232.89,
+      "sid": 113,
+      "location": 2,
+      "content": "第三个力量",
+      "music": 0.0
+    },
+    {
+      "from": 232.89,
+      "to": 234.85,
+      "sid": 114,
+      "location": 2,
+      "content": "国际地缘政治秩序周期",
+      "music": 0.0
+    },
+    {
+      "from": 234.85,
+      "to": 237.13,
+      "sid": 115,
+      "location": 2,
+      "content": "美国主导的旧秩序在瓦解",
+      "music": 0.0
+    },
+    {
+      "from": 237.13,
+      "to": 239.63,
+      "sid": 116,
+      "location": 2,
+      "content": "中美之间的权力转移是结构性的",
+      "music": 0.0
+    },
+    {
+      "from": 239.63,
+      "to": 240.94,
+      "sid": 117,
+      "location": 2,
+      "content": "不是冷战重演",
+      "music": 0.0
+    },
+    {
+      "from": 240.94,
+      "to": 242.56,
+      "sid": 118,
+      "location": 2,
+      "content": "两国经济深度绑定",
+      "music": 0.0
+    },
+    {
+      "from": 242.56,
+      "to": 244.3,
+      "sid": 119,
+      "location": 2,
+      "content": "同时在科技贸易",
+      "music": 0.0
+    },
+    {
+      "from": 244.3,
+      "to": 246.32,
+      "sid": 120,
+      "location": 2,
+      "content": "金融军事上全面竞争",
+      "music": 0.0
+    },
+    {
+      "from": 246.32,
+      "to": 247.54,
+      "sid": 121,
+      "location": 2,
+      "content": "用达利欧的话说",
+      "music": 0.0
+    },
+    {
+      "from": 247.54,
+      "to": 249.5,
+      "sid": 122,
+      "location": 2,
+      "content": "这种既竞争又依存的结构",
+      "music": 0.0
+    },
+    {
+      "from": 249.5,
+      "to": 252.09,
+      "sid": 123,
+      "location": 2,
+      "content": "在历史上几乎没有和平解决的先例",
+      "music": 0.0
+    },
+    {
+      "from": 252.09,
+      "to": 254.35,
+      "sid": 124,
+      "location": 2,
+      "content": "第四个力量自然力量干旱",
+      "music": 0.0
+    },
+    {
+      "from": 254.35,
+      "to": 255.61,
+      "sid": 125,
+      "location": 2,
+      "content": "洪水和疫情",
+      "music": 0.0
+    },
+    {
+      "from": 255.61,
+      "to": 257.29,
+      "sid": 126,
+      "location": 2,
+      "content": "极端气候的频率在上升",
+      "music": 0.0
+    },
+    {
+      "from": 257.29,
+      "to": 257.85,
+      "sid": 127,
+      "location": 2,
+      "content": "疫情之后",
+      "music": 0.0
+    },
+    {
+      "from": 257.85,
+      "to": 260.33,
+      "sid": 128,
+      "location": 2,
+      "content": "供应链从效率优先转向安全优先",
+      "music": 0.0
+    },
+    {
+      "from": 260.33,
+      "to": 262.59,
+      "sid": 129,
+      "location": 2,
+      "content": "区域化和本地化的趋势在加速",
+      "music": 0.0
+    },
+    {
+      "from": 262.59,
+      "to": 264.91,
+      "sid": 130,
+      "location": 2,
+      "content": "全球分工正在被重新定价",
+      "music": 0.0
+    },
+    {
+      "from": 264.91,
+      "to": 266.67,
+      "sid": 131,
+      "location": 2,
+      "content": "你在全球供应链里的位置",
+      "music": 0.0
+    },
+    {
+      "from": 266.67,
+      "to": 269.72,
+      "sid": 132,
+      "location": 2,
+      "content": "将决定你的成本结构和抗风险能力",
+      "music": 0.0
+    },
+    {
+      "from": 269.72,
+      "to": 270.66,
+      "sid": 133,
+      "location": 2,
+      "content": "第五个力量",
+      "music": 0.0
+    },
+    {
+      "from": 270.66,
+      "to": 272.42,
+      "sid": 134,
+      "location": 2,
+      "content": "人类的学习和新技术",
+      "music": 0.0
+    },
+    {
+      "from": 272.42,
+      "to": 273.5,
+      "sid": 135,
+      "location": 2,
+      "content": "特别是AI",
+      "music": 0.0
+    },
+    {
+      "from": 273.5,
+      "to": 276.2,
+      "sid": 136,
+      "location": 2,
+      "content": "达利欧把这个力量定义为五个力量中",
+      "music": 0.0
+    },
+    {
+      "from": 276.2,
+      "to": 277.08,
+      "sid": 137,
+      "location": 2,
+      "content": "最强的变量",
+      "music": 0.0
+    },
+    {
+      "from": 277.08,
+      "to": 278.71,
+      "sid": 138,
+      "location": 2,
+      "content": "叫它最强放大器",
+      "music": 0.0
+    },
+    {
+      "from": 278.71,
+      "to": 281.15,
+      "sid": 139,
+      "location": 2,
+      "content": "AI是强通缩加高效率的组合",
+      "music": 0.0
+    },
+    {
+      "from": 281.15,
+      "to": 282.85,
+      "sid": 140,
+      "location": 2,
+      "content": "影响幅度远超工业革命",
+      "music": 0.0
+    },
+    {
+      "from": 282.85,
+      "to": 283.63,
+      "sid": 141,
+      "location": 2,
+      "content": "最关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 283.63,
+      "to": 285.35,
+      "sid": 142,
+      "location": 2,
+      "content": "AI会放大其他所有趋势",
+      "music": 0.0
+    },
+    {
+      "from": 286.73,
+      "to": 288.12,
+      "sid": 143,
+      "location": 2,
+      "content": "让技术竞争更激烈",
+      "music": 0.0
+    },
+    {
+      "from": 288.12,
+      "to": 290.08,
+      "sid": 144,
+      "location": 2,
+      "content": "让债务问题的解决方案更复杂",
+      "music": 0.0
+    },
+    {
+      "from": 290.08,
+      "to": 293.08,
+      "sid": 145,
+      "location": 2,
+      "content": "同时也让人类在历史上第一次面临",
+      "music": 0.0
+    },
+    {
+      "from": 293.08,
+      "to": 295.48,
+      "sid": 146,
+      "location": 2,
+      "content": "脑力劳动被系统性替代的可能性",
+      "music": 0.0
+    },
+    {
+      "from": 295.48,
+      "to": 298.64,
+      "sid": 147,
+      "location": 2,
+      "content": "这五大力量真正的危险不是他们各自有多严重",
+      "music": 0.0
+    },
+    {
+      "from": 298.64,
+      "to": 301.02,
+      "sid": 148,
+      "location": 2,
+      "content": "而是他们之间的正反馈回路",
+      "music": 0.0
+    },
+    {
+      "from": 301.02,
+      "to": 302.31,
+      "sid": 149,
+      "location": 2,
+      "content": "我来举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 302.31,
+      "to": 304.65,
+      "sid": 150,
+      "location": 2,
+      "content": "力量一债务危机恶化的时候",
+      "music": 0.0
+    },
+    {
+      "from": 304.65,
+      "to": 306.33,
+      "sid": 151,
+      "location": 2,
+      "content": "政府财政空间收窄",
+      "music": 0.0
+    },
+    {
+      "from": 306.33,
+      "to": 308.07,
+      "sid": 152,
+      "location": 2,
+      "content": "直接削弱了对力量",
+      "music": 0.0
+    },
+    {
+      "from": 308.07,
+      "to": 310.56,
+      "sid": 153,
+      "location": 2,
+      "content": "二也就是内部政治矛盾的缓冲能力",
+      "music": 0.0
+    },
+    {
+      "from": 310.56,
+      "to": 313.18,
+      "sid": 154,
+      "location": 2,
+      "content": "内部撕裂反过来让政策更短视",
+      "music": 0.0
+    },
+    {
+      "from": 313.18,
+      "to": 314.1,
+      "sid": 155,
+      "location": 2,
+      "content": "更政治化",
+      "music": 0.0
+    },
+    {
+      "from": 314.1,
+      "to": 315.35,
+      "sid": 156,
+      "location": 2,
+      "content": "债务继续扩张",
+      "music": 0.0
+    },
+    {
+      "from": 315.35,
+      "to": 317.39,
+      "sid": 157,
+      "location": 2,
+      "content": "这就形成了一个力量一推到力量二",
+      "music": 0.0
+    },
+    {
+      "from": 317.39,
+      "to": 319.909,
+      "sid": 158,
+      "location": 2,
+      "content": "力量二又推回力量一的自我强化回路",
+      "music": 0.0
+    },
+    {
+      "from": 319.909,
+      "to": 322.009,
+      "sid": 159,
+      "location": 2,
+      "content": "而力量5AI作为放大器",
+      "music": 0.0
+    },
+    {
+      "from": 322.009,
+      "to": 323.429,
+      "sid": 160,
+      "location": 2,
+      "content": "加速整个回路",
+      "music": 0.0
+    },
+    {
+      "from": 323.429,
+      "to": 325.129,
+      "sid": 161,
+      "location": 2,
+      "content": "AI替代带来的失业焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 325.129,
+      "to": 326.729,
+      "sid": 162,
+      "location": 2,
+      "content": "直接往政治极化里灌能量",
+      "music": 0.0
+    },
+    {
+      "from": 326.729,
+      "to": 327.489,
+      "sid": 163,
+      "location": 2,
+      "content": "这是力量五",
+      "music": 0.0
+    },
+    {
+      "from": 327.489,
+      "to": 328.35,
+      "sid": 164,
+      "location": 2,
+      "content": "往力量二",
+      "music": 0.0
+    },
+    {
+      "from": 328.35,
+      "to": 331.83,
+      "sid": 165,
+      "location": 2,
+      "content": "政治极化让理性的债务调整方案更难达成",
+      "music": 0.0
+    },
+    {
+      "from": 331.83,
+      "to": 332.59,
+      "sid": 166,
+      "location": 2,
+      "content": "这是力量二",
+      "music": 0.0
+    },
+    {
+      "from": 332.59,
+      "to": 333.7,
+      "sid": 167,
+      "location": 2,
+      "content": "再回力量一",
+      "music": 0.0
+    },
+    {
+      "from": 333.7,
+      "to": 335.44,
+      "sid": 168,
+      "location": 2,
+      "content": "当正反馈回路启动了",
+      "music": 0.0
+    },
+    {
+      "from": 335.44,
+      "to": 337.2,
+      "sid": 169,
+      "location": 2,
+      "content": "风险就不再是线性叠加",
+      "music": 0.0
+    },
+    {
+      "from": 337.2,
+      "to": 339.87,
+      "sid": 170,
+      "location": 2,
+      "content": "这就是他为什么说这是500年一遇的东西",
+      "music": 0.0
+    },
+    {
+      "from": 339.87,
+      "to": 341.59,
+      "sid": 171,
+      "location": 2,
+      "content": "不是每一个力量单独拿出来",
+      "music": 0.0
+    },
+    {
+      "from": 341.59,
+      "to": 342.69,
+      "sid": 172,
+      "location": 2,
+      "content": "是500年一遇",
+      "music": 0.0
+    },
+    {
+      "from": 342.69,
+      "to": 344.43,
+      "sid": 173,
+      "location": 2,
+      "content": "而是它们同时共振",
+      "music": 0.0
+    },
+    {
+      "from": 344.43,
+      "to": 345.37,
+      "sid": 174,
+      "location": 2,
+      "content": "互相对撞",
+      "music": 0.0
+    },
+    {
+      "from": 345.37,
+      "to": 348.0,
+      "sid": 175,
+      "location": 2,
+      "content": "这个才是接下来咱们了解一个概念",
+      "music": 0.0
+    },
+    {
+      "from": 348.0,
+      "to": 349.7,
+      "sid": 176,
+      "location": 2,
+      "content": "叫帝国兴衰弧线",
+      "music": 0.0
+    },
+    {
+      "from": 349.7,
+      "to": 351.64,
+      "sid": 177,
+      "location": 2,
+      "content": "这是达利欧研究500年历史",
+      "music": 0.0
+    },
+    {
+      "from": 351.64,
+      "to": 353.36,
+      "sid": 178,
+      "location": 2,
+      "content": "提炼出来的核心框架",
+      "music": 0.0
+    },
+    {
+      "from": 353.36,
+      "to": 357.06,
+      "sid": 179,
+      "location": 2,
+      "content": "他把一个帝国从兴起到衰落分为三个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 357.06,
+      "to": 359.62,
+      "sid": 180,
+      "location": 2,
+      "content": "每个阶段有一系列可以观察的指标",
+      "music": 0.0
+    },
+    {
+      "from": 359.62,
+      "to": 362.6,
+      "sid": 181,
+      "location": 2,
+      "content": "兴起阶段的指标包括强有力的领导者",
+      "music": 0.0
+    },
+    {
+      "from": 362.6,
+      "to": 363.74,
+      "sid": 182,
+      "location": 2,
+      "content": "创造力与发明",
+      "music": 0.0
+    },
+    {
+      "from": 363.74,
+      "to": 364.6,
+      "sid": 183,
+      "location": 2,
+      "content": "教育投入",
+      "music": 0.0
+    },
+    {
+      "from": 364.6,
+      "to": 366.16,
+      "sid": 184,
+      "location": 2,
+      "content": "强大的文化凝聚力",
+      "music": 0.0
+    },
+    {
+      "from": 366.16,
+      "to": 367.48,
+      "sid": 185,
+      "location": 2,
+      "content": "良好的资源分配",
+      "music": 0.0
+    },
+    {
+      "from": 367.48,
+      "to": 368.63,
+      "sid": 186,
+      "location": 2,
+      "content": "良好的竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 368.63,
+      "to": 370.13,
+      "sid": 187,
+      "location": 2,
+      "content": "强劲的收入增长",
+      "music": 0.0
+    },
+    {
+      "from": 370.13,
+      "to": 372.12,
+      "sid": 188,
+      "location": 2,
+      "content": "强大的市场和金融中心",
+      "music": 0.0
+    },
+    {
+      "from": 372.12,
+      "to": 374.34,
+      "sid": 189,
+      "location": 2,
+      "content": "巅峰阶段的指标开始反转",
+      "music": 0.0
+    },
+    {
+      "from": 374.34,
+      "to": 375.42,
+      "sid": 190,
+      "location": 2,
+      "content": "生产力下降",
+      "music": 0.0
+    },
+    {
+      "from": 375.42,
+      "to": 376.84,
+      "sid": 191,
+      "location": 2,
+      "content": "债务开始束缚增长",
+      "music": 0.0
+    },
+    {
+      "from": 376.84,
+      "to": 377.68,
+      "sid": 192,
+      "location": 2,
+      "content": "过度扩张",
+      "music": 0.0
+    },
+    {
+      "from": 377.68,
+      "to": 378.62,
+      "sid": 193,
+      "location": 2,
+      "content": "失去竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 379.99,
+      "to": 381.75,
+      "sid": 194,
+      "location": 2,
+      "content": "衰落阶段就非常具体了",
+      "music": 0.0
+    },
+    {
+      "from": 381.75,
+      "to": 382.73,
+      "sid": 195,
+      "location": 2,
+      "content": "巨额债务",
+      "music": 0.0
+    },
+    {
+      "from": 382.73,
+      "to": 383.67,
+      "sid": 196,
+      "location": 2,
+      "content": "货币超发",
+      "music": 0.0
+    },
+    {
+      "from": 383.67,
+      "to": 384.67,
+      "sid": 197,
+      "location": 2,
+      "content": "内部冲突",
+      "music": 0.0
+    },
+    {
+      "from": 384.67,
+      "to": 386.31,
+      "sid": 198,
+      "location": 2,
+      "content": "失去储备货币地位",
+      "music": 0.0
+    },
+    {
+      "from": 386.31,
+      "to": 387.49,
+      "sid": 199,
+      "location": 2,
+      "content": "领导力衰弱",
+      "music": 0.0
+    },
+    {
+      "from": 387.49,
+      "to": 388.95,
+      "sid": 200,
+      "location": 2,
+      "content": "内战或者革命",
+      "music": 0.0
+    },
+    {
+      "from": 388.95,
+      "to": 390.15,
+      "sid": 201,
+      "location": 2,
+      "content": "达利欧的判断是",
+      "music": 0.0
+    },
+    {
+      "from": 390.15,
+      "to": 393.72,
+      "sid": 202,
+      "location": 2,
+      "content": "美国当前处于从巅峰到衰落的过渡阶段",
+      "music": 0.0
+    },
+    {
+      "from": 393.72,
+      "to": 396.48,
+      "sid": 203,
+      "location": 2,
+      "content": "已经出现的指标包括债务上限",
+      "music": 0.0
+    },
+    {
+      "from": 396.48,
+      "to": 397.32,
+      "sid": 204,
+      "location": 2,
+      "content": "反复危机",
+      "music": 0.0
+    },
+    {
+      "from": 398.84,
+      "to": 400.14,
+      "sid": 205,
+      "location": 2,
+      "content": "政治极化严重",
+      "music": 0.0
+    },
+    {
+      "from": 400.14,
+      "to": 402.7,
+      "sid": 206,
+      "location": 2,
+      "content": "美元储备货币份额缓慢下滑",
+      "music": 0.0
+    },
+    {
+      "from": 402.7,
+      "to": 403.92,
+      "sid": 207,
+      "location": 2,
+      "content": "那中国在哪儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 403.92,
+      "to": 405.46,
+      "sid": 208,
+      "location": 2,
+      "content": "在这张500年的图表上",
+      "music": 0.0
+    },
+    {
+      "from": 405.46,
+      "to": 407.98,
+      "sid": 209,
+      "location": 2,
+      "content": "中国的曲线从右侧明显上翘",
+      "music": 0.0
+    },
+    {
+      "from": 407.98,
+      "to": 409.84,
+      "sid": 210,
+      "location": 2,
+      "content": "也就是正在崛起的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 409.84,
+      "to": 411.9,
+      "sid": 211,
+      "location": 2,
+      "content": "但达利欧同时提醒了一点",
+      "music": 0.0
+    },
+    {
+      "from": 411.9,
+      "to": 412.62,
+      "sid": 212,
+      "location": 2,
+      "content": "历史上",
+      "music": 0.0
+    },
+    {
+      "from": 412.62,
+      "to": 416.24,
+      "sid": 213,
+      "location": 2,
+      "content": "所有崛起大国跟现有主导大国正面交汇的时期",
+      "music": 0.0
+    },
+    {
+      "from": 416.24,
+      "to": 417.73,
+      "sid": 214,
+      "location": 2,
+      "content": "都是最危险的窗口",
+      "music": 0.0
+    },
+    {
+      "from": 417.73,
+      "to": 418.93,
+      "sid": 215,
+      "location": 2,
+      "content": "在他的举例中",
+      "music": 0.0
+    },
+    {
+      "from": 418.93,
+      "to": 422.37,
+      "sid": 216,
+      "location": 2,
+      "content": "他描绘了一个很清晰的帝国更替时间线",
+      "music": 0.0
+    },
+    {
+      "from": 422.37,
+      "to": 425.65,
+      "sid": 217,
+      "location": 2,
+      "content": "荷兰大概1600年到1780年巅峰",
+      "music": 0.0
+    },
+    {
+      "from": 425.65,
+      "to": 427.69,
+      "sid": 218,
+      "location": 2,
+      "content": "第一个现代资本主义帝国",
+      "music": 0.0
+    },
+    {
+      "from": 427.69,
+      "to": 431.4,
+      "sid": 219,
+      "location": 2,
+      "content": "建立了全球贸易体系和阿姆斯特丹金融中心",
+      "music": 0.0
+    },
+    {
+      "from": 431.4,
+      "to": 433.64,
+      "sid": 220,
+      "location": 2,
+      "content": "衰落原因是战争债务太重",
+      "music": 0.0
+    },
+    {
+      "from": 433.64,
+      "to": 436.02,
+      "sid": 221,
+      "location": 2,
+      "content": "加上英国工业革命带来的竞争优势",
+      "music": 0.0
+    },
+    {
+      "from": 436.02,
+      "to": 438.38,
+      "sid": 222,
+      "location": 2,
+      "content": "然后英国接棒工业革命发源地",
+      "music": 0.0
+    },
+    {
+      "from": 438.38,
+      "to": 440.98,
+      "sid": 223,
+      "location": 2,
+      "content": "建立全球殖民帝国和英镑储备货币体系",
+      "music": 0.0
+    },
+    {
+      "from": 440.98,
+      "to": 443.26,
+      "sid": 224,
+      "location": 2,
+      "content": "到两次世界大战耗尽国力",
+      "music": 0.0
+    },
+    {
+      "from": 443.26,
+      "to": 445.34,
+      "sid": 225,
+      "location": 2,
+      "content": "注意英国不是被打败的",
+      "music": 0.0
+    },
+    {
+      "from": 445.34,
+      "to": 446.83,
+      "sid": 226,
+      "location": 2,
+      "content": "是被战争掏空的",
+      "music": 0.0
+    },
+    {
+      "from": 446.83,
+      "to": 448.25,
+      "sid": 227,
+      "location": 2,
+      "content": "1945年",
+      "music": 0.0
+    },
+    {
+      "from": 448.25,
+      "to": 449.87,
+      "sid": 228,
+      "location": 2,
+      "content": "布雷顿森林体系建立",
+      "music": 0.0
+    },
+    {
+      "from": 449.87,
+      "to": 451.63,
+      "sid": 229,
+      "location": 2,
+      "content": "美国成为唯一超级大国",
+      "music": 0.0
+    },
+    {
+      "from": 451.63,
+      "to": 453.41,
+      "sid": 230,
+      "location": 2,
+      "content": "美元成为全球储备货币",
+      "music": 0.0
+    },
+    {
+      "from": 453.41,
+      "to": 455.98,
+      "sid": 231,
+      "location": 2,
+      "content": "现在呢在往衰落方向过渡",
+      "music": 0.0
+    },
+    {
+      "from": 455.98,
+      "to": 458.2,
+      "sid": 232,
+      "location": 2,
+      "content": "下一个秩序节点是谁",
+      "music": 0.0
+    },
+    {
+      "from": 458.2,
+      "to": 459.66,
+      "sid": 233,
+      "location": 2,
+      "content": "达利欧没有直接给答案",
+      "music": 0.0
+    },
+    {
+      "from": 459.66,
+      "to": 463.28,
+      "sid": 234,
+      "location": 2,
+      "content": "但他的图表上唯一明显在往上走的就是中国",
+      "music": 0.0
+    },
+    {
+      "from": 463.28,
+      "to": 466.42,
+      "sid": 235,
+      "location": 2,
+      "content": "但是用传统帝国的兴衰来解读中国",
+      "music": 0.0
+    },
+    {
+      "from": 466.42,
+      "to": 467.68,
+      "sid": 236,
+      "location": 2,
+      "content": "我有不同的观点",
+      "music": 0.0
+    },
+    {
+      "from": 467.68,
+      "to": 469.08,
+      "sid": 237,
+      "location": 2,
+      "content": "我们既不是帝国",
+      "music": 0.0
+    },
+    {
+      "from": 469.08,
+      "to": 471.35,
+      "sid": 238,
+      "location": 2,
+      "content": "也没有走过去这些帝国的老路",
+      "music": 0.0
+    },
+    {
+      "from": 471.35,
+      "to": 472.45,
+      "sid": 239,
+      "location": 2,
+      "content": "关于这一点",
+      "music": 0.0
+    },
+    {
+      "from": 472.45,
+      "to": 474.32,
+      "sid": 240,
+      "location": 2,
+      "content": "我在视频的最后说",
+      "music": 0.0
+    },
+    {
+      "from": 474.32,
+      "to": 477.3,
+      "sid": 241,
+      "location": 2,
+      "content": "在这之后我们要研究一个很关键的问题",
+      "music": 0.0
+    },
+    {
+      "from": 477.3,
+      "to": 481.84,
+      "sid": 242,
+      "location": 2,
+      "content": "这些帝国是从哪一步开始从巅峰滑向衰落的",
+      "music": 0.0
+    },
+    {
+      "from": 481.84,
+      "to": 483.16,
+      "sid": 243,
+      "location": 2,
+      "content": "达利欧的回答是",
+      "music": 0.0
+    },
+    {
+      "from": 483.16,
+      "to": 486.28,
+      "sid": 244,
+      "location": 2,
+      "content": "几乎每一次转折都是债务问题触发的",
+      "music": 0.0
+    },
+    {
+      "from": 486.28,
+      "to": 489.61,
+      "sid": 245,
+      "location": 2,
+      "content": "他给大债务周期的崩溃总结了三个条件",
+      "music": 0.0
+    },
+    {
+      "from": 489.61,
+      "to": 492.41,
+      "sid": 246,
+      "location": 2,
+      "content": "第一个债务偿付挤压了其他支出",
+      "music": 0.0
+    },
+    {
+      "from": 492.41,
+      "to": 494.23,
+      "sid": 247,
+      "location": 2,
+      "content": "当债务利息加本金",
+      "music": 0.0
+    },
+    {
+      "from": 494.23,
+      "to": 496.92,
+      "sid": 248,
+      "location": 2,
+      "content": "占政府财政收入的比例持续上升的时候",
+      "music": 0.0
+    },
+    {
+      "from": 496.92,
+      "to": 499.82,
+      "sid": 249,
+      "location": 2,
+      "content": "教育基建国防的钱被挤出去",
+      "music": 0.0
+    },
+    {
+      "from": 499.82,
+      "to": 501.57,
+      "sid": 250,
+      "location": 2,
+      "content": "政府失去财政灵活性",
+      "music": 0.0
+    },
+    {
+      "from": 501.57,
+      "to": 503.49,
+      "sid": 251,
+      "location": 2,
+      "content": "达利欧展示的数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 503.49,
+      "to": 506.67,
+      "sid": 252,
+      "location": 2,
+      "content": "美国当前的债务偿付占财政收入的比例",
+      "music": 0.0
+    },
+    {
+      "from": 506.67,
+      "to": 508.27,
+      "sid": 253,
+      "location": 2,
+      "content": "正在接近历史极值",
+      "music": 0.0
+    },
+    {
+      "from": 508.27,
+      "to": 511.52,
+      "sid": 254,
+      "location": 2,
+      "content": "这个水平历史上只在二战期间短暂出现过",
+      "music": 0.0
+    },
+    {
+      "from": 511.52,
+      "to": 514.56,
+      "sid": 255,
+      "location": 2,
+      "content": "第二个债务供给远超债务需求",
+      "music": 0.0
+    },
+    {
+      "from": 514.56,
+      "to": 515.9,
+      "sid": 256,
+      "location": 2,
+      "content": "美国国债的发行量",
+      "music": 0.0
+    },
+    {
+      "from": 515.9,
+      "to": 517.99,
+      "sid": 257,
+      "location": 2,
+      "content": "超过了全球投资者的吸纳能力",
+      "music": 0.0
+    },
+    {
+      "from": 517.99,
+      "to": 519.41,
+      "sid": 258,
+      "location": 2,
+      "content": "当买家不够的时候",
+      "music": 0.0
+    },
+    {
+      "from": 519.41,
+      "to": 521.03,
+      "sid": 259,
+      "location": 2,
+      "content": "要么利率大幅上升",
+      "music": 0.0
+    },
+    {
+      "from": 521.03,
+      "to": 522.15,
+      "sid": 260,
+      "location": 2,
+      "content": "加重债务负担",
+      "music": 0.0
+    },
+    {
+      "from": 523.63,
+      "to": 524.53,
+      "sid": 261,
+      "location": 2,
+      "content": "也就是印钞",
+      "music": 0.0
+    },
+    {
+      "from": 524.53,
+      "to": 526.46,
+      "sid": 262,
+      "location": 2,
+      "content": "两个选项后果都很严重",
+      "music": 0.0
+    },
+    {
+      "from": 526.46,
+      "to": 528.24,
+      "sid": 263,
+      "location": 2,
+      "content": "达利欧展示了主要经济体",
+      "music": 0.0
+    },
+    {
+      "from": 531.72,
+      "to": 533.55,
+      "sid": 264,
+      "location": 2,
+      "content": "全部在历史极值附近",
+      "music": 0.0
+    },
+    {
+      "from": 533.55,
+      "to": 535.29,
+      "sid": 265,
+      "location": 2,
+      "content": "注意不是美国一家",
+      "music": 0.0
+    },
+    {
+      "from": 535.29,
+      "to": 536.85,
+      "sid": 266,
+      "location": 2,
+      "content": "是世界G7",
+      "music": 0.0
+    },
+    {
+      "from": 536.85,
+      "to": 538.71,
+      "sid": 267,
+      "location": 2,
+      "content": "美国中国德国",
+      "music": 0.0
+    },
+    {
+      "from": 538.71,
+      "to": 539.27,
+      "sid": 268,
+      "location": 2,
+      "content": "日本",
+      "music": 0.0
+    },
+    {
+      "from": 539.27,
+      "to": 539.89,
+      "sid": 269,
+      "location": 2,
+      "content": "英国",
+      "music": 0.0
+    },
+    {
+      "from": 539.89,
+      "to": 540.53,
+      "sid": 270,
+      "location": 2,
+      "content": "法国",
+      "music": 0.0
+    },
+    {
+      "from": 540.53,
+      "to": 541.27,
+      "sid": 271,
+      "location": 2,
+      "content": "意大利",
+      "music": 0.0
+    },
+    {
+      "from": 541.27,
+      "to": 543.17,
+      "sid": 272,
+      "location": 2,
+      "content": "九张图表全都在往上走",
+      "music": 0.0
+    },
+    {
+      "from": 543.17,
+      "to": 545.69,
+      "sid": 273,
+      "location": 2,
+      "content": "这是全球债务体系的系统性问题",
+      "music": 0.0
+    },
+    {
+      "from": 548.21,
+      "to": 550.8,
+      "sid": 274,
+      "location": 2,
+      "content": "美联储因为持有大量低利率债券",
+      "music": 0.0
+    },
+    {
+      "from": 550.8,
+      "to": 553.68,
+      "sid": 275,
+      "location": 2,
+      "content": "在2022年以来快速加息之后",
+      "music": 0.0
+    },
+    {
+      "from": 553.68,
+      "to": 555.9,
+      "sid": 276,
+      "location": 2,
+      "content": "这些债券产生了巨大浮亏",
+      "music": 0.0
+    },
+    {
+      "from": 555.9,
+      "to": 559.68,
+      "sid": 277,
+      "location": 2,
+      "content": "这导致美联储的净资产在技术意义上转为负数",
+      "music": 0.0
+    },
+    {
+      "from": 559.68,
+      "to": 561.8,
+      "sid": 278,
+      "location": 2,
+      "content": "这是个历史上非常罕见的状态",
+      "music": 0.0
+    },
+    {
+      "from": 561.8,
+      "to": 564.44,
+      "sid": 279,
+      "location": 2,
+      "content": "上一次出现是1930年代",
+      "music": 0.0
+    },
+    {
+      "from": 564.44,
+      "to": 565.84,
+      "sid": 280,
+      "location": 2,
+      "content": "达利欧的数据是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 565.84,
+      "to": 568.44,
+      "sid": 281,
+      "location": 2,
+      "content": "美国债务占GDP约130%",
+      "music": 0.0
+    },
+    {
+      "from": 568.44,
+      "to": 569.42,
+      "sid": 282,
+      "location": 2,
+      "content": "历史极值",
+      "music": 0.0
+    },
+    {
+      "from": 569.42,
+      "to": 571.14,
+      "sid": 283,
+      "location": 2,
+      "content": "美联储账面净值转负",
+      "music": 0.0
+    },
+    {
+      "from": 571.14,
+      "to": 572.25,
+      "sid": 284,
+      "location": 2,
+      "content": "历史首次",
+      "music": 0.0
+    },
+    {
+      "from": 574.77,
+      "to": 576.849,
+      "sid": 285,
+      "location": 2,
+      "content": "九国同步超历史警戒线",
+      "music": 0.0
+    },
+    {
+      "from": 576.849,
+      "to": 578.489,
+      "sid": 286,
+      "location": 2,
+      "content": "三个条件同时亮红灯",
+      "music": 0.0
+    },
+    {
+      "from": 578.489,
+      "to": 580.089,
+      "sid": 287,
+      "location": 2,
+      "content": "在帝国兴衰弧线上",
+      "music": 0.0
+    },
+    {
+      "from": 580.089,
+      "to": 582.46,
+      "sid": 288,
+      "location": 2,
+      "content": "从巅峰向衰落滑落的转折",
+      "music": 0.0
+    },
+    {
+      "from": 582.46,
+      "to": 584.74,
+      "sid": 289,
+      "location": 2,
+      "content": "几乎总是由债务问题触发的",
+      "music": 0.0
+    },
+    {
+      "from": 584.74,
+      "to": 586.38,
+      "sid": 290,
+      "location": 2,
+      "content": "债务不是周期的原因",
+      "music": 0.0
+    },
+    {
+      "from": 586.38,
+      "to": 589.05,
+      "sid": 291,
+      "location": 2,
+      "content": "是周期进入不可逆阶段的信号灯",
+      "music": 0.0
+    },
+    {
+      "from": 589.05,
+      "to": 590.39,
+      "sid": 292,
+      "location": 2,
+      "content": "按达利欧的说法",
+      "music": 0.0
+    },
+    {
+      "from": 590.39,
+      "to": 591.91,
+      "sid": 293,
+      "location": 2,
+      "content": "这个灯已经快亮了",
+      "music": 0.0
+    },
+    {
+      "from": 591.91,
+      "to": 593.79,
+      "sid": 294,
+      "location": 2,
+      "content": "那这种事以前发生过吗",
+      "music": 0.0
+    },
+    {
+      "from": 593.79,
+      "to": 594.47,
+      "sid": 295,
+      "location": 2,
+      "content": "发生过",
+      "music": 0.0
+    },
+    {
+      "from": 594.47,
+      "to": 596.079,
+      "sid": 296,
+      "location": 2,
+      "content": "而且离我们并不远",
+      "music": 0.0
+    },
+    {
+      "from": 596.079,
+      "to": 597.219,
+      "sid": 297,
+      "location": 2,
+      "content": "他反复强调",
+      "music": 0.0
+    },
+    {
+      "from": 597.219,
+      "to": 600.879,
+      "sid": 298,
+      "location": 2,
+      "content": "理解今天的最好方式是对照1930年代",
+      "music": 0.0
+    },
+    {
+      "from": 600.879,
+      "to": 604.27,
+      "sid": 299,
+      "location": 2,
+      "content": "他列了四个相同点和两个关键差异",
+      "music": 0.0
+    },
+    {
+      "from": 604.27,
+      "to": 605.45,
+      "sid": 300,
+      "location": 2,
+      "content": "先说相同点",
+      "music": 0.0
+    },
+    {
+      "from": 605.45,
+      "to": 607.69,
+      "sid": 301,
+      "location": 2,
+      "content": "第一债务危机后的流动性陷阱",
+      "music": 0.0
+    },
+    {
+      "from": 607.69,
+      "to": 609.61,
+      "sid": 302,
+      "location": 2,
+      "content": "1929年大萧条之后",
+      "music": 0.0
+    },
+    {
+      "from": 609.61,
+      "to": 610.91,
+      "sid": 303,
+      "location": 2,
+      "content": "全球陷入低利率",
+      "music": 0.0
+    },
+    {
+      "from": 610.91,
+      "to": 612.05,
+      "sid": 304,
+      "location": 2,
+      "content": "高债务困境",
+      "music": 0.0
+    },
+    {
+      "from": 612.05,
+      "to": 615.05,
+      "sid": 305,
+      "location": 2,
+      "content": "各国竞相通过货币宽松维持经济运转",
+      "music": 0.0
+    },
+    {
+      "from": 615.05,
+      "to": 618.03,
+      "sid": 306,
+      "location": 2,
+      "content": "今天的量化宽松跟当时高度相似",
+      "music": 0.0
+    },
+    {
+      "from": 620.58,
+      "to": 622.54,
+      "sid": 307,
+      "location": 2,
+      "content": "远超1930年代",
+      "music": 0.0
+    },
+    {
+      "from": 627.41,
+      "to": 630.7,
+      "sid": 308,
+      "location": 2,
+      "content": "推动了法西斯主义和极端民族主义的兴起",
+      "music": 0.0
+    },
+    {
+      "from": 630.7,
+      "to": 632.38,
+      "sid": 309,
+      "location": 2,
+      "content": "达利欧说了一句很有意思的话",
+      "music": 0.0
+    },
+    {
+      "from": 632.38,
+      "to": 634.3,
+      "sid": 310,
+      "location": 2,
+      "content": "他说不是人民变坏了",
+      "music": 0.0
+    },
+    {
+      "from": 634.3,
+      "to": 637.319,
+      "sid": 311,
+      "location": 2,
+      "content": "而是经济压力会让极端叙事更有吸引力",
+      "music": 0.0
+    },
+    {
+      "from": 637.319,
+      "to": 640.72,
+      "sid": 312,
+      "location": 2,
+      "content": "同样的机制今天在多个民主国家同步运行",
+      "music": 0.0
+    },
+    {
+      "from": 640.72,
+      "to": 643.34,
+      "sid": 313,
+      "location": 2,
+      "content": "第三崛起大国挑战现有秩序",
+      "music": 0.0
+    },
+    {
+      "from": 643.34,
+      "to": 646.47,
+      "sid": 314,
+      "location": 2,
+      "content": "二战前德国和日本挑战英美主导的秩序",
+      "music": 0.0
+    },
+    {
+      "from": 646.47,
+      "to": 648.41,
+      "sid": 315,
+      "location": 2,
+      "content": "今天中国崛起的速度和体量",
+      "music": 0.0
+    },
+    {
+      "from": 648.41,
+      "to": 650.33,
+      "sid": 316,
+      "location": 2,
+      "content": "超过历史上任何一次权力转移",
+      "music": 0.0
+    },
+    {
+      "from": 650.33,
+      "to": 652.19,
+      "sid": 317,
+      "location": 2,
+      "content": "第四技术跃迁期",
+      "music": 0.0
+    },
+    {
+      "from": 652.19,
+      "to": 654.39,
+      "sid": 318,
+      "location": 2,
+      "content": "1930年代是飞机",
+      "music": 0.0
+    },
+    {
+      "from": 654.39,
+      "to": 655.07,
+      "sid": 319,
+      "location": 2,
+      "content": "无线电",
+      "music": 0.0
+    },
+    {
+      "from": 655.07,
+      "to": 656.55,
+      "sid": 320,
+      "location": 2,
+      "content": "石油化工的爆发期",
+      "music": 0.0
+    },
+    {
+      "from": 656.55,
+      "to": 659.12,
+      "sid": 321,
+      "location": 2,
+      "content": "新技术同时创造了财富和武器",
+      "music": 0.0
+    },
+    {
+      "from": 659.12,
+      "to": 662.06,
+      "sid": 322,
+      "location": 2,
+      "content": "今天AI的角色跟当时高度相似",
+      "music": 0.0
+    },
+    {
+      "from": 662.06,
+      "to": 663.28,
+      "sid": 323,
+      "location": 2,
+      "content": "既是生产力革命",
+      "music": 0.0
+    },
+    {
+      "from": 665.339,
+      "to": 666.979,
+      "sid": 324,
+      "location": 2,
+      "content": "两个关键差异是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 666.979,
+      "to": 668.659,
+      "sid": 325,
+      "location": 2,
+      "content": "第一核威慑",
+      "music": 0.0
+    },
+    {
+      "from": 668.659,
+      "to": 671.039,
+      "sid": 326,
+      "location": 2,
+      "content": "1930年代没有核武器",
+      "music": 0.0
+    },
+    {
+      "from": 671.039,
+      "to": 672.93,
+      "sid": 327,
+      "location": 2,
+      "content": "大国可以发动全面战争",
+      "music": 0.0
+    },
+    {
+      "from": 672.93,
+      "to": 673.71,
+      "sid": 328,
+      "location": 2,
+      "content": "核威慑",
+      "music": 0.0
+    },
+    {
+      "from": 673.71,
+      "to": 675.83,
+      "sid": 329,
+      "location": 2,
+      "content": "降低了直接军事冲突的概率",
+      "music": 0.0
+    },
+    {
+      "from": 675.83,
+      "to": 677.61,
+      "sid": 330,
+      "location": 2,
+      "content": "但提高了代理人战争",
+      "music": 0.0
+    },
+    {
+      "from": 677.61,
+      "to": 678.41,
+      "sid": 331,
+      "location": 2,
+      "content": "经济战",
+      "music": 0.0
+    },
+    {
+      "from": 678.41,
+      "to": 679.64,
+      "sid": 332,
+      "location": 2,
+      "content": "技术战的烈度",
+      "music": 0.0
+    },
+    {
+      "from": 679.64,
+      "to": 683.22,
+      "sid": 333,
+      "location": 2,
+      "content": "这些低烈度冲突对投资和人生规划的影响",
+      "music": 0.0
+    },
+    {
+      "from": 683.22,
+      "to": 684.66,
+      "sid": 334,
+      "location": 2,
+      "content": "一点都不比热战小",
+      "music": 0.0
+    },
+    {
+      "from": 684.66,
+      "to": 686.38,
+      "sid": 335,
+      "location": 2,
+      "content": "第二信息透明度",
+      "music": 0.0
+    },
+    {
+      "from": 686.38,
+      "to": 689.5,
+      "sid": 336,
+      "location": 2,
+      "content": "1930年代危机传播以年为单位",
+      "music": 0.0
+    },
+    {
+      "from": 689.5,
+      "to": 692.75,
+      "sid": 337,
+      "location": 2,
+      "content": "今天任何金融动荡都在几个小时内传遍全球",
+      "music": 0.0
+    },
+    {
+      "from": 692.75,
+      "to": 693.59,
+      "sid": 338,
+      "location": 2,
+      "content": "速度加快",
+      "music": 0.0
+    },
+    {
+      "from": 693.59,
+      "to": 695.93,
+      "sid": 339,
+      "location": 2,
+      "content": "意味着全面战争升级的门槛更高",
+      "music": 0.0
+    },
+    {
+      "from": 695.93,
+      "to": 697.97,
+      "sid": 340,
+      "location": 2,
+      "content": "因为各方都能及时看到后果",
+      "music": 0.0
+    },
+    {
+      "from": 697.97,
+      "to": 699.9,
+      "sid": 341,
+      "location": 2,
+      "content": "但金融传染的速度也更快",
+      "music": 0.0
+    },
+    {
+      "from": 699.9,
+      "to": 700.98,
+      "sid": 342,
+      "location": 2,
+      "content": "回顾完历史",
+      "music": 0.0
+    },
+    {
+      "from": 700.98,
+      "to": 702.84,
+      "sid": 343,
+      "location": 2,
+      "content": "接下来咱们看AI革命的部分",
+      "music": 0.0
+    },
+    {
+      "from": 702.84,
+      "to": 704.46,
+      "sid": 344,
+      "location": 2,
+      "content": "我认为这是整场演讲里",
+      "music": 0.0
+    },
+    {
+      "from": 704.46,
+      "to": 706.589,
+      "sid": 345,
+      "location": 2,
+      "content": "对在座学生最有冲击力的内容",
+      "music": 0.0
+    },
+    {
+      "from": 706.589,
+      "to": 708.229,
+      "sid": 346,
+      "location": 2,
+      "content": "达利欧的起点很有意思",
+      "music": 0.0
+    },
+    {
+      "from": 708.229,
+      "to": 710.109,
+      "sid": 347,
+      "location": 2,
+      "content": "他没有讨论哪个模型更强",
+      "music": 0.0
+    },
+    {
+      "from": 710.109,
+      "to": 711.569,
+      "sid": 348,
+      "location": 2,
+      "content": "或者谁先做出AGI",
+      "music": 0.0
+    },
+    {
+      "from": 711.569,
+      "to": 713.949,
+      "sid": 349,
+      "location": 2,
+      "content": "他是从政治经济学的角度来比较",
+      "music": 0.0
+    },
+    {
+      "from": 713.949,
+      "to": 715.55,
+      "sid": 350,
+      "location": 2,
+      "content": "中美的两条AI路线",
+      "music": 0.0
+    },
+    {
+      "from": 715.55,
+      "to": 718.77,
+      "sid": 351,
+      "location": 2,
+      "content": "中国走的是普惠导向产业落地的路",
+      "music": 0.0
+    },
+    {
+      "from": 718.77,
+      "to": 720.47,
+      "sid": 352,
+      "location": 2,
+      "content": "关键词是低成本",
+      "music": 0.0
+    },
+    {
+      "from": 720.47,
+      "to": 722.319,
+      "sid": 353,
+      "location": 2,
+      "content": "开源和国产替代",
+      "music": 0.0
+    },
+    {
+      "from": 722.319,
+      "to": 724.079,
+      "sid": 354,
+      "location": 2,
+      "content": "AI被嵌入制造",
+      "music": 0.0
+    },
+    {
+      "from": 724.079,
+      "to": 725.299,
+      "sid": 355,
+      "location": 2,
+      "content": "农业医疗",
+      "music": 0.0
+    },
+    {
+      "from": 728.03,
+      "to": 731.01,
+      "sid": 356,
+      "location": 2,
+      "content": "工业体系加上数据量加上执行力",
+      "music": 0.0
+    },
+    {
+      "from": 731.01,
+      "to": 733.15,
+      "sid": 357,
+      "location": 2,
+      "content": "劣势是高端芯片受限",
+      "music": 0.0
+    },
+    {
+      "from": 733.15,
+      "to": 734.81,
+      "sid": 358,
+      "location": 2,
+      "content": "基础研究积累偏弱",
+      "music": 0.0
+    },
+    {
+      "from": 734.81,
+      "to": 736.99,
+      "sid": 359,
+      "location": 2,
+      "content": "美国走的是资本驱动",
+      "music": 0.0
+    },
+    {
+      "from": 736.99,
+      "to": 738.21,
+      "sid": 360,
+      "location": 2,
+      "content": "垄断优先的路",
+      "music": 0.0
+    },
+    {
+      "from": 738.21,
+      "to": 743.1,
+      "sid": 361,
+      "location": 2,
+      "content": "关键词是高毛利和闭源生态锁定AI聚焦在C端",
+      "music": 0.0
+    },
+    {
+      "from": 743.1,
+      "to": 746.56,
+      "sid": 362,
+      "location": 2,
+      "content": "软件和高附加值服务优势是顶级算法",
+      "music": 0.0
+    },
+    {
+      "from": 746.56,
+      "to": 748.55,
+      "sid": 363,
+      "location": 2,
+      "content": "人才和算力基础设施",
+      "music": 0.0
+    },
+    {
+      "from": 750.53,
+      "to": 751.65,
+      "sid": 364,
+      "location": 2,
+      "content": "政治内耗大",
+      "music": 0.0
+    },
+    {
+      "from": 751.65,
+      "to": 754.61,
+      "sid": 365,
+      "location": 2,
+      "content": "但最重要的不是这两条路哪个更好",
+      "music": 0.0
+    },
+    {
+      "from": 754.61,
+      "to": 755.62,
+      "sid": 366,
+      "location": 2,
+      "content": "达利欧说",
+      "music": 0.0
+    },
+    {
+      "from": 755.62,
+      "to": 756.84,
+      "sid": 367,
+      "location": 2,
+      "content": "不管走哪条路",
+      "music": 0.0
+    },
+    {
+      "from": 756.84,
+      "to": 759.54,
+      "sid": 368,
+      "location": 2,
+      "content": "AI革命最深层的政治风险是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 759.54,
+      "to": 761.62,
+      "sid": 369,
+      "location": 2,
+      "content": "少数掌握技术和资本的人",
+      "music": 0.0
+    },
+    {
+      "from": 761.62,
+      "to": 762.96,
+      "sid": 370,
+      "location": 2,
+      "content": "财富指数级增长",
+      "music": 0.0
+    },
+    {
+      "from": 762.96,
+      "to": 765.17,
+      "sid": 371,
+      "location": 2,
+      "content": "多数人线性甚至停滞",
+      "music": 0.0
+    },
+    {
+      "from": 765.17,
+      "to": 767.63,
+      "sid": 372,
+      "location": 2,
+      "content": "这是下一个10年最大的政治火药桶",
+      "music": 0.0
+    },
+    {
+      "from": 767.63,
+      "to": 769.92,
+      "sid": 373,
+      "location": 2,
+      "content": "他拿工业革命做了对比",
+      "music": 0.0
+    },
+    {
+      "from": 769.92,
+      "to": 773.5,
+      "sid": 374,
+      "location": 2,
+      "content": "工业革命前50年受益的主要是资本所有者",
+      "music": 0.0
+    },
+    {
+      "from": 773.5,
+      "to": 775.75,
+      "sid": 375,
+      "location": 2,
+      "content": "工人实际工资长期停滞",
+      "music": 0.0
+    },
+    {
+      "from": 775.75,
+      "to": 777.67,
+      "sid": 376,
+      "location": 2,
+      "content": "AI革命的时间尺度更短",
+      "music": 0.0
+    },
+    {
+      "from": 777.67,
+      "to": 779.29,
+      "sid": 377,
+      "location": 2,
+      "content": "分配问题同样严峻",
+      "music": 0.0
+    },
+    {
+      "from": 779.29,
+      "to": 783.26,
+      "sid": 378,
+      "location": 2,
+      "content": "关键是你得提前想清楚自己站在哪条分配链上",
+      "music": 0.0
+    },
+    {
+      "from": 783.26,
+      "to": 784.38,
+      "sid": 379,
+      "location": 2,
+      "content": "然后他讲了一句",
+      "music": 0.0
+    },
+    {
+      "from": 784.38,
+      "to": 786.26,
+      "sid": 380,
+      "location": 2,
+      "content": "后来被很多人引用的话淘汰",
+      "music": 0.0
+    },
+    {
+      "from": 786.26,
+      "to": 787.38,
+      "sid": 381,
+      "location": 2,
+      "content": "你的不是AI",
+      "music": 0.0
+    },
+    {
+      "from": 787.38,
+      "to": 788.6,
+      "sid": 382,
+      "location": 2,
+      "content": "是会用AI的人",
+      "music": 0.0
+    },
+    {
+      "from": 788.6,
+      "to": 790.2,
+      "sid": 383,
+      "location": 2,
+      "content": "这句话很多人理解浅了",
+      "music": 0.0
+    },
+    {
+      "from": 790.2,
+      "to": 792.12,
+      "sid": 384,
+      "location": 2,
+      "content": "达利欧真正的意思要深得多",
+      "music": 0.0
+    },
+    {
+      "from": 792.12,
+      "to": 794.18,
+      "sid": 385,
+      "location": 2,
+      "content": "他说AI替代的是任务",
+      "music": 0.0
+    },
+    {
+      "from": 794.18,
+      "to": 797.61,
+      "sid": 386,
+      "location": 2,
+      "content": "不是判断会计核算这个任务会被替代",
+      "music": 0.0
+    },
+    {
+      "from": 797.61,
+      "to": 799.85,
+      "sid": 387,
+      "location": 2,
+      "content": "但财务结构的设计不会被替代",
+      "music": 0.0
+    },
+    {
+      "from": 799.85,
+      "to": 801.53,
+      "sid": 388,
+      "location": 2,
+      "content": "代码调试会被替代",
+      "music": 0.0
+    },
+    {
+      "from": 801.53,
+      "to": 803.51,
+      "sid": 389,
+      "location": 2,
+      "content": "但系统架构的决策不会",
+      "music": 0.0
+    },
+    {
+      "from": 803.51,
+      "to": 805.05,
+      "sid": 390,
+      "location": 2,
+      "content": "市场调研会被替代",
+      "music": 0.0
+    },
+    {
+      "from": 805.05,
+      "to": 808.55,
+      "sid": 391,
+      "location": 2,
+      "content": "但竞争格局的判断不会还有更深的一层",
+      "music": 0.0
+    },
+    {
+      "from": 808.55,
+      "to": 810.15,
+      "sid": 392,
+      "location": 2,
+      "content": "我们怎么学会做判断的",
+      "music": 0.0
+    },
+    {
+      "from": 810.15,
+      "to": 812.21,
+      "sid": 393,
+      "location": 2,
+      "content": "是通过做那些基础任务",
+      "music": 0.0
+    },
+    {
+      "from": 812.21,
+      "to": 814.25,
+      "sid": 394,
+      "location": 2,
+      "content": "你在助理位置上坐了3年账",
+      "music": 0.0
+    },
+    {
+      "from": 814.25,
+      "to": 816.67,
+      "sid": 395,
+      "location": 2,
+      "content": "才开始理解一家公司的财务结构",
+      "music": 0.0
+    },
+    {
+      "from": 816.67,
+      "to": 819.25,
+      "sid": 396,
+      "location": 2,
+      "content": "你写了一年代码才开始有架构感",
+      "music": 0.0
+    },
+    {
+      "from": 819.25,
+      "to": 821.27,
+      "sid": 397,
+      "location": 2,
+      "content": "你做了一年市场调研的脏活",
+      "music": 0.0
+    },
+    {
+      "from": 821.27,
+      "to": 823.53,
+      "sid": 398,
+      "location": 2,
+      "content": "才开始看懂竞争格局",
+      "music": 0.0
+    },
+    {
+      "from": 823.53,
+      "to": 827.44,
+      "sid": 399,
+      "location": 2,
+      "content": "问题是现在AI正在把这个训练窗口压短",
+      "music": 0.0
+    },
+    {
+      "from": 827.44,
+      "to": 831.3,
+      "sid": 400,
+      "location": 2,
+      "content": "过去需要3年助理经验才能接触到的角色判断",
+      "music": 0.0
+    },
+    {
+      "from": 831.3,
+      "to": 834.62,
+      "sid": 401,
+      "location": 2,
+      "content": "你现在可能只有12~18个月的时间去抓住",
+      "music": 0.0
+    },
+    {
+      "from": 834.62,
+      "to": 837.6,
+      "sid": 402,
+      "location": 2,
+      "content": "所以他对在座学生的建议非常直接",
+      "music": 0.0
+    },
+    {
+      "from": 837.6,
+      "to": 838.7,
+      "sid": 403,
+      "location": 2,
+      "content": "进入职场后",
+      "music": 0.0
+    },
+    {
+      "from": 838.7,
+      "to": 841.24,
+      "sid": 404,
+      "location": 2,
+      "content": "主动争取靠近判断层的位置",
+      "music": 0.0
+    },
+    {
+      "from": 841.24,
+      "to": 843.42,
+      "sid": 405,
+      "location": 2,
+      "content": "比以往任何时代都更紧迫",
+      "music": 0.0
+    },
+    {
+      "from": 843.42,
+      "to": 846.98,
+      "sid": 406,
+      "location": 2,
+      "content": "要知道用来训练判断力的时间已经不够用了",
+      "music": 0.0
+    },
+    {
+      "from": 846.98,
+      "to": 849.47,
+      "sid": 407,
+      "location": 2,
+      "content": "最后是他对投资的认知",
+      "music": 0.0
+    },
+    {
+      "from": 849.47,
+      "to": 853.52,
+      "sid": 408,
+      "location": 2,
+      "content": "他放出了一张他称为投资圣杯的曲线图",
+      "music": 0.0
+    },
+    {
+      "from": 853.52,
+      "to": 856.0,
+      "sid": 409,
+      "location": 2,
+      "content": "横轴是不相关收益流的数量",
+      "music": 0.0
+    },
+    {
+      "from": 856.0,
+      "to": 858.66,
+      "sid": 410,
+      "location": 2,
+      "content": "纵轴是投资组合的波动风险",
+      "music": 0.0
+    },
+    {
+      "from": 858.66,
+      "to": 859.92,
+      "sid": 411,
+      "location": 2,
+      "content": "核心规律是",
+      "music": 0.0
+    },
+    {
+      "from": 859.92,
+      "to": 863.14,
+      "sid": 412,
+      "location": 2,
+      "content": "从持有一个收益流增加到持有15~20个",
+      "music": 0.0
+    },
+    {
+      "from": 863.14,
+      "to": 864.38,
+      "sid": 413,
+      "location": 2,
+      "content": "低相关收益流",
+      "music": 0.0
+    },
+    {
+      "from": 864.38,
+      "to": 866.5,
+      "sid": 414,
+      "location": 2,
+      "content": "风险可以降低约80%",
+      "music": 0.0
+    },
+    {
+      "from": 866.5,
+      "to": 868.18,
+      "sid": 415,
+      "location": 2,
+      "content": "而预期收益几乎不变",
+      "music": 0.0
+    },
+    {
+      "from": 868.18,
+      "to": 871.12,
+      "sid": 416,
+      "location": 2,
+      "content": "这是他对分散化这个概念最精确的量化",
+      "music": 0.0
+    },
+    {
+      "from": 871.12,
+      "to": 871.9,
+      "sid": 417,
+      "location": 2,
+      "content": "降低风险",
+      "music": 0.0
+    },
+    {
+      "from": 871.9,
+      "to": 872.78,
+      "sid": 418,
+      "location": 2,
+      "content": "不降低回报",
+      "music": 0.0
+    },
+    {
+      "from": 872.78,
+      "to": 875.4,
+      "sid": 419,
+      "location": 2,
+      "content": "他说这是世界上唯一免费的午餐",
+      "music": 0.0
+    },
+    {
+      "from": 875.4,
+      "to": 876.9,
+      "sid": 420,
+      "location": 2,
+      "content": "这里有一个关键细节",
+      "music": 0.0
+    },
+    {
+      "from": 876.9,
+      "to": 878.06,
+      "sid": 421,
+      "location": 2,
+      "content": "什么叫不相关",
+      "music": 0.0
+    },
+    {
+      "from": 878.06,
+      "to": 879.78,
+      "sid": 422,
+      "location": 2,
+      "content": "你持有十只科技股",
+      "music": 0.0
+    },
+    {
+      "from": 879.78,
+      "to": 880.96,
+      "sid": 423,
+      "location": 2,
+      "content": "它们高度相关",
+      "music": 0.0
+    },
+    {
+      "from": 880.96,
+      "to": 881.84,
+      "sid": 424,
+      "location": 2,
+      "content": "这不是分散",
+      "music": 0.0
+    },
+    {
+      "from": 881.84,
+      "to": 883.04,
+      "sid": 425,
+      "location": 2,
+      "content": "是集中风险",
+      "music": 0.0
+    },
+    {
+      "from": 883.04,
+      "to": 885.12,
+      "sid": 426,
+      "location": 2,
+      "content": "真正的分散需要跨资产类别",
+      "music": 0.0
+    },
+    {
+      "from": 885.12,
+      "to": 888.82,
+      "sid": 427,
+      "location": 2,
+      "content": "股债黄金大宗商品都要有跨地域",
+      "music": 0.0
+    },
+    {
+      "from": 888.82,
+      "to": 891.88,
+      "sid": 428,
+      "location": 2,
+      "content": "本国和海外都要有跨时间周期",
+      "music": 0.0
+    },
+    {
+      "from": 891.88,
+      "to": 893.94,
+      "sid": 429,
+      "location": 2,
+      "content": "短期和长期策略都要有",
+      "music": 0.0
+    },
+    {
+      "from": 893.94,
+      "to": 895.04,
+      "sid": 430,
+      "location": 2,
+      "content": "基于这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 895.04,
+      "to": 898.5,
+      "sid": 431,
+      "location": 2,
+      "content": "达利欧给出了他推荐的组合叫全天候组合",
+      "music": 0.0
+    },
+    {
+      "from": 898.5,
+      "to": 899.62,
+      "sid": 432,
+      "location": 2,
+      "content": "配比是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 899.62,
+      "to": 901.16,
+      "sid": 433,
+      "location": 2,
+      "content": "长期国债40%",
+      "music": 0.0
+    },
+    {
+      "from": 901.16,
+      "to": 902.66,
+      "sid": 434,
+      "location": 2,
+      "content": "全球股票30%",
+      "music": 0.0
+    },
+    {
+      "from": 902.66,
+      "to": 904.12,
+      "sid": 435,
+      "location": 2,
+      "content": "中期国债15%",
+      "music": 0.0
+    },
+    {
+      "from": 904.12,
+      "to": 905.38,
+      "sid": 436,
+      "location": 2,
+      "content": "黄金7.5%",
+      "music": 0.0
+    },
+    {
+      "from": 905.38,
+      "to": 907.06,
+      "sid": 437,
+      "location": 2,
+      "content": "大宗商品7.5%",
+      "music": 0.0
+    },
+    {
+      "from": 907.06,
+      "to": 909.18,
+      "sid": 438,
+      "location": 2,
+      "content": "这个配比有几个反直觉的地方",
+      "music": 0.0
+    },
+    {
+      "from": 909.18,
+      "to": 911.39,
+      "sid": 439,
+      "location": 2,
+      "content": "第一股票只占30%",
+      "music": 0.0
+    },
+    {
+      "from": 911.39,
+      "to": 912.69,
+      "sid": 440,
+      "location": 2,
+      "content": "很多人会觉得太低",
+      "music": 0.0
+    },
+    {
+      "from": 912.69,
+      "to": 914.37,
+      "sid": 441,
+      "location": 2,
+      "content": "但大萧条式的场景下",
+      "music": 0.0
+    },
+    {
+      "from": 914.37,
+      "to": 916.49,
+      "sid": 442,
+      "location": 2,
+      "content": "股市可能跌70%到80",
+      "music": 0.0
+    },
+    {
+      "from": 916.49,
+      "to": 918.48,
+      "sid": 443,
+      "location": 2,
+      "content": "你就理解他为什么这么配了",
+      "music": 0.0
+    },
+    {
+      "from": 918.48,
+      "to": 921.1,
+      "sid": 444,
+      "location": 2,
+      "content": "第二黄金和大宗商品各7.5",
+      "music": 0.0
+    },
+    {
+      "from": 921.1,
+      "to": 921.9,
+      "sid": 445,
+      "location": 2,
+      "content": "看着很少",
+      "music": 0.0
+    },
+    {
+      "from": 921.9,
+      "to": 924.56,
+      "sid": 446,
+      "location": 2,
+      "content": "但远高于多数人实际持有的水平",
+      "music": 0.0
+    },
+    {
+      "from": 924.56,
+      "to": 926.38,
+      "sid": 447,
+      "location": 2,
+      "content": "正是这两个低相关资产",
+      "music": 0.0
+    },
+    {
+      "from": 926.38,
+      "to": 930.12,
+      "sid": 448,
+      "location": 2,
+      "content": "让全天候组合在1930年代和2000年",
+      "music": 0.0
+    },
+    {
+      "from": 930.12,
+      "to": 932.93,
+      "sid": 449,
+      "location": 2,
+      "content": "科技泡沫破裂时避免了毁灭性亏损",
+      "music": 0.0
+    },
+    {
+      "from": 932.93,
+      "to": 935.89,
+      "sid": 450,
+      "location": 2,
+      "content": "这个组合的目的不是在牛市里跑赢大盘",
+      "music": 0.0
+    },
+    {
+      "from": 935.89,
+      "to": 939.6,
+      "sid": 451,
+      "location": 2,
+      "content": "而是在任何宏观情景下都能保住大部分价值",
+      "music": 0.0
+    },
+    {
+      "from": 939.6,
+      "to": 941.8,
+      "sid": 452,
+      "location": 2,
+      "content": "接下来达利欧区分了贝塔和阿尔法",
+      "music": 0.0
+    },
+    {
+      "from": 941.8,
+      "to": 943.56,
+      "sid": 453,
+      "location": 2,
+      "content": "贝塔是市场平均回报",
+      "music": 0.0
+    },
+    {
+      "from": 943.56,
+      "to": 944.84,
+      "sid": 454,
+      "location": 2,
+      "content": "长期确定性高",
+      "music": 0.0
+    },
+    {
+      "from": 944.84,
+      "to": 945.54,
+      "sid": 455,
+      "location": 2,
+      "content": "成本低",
+      "music": 0.0
+    },
+    {
+      "from": 945.54,
+      "to": 946.56,
+      "sid": 456,
+      "location": 2,
+      "content": "操作容易",
+      "music": 0.0
+    },
+    {
+      "from": 946.56,
+      "to": 949.86,
+      "sid": 457,
+      "location": 2,
+      "content": "宽基指数黄金优质债券都是贝塔",
+      "music": 0.0
+    },
+    {
+      "from": 949.86,
+      "to": 951.4,
+      "sid": 458,
+      "location": 2,
+      "content": "阿尔法是超额回报",
+      "music": 0.0
+    },
+    {
+      "from": 951.4,
+      "to": 952.75,
+      "sid": 459,
+      "location": 2,
+      "content": "来自主动管理",
+      "music": 0.0
+    },
+    {
+      "from": 952.75,
+      "to": 954.87,
+      "sid": 460,
+      "location": 2,
+      "content": "需要独特信息和技能",
+      "music": 0.0
+    },
+    {
+      "from": 954.87,
+      "to": 955.47,
+      "sid": 461,
+      "location": 2,
+      "content": "成本高",
+      "music": 0.0
+    },
+    {
+      "from": 955.47,
+      "to": 956.8,
+      "sid": 462,
+      "location": 2,
+      "content": "可持续性差",
+      "music": 0.0
+    },
+    {
+      "from": 956.8,
+      "to": 960.68,
+      "sid": 463,
+      "location": 2,
+      "content": "他的观点是对于没有专业优势的个人投资者",
+      "music": 0.0
+    },
+    {
+      "from": 960.68,
+      "to": 963.38,
+      "sid": 464,
+      "location": 2,
+      "content": "守好贝塔比追阿尔法更理性",
+      "music": 0.0
+    },
+    {
+      "from": 963.38,
+      "to": 965.2,
+      "sid": 465,
+      "location": 2,
+      "content": "你以为自己在追阿尔法",
+      "music": 0.0
+    },
+    {
+      "from": 965.2,
+      "to": 968.06,
+      "sid": 466,
+      "location": 2,
+      "content": "其实多数人的结局是跑输市场",
+      "music": 0.0
+    },
+    {
+      "from": 968.06,
+      "to": 970.96,
+      "sid": 467,
+      "location": 2,
+      "content": "同时承受更大的焦虑和时间成本",
+      "music": 0.0
+    },
+    {
+      "from": 970.96,
+      "to": 974.4,
+      "sid": 468,
+      "location": 2,
+      "content": "然后达利欧给了六条非常精炼的投资原则",
+      "music": 0.0
+    },
+    {
+      "from": 974.4,
+      "to": 976.54,
+      "sid": 469,
+      "location": 2,
+      "content": "第一条手贝塔放阿尔法",
+      "music": 0.0
+    },
+    {
+      "from": 976.54,
+      "to": 977.54,
+      "sid": 470,
+      "location": 2,
+      "content": "贝塔是主食",
+      "music": 0.0
+    },
+    {
+      "from": 977.54,
+      "to": 978.75,
+      "sid": 471,
+      "location": 2,
+      "content": "阿尔法是甜点",
+      "music": 0.0
+    },
+    {
+      "from": 978.75,
+      "to": 982.1,
+      "sid": 472,
+      "location": 2,
+      "content": "第二条回撤红线定在总资本的1/3",
+      "music": 0.0
+    },
+    {
+      "from": 982.1,
+      "to": 984.66,
+      "sid": 473,
+      "location": 2,
+      "content": "单笔或者累计亏损不要超过这个数",
+      "music": 0.0
+    },
+    {
+      "from": 984.66,
+      "to": 987.62,
+      "sid": 474,
+      "location": 2,
+      "content": "机会随时有本金没了就真的没了",
+      "music": 0.0
+    },
+    {
+      "from": 987.62,
+      "to": 990.94,
+      "sid": 475,
+      "location": 2,
+      "content": "这条规则来自他1982年的亲身教训",
+      "music": 0.0
+    },
+    {
+      "from": 990.94,
+      "to": 993.98,
+      "sid": 476,
+      "location": 2,
+      "content": "那年他因为过于自信自己的宏观判断",
+      "music": 0.0
+    },
+    {
+      "from": 993.98,
+      "to": 994.9,
+      "sid": 477,
+      "location": 2,
+      "content": "压错了方向",
+      "music": 0.0
+    },
+    {
+      "from": 994.9,
+      "to": 995.92,
+      "sid": 478,
+      "location": 2,
+      "content": "几乎破产",
+      "music": 0.0
+    },
+    {
+      "from": 995.92,
+      "to": 996.74,
+      "sid": 479,
+      "location": 2,
+      "content": "第三条",
+      "music": 0.0
+    },
+    {
+      "from": 996.74,
+      "to": 999.04,
+      "sid": 480,
+      "location": 2,
+      "content": "黄金必须配置5%到15%",
+      "music": 0.0
+    },
+    {
+      "from": 999.04,
+      "to": 1000.64,
+      "sid": 481,
+      "location": 2,
+      "content": "黄金不是进攻性投资",
+      "music": 0.0
+    },
+    {
+      "from": 1000.64,
+      "to": 1001.9,
+      "sid": 482,
+      "location": 2,
+      "content": "是系统保险",
+      "music": 0.0
+    },
+    {
+      "from": 1001.9,
+      "to": 1004.24,
+      "sid": 483,
+      "location": 2,
+      "content": "在三种场景下印钞失控",
+      "music": 0.0
+    },
+    {
+      "from": 1004.24,
+      "to": 1005.93,
+      "sid": 484,
+      "location": 2,
+      "content": "地缘冲击通胀",
+      "music": 0.0
+    },
+    {
+      "from": 1005.93,
+      "to": 1007.93,
+      "sid": 485,
+      "location": 2,
+      "content": "因为供给冲击突然突破",
+      "music": 0.0
+    },
+    {
+      "from": 1007.93,
+      "to": 1011.31,
+      "sid": 486,
+      "location": 2,
+      "content": "黄金是其他资产同步暴跌时唯一能涨的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1011.31,
+      "to": 1012.33,
+      "sid": 487,
+      "location": 2,
+      "content": "第四条",
+      "music": 0.0
+    },
+    {
+      "from": 1012.33,
+      "to": 1014.67,
+      "sid": 488,
+      "location": 2,
+      "content": "现金是最差的长期资产",
+      "music": 0.0
+    },
+    {
+      "from": 1014.67,
+      "to": 1016.53,
+      "sid": 489,
+      "location": 2,
+      "content": "在超发货币的环境下",
+      "music": 0.0
+    },
+    {
+      "from": 1016.53,
+      "to": 1019.52,
+      "sid": 490,
+      "location": 2,
+      "content": "现金每年被通胀吃掉2%到五",
+      "music": 0.0
+    },
+    {
+      "from": 1019.52,
+      "to": 1021.34,
+      "sid": 491,
+      "location": 2,
+      "content": "你觉得你是在等机会",
+      "music": 0.0
+    },
+    {
+      "from": 1021.34,
+      "to": 1023.19,
+      "sid": 492,
+      "location": 2,
+      "content": "其实你是在缓慢失血",
+      "music": 0.0
+    },
+    {
+      "from": 1023.19,
+      "to": 1024.49,
+      "sid": 493,
+      "location": 2,
+      "content": "用他的原话说",
+      "music": 0.0
+    },
+    {
+      "from": 1024.49,
+      "to": 1027.39,
+      "sid": 494,
+      "location": 2,
+      "content": "持有大量现金是在用确定的损失",
+      "music": 0.0
+    },
+    {
+      "from": 1027.39,
+      "to": 1029.0,
+      "sid": 495,
+      "location": 2,
+      "content": "对冲不确定的风险",
+      "music": 0.0
+    },
+    {
+      "from": 1029.0,
+      "to": 1030.18,
+      "sid": 496,
+      "location": 2,
+      "content": "大多数情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1030.18,
+      "to": 1031.65,
+      "sid": 497,
+      "location": 2,
+      "content": "这笔账算不过来",
+      "music": 0.0
+    },
+    {
+      "from": 1031.65,
+      "to": 1032.51,
+      "sid": 498,
+      "location": 2,
+      "content": "第五条",
+      "music": 0.0
+    },
+    {
+      "from": 1032.51,
+      "to": 1035.49,
+      "sid": 499,
+      "location": 2,
+      "content": "人力资本也需要分散你的技能组合",
+      "music": 0.0
+    },
+    {
+      "from": 1035.49,
+      "to": 1036.55,
+      "sid": 500,
+      "location": 2,
+      "content": "是你最大的资产",
+      "music": 0.0
+    },
+    {
+      "from": 1036.55,
+      "to": 1038.07,
+      "sid": 501,
+      "location": 2,
+      "content": "同样需要低相关性",
+      "music": 0.0
+    },
+    {
+      "from": 1038.07,
+      "to": 1038.85,
+      "sid": 502,
+      "location": 2,
+      "content": "单一路径",
+      "music": 0.0
+    },
+    {
+      "from": 1038.85,
+      "to": 1039.63,
+      "sid": 503,
+      "location": 2,
+      "content": "纯学术",
+      "music": 0.0
+    },
+    {
+      "from": 1039.63,
+      "to": 1040.35,
+      "sid": 504,
+      "location": 2,
+      "content": "纯技术",
+      "music": 0.0
+    },
+    {
+      "from": 1040.35,
+      "to": 1041.23,
+      "sid": 505,
+      "location": 2,
+      "content": "纯金融",
+      "music": 0.0
+    },
+    {
+      "from": 1041.23,
+      "to": 1043.11,
+      "sid": 506,
+      "location": 2,
+      "content": "在动荡期风险极高",
+      "music": 0.0
+    },
+    {
+      "from": 1043.11,
+      "to": 1047.24,
+      "sid": 507,
+      "location": 2,
+      "content": "梯形结构跨体系的经验是人力资本的黄金仓位",
+      "music": 0.0
+    },
+    {
+      "from": 1047.24,
+      "to": 1049.38,
+      "sid": 508,
+      "location": 2,
+      "content": "第六条原则优先于聪明",
+      "music": 0.0
+    },
+    {
+      "from": 1049.38,
+      "to": 1050.46,
+      "sid": 509,
+      "location": 2,
+      "content": "有原则的人",
+      "music": 0.0
+    },
+    {
+      "from": 1050.46,
+      "to": 1053.32,
+      "sid": 510,
+      "location": 2,
+      "content": "清楚自己在什么情况下会做什么决定",
+      "music": 0.0
+    },
+    {
+      "from": 1053.32,
+      "to": 1055.04,
+      "sid": 511,
+      "location": 2,
+      "content": "在动荡时代能活过",
+      "music": 0.0
+    },
+    {
+      "from": 1055.04,
+      "to": 1056.36,
+      "sid": 512,
+      "location": 2,
+      "content": "没原则的聪明人",
+      "music": 0.0
+    },
+    {
+      "from": 1056.36,
+      "to": 1057.94,
+      "sid": 513,
+      "location": 2,
+      "content": "聪明是战术优势",
+      "music": 0.0
+    },
+    {
+      "from": 1057.94,
+      "to": 1059.6,
+      "sid": 514,
+      "location": 2,
+      "content": "原则是战略护城河",
+      "music": 0.0
+    },
+    {
+      "from": 1059.6,
+      "to": 1060.7,
+      "sid": 515,
+      "location": 2,
+      "content": "在周期底部",
+      "music": 0.0
+    },
+    {
+      "from": 1060.7,
+      "to": 1062.24,
+      "sid": 516,
+      "location": 2,
+      "content": "这个差距尤其明显",
+      "music": 0.0
+    },
+    {
+      "from": 1062.24,
+      "to": 1062.88,
+      "sid": 517,
+      "location": 2,
+      "content": "之后",
+      "music": 0.0
+    },
+    {
+      "from": 1062.88,
+      "to": 1066.38,
+      "sid": 518,
+      "location": 2,
+      "content": "达利欧专门用了一整节来谈他对中国的判断",
+      "music": 0.0
+    },
+    {
+      "from": 1066.38,
+      "to": 1067.94,
+      "sid": 519,
+      "location": 2,
+      "content": "他的态度很平衡",
+      "music": 0.0
+    },
+    {
+      "from": 1067.94,
+      "to": 1069.26,
+      "sid": 520,
+      "location": 2,
+      "content": "既不是简单看空",
+      "music": 0.0
+    },
+    {
+      "from": 1069.26,
+      "to": 1070.63,
+      "sid": 521,
+      "location": 2,
+      "content": "也不是盲目乐观",
+      "music": 0.0
+    },
+    {
+      "from": 1070.63,
+      "to": 1072.35,
+      "sid": 522,
+      "location": 2,
+      "content": "长期看好的理由有四个",
+      "music": 0.0
+    },
+    {
+      "from": 1072.35,
+      "to": 1073.25,
+      "sid": 523,
+      "location": 2,
+      "content": "高端制造",
+      "music": 0.0
+    },
+    {
+      "from": 1073.25,
+      "to": 1074.05,
+      "sid": 524,
+      "location": 2,
+      "content": "电动车",
+      "music": 0.0
+    },
+    {
+      "from": 1074.05,
+      "to": 1075.87,
+      "sid": 525,
+      "location": 2,
+      "content": "新能源芯片设计",
+      "music": 0.0
+    },
+    {
+      "from": 1078.01,
+      "to": 1079.83,
+      "sid": 526,
+      "location": 2,
+      "content": "全球最多的stem毕业生",
+      "music": 0.0
+    },
+    {
+      "from": 1079.83,
+      "to": 1082.79,
+      "sid": 527,
+      "location": 2,
+      "content": "形成的工程师红利以及完整产业链",
+      "music": 0.0
+    },
+    {
+      "from": 1082.79,
+      "to": 1085.57,
+      "sid": 528,
+      "location": 2,
+      "content": "他说这四个优势是真实存在的",
+      "music": 0.0
+    },
+    {
+      "from": 1085.57,
+      "to": 1086.47,
+      "sid": 529,
+      "location": 2,
+      "content": "可持续的",
+      "music": 0.0
+    },
+    {
+      "from": 1086.47,
+      "to": 1087.929,
+      "sid": 530,
+      "location": 2,
+      "content": "不是政策趋势",
+      "music": 0.0
+    },
+    {
+      "from": 1087.929,
+      "to": 1090.269,
+      "sid": 531,
+      "location": 2,
+      "content": "短期挑战他认为有三个",
+      "music": 0.0
+    },
+    {
+      "from": 1090.269,
+      "to": 1092.6,
+      "sid": 532,
+      "location": 2,
+      "content": "第一房地产去杠杆还没完成",
+      "music": 0.0
+    },
+    {
+      "from": 1092.6,
+      "to": 1094.8,
+      "sid": 533,
+      "location": 2,
+      "content": "房地产是中国家庭主要财富载体",
+      "music": 0.0
+    },
+    {
+      "from": 1094.8,
+      "to": 1096.98,
+      "sid": 534,
+      "location": 2,
+      "content": "和地方政府最重要的收入来源",
+      "music": 0.0
+    },
+    {
+      "from": 1096.98,
+      "to": 1100.2,
+      "sid": 535,
+      "location": 2,
+      "content": "去杠杆会持续压制消费和地方投资能力",
+      "music": 0.0
+    },
+    {
+      "from": 1100.2,
+      "to": 1102.389,
+      "sid": 536,
+      "location": 2,
+      "content": "时间可能比市场预期更长",
+      "music": 0.0
+    },
+    {
+      "from": 1104.469,
+      "to": 1105.869,
+      "sid": 537,
+      "location": 2,
+      "content": "劳动力成本上升",
+      "music": 0.0
+    },
+    {
+      "from": 1105.869,
+      "to": 1107.169,
+      "sid": 538,
+      "location": 2,
+      "content": "养老支出上涨",
+      "music": 0.0
+    },
+    {
+      "from": 1107.169,
+      "to": 1110.22,
+      "sid": 539,
+      "location": 2,
+      "content": "消费结构变化三条同时作用",
+      "music": 0.0
+    },
+    {
+      "from": 1110.22,
+      "to": 1113.06,
+      "sid": 540,
+      "location": 2,
+      "content": "第三中美地缘压力是结构性的",
+      "music": 0.0
+    },
+    {
+      "from": 1113.06,
+      "to": 1115.679,
+      "sid": 541,
+      "location": 2,
+      "content": "不是某一届政府的政策选择",
+      "music": 0.0
+    },
+    {
+      "from": 1115.679,
+      "to": 1117.939,
+      "sid": 542,
+      "location": 2,
+      "content": "科技脱钩和贸易摩擦会持续",
+      "music": 0.0
+    },
+    {
+      "from": 1117.939,
+      "to": 1118.739,
+      "sid": 543,
+      "location": 2,
+      "content": "但他认为",
+      "music": 0.0
+    },
+    {
+      "from": 1118.739,
+      "to": 1121.909,
+      "sid": 544,
+      "location": 2,
+      "content": "双方都有不让其升级为热战的强烈动机",
+      "music": 0.0
+    },
+    {
+      "from": 1121.909,
+      "to": 1123.709,
+      "sid": 545,
+      "location": 2,
+      "content": "对在座学生的个人建议",
+      "music": 0.0
+    },
+    {
+      "from": 1123.709,
+      "to": 1124.869,
+      "sid": 546,
+      "location": 2,
+      "content": "他说的很实在",
+      "music": 0.0
+    },
+    {
+      "from": 1124.869,
+      "to": 1127.249,
+      "sid": 547,
+      "location": 2,
+      "content": "你们刚毕业没有资本可以配置",
+      "music": 0.0
+    },
+    {
+      "from": 1127.249,
+      "to": 1128.45,
+      "sid": 548,
+      "location": 2,
+      "content": "但有人力资本",
+      "music": 0.0
+    },
+    {
+      "from": 1128.45,
+      "to": 1131.93,
+      "sid": 549,
+      "location": 2,
+      "content": "人力资本的多元配置比金融资产配置更重要",
+      "music": 0.0
+    },
+    {
+      "from": 1131.93,
+      "to": 1132.889,
+      "sid": 550,
+      "location": 2,
+      "content": "也更可行",
+      "music": 0.0
+    },
+    {
+      "from": 1132.889,
+      "to": 1134.529,
+      "sid": 551,
+      "location": 2,
+      "content": "他给了三个具体标准",
+      "music": 0.0
+    },
+    {
+      "from": 1134.529,
+      "to": 1136.569,
+      "sid": 552,
+      "location": 2,
+      "content": "能用英语做实质工作",
+      "music": 0.0
+    },
+    {
+      "from": 1136.569,
+      "to": 1137.79,
+      "sid": 553,
+      "location": 2,
+      "content": "而不只是考试",
+      "music": 0.0
+    },
+    {
+      "from": 1137.79,
+      "to": 1139.93,
+      "sid": 554,
+      "location": 2,
+      "content": "在国际团队里拿过真实成果",
+      "music": 0.0
+    },
+    {
+      "from": 1139.93,
+      "to": 1143.19,
+      "sid": 555,
+      "location": 2,
+      "content": "对两个以上市场的商业逻辑有第一手理解",
+      "music": 0.0
+    },
+    {
+      "from": 1143.19,
+      "to": 1146.469,
+      "sid": 556,
+      "location": 2,
+      "content": "这三样让你在秩序转换时期保有选择权",
+      "music": 0.0
+    },
+    {
+      "from": 1146.469,
+      "to": 1148.389,
+      "sid": 557,
+      "location": 2,
+      "content": "资本可以工作以后再配置",
+      "music": 0.0
+    },
+    {
+      "from": 1148.389,
+      "to": 1150.009,
+      "sid": 558,
+      "location": 2,
+      "content": "但选择权一旦关闭",
+      "music": 0.0
+    },
+    {
+      "from": 1150.009,
+      "to": 1151.78,
+      "sid": 559,
+      "location": 2,
+      "content": "很难用钱重新打开",
+      "music": 0.0
+    },
+    {
+      "from": 1151.78,
+      "to": 1154.44,
+      "sid": 560,
+      "location": 2,
+      "content": "尤其是当脱钩速度超过你预期的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1154.44,
+      "to": 1155.72,
+      "sid": 561,
+      "location": 2,
+      "content": "最后的问答环节",
+      "music": 0.0
+    },
+    {
+      "from": 1155.72,
+      "to": 1158.469,
+      "sid": 562,
+      "location": 2,
+      "content": "我挑几个跟咱们关系最密切的来说",
+      "music": 0.0
+    },
+    {
+      "from": 1158.469,
+      "to": 1160.749,
+      "sid": 563,
+      "location": 2,
+      "content": "有人问中美博弈最可能的结局",
+      "music": 0.0
+    },
+    {
+      "from": 1160.749,
+      "to": 1161.589,
+      "sid": 564,
+      "location": 2,
+      "content": "达利欧说",
+      "music": 0.0
+    },
+    {
+      "from": 1161.589,
+      "to": 1163.449,
+      "sid": 565,
+      "location": 2,
+      "content": "热战概率低于很多人想象",
+      "music": 0.0
+    },
+    {
+      "from": 1163.449,
+      "to": 1166.449,
+      "sid": 566,
+      "location": 2,
+      "content": "但不是零核武器改变了全面战争的成本",
+      "music": 0.0
+    },
+    {
+      "from": 1166.449,
+      "to": 1167.9,
+      "sid": 567,
+      "location": 2,
+      "content": "双方都输不起",
+      "music": 0.0
+    },
+    {
+      "from": 1167.9,
+      "to": 1169.82,
+      "sid": 568,
+      "location": 2,
+      "content": "更可能的是持续的冷战",
+      "music": 0.0
+    },
+    {
+      "from": 1169.82,
+      "to": 1173.23,
+      "sid": 569,
+      "location": 2,
+      "content": "2.0科技脱钩经济压制代理人博弈",
+      "music": 0.0
+    },
+    {
+      "from": 1173.23,
+      "to": 1174.31,
+      "sid": 570,
+      "location": 2,
+      "content": "在关键节点",
+      "music": 0.0
+    },
+    {
+      "from": 1174.31,
+      "to": 1177.23,
+      "sid": 571,
+      "location": 2,
+      "content": "比如台海供应链会有高强度紧张",
+      "music": 0.0
+    },
+    {
+      "from": 1177.23,
+      "to": 1180.19,
+      "sid": 572,
+      "location": 2,
+      "content": "但大概率不会升级到直接军事冲突",
+      "music": 0.0
+    },
+    {
+      "from": 1180.19,
+      "to": 1184.13,
+      "sid": 573,
+      "location": 2,
+      "content": "他说最危险的时间窗口是未来五到10年之后",
+      "music": 0.0
+    },
+    {
+      "from": 1184.13,
+      "to": 1185.41,
+      "sid": 574,
+      "location": 2,
+      "content": "力量对比更清晰",
+      "music": 0.0
+    },
+    {
+      "from": 1185.41,
+      "to": 1186.55,
+      "sid": 575,
+      "location": 2,
+      "content": "反而更稳定",
+      "music": 0.0
+    },
+    {
+      "from": 1186.55,
+      "to": 1188.71,
+      "sid": 576,
+      "location": 2,
+      "content": "有人问AI会消灭什么工作",
+      "music": 0.0
+    },
+    {
+      "from": 1188.71,
+      "to": 1189.07,
+      "sid": 577,
+      "location": 2,
+      "content": "他说",
+      "music": 0.0
+    },
+    {
+      "from": 1189.07,
+      "to": 1191.97,
+      "sid": 578,
+      "location": 2,
+      "content": "凡是可以用清晰规则描述的工作都会被替代",
+      "music": 0.0
+    },
+    {
+      "from": 1191.97,
+      "to": 1195.209,
+      "sid": 579,
+      "location": 2,
+      "content": "包括大量白领脑力劳动能幸存的三类",
+      "music": 0.0
+    },
+    {
+      "from": 1195.209,
+      "to": 1196.909,
+      "sid": 580,
+      "location": 2,
+      "content": "需要处理边界外问题的",
+      "music": 0.0
+    },
+    {
+      "from": 1196.909,
+      "to": 1198.189,
+      "sid": 581,
+      "location": 2,
+      "content": "需要人际信任的",
+      "music": 0.0
+    },
+    {
+      "from": 1198.189,
+      "to": 1199.74,
+      "sid": 582,
+      "location": 2,
+      "content": "需要物理世界操作的",
+      "music": 0.0
+    },
+    {
+      "from": 1199.74,
+      "to": 1201.6,
+      "sid": 583,
+      "location": 2,
+      "content": "有人问普通投资者现在买什么",
+      "music": 0.0
+    },
+    {
+      "from": 1201.6,
+      "to": 1202.74,
+      "sid": 584,
+      "location": 2,
+      "content": "他给了三条原则",
+      "music": 0.0
+    },
+    {
+      "from": 1202.74,
+      "to": 1204.56,
+      "sid": 585,
+      "location": 2,
+      "content": "第一不要持有太多现金",
+      "music": 0.0
+    },
+    {
+      "from": 1204.56,
+      "to": 1205.889,
+      "sid": 586,
+      "location": 2,
+      "content": "通胀是确定的",
+      "music": 0.0
+    },
+    {
+      "from": 1205.889,
+      "to": 1207.909,
+      "sid": 587,
+      "location": 2,
+      "content": "第二买你看得懂的东西",
+      "music": 0.0
+    },
+    {
+      "from": 1207.909,
+      "to": 1209.169,
+      "sid": 588,
+      "location": 2,
+      "content": "行情不好的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1209.169,
+      "to": 1212.749,
+      "sid": 589,
+      "location": 2,
+      "content": "你一定会在最差的时机卖掉你不理解的资产",
+      "music": 0.0
+    },
+    {
+      "from": 1212.749,
+      "to": 1215.04,
+      "sid": 590,
+      "location": 2,
+      "content": "第三分散才是杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 1215.04,
+      "to": 1217.2,
+      "sid": 591,
+      "location": 2,
+      "content": "真正的分散不降低预期回报",
+      "music": 0.0
+    },
+    {
+      "from": 1217.2,
+      "to": 1219.01,
+      "sid": 592,
+      "location": 2,
+      "content": "但是大幅降低风险",
+      "music": 0.0
+    },
+    {
+      "from": 1219.01,
+      "to": 1220.33,
+      "sid": 593,
+      "location": 2,
+      "content": "好了到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 1220.33,
+      "to": 1222.83,
+      "sid": 594,
+      "location": 2,
+      "content": "达利欧这门课的核心内容就回顾完了",
+      "music": 0.0
+    },
+    {
+      "from": 1222.83,
+      "to": 1224.77,
+      "sid": 595,
+      "location": 2,
+      "content": "最后我说几句我的个人见解",
+      "music": 0.0
+    },
+    {
+      "from": 1224.77,
+      "to": 1226.91,
+      "sid": 596,
+      "location": 2,
+      "content": "首先我认为中国不是帝国",
+      "music": 0.0
+    },
+    {
+      "from": 1226.91,
+      "to": 1229.38,
+      "sid": 597,
+      "location": 2,
+      "content": "更没有走传统帝国崛起的老路",
+      "music": 0.0
+    },
+    {
+      "from": 1229.38,
+      "to": 1232.68,
+      "sid": 598,
+      "location": 2,
+      "content": "不能用西方500年帝国兴衰的旧框架",
+      "music": 0.0
+    },
+    {
+      "from": 1232.68,
+      "to": 1235.199,
+      "sid": 599,
+      "location": 2,
+      "content": "完全套用评判我们的发展路径",
+      "music": 0.0
+    },
+    {
+      "from": 1235.199,
+      "to": 1236.639,
+      "sid": 600,
+      "location": 2,
+      "content": "达利欧的周期规律",
+      "music": 0.0
+    },
+    {
+      "from": 1236.639,
+      "to": 1240.21,
+      "sid": 601,
+      "location": 2,
+      "content": "债务逻辑和秩序更迭的底层逻辑值得我们借鉴",
+      "music": 0.0
+    },
+    {
+      "from": 1240.21,
+      "to": 1243.45,
+      "sid": 602,
+      "location": 2,
+      "content": "但中国的崛起依托的是完整的产业体系",
+      "music": 0.0
+    },
+    {
+      "from": 1243.45,
+      "to": 1246.889,
+      "sid": 603,
+      "location": 2,
+      "content": "普惠的技术落地模式和稳定的内生发展动力",
+      "music": 0.0
+    },
+    {
+      "from": 1246.889,
+      "to": 1248.089,
+      "sid": 604,
+      "location": 2,
+      "content": "没有殖民扩张",
+      "music": 0.0
+    },
+    {
+      "from": 1248.089,
+      "to": 1249.389,
+      "sid": 605,
+      "location": 2,
+      "content": "没有霸权掠夺",
+      "music": 0.0
+    },
+    {
+      "from": 1249.389,
+      "to": 1252.43,
+      "sid": 606,
+      "location": 2,
+      "content": "走的是完全不同的现代化道路",
+      "music": 0.0
+    },
+    {
+      "from": 1252.43,
+      "to": 1255.65,
+      "sid": 607,
+      "location": 2,
+      "content": "所以我们不用陷入西方周期兴衰的宿命论",
+      "music": 0.0
+    },
+    {
+      "from": 1255.65,
+      "to": 1258.09,
+      "sid": 608,
+      "location": 2,
+      "content": "既要正视全球债务地缘博弈",
+      "music": 0.0
+    },
+    {
+      "from": 1258.09,
+      "to": 1259.69,
+      "sid": 609,
+      "location": 2,
+      "content": "技术变革的所有风险",
+      "music": 0.0
+    },
+    {
+      "from": 1259.69,
+      "to": 1263.43,
+      "sid": 610,
+      "location": 2,
+      "content": "也要看清我们自身独有的发展底气和战略定力",
+      "music": 0.0
+    },
+    {
+      "from": 1263.43,
+      "to": 1264.59,
+      "sid": 611,
+      "location": 2,
+      "content": "其次我认为",
+      "music": 0.0
+    },
+    {
+      "from": 1268.29,
+      "to": 1270.41,
+      "sid": 612,
+      "location": 2,
+      "content": "达里欧比下500年一遇的风险",
+      "music": 0.0
+    },
+    {
+      "from": 1270.41,
+      "to": 1272.31,
+      "sid": 613,
+      "location": 2,
+      "content": "共振新旧秩序的交替",
+      "music": 0.0
+    },
+    {
+      "from": 1272.31,
+      "to": 1274.23,
+      "sid": 614,
+      "location": 2,
+      "content": "AI技术的颠覆性变革",
+      "music": 0.0
+    },
+    {
+      "from": 1274.23,
+      "to": 1277.55,
+      "sid": 615,
+      "location": 2,
+      "content": "其实就是这场大变局最直观的缩影",
+      "music": 0.0
+    },
+    {
+      "from": 1277.55,
+      "to": 1278.89,
+      "sid": 616,
+      "location": 2,
+      "content": "旧的经济秩序",
+      "music": 0.0
+    },
+    {
+      "from": 1278.89,
+      "to": 1279.83,
+      "sid": 617,
+      "location": 2,
+      "content": "财富逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1279.83,
+      "to": 1281.8,
+      "sid": 618,
+      "location": 2,
+      "content": "职业体系正在被打破",
+      "music": 0.0
+    },
+    {
+      "from": 1281.8,
+      "to": 1283.46,
+      "sid": 619,
+      "location": 2,
+      "content": "固定的规则不再永恒",
+      "music": 0.0
+    },
+    {
+      "from": 1283.46,
+      "to": 1284.38,
+      "sid": 620,
+      "location": 2,
+      "content": "稳定的常态",
+      "music": 0.0
+    },
+    {
+      "from": 1284.38,
+      "to": 1285.6,
+      "sid": 621,
+      "location": 2,
+      "content": "彻底成为过去",
+      "music": 0.0
+    },
+    {
+      "from": 1285.6,
+      "to": 1287.35,
+      "sid": 622,
+      "location": 2,
+      "content": "危机与重构并存",
+      "music": 0.0
+    },
+    {
+      "from": 1287.35,
+      "to": 1289.09,
+      "sid": 623,
+      "location": 2,
+      "content": "颠覆与机遇共生",
+      "music": 0.0
+    },
+    {
+      "from": 1289.09,
+      "to": 1290.01,
+      "sid": 624,
+      "location": 2,
+      "content": "所有行业",
+      "music": 0.0
+    },
+    {
+      "from": 1293.85,
+      "to": 1294.94,
+      "sid": 625,
+      "location": 2,
+      "content": "重新定价",
+      "music": 0.0
+    },
+    {
+      "from": 1294.94,
+      "to": 1296.34,
+      "sid": 626,
+      "location": 2,
+      "content": "再次我认为",
+      "music": 0.0
+    },
+    {
+      "from": 1296.34,
+      "to": 1297.84,
+      "sid": 627,
+      "location": 2,
+      "content": "在当今巨变的时代下",
+      "music": 0.0
+    },
+    {
+      "from": 1297.84,
+      "to": 1300.59,
+      "sid": 628,
+      "location": 2,
+      "content": "对咱们普通人既是挑战也是机会",
+      "music": 0.0
+    },
+    {
+      "from": 1300.59,
+      "to": 1302.53,
+      "sid": 629,
+      "location": 2,
+      "content": "我们应当跳出短期焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 1302.53,
+      "to": 1303.73,
+      "sid": 630,
+      "location": 2,
+      "content": "摒弃固化思维",
+      "music": 0.0
+    },
+    {
+      "from": 1303.73,
+      "to": 1304.97,
+      "sid": 631,
+      "location": 2,
+      "content": "主动适配周期",
+      "music": 0.0
+    },
+    {
+      "from": 1304.97,
+      "to": 1307.27,
+      "sid": 632,
+      "location": 2,
+      "content": "重塑自己的生存与成长逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1307.27,
+      "to": 1309.47,
+      "sid": 633,
+      "location": 2,
+      "content": "面对AI替代行业波动",
+      "music": 0.0
+    },
+    {
+      "from": 1309.47,
+      "to": 1310.69,
+      "sid": 634,
+      "location": 2,
+      "content": "资产波动的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 1310.69,
+      "to": 1313.69,
+      "sid": 635,
+      "location": 2,
+      "content": "不再追求一成不变的稳定工作和躺平的人生",
+      "music": 0.0
+    },
+    {
+      "from": 1313.69,
+      "to": 1314.89,
+      "sid": 636,
+      "location": 2,
+      "content": "坚持终身学习",
+      "music": 0.0
+    },
+    {
+      "from": 1314.89,
+      "to": 1316.19,
+      "sid": 637,
+      "location": 2,
+      "content": "主动掌握AI工具",
+      "music": 0.0
+    },
+    {
+      "from": 1316.19,
+      "to": 1317.38,
+      "sid": 638,
+      "location": 2,
+      "content": "为自己赋能",
+      "music": 0.0
+    },
+    {
+      "from": 1317.38,
+      "to": 1319.42,
+      "sid": 639,
+      "location": 2,
+      "content": "从重复的基础任务中抽身",
+      "music": 0.0
+    },
+    {
+      "from": 1319.42,
+      "to": 1321.34,
+      "sid": 640,
+      "location": 2,
+      "content": "刻意锻炼决策判断",
+      "music": 0.0
+    },
+    {
+      "from": 1321.34,
+      "to": 1324.07,
+      "sid": 641,
+      "location": 2,
+      "content": "资源整合这类不可替代的核心能力",
+      "music": 0.0
+    },
+    {
+      "from": 1324.07,
+      "to": 1325.59,
+      "sid": 642,
+      "location": 2,
+      "content": "同时做好个人人力",
+      "music": 0.0
+    },
+    {
+      "from": 1325.59,
+      "to": 1328.49,
+      "sid": 643,
+      "location": 2,
+      "content": "资本和小额资产的双重分散配置",
+      "music": 0.0
+    },
+    {
+      "from": 1328.49,
+      "to": 1330.91,
+      "sid": 644,
+      "location": 2,
+      "content": "不把人生赌注压在单一技能",
+      "music": 0.0
+    },
+    {
+      "from": 1330.91,
+      "to": 1331.75,
+      "sid": 645,
+      "location": 2,
+      "content": "单一行业",
+      "music": 0.0
+    },
+    {
+      "from": 1331.75,
+      "to": 1332.81,
+      "sid": 646,
+      "location": 2,
+      "content": "单一资产上",
+      "music": 0.0
+    },
+    {
+      "from": 1332.81,
+      "to": 1334.59,
+      "sid": 647,
+      "location": 2,
+      "content": "保持长期主义的心态",
+      "music": 0.0
+    },
+    {
+      "from": 1334.59,
+      "to": 1335.41,
+      "sid": 648,
+      "location": 2,
+      "content": "看懂大势",
+      "music": 0.0
+    },
+    {
+      "from": 1335.41,
+      "to": 1336.27,
+      "sid": 649,
+      "location": 2,
+      "content": "稳住本心",
+      "music": 0.0
+    },
+    {
+      "from": 1336.27,
+      "to": 1337.75,
+      "sid": 650,
+      "location": 2,
+      "content": "在风险中规避陷阱",
+      "music": 0.0
+    },
+    {
+      "from": 1337.75,
+      "to": 1339.26,
+      "sid": 651,
+      "location": 2,
+      "content": "在变革中捕捉机遇",
+      "music": 0.0
+    },
+    {
+      "from": 1339.26,
+      "to": 1342.32,
+      "sid": 652,
+      "location": 2,
+      "content": "把时代的波动变成自己稳步成长的底气",
+      "music": 0.0
+    },
+    {
+      "from": 1342.32,
+      "to": 1344.98,
+      "sid": 653,
+      "location": 2,
+      "content": "最后我们应该学习的不是达留欧",
+      "music": 0.0
+    },
+    {
+      "from": 1344.98,
+      "to": 1347.35,
+      "sid": 654,
+      "location": 2,
+      "content": "具体的投资策略或操盘技巧",
+      "music": 0.0
+    },
+    {
+      "from": 1347.35,
+      "to": 1350.77,
+      "sid": 655,
+      "location": 2,
+      "content": "也不是他给出的这些对经济更迭的具体答案",
+      "music": 0.0
+    },
+    {
+      "from": 1350.77,
+      "to": 1353.51,
+      "sid": 656,
+      "location": 2,
+      "content": "而是他认知世界的思路和框架",
+      "music": 0.0
+    },
+    {
+      "from": 1353.51,
+      "to": 1356.51,
+      "sid": 657,
+      "location": 2,
+      "content": "AI时代知识是泛滥且廉价的",
+      "music": 0.0
+    },
+    {
+      "from": 1356.51,
+      "to": 1359.929,
+      "sid": 658,
+      "location": 2,
+      "content": "真正将人与人区别开来的是人们不同的认知",
+      "music": 0.0
+    },
+    {
+      "from": 1359.929,
+      "to": 1362.589,
+      "sid": 659,
+      "location": 2,
+      "content": "认知的高低层次决定了人生高度",
+      "music": 0.0
+    },
+    {
+      "from": 1362.589,
+      "to": 1364.9,
+      "sid": 660,
+      "location": 2,
+      "content": "我们应努力提升认知水平",
+      "music": 0.0
+    },
+    {
+      "from": 1364.9,
+      "to": 1367.22,
+      "sid": 661,
+      "location": 2,
+      "content": "从而成就更绚烂的人生",
+      "music": 0.0
+    },
+    {
+      "from": 1367.22,
+      "to": 1367.82,
+      "sid": 662,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 1367.82,
+      "to": 1369.3,
+      "sid": 663,
+      "location": 2,
+      "content": "这就是今天的内容",
+      "music": 0.0
+    },
+    {
+      "from": 1369.3,
+      "to": 1371.44,
+      "sid": 664,
+      "location": 2,
+      "content": "如果大家对里面的某个话题",
+      "music": 0.0
+    },
+    {
+      "from": 1371.44,
+      "to": 1374.92,
+      "sid": 665,
+      "location": 2,
+      "content": "比如AI对职业的冲击或者全天候组合",
+      "music": 0.0
+    },
+    {
+      "from": 1374.92,
+      "to": 1375.84,
+      "sid": 666,
+      "location": 2,
+      "content": "具体怎么配",
+      "music": 0.0
+    },
+    {
+      "from": 1375.84,
+      "to": 1377.34,
+      "sid": 667,
+      "location": 2,
+      "content": "有感触或者有疑问",
+      "music": 0.0
+    },
+    {
+      "from": 1377.34,
+      "to": 1378.72,
+      "sid": 668,
+      "location": 2,
+      "content": "欢迎在评论区留言",
+      "music": 0.0
+    },
+    {
+      "from": 1378.72,
+      "to": 1379.7,
+      "sid": 669,
+      "location": 2,
+      "content": "咱们一起聊",
+      "music": 0.0
+    },
+    {
+      "from": 1379.7,
+      "to": 1380.68,
+      "sid": 670,
+      "location": 2,
+      "content": "我是姚川",
+      "music": 0.0
+    },
+    {
+      "from": 1380.68,
+      "to": 1382.42,
+      "sid": 671,
+      "location": 2,
+      "content": "咱们下期再见",
+      "music": 0.0
+    }
+  ]
+}

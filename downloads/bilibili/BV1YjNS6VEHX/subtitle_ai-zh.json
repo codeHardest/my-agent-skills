@@ -1,0 +1,3292 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 0.48,
+      "sid": 1,
+      "location": 2,
+      "content": "呃hello",
+      "music": 0.0
+    },
+    {
+      "from": 0.48,
+      "to": 1.72,
+      "sid": 2,
+      "location": 2,
+      "content": "各位亲爱的小伙伴大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 2.56,
+      "sid": 3,
+      "location": 2,
+      "content": "我是食韭菜",
+      "music": 0.0
+    },
+    {
+      "from": 2.56,
+      "to": 5.09,
+      "sid": 4,
+      "location": 2,
+      "content": "然后啊上周日的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 5.09,
+      "to": 6.95,
+      "sid": 5,
+      "location": 2,
+      "content": "周上周六跟周日比较忙嘛",
+      "music": 0.0
+    },
+    {
+      "from": 6.95,
+      "to": 8.43,
+      "sid": 6,
+      "location": 2,
+      "content": "所以就没有更新啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.43,
+      "to": 9.43,
+      "sid": 7,
+      "location": 2,
+      "content": "但是我们没有放弃啊",
+      "music": 0.0
+    },
+    {
+      "from": 9.43,
+      "to": 11.76,
+      "sid": 8,
+      "location": 2,
+      "content": "我们把时间推迟到啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.76,
+      "to": 13.74,
+      "sid": 9,
+      "location": 2,
+      "content": "周一的晚上11:30啊",
+      "music": 0.0
+    },
+    {
+      "from": 13.74,
+      "to": 16.22,
+      "sid": 10,
+      "location": 2,
+      "content": "下班之后还给大家整理了一下数据",
+      "music": 0.0
+    },
+    {
+      "from": 16.22,
+      "to": 18.18,
+      "sid": 11,
+      "location": 2,
+      "content": "来给大家补上呃",
+      "music": 0.0
+    },
+    {
+      "from": 18.18,
+      "to": 20.44,
+      "sid": 12,
+      "location": 2,
+      "content": "那本上周的一个经济数据的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 20.44,
+      "to": 22.13,
+      "sid": 13,
+      "location": 2,
+      "content": "其实就三个事情呃",
+      "music": 0.0
+    },
+    {
+      "from": 22.13,
+      "to": 24.83,
+      "sid": 14,
+      "location": 2,
+      "content": "其他杂七杂八的小边角料我就没有写上来",
+      "music": 0.0
+    },
+    {
+      "from": 24.83,
+      "to": 27.75,
+      "sid": 15,
+      "location": 2,
+      "content": "第一个事情的话呢是消费者物价的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 27.75,
+      "to": 31.15,
+      "sid": 16,
+      "location": 2,
+      "content": "目前的通胀我认为是有点低预期的啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.15,
+      "to": 34.43,
+      "sid": 17,
+      "location": 2,
+      "content": "因为大家知道现在的话呢油价上涨",
+      "music": 0.0
+    },
+    {
+      "from": 34.43,
+      "to": 37.6,
+      "sid": 18,
+      "location": 2,
+      "content": "或那个霍尔木兹海峡的封锁",
+      "music": 0.0
+    },
+    {
+      "from": 37.6,
+      "to": 40.38,
+      "sid": 19,
+      "location": 2,
+      "content": "导致全球的能源成本都在上升",
+      "music": 0.0
+    },
+    {
+      "from": 40.38,
+      "to": 42.96,
+      "sid": 20,
+      "location": 2,
+      "content": "所以我们看到美国的CPI已经涨到了",
+      "music": 0.0
+    },
+    {
+      "from": 42.96,
+      "to": 44.06,
+      "sid": 21,
+      "location": 2,
+      "content": "4%以上",
+      "music": 0.0
+    },
+    {
+      "from": 44.06,
+      "to": 46.74,
+      "sid": 22,
+      "location": 2,
+      "content": "欧洲或者日本的通胀也持续上升",
+      "music": 0.0
+    },
+    {
+      "from": 46.74,
+      "to": 47.58,
+      "sid": 23,
+      "location": 2,
+      "content": "日本的通胀",
+      "music": 0.0
+    },
+    {
+      "from": 47.58,
+      "to": 50.58,
+      "sid": 24,
+      "location": 2,
+      "content": "甚至破天荒的让日元加息到了1%",
+      "music": 0.0
+    },
+    {
+      "from": 50.58,
+      "to": 51.24,
+      "sid": 25,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 51.24,
+      "to": 52.06,
+      "sid": 26,
+      "location": 2,
+      "content": "这些的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 52.06,
+      "to": 56.09,
+      "sid": 27,
+      "location": 2,
+      "content": "都是全球的通胀在逐渐升高的一个迹象",
+      "music": 0.0
+    },
+    {
+      "from": 56.09,
+      "to": 59.01,
+      "sid": 28,
+      "location": 2,
+      "content": "那么面对一个同样是上涨的一个油价",
+      "music": 0.0
+    },
+    {
+      "from": 59.01,
+      "to": 61.85,
+      "sid": 29,
+      "location": 2,
+      "content": "而我们中国的CPI目前的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 61.85,
+      "to": 63.67,
+      "sid": 30,
+      "location": 2,
+      "content": "上涨速度反而下降了",
+      "music": 0.0
+    },
+    {
+      "from": 63.67,
+      "to": 66.23,
+      "sid": 31,
+      "location": 2,
+      "content": "目前只有1%的同比的增速",
+      "music": 0.0
+    },
+    {
+      "from": 66.23,
+      "to": 68.33,
+      "sid": 32,
+      "location": 2,
+      "content": "在年内两个月之间对比",
+      "music": 0.0
+    },
+    {
+      "from": 68.33,
+      "to": 70.759,
+      "sid": 33,
+      "location": 2,
+      "content": "甚至出现了物价下跌的这个情况",
+      "music": 0.0
+    },
+    {
+      "from": 70.759,
+      "to": 72.319,
+      "sid": 34,
+      "location": 2,
+      "content": "所以我说的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 72.319,
+      "to": 75.759,
+      "sid": 35,
+      "location": 2,
+      "content": "我们的消费者物价当前按照年与年之间对比",
+      "music": 0.0
+    },
+    {
+      "from": 75.759,
+      "to": 76.559,
+      "sid": 36,
+      "location": 2,
+      "content": "同比的口径",
+      "music": 0.0
+    },
+    {
+      "from": 76.559,
+      "to": 78.09,
+      "sid": 37,
+      "location": 2,
+      "content": "依然有一个点的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 78.09,
+      "to": 80.49,
+      "sid": 38,
+      "location": 2,
+      "content": "但是在年内的趋势其实已经在下跌了",
+      "music": 0.0
+    },
+    {
+      "from": 80.49,
+      "to": 83.35,
+      "sid": 39,
+      "location": 2,
+      "content": "所以我把它叫做一个非常勉强的温和通胀",
+      "music": 0.0
+    },
+    {
+      "from": 83.35,
+      "to": 85.88,
+      "sid": 40,
+      "location": 2,
+      "content": "代表我们的内需是比较疲弱的",
+      "music": 0.0
+    },
+    {
+      "from": 85.88,
+      "to": 87.16,
+      "sid": 41,
+      "location": 2,
+      "content": "工业物价的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 87.16,
+      "to": 90.34,
+      "sid": 42,
+      "location": 2,
+      "content": "我的定语的话呢是上游通胀为主",
+      "music": 0.0
+    },
+    {
+      "from": 90.34,
+      "to": 91.56,
+      "sid": 43,
+      "location": 2,
+      "content": "下游也有通胀",
+      "music": 0.0
+    },
+    {
+      "from": 91.56,
+      "to": 94.47,
+      "sid": 44,
+      "location": 2,
+      "content": "但下游本身并没有涨价的动力",
+      "music": 0.0
+    },
+    {
+      "from": 94.47,
+      "to": 95.51,
+      "sid": 45,
+      "location": 2,
+      "content": "下游的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 95.51,
+      "to": 98.91,
+      "sid": 46,
+      "location": 2,
+      "content": "它是由于上游成本的上涨而被逼着涨了点价格",
+      "music": 0.0
+    },
+    {
+      "from": 98.91,
+      "to": 101.39,
+      "sid": 47,
+      "location": 2,
+      "content": "同时我们观察到工业物价的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 101.39,
+      "to": 103.39,
+      "sid": 48,
+      "location": 2,
+      "content": "基本上工业制造商的下游",
+      "music": 0.0
+    },
+    {
+      "from": 103.39,
+      "to": 105.92,
+      "sid": 49,
+      "location": 2,
+      "content": "承担了绝大部分的损失呃",
+      "music": 0.0
+    },
+    {
+      "from": 105.92,
+      "to": 109.96,
+      "sid": 50,
+      "location": 2,
+      "content": "因为下游的涨价幅度远低于上游原材料的涨价",
+      "music": 0.0
+    },
+    {
+      "from": 109.96,
+      "to": 112.4,
+      "sid": 51,
+      "location": 2,
+      "content": "那么在这种情况之下的话",
+      "music": 0.0
+    },
+    {
+      "from": 112.4,
+      "to": 114.32,
+      "sid": 52,
+      "location": 2,
+      "content": "你就相当于上游强调涨涨价",
+      "music": 0.0
+    },
+    {
+      "from": 114.32,
+      "to": 116.16,
+      "sid": 53,
+      "location": 2,
+      "content": "下游自己消化了很大一部分",
+      "music": 0.0
+    },
+    {
+      "from": 116.16,
+      "to": 118.14,
+      "sid": 54,
+      "location": 2,
+      "content": "很小一部分传递给了消费者",
+      "music": 0.0
+    },
+    {
+      "from": 118.14,
+      "to": 121.86,
+      "sid": 55,
+      "location": 2,
+      "content": "最终才使得下游的涨价幅度明显的低于上游",
+      "music": 0.0
+    },
+    {
+      "from": 121.86,
+      "to": 123.62,
+      "sid": 56,
+      "location": 2,
+      "content": "那么最近在7月底",
+      "music": 0.0
+    },
+    {
+      "from": 123.62,
+      "to": 124.82,
+      "sid": 57,
+      "location": 2,
+      "content": "我们观察到了",
+      "music": 0.0
+    },
+    {
+      "from": 124.82,
+      "to": 126.58,
+      "sid": 58,
+      "location": 2,
+      "content": "7月底那一次议息会议的",
+      "music": 0.0
+    },
+    {
+      "from": 126.58,
+      "to": 128.94,
+      "sid": 59,
+      "location": 2,
+      "content": "加息概率正在持续上升呃",
+      "music": 0.0
+    },
+    {
+      "from": 128.94,
+      "to": 131.72,
+      "sid": 60,
+      "location": 2,
+      "content": "在上周或者说是前几天的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 131.72,
+      "to": 134.88,
+      "sid": 61,
+      "location": 2,
+      "content": "7月30号的美元加息的这个概率",
+      "music": 0.0
+    },
+    {
+      "from": 134.88,
+      "to": 136.97,
+      "sid": 62,
+      "location": 2,
+      "content": "在芝加哥交易所之前",
+      "music": 0.0
+    },
+    {
+      "from": 136.97,
+      "to": 139.67,
+      "sid": 63,
+      "location": 2,
+      "content": "真金白银交易是20%左右的加息概率",
+      "music": 0.0
+    },
+    {
+      "from": 139.67,
+      "to": 141.65,
+      "sid": 64,
+      "location": 2,
+      "content": "那么到了最近两天的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 141.65,
+      "to": 144.22,
+      "sid": 65,
+      "location": 2,
+      "content": "美元加息概率已经提高到了40%",
+      "music": 0.0
+    },
+    {
+      "from": 144.22,
+      "to": 147.76,
+      "sid": 66,
+      "location": 2,
+      "content": "那么这种在7月底翻倍式上涨的加息概率",
+      "music": 0.0
+    },
+    {
+      "from": 147.76,
+      "to": 150.8,
+      "sid": 67,
+      "location": 2,
+      "content": "正在对全球的资本市场造成一个",
+      "music": 0.0
+    },
+    {
+      "from": 150.8,
+      "to": 152.87,
+      "sid": 68,
+      "location": 2,
+      "content": "分母端抬升的一个压制",
+      "music": 0.0
+    },
+    {
+      "from": 152.87,
+      "to": 154.83,
+      "sid": 69,
+      "location": 2,
+      "content": "因为我们知道很多的成长股",
+      "music": 0.0
+    },
+    {
+      "from": 154.83,
+      "to": 155.27,
+      "sid": 70,
+      "location": 2,
+      "content": "科技股",
+      "music": 0.0
+    },
+    {
+      "from": 155.27,
+      "to": 157.6,
+      "sid": 71,
+      "location": 2,
+      "content": "它的现金流在于未来对吧",
+      "music": 0.0
+    },
+    {
+      "from": 157.6,
+      "to": 159.48,
+      "sid": 72,
+      "location": 2,
+      "content": "那如果利率是零的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 159.48,
+      "to": 160.84,
+      "sid": 73,
+      "location": 2,
+      "content": "你未来赚了100万",
+      "music": 0.0
+    },
+    {
+      "from": 160.84,
+      "to": 162.29,
+      "sid": 74,
+      "location": 2,
+      "content": "现在也等于100万",
+      "music": 0.0
+    },
+    {
+      "from": 162.29,
+      "to": 164.03,
+      "sid": 75,
+      "location": 2,
+      "content": "如果利率你提高到一个点",
+      "music": 0.0
+    },
+    {
+      "from": 164.03,
+      "to": 165.19,
+      "sid": 76,
+      "location": 2,
+      "content": "未来的100万",
+      "music": 0.0
+    },
+    {
+      "from": 165.19,
+      "to": 166.53,
+      "sid": 77,
+      "location": 2,
+      "content": "比如说一年之后的100万利润",
+      "music": 0.0
+    },
+    {
+      "from": 166.53,
+      "to": 168.03,
+      "sid": 78,
+      "location": 2,
+      "content": "现在可能只是99万",
+      "music": 0.0
+    },
+    {
+      "from": 168.03,
+      "to": 169.57,
+      "sid": 79,
+      "location": 2,
+      "content": "如果利率加到五个点",
+      "music": 0.0
+    },
+    {
+      "from": 169.57,
+      "to": 173.07,
+      "sid": 80,
+      "location": 2,
+      "content": "未来的90为这个一年之后的100万利润",
+      "music": 0.0
+    },
+    {
+      "from": 173.07,
+      "to": 174.27,
+      "sid": 81,
+      "location": 2,
+      "content": "现在就只是95万",
+      "music": 0.0
+    },
+    {
+      "from": 174.27,
+      "to": 175.75,
+      "sid": 82,
+      "location": 2,
+      "content": "因为你把95万存到银行",
+      "music": 0.0
+    },
+    {
+      "from": 175.75,
+      "to": 177.57,
+      "sid": 83,
+      "location": 2,
+      "content": "一年之后就等于100万对吧",
+      "music": 0.0
+    },
+    {
+      "from": 177.57,
+      "to": 179.29,
+      "sid": 84,
+      "location": 2,
+      "content": "所以目前的一个情况的话",
+      "music": 0.0
+    },
+    {
+      "from": 179.29,
+      "to": 180.11,
+      "sid": 85,
+      "location": 2,
+      "content": "就加息",
+      "music": 0.0
+    },
+    {
+      "from": 180.11,
+      "to": 184.64,
+      "sid": 86,
+      "location": 2,
+      "content": "它对于现金流后置的企业会造成比较大的压迫",
+      "music": 0.0
+    },
+    {
+      "from": 184.64,
+      "to": 187.95,
+      "sid": 87,
+      "location": 2,
+      "content": "那么对于现金流前置稳定的红利股",
+      "music": 0.0
+    },
+    {
+      "from": 187.95,
+      "to": 190.63,
+      "sid": 88,
+      "location": 2,
+      "content": "虽然说你没有进行折现的一个压迫",
+      "music": 0.0
+    },
+    {
+      "from": 190.63,
+      "to": 194.43,
+      "sid": 89,
+      "location": 2,
+      "content": "但是你的话呢由于债的利率上升对吧",
+      "music": 0.0
+    },
+    {
+      "from": 194.43,
+      "to": 195.82,
+      "sid": 90,
+      "location": 2,
+      "content": "美债的利率上升",
+      "music": 0.0
+    },
+    {
+      "from": 195.82,
+      "to": 197.28,
+      "sid": 91,
+      "location": 2,
+      "content": "美元短期利率上升",
+      "music": 0.0
+    },
+    {
+      "from": 197.28,
+      "to": 199.78,
+      "sid": 92,
+      "location": 2,
+      "content": "它会导致资金从红利股身上跑",
+      "music": 0.0
+    },
+    {
+      "from": 199.78,
+      "to": 202.55,
+      "sid": 93,
+      "location": 2,
+      "content": "一部分到一个美债的这个利率测",
+      "music": 0.0
+    },
+    {
+      "from": 202.55,
+      "to": 203.67,
+      "sid": 94,
+      "location": 2,
+      "content": "因为他的利率更高",
+      "music": 0.0
+    },
+    {
+      "from": 203.67,
+      "to": 205.07,
+      "sid": 95,
+      "location": 2,
+      "content": "吸引力更强",
+      "music": 0.0
+    },
+    {
+      "from": 205.07,
+      "to": 208.43,
+      "sid": 96,
+      "location": 2,
+      "content": "所以目前的话呢加息对于资本市场是两条路",
+      "music": 0.0
+    },
+    {
+      "from": 208.43,
+      "to": 210.39,
+      "sid": 97,
+      "location": 2,
+      "content": "一个是对于未来现金流折现",
+      "music": 0.0
+    },
+    {
+      "from": 210.39,
+      "to": 213.05,
+      "sid": 98,
+      "location": 2,
+      "content": "对于成长股有个有个非常大的压制",
+      "music": 0.0
+    },
+    {
+      "from": 213.05,
+      "to": 215.18,
+      "sid": 99,
+      "location": 2,
+      "content": "因为他的现金流啊贬值了",
+      "music": 0.0
+    },
+    {
+      "from": 215.18,
+      "to": 216.3,
+      "sid": 100,
+      "location": 2,
+      "content": "另外一个的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 216.3,
+      "to": 218.52,
+      "sid": 101,
+      "location": 2,
+      "content": "对于现在急需现金流稳定的红利股",
+      "music": 0.0
+    },
+    {
+      "from": 218.52,
+      "to": 222.26,
+      "sid": 102,
+      "location": 2,
+      "content": "那么有很多资金也会从证券流到这个债好",
+      "music": 0.0
+    },
+    {
+      "from": 222.26,
+      "to": 224.2,
+      "sid": 103,
+      "location": 2,
+      "content": "所以是这么两个方向啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.2,
+      "to": 226.42,
+      "sid": 104,
+      "location": 2,
+      "content": "我们观察到一些欧洲股市",
+      "music": 0.0
+    },
+    {
+      "from": 226.42,
+      "to": 230.21,
+      "sid": 105,
+      "location": 2,
+      "content": "美国股市出现了一些这个遇冷的情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.21,
+      "to": 234.62,
+      "sid": 106,
+      "location": 2,
+      "content": "额所以这是我今天跟大家说的三个事情啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.62,
+      "to": 235.46,
+      "sid": 107,
+      "location": 2,
+      "content": "念一下免责声明",
+      "music": 0.0
+    },
+    {
+      "from": 235.46,
+      "to": 237.18,
+      "sid": 108,
+      "location": 2,
+      "content": "我们就解读一下经济数据啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.18,
+      "to": 239.34,
+      "sid": 109,
+      "location": 2,
+      "content": "不带有其他的主观评价",
+      "music": 0.0
+    },
+    {
+      "from": 239.58,
+      "to": 240.98,
+      "sid": 110,
+      "location": 2,
+      "content": "那么第一块的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 240.98,
+      "to": 243.76,
+      "sid": 111,
+      "location": 2,
+      "content": "是我们的工业生产者的出厂价格",
+      "music": 0.0
+    },
+    {
+      "from": 243.76,
+      "to": 246.1,
+      "sid": 112,
+      "location": 2,
+      "content": "我们分成两个角度去理解",
+      "music": 0.0
+    },
+    {
+      "from": 246.1,
+      "to": 248.7,
+      "sid": 113,
+      "location": 2,
+      "content": "一个是工业的最终的出厂价",
+      "music": 0.0
+    },
+    {
+      "from": 248.7,
+      "to": 252.17,
+      "sid": 114,
+      "location": 2,
+      "content": "一个是他们的一个成本价格啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.17,
+      "to": 253.81,
+      "sid": 115,
+      "location": 2,
+      "content": "在同比的角度",
+      "music": 0.0
+    },
+    {
+      "from": 253.81,
+      "to": 257.87,
+      "sid": 116,
+      "location": 2,
+      "content": "就是拿今年6月跟去年的6月份之间对比",
+      "music": 0.0
+    },
+    {
+      "from": 257.87,
+      "to": 262.35,
+      "sid": 117,
+      "location": 2,
+      "content": "我们观察到工业的成品价格涨了4.1%",
+      "music": 0.0
+    },
+    {
+      "from": 262.35,
+      "to": 263.89,
+      "sid": 118,
+      "location": 2,
+      "content": "而下面那一张图",
+      "music": 0.0
+    },
+    {
+      "from": 263.89,
+      "to": 266.919,
+      "sid": 119,
+      "location": 2,
+      "content": "工艺的原材料的涨幅是6.4%",
+      "music": 0.0
+    },
+    {
+      "from": 266.919,
+      "to": 268.619,
+      "sid": 120,
+      "location": 2,
+      "content": "而在最近两个月当中",
+      "music": 0.0
+    },
+    {
+      "from": 268.619,
+      "to": 271.859,
+      "sid": 121,
+      "location": 2,
+      "content": "原材料的上涨还加速了0.8呃",
+      "music": 0.0
+    },
+    {
+      "from": 271.859,
+      "to": 273.679,
+      "sid": 122,
+      "location": 2,
+      "content": "呃呃加还加速了0.6",
+      "music": 0.0
+    },
+    {
+      "from": 273.679,
+      "to": 278.08,
+      "sid": 123,
+      "location": 2,
+      "content": "而这个工业成品的一个涨价幅度只加速0.2",
+      "music": 0.0
+    },
+    {
+      "from": 278.08,
+      "to": 280.98,
+      "sid": 124,
+      "location": 2,
+      "content": "因此无论是绝对值6.4还是加速0.6",
+      "music": 0.0
+    },
+    {
+      "from": 280.98,
+      "to": 283.17,
+      "sid": 125,
+      "location": 2,
+      "content": "它均远远的超出工业",
+      "music": 0.0
+    },
+    {
+      "from": 283.17,
+      "to": 285.53,
+      "sid": 126,
+      "location": 2,
+      "content": "下游的整体的涨价的这个情况",
+      "music": 0.0
+    },
+    {
+      "from": 285.53,
+      "to": 287.47,
+      "sid": 127,
+      "location": 2,
+      "content": "所以我们认为的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 287.47,
+      "to": 289.98,
+      "sid": 128,
+      "location": 2,
+      "content": "原材料的涨价是主导性的啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.98,
+      "to": 292.76,
+      "sid": 129,
+      "location": 2,
+      "content": "然后成品工业品的涨价是被迫的",
+      "music": 0.0
+    },
+    {
+      "from": 292.76,
+      "to": 295.77,
+      "sid": 130,
+      "location": 2,
+      "content": "而且其幅度明显的低于原材料的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 295.77,
+      "to": 298.07,
+      "sid": 131,
+      "location": 2,
+      "content": "这代表出厂价格的层面",
+      "music": 0.0
+    },
+    {
+      "from": 298.07,
+      "to": 301.47,
+      "sid": 132,
+      "location": 2,
+      "content": "下游的制造商它承担了很大一部分的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 301.47,
+      "to": 304.23,
+      "sid": 133,
+      "location": 2,
+      "content": "比如说存储价格是翻了好几倍的",
+      "music": 0.0
+    },
+    {
+      "from": 304.23,
+      "to": 306.85,
+      "sid": 134,
+      "location": 2,
+      "content": "但是手机它不敢涨那么多价",
+      "music": 0.0
+    },
+    {
+      "from": 306.85,
+      "to": 309.17,
+      "sid": 135,
+      "location": 2,
+      "content": "苹果手机是涨了足够多的钱的",
+      "music": 0.0
+    },
+    {
+      "from": 309.17,
+      "to": 310.13,
+      "sid": 136,
+      "location": 2,
+      "content": "而安卓手机",
+      "music": 0.0
+    },
+    {
+      "from": 310.13,
+      "to": 311.09,
+      "sid": 137,
+      "location": 2,
+      "content": "小米啊之类",
+      "music": 0.0
+    },
+    {
+      "from": 311.09,
+      "to": 314.85,
+      "sid": 138,
+      "location": 2,
+      "content": "不太敢把这个手机的价格大幅的涨价",
+      "music": 0.0
+    },
+    {
+      "from": 314.85,
+      "to": 316.21,
+      "sid": 139,
+      "location": 2,
+      "content": "因为你大幅的涨价",
+      "music": 0.0
+    },
+    {
+      "from": 316.21,
+      "to": 319.13,
+      "sid": 140,
+      "location": 2,
+      "content": "它就会使得消费者的消费数量快速减少",
+      "music": 0.0
+    },
+    {
+      "from": 319.13,
+      "to": 320.85,
+      "sid": 141,
+      "location": 2,
+      "content": "那么他们的一个涨价幅度",
+      "music": 0.0
+    },
+    {
+      "from": 320.85,
+      "to": 324.27,
+      "sid": 142,
+      "location": 2,
+      "content": "可能就没有充分的反应硬件端的这种涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 324.27,
+      "to": 327.42,
+      "sid": 143,
+      "location": 2,
+      "content": "而是把很多的亏损都聚在自己的啊",
+      "music": 0.0
+    },
+    {
+      "from": 327.42,
+      "to": 328.6,
+      "sid": 144,
+      "location": 2,
+      "content": "很多的这个成本端",
+      "music": 0.0
+    },
+    {
+      "from": 328.6,
+      "to": 330.74,
+      "sid": 145,
+      "location": 2,
+      "content": "都由自己的这个价格去消化掉了",
+      "music": 0.0
+    },
+    {
+      "from": 330.74,
+      "to": 333.21,
+      "sid": 146,
+      "location": 2,
+      "content": "所以它的毛利率反而会下降好",
+      "music": 0.0
+    },
+    {
+      "from": 333.21,
+      "to": 335.57,
+      "sid": 147,
+      "location": 2,
+      "content": "也就是我们所说的上游大涨价",
+      "music": 0.0
+    },
+    {
+      "from": 335.57,
+      "to": 336.97,
+      "sid": 148,
+      "location": 2,
+      "content": "下游小涨价",
+      "music": 0.0
+    },
+    {
+      "from": 336.97,
+      "to": 338.35,
+      "sid": 149,
+      "location": 2,
+      "content": "下游价格上升",
+      "music": 0.0
+    },
+    {
+      "from": 338.35,
+      "to": 341.44,
+      "sid": 150,
+      "location": 2,
+      "content": "但毛利率和净利率下降嗯",
+      "music": 0.0
+    },
+    {
+      "from": 341.44,
+      "to": 343.42,
+      "sid": 151,
+      "location": 2,
+      "content": "也就是一个涨价又跌",
+      "music": 0.0
+    },
+    {
+      "from": 343.42,
+      "to": 346.79,
+      "sid": 152,
+      "location": 2,
+      "content": "毛利率的这种情况是有可能发生的呃",
+      "music": 0.0
+    },
+    {
+      "from": 346.79,
+      "to": 348.71,
+      "sid": 153,
+      "location": 2,
+      "content": "因此这个在部分行业当中",
+      "music": 0.0
+    },
+    {
+      "from": 348.71,
+      "to": 350.61,
+      "sid": 154,
+      "location": 2,
+      "content": "大家也需要小心",
+      "music": 0.0
+    },
+    {
+      "from": 350.93,
+      "to": 352.49,
+      "sid": 155,
+      "location": 2,
+      "content": "而在环比层面",
+      "music": 0.0
+    },
+    {
+      "from": 352.49,
+      "to": 353.45,
+      "sid": 156,
+      "location": 2,
+      "content": "年内对比",
+      "music": 0.0
+    },
+    {
+      "from": 353.45,
+      "to": 354.99,
+      "sid": 157,
+      "location": 2,
+      "content": "今年6月份的工业物价",
+      "music": 0.0
+    },
+    {
+      "from": 354.99,
+      "to": 357.88,
+      "sid": 158,
+      "location": 2,
+      "content": "相比于5月份则是-0.3",
+      "music": 0.0
+    },
+    {
+      "from": 357.88,
+      "to": 360.68,
+      "sid": 159,
+      "location": 2,
+      "content": "而这个成它的原材料价格的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 360.68,
+      "to": 362.56,
+      "sid": 160,
+      "location": 2,
+      "content": "只跌了0.2啊",
+      "music": 0.0
+    },
+    {
+      "from": 362.56,
+      "to": 363.86,
+      "sid": 161,
+      "location": 2,
+      "content": "所以我们观察到",
+      "music": 0.0
+    },
+    {
+      "from": 363.86,
+      "to": 365.62,
+      "sid": 162,
+      "location": 2,
+      "content": "其实6月份他的平均的这个",
+      "music": 0.0
+    },
+    {
+      "from": 365.62,
+      "to": 367.54,
+      "sid": 163,
+      "location": 2,
+      "content": "工业的这个价格的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 367.54,
+      "to": 370.42,
+      "sid": 164,
+      "location": 2,
+      "content": "相对于5月份是有降温的",
+      "music": 0.0
+    },
+    {
+      "from": 371.5,
+      "to": 373.5,
+      "sid": 165,
+      "location": 2,
+      "content": "啊然后我们看具体的行业",
+      "music": 0.0
+    },
+    {
+      "from": 373.5,
+      "to": 376.9,
+      "sid": 166,
+      "location": 2,
+      "content": "哪些东西的一个价格处于一个上涨呢",
+      "music": 0.0
+    },
+    {
+      "from": 376.9,
+      "to": 378.33,
+      "sid": 167,
+      "location": 2,
+      "content": "我们取同比的视角",
+      "music": 0.0
+    },
+    {
+      "from": 378.33,
+      "to": 381.03,
+      "sid": 168,
+      "location": 2,
+      "content": "煤炭的话呢跟去年相比涨了20个点",
+      "music": 0.0
+    },
+    {
+      "from": 381.03,
+      "to": 382.67,
+      "sid": 169,
+      "location": 2,
+      "content": "石油涨了16.8个点",
+      "music": 0.0
+    },
+    {
+      "from": 382.67,
+      "to": 385.1,
+      "sid": 170,
+      "location": 2,
+      "content": "有色金属涨了25个点对吧",
+      "music": 0.0
+    },
+    {
+      "from": 385.1,
+      "to": 388.84,
+      "sid": 171,
+      "location": 2,
+      "content": "然后底下的这个化学原料跟化学的这个制造品",
+      "music": 0.0
+    },
+    {
+      "from": 388.84,
+      "to": 390.88,
+      "sid": 172,
+      "location": 2,
+      "content": "涨了11.3%",
+      "music": 0.0
+    },
+    {
+      "from": 390.88,
+      "to": 393.36,
+      "sid": 173,
+      "location": 2,
+      "content": "这些再加上底下的有色金属的冶炼",
+      "music": 0.0
+    },
+    {
+      "from": 394.48,
+      "to": 398.59,
+      "sid": 174,
+      "location": 2,
+      "content": "就是为数不多的几个十位数以上涨价的",
+      "music": 0.0
+    },
+    {
+      "from": 398.59,
+      "to": 403.09,
+      "sid": 175,
+      "location": 2,
+      "content": "那么它们分别是煤炭石油有色金属",
+      "music": 0.0
+    },
+    {
+      "from": 403.09,
+      "to": 405.26,
+      "sid": 176,
+      "location": 2,
+      "content": "化学原料啊是吧",
+      "music": 0.0
+    },
+    {
+      "from": 405.26,
+      "to": 406.94,
+      "sid": 177,
+      "location": 2,
+      "content": "及其演练的产业链",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 410.94,
+      "sid": 178,
+      "location": 2,
+      "content": "我们观察到这个所有的十个点以上大涨价的",
+      "music": 0.0
+    },
+    {
+      "from": 410.94,
+      "to": 415.169,
+      "sid": 179,
+      "location": 2,
+      "content": "均为能源系跟大宗原材料",
+      "music": 0.0
+    },
+    {
+      "from": 415.169,
+      "to": 418.169,
+      "sid": 180,
+      "location": 2,
+      "content": "也就是说我们观察到真正在提交的是谁啊",
+      "music": 0.0
+    },
+    {
+      "from": 418.169,
+      "to": 421.1,
+      "sid": 181,
+      "location": 2,
+      "content": "真正在提价的是工业的这个上游",
+      "music": 0.0
+    },
+    {
+      "from": 421.5,
+      "to": 425.1,
+      "sid": 182,
+      "location": 2,
+      "content": "而工业的下游食品一九负五",
+      "music": 0.0
+    },
+    {
+      "from": 425.1,
+      "to": 427.04,
+      "sid": 183,
+      "location": 2,
+      "content": "纺织一对吧",
+      "music": 0.0
+    },
+    {
+      "from": 427.04,
+      "to": 431.02,
+      "sid": 184,
+      "location": 2,
+      "content": "然后大家比较关心的医药制造行业-4.5",
+      "music": 0.0
+    },
+    {
+      "from": 431.02,
+      "to": 434.38,
+      "sid": 185,
+      "location": 2,
+      "content": "我们观察到这个汽车行业大家也比较喜欢的",
+      "music": 0.0
+    },
+    {
+      "from": 434.38,
+      "to": 436.419,
+      "sid": 186,
+      "location": 2,
+      "content": "价格是降低了2.1个点",
+      "music": 0.0
+    },
+    {
+      "from": 436.419,
+      "to": 438.399,
+      "sid": 187,
+      "location": 2,
+      "content": "通用设备降0.7啊",
+      "music": 0.0
+    },
+    {
+      "from": 438.399,
+      "to": 439.759,
+      "sid": 188,
+      "location": 2,
+      "content": "铁路传播降0.2",
+      "music": 0.0
+    },
+    {
+      "from": 439.759,
+      "to": 442.039,
+      "sid": 189,
+      "location": 2,
+      "content": "电力热力降0.44是吧",
+      "music": 0.0
+    },
+    {
+      "from": 442.039,
+      "to": 445.15,
+      "sid": 190,
+      "location": 2,
+      "content": "AI相关的计算机设备则是涨价3.3",
+      "music": 0.0
+    },
+    {
+      "from": 445.15,
+      "to": 449.03,
+      "sid": 191,
+      "location": 2,
+      "content": "所以我们观察到下游下跌的居多",
+      "music": 0.0
+    },
+    {
+      "from": 449.03,
+      "to": 450.85,
+      "sid": 192,
+      "location": 2,
+      "content": "它非但不涨价",
+      "music": 0.0
+    },
+    {
+      "from": 450.85,
+      "to": 453.28,
+      "sid": 193,
+      "location": 2,
+      "content": "它甚至还要去降价",
+      "music": 0.0
+    },
+    {
+      "from": 454.629,
+      "to": 456.109,
+      "sid": 194,
+      "location": 2,
+      "content": "你的医药行业降价",
+      "music": 0.0
+    },
+    {
+      "from": 456.109,
+      "to": 458.489,
+      "sid": 195,
+      "location": 2,
+      "content": "汽车行业降价是吧",
+      "music": 0.0
+    },
+    {
+      "from": 458.489,
+      "to": 459.969,
+      "sid": 196,
+      "location": 2,
+      "content": "通用设备行业降价",
+      "music": 0.0
+    },
+    {
+      "from": 459.969,
+      "to": 461.83,
+      "sid": 197,
+      "location": 2,
+      "content": "金属行业降价",
+      "music": 0.0
+    },
+    {
+      "from": 462.07,
+      "to": 463.37,
+      "sid": 198,
+      "location": 2,
+      "content": "食品行业降价",
+      "music": 0.0
+    },
+    {
+      "from": 463.37,
+      "to": 464.55,
+      "sid": 199,
+      "location": 2,
+      "content": "酒饮料行业降价",
+      "music": 0.0
+    },
+    {
+      "from": 464.55,
+      "to": 465.27,
+      "sid": 200,
+      "location": 2,
+      "content": "大哥啊",
+      "music": 0.0
+    },
+    {
+      "from": 465.27,
+      "to": 467.71,
+      "sid": 201,
+      "location": 2,
+      "content": "你的原材料可是涨价的还是十个点以上",
+      "music": 0.0
+    },
+    {
+      "from": 467.71,
+      "to": 468.97,
+      "sid": 202,
+      "location": 2,
+      "content": "涨价是个普涨",
+      "music": 0.0
+    },
+    {
+      "from": 468.97,
+      "to": 470.61,
+      "sid": 203,
+      "location": 2,
+      "content": "你竟然还是个降价的",
+      "music": 0.0
+    },
+    {
+      "from": 470.61,
+      "to": 472.87,
+      "sid": 204,
+      "location": 2,
+      "content": "所以我们在这个角度可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 472.87,
+      "to": 477.61,
+      "sid": 205,
+      "location": 2,
+      "content": "工业价格整体的上涨仅仅局限于上游",
+      "music": 0.0
+    },
+    {
+      "from": 477.61,
+      "to": 479.41,
+      "sid": 206,
+      "location": 2,
+      "content": "下游非但不涨价",
+      "music": 0.0
+    },
+    {
+      "from": 479.41,
+      "to": 480.37,
+      "sid": 207,
+      "location": 2,
+      "content": "甚至还降价",
+      "music": 0.0
+    },
+    {
+      "from": 480.37,
+      "to": 481.81,
+      "sid": 208,
+      "location": 2,
+      "content": "面临一个更高的能源成本",
+      "music": 0.0
+    },
+    {
+      "from": 481.81,
+      "to": 482.65,
+      "sid": 209,
+      "location": 2,
+      "content": "甚至还降价",
+      "music": 0.0
+    },
+    {
+      "from": 482.65,
+      "to": 486.36,
+      "sid": 210,
+      "location": 2,
+      "content": "它的毛利率和净利率会变得更加的糟糕",
+      "music": 0.0
+    },
+    {
+      "from": 486.64,
+      "to": 489.26,
+      "sid": 211,
+      "location": 2,
+      "content": "这就是所我跟大家所说的工业涨价",
+      "music": 0.0
+    },
+    {
+      "from": 489.26,
+      "to": 492.71,
+      "sid": 212,
+      "location": 2,
+      "content": "但其不均匀不充分是吧",
+      "music": 0.0
+    },
+    {
+      "from": 492.71,
+      "to": 494.61,
+      "sid": 213,
+      "location": 2,
+      "content": "所以就是我刚刚跟大家聊的",
+      "music": 0.0
+    },
+    {
+      "from": 494.61,
+      "to": 496.409,
+      "sid": 214,
+      "location": 2,
+      "content": "我们对工业的一个认识",
+      "music": 0.0
+    },
+    {
+      "from": 496.689,
+      "to": 499.069,
+      "sid": 215,
+      "location": 2,
+      "content": "我们来到了这个消费者物价",
+      "music": 0.0
+    },
+    {
+      "from": 499.069,
+      "to": 501.349,
+      "sid": 216,
+      "location": 2,
+      "content": "消费者物价我们观察到什么迹象呢",
+      "music": 0.0
+    },
+    {
+      "from": 501.349,
+      "to": 504.329,
+      "sid": 217,
+      "location": 2,
+      "content": "看他这个增速起不来是吧",
+      "music": 0.0
+    },
+    {
+      "from": 504.77,
+      "to": 505.95,
+      "sid": 218,
+      "location": 2,
+      "content": "西方国家",
+      "music": 0.0
+    },
+    {
+      "from": 507.27,
+      "to": 512.37,
+      "sid": 219,
+      "location": 2,
+      "content": "以美国的美联储的这个货币报告为代表",
+      "music": 0.0
+    },
+    {
+      "from": 512.37,
+      "to": 514.57,
+      "sid": 220,
+      "location": 2,
+      "content": "他们一般把温和通胀",
+      "music": 0.0
+    },
+    {
+      "from": 514.57,
+      "to": 517.089,
+      "sid": 221,
+      "location": 2,
+      "content": "合理通胀设置在2%左右",
+      "music": 0.0
+    },
+    {
+      "from": 517.089,
+      "to": 521.1,
+      "sid": 222,
+      "location": 2,
+      "content": "因为温和的通胀商品略微的涨价是有利于经济",
+      "music": 0.0
+    },
+    {
+      "from": 521.1,
+      "to": 522.84,
+      "sid": 223,
+      "location": 2,
+      "content": "有利于刺激经济的啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.84,
+      "to": 524.48,
+      "sid": 224,
+      "location": 2,
+      "content": "也会给大家一个比较好的期许",
+      "music": 0.0
+    },
+    {
+      "from": 524.48,
+      "to": 525.76,
+      "sid": 225,
+      "location": 2,
+      "content": "容易调动经济",
+      "music": 0.0
+    },
+    {
+      "from": 525.76,
+      "to": 527.13,
+      "sid": 226,
+      "location": 2,
+      "content": "调动市场",
+      "music": 0.0
+    },
+    {
+      "from": 527.13,
+      "to": 530.34,
+      "sid": 227,
+      "location": 2,
+      "content": "所以我们说适当的通胀是好的",
+      "music": 0.0
+    },
+    {
+      "from": 530.34,
+      "to": 531.7,
+      "sid": 228,
+      "location": 2,
+      "content": "不能够价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 531.7,
+      "to": 532.46,
+      "sid": 229,
+      "location": 2,
+      "content": "价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 532.46,
+      "to": 533.42,
+      "sid": 230,
+      "location": 2,
+      "content": "重资产价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 533.42,
+      "to": 534.48,
+      "sid": 231,
+      "location": 2,
+      "content": "房地产价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 534.48,
+      "to": 536.819,
+      "sid": 232,
+      "location": 2,
+      "content": "对于整个市场都有非常不良的影响",
+      "music": 0.0
+    },
+    {
+      "from": 536.819,
+      "to": 539.299,
+      "sid": 233,
+      "location": 2,
+      "content": "我们观察到现在同比的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 539.299,
+      "to": 540.599,
+      "sid": 234,
+      "location": 2,
+      "content": "它那个涨幅起不来",
+      "music": 0.0
+    },
+    {
+      "from": 540.599,
+      "to": 544.05,
+      "sid": 235,
+      "location": 2,
+      "content": "我们中国的CPI长期维持在1%周围",
+      "music": 0.0
+    },
+    {
+      "from": 544.05,
+      "to": 545.77,
+      "sid": 236,
+      "location": 2,
+      "content": "这是个非常疲软的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 545.77,
+      "to": 547.11,
+      "sid": 237,
+      "location": 2,
+      "content": "因为我们的基数比较低",
+      "music": 0.0
+    },
+    {
+      "from": 547.11,
+      "to": 550.55,
+      "sid": 238,
+      "location": 2,
+      "content": "大家可以看到我们去年的25年的哦",
+      "music": 0.0
+    },
+    {
+      "from": 550.55,
+      "to": 553.73,
+      "sid": 239,
+      "location": 2,
+      "content": "这个六到9月份是一直是跌的一种物价",
+      "music": 0.0
+    },
+    {
+      "from": 553.73,
+      "to": 556.45,
+      "sid": 240,
+      "location": 2,
+      "content": "他这么低的同比今年才一个点的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 556.45,
+      "to": 557.47,
+      "sid": 241,
+      "location": 2,
+      "content": "所以是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 557.47,
+      "to": 560.01,
+      "sid": 242,
+      "location": 2,
+      "content": "那么在环比层面年内啊",
+      "music": 0.0
+    },
+    {
+      "from": 560.01,
+      "to": 562.67,
+      "sid": 243,
+      "location": 2,
+      "content": "5月份的物价相比4月份跌了0.1",
+      "music": 0.0
+    },
+    {
+      "from": 562.67,
+      "to": 565.13,
+      "sid": 244,
+      "location": 2,
+      "content": "6月份的物价相比5月份跌了零点",
+      "music": 0.0
+    },
+    {
+      "from": 565.13,
+      "to": 568.389,
+      "sid": 245,
+      "location": 2,
+      "content": "3年内已经进入到了一个价格下跌的情况了",
+      "music": 0.0
+    },
+    {
+      "from": 568.389,
+      "to": 569.689,
+      "sid": 246,
+      "location": 2,
+      "content": "跟去年相比的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 569.689,
+      "to": 573.14,
+      "sid": 247,
+      "location": 2,
+      "content": "逐月的话呢也是维持的只有1%的涨幅",
+      "music": 0.0
+    },
+    {
+      "from": 573.14,
+      "to": 575.06,
+      "sid": 248,
+      "location": 2,
+      "content": "因此物价是非常虚弱的",
+      "music": 0.0
+    },
+    {
+      "from": 575.06,
+      "to": 577.64,
+      "sid": 249,
+      "location": 2,
+      "content": "因为它背后的能源是大幅涨价的",
+      "music": 0.0
+    },
+    {
+      "from": 577.64,
+      "to": 579.32,
+      "sid": 250,
+      "location": 2,
+      "content": "石油价格是大幅涨价的",
+      "music": 0.0
+    },
+    {
+      "from": 579.32,
+      "to": 581.93,
+      "sid": 251,
+      "location": 2,
+      "content": "在石油价格打出神助攻的情况之下",
+      "music": 0.0
+    },
+    {
+      "from": 581.93,
+      "to": 583.85,
+      "sid": 252,
+      "location": 2,
+      "content": "你的这个消费价格还这么低迷",
+      "music": 0.0
+    },
+    {
+      "from": 583.85,
+      "to": 586.64,
+      "sid": 253,
+      "location": 2,
+      "content": "证明你其他板块很弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.64,
+      "to": 589.0,
+      "sid": 254,
+      "location": 2,
+      "content": "那么现在的话呢主要是石油",
+      "music": 0.0
+    },
+    {
+      "from": 589.0,
+      "to": 590.42,
+      "sid": 255,
+      "location": 2,
+      "content": "因为石油它是一个燃料",
+      "music": 0.0
+    },
+    {
+      "from": 590.42,
+      "to": 591.82,
+      "sid": 256,
+      "location": 2,
+      "content": "它被放在交通板块了",
+      "music": 0.0
+    },
+    {
+      "from": 591.82,
+      "to": 594.61,
+      "sid": 257,
+      "location": 2,
+      "content": "所以交通通信有4.1个点的这个上涨",
+      "music": 0.0
+    },
+    {
+      "from": 594.61,
+      "to": 596.33,
+      "sid": 258,
+      "location": 2,
+      "content": "其他的话呢都是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 596.33,
+      "to": 597.35,
+      "sid": 259,
+      "location": 2,
+      "content": "尤其是食品",
+      "music": 0.0
+    },
+    {
+      "from": 597.35,
+      "to": 598.11,
+      "sid": 260,
+      "location": 2,
+      "content": "食品烟酒",
+      "music": 0.0
+    },
+    {
+      "from": 598.11,
+      "to": 600.47,
+      "sid": 261,
+      "location": 2,
+      "content": "还有这个房地产相关的这个租赁",
+      "music": 0.0
+    },
+    {
+      "from": 600.47,
+      "to": 603.31,
+      "sid": 262,
+      "location": 2,
+      "content": "这两块的话呢都是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 603.71,
+      "to": 606.57,
+      "sid": 263,
+      "location": 2,
+      "content": "那么我们看一下具体的这个情况啊",
+      "music": 0.0
+    },
+    {
+      "from": 606.57,
+      "to": 609.35,
+      "sid": 264,
+      "location": 2,
+      "content": "我们看到里面最大的一个问题就是猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 609.35,
+      "to": 610.87,
+      "sid": 265,
+      "location": 2,
+      "content": "它跌了15.9个点啊",
+      "music": 0.0
+    },
+    {
+      "from": 610.87,
+      "to": 613.115,
+      "sid": 266,
+      "location": 2,
+      "content": "这个负号的话呢被我截掉了一半啊",
+      "music": 0.0
+    },
+    {
+      "from": 613.13,
+      "to": 615.05,
+      "sid": 267,
+      "location": 2,
+      "content": "猪肉价格跌了15.9个点",
+      "music": 0.0
+    },
+    {
+      "from": 615.05,
+      "to": 616.63,
+      "sid": 268,
+      "location": 2,
+      "content": "牛肉跟羊肉还是上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 616.63,
+      "to": 618.07,
+      "sid": 269,
+      "location": 2,
+      "content": "猪肉的价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 618.07,
+      "to": 622.139,
+      "sid": 270,
+      "location": 2,
+      "content": "是导致食品饮料价格下跌的核心原因呐",
+      "music": 0.0
+    },
+    {
+      "from": 622.139,
+      "to": 624.699,
+      "sid": 271,
+      "location": 2,
+      "content": "然后鸡蛋的话呢涨幅其实挺大的啊",
+      "music": 0.0
+    },
+    {
+      "from": 624.699,
+      "to": 628.179,
+      "sid": 272,
+      "location": 2,
+      "content": "然后酒的话呢也是跌了2.8个点白酒啊",
+      "music": 0.0
+    },
+    {
+      "from": 628.179,
+      "to": 629.54,
+      "sid": 273,
+      "location": 2,
+      "content": "还有其他的酒",
+      "music": 0.0
+    },
+    {
+      "from": 629.54,
+      "to": 633.1,
+      "sid": 274,
+      "location": 2,
+      "content": "因此我们发现食品饮料整体是没有行情的啊",
+      "music": 0.0
+    },
+    {
+      "from": 633.1,
+      "to": 635.22,
+      "sid": 275,
+      "location": 2,
+      "content": "但是其中真正有问题的是猪肉",
+      "music": 0.0
+    },
+    {
+      "from": 635.22,
+      "to": 636.93,
+      "sid": 276,
+      "location": 2,
+      "content": "它的跌幅实在是太大了",
+      "music": 0.0
+    },
+    {
+      "from": 636.93,
+      "to": 638.65,
+      "sid": 277,
+      "location": 2,
+      "content": "然后一些高端的酒之类",
+      "music": 0.0
+    },
+    {
+      "from": 638.65,
+      "to": 640.94,
+      "sid": 278,
+      "location": 2,
+      "content": "它的价格下降也是比较明显的",
+      "music": 0.0
+    },
+    {
+      "from": 640.94,
+      "to": 642.78,
+      "sid": 279,
+      "location": 2,
+      "content": "那么在服装行业的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 642.78,
+      "to": 644.84,
+      "sid": 280,
+      "location": 2,
+      "content": "它的这个价格是一个上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 644.84,
+      "to": 646.9,
+      "sid": 281,
+      "location": 2,
+      "content": "当然服装行业整体的社会消费数据",
+      "music": 0.0
+    },
+    {
+      "from": 646.9,
+      "to": 647.98,
+      "sid": 282,
+      "location": 2,
+      "content": "是不乐观的啊",
+      "music": 0.0
+    },
+    {
+      "from": 647.98,
+      "to": 648.94,
+      "sid": 283,
+      "location": 2,
+      "content": "他是大家买的少了",
+      "music": 0.0
+    },
+    {
+      "from": 648.94,
+      "to": 650.069,
+      "sid": 284,
+      "location": 2,
+      "content": "但是买的贵了",
+      "music": 0.0
+    },
+    {
+      "from": 650.069,
+      "to": 652.109,
+      "sid": 285,
+      "location": 2,
+      "content": "然后在居住领域的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 652.109,
+      "to": 653.849,
+      "sid": 286,
+      "location": 2,
+      "content": "房租它是跌0.6",
+      "music": 0.0
+    },
+    {
+      "from": 653.849,
+      "to": 656.05,
+      "sid": 287,
+      "location": 2,
+      "content": "进而导致居住板块下跌啊",
+      "music": 0.0
+    },
+    {
+      "from": 656.05,
+      "to": 657.61,
+      "sid": 288,
+      "location": 2,
+      "content": "政府端的这个公共事业",
+      "music": 0.0
+    },
+    {
+      "from": 657.61,
+      "to": 659.75,
+      "sid": 289,
+      "location": 2,
+      "content": "水电燃气是并没有降价的啊",
+      "music": 0.0
+    },
+    {
+      "from": 659.75,
+      "to": 660.78,
+      "sid": 290,
+      "location": 2,
+      "content": "它是个涨价的",
+      "music": 0.0
+    },
+    {
+      "from": 660.78,
+      "to": 662.5,
+      "sid": 291,
+      "location": 2,
+      "content": "下跌主要来自于房租",
+      "music": 0.0
+    },
+    {
+      "from": 662.5,
+      "to": 663.9,
+      "sid": 292,
+      "location": 2,
+      "content": "为什么房租会跌价呢",
+      "music": 0.0
+    },
+    {
+      "from": 663.9,
+      "to": 666.88,
+      "sid": 293,
+      "location": 2,
+      "content": "因为房地产价格跌了啊",
+      "music": 0.0
+    },
+    {
+      "from": 666.88,
+      "to": 668.44,
+      "sid": 294,
+      "location": 2,
+      "content": "啊我们继续往后看啊",
+      "music": 0.0
+    },
+    {
+      "from": 668.44,
+      "to": 670.32,
+      "sid": 295,
+      "location": 2,
+      "content": "我们看到了这个能源啊",
+      "music": 0.0
+    },
+    {
+      "from": 670.32,
+      "to": 672.42,
+      "sid": 296,
+      "location": 2,
+      "content": "能源的话呢涨了15.3个点",
+      "music": 0.0
+    },
+    {
+      "from": 672.42,
+      "to": 674.5,
+      "sid": 297,
+      "location": 2,
+      "content": "这个就是核心的贡献因子了",
+      "music": 0.0
+    },
+    {
+      "from": 674.5,
+      "to": 675.58,
+      "sid": 298,
+      "location": 2,
+      "content": "也就是国际油价",
+      "music": 0.0
+    },
+    {
+      "from": 675.58,
+      "to": 678.11,
+      "sid": 299,
+      "location": 2,
+      "content": "对于物价的上涨打了个神助攻啊",
+      "music": 0.0
+    },
+    {
+      "from": 678.11,
+      "to": 681.49,
+      "sid": 300,
+      "location": 2,
+      "content": "然后通信工具它是被存储逼着上涨的",
+      "music": 0.0
+    },
+    {
+      "from": 681.49,
+      "to": 683.17,
+      "sid": 301,
+      "location": 2,
+      "content": "因为内存的价格贵了",
+      "music": 0.0
+    },
+    {
+      "from": 683.17,
+      "to": 684.77,
+      "sid": 302,
+      "location": 2,
+      "content": "所以手机也不得不涨价",
+      "music": 0.0
+    },
+    {
+      "from": 684.77,
+      "to": 685.97,
+      "sid": 303,
+      "location": 2,
+      "content": "否则它就会亏钱",
+      "music": 0.0
+    },
+    {
+      "from": 685.97,
+      "to": 687.05,
+      "sid": 304,
+      "location": 2,
+      "content": "或者说没钱赚",
+      "music": 0.0
+    },
+    {
+      "from": 687.05,
+      "to": 687.53,
+      "sid": 305,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 687.53,
+      "to": 689.79,
+      "sid": 306,
+      "location": 2,
+      "content": "汽车的话呢则是跌价的啊",
+      "music": 0.0
+    },
+    {
+      "from": 689.79,
+      "to": 691.44,
+      "sid": 307,
+      "location": 2,
+      "content": "汽车消费是跌价的",
+      "music": 0.0
+    },
+    {
+      "from": 691.44,
+      "to": 693.04,
+      "sid": 308,
+      "location": 2,
+      "content": "那么整个医疗行业的话",
+      "music": 0.0
+    },
+    {
+      "from": 693.04,
+      "to": 695.17,
+      "sid": 309,
+      "location": 2,
+      "content": "我不是一直跟大家说要投医院嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 695.17,
+      "to": 697.11,
+      "sid": 310,
+      "location": 2,
+      "content": "你可以看到中药价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 697.11,
+      "to": 697.97,
+      "sid": 311,
+      "location": 2,
+      "content": "西药价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 697.97,
+      "to": 701.41,
+      "sid": 312,
+      "location": 2,
+      "content": "但是医生给你的医疗服务的价格是上涨的啊",
+      "music": 0.0
+    },
+    {
+      "from": 701.41,
+      "to": 704.33,
+      "sid": 313,
+      "location": 2,
+      "content": "所以我说医疗已经连续六个月以上",
+      "music": 0.0
+    },
+    {
+      "from": 704.33,
+      "to": 705.25,
+      "sid": 314,
+      "location": 2,
+      "content": "出现这个结构了",
+      "music": 0.0
+    },
+    {
+      "from": 705.25,
+      "to": 706.31,
+      "sid": 315,
+      "location": 2,
+      "content": "药物价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 706.31,
+      "to": 707.76,
+      "sid": 316,
+      "location": 2,
+      "content": "因为被集采影响啦",
+      "music": 0.0
+    },
+    {
+      "from": 707.76,
+      "to": 710.42,
+      "sid": 317,
+      "location": 2,
+      "content": "而医疗服务的价格则持续的上涨",
+      "music": 0.0
+    },
+    {
+      "from": 710.42,
+      "to": 712.93,
+      "sid": 318,
+      "location": 2,
+      "content": "用来补偿医院损失掉的这个收益",
+      "music": 0.0
+    },
+    {
+      "from": 712.93,
+      "to": 713.49,
+      "sid": 319,
+      "location": 2,
+      "content": "好",
+      "music": 0.0
+    },
+    {
+      "from": 713.49,
+      "to": 715.45,
+      "sid": 320,
+      "location": 2,
+      "content": "给你多拍X光去了是吧",
+      "music": 0.0
+    },
+    {
+      "from": 715.45,
+      "to": 717.02,
+      "sid": 321,
+      "location": 2,
+      "content": "拍的贵一点额",
+      "music": 0.0
+    },
+    {
+      "from": 717.02,
+      "to": 719.26,
+      "sid": 322,
+      "location": 2,
+      "content": "然后这个旅游的话呢也是价格上涨",
+      "music": 0.0
+    },
+    {
+      "from": 719.26,
+      "to": 720.7,
+      "sid": 323,
+      "location": 2,
+      "content": "但这个是个小板块啊",
+      "music": 0.0
+    },
+    {
+      "from": 720.7,
+      "to": 724.079,
+      "sid": 324,
+      "location": 2,
+      "content": "所以我们对于整个消费板块的一个评价",
+      "music": 0.0
+    },
+    {
+      "from": 724.079,
+      "to": 726.639,
+      "sid": 325,
+      "location": 2,
+      "content": "油价是核心的支撑因子",
+      "music": 0.0
+    },
+    {
+      "from": 726.639,
+      "to": 729.019,
+      "sid": 326,
+      "location": 2,
+      "content": "猪肉价格是核心的利空因子",
+      "music": 0.0
+    },
+    {
+      "from": 729.019,
+      "to": 731.87,
+      "sid": 327,
+      "location": 2,
+      "content": "其中上涨的周期还有个服装类啊",
+      "music": 0.0
+    },
+    {
+      "from": 731.87,
+      "to": 733.29,
+      "sid": 328,
+      "location": 2,
+      "content": "然后医药板块是分化的",
+      "music": 0.0
+    },
+    {
+      "from": 733.29,
+      "to": 734.33,
+      "sid": 329,
+      "location": 2,
+      "content": "药物价格下跌",
+      "music": 0.0
+    },
+    {
+      "from": 734.33,
+      "to": 736.11,
+      "sid": 330,
+      "location": 2,
+      "content": "医疗服务价格上涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.11,
+      "to": 737.91,
+      "sid": 331,
+      "location": 2,
+      "content": "然后汽车行业的价格下跌等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 737.91,
+      "to": 740.735,
+      "sid": 332,
+      "location": 2,
+      "content": "大家关注自己投资的行业即可",
+      "music": 0.0
+    },
+    {
+      "from": 741.72,
+      "to": 744.8,
+      "sid": 333,
+      "location": 2,
+      "content": "那么我们还要对每周这个宏观评价",
+      "music": 0.0
+    },
+    {
+      "from": 744.8,
+      "to": 747.2,
+      "sid": 334,
+      "location": 2,
+      "content": "其实对之前的结论我没有什么需要更改了",
+      "music": 0.0
+    },
+    {
+      "from": 747.2,
+      "to": 748.62,
+      "sid": 335,
+      "location": 2,
+      "content": "因此就没有标红",
+      "music": 0.0
+    },
+    {
+      "from": 748.62,
+      "to": 750.38,
+      "sid": 336,
+      "location": 2,
+      "content": "目前的一个情况的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 750.38,
+      "to": 751.82,
+      "sid": 337,
+      "location": 2,
+      "content": "进收很明显的就验证",
+      "music": 0.0
+    },
+    {
+      "from": 751.82,
+      "to": 755.26,
+      "sid": 338,
+      "location": 2,
+      "content": "第一个物价确实是之前我们所说的低速增长",
+      "music": 0.0
+    },
+    {
+      "from": 755.26,
+      "to": 755.58,
+      "sid": 339,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 755.58,
+      "to": 756.44,
+      "sid": 340,
+      "location": 2,
+      "content": "一个点",
+      "music": 0.0
+    },
+    {
+      "from": 756.44,
+      "to": 757.88,
+      "sid": 341,
+      "location": 2,
+      "content": "第二个情况的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 757.88,
+      "to": 759.32,
+      "sid": 342,
+      "location": 2,
+      "content": "工业物价我们之前说过",
+      "music": 0.0
+    },
+    {
+      "from": 759.32,
+      "to": 760.96,
+      "sid": 343,
+      "location": 2,
+      "content": "它的价格主要集中于上游",
+      "music": 0.0
+    },
+    {
+      "from": 760.96,
+      "to": 765.42,
+      "sid": 344,
+      "location": 2,
+      "content": "涨价是由矿产价格推动大宗价格驱动的是吧",
+      "music": 0.0
+    },
+    {
+      "from": 765.42,
+      "to": 766.54,
+      "sid": 345,
+      "location": 2,
+      "content": "大家也看到了",
+      "music": 0.0
+    },
+    {
+      "from": 766.54,
+      "to": 768.6,
+      "sid": 346,
+      "location": 2,
+      "content": "下游的话呢实际上比较困难的啊",
+      "music": 0.0
+    },
+    {
+      "from": 768.6,
+      "to": 769.96,
+      "sid": 347,
+      "location": 2,
+      "content": "工业下游啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.96,
+      "to": 772.96,
+      "sid": 348,
+      "location": 2,
+      "content": "其他的话我就没有什么需要改变的了",
+      "music": 0.0
+    },
+    {
+      "from": 773.32,
+      "to": 776.4,
+      "sid": 349,
+      "location": 2,
+      "content": "然后第三块也就是我开头跟大家说的第三块啊",
+      "music": 0.0
+    },
+    {
+      "from": 776.4,
+      "to": 779.63,
+      "sid": 350,
+      "location": 2,
+      "content": "美债加息的概率正在大幅上升",
+      "music": 0.0
+    },
+    {
+      "from": 779.63,
+      "to": 783.46,
+      "sid": 351,
+      "location": 2,
+      "content": "大家看左下角的美国的10年期的国债利率",
+      "music": 0.0
+    },
+    {
+      "from": 783.46,
+      "to": 786.62,
+      "sid": 352,
+      "location": 2,
+      "content": "国债利率已经从之前的4.2%几",
+      "music": 0.0
+    },
+    {
+      "from": 786.62,
+      "to": 788.62,
+      "sid": 353,
+      "location": 2,
+      "content": "一路涨到了4.6%",
+      "music": 0.0
+    },
+    {
+      "from": 788.62,
+      "to": 790.34,
+      "sid": 354,
+      "location": 2,
+      "content": "已经达到了今年年底的高点",
+      "music": 0.0
+    },
+    {
+      "from": 790.34,
+      "to": 792.13,
+      "sid": 355,
+      "location": 2,
+      "content": "很快就要破之前的小高点了",
+      "music": 0.0
+    },
+    {
+      "from": 792.13,
+      "to": 793.99,
+      "sid": 356,
+      "location": 2,
+      "content": "美债长端利率的上升",
+      "music": 0.0
+    },
+    {
+      "from": 793.99,
+      "to": 795.89,
+      "sid": 357,
+      "location": 2,
+      "content": "代表市场在交易加息预期",
+      "music": 0.0
+    },
+    {
+      "from": 795.89,
+      "to": 798.59,
+      "sid": 358,
+      "location": 2,
+      "content": "所以会把长时间的利率往上抬啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.59,
+      "to": 800.39,
+      "sid": 359,
+      "location": 2,
+      "content": "比如市场预期你后面要加一次",
+      "music": 0.0
+    },
+    {
+      "from": 800.39,
+      "to": 800.79,
+      "sid": 360,
+      "location": 2,
+      "content": "加两次",
+      "music": 0.0
+    },
+    {
+      "from": 800.79,
+      "to": 801.39,
+      "sid": 361,
+      "location": 2,
+      "content": "加三次",
+      "music": 0.0
+    },
+    {
+      "from": 801.39,
+      "to": 803.87,
+      "sid": 362,
+      "location": 2,
+      "content": "那你未来10年的平均率是不是应该往上走啊",
+      "music": 0.0
+    },
+    {
+      "from": 803.87,
+      "to": 804.43,
+      "sid": 363,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 804.43,
+      "to": 805.99,
+      "sid": 364,
+      "location": 2,
+      "content": "所以是这么一个预期",
+      "music": 0.0
+    },
+    {
+      "from": 805.99,
+      "to": 809.25,
+      "sid": 365,
+      "location": 2,
+      "content": "那么我们看到右上角芝加哥交易所",
+      "music": 0.0
+    },
+    {
+      "from": 809.25,
+      "to": 813.1,
+      "sid": 366,
+      "location": 2,
+      "content": "他们交易的一个啊加息概率",
+      "music": 0.0
+    },
+    {
+      "from": 813.1,
+      "to": 815.12,
+      "sid": 367,
+      "location": 2,
+      "content": "这根蓝色的这根柱子",
+      "music": 0.0
+    },
+    {
+      "from": 815.12,
+      "to": 817.58,
+      "sid": 368,
+      "location": 2,
+      "content": "左边写着3.5到3.75",
+      "music": 0.0
+    },
+    {
+      "from": 817.58,
+      "to": 819.85,
+      "sid": 369,
+      "location": 2,
+      "content": "是美元现在的短期利率",
+      "music": 0.0
+    },
+    {
+      "from": 819.85,
+      "to": 822.65,
+      "sid": 370,
+      "location": 2,
+      "content": "美元现在的国库券的短期利率的交易水平",
+      "music": 0.0
+    },
+    {
+      "from": 822.65,
+      "to": 824.65,
+      "sid": 371,
+      "location": 2,
+      "content": "在3.5%到3.75%",
+      "music": 0.0
+    },
+    {
+      "from": 824.65,
+      "to": 826.14,
+      "sid": 372,
+      "location": 2,
+      "content": "的年化利率水平",
+      "music": 0.0
+    },
+    {
+      "from": 826.14,
+      "to": 828.1,
+      "sid": 373,
+      "location": 2,
+      "content": "那么3.75到4.0",
+      "music": 0.0
+    },
+    {
+      "from": 828.1,
+      "to": 831.54,
+      "sid": 374,
+      "location": 2,
+      "content": "则是比左边这个区间要平均要涨25个基点",
+      "music": 0.0
+    },
+    {
+      "from": 831.54,
+      "to": 833.79,
+      "sid": 375,
+      "location": 2,
+      "content": "就0.25对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 833.79,
+      "to": 835.89,
+      "sid": 376,
+      "location": 2,
+      "content": "这个的话呢就是属于一个加息概率",
+      "music": 0.0
+    },
+    {
+      "from": 835.89,
+      "to": 836.71,
+      "sid": 377,
+      "location": 2,
+      "content": "因为他在交易",
+      "music": 0.0
+    },
+    {
+      "from": 836.71,
+      "to": 840.38,
+      "sid": 378,
+      "location": 2,
+      "content": "7月30号那个时候会是加息还是降息对吧",
+      "music": 0.0
+    },
+    {
+      "from": 840.38,
+      "to": 843.67,
+      "sid": 379,
+      "location": 2,
+      "content": "我们观察到这个加息一次的概率",
+      "music": 0.0
+    },
+    {
+      "from": 843.67,
+      "to": 846.41,
+      "sid": 380,
+      "location": 2,
+      "content": "上周的话呢只有22%是吧",
+      "music": 0.0
+    },
+    {
+      "from": 846.41,
+      "to": 849.61,
+      "sid": 381,
+      "location": 2,
+      "content": "然后到了昨天的话呢是交易到35%",
+      "music": 0.0
+    },
+    {
+      "from": 849.61,
+      "to": 850.39,
+      "sid": 382,
+      "location": 2,
+      "content": "到了今天的话",
+      "music": 0.0
+    },
+    {
+      "from": 850.39,
+      "to": 853.46,
+      "sid": 383,
+      "location": 2,
+      "content": "交易到了41%加息的概率",
+      "music": 0.0
+    },
+    {
+      "from": 853.46,
+      "to": 857.03,
+      "sid": 384,
+      "location": 2,
+      "content": "这个月月底美元加息的概率正在逐步上升",
+      "music": 0.0
+    },
+    {
+      "from": 857.03,
+      "to": 859.49,
+      "sid": 385,
+      "location": 2,
+      "content": "甚至已经到达了40%了",
+      "music": 0.0
+    },
+    {
+      "from": 859.49,
+      "to": 861.68,
+      "sid": 386,
+      "location": 2,
+      "content": "你再涨下去就要到一半的可能性了",
+      "music": 0.0
+    },
+    {
+      "from": 861.68,
+      "to": 864.2,
+      "sid": 387,
+      "location": 2,
+      "content": "所以现在市场的话呢又在交易美元",
+      "music": 0.0
+    },
+    {
+      "from": 864.2,
+      "to": 865.12,
+      "sid": 388,
+      "location": 2,
+      "content": "行价利率上升",
+      "music": 0.0
+    },
+    {
+      "from": 865.12,
+      "to": 866.7,
+      "sid": 389,
+      "location": 2,
+      "content": "又在交易加息概率上升",
+      "music": 0.0
+    },
+    {
+      "from": 866.7,
+      "to": 870.04,
+      "sid": 390,
+      "location": 2,
+      "content": "就是一个加息预期的这么一个可能性",
+      "music": 0.0
+    },
+    {
+      "from": 870.04,
+      "to": 871.68,
+      "sid": 391,
+      "location": 2,
+      "content": "已经不叫降息了啊",
+      "music": 0.0
+    },
+    {
+      "from": 871.68,
+      "to": 874.66,
+      "sid": 392,
+      "location": 2,
+      "content": "叫做加息预期是吧",
+      "music": 0.0
+    },
+    {
+      "from": 874.66,
+      "to": 876.94,
+      "sid": 393,
+      "location": 2,
+      "content": "然后人民币反而比较强",
+      "music": 0.0
+    },
+    {
+      "from": 876.94,
+      "to": 878.98,
+      "sid": 394,
+      "location": 2,
+      "content": "我们看到人民币这段时间其实都压着美元",
+      "music": 0.0
+    },
+    {
+      "from": 878.98,
+      "to": 880.16,
+      "sid": 395,
+      "location": 2,
+      "content": "在6.78对吧",
+      "music": 0.0
+    },
+    {
+      "from": 880.16,
+      "to": 882.61,
+      "sid": 396,
+      "location": 2,
+      "content": "所以人民币的话呢主要是国家信用的问题",
+      "music": 0.0
+    },
+    {
+      "from": 882.61,
+      "to": 884.33,
+      "sid": 397,
+      "location": 2,
+      "content": "因为美债的这个风险问题",
+      "music": 0.0
+    },
+    {
+      "from": 884.33,
+      "to": 886.95,
+      "sid": 398,
+      "location": 2,
+      "content": "导致世界上现在很多国家不愿意囤美元",
+      "music": 0.0
+    },
+    {
+      "from": 886.95,
+      "to": 888.289,
+      "sid": 399,
+      "location": 2,
+      "content": "囤美债啊",
+      "music": 0.0
+    },
+    {
+      "from": 888.289,
+      "to": 890.029,
+      "sid": 400,
+      "location": 2,
+      "content": "我们国家的话一直在减持美债",
+      "music": 0.0
+    },
+    {
+      "from": 890.029,
+      "to": 892.66,
+      "sid": 401,
+      "location": 2,
+      "content": "然后买黄金嘛啊已经连续好几个季度了",
+      "music": 0.0
+    },
+    {
+      "from": 892.66,
+      "to": 895.54,
+      "sid": 402,
+      "location": 2,
+      "content": "除以上就是我跟大家简单补充的报告啊",
+      "music": 0.0
+    },
+    {
+      "from": 895.54,
+      "to": 896.2,
+      "sid": 403,
+      "location": 2,
+      "content": "非常抱歉",
+      "music": 0.0
+    },
+    {
+      "from": 896.2,
+      "to": 898.3,
+      "sid": 404,
+      "location": 2,
+      "content": "上周末的话呢没有来得及发啊",
+      "music": 0.0
+    },
+    {
+      "from": 898.3,
+      "to": 900.83,
+      "sid": 405,
+      "location": 2,
+      "content": "今天的话呢啊12点钟给大家补一下",
+      "music": 0.0
+    },
+    {
+      "from": 900.83,
+      "to": 902.29,
+      "sid": 406,
+      "location": 2,
+      "content": "然后我们还是要多勤奋",
+      "music": 0.0
+    },
+    {
+      "from": 902.29,
+      "to": 903.47,
+      "sid": 407,
+      "location": 2,
+      "content": "多研究对吧",
+      "music": 0.0
+    },
+    {
+      "from": 903.47,
+      "to": 904.09,
+      "sid": 408,
+      "location": 2,
+      "content": "要有韧性",
+      "music": 0.0
+    },
+    {
+      "from": 904.09,
+      "to": 907.35,
+      "sid": 409,
+      "location": 2,
+      "content": "我们这类投资者要对自己的未来有信心",
+      "music": 0.0
+    },
+    {
+      "from": 907.35,
+      "to": 908.48,
+      "sid": 410,
+      "location": 2,
+      "content": "好吧拜拜",
+      "music": 0.0
+    }
+  ]
+}

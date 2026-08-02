@@ -1,0 +1,7604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.36,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.36,
+      "to": 2.04,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎大家回到老厉害的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.04,
+      "to": 4.66,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢和大家分享一篇cf40的最新研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.66,
+      "to": 7.2,
+      "sid": 4,
+      "location": 2,
+      "content": "这篇报告呢是分为了上下两部分",
+      "music": 0.0
+    },
+    {
+      "from": 7.2,
+      "to": 9.4,
+      "sid": 5,
+      "location": 2,
+      "content": "上半部分是宏观的内容",
+      "music": 0.0
+    },
+    {
+      "from": 9.4,
+      "to": 11.68,
+      "sid": 6,
+      "location": 2,
+      "content": "主要是对上半年中国的经济数据",
+      "music": 0.0
+    },
+    {
+      "from": 11.68,
+      "to": 12.92,
+      "sid": 7,
+      "location": 2,
+      "content": "进行了全面的回顾",
+      "music": 0.0
+    },
+    {
+      "from": 12.92,
+      "to": 15.32,
+      "sid": 8,
+      "location": 2,
+      "content": "并且提出了一些他们的政策建议啊",
+      "music": 0.0
+    },
+    {
+      "from": 15.32,
+      "to": 18.32,
+      "sid": 9,
+      "location": 2,
+      "content": "而今天呢我主要跟大家分享的是这期影片",
+      "music": 0.0
+    },
+    {
+      "from": 18.32,
+      "to": 18.92,
+      "sid": 10,
+      "location": 2,
+      "content": "重点内容",
+      "music": 0.0
+    },
+    {
+      "from": 18.92,
+      "to": 19.88,
+      "sid": 11,
+      "location": 2,
+      "content": "也就是下半部分",
+      "music": 0.0
+    },
+    {
+      "from": 19.88,
+      "to": 21.68,
+      "sid": 12,
+      "location": 2,
+      "content": "我相信这也是频道内小伙伴都",
+      "music": 0.0
+    },
+    {
+      "from": 21.68,
+      "to": 22.8,
+      "sid": 13,
+      "location": 2,
+      "content": "比较关注的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 22.8,
+      "to": 25.62,
+      "sid": 14,
+      "location": 2,
+      "content": "就是AI到底会如何的影响宏观经济",
+      "music": 0.0
+    },
+    {
+      "from": 25.62,
+      "to": 27.52,
+      "sid": 15,
+      "location": 2,
+      "content": "从而最终影响到我们每一个人啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.52,
+      "to": 29.8,
+      "sid": 16,
+      "location": 2,
+      "content": "先简单的说一下上半部分的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.8,
+      "to": 31.64,
+      "sid": 17,
+      "location": 2,
+      "content": "那上半年的经济数据我就不说了",
+      "music": 0.0
+    },
+    {
+      "from": 31.64,
+      "to": 32.28,
+      "sid": 18,
+      "location": 2,
+      "content": "主要说一下",
+      "music": 0.0
+    },
+    {
+      "from": 32.28,
+      "to": 33.52,
+      "sid": 19,
+      "location": 2,
+      "content": "在cf40看来",
+      "music": 0.0
+    },
+    {
+      "from": 33.52,
+      "to": 35.72,
+      "sid": 20,
+      "location": 2,
+      "content": "二季度中国经济转弱的主要原因",
+      "music": 0.0
+    },
+    {
+      "from": 35.72,
+      "to": 37.72,
+      "sid": 21,
+      "location": 2,
+      "content": "以及需要出台什么样的政策",
+      "music": 0.0
+    },
+    {
+      "from": 37.72,
+      "to": 38.68,
+      "sid": 22,
+      "location": 2,
+      "content": "在归因方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.76,
+      "to": 46.48,
+      "sid": 23,
+      "location": 2,
+      "content": "而这个内生的动力机制主要是因为利率过高",
+      "music": 0.0
+    },
+    {
+      "from": 46.48,
+      "to": 48.14,
+      "sid": 24,
+      "location": 2,
+      "content": "所以没有这样的机制啊",
+      "music": 0.0
+    },
+    {
+      "from": 48.14,
+      "to": 49.0,
+      "sid": 25,
+      "location": 2,
+      "content": "那没错",
+      "music": 0.0
+    },
+    {
+      "from": 49.0,
+      "to": 52.26,
+      "sid": 26,
+      "location": 2,
+      "content": "这还是一篇社科院张斌参与的报告啊",
+      "music": 0.0
+    },
+    {
+      "from": 52.26,
+      "to": 54.1,
+      "sid": 27,
+      "location": 2,
+      "content": "从这个归因上大家就可以看出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.1,
+      "to": 55.5,
+      "sid": 28,
+      "location": 2,
+      "content": "那张斌呢一直的观点",
+      "music": 0.0
+    },
+    {
+      "from": 55.5,
+      "to": 57.1,
+      "sid": 29,
+      "location": 2,
+      "content": "我也跟大家反复的分享过了",
+      "music": 0.0
+    },
+    {
+      "from": 57.1,
+      "to": 58.84,
+      "sid": 30,
+      "location": 2,
+      "content": "就是通过降低实际利率",
+      "music": 0.0
+    },
+    {
+      "from": 58.84,
+      "to": 61.84,
+      "sid": 31,
+      "location": 2,
+      "content": "特别是最好能让实际利率低于自然利率",
+      "music": 0.0
+    },
+    {
+      "from": 61.84,
+      "to": 63.94,
+      "sid": 32,
+      "location": 2,
+      "content": "从而让居民部门和企业部门",
+      "music": 0.0
+    },
+    {
+      "from": 63.94,
+      "to": 65.6,
+      "sid": 33,
+      "location": 2,
+      "content": "无论是买房还是投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.6,
+      "to": 66.73,
+      "sid": 34,
+      "location": 2,
+      "content": "都能有利可图",
+      "music": 0.0
+    },
+    {
+      "from": 66.73,
+      "to": 70.97,
+      "sid": 35,
+      "location": 2,
+      "content": "那第二个呢归因则是政府广义支出的显著下行",
+      "music": 0.0
+    },
+    {
+      "from": 70.97,
+      "to": 71.93,
+      "sid": 36,
+      "location": 2,
+      "content": "拖累了内需",
+      "music": 0.0
+    },
+    {
+      "from": 71.93,
+      "to": 73.18,
+      "sid": 37,
+      "location": 2,
+      "content": "特别是固头啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.18,
+      "to": 75.54,
+      "sid": 38,
+      "location": 2,
+      "content": "这体现在政府的财政收入的增速",
+      "music": 0.0
+    },
+    {
+      "from": 75.54,
+      "to": 78.72,
+      "sid": 39,
+      "location": 2,
+      "content": "在上半年显著地高于财政支出的增速",
+      "music": 0.0
+    },
+    {
+      "from": 78.72,
+      "to": 81.44,
+      "sid": 40,
+      "location": 2,
+      "content": "那以及呢政府债券发行节奏的偏慢",
+      "music": 0.0
+    },
+    {
+      "from": 81.44,
+      "to": 84.62,
+      "sid": 41,
+      "location": 2,
+      "content": "所以实际上上半年的财政政策是偏紧缩的",
+      "music": 0.0
+    },
+    {
+      "from": 84.62,
+      "to": 87.38,
+      "sid": 42,
+      "location": 2,
+      "content": "那这个归因和前面刚刚提到的第一个归因啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.38,
+      "to": 88.28,
+      "sid": 43,
+      "location": 2,
+      "content": "放在一起呢",
+      "music": 0.0
+    },
+    {
+      "from": 88.28,
+      "to": 90.7,
+      "sid": 44,
+      "location": 2,
+      "content": "就是二季度既没有货币政策",
+      "music": 0.0
+    },
+    {
+      "from": 90.7,
+      "to": 91.65,
+      "sid": 45,
+      "location": 2,
+      "content": "就没有降息",
+      "music": 0.0
+    },
+    {
+      "from": 91.65,
+      "to": 93.63,
+      "sid": 46,
+      "location": 2,
+      "content": "也没有财政政策啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.63,
+      "to": 95.4,
+      "sid": 47,
+      "location": 2,
+      "content": "财政是在实质性的紧缩的",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 97.28,
+      "sid": 48,
+      "location": 2,
+      "content": "在一个仍然处于经济下行",
+      "music": 0.0
+    },
+    {
+      "from": 97.28,
+      "to": 99.3,
+      "sid": 49,
+      "location": 2,
+      "content": "负向螺旋的经济周期里呢",
+      "music": 0.0
+    },
+    {
+      "from": 99.3,
+      "to": 101.36,
+      "sid": 50,
+      "location": 2,
+      "content": "自然会有显著的下行压力",
+      "music": 0.0
+    },
+    {
+      "from": 101.36,
+      "to": 103.4,
+      "sid": 51,
+      "location": 2,
+      "content": "这也是为什么二季度经济会转弱",
+      "music": 0.0
+    },
+    {
+      "from": 103.4,
+      "to": 105.56,
+      "sid": 52,
+      "location": 2,
+      "content": "当然第三个归因呢是油价的冲击啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.56,
+      "to": 108.9,
+      "sid": 53,
+      "location": 2,
+      "content": "这块主要是对工增当中的一些石油化工的分项",
+      "music": 0.0
+    },
+    {
+      "from": 108.9,
+      "to": 110.56,
+      "sid": 54,
+      "location": 2,
+      "content": "它的产出影响比较大",
+      "music": 0.0
+    },
+    {
+      "from": 110.56,
+      "to": 111.52,
+      "sid": 55,
+      "location": 2,
+      "content": "我就不展开了啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.52,
+      "to": 112.88,
+      "sid": 56,
+      "location": 2,
+      "content": "那具体到政策应对呢",
+      "music": 0.0
+    },
+    {
+      "from": 112.88,
+      "to": 115.1,
+      "sid": 57,
+      "location": 2,
+      "content": "cf40团队还是建议对症下药啊",
+      "music": 0.0
+    },
+    {
+      "from": 115.1,
+      "to": 117.58,
+      "sid": 58,
+      "location": 2,
+      "content": "也就是货币和财政政策都要发力",
+      "music": 0.0
+    },
+    {
+      "from": 117.58,
+      "to": 120.14,
+      "sid": 59,
+      "location": 2,
+      "content": "但前者呢在我看来是非常困难的",
+      "music": 0.0
+    },
+    {
+      "from": 120.14,
+      "to": 123.26,
+      "sid": 60,
+      "location": 2,
+      "content": "一方面呢受制于银行的这个净息差的约束啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.26,
+      "to": 123.94,
+      "sid": 61,
+      "location": 2,
+      "content": "另一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 123.94,
+      "to": 126.46,
+      "sid": 62,
+      "location": 2,
+      "content": "也要从系统性金融风险的角度去考量",
+      "music": 0.0
+    },
+    {
+      "from": 126.46,
+      "to": 126.98,
+      "sid": 63,
+      "location": 2,
+      "content": "利率",
+      "music": 0.0
+    },
+    {
+      "from": 126.98,
+      "to": 128.9,
+      "sid": 64,
+      "location": 2,
+      "content": "如果大幅的快速的下行",
+      "music": 0.0
+    },
+    {
+      "from": 132.5,
+      "to": 136.0,
+      "sid": 65,
+      "location": 2,
+      "content": "那财政政策呢大概率还是下半年政策的主线",
+      "music": 0.0
+    },
+    {
+      "from": 136.0,
+      "to": 138.26,
+      "sid": 66,
+      "location": 2,
+      "content": "主要呢还是聚焦在用足用好",
+      "music": 0.0
+    },
+    {
+      "from": 138.26,
+      "to": 140.5,
+      "sid": 67,
+      "location": 2,
+      "content": "年度的这个财政预算啊",
+      "music": 0.0
+    },
+    {
+      "from": 140.5,
+      "to": 142.22,
+      "sid": 68,
+      "location": 2,
+      "content": "那还有就是尽快落地",
+      "music": 0.0
+    },
+    {
+      "from": 144.84,
+      "to": 148.08,
+      "sid": 69,
+      "location": 2,
+      "content": "那除了张斌仍然执念于货币政策加码之外呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.08,
+      "to": 150.28,
+      "sid": 70,
+      "location": 2,
+      "content": "其他的判断和对政策的期待啊",
+      "music": 0.0
+    },
+    {
+      "from": 150.28,
+      "to": 152.72,
+      "sid": 71,
+      "location": 2,
+      "content": "和前段时间我给大家分享的外资研报",
+      "music": 0.0
+    },
+    {
+      "from": 152.72,
+      "to": 153.76,
+      "sid": 72,
+      "location": 2,
+      "content": "基本上保持一致",
+      "music": 0.0
+    },
+    {
+      "from": 153.76,
+      "to": 155.82,
+      "sid": 73,
+      "location": 2,
+      "content": "所以就简单的跟大家分享一下这些内容",
+      "music": 0.0
+    },
+    {
+      "from": 155.82,
+      "to": 158.1,
+      "sid": 74,
+      "location": 2,
+      "content": "那接下来呢重点是和大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 158.1,
+      "to": 159.64,
+      "sid": 75,
+      "location": 2,
+      "content": "这篇报告的专题部分",
+      "music": 0.0
+    },
+    {
+      "from": 159.64,
+      "to": 161.62,
+      "sid": 76,
+      "location": 2,
+      "content": "也就是AI的宏观经济学",
+      "music": 0.0
+    },
+    {
+      "from": 161.62,
+      "to": 164.149,
+      "sid": 77,
+      "location": 2,
+      "content": "我们可以先跳到这部分的内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.149,
+      "to": 166.849,
+      "sid": 78,
+      "location": 2,
+      "content": "也就是大概在这篇研报的第18页啊",
+      "music": 0.0
+    },
+    {
+      "from": 166.849,
+      "to": 169.669,
+      "sid": 79,
+      "location": 2,
+      "content": "如果用一句话来概括这个专题呢",
+      "music": 0.0
+    },
+    {
+      "from": 169.669,
+      "to": 173.74,
+      "sid": 80,
+      "location": 2,
+      "content": "就是cf40认为AI不是一次普通的技术革命",
+      "music": 0.0
+    },
+    {
+      "from": 173.74,
+      "to": 175.78,
+      "sid": 81,
+      "location": 2,
+      "content": "而是一次会改变经济增长",
+      "music": 0.0
+    },
+    {
+      "from": 175.78,
+      "to": 176.96,
+      "sid": 82,
+      "location": 2,
+      "content": "改变经济波动",
+      "music": 0.0
+    },
+    {
+      "from": 176.96,
+      "to": 179.74,
+      "sid": 83,
+      "location": 2,
+      "content": "以及改变市场竞争方式的技术革命",
+      "music": 0.0
+    },
+    {
+      "from": 179.74,
+      "to": 182.32,
+      "sid": 84,
+      "location": 2,
+      "content": "也就是说这里面涉及到三个维度的改变",
+      "music": 0.0
+    },
+    {
+      "from": 182.32,
+      "to": 183.02,
+      "sid": 85,
+      "location": 2,
+      "content": "因此呢",
+      "music": 0.0
+    },
+    {
+      "from": 183.02,
+      "to": 186.4,
+      "sid": 86,
+      "location": 2,
+      "content": "未来宏观政策不能只关注于全要素",
+      "music": 0.0
+    },
+    {
+      "from": 186.4,
+      "to": 188.22,
+      "sid": 87,
+      "location": 2,
+      "content": "生产率是否提升了",
+      "music": 0.0
+    },
+    {
+      "from": 188.22,
+      "to": 191.99,
+      "sid": 88,
+      "location": 2,
+      "content": "而必须同时关注需求的稳定和市场的竞争啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.99,
+      "to": 193.35,
+      "sid": 89,
+      "location": 2,
+      "content": "那改变经济增长",
+      "music": 0.0
+    },
+    {
+      "from": 193.35,
+      "to": 196.43,
+      "sid": 90,
+      "location": 2,
+      "content": "改变经济波动以及改变市场竞争方式呢",
+      "music": 0.0
+    },
+    {
+      "from": 196.43,
+      "to": 199.38,
+      "sid": 91,
+      "location": 2,
+      "content": "分别对应的就是AI会改变供给",
+      "music": 0.0
+    },
+    {
+      "from": 199.38,
+      "to": 201.74,
+      "sid": 92,
+      "location": 2,
+      "content": "改变需求和改变市场结构",
+      "music": 0.0
+    },
+    {
+      "from": 201.74,
+      "to": 203.62,
+      "sid": 93,
+      "location": 2,
+      "content": "为了便于大家理解啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.62,
+      "to": 205.74,
+      "sid": 94,
+      "location": 2,
+      "content": "我简单的画了一张思维的导图啊",
+      "music": 0.0
+    },
+    {
+      "from": 205.74,
+      "to": 207.06,
+      "sid": 95,
+      "location": 2,
+      "content": "也借着这张思维导图呢",
+      "music": 0.0
+    },
+    {
+      "from": 207.06,
+      "to": 210.47,
+      "sid": 96,
+      "location": 2,
+      "content": "和大家逐一的分享一下研报的核心结论啊",
+      "music": 0.0
+    },
+    {
+      "from": 210.47,
+      "to": 212.89,
+      "sid": 97,
+      "location": 2,
+      "content": "然后我们再来看研报的整体论述逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 212.89,
+      "to": 214.55,
+      "sid": 98,
+      "location": 2,
+      "content": "先说改变供给啊",
+      "music": 0.0
+    },
+    {
+      "from": 214.55,
+      "to": 217.5,
+      "sid": 99,
+      "location": 2,
+      "content": "就是AI呢会提高全要素生产率啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.5,
+      "to": 219.6,
+      "sid": 100,
+      "location": 2,
+      "content": "这呢应该是目前市场的共识",
+      "music": 0.0
+    },
+    {
+      "from": 219.6,
+      "to": 222.7,
+      "sid": 101,
+      "location": 2,
+      "content": "但是从目前AI对美国经济的影响来看",
+      "music": 0.0
+    },
+    {
+      "from": 222.7,
+      "to": 224.36,
+      "sid": 102,
+      "location": 2,
+      "content": "美国的全要素生产率",
+      "music": 0.0
+    },
+    {
+      "from": 224.36,
+      "to": 225.48,
+      "sid": 103,
+      "location": 2,
+      "content": "似乎截至目前",
+      "music": 0.0
+    },
+    {
+      "from": 225.48,
+      "to": 227.94,
+      "sid": 104,
+      "location": 2,
+      "content": "并没有因为AI的快速应用而",
+      "music": 0.0
+    },
+    {
+      "from": 227.94,
+      "to": 230.1,
+      "sid": 105,
+      "location": 2,
+      "content": "显著地超越历史平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 230.1,
+      "to": 231.7,
+      "sid": 106,
+      "location": 2,
+      "content": "24年和25年",
+      "music": 0.0
+    },
+    {
+      "from": 231.7,
+      "to": 233.74,
+      "sid": 107,
+      "location": 2,
+      "content": "美国的全要素生产率增速均值",
+      "music": 0.0
+    },
+    {
+      "from": 233.74,
+      "to": 236.0,
+      "sid": 108,
+      "location": 2,
+      "content": "在这篇专题当中提供的啊",
+      "music": 0.0
+    },
+    {
+      "from": 236.0,
+      "to": 239.92,
+      "sid": 109,
+      "location": 2,
+      "content": "这个数据甚至还低于2000到2007年期间",
+      "music": 0.0
+    },
+    {
+      "from": 239.92,
+      "to": 242.7,
+      "sid": 110,
+      "location": 2,
+      "content": "也就是互联网快速应用的那个阶段的表现",
+      "music": 0.0
+    },
+    {
+      "from": 242.7,
+      "to": 243.66,
+      "sid": 111,
+      "location": 2,
+      "content": "那这篇专题呢",
+      "music": 0.0
+    },
+    {
+      "from": 243.66,
+      "to": 246.34,
+      "sid": 112,
+      "location": 2,
+      "content": "引用了兰德斯在2007年的一本书",
+      "music": 0.0
+    },
+    {
+      "from": 246.34,
+      "to": 247.35,
+      "sid": 113,
+      "location": 2,
+      "content": "当中的一个观点",
+      "music": 0.0
+    },
+    {
+      "from": 247.35,
+      "to": 249.27,
+      "sid": 114,
+      "location": 2,
+      "content": "说AI对生产率的影响",
+      "music": 0.0
+    },
+    {
+      "from": 249.27,
+      "to": 251.17,
+      "sid": 115,
+      "location": 2,
+      "content": "需要关注的研究视角是",
+      "music": 0.0
+    },
+    {
+      "from": 251.17,
+      "to": 255.96,
+      "sid": 116,
+      "location": 2,
+      "content": "AI能否成为激发一连串技术进步的催化剂",
+      "music": 0.0
+    },
+    {
+      "from": 255.96,
+      "to": 258.96,
+      "sid": 117,
+      "location": 2,
+      "content": "就像兰德斯在2007年这本书里面提到",
+      "music": 0.0
+    },
+    {
+      "from": 258.96,
+      "to": 260.82,
+      "sid": 118,
+      "location": 2,
+      "content": "当年的纺织业是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 260.82,
+      "to": 264.44,
+      "sid": 119,
+      "location": 2,
+      "content": "最开始呢先是飞梭提高了织布的速度",
+      "music": 0.0
+    },
+    {
+      "from": 264.44,
+      "to": 266.42,
+      "sid": 120,
+      "location": 2,
+      "content": "那导致了棉纱的短缺",
+      "music": 0.0
+    },
+    {
+      "from": 266.42,
+      "to": 269.38,
+      "sid": 121,
+      "location": 2,
+      "content": "倒逼发明了纺织机去做棉纱",
+      "music": 0.0
+    },
+    {
+      "from": 269.38,
+      "to": 271.32,
+      "sid": 122,
+      "location": 2,
+      "content": "然后呢棉纱又过剩了",
+      "music": 0.0
+    },
+    {
+      "from": 271.32,
+      "to": 274.26,
+      "sid": 123,
+      "location": 2,
+      "content": "那又倒逼去发明了蒸汽织布机",
+      "music": 0.0
+    },
+    {
+      "from": 274.26,
+      "to": 277.1,
+      "sid": 124,
+      "location": 2,
+      "content": "那后面呢纺织业实现了蒸汽化之后",
+      "music": 0.0
+    },
+    {
+      "from": 277.1,
+      "to": 278.64,
+      "sid": 125,
+      "location": 2,
+      "content": "发现煤炭需求暴增",
+      "music": 0.0
+    },
+    {
+      "from": 278.64,
+      "to": 280.98,
+      "sid": 126,
+      "location": 2,
+      "content": "煤炭开采呢又遇到一个新的问题",
+      "music": 0.0
+    },
+    {
+      "from": 280.98,
+      "to": 283.49,
+      "sid": 127,
+      "location": 2,
+      "content": "是由于不断开采煤矿以后",
+      "music": 0.0
+    },
+    {
+      "from": 283.49,
+      "to": 285.45,
+      "sid": 128,
+      "location": 2,
+      "content": "这煤矿井要越挖越深",
+      "music": 0.0
+    },
+    {
+      "from": 285.45,
+      "to": 287.21,
+      "sid": 129,
+      "location": 2,
+      "content": "那么就要解决地下水的问题",
+      "music": 0.0
+    },
+    {
+      "from": 287.21,
+      "to": 289.94,
+      "sid": 130,
+      "location": 2,
+      "content": "如于是又催生了蒸汽机的水泵",
+      "music": 0.0
+    },
+    {
+      "from": 289.94,
+      "to": 293.02,
+      "sid": 131,
+      "location": 2,
+      "content": "那蒸汽机制造呢又需要更密闭的气缸",
+      "music": 0.0
+    },
+    {
+      "from": 293.02,
+      "to": 296.16,
+      "sid": 132,
+      "location": 2,
+      "content": "倒逼冶金液和精密机床的突破",
+      "music": 0.0
+    },
+    {
+      "from": 296.16,
+      "to": 298.12,
+      "sid": 133,
+      "location": 2,
+      "content": "这种一连串的技术进步",
+      "music": 0.0
+    },
+    {
+      "from": 298.12,
+      "to": 300.1,
+      "sid": 134,
+      "location": 2,
+      "content": "在目前AI的应用过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 300.1,
+      "to": 301.36,
+      "sid": 135,
+      "location": 2,
+      "content": "还是没有看到的",
+      "music": 0.0
+    },
+    {
+      "from": 301.36,
+      "to": 302.52,
+      "sid": 136,
+      "location": 2,
+      "content": "那cf40认为呢",
+      "music": 0.0
+    },
+    {
+      "from": 302.52,
+      "to": 305.0,
+      "sid": 137,
+      "location": 2,
+      "content": "目前AI对于经济的影响",
+      "music": 0.0
+    },
+    {
+      "from": 305.0,
+      "to": 307.04,
+      "sid": 138,
+      "location": 2,
+      "content": "还处于一个J型曲线的底部",
+      "music": 0.0
+    },
+    {
+      "from": 307.04,
+      "to": 310.52,
+      "sid": 139,
+      "location": 2,
+      "content": "也就是说呢各大企业加大资本开支压住AI",
+      "music": 0.0
+    },
+    {
+      "from": 310.52,
+      "to": 313.56,
+      "sid": 140,
+      "location": 2,
+      "content": "那现在整体呢是全要素生产率反而在下降",
+      "music": 0.0
+    },
+    {
+      "from": 313.56,
+      "to": 317.32,
+      "sid": 141,
+      "location": 2,
+      "content": "因为大量的资本都投入到了一些硬件算力方面",
+      "music": 0.0
+    },
+    {
+      "from": 317.32,
+      "to": 319.28,
+      "sid": 142,
+      "location": 2,
+      "content": "但是未来的路还不清楚",
+      "music": 0.0
+    },
+    {
+      "from": 319.28,
+      "to": 321.54,
+      "sid": 143,
+      "location": 2,
+      "content": "而且它到底最终能以多大的程度啊",
+      "music": 0.0
+    },
+    {
+      "from": 321.54,
+      "to": 322.98,
+      "sid": 144,
+      "location": 2,
+      "content": "带动全要素生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 322.98,
+      "to": 324.18,
+      "sid": 145,
+      "location": 2,
+      "content": "目前是不确定的",
+      "music": 0.0
+    },
+    {
+      "from": 324.18,
+      "to": 325.74,
+      "sid": 146,
+      "location": 2,
+      "content": "所以后续还是要关注",
+      "music": 0.0
+    },
+    {
+      "from": 325.74,
+      "to": 329.08,
+      "sid": 147,
+      "location": 2,
+      "content": "是否能够扩散AI的这个全要素生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 329.08,
+      "to": 330.12,
+      "sid": 148,
+      "location": 2,
+      "content": "指各行各业",
+      "music": 0.0
+    },
+    {
+      "from": 330.12,
+      "to": 331.44,
+      "sid": 149,
+      "location": 2,
+      "content": "而不只是当下的",
+      "music": 0.0
+    },
+    {
+      "from": 331.44,
+      "to": 332.68,
+      "sid": 150,
+      "location": 2,
+      "content": "比如说信息技术业务",
+      "music": 0.0
+    },
+    {
+      "from": 332.68,
+      "to": 334.48,
+      "sid": 151,
+      "location": 2,
+      "content": "我们确实看到了类似的现象对吧",
+      "music": 0.0
+    },
+    {
+      "from": 334.48,
+      "to": 335.44,
+      "sid": 152,
+      "location": 2,
+      "content": "在写代码方面",
+      "music": 0.0
+    },
+    {
+      "from": 335.44,
+      "to": 337.38,
+      "sid": 153,
+      "location": 2,
+      "content": "AI还是比较能力比较强的",
+      "music": 0.0
+    },
+    {
+      "from": 337.38,
+      "to": 339.14,
+      "sid": 154,
+      "location": 2,
+      "content": "那再来说一下改变需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 339.14,
+      "to": 342.38,
+      "sid": 155,
+      "location": 2,
+      "content": "这里呢又包括了消费需求和投资需求",
+      "music": 0.0
+    },
+    {
+      "from": 342.38,
+      "to": 343.549,
+      "sid": 156,
+      "location": 2,
+      "content": "先说前者啊",
+      "music": 0.0
+    },
+    {
+      "from": 343.549,
+      "to": 347.309,
+      "sid": 157,
+      "location": 2,
+      "content": "学术界普遍担忧AI会降低劳动者收入份额",
+      "music": 0.0
+    },
+    {
+      "from": 347.309,
+      "to": 349.88,
+      "sid": 158,
+      "location": 2,
+      "content": "从而压低全社会整体的消费啊",
+      "music": 0.0
+    },
+    {
+      "from": 349.88,
+      "to": 352.62,
+      "sid": 159,
+      "location": 2,
+      "content": "美国目前已经看到了向信息产业",
+      "music": 0.0
+    },
+    {
+      "from": 352.62,
+      "to": 353.34,
+      "sid": 160,
+      "location": 2,
+      "content": "专业服务",
+      "music": 0.0
+    },
+    {
+      "from": 353.34,
+      "to": 356.5,
+      "sid": 161,
+      "location": 2,
+      "content": "金融和保险领域的就业增速明显的放缓",
+      "music": 0.0
+    },
+    {
+      "from": 356.5,
+      "to": 359.84,
+      "sid": 162,
+      "location": 2,
+      "content": "但同时呢一些无法被AI替代的服务业",
+      "music": 0.0
+    },
+    {
+      "from": 359.84,
+      "to": 362.32,
+      "sid": 163,
+      "location": 2,
+      "content": "就业增速反而是有所加速的",
+      "music": 0.0
+    },
+    {
+      "from": 362.32,
+      "to": 364.62,
+      "sid": 164,
+      "location": 2,
+      "content": "就是这些人力为主导的这种服务业",
+      "music": 0.0
+    },
+    {
+      "from": 364.62,
+      "to": 368.26,
+      "sid": 165,
+      "location": 2,
+      "content": "那对就业总体的冲击目前看起来是比较有限的",
+      "music": 0.0
+    },
+    {
+      "from": 368.26,
+      "to": 372.1,
+      "sid": 166,
+      "location": 2,
+      "content": "更多的是不同就业岗位之间的流动啊",
+      "music": 0.0
+    },
+    {
+      "from": 372.1,
+      "to": 372.98,
+      "sid": 167,
+      "location": 2,
+      "content": "另外呢",
+      "music": 0.0
+    },
+    {
+      "from": 372.98,
+      "to": 376.38,
+      "sid": 168,
+      "location": 2,
+      "content": "美国已经呈现出了AI对财富两极分化的影响呢",
+      "music": 0.0
+    },
+    {
+      "from": 376.38,
+      "to": 378.34,
+      "sid": 169,
+      "location": 2,
+      "content": "由于美股的大幅上涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 378.34,
+      "to": 381.78,
+      "sid": 170,
+      "location": 2,
+      "content": "美国目前前10%的家庭是拿走了",
+      "music": 0.0
+    },
+    {
+      "from": 381.78,
+      "to": 384.6,
+      "sid": 171,
+      "location": 2,
+      "content": "88%的增量财富",
+      "music": 0.0
+    },
+    {
+      "from": 384.6,
+      "to": 386.32,
+      "sid": 172,
+      "location": 2,
+      "content": "这其实并不是一个二八分啊",
+      "music": 0.0
+    },
+    {
+      "from": 386.32,
+      "to": 388.45,
+      "sid": 173,
+      "location": 2,
+      "content": "我这里面也写了一个是叫做一九分啊",
+      "music": 0.0
+    },
+    {
+      "from": 388.45,
+      "to": 391.91,
+      "sid": 174,
+      "location": 2,
+      "content": "美国呢后50%的家庭只拿走了",
+      "music": 0.0
+    },
+    {
+      "from": 391.91,
+      "to": 395.89,
+      "sid": 175,
+      "location": 2,
+      "content": "美国股市上涨带来的增量财富的1%",
+      "music": 0.0
+    },
+    {
+      "from": 395.89,
+      "to": 398.89,
+      "sid": 176,
+      "location": 2,
+      "content": "也就是说一半的家庭只拿走了其中的1%",
+      "music": 0.0
+    },
+    {
+      "from": 398.89,
+      "to": 401.3,
+      "sid": 177,
+      "location": 2,
+      "content": "剩下一半的家庭拿走了99%",
+      "music": 0.0
+    },
+    {
+      "from": 401.3,
+      "to": 404.04,
+      "sid": 178,
+      "location": 2,
+      "content": "而特别是前面的这些家庭拿走的更多",
+      "music": 0.0
+    },
+    {
+      "from": 404.04,
+      "to": 405.06,
+      "sid": 179,
+      "location": 2,
+      "content": "但总体而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 405.06,
+      "to": 407.94,
+      "sid": 180,
+      "location": 2,
+      "content": "美国整体家庭部门可支配收入",
+      "music": 0.0
+    },
+    {
+      "from": 407.94,
+      "to": 409.88,
+      "sid": 181,
+      "location": 2,
+      "content": "在GDP当中的占比啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.88,
+      "to": 411.7,
+      "sid": 182,
+      "location": 2,
+      "content": "在AI前和AI之后",
+      "music": 0.0
+    },
+    {
+      "from": 411.7,
+      "to": 413.1,
+      "sid": 183,
+      "location": 2,
+      "content": "其实是相对比较稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 413.1,
+      "to": 415.46,
+      "sid": 184,
+      "location": 2,
+      "content": "只不过是内部发生了就业",
+      "music": 0.0
+    },
+    {
+      "from": 415.46,
+      "to": 417.8,
+      "sid": 185,
+      "location": 2,
+      "content": "财富分配上的一些结构性的变化",
+      "music": 0.0
+    },
+    {
+      "from": 417.8,
+      "to": 420.02,
+      "sid": 186,
+      "location": 2,
+      "content": "这是在需求端目前看到的现象",
+      "music": 0.0
+    },
+    {
+      "from": 420.02,
+      "to": 422.18,
+      "sid": 187,
+      "location": 2,
+      "content": "那另外呢再说一下投资端",
+      "music": 0.0
+    },
+    {
+      "from": 422.18,
+      "to": 426.12,
+      "sid": 188,
+      "location": 2,
+      "content": "投资需求显然在当下产生了更大的经济波动",
+      "music": 0.0
+    },
+    {
+      "from": 426.12,
+      "to": 429.24,
+      "sid": 189,
+      "location": 2,
+      "content": "如果我们把AI相关投资分为项信息处理设备",
+      "music": 0.0
+    },
+    {
+      "from": 429.24,
+      "to": 429.56,
+      "sid": 190,
+      "location": 2,
+      "content": "唉",
+      "music": 0.0
+    },
+    {
+      "from": 429.56,
+      "to": 430.76,
+      "sid": 191,
+      "location": 2,
+      "content": "就是我们说的这些硬件设备啊",
+      "music": 0.0
+    },
+    {
+      "from": 430.76,
+      "to": 431.52,
+      "sid": 192,
+      "location": 2,
+      "content": "再加上软件",
+      "music": 0.0
+    },
+    {
+      "from": 431.52,
+      "to": 432.24,
+      "sid": 193,
+      "location": 2,
+      "content": "再加上研发",
+      "music": 0.0
+    },
+    {
+      "from": 432.24,
+      "to": 433.9,
+      "sid": 194,
+      "location": 2,
+      "content": "再加上数据中心的投资等等",
+      "music": 0.0
+    },
+    {
+      "from": 433.9,
+      "to": 437.0,
+      "sid": 195,
+      "location": 2,
+      "content": "这个宽口径来衡量AI相关投资的话",
+      "music": 0.0
+    },
+    {
+      "from": 437.0,
+      "to": 440.86,
+      "sid": 196,
+      "location": 2,
+      "content": "目前占到美国GDP的增长当中的39%",
+      "music": 0.0
+    },
+    {
+      "from": 440.86,
+      "to": 442.7,
+      "sid": 197,
+      "location": 2,
+      "content": "远远高于2000年",
+      "music": 0.0
+    },
+    {
+      "from": 442.7,
+      "to": 445.18,
+      "sid": 198,
+      "location": 2,
+      "content": "互联网泡沫高峰期的28%",
+      "music": 0.0
+    },
+    {
+      "from": 445.18,
+      "to": 447.66,
+      "sid": 199,
+      "location": 2,
+      "content": "那几家美国科技巨头的资本开支呢",
+      "music": 0.0
+    },
+    {
+      "from": 447.66,
+      "to": 450.34,
+      "sid": 200,
+      "location": 2,
+      "content": "在2025年达到了4500亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 450.34,
+      "to": 452.64,
+      "sid": 201,
+      "location": 2,
+      "content": "相较于2022年是翻了三倍",
+      "music": 0.0
+    },
+    {
+      "from": 452.64,
+      "to": 455.78,
+      "sid": 202,
+      "location": 2,
+      "content": "已经抵得上美国GDP的一个百分点了",
+      "music": 0.0
+    },
+    {
+      "from": 455.78,
+      "to": 457.86,
+      "sid": 203,
+      "location": 2,
+      "content": "就这几家美国科技巨头的投资",
+      "music": 0.0
+    },
+    {
+      "from": 457.86,
+      "to": 460.9,
+      "sid": 204,
+      "location": 2,
+      "content": "就占到了全美总的GDP当中的一个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 460.9,
+      "to": 462.26,
+      "sid": 205,
+      "location": 2,
+      "content": "但是呢cf40认为",
+      "music": 0.0
+    },
+    {
+      "from": 462.26,
+      "to": 464.94,
+      "sid": 206,
+      "location": 2,
+      "content": "这种行为背后是美国科技巨头企业的一个",
+      "music": 0.0
+    },
+    {
+      "from": 464.94,
+      "to": 466.14,
+      "sid": 207,
+      "location": 2,
+      "content": "顺周期的行为啊",
+      "music": 0.0
+    },
+    {
+      "from": 466.14,
+      "to": 468.49,
+      "sid": 208,
+      "location": 2,
+      "content": "都担心在AI竞争当中落后",
+      "music": 0.0
+    },
+    {
+      "from": 468.49,
+      "to": 471.86,
+      "sid": 209,
+      "location": 2,
+      "content": "所以可能存在前置的过度开支的情况",
+      "music": 0.0
+    },
+    {
+      "from": 471.86,
+      "to": 473.74,
+      "sid": 210,
+      "location": 2,
+      "content": "再加上呢资本开支当中",
+      "music": 0.0
+    },
+    {
+      "from": 473.74,
+      "to": 476.64,
+      "sid": 211,
+      "location": 2,
+      "content": "35%都投向了算力和硬件",
+      "music": 0.0
+    },
+    {
+      "from": 476.64,
+      "to": 479.44,
+      "sid": 212,
+      "location": 2,
+      "content": "而相较于传统的厂房和设备来说",
+      "music": 0.0
+    },
+    {
+      "from": 479.44,
+      "to": 481.28,
+      "sid": 213,
+      "location": 2,
+      "content": "算力硬件有一个天生的缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 481.28,
+      "to": 483.6,
+      "sid": 214,
+      "location": 2,
+      "content": "就是它的技术迭代速度很快",
+      "music": 0.0
+    },
+    {
+      "from": 483.6,
+      "to": 486.38,
+      "sid": 215,
+      "location": 2,
+      "content": "那导致的是算力硬件的折旧也非常快",
+      "music": 0.0
+    },
+    {
+      "from": 486.38,
+      "to": 488.96,
+      "sid": 216,
+      "location": 2,
+      "content": "大家如果去看了梁文峰的那个演讲稿啊",
+      "music": 0.0
+    },
+    {
+      "from": 488.96,
+      "to": 490.97,
+      "sid": 217,
+      "location": 2,
+      "content": "应该也get到了这样一个信息啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.97,
+      "to": 493.01,
+      "sid": 218,
+      "location": 2,
+      "content": "那折旧的半衰期呢",
+      "music": 0.0
+    },
+    {
+      "from": 493.01,
+      "to": 495.89,
+      "sid": 219,
+      "location": 2,
+      "content": "这些硬件算力只有七个季度",
+      "music": 0.0
+    },
+    {
+      "from": 495.89,
+      "to": 498.17,
+      "sid": 220,
+      "location": 2,
+      "content": "而传统的一些厂房和设备的折旧",
+      "music": 0.0
+    },
+    {
+      "from": 498.17,
+      "to": 500.75,
+      "sid": 221,
+      "location": 2,
+      "content": "半衰期一般在10年左右呃",
+      "music": 0.0
+    },
+    {
+      "from": 500.75,
+      "to": 501.91,
+      "sid": 222,
+      "location": 2,
+      "content": "也就是说一个是10年",
+      "music": 0.0
+    },
+    {
+      "from": 501.91,
+      "to": 503.19,
+      "sid": 223,
+      "location": 2,
+      "content": "一个是一点75年啊",
+      "music": 0.0
+    },
+    {
+      "from": 503.19,
+      "to": 504.87,
+      "sid": 224,
+      "location": 2,
+      "content": "这其中差了5.7倍",
+      "music": 0.0
+    },
+    {
+      "from": 504.87,
+      "to": 508.18,
+      "sid": 225,
+      "location": 2,
+      "content": "所以美国的科技巨头目前面临着一个囚徒困境",
+      "music": 0.0
+    },
+    {
+      "from": 508.18,
+      "to": 510.74,
+      "sid": 226,
+      "location": 2,
+      "content": "不投资呢就等于错过AI这个时代",
+      "music": 0.0
+    },
+    {
+      "from": 510.74,
+      "to": 513.22,
+      "sid": 227,
+      "location": 2,
+      "content": "那投资呢又又面临着巨大的需求",
+      "music": 0.0
+    },
+    {
+      "from": 513.22,
+      "to": 514.36,
+      "sid": 228,
+      "location": 2,
+      "content": "不确定性的风险",
+      "music": 0.0
+    },
+    {
+      "from": 514.36,
+      "to": 517.319,
+      "sid": 229,
+      "location": 2,
+      "content": "以及算力的快速折旧成本分摊",
+      "music": 0.0
+    },
+    {
+      "from": 517.319,
+      "to": 520.919,
+      "sid": 230,
+      "location": 2,
+      "content": "再叠加这些科技企业通过金融杠杆融资",
+      "music": 0.0
+    },
+    {
+      "from": 520.919,
+      "to": 522.479,
+      "sid": 231,
+      "location": 2,
+      "content": "来完成固定资产的投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.479,
+      "to": 524.999,
+      "sid": 232,
+      "location": 2,
+      "content": "也会进一步放大经济的整体波动",
+      "music": 0.0
+    },
+    {
+      "from": 524.999,
+      "to": 526.36,
+      "sid": 233,
+      "location": 2,
+      "content": "特别是投资的波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 526.36,
+      "to": 527.36,
+      "sid": 234,
+      "location": 2,
+      "content": "那繁荣时期呢",
+      "music": 0.0
+    },
+    {
+      "from": 527.36,
+      "to": 530.52,
+      "sid": 235,
+      "location": 2,
+      "content": "可能体现为的就是硬件算力的价格大幅上行",
+      "music": 0.0
+    },
+    {
+      "from": 530.52,
+      "to": 532.76,
+      "sid": 236,
+      "location": 2,
+      "content": "比如说目前存储的价格的暴涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 532.76,
+      "to": 534.6,
+      "sid": 237,
+      "location": 2,
+      "content": "而一旦需求不及预期",
+      "music": 0.0
+    },
+    {
+      "from": 534.6,
+      "to": 536.72,
+      "sid": 238,
+      "location": 2,
+      "content": "特别我指的是AI的终端需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 536.72,
+      "to": 537.76,
+      "sid": 239,
+      "location": 2,
+      "content": "如果不及预期的话",
+      "music": 0.0
+    },
+    {
+      "from": 537.76,
+      "to": 540.16,
+      "sid": 240,
+      "location": 2,
+      "content": "那么就可能会进入到退潮期",
+      "music": 0.0
+    },
+    {
+      "from": 540.16,
+      "to": 542.36,
+      "sid": 241,
+      "location": 2,
+      "content": "这个情况下呢资产价格可能会重估",
+      "music": 0.0
+    },
+    {
+      "from": 542.36,
+      "to": 544.48,
+      "sid": 242,
+      "location": 2,
+      "content": "包括这些硬件算力到底值那么多钱吗",
+      "music": 0.0
+    },
+    {
+      "from": 544.48,
+      "to": 545.7,
+      "sid": 243,
+      "location": 2,
+      "content": "都会进行重估",
+      "music": 0.0
+    },
+    {
+      "from": 545.7,
+      "to": 548.4,
+      "sid": 244,
+      "location": 2,
+      "content": "甚至可能会引发系统性的违约风险",
+      "music": 0.0
+    },
+    {
+      "from": 548.4,
+      "to": 549.76,
+      "sid": 245,
+      "location": 2,
+      "content": "包括交叉违约等等啊",
+      "music": 0.0
+    },
+    {
+      "from": 549.76,
+      "to": 552.23,
+      "sid": 246,
+      "location": 2,
+      "content": "这可能也解释了为什么前段时间呃",
+      "music": 0.0
+    },
+    {
+      "from": 552.23,
+      "to": 553.11,
+      "sid": 247,
+      "location": 2,
+      "content": "如果大家炒美股",
+      "music": 0.0
+    },
+    {
+      "from": 553.11,
+      "to": 553.63,
+      "sid": 248,
+      "location": 2,
+      "content": "应该知道",
+      "music": 0.0
+    },
+    {
+      "from": 553.63,
+      "to": 556.67,
+      "sid": 249,
+      "location": 2,
+      "content": "谷歌啊在宣布了进一步提高AI资本开支之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 556.67,
+      "to": 558.46,
+      "sid": 250,
+      "location": 2,
+      "content": "当天股票是大跌了",
+      "music": 0.0
+    },
+    {
+      "from": 558.46,
+      "to": 560.82,
+      "sid": 251,
+      "location": 2,
+      "content": "那也就意味着整个市场对这块",
+      "music": 0.0
+    },
+    {
+      "from": 560.82,
+      "to": 562.18,
+      "sid": 252,
+      "location": 2,
+      "content": "其实还是有担忧的啊",
+      "music": 0.0
+    },
+    {
+      "from": 562.18,
+      "to": 564.72,
+      "sid": 253,
+      "location": 2,
+      "content": "最后呢说一下改变市场结构这部分",
+      "music": 0.0
+    },
+    {
+      "from": 564.72,
+      "to": 568.91,
+      "sid": 254,
+      "location": 2,
+      "content": "那AI呢对市场效率是具有建设和破坏的",
+      "music": 0.0
+    },
+    {
+      "from": 568.91,
+      "to": 569.69,
+      "sid": 255,
+      "location": 2,
+      "content": "双重性的",
+      "music": 0.0
+    },
+    {
+      "from": 569.69,
+      "to": 570.47,
+      "sid": 256,
+      "location": 2,
+      "content": "一方面呢是",
+      "music": 0.0
+    },
+    {
+      "from": 570.47,
+      "to": 573.24,
+      "sid": 257,
+      "location": 2,
+      "content": "AI可以通过更灵活的这种价格匹配机制",
+      "music": 0.0
+    },
+    {
+      "from": 573.24,
+      "to": 575.56,
+      "sid": 258,
+      "location": 2,
+      "content": "并且呢通过减少信息的不对称性",
+      "music": 0.0
+    },
+    {
+      "from": 575.56,
+      "to": 578.44,
+      "sid": 259,
+      "location": 2,
+      "content": "不对称性啊来提高市场的配置效率",
+      "music": 0.0
+    },
+    {
+      "from": 578.44,
+      "to": 579.36,
+      "sid": 260,
+      "location": 2,
+      "content": "但是另一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 579.36,
+      "to": 581.08,
+      "sid": 261,
+      "location": 2,
+      "content": "AI也可以被企业利用啊",
+      "music": 0.0
+    },
+    {
+      "from": 581.08,
+      "to": 583.61,
+      "sid": 262,
+      "location": 2,
+      "content": "去用作数据垄断和算法的合谋",
+      "music": 0.0
+    },
+    {
+      "from": 583.61,
+      "to": 585.41,
+      "sid": 263,
+      "location": 2,
+      "content": "甚至通过规模经济的效应",
+      "music": 0.0
+    },
+    {
+      "from": 585.41,
+      "to": 588.31,
+      "sid": 264,
+      "location": 2,
+      "content": "来保持这些大厂企业的垄断地位",
+      "music": 0.0
+    },
+    {
+      "from": 588.31,
+      "to": 590.07,
+      "sid": 265,
+      "location": 2,
+      "content": "降低市场配置的效率",
+      "music": 0.0
+    },
+    {
+      "from": 590.07,
+      "to": 590.85,
+      "sid": 266,
+      "location": 2,
+      "content": "比如说我们看到",
+      "music": 0.0
+    },
+    {
+      "from": 590.85,
+      "to": 592.7,
+      "sid": 267,
+      "location": 2,
+      "content": "其实现在无论是国内还是美国啊",
+      "music": 0.0
+    },
+    {
+      "from": 592.7,
+      "to": 594.66,
+      "sid": 268,
+      "location": 2,
+      "content": "这些大厂都在做自己的模型",
+      "music": 0.0
+    },
+    {
+      "from": 594.66,
+      "to": 597.54,
+      "sid": 269,
+      "location": 2,
+      "content": "那除了一些比较牛逼的AI lab以外",
+      "music": 0.0
+    },
+    {
+      "from": 597.54,
+      "to": 599.72,
+      "sid": 270,
+      "location": 2,
+      "content": "其实对于绝大部分的企业来说",
+      "music": 0.0
+    },
+    {
+      "from": 599.72,
+      "to": 602.12,
+      "sid": 271,
+      "location": 2,
+      "content": "是错失掉了这一波的机会",
+      "music": 0.0
+    },
+    {
+      "from": 602.12,
+      "to": 605.08,
+      "sid": 272,
+      "location": 2,
+      "content": "那后面呢cf40就针对上面提到的AI",
+      "music": 0.0
+    },
+    {
+      "from": 605.08,
+      "to": 607.84,
+      "sid": 273,
+      "location": 2,
+      "content": "对宏观经济的三条浅在的影响路径啊",
+      "music": 0.0
+    },
+    {
+      "from": 607.84,
+      "to": 609.28,
+      "sid": 274,
+      "location": 2,
+      "content": "提出了一些政策建议",
+      "music": 0.0
+    },
+    {
+      "from": 609.28,
+      "to": 610.48,
+      "sid": 275,
+      "location": 2,
+      "content": "从我个人的理解来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 610.48,
+      "to": 612.24,
+      "sid": 276,
+      "location": 2,
+      "content": "这可能不是大家关注的重点啊",
+      "music": 0.0
+    },
+    {
+      "from": 612.24,
+      "to": 614.1,
+      "sid": 277,
+      "location": 2,
+      "content": "我就不和大家去分享了",
+      "music": 0.0
+    },
+    {
+      "from": 614.1,
+      "to": 615.92,
+      "sid": 278,
+      "location": 2,
+      "content": "那接下来呢我们就来一起过一下",
+      "music": 0.0
+    },
+    {
+      "from": 615.92,
+      "to": 617.52,
+      "sid": 279,
+      "location": 2,
+      "content": "这篇专题的论述逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.52,
+      "to": 621.12,
+      "sid": 280,
+      "location": 2,
+      "content": "这篇专题呢引用了大量的学术界的研究成果啊",
+      "music": 0.0
+    },
+    {
+      "from": 621.12,
+      "to": 622.48,
+      "sid": 281,
+      "location": 2,
+      "content": "我一会也会cover一下",
+      "music": 0.0
+    },
+    {
+      "from": 622.48,
+      "to": 625.36,
+      "sid": 282,
+      "location": 2,
+      "content": "其中呢也有诺奖得主阿西毛古鲁的这个",
+      "music": 0.0
+    },
+    {
+      "from": 625.36,
+      "to": 626.25,
+      "sid": 283,
+      "location": 2,
+      "content": "working paper啊",
+      "music": 0.0
+    },
+    {
+      "from": 626.25,
+      "to": 627.77,
+      "sid": 284,
+      "location": 2,
+      "content": "我也会简单的跟大家说一下",
+      "music": 0.0
+    },
+    {
+      "from": 627.77,
+      "to": 629.319,
+      "sid": 285,
+      "location": 2,
+      "content": "首先呢我们来看一下开篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 629.319,
+      "to": 630.279,
+      "sid": 286,
+      "location": 2,
+      "content": "他就提到说",
+      "music": 0.0
+    },
+    {
+      "from": 630.279,
+      "to": 633.259,
+      "sid": 287,
+      "location": 2,
+      "content": "重大的技术进步是经济增长的决定性的力量",
+      "music": 0.0
+    },
+    {
+      "from": 633.259,
+      "to": 634.639,
+      "sid": 288,
+      "location": 2,
+      "content": "一个比较直观的逻辑呢",
+      "music": 0.0
+    },
+    {
+      "from": 634.639,
+      "to": 637.14,
+      "sid": 289,
+      "location": 2,
+      "content": "就是说AI能够提升全要素生产率",
+      "music": 0.0
+    },
+    {
+      "from": 637.14,
+      "to": 638.16,
+      "sid": 290,
+      "location": 2,
+      "content": "从而拉动经济增长",
+      "music": 0.0
+    },
+    {
+      "from": 638.16,
+      "to": 640.58,
+      "sid": 291,
+      "location": 2,
+      "content": "但另一个不太直观的呢就是",
+      "music": 0.0
+    },
+    {
+      "from": 640.58,
+      "to": 643.7,
+      "sid": 292,
+      "location": 2,
+      "content": "技术进步可能改变了经济波动的内生机制",
+      "music": 0.0
+    },
+    {
+      "from": 643.7,
+      "to": 647.36,
+      "sid": 293,
+      "location": 2,
+      "content": "也可能由此引发更大的内生波动压力",
+      "music": 0.0
+    },
+    {
+      "from": 647.36,
+      "to": 649.16,
+      "sid": 294,
+      "location": 2,
+      "content": "如果没有好的应对措施",
+      "music": 0.0
+    },
+    {
+      "from": 649.16,
+      "to": 649.72,
+      "sid": 295,
+      "location": 2,
+      "content": "情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 649.72,
+      "to": 651.8,
+      "sid": 296,
+      "location": 2,
+      "content": "经济可能会陷入更加频繁",
+      "music": 0.0
+    },
+    {
+      "from": 654.16,
+      "to": 655.84,
+      "sid": 297,
+      "location": 2,
+      "content": "GF40呢也举了一个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 655.84,
+      "to": 657.48,
+      "sid": 298,
+      "location": 2,
+      "content": "上世纪的20到30年代",
+      "music": 0.0
+    },
+    {
+      "from": 657.48,
+      "to": 659.08,
+      "sid": 299,
+      "location": 2,
+      "content": "美国经济是技术进步",
+      "music": 0.0
+    },
+    {
+      "from": 659.08,
+      "to": 661.32,
+      "sid": 300,
+      "location": 2,
+      "content": "展现出的双重力量的一个典型啊",
+      "music": 0.0
+    },
+    {
+      "from": 661.32,
+      "to": 663.06,
+      "sid": 301,
+      "location": 2,
+      "content": "上世纪20到30年代呢",
+      "music": 0.0
+    },
+    {
+      "from": 663.06,
+      "to": 665.16,
+      "sid": 302,
+      "location": 2,
+      "content": "是以电力和内燃机为代表的",
+      "music": 0.0
+    },
+    {
+      "from": 665.16,
+      "to": 666.78,
+      "sid": 303,
+      "location": 2,
+      "content": "第二次工业革命的高峰期",
+      "music": 0.0
+    },
+    {
+      "from": 666.78,
+      "to": 667.7,
+      "sid": 304,
+      "location": 2,
+      "content": "这个时期内",
+      "music": 0.0
+    },
+    {
+      "from": 667.7,
+      "to": 669.52,
+      "sid": 305,
+      "location": 2,
+      "content": "家用电器和电动设备",
+      "music": 0.0
+    },
+    {
+      "from": 669.52,
+      "to": 671.06,
+      "sid": 306,
+      "location": 2,
+      "content": "汽车和商业航空",
+      "music": 0.0
+    },
+    {
+      "from": 671.06,
+      "to": 671.99,
+      "sid": 307,
+      "location": 2,
+      "content": "商业广播",
+      "music": 0.0
+    },
+    {
+      "from": 671.99,
+      "to": 673.13,
+      "sid": 308,
+      "location": 2,
+      "content": "各种合成材料",
+      "music": 0.0
+    },
+    {
+      "from": 673.13,
+      "to": 674.33,
+      "sid": 309,
+      "location": 2,
+      "content": "药品快速普及",
+      "music": 0.0
+    },
+    {
+      "from": 674.33,
+      "to": 676.85,
+      "sid": 310,
+      "location": 2,
+      "content": "美国的全要素生产率是大幅的提升了",
+      "music": 0.0
+    },
+    {
+      "from": 676.85,
+      "to": 678.47,
+      "sid": 311,
+      "location": 2,
+      "content": "然而恰恰是这样",
+      "music": 0.0
+    },
+    {
+      "from": 678.47,
+      "to": 681.06,
+      "sid": 312,
+      "location": 2,
+      "content": "历史上罕见的技术进步高发期啊",
+      "music": 0.0
+    },
+    {
+      "from": 681.06,
+      "to": 684.02,
+      "sid": 313,
+      "location": 2,
+      "content": "美国经济呢陷入了前所未有的大萧条",
+      "music": 0.0
+    },
+    {
+      "from": 684.02,
+      "to": 687.02,
+      "sid": 314,
+      "location": 2,
+      "content": "经济出现了断崖式的持续负增长",
+      "music": 0.0
+    },
+    {
+      "from": 687.02,
+      "to": 688.94,
+      "sid": 315,
+      "location": 2,
+      "content": "社会民生呢严重的倒退",
+      "music": 0.0
+    },
+    {
+      "from": 688.94,
+      "to": 690.99,
+      "sid": 316,
+      "location": 2,
+      "content": "我相信大家都知道29年的大萧条",
+      "music": 0.0
+    },
+    {
+      "from": 690.99,
+      "to": 693.85,
+      "sid": 317,
+      "location": 2,
+      "content": "那大萧条背后呢有多种错综复杂的原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 693.85,
+      "to": 697.18,
+      "sid": 318,
+      "location": 2,
+      "content": "但是追根求源的底层原因呢是重大技术突破",
+      "music": 0.0
+    },
+    {
+      "from": 697.18,
+      "to": 699.68,
+      "sid": 319,
+      "location": 2,
+      "content": "加剧了经济波动的内生压力",
+      "music": 0.0
+    },
+    {
+      "from": 699.68,
+      "to": 701.14,
+      "sid": 320,
+      "location": 2,
+      "content": "失败的应对政策呢",
+      "music": 0.0
+    },
+    {
+      "from": 701.14,
+      "to": 704.02,
+      "sid": 321,
+      "location": 2,
+      "content": "又未能有效的抑制过度的经济波动",
+      "music": 0.0
+    },
+    {
+      "from": 704.02,
+      "to": 705.8,
+      "sid": 322,
+      "location": 2,
+      "content": "这也是为什么这篇专题啊",
+      "music": 0.0
+    },
+    {
+      "from": 705.8,
+      "to": 708.96,
+      "sid": 323,
+      "location": 2,
+      "content": "后面提出了一些宏观政策的建议的原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.96,
+      "to": 711.12,
+      "sid": 324,
+      "location": 2,
+      "content": "对于宏观经济研究而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 711.12,
+      "to": 712.36,
+      "sid": 325,
+      "location": 2,
+      "content": "亟待回答的问题是",
+      "music": 0.0
+    },
+    {
+      "from": 712.36,
+      "to": 715.34,
+      "sid": 326,
+      "location": 2,
+      "content": "如何更好地释放AI带来的生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 715.34,
+      "to": 718.82,
+      "sid": 327,
+      "location": 2,
+      "content": "如何驯服AI可能会带来的经济波动的压力",
+      "music": 0.0
+    },
+    {
+      "from": 718.82,
+      "to": 721.6,
+      "sid": 328,
+      "location": 2,
+      "content": "所以这篇报告呢是从供给冲击",
+      "music": 0.0
+    },
+    {
+      "from": 721.6,
+      "to": 723.97,
+      "sid": 329,
+      "location": 2,
+      "content": "需求冲击和市场机制三个维度",
+      "music": 0.0
+    },
+    {
+      "from": 723.97,
+      "to": 726.01,
+      "sid": 330,
+      "location": 2,
+      "content": "构成了一个完整的分析框架",
+      "music": 0.0
+    },
+    {
+      "from": 726.01,
+      "to": 728.01,
+      "sid": 331,
+      "location": 2,
+      "content": "全面去考察AI的一个影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 728.01,
+      "to": 729.15,
+      "sid": 332,
+      "location": 2,
+      "content": "我们就具体来说一下",
+      "music": 0.0
+    },
+    {
+      "from": 729.15,
+      "to": 731.02,
+      "sid": 333,
+      "location": 2,
+      "content": "首先呢就是在我呃",
+      "music": 0.0
+    },
+    {
+      "from": 731.02,
+      "to": 733.7,
+      "sid": 334,
+      "location": 2,
+      "content": "刚才给大家看的那个思维导图里面的最上面啊",
+      "music": 0.0
+    },
+    {
+      "from": 733.7,
+      "to": 735.08,
+      "sid": 335,
+      "location": 2,
+      "content": "AI的供给冲击",
+      "music": 0.0
+    },
+    {
+      "from": 735.08,
+      "to": 736.06,
+      "sid": 336,
+      "location": 2,
+      "content": "那总体而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 736.06,
+      "to": 739.5,
+      "sid": 337,
+      "location": 2,
+      "content": "学术界普遍认同AI能带来生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 739.5,
+      "to": 742.54,
+      "sid": 338,
+      "location": 2,
+      "content": "但是对于如何实现生产率提升的方式",
+      "music": 0.0
+    },
+    {
+      "from": 742.54,
+      "to": 744.22,
+      "sid": 339,
+      "location": 2,
+      "content": "和能够带来多大程度的提升",
+      "music": 0.0
+    },
+    {
+      "from": 744.22,
+      "to": 745.38,
+      "sid": 340,
+      "location": 2,
+      "content": "是有不同认知的",
+      "music": 0.0
+    },
+    {
+      "from": 745.38,
+      "to": 747.26,
+      "sid": 341,
+      "location": 2,
+      "content": "这里面他就举了几个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 747.26,
+      "to": 748.74,
+      "sid": 342,
+      "location": 2,
+      "content": "都是几篇这个paper啊",
+      "music": 0.0
+    },
+    {
+      "from": 748.74,
+      "to": 750.34,
+      "sid": 343,
+      "location": 2,
+      "content": "其中2019年的这篇paper呢",
+      "music": 0.0
+    },
+    {
+      "from": 750.34,
+      "to": 753.02,
+      "sid": 344,
+      "location": 2,
+      "content": "是肯定了AI技术对生产率的正面影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 753.02,
+      "to": 755.6,
+      "sid": 345,
+      "location": 2,
+      "content": "同时也讨论了其影响会受到的限制",
+      "music": 0.0
+    },
+    {
+      "from": 755.6,
+      "to": 757.98,
+      "sid": 346,
+      "location": 2,
+      "content": "那他有给出了两种情形啊",
+      "music": 0.0
+    },
+    {
+      "from": 757.98,
+      "to": 759.25,
+      "sid": 347,
+      "location": 2,
+      "content": "我就不说了",
+      "music": 0.0
+    },
+    {
+      "from": 759.25,
+      "to": 760.61,
+      "sid": 348,
+      "location": 2,
+      "content": "主要说一下结论吧",
+      "music": 0.0
+    },
+    {
+      "from": 760.61,
+      "to": 763.76,
+      "sid": 349,
+      "location": 2,
+      "content": "就是AI呢它是能够加速部分商品和服务",
+      "music": 0.0
+    },
+    {
+      "from": 763.76,
+      "to": 765.84,
+      "sid": 350,
+      "location": 2,
+      "content": "生产的更高程度的自动化",
+      "music": 0.0
+    },
+    {
+      "from": 765.84,
+      "to": 767.44,
+      "sid": 351,
+      "location": 2,
+      "content": "这会带来生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 767.44,
+      "to": 770.41,
+      "sid": 352,
+      "location": 2,
+      "content": "但同时呢那些难以被AI替代的商品和服务",
+      "music": 0.0
+    },
+    {
+      "from": 770.41,
+      "to": 772.25,
+      "sid": 353,
+      "location": 2,
+      "content": "相对价格反而会上涨",
+      "music": 0.0
+    },
+    {
+      "from": 772.25,
+      "to": 774.49,
+      "sid": 354,
+      "location": 2,
+      "content": "成为经济增长新的瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 774.49,
+      "to": 776.37,
+      "sid": 355,
+      "location": 2,
+      "content": "那后面呢2021年的这篇paper",
+      "music": 0.0
+    },
+    {
+      "from": 776.37,
+      "to": 778.59,
+      "sid": 356,
+      "location": 2,
+      "content": "就是刚才提到的这个J曲线啊",
+      "music": 0.0
+    },
+    {
+      "from": 778.59,
+      "to": 783.35,
+      "sid": 357,
+      "location": 2,
+      "content": "也就是表现为先是生产率受到冲击以后先下降",
+      "music": 0.0
+    },
+    {
+      "from": 783.35,
+      "to": 784.85,
+      "sid": 358,
+      "location": 2,
+      "content": "那么后上升的一个过程",
+      "music": 0.0
+    },
+    {
+      "from": 784.85,
+      "to": 786.11,
+      "sid": 359,
+      "location": 2,
+      "content": "首先就是在投资期啊",
+      "music": 0.0
+    },
+    {
+      "from": 786.11,
+      "to": 788.25,
+      "sid": 360,
+      "location": 2,
+      "content": "在AI技术这个引入的初期呢",
+      "music": 0.0
+    },
+    {
+      "from": 788.25,
+      "to": 790.25,
+      "sid": 361,
+      "location": 2,
+      "content": "企业必须投入巨大的资源",
+      "music": 0.0
+    },
+    {
+      "from": 790.25,
+      "to": 792.32,
+      "sid": 362,
+      "location": 2,
+      "content": "进行互补性的资产重组",
+      "music": 0.0
+    },
+    {
+      "from": 792.32,
+      "to": 795.5,
+      "sid": 363,
+      "location": 2,
+      "content": "那短期内呢官方测度的全要素生产率停滞",
+      "music": 0.0
+    },
+    {
+      "from": 795.5,
+      "to": 796.98,
+      "sid": 364,
+      "location": 2,
+      "content": "甚至反而会下降",
+      "music": 0.0
+    },
+    {
+      "from": 796.98,
+      "to": 798.32,
+      "sid": 365,
+      "location": 2,
+      "content": "然后才是收获期啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.32,
+      "to": 799.62,
+      "sid": 366,
+      "location": 2,
+      "content": "那统计测度的宏观",
+      "music": 0.0
+    },
+    {
+      "from": 799.62,
+      "to": 802.62,
+      "sid": 367,
+      "location": 2,
+      "content": "全球的生产率在跨过弯曲的转折点后",
+      "music": 0.0
+    },
+    {
+      "from": 802.62,
+      "to": 804.02,
+      "sid": 368,
+      "location": 2,
+      "content": "才有可能大幅的上升",
+      "music": 0.0
+    },
+    {
+      "from": 804.02,
+      "to": 806.72,
+      "sid": 369,
+      "location": 2,
+      "content": "那现在我们似乎是在这一个谷底的状态",
+      "music": 0.0
+    },
+    {
+      "from": 806.72,
+      "to": 808.86,
+      "sid": 370,
+      "location": 2,
+      "content": "2026年的这篇paper呢是提到说",
+      "music": 0.0
+    },
+    {
+      "from": 808.86,
+      "to": 812.56,
+      "sid": 371,
+      "location": 2,
+      "content": "AI可能在长期推动供给曲线右移的同时",
+      "music": 0.0
+    },
+    {
+      "from": 812.56,
+      "to": 815.19,
+      "sid": 372,
+      "location": 2,
+      "content": "也就是说通过提升全要素生产率",
+      "music": 0.0
+    },
+    {
+      "from": 815.19,
+      "to": 818.4,
+      "sid": 373,
+      "location": 2,
+      "content": "那让整个社会生产的能力更强",
+      "music": 0.0
+    },
+    {
+      "from": 818.4,
+      "to": 821.16,
+      "sid": 374,
+      "location": 2,
+      "content": "但是短期呢会通过成本冲击",
+      "music": 0.0
+    },
+    {
+      "from": 821.16,
+      "to": 824.69,
+      "sid": 375,
+      "location": 2,
+      "content": "使短期供给曲线左移甚至变陡峭",
+      "music": 0.0
+    },
+    {
+      "from": 824.69,
+      "to": 826.07,
+      "sid": 376,
+      "location": 2,
+      "content": "比如说我们看到现在",
+      "music": 0.0
+    },
+    {
+      "from": 826.07,
+      "to": 828.89,
+      "sid": 377,
+      "location": 2,
+      "content": "大量的这些美国的科技巨头啊",
+      "music": 0.0
+    },
+    {
+      "from": 828.89,
+      "to": 832.29,
+      "sid": 378,
+      "location": 2,
+      "content": "都在去拥抱和购买芯片和存储",
+      "music": 0.0
+    },
+    {
+      "from": 832.29,
+      "to": 836.15,
+      "sid": 379,
+      "location": 2,
+      "content": "那反而呢造成了我们在其他行业上看到",
+      "music": 0.0
+    },
+    {
+      "from": 836.15,
+      "to": 838.17,
+      "sid": 380,
+      "location": 2,
+      "content": "比如说我现在去买一个苹果的电脑",
+      "music": 0.0
+    },
+    {
+      "from": 838.17,
+      "to": 839.51,
+      "sid": 381,
+      "location": 2,
+      "content": "它都被涨价了啊",
+      "music": 0.0
+    },
+    {
+      "from": 839.51,
+      "to": 841.42,
+      "sid": 382,
+      "location": 2,
+      "content": "因为他的供给曲线是左移了",
+      "music": 0.0
+    },
+    {
+      "from": 841.42,
+      "to": 844.84,
+      "sid": 383,
+      "location": 2,
+      "content": "他把更多的产能要用于配置这些高带宽存储",
+      "music": 0.0
+    },
+    {
+      "from": 844.84,
+      "to": 846.98,
+      "sid": 384,
+      "location": 2,
+      "content": "而对于一些我们家用的存储",
+      "music": 0.0
+    },
+    {
+      "from": 846.98,
+      "to": 848.4,
+      "sid": 385,
+      "location": 2,
+      "content": "它的产线就不足了",
+      "music": 0.0
+    },
+    {
+      "from": 848.4,
+      "to": 851.37,
+      "sid": 386,
+      "location": 2,
+      "content": "这就是2026年这篇paper所提的一个观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 851.37,
+      "to": 853.33,
+      "sid": 387,
+      "location": 2,
+      "content": "那接下来我们再来看一下阿西毛古鲁啊",
+      "music": 0.0
+    },
+    {
+      "from": 853.33,
+      "to": 854.37,
+      "sid": 388,
+      "location": 2,
+      "content": "也就是诺奖得主",
+      "music": 0.0
+    },
+    {
+      "from": 854.37,
+      "to": 856.4,
+      "sid": 389,
+      "location": 2,
+      "content": "在24年和25年的几篇论文啊",
+      "music": 0.0
+    },
+    {
+      "from": 856.4,
+      "to": 857.28,
+      "sid": 390,
+      "location": 2,
+      "content": "他是提到说呢",
+      "music": 0.0
+    },
+    {
+      "from": 857.28,
+      "to": 860.98,
+      "sid": 391,
+      "location": 2,
+      "content": "AI对提高生产效率的影响和论证反馈快的任务",
+      "music": 0.0
+    },
+    {
+      "from": 860.98,
+      "to": 863.53,
+      "sid": 392,
+      "location": 2,
+      "content": "但是对于复杂服务管理",
+      "music": 0.0
+    },
+    {
+      "from": 863.53,
+      "to": 865.51,
+      "sid": 393,
+      "location": 2,
+      "content": "创新和高责任类型的任务的",
+      "music": 0.0
+    },
+    {
+      "from": 865.51,
+      "to": 867.11,
+      "sid": 394,
+      "location": 2,
+      "content": "生产率提升是比较慢的",
+      "music": 0.0
+    },
+    {
+      "from": 867.11,
+      "to": 870.69,
+      "sid": 395,
+      "location": 2,
+      "content": "基于当前的各个行业的AI暴露度呢",
+      "music": 0.0
+    },
+    {
+      "from": 870.69,
+      "to": 872.23,
+      "sid": 396,
+      "location": 2,
+      "content": "阿西毛古鲁估算",
+      "music": 0.0
+    },
+    {
+      "from": 872.23,
+      "to": 874.2,
+      "sid": 397,
+      "location": 2,
+      "content": "约有4.6%的任务",
+      "music": 0.0
+    },
+    {
+      "from": 874.2,
+      "to": 876.44,
+      "sid": 398,
+      "location": 2,
+      "content": "是属于易被AI替代的范畴",
+      "music": 0.0
+    },
+    {
+      "from": 876.44,
+      "to": 878.72,
+      "sid": 399,
+      "location": 2,
+      "content": "且这些任务平均成本节约为",
+      "music": 0.0
+    },
+    {
+      "from": 878.72,
+      "to": 880.2,
+      "sid": 400,
+      "location": 2,
+      "content": "14%到15之间",
+      "music": 0.0
+    },
+    {
+      "from": 880.2,
+      "to": 882.45,
+      "sid": 401,
+      "location": 2,
+      "content": "据此呢阿西莫古鲁推算",
+      "music": 0.0
+    },
+    {
+      "from": 882.45,
+      "to": 883.85,
+      "sid": 402,
+      "location": 2,
+      "content": "未来10年内",
+      "music": 0.0
+    },
+    {
+      "from": 883.85,
+      "to": 885.97,
+      "sid": 403,
+      "location": 2,
+      "content": "AI驱动的宏观全要素生产率",
+      "music": 0.0
+    },
+    {
+      "from": 885.97,
+      "to": 889.25,
+      "sid": 404,
+      "location": 2,
+      "content": "累计增长上限仅仅在0.66%",
+      "music": 0.0
+    },
+    {
+      "from": 889.25,
+      "to": 891.31,
+      "sid": 405,
+      "location": 2,
+      "content": "到0.71%之间",
+      "music": 0.0
+    },
+    {
+      "from": 891.31,
+      "to": 894.23,
+      "sid": 406,
+      "location": 2,
+      "content": "换算为年均增长的约为0.06",
+      "music": 0.0
+    },
+    {
+      "from": 894.23,
+      "to": 895.45,
+      "sid": 407,
+      "location": 2,
+      "content": "也就是万分之六",
+      "music": 0.0
+    },
+    {
+      "from": 895.45,
+      "to": 898.94,
+      "sid": 408,
+      "location": 2,
+      "content": "那对潜在GDP增长的影响其实是相当温和的",
+      "music": 0.0
+    },
+    {
+      "from": 898.94,
+      "to": 901.86,
+      "sid": 409,
+      "location": 2,
+      "content": "就是没有大家想象的那么强的一个带动作用",
+      "music": 0.0
+    },
+    {
+      "from": 901.86,
+      "to": 903.54,
+      "sid": 410,
+      "location": 2,
+      "content": "这其实也是变相的认为",
+      "music": 0.0
+    },
+    {
+      "from": 903.54,
+      "to": 905.85,
+      "sid": 411,
+      "location": 2,
+      "content": "AI未来的扩散能力是比较有限的",
+      "music": 0.0
+    },
+    {
+      "from": 905.85,
+      "to": 909.07,
+      "sid": 412,
+      "location": 2,
+      "content": "从近两年美国的生产率变化情况来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 909.07,
+      "to": 912.22,
+      "sid": 413,
+      "location": 2,
+      "content": "与前面文献的结论基本上也是如出一辙啊",
+      "music": 0.0
+    },
+    {
+      "from": 912.22,
+      "to": 914.26,
+      "sid": 414,
+      "location": 2,
+      "content": "短期内AI需要大量的投入",
+      "music": 0.0
+    },
+    {
+      "from": 914.26,
+      "to": 916.8,
+      "sid": 415,
+      "location": 2,
+      "content": "但还不能带来广泛且显著的",
+      "music": 0.0
+    },
+    {
+      "from": 916.8,
+      "to": 918.18,
+      "sid": 416,
+      "location": 2,
+      "content": "全要素生产率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 918.18,
+      "to": 919.78,
+      "sid": 417,
+      "location": 2,
+      "content": "这里面呢他做了一些测算啊",
+      "music": 0.0
+    },
+    {
+      "from": 919.78,
+      "to": 922.79,
+      "sid": 418,
+      "location": 2,
+      "content": "首先呢信息产业的AI采用率是最高的啊",
+      "music": 0.0
+    },
+    {
+      "from": 922.79,
+      "to": 923.79,
+      "sid": 419,
+      "location": 2,
+      "content": "现在达到40%",
+      "music": 0.0
+    },
+    {
+      "from": 923.79,
+      "to": 926.93,
+      "sid": 420,
+      "location": 2,
+      "content": "因为holding是目前应用最广泛的一个领域",
+      "music": 0.0
+    },
+    {
+      "from": 926.93,
+      "to": 928.39,
+      "sid": 421,
+      "location": 2,
+      "content": "那专业服务金融地产",
+      "music": 0.0
+    },
+    {
+      "from": 928.39,
+      "to": 931.04,
+      "sid": 422,
+      "location": 2,
+      "content": "医疗教育也都有较高的这个AI使用率啊",
+      "music": 0.0
+    },
+    {
+      "from": 931.04,
+      "to": 931.84,
+      "sid": 423,
+      "location": 2,
+      "content": "超过25%",
+      "music": 0.0
+    },
+    {
+      "from": 931.84,
+      "to": 935.38,
+      "sid": 424,
+      "location": 2,
+      "content": "其他行业呢特别是运输采矿建筑公用事业等等",
+      "music": 0.0
+    },
+    {
+      "from": 935.38,
+      "to": 937.82,
+      "sid": 425,
+      "location": 2,
+      "content": "这些行业的AI使用率是比较低的",
+      "music": 0.0
+    },
+    {
+      "from": 937.82,
+      "to": 941.46,
+      "sid": 426,
+      "location": 2,
+      "content": "那他这里面又进一步的分了高AI组和低AI组啊",
+      "music": 0.0
+    },
+    {
+      "from": 941.46,
+      "to": 943.7,
+      "sid": 427,
+      "location": 2,
+      "content": "高AI组就刚才说的信息专业服务和金融",
+      "music": 0.0
+    },
+    {
+      "from": 943.7,
+      "to": 946.82,
+      "sid": 428,
+      "location": 2,
+      "content": "那DAI组呢就是采矿建筑运输时速等",
+      "music": 0.0
+    },
+    {
+      "from": 946.82,
+      "to": 947.5,
+      "sid": 429,
+      "location": 2,
+      "content": "那发现呢",
+      "music": 0.0
+    },
+    {
+      "from": 947.5,
+      "to": 951.22,
+      "sid": 430,
+      "location": 2,
+      "content": "高AI组的劳动生产率自疫情之后是大幅的上升",
+      "music": 0.0
+    },
+    {
+      "from": 951.22,
+      "to": 953.56,
+      "sid": 431,
+      "location": 2,
+      "content": "显著偏离了2010年的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 953.56,
+      "to": 954.36,
+      "sid": 432,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 954.36,
+      "to": 957.8,
+      "sid": 433,
+      "location": 2,
+      "content": "DAI组呢在疫情之后也经历了上升和下降",
+      "music": 0.0
+    },
+    {
+      "from": 957.8,
+      "to": 961.08,
+      "sid": 434,
+      "location": 2,
+      "content": "但随后呢是回到了2010年的这个趋势线上",
+      "music": 0.0
+    },
+    {
+      "from": 961.08,
+      "to": 962.2,
+      "sid": 435,
+      "location": 2,
+      "content": "我可以给大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 962.2,
+      "to": 963.24,
+      "sid": 436,
+      "location": 2,
+      "content": "就是这个图二啊",
+      "music": 0.0
+    },
+    {
+      "from": 963.24,
+      "to": 965.96,
+      "sid": 437,
+      "location": 2,
+      "content": "美国的劳动生产率左边是高AI组啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.96,
+      "to": 967.32,
+      "sid": 438,
+      "location": 2,
+      "content": "这条浅色的线啊",
+      "music": 0.0
+    },
+    {
+      "from": 967.32,
+      "to": 969.74,
+      "sid": 439,
+      "location": 2,
+      "content": "它的生产率呢是直线的提升啊",
+      "music": 0.0
+    },
+    {
+      "from": 969.74,
+      "to": 972.06,
+      "sid": 440,
+      "location": 2,
+      "content": "但是后面DI组的话虽然有波动",
+      "music": 0.0
+    },
+    {
+      "from": 972.06,
+      "to": 974.54,
+      "sid": 441,
+      "location": 2,
+      "content": "但这个波动可能更多的是来自于疫情的扰动啊",
+      "music": 0.0
+    },
+    {
+      "from": 974.54,
+      "to": 977.56,
+      "sid": 442,
+      "location": 2,
+      "content": "在之后呢其实回归到了整个趋势线上",
+      "music": 0.0
+    },
+    {
+      "from": 977.56,
+      "to": 980.06,
+      "sid": 443,
+      "location": 2,
+      "content": "另外呢发现AI的快速应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 980.06,
+      "to": 982.58,
+      "sid": 444,
+      "location": 2,
+      "content": "也导致信息产业就业的减少啊",
+      "music": 0.0
+    },
+    {
+      "from": 982.58,
+      "to": 984.08,
+      "sid": 445,
+      "location": 2,
+      "content": "投资呢显著的提高",
+      "music": 0.0
+    },
+    {
+      "from": 984.08,
+      "to": 984.94,
+      "sid": 446,
+      "location": 2,
+      "content": "这个我就不说了",
+      "music": 0.0
+    },
+    {
+      "from": 984.94,
+      "to": 986.38,
+      "sid": 447,
+      "location": 2,
+      "content": "现在大厂都在裁员",
+      "music": 0.0
+    },
+    {
+      "from": 986.38,
+      "to": 988.49,
+      "sid": 448,
+      "location": 2,
+      "content": "同时呢加大资本开支去买硬件啊",
+      "music": 0.0
+    },
+    {
+      "from": 988.49,
+      "to": 991.37,
+      "sid": 449,
+      "location": 2,
+      "content": "那信息产业的全要素生产率和劳动生产率",
+      "music": 0.0
+    },
+    {
+      "from": 991.37,
+      "to": 992.21,
+      "sid": 450,
+      "location": 2,
+      "content": "快速提升呢",
+      "music": 0.0
+    },
+    {
+      "from": 992.21,
+      "to": 994.33,
+      "sid": 451,
+      "location": 2,
+      "content": "并不能代表美国整体情况",
+      "music": 0.0
+    },
+    {
+      "from": 994.33,
+      "to": 995.83,
+      "sid": 452,
+      "location": 2,
+      "content": "对于美国总体经济而言",
+      "music": 0.0
+    },
+    {
+      "from": 995.83,
+      "to": 998.0,
+      "sid": 453,
+      "location": 2,
+      "content": "AI快速开始应用之后",
+      "music": 0.0
+    },
+    {
+      "from": 998.0,
+      "to": 1000.42,
+      "sid": 454,
+      "location": 2,
+      "content": "全要素生产率增长并没有显著",
+      "music": 0.0
+    },
+    {
+      "from": 1000.42,
+      "to": 1002.18,
+      "sid": 455,
+      "location": 2,
+      "content": "超出历史的平均水平",
+      "music": 0.0
+    },
+    {
+      "from": 1002.18,
+      "to": 1004.08,
+      "sid": 456,
+      "location": 2,
+      "content": "巴西毛乌鲁也发现了这样一个现象",
+      "music": 0.0
+    },
+    {
+      "from": 1004.08,
+      "to": 1007.38,
+      "sid": 457,
+      "location": 2,
+      "content": "AI呢进入快速应用阶段之后的24年和25年",
+      "music": 0.0
+    },
+    {
+      "from": 1007.38,
+      "to": 1010.1,
+      "sid": 458,
+      "location": 2,
+      "content": "平均只增长了1.15%",
+      "music": 0.0
+    },
+    {
+      "from": 1010.1,
+      "to": 1010.98,
+      "sid": 459,
+      "location": 2,
+      "content": "相比之下",
+      "music": 0.0
+    },
+    {
+      "from": 1010.98,
+      "to": 1013.42,
+      "sid": 460,
+      "location": 2,
+      "content": "它还不如2000年到2007年",
+      "music": 0.0
+    },
+    {
+      "from": 1013.42,
+      "to": 1016.02,
+      "sid": 461,
+      "location": 2,
+      "content": "也就是后互联网泡沫时代的",
+      "music": 0.0
+    },
+    {
+      "from": 1016.02,
+      "to": 1017.22,
+      "sid": 462,
+      "location": 2,
+      "content": "这个全要素生产率",
+      "music": 0.0
+    },
+    {
+      "from": 1017.22,
+      "to": 1020.2,
+      "sid": 463,
+      "location": 2,
+      "content": "的平均增长情况是1.3%",
+      "music": 0.0
+    },
+    {
+      "from": 1020.2,
+      "to": 1022.05,
+      "sid": 464,
+      "location": 2,
+      "content": "我们也可以看一下图三啊",
+      "music": 0.0
+    },
+    {
+      "from": 1022.05,
+      "to": 1026.45,
+      "sid": 465,
+      "location": 2,
+      "content": "图三当中呢这个最浅色的柱子就是TFP啊",
+      "music": 0.0
+    },
+    {
+      "from": 1026.45,
+      "to": 1027.53,
+      "sid": 466,
+      "location": 2,
+      "content": "全要素生产率可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1027.53,
+      "to": 1030.25,
+      "sid": 467,
+      "location": 2,
+      "content": "在2000到2007年的均值呢是1.3",
+      "music": 0.0
+    },
+    {
+      "from": 1030.25,
+      "to": 1031.38,
+      "sid": 468,
+      "location": 2,
+      "content": "我鼠标现在这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 1031.38,
+      "to": 1032.66,
+      "sid": 469,
+      "location": 2,
+      "content": "而在2025年呢",
+      "music": 0.0
+    },
+    {
+      "from": 1032.66,
+      "to": 1033.8,
+      "sid": 470,
+      "location": 2,
+      "content": "实际上只有0.8",
+      "music": 0.0
+    },
+    {
+      "from": 1033.8,
+      "to": 1035.78,
+      "sid": 471,
+      "location": 2,
+      "content": "在24年呢有1.5啊",
+      "music": 0.0
+    },
+    {
+      "from": 1035.78,
+      "to": 1038.54,
+      "sid": 472,
+      "location": 2,
+      "content": "所以这两个加起来平均也不如1.3",
+      "music": 0.0
+    },
+    {
+      "from": 1038.54,
+      "to": 1039.589,
+      "sid": 473,
+      "location": 2,
+      "content": "这个水平更高",
+      "music": 0.0
+    },
+    {
+      "from": 1039.589,
+      "to": 1040.109,
+      "sid": 474,
+      "location": 2,
+      "content": "接下来呢",
+      "music": 0.0
+    },
+    {
+      "from": 1040.109,
+      "to": 1041.829,
+      "sid": 475,
+      "location": 2,
+      "content": "cf40又引用了兰德斯",
+      "music": 0.0
+    },
+    {
+      "from": 1041.829,
+      "to": 1045.189,
+      "sid": 476,
+      "location": 2,
+      "content": "在2007年的一本书里面指出的一个观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1045.189,
+      "to": 1047.04,
+      "sid": 477,
+      "location": 2,
+      "content": "技术进步不不是孤立发生的",
+      "music": 0.0
+    },
+    {
+      "from": 1047.04,
+      "to": 1048.32,
+      "sid": 478,
+      "location": 2,
+      "content": "而是一个相互激发",
+      "music": 0.0
+    },
+    {
+      "from": 1048.32,
+      "to": 1049.88,
+      "sid": 479,
+      "location": 2,
+      "content": "不断自我强化的链条",
+      "music": 0.0
+    },
+    {
+      "from": 1049.88,
+      "to": 1052.84,
+      "sid": 480,
+      "location": 2,
+      "content": "一个部门的突破会造成上下游的瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 1052.84,
+      "to": 1055.67,
+      "sid": 481,
+      "location": 2,
+      "content": "从而倒逼其他部门进行技术创新",
+      "music": 0.0
+    },
+    {
+      "from": 1055.67,
+      "to": 1058.03,
+      "sid": 482,
+      "location": 2,
+      "content": "那兰德斯呢以纺织业为例啊",
+      "music": 0.0
+    },
+    {
+      "from": 1059.27,
+      "to": 1060.63,
+      "sid": 483,
+      "location": 2,
+      "content": "就是我在开篇给大家提到的",
+      "music": 0.0
+    },
+    {
+      "from": 1060.63,
+      "to": 1061.63,
+      "sid": 484,
+      "location": 2,
+      "content": "从飞梭开始啊",
+      "music": 0.0
+    },
+    {
+      "from": 1061.63,
+      "to": 1063.69,
+      "sid": 485,
+      "location": 2,
+      "content": "倒逼了纺织机的发明",
+      "music": 0.0
+    },
+    {
+      "from": 1063.69,
+      "to": 1066.77,
+      "sid": 486,
+      "location": 2,
+      "content": "那纺织机的发明呢又倒逼了蒸汽织布机的发明",
+      "music": 0.0
+    },
+    {
+      "from": 1066.77,
+      "to": 1069.719,
+      "sid": 487,
+      "location": 2,
+      "content": "然后又进一步倒逼催生了蒸汽机的水泵啊",
+      "music": 0.0
+    },
+    {
+      "from": 1069.719,
+      "to": 1074.9,
+      "sid": 488,
+      "location": 2,
+      "content": "以及最终倒逼金冶金液和精密机床的突破",
+      "music": 0.0
+    },
+    {
+      "from": 1074.9,
+      "to": 1076.7,
+      "sid": 489,
+      "location": 2,
+      "content": "那AI对生产力的影响呢",
+      "music": 0.0
+    },
+    {
+      "from": 1076.7,
+      "to": 1079.22,
+      "sid": 490,
+      "location": 2,
+      "content": "需要重点关注的其实正是这样一个视角",
+      "music": 0.0
+    },
+    {
+      "from": 1079.22,
+      "to": 1081.18,
+      "sid": 491,
+      "location": 2,
+      "content": "就是说AI本身能力的提升",
+      "music": 0.0
+    },
+    {
+      "from": 1081.18,
+      "to": 1085.24,
+      "sid": 492,
+      "location": 2,
+      "content": "最终能否激发为一连串技术进步的一个催化剂",
+      "music": 0.0
+    },
+    {
+      "from": 1085.24,
+      "to": 1088.58,
+      "sid": 493,
+      "location": 2,
+      "content": "这也是cf40对于供给冲击方面的一个观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1088.58,
+      "to": 1090.12,
+      "sid": 494,
+      "location": 2,
+      "content": "所以简单的做一个小结呢",
+      "music": 0.0
+    },
+    {
+      "from": 1090.12,
+      "to": 1092.3,
+      "sid": 495,
+      "location": 2,
+      "content": "就是似乎到现在为止",
+      "music": 0.0
+    },
+    {
+      "from": 1092.3,
+      "to": 1095.92,
+      "sid": 496,
+      "location": 2,
+      "content": "AI并没有表现出非常强大的带动效应",
+      "music": 0.0
+    },
+    {
+      "from": 1095.92,
+      "to": 1098.5,
+      "sid": 497,
+      "location": 2,
+      "content": "但是未来呢还是要看我们能不能走向",
+      "music": 0.0
+    },
+    {
+      "from": 1098.5,
+      "to": 1100.48,
+      "sid": 498,
+      "location": 2,
+      "content": "J曲线的一个上行期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1100.48,
+      "to": 1102.54,
+      "sid": 499,
+      "location": 2,
+      "content": "那接下来呢我们再来看一下需求冲击",
+      "music": 0.0
+    },
+    {
+      "from": 1102.54,
+      "to": 1105.42,
+      "sid": 500,
+      "location": 2,
+      "content": "这应该是大家普遍更为关注的一个点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1105.42,
+      "to": 1107.79,
+      "sid": 501,
+      "location": 2,
+      "content": "首先我们看一下AI对消费需求的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 1107.79,
+      "to": 1111.47,
+      "sid": 502,
+      "location": 2,
+      "content": "学术界普遍担心AI会降低劳动者收入份额",
+      "music": 0.0
+    },
+    {
+      "from": 1111.47,
+      "to": 1112.57,
+      "sid": 503,
+      "location": 2,
+      "content": "从而压低消费",
+      "music": 0.0
+    },
+    {
+      "from": 1112.57,
+      "to": 1114.21,
+      "sid": 504,
+      "location": 2,
+      "content": "阿西莫格鲁呢和其他人啊",
+      "music": 0.0
+    },
+    {
+      "from": 1114.21,
+      "to": 1116.49,
+      "sid": 505,
+      "location": 2,
+      "content": "又在2018年发表了一篇文章啊",
+      "music": 0.0
+    },
+    {
+      "from": 1116.49,
+      "to": 1120.12,
+      "sid": 506,
+      "location": 2,
+      "content": "提到AI拓宽了资本对劳动力的替代边界",
+      "music": 0.0
+    },
+    {
+      "from": 1120.12,
+      "to": 1122.76,
+      "sid": 507,
+      "location": 2,
+      "content": "当资本与劳动的替代弹性大于一的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1122.76,
+      "to": 1125.4,
+      "sid": 508,
+      "location": 2,
+      "content": "AI的深化会导致劳动收入份额的下降",
+      "music": 0.0
+    },
+    {
+      "from": 1125.4,
+      "to": 1128.54,
+      "sid": 509,
+      "location": 2,
+      "content": "说白了就是说可以用资本来替代劳动了",
+      "music": 0.0
+    },
+    {
+      "from": 1128.54,
+      "to": 1131.16,
+      "sid": 510,
+      "location": 2,
+      "content": "那2020年呢还有另一篇论文指出",
+      "music": 0.0
+    },
+    {
+      "from": 1131.16,
+      "to": 1134.0,
+      "sid": 511,
+      "location": 2,
+      "content": "工人群体主要依赖的是薪资收入",
+      "music": 0.0
+    },
+    {
+      "from": 1134.0,
+      "to": 1136.36,
+      "sid": 512,
+      "location": 2,
+      "content": "那么他们的标记消边际消费倾向",
+      "music": 0.0
+    },
+    {
+      "from": 1136.36,
+      "to": 1139.44,
+      "sid": 513,
+      "location": 2,
+      "content": "是高于那些依赖资产增值的资本所有者",
+      "music": 0.0
+    },
+    {
+      "from": 1139.44,
+      "to": 1141.08,
+      "sid": 514,
+      "location": 2,
+      "content": "那当AI将财富呢",
+      "music": 0.0
+    },
+    {
+      "from": 1141.08,
+      "to": 1143.76,
+      "sid": 515,
+      "location": 2,
+      "content": "从劳动力转移给了资本所有者的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1143.76,
+      "to": 1147.56,
+      "sid": 516,
+      "location": 2,
+      "content": "全社会将面临严重的消费总需求不足啊",
+      "music": 0.0
+    },
+    {
+      "from": 1147.56,
+      "to": 1149.84,
+      "sid": 517,
+      "location": 2,
+      "content": "也就是说全社会都会面临通缩",
+      "music": 0.0
+    },
+    {
+      "from": 1149.84,
+      "to": 1153.62,
+      "sid": 518,
+      "location": 2,
+      "content": "那尽管呢供给的潜在产出因AI技术进步而扩张",
+      "music": 0.0
+    },
+    {
+      "from": 1153.62,
+      "to": 1156.18,
+      "sid": 519,
+      "location": 2,
+      "content": "但是由于劳动者消费能力的萎缩",
+      "music": 0.0
+    },
+    {
+      "from": 1156.18,
+      "to": 1160.08,
+      "sid": 520,
+      "location": 2,
+      "content": "经济实际产出反而会受到有效需求不足的压制",
+      "music": 0.0
+    },
+    {
+      "from": 1160.08,
+      "to": 1161.96,
+      "sid": 521,
+      "location": 2,
+      "content": "这其实呢也是KEVINWH",
+      "music": 0.0
+    },
+    {
+      "from": 1163.44,
+      "to": 1165.64,
+      "sid": 522,
+      "location": 2,
+      "content": "他的一个一直以来秉承的观点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1165.64,
+      "to": 1168.93,
+      "sid": 523,
+      "location": 2,
+      "content": "AI会让全社会的商品都变得更加便宜",
+      "music": 0.0
+    },
+    {
+      "from": 1168.93,
+      "to": 1172.02,
+      "sid": 524,
+      "location": 2,
+      "content": "那2026年还有一篇论文是显示呢",
+      "music": 0.0
+    },
+    {
+      "from": 1172.02,
+      "to": 1174.9,
+      "sid": 525,
+      "location": 2,
+      "content": "单个企业啊为了微观上的成本最优化",
+      "music": 0.0
+    },
+    {
+      "from": 1174.9,
+      "to": 1176.58,
+      "sid": 526,
+      "location": 2,
+      "content": "选择使用AI替代人工",
+      "music": 0.0
+    },
+    {
+      "from": 1176.58,
+      "to": 1178.1,
+      "sid": 527,
+      "location": 2,
+      "content": "这是微观上的理性",
+      "music": 0.0
+    },
+    {
+      "from": 1178.1,
+      "to": 1180.3,
+      "sid": 528,
+      "location": 2,
+      "content": "但是在宏观一般均衡下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1180.3,
+      "to": 1181.78,
+      "sid": 529,
+      "location": 2,
+      "content": "如果所有企业都这么做",
+      "music": 0.0
+    },
+    {
+      "from": 1181.78,
+      "to": 1183.98,
+      "sid": 530,
+      "location": 2,
+      "content": "都同时削减工资总额",
+      "music": 0.0
+    },
+    {
+      "from": 1183.98,
+      "to": 1185.32,
+      "sid": 531,
+      "location": 2,
+      "content": "或者说工资的开支的话",
+      "music": 0.0
+    },
+    {
+      "from": 1185.32,
+      "to": 1188.6,
+      "sid": 532,
+      "location": 2,
+      "content": "共同摧毁了他们赖以生存的最终消费市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 1188.6,
+      "to": 1190.52,
+      "sid": 533,
+      "location": 2,
+      "content": "就是形成了一个负面的循环",
+      "music": 0.0
+    },
+    {
+      "from": 1190.52,
+      "to": 1191.76,
+      "sid": 534,
+      "location": 2,
+      "content": "大家都裁员",
+      "music": 0.0
+    },
+    {
+      "from": 1191.76,
+      "to": 1192.84,
+      "sid": 535,
+      "location": 2,
+      "content": "都裁完员以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1192.84,
+      "to": 1193.92,
+      "sid": 536,
+      "location": 2,
+      "content": "发现商品卖不出去",
+      "music": 0.0
+    },
+    {
+      "from": 1193.92,
+      "to": 1194.94,
+      "sid": 537,
+      "location": 2,
+      "content": "价格继续便宜",
+      "music": 0.0
+    },
+    {
+      "from": 1194.94,
+      "to": 1196.08,
+      "sid": 538,
+      "location": 2,
+      "content": "然后进一步的裁员",
+      "music": 0.0
+    },
+    {
+      "from": 1196.08,
+      "to": 1197.26,
+      "sid": 539,
+      "location": 2,
+      "content": "也就是一个通缩循环",
+      "music": 0.0
+    },
+    {
+      "from": 1197.26,
+      "to": 1199.72,
+      "sid": 540,
+      "location": 2,
+      "content": "其实啊中国当下似乎就有这样的一个现象",
+      "music": 0.0
+    },
+    {
+      "from": 1199.72,
+      "to": 1200.9,
+      "sid": 541,
+      "location": 2,
+      "content": "特别是在内需方面",
+      "music": 0.0
+    },
+    {
+      "from": 1200.9,
+      "to": 1202.48,
+      "sid": 542,
+      "location": 2,
+      "content": "那另外呢也有学者提出",
+      "music": 0.0
+    },
+    {
+      "from": 1202.48,
+      "to": 1205.7,
+      "sid": 543,
+      "location": 2,
+      "content": "AI会带来至少是短期内的消费的提升",
+      "music": 0.0
+    },
+    {
+      "from": 1205.7,
+      "to": 1208.9,
+      "sid": 544,
+      "location": 2,
+      "content": "这是和上面刚才提到的几个观点不一样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1208.9,
+      "to": 1210.54,
+      "sid": 545,
+      "location": 2,
+      "content": "他的主要逻辑呢是说",
+      "music": 0.0
+    },
+    {
+      "from": 1210.54,
+      "to": 1213.54,
+      "sid": 546,
+      "location": 2,
+      "content": "AI的爆发是一个典型的生产率的正向冲击",
+      "music": 0.0
+    },
+    {
+      "from": 1213.54,
+      "to": 1216.37,
+      "sid": 547,
+      "location": 2,
+      "content": "当社会对AI能够提高",
+      "music": 0.0
+    },
+    {
+      "from": 1216.37,
+      "to": 1218.71,
+      "sid": 548,
+      "location": 2,
+      "content": "未来的劳动生产率和实际薪资",
+      "music": 0.0
+    },
+    {
+      "from": 1218.71,
+      "to": 1219.97,
+      "sid": 549,
+      "location": 2,
+      "content": "达成共识的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1219.97,
+      "to": 1223.48,
+      "sid": 550,
+      "location": 2,
+      "content": "居民的未来持久收入预期会被大幅上调",
+      "music": 0.0
+    },
+    {
+      "from": 1223.48,
+      "to": 1226.31,
+      "sid": 551,
+      "location": 2,
+      "content": "也就是说一些行业和岗位",
+      "music": 0.0
+    },
+    {
+      "from": 1226.31,
+      "to": 1229.74,
+      "sid": 552,
+      "location": 2,
+      "content": "如果觉得自己的工作未来结合了AI以后",
+      "music": 0.0
+    },
+    {
+      "from": 1229.74,
+      "to": 1231.9,
+      "sid": 553,
+      "location": 2,
+      "content": "可能能够形成更高的收入",
+      "music": 0.0
+    },
+    {
+      "from": 1231.9,
+      "to": 1232.66,
+      "sid": 554,
+      "location": 2,
+      "content": "我举一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 1232.66,
+      "to": 1235.0,
+      "sid": 555,
+      "location": 2,
+      "content": "比如说针对于量化这个行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1235.0,
+      "to": 1237.92,
+      "sid": 556,
+      "location": 2,
+      "content": "似乎如果AI未来广泛的普及应用",
+      "music": 0.0
+    },
+    {
+      "from": 1237.92,
+      "to": 1240.31,
+      "sid": 557,
+      "location": 2,
+      "content": "那么这些干量化的人",
+      "music": 0.0
+    },
+    {
+      "from": 1240.31,
+      "to": 1243.07,
+      "sid": 558,
+      "location": 2,
+      "content": "应该说他的收入预期是有比较明显的提升的",
+      "music": 0.0
+    },
+    {
+      "from": 1243.07,
+      "to": 1244.87,
+      "sid": 559,
+      "location": 2,
+      "content": "因为现在AI变得越来越聪明",
+      "music": 0.0
+    },
+    {
+      "from": 1244.87,
+      "to": 1245.82,
+      "sid": 560,
+      "location": 2,
+      "content": "算的越来越快",
+      "music": 0.0
+    },
+    {
+      "from": 1245.82,
+      "to": 1247.78,
+      "sid": 561,
+      "location": 2,
+      "content": "那么在量化方面",
+      "music": 0.0
+    },
+    {
+      "from": 1247.78,
+      "to": 1251.47,
+      "sid": 562,
+      "location": 2,
+      "content": "能够相较于散户跑的就更加的早",
+      "music": 0.0
+    },
+    {
+      "from": 1251.47,
+      "to": 1254.31,
+      "sid": 563,
+      "location": 2,
+      "content": "其实意味着他们未来的持久收入预期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1254.31,
+      "to": 1256.06,
+      "sid": 564,
+      "location": 2,
+      "content": "被大幅的上调了",
+      "music": 0.0
+    },
+    {
+      "from": 1256.06,
+      "to": 1258.18,
+      "sid": 565,
+      "location": 2,
+      "content": "那除了收入预期的上调之外呢",
+      "music": 0.0
+    },
+    {
+      "from": 1258.18,
+      "to": 1261.02,
+      "sid": 566,
+      "location": 2,
+      "content": "AI的热潮还带来了科技股估值的扩张啊",
+      "music": 0.0
+    },
+    {
+      "from": 1261.02,
+      "to": 1262.2,
+      "sid": 567,
+      "location": 2,
+      "content": "这直接转化为了",
+      "music": 0.0
+    },
+    {
+      "from": 1262.2,
+      "to": 1263.68,
+      "sid": 568,
+      "location": 2,
+      "content": "特别是在美国居民部门",
+      "music": 0.0
+    },
+    {
+      "from": 1263.68,
+      "to": 1265.32,
+      "sid": 569,
+      "location": 2,
+      "content": "金融资产净值的巨大增幅",
+      "music": 0.0
+    },
+    {
+      "from": 1265.32,
+      "to": 1267.24,
+      "sid": 570,
+      "location": 2,
+      "content": "所以说一方面是收入预期上调了",
+      "music": 0.0
+    },
+    {
+      "from": 1267.24,
+      "to": 1270.58,
+      "sid": 571,
+      "location": 2,
+      "content": "一方面是现阶段金融资产升值了",
+      "music": 0.0
+    },
+    {
+      "from": 1270.58,
+      "to": 1273.66,
+      "sid": 572,
+      "location": 2,
+      "content": "所以在短期来看似乎还能够提振消费",
+      "music": 0.0
+    },
+    {
+      "from": 1273.66,
+      "to": 1274.34,
+      "sid": 573,
+      "location": 2,
+      "content": "2026年",
+      "music": 0.0
+    },
+    {
+      "from": 1274.34,
+      "to": 1276.2,
+      "sid": 574,
+      "location": 2,
+      "content": "还有一篇研究指出呢",
+      "music": 0.0
+    },
+    {
+      "from": 1276.2,
+      "to": 1278.52,
+      "sid": 575,
+      "location": 2,
+      "content": "由于AI行情的集中度和财富效应",
+      "music": 0.0
+    },
+    {
+      "from": 1278.52,
+      "to": 1282.44,
+      "sid": 576,
+      "location": 2,
+      "content": "在持股集中的中高收入阶层中极为明显啊",
+      "music": 0.0
+    },
+    {
+      "from": 1282.44,
+      "to": 1283.44,
+      "sid": 577,
+      "location": 2,
+      "content": "这一阶层在奢侈品",
+      "music": 0.0
+    },
+    {
+      "from": 1283.44,
+      "to": 1284.48,
+      "sid": 578,
+      "location": 2,
+      "content": "高端服务业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1284.48,
+      "to": 1285.56,
+      "sid": 579,
+      "location": 2,
+      "content": "包括什么旅游啊",
+      "music": 0.0
+    },
+    {
+      "from": 1285.56,
+      "to": 1286.32,
+      "sid": 580,
+      "location": 2,
+      "content": "私人定制啊",
+      "music": 0.0
+    },
+    {
+      "from": 1286.32,
+      "to": 1289.92,
+      "sid": 581,
+      "location": 2,
+      "content": "医疗等等上的消费扩张表现出更高的弹性啊",
+      "music": 0.0
+    },
+    {
+      "from": 1289.92,
+      "to": 1292.12,
+      "sid": 582,
+      "location": 2,
+      "content": "形成了极强的需求拉动型的动能",
+      "music": 0.0
+    },
+    {
+      "from": 1292.12,
+      "to": 1293.16,
+      "sid": 583,
+      "location": 2,
+      "content": "这个没什么好说的",
+      "music": 0.0
+    },
+    {
+      "from": 1293.16,
+      "to": 1294.04,
+      "sid": 584,
+      "location": 2,
+      "content": "但是我说实话",
+      "music": 0.0
+    },
+    {
+      "from": 1294.04,
+      "to": 1295.12,
+      "sid": 585,
+      "location": 2,
+      "content": "我觉得这些人",
+      "music": 0.0
+    },
+    {
+      "from": 1295.12,
+      "to": 1297.48,
+      "sid": 586,
+      "location": 2,
+      "content": "他本身的边际消费倾向是比较低的",
+      "music": 0.0
+    },
+    {
+      "from": 1297.48,
+      "to": 1298.9,
+      "sid": 587,
+      "location": 2,
+      "content": "就是富人他多挣钱了",
+      "music": 0.0
+    },
+    {
+      "from": 1298.9,
+      "to": 1301.03,
+      "sid": 588,
+      "location": 2,
+      "content": "可能也不会促进消费",
+      "music": 0.0
+    },
+    {
+      "from": 1301.03,
+      "to": 1303.87,
+      "sid": 589,
+      "location": 2,
+      "content": "还是要看广谱意义上全国的一个整体情况",
+      "music": 0.0
+    },
+    {
+      "from": 1303.87,
+      "to": 1304.99,
+      "sid": 590,
+      "location": 2,
+      "content": "那总体而言呢",
+      "music": 0.0
+    },
+    {
+      "from": 1304.99,
+      "to": 1308.15,
+      "sid": 591,
+      "location": 2,
+      "content": "AI对美国总体的消费增长和消费占比变化",
+      "music": 0.0
+    },
+    {
+      "from": 1308.15,
+      "to": 1310.889,
+      "sid": 592,
+      "location": 2,
+      "content": "还没有显现出突出的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 1310.889,
+      "to": 1312.929,
+      "sid": 593,
+      "location": 2,
+      "content": "但更多的影响呢还是结构性的",
+      "music": 0.0
+    },
+    {
+      "from": 1312.929,
+      "to": 1314.289,
+      "sid": 594,
+      "location": 2,
+      "content": "比如说2024~2025年",
+      "music": 0.0
+    },
+    {
+      "from": 1314.289,
+      "to": 1315.009,
+      "sid": 595,
+      "location": 2,
+      "content": "信息产业",
+      "music": 0.0
+    },
+    {
+      "from": 1315.009,
+      "to": 1315.529,
+      "sid": 596,
+      "location": 2,
+      "content": "专业服务",
+      "music": 0.0
+    },
+    {
+      "from": 1315.529,
+      "to": 1317.06,
+      "sid": 597,
+      "location": 2,
+      "content": "金融与保险等行业",
+      "music": 0.0
+    },
+    {
+      "from": 1317.06,
+      "to": 1318.9,
+      "sid": 598,
+      "location": 2,
+      "content": "它的就业增速分别是0.3",
+      "music": 0.0
+    },
+    {
+      "from": 1318.9,
+      "to": 1320.76,
+      "sid": 599,
+      "location": 2,
+      "content": "0.65和0.65个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 1320.76,
+      "to": 1323.42,
+      "sid": 600,
+      "location": 2,
+      "content": "显著是低于一零到19年的平均增速",
+      "music": 0.0
+    },
+    {
+      "from": 1323.42,
+      "to": 1325.63,
+      "sid": 601,
+      "location": 2,
+      "content": "1.32.1和一点一个百分点的",
+      "music": 0.0
+    },
+    {
+      "from": 1325.63,
+      "to": 1326.63,
+      "sid": 602,
+      "location": 2,
+      "content": "但是呢另一方面",
+      "music": 0.0
+    },
+    {
+      "from": 1326.63,
+      "to": 1327.43,
+      "sid": 603,
+      "location": 2,
+      "content": "在私立教育",
+      "music": 0.0
+    },
+    {
+      "from": 1327.43,
+      "to": 1328.15,
+      "sid": 604,
+      "location": 2,
+      "content": "在医疗行业",
+      "music": 0.0
+    },
+    {
+      "from": 1328.15,
+      "to": 1329.74,
+      "sid": 605,
+      "location": 2,
+      "content": "尽管也越来越多的使用AI",
+      "music": 0.0
+    },
+    {
+      "from": 1329.74,
+      "to": 1331.28,
+      "sid": 606,
+      "location": 2,
+      "content": "但是就业不降反增",
+      "music": 0.0
+    },
+    {
+      "from": 1331.28,
+      "to": 1332.38,
+      "sid": 607,
+      "location": 2,
+      "content": "24到25年呢",
+      "music": 0.0
+    },
+    {
+      "from": 1332.38,
+      "to": 1334.66,
+      "sid": 608,
+      "location": 2,
+      "content": "该行业就业增长了3.55%啊",
+      "music": 0.0
+    },
+    {
+      "from": 1334.66,
+      "to": 1337.38,
+      "sid": 609,
+      "location": 2,
+      "content": "大幅的高于一零到19年之间的平均增速",
+      "music": 0.0
+    },
+    {
+      "from": 1337.38,
+      "to": 1338.27,
+      "sid": 610,
+      "location": 2,
+      "content": "2.1%",
+      "music": 0.0
+    },
+    {
+      "from": 1338.27,
+      "to": 1339.79,
+      "sid": 611,
+      "location": 2,
+      "content": "那为什么会有这样的现象呢",
+      "music": 0.0
+    },
+    {
+      "from": 1339.79,
+      "to": 1342.93,
+      "sid": 612,
+      "location": 2,
+      "content": "一是尽管AI可以在诸如自动生成病例啊",
+      "music": 0.0
+    },
+    {
+      "from": 1342.93,
+      "to": 1346.02,
+      "sid": 613,
+      "location": 2,
+      "content": "医保自动缴费啊等等方面做这种批量的任务",
+      "music": 0.0
+    },
+    {
+      "from": 1346.02,
+      "to": 1349.54,
+      "sid": 614,
+      "location": 2,
+      "content": "但是节省出来的时间可以用于改善用户体验",
+      "music": 0.0
+    },
+    {
+      "from": 1349.54,
+      "to": 1352.639,
+      "sid": 615,
+      "location": 2,
+      "content": "且难以被AI替代的其他的服务",
+      "music": 0.0
+    },
+    {
+      "from": 1352.639,
+      "to": 1355.239,
+      "sid": 616,
+      "location": 2,
+      "content": "特别是人对人的直接服务",
+      "music": 0.0
+    },
+    {
+      "from": 1355.239,
+      "to": 1357.799,
+      "sid": 617,
+      "location": 2,
+      "content": "也就是我刚才讲的对人的这种服务业",
+      "music": 0.0
+    },
+    {
+      "from": 1357.799,
+      "to": 1360.319,
+      "sid": 618,
+      "location": 2,
+      "content": "那二呢是当部分智能劳动体",
+      "music": 0.0
+    },
+    {
+      "from": 1360.319,
+      "to": 1361.319,
+      "sid": 619,
+      "location": 2,
+      "content": "可以看一下图五啊",
+      "music": 0.0
+    },
+    {
+      "from": 1361.319,
+      "to": 1364.7,
+      "sid": 620,
+      "location": 2,
+      "content": "这就是高AI应用行业的这个就业增长情况",
+      "music": 0.0
+    },
+    {
+      "from": 1364.7,
+      "to": 1366.53,
+      "sid": 621,
+      "location": 2,
+      "content": "你可以看到左边信息产业",
+      "music": 0.0
+    },
+    {
+      "from": 1366.53,
+      "to": 1368.33,
+      "sid": 622,
+      "location": 2,
+      "content": "它的就业增速是明显下降了",
+      "music": 0.0
+    },
+    {
+      "from": 1368.33,
+      "to": 1369.75,
+      "sid": 623,
+      "location": 2,
+      "content": "专业服务也是明显下降了",
+      "music": 0.0
+    },
+    {
+      "from": 1369.75,
+      "to": 1371.86,
+      "sid": 624,
+      "location": 2,
+      "content": "金融与保险呢可能下降没有这么多",
+      "music": 0.0
+    },
+    {
+      "from": 1371.86,
+      "to": 1374.9,
+      "sid": 625,
+      "location": 2,
+      "content": "但是还是有比较显著的往下走的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 1374.9,
+      "to": 1377.06,
+      "sid": 626,
+      "location": 2,
+      "content": "那私立的教育与医疗服务呢",
+      "music": 0.0
+    },
+    {
+      "from": 1377.06,
+      "to": 1379.409,
+      "sid": 627,
+      "location": 2,
+      "content": "它的就业反而是不降反增的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1379.409,
+      "to": 1383.02,
+      "sid": 628,
+      "location": 2,
+      "content": "另外呢cf40也是想去探究一下就业",
+      "music": 0.0
+    },
+    {
+      "from": 1383.02,
+      "to": 1384.0,
+      "sid": 629,
+      "location": 2,
+      "content": "在这3年里啊",
+      "music": 0.0
+    },
+    {
+      "from": 1384.0,
+      "to": 1385.5,
+      "sid": 630,
+      "location": 2,
+      "content": "跨行业挪动了多少",
+      "music": 0.0
+    },
+    {
+      "from": 1385.5,
+      "to": 1387.8,
+      "sid": 631,
+      "location": 2,
+      "content": "那这个数字呢如果挪动的越剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 1387.8,
+      "to": 1388.9,
+      "sid": 632,
+      "location": 2,
+      "content": "读数越高啊",
+      "music": 0.0
+    },
+    {
+      "from": 1388.9,
+      "to": 1389.94,
+      "sid": 633,
+      "location": 2,
+      "content": "按照这个口径呢",
+      "music": 0.0
+    },
+    {
+      "from": 1389.94,
+      "to": 1391.46,
+      "sid": 634,
+      "location": 2,
+      "content": "当前的读数大概是2.0",
+      "music": 0.0
+    },
+    {
+      "from": 1391.46,
+      "to": 1393.4,
+      "sid": 635,
+      "location": 2,
+      "content": "不但低于历史的中位值啊",
+      "music": 0.0
+    },
+    {
+      "from": 1393.4,
+      "to": 1394.04,
+      "sid": 636,
+      "location": 2,
+      "content": "2.1",
+      "music": 0.0
+    },
+    {
+      "from": 1394.04,
+      "to": 1397.08,
+      "sid": 637,
+      "location": 2,
+      "content": "而且只排在1975年以来的第41分位",
+      "music": 0.0
+    },
+    {
+      "from": 1397.08,
+      "to": 1399.42,
+      "sid": 638,
+      "location": 2,
+      "content": "意味着呢过去约六成的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 1399.42,
+      "to": 1402.88,
+      "sid": 639,
+      "location": 2,
+      "content": "就业结构的3年挪动幅度都比现在更大",
+      "music": 0.0
+    },
+    {
+      "from": 1402.88,
+      "to": 1404.88,
+      "sid": 640,
+      "location": 2,
+      "content": "也就是我们现在看到的下面这张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1404.88,
+      "to": 1406.44,
+      "sid": 641,
+      "location": 2,
+      "content": "2020年疫情期间的话",
+      "music": 0.0
+    },
+    {
+      "from": 1406.44,
+      "to": 1407.56,
+      "sid": 642,
+      "location": 2,
+      "content": "这个值是5.9",
+      "music": 0.0
+    },
+    {
+      "from": 1407.56,
+      "to": 1410.88,
+      "sid": 643,
+      "location": 2,
+      "content": "而最近即便有AI的大量的引入和替代",
+      "music": 0.0
+    },
+    {
+      "from": 1410.88,
+      "to": 1413.04,
+      "sid": 644,
+      "location": 2,
+      "content": "特别是对于信息服务行业的这些影响",
+      "music": 0.0
+    },
+    {
+      "from": 1413.04,
+      "to": 1415.8,
+      "sid": 645,
+      "location": 2,
+      "content": "但是呢我们并没有看到大量的就业",
+      "music": 0.0
+    },
+    {
+      "from": 1415.8,
+      "to": 1419.94,
+      "sid": 646,
+      "location": 2,
+      "content": "在不同岗业和岗位和行业之间的挪动的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1419.94,
+      "to": 1420.86,
+      "sid": 647,
+      "location": 2,
+      "content": "资本市场上呢",
+      "music": 0.0
+    },
+    {
+      "from": 1420.86,
+      "to": 1423.86,
+      "sid": 648,
+      "location": 2,
+      "content": "AI带动了美国股票市场价值的大幅上升",
+      "music": 0.0
+    },
+    {
+      "from": 1423.86,
+      "to": 1426.6,
+      "sid": 649,
+      "location": 2,
+      "content": "和家庭财富非常不平衡的增长",
+      "music": 0.0
+    },
+    {
+      "from": 1426.6,
+      "to": 1429.76,
+      "sid": 650,
+      "location": 2,
+      "content": "美国家庭直接持有的财股权财富啊",
+      "music": 0.0
+    },
+    {
+      "from": 1429.76,
+      "to": 1432.54,
+      "sid": 651,
+      "location": 2,
+      "content": "在2019~2026年一季度间",
+      "music": 0.0
+    },
+    {
+      "from": 1432.54,
+      "to": 1434.1,
+      "sid": 652,
+      "location": 2,
+      "content": "是大致翻倍了",
+      "music": 0.0
+    },
+    {
+      "from": 1434.1,
+      "to": 1437.88,
+      "sid": 653,
+      "location": 2,
+      "content": "前10%的家庭拿走了约88%",
+      "music": 0.0
+    },
+    {
+      "from": 1437.88,
+      "to": 1440.62,
+      "sid": 654,
+      "location": 2,
+      "content": "也就是18.5万亿的增量资金",
+      "music": 0.0
+    },
+    {
+      "from": 1440.62,
+      "to": 1444.23,
+      "sid": 655,
+      "location": 2,
+      "content": "而后50%的人呢只分到了1%",
+      "music": 0.0
+    },
+    {
+      "from": 1444.23,
+      "to": 1446.35,
+      "sid": 656,
+      "location": 2,
+      "content": "也就是我开篇给大家说的这个比例",
+      "music": 0.0
+    },
+    {
+      "from": 1446.35,
+      "to": 1448.17,
+      "sid": 657,
+      "location": 2,
+      "content": "大家可以看一下这个比例有多夸张啊",
+      "music": 0.0
+    },
+    {
+      "from": 1448.17,
+      "to": 1449.41,
+      "sid": 658,
+      "location": 2,
+      "content": "就是图七",
+      "music": 0.0
+    },
+    {
+      "from": 1449.41,
+      "to": 1451.71,
+      "sid": 659,
+      "location": 2,
+      "content": "其中的前0.1%的家庭",
+      "music": 0.0
+    },
+    {
+      "from": 1451.71,
+      "to": 1453.32,
+      "sid": 660,
+      "location": 2,
+      "content": "拿走了5.5万亿",
+      "music": 0.0
+    },
+    {
+      "from": 1453.32,
+      "to": 1457.02,
+      "sid": 661,
+      "location": 2,
+      "content": "次0.9%的家庭拿到了5.4万亿",
+      "music": 0.0
+    },
+    {
+      "from": 1457.02,
+      "to": 1459.52,
+      "sid": 662,
+      "location": 2,
+      "content": "那么再往下次的9%",
+      "music": 0.0
+    },
+    {
+      "from": 1459.52,
+      "to": 1462.06,
+      "sid": 663,
+      "location": 2,
+      "content": "也就是说前面加起来总共是10%",
+      "music": 0.0
+    },
+    {
+      "from": 1462.06,
+      "to": 1465.54,
+      "sid": 664,
+      "location": 2,
+      "content": "那么这次9%呢是拿到了7.7万亿",
+      "music": 0.0
+    },
+    {
+      "from": 1465.54,
+      "to": 1469.29,
+      "sid": 665,
+      "location": 2,
+      "content": "所以总计加起来拿到了88%",
+      "music": 0.0
+    },
+    {
+      "from": 1469.53,
+      "to": 1471.41,
+      "sid": 666,
+      "location": 2,
+      "content": "而再往下次40%呢",
+      "music": 0.0
+    },
+    {
+      "from": 1471.41,
+      "to": 1473.03,
+      "sid": 667,
+      "location": 2,
+      "content": "只拿到了2.2万亿后",
+      "music": 0.0
+    },
+    {
+      "from": 1473.03,
+      "to": 1475.21,
+      "sid": 668,
+      "location": 2,
+      "content": "50%只拿到了0.2万亿",
+      "music": 0.0
+    },
+    {
+      "from": 1475.21,
+      "to": 1476.88,
+      "sid": 669,
+      "location": 2,
+      "content": "就只有拿到了1%",
+      "music": 0.0
+    },
+    {
+      "from": 1476.88,
+      "to": 1479.04,
+      "sid": 670,
+      "location": 2,
+      "content": "所以其实从这张图大家可以感受到啊",
+      "music": 0.0
+    },
+    {
+      "from": 1479.04,
+      "to": 1482.56,
+      "sid": 671,
+      "location": 2,
+      "content": "如果你所从事的工作是未来大概会被AI替代掉",
+      "music": 0.0
+    },
+    {
+      "from": 1482.56,
+      "to": 1485.48,
+      "sid": 672,
+      "location": 2,
+      "content": "或或者会受到比较大的AI冲击的岗位",
+      "music": 0.0
+    },
+    {
+      "from": 1485.48,
+      "to": 1489.0,
+      "sid": 673,
+      "location": 2,
+      "content": "那最好的参与到AI的财富分配的方式呢",
+      "music": 0.0
+    },
+    {
+      "from": 1489.0,
+      "to": 1490.94,
+      "sid": 674,
+      "location": 2,
+      "content": "就是通过金融资产的方式啊",
+      "music": 0.0
+    },
+    {
+      "from": 1490.94,
+      "to": 1495.17,
+      "sid": 675,
+      "location": 2,
+      "content": "也就是去获取这些大厂的股票来做对冲啊",
+      "music": 0.0
+    },
+    {
+      "from": 1495.17,
+      "to": 1497.41,
+      "sid": 676,
+      "location": 2,
+      "content": "那接下来呢我们就做一个小结啊",
+      "music": 0.0
+    },
+    {
+      "from": 1497.41,
+      "to": 1499.01,
+      "sid": 677,
+      "location": 2,
+      "content": "就业市场上的信息产业",
+      "music": 0.0
+    },
+    {
+      "from": 1499.01,
+      "to": 1499.57,
+      "sid": 678,
+      "location": 2,
+      "content": "专业服务",
+      "music": 0.0
+    },
+    {
+      "from": 1499.57,
+      "to": 1501.81,
+      "sid": 679,
+      "location": 2,
+      "content": "金融与保险等高AI应用率的行业",
+      "music": 0.0
+    },
+    {
+      "from": 1501.81,
+      "to": 1503.76,
+      "sid": 680,
+      "location": 2,
+      "content": "都是美国相对的高薪行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 1503.76,
+      "to": 1505.24,
+      "sid": 681,
+      "location": 2,
+      "content": "这些行业的就业机会下降",
+      "music": 0.0
+    },
+    {
+      "from": 1505.24,
+      "to": 1507.0,
+      "sid": 682,
+      "location": 2,
+      "content": "意味着高薪就业机会的下降",
+      "music": 0.0
+    },
+    {
+      "from": 1507.0,
+      "to": 1509.94,
+      "sid": 683,
+      "location": 2,
+      "content": "但是教育和医疗行业的就业人数更多",
+      "music": 0.0
+    },
+    {
+      "from": 1509.94,
+      "to": 1511.72,
+      "sid": 684,
+      "location": 2,
+      "content": "其就业增长在一定程度上",
+      "music": 0.0
+    },
+    {
+      "from": 1511.72,
+      "to": 1513.78,
+      "sid": 685,
+      "location": 2,
+      "content": "就对冲了劳动者收入的下降",
+      "music": 0.0
+    },
+    {
+      "from": 1513.78,
+      "to": 1515.7,
+      "sid": 686,
+      "location": 2,
+      "content": "所以整体而言呢看总量",
+      "music": 0.0
+    },
+    {
+      "from": 1515.7,
+      "to": 1518.68,
+      "sid": 687,
+      "location": 2,
+      "content": "美国的劳动收入在GDP中的占比",
+      "music": 0.0
+    },
+    {
+      "from": 1518.68,
+      "to": 1521.2,
+      "sid": 688,
+      "location": 2,
+      "content": "在疫情以后保持在60%左右",
+      "music": 0.0
+    },
+    {
+      "from": 1521.2,
+      "to": 1522.9,
+      "sid": 689,
+      "location": 2,
+      "content": "与历史均值基本一致",
+      "music": 0.0
+    },
+    {
+      "from": 1522.9,
+      "to": 1526.1,
+      "sid": 690,
+      "location": 2,
+      "content": "没有因为AI技术应用而显著的有所改变",
+      "music": 0.0
+    },
+    {
+      "from": 1526.1,
+      "to": 1527.98,
+      "sid": 691,
+      "location": 2,
+      "content": "那家庭部门的人均可支配收入啊",
+      "music": 0.0
+    },
+    {
+      "from": 1527.98,
+      "to": 1530.38,
+      "sid": 692,
+      "location": 2,
+      "content": "在GDP当中的占比也是相对稳定的",
+      "music": 0.0
+    },
+    {
+      "from": 1530.38,
+      "to": 1531.48,
+      "sid": 693,
+      "location": 2,
+      "content": "保持在73%",
+      "music": 0.0
+    },
+    {
+      "from": 1531.48,
+      "to": 1533.4,
+      "sid": 694,
+      "location": 2,
+      "content": "与历史均值也基本一致",
+      "music": 0.0
+    },
+    {
+      "from": 1533.4,
+      "to": 1535.72,
+      "sid": 695,
+      "location": 2,
+      "content": "就是实际上在总量上没有什么变化",
+      "music": 0.0
+    },
+    {
+      "from": 1535.72,
+      "to": 1537.52,
+      "sid": 696,
+      "location": 2,
+      "content": "但是呢在结构上",
+      "music": 0.0
+    },
+    {
+      "from": 1537.52,
+      "to": 1541.1,
+      "sid": 697,
+      "location": 2,
+      "content": "就像我在这个思维导图里面所表示的一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 1541.1,
+      "to": 1542.42,
+      "sid": 698,
+      "location": 2,
+      "content": "就是总量没有变化",
+      "music": 0.0
+    },
+    {
+      "from": 1542.42,
+      "to": 1543.78,
+      "sid": 699,
+      "location": 2,
+      "content": "但结构分化啊",
+      "music": 0.0
+    },
+    {
+      "from": 1543.78,
+      "to": 1546.0,
+      "sid": 700,
+      "location": 2,
+      "content": "其中在就业岗位上有一些变化",
+      "music": 0.0
+    },
+    {
+      "from": 1546.0,
+      "to": 1547.76,
+      "sid": 701,
+      "location": 2,
+      "content": "在股市的财富效应方面",
+      "music": 0.0
+    },
+    {
+      "from": 1547.76,
+      "to": 1549.54,
+      "sid": 702,
+      "location": 2,
+      "content": "也有一些这种结构性的变化",
+      "music": 0.0
+    },
+    {
+      "from": 1549.54,
+      "to": 1552.3,
+      "sid": 703,
+      "location": 2,
+      "content": "那可支配收入内部呢也出现了分化",
+      "music": 0.0
+    },
+    {
+      "from": 1552.3,
+      "to": 1554.7,
+      "sid": 704,
+      "location": 2,
+      "content": "2025年收入最高的百分分之十的家庭呢",
+      "music": 0.0
+    },
+    {
+      "from": 1554.7,
+      "to": 1557.66,
+      "sid": 705,
+      "location": 2,
+      "content": "在可支配收入占比上上升到了36%",
+      "music": 0.0
+    },
+    {
+      "from": 1557.66,
+      "to": 1560.02,
+      "sid": 706,
+      "location": 2,
+      "content": "显著的高于一零到19年期间的",
+      "music": 0.0
+    },
+    {
+      "from": 1560.02,
+      "to": 1561.55,
+      "sid": 707,
+      "location": 2,
+      "content": "34%的这个均值啊",
+      "music": 0.0
+    },
+    {
+      "from": 1561.55,
+      "to": 1563.83,
+      "sid": 708,
+      "location": 2,
+      "content": "后50%的中低收入家庭",
+      "music": 0.0
+    },
+    {
+      "from": 1563.83,
+      "to": 1566.75,
+      "sid": 709,
+      "location": 2,
+      "content": "在可支配收入上占比只有11.5%",
+      "music": 0.0
+    },
+    {
+      "from": 1566.75,
+      "to": 1570.3,
+      "sid": 710,
+      "location": 2,
+      "content": "较一零到19年期间的均值11.8个百分点",
+      "music": 0.0
+    },
+    {
+      "from": 1570.3,
+      "to": 1571.46,
+      "sid": 711,
+      "location": 2,
+      "content": "是小幅的下降了",
+      "music": 0.0
+    },
+    {
+      "from": 1571.46,
+      "to": 1573.38,
+      "sid": 712,
+      "location": 2,
+      "content": "所以呢高收入家庭",
+      "music": 0.0
+    },
+    {
+      "from": 1573.38,
+      "to": 1575.85,
+      "sid": 713,
+      "location": 2,
+      "content": "他之所以可支配收入占比提高",
+      "music": 0.0
+    },
+    {
+      "from": 1575.85,
+      "to": 1578.25,
+      "sid": 714,
+      "location": 2,
+      "content": "主要就是因为股市上涨带来的",
+      "music": 0.0
+    },
+    {
+      "from": 1578.25,
+      "to": 1579.93,
+      "sid": 715,
+      "location": 2,
+      "content": "财产性收入的提升",
+      "music": 0.0
+    },
+    {
+      "from": 1579.93,
+      "to": 1581.85,
+      "sid": 716,
+      "location": 2,
+      "content": "对应的也就是下面这两张图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1581.85,
+      "to": 1582.77,
+      "sid": 717,
+      "location": 2,
+      "content": "左边是高收入",
+      "music": 0.0
+    },
+    {
+      "from": 1582.77,
+      "to": 1585.08,
+      "sid": 718,
+      "location": 2,
+      "content": "它左边是高收入者的这个占比啊",
+      "music": 0.0
+    },
+    {
+      "from": 1585.08,
+      "to": 1586.34,
+      "sid": 719,
+      "location": 2,
+      "content": "你可以看到明显的提升了",
+      "music": 0.0
+    },
+    {
+      "from": 1586.34,
+      "to": 1588.66,
+      "sid": 720,
+      "location": 2,
+      "content": "而中低收入者他的这个占比是在下降",
+      "music": 0.0
+    },
+    {
+      "from": 1588.66,
+      "to": 1591.599,
+      "sid": 721,
+      "location": 2,
+      "content": "那说完了AI对于消费需求的影响呢",
+      "music": 0.0
+    },
+    {
+      "from": 1591.599,
+      "to": 1594.33,
+      "sid": 722,
+      "location": 2,
+      "content": "我们再来说一下AI对于投资需求的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 1594.33,
+      "to": 1595.89,
+      "sid": 723,
+      "location": 2,
+      "content": "与消费需求相比呢",
+      "music": 0.0
+    },
+    {
+      "from": 1595.89,
+      "to": 1597.33,
+      "sid": 724,
+      "location": 2,
+      "content": "投资需求的变化更快",
+      "music": 0.0
+    },
+    {
+      "from": 1597.33,
+      "to": 1598.29,
+      "sid": 725,
+      "location": 2,
+      "content": "幅度也更大",
+      "music": 0.0
+    },
+    {
+      "from": 1598.29,
+      "to": 1601.22,
+      "sid": 726,
+      "location": 2,
+      "content": "而且是经济波动更重要的来源",
+      "music": 0.0
+    },
+    {
+      "from": 1601.22,
+      "to": 1604.42,
+      "sid": 727,
+      "location": 2,
+      "content": "仅是信息处理设备与软件",
+      "music": 0.0
+    },
+    {
+      "from": 1604.42,
+      "to": 1607.54,
+      "sid": 728,
+      "location": 2,
+      "content": "这两类与AI算力直接对应的投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 1607.54,
+      "to": 1609.7,
+      "sid": 729,
+      "location": 2,
+      "content": "占名义GDP的比重就已经升到了",
+      "music": 0.0
+    },
+    {
+      "from": 1609.7,
+      "to": 1611.96,
+      "sid": 730,
+      "location": 2,
+      "content": "2026年初的4.9%",
+      "music": 0.0
+    },
+    {
+      "from": 1611.96,
+      "to": 1613.96,
+      "sid": 731,
+      "location": 2,
+      "content": "是有数据以来的最高点",
+      "music": 0.0
+    },
+    {
+      "from": 1613.96,
+      "to": 1616.82,
+      "sid": 732,
+      "location": 2,
+      "content": "超过了互联网泡沫时期的4.5%的峰值",
+      "music": 0.0
+    },
+    {
+      "from": 1616.82,
+      "to": 1618.82,
+      "sid": 733,
+      "location": 2,
+      "content": "而如果我们一个更宽口径",
+      "music": 0.0
+    },
+    {
+      "from": 1618.82,
+      "to": 1620.48,
+      "sid": 734,
+      "location": 2,
+      "content": "就是信息处理设备",
+      "music": 0.0
+    },
+    {
+      "from": 1620.48,
+      "to": 1623.46,
+      "sid": 735,
+      "location": 2,
+      "content": "软件研发和数据中心都放到一起的话",
+      "music": 0.0
+    },
+    {
+      "from": 1623.46,
+      "to": 1626.6,
+      "sid": 736,
+      "location": 2,
+      "content": "这个占比在2025年前三季度呢",
+      "music": 0.0
+    },
+    {
+      "from": 1626.6,
+      "to": 1629.57,
+      "sid": 737,
+      "location": 2,
+      "content": "是合计贡献了39%的GDP的增长",
+      "music": 0.0
+    },
+    {
+      "from": 1629.57,
+      "to": 1631.81,
+      "sid": 738,
+      "location": 2,
+      "content": "即便是2000年的互联网泡沫时期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1631.81,
+      "to": 1633.39,
+      "sid": 739,
+      "location": 2,
+      "content": "也只有28%",
+      "music": 0.0
+    },
+    {
+      "from": 1633.39,
+      "to": 1635.21,
+      "sid": 740,
+      "location": 2,
+      "content": "所以可见这些互联网大厂",
+      "music": 0.0
+    },
+    {
+      "from": 1635.21,
+      "to": 1637.949,
+      "sid": 741,
+      "location": 2,
+      "content": "对于资本开支方面是非常的激进的",
+      "music": 0.0
+    },
+    {
+      "from": 1637.949,
+      "to": 1639.569,
+      "sid": 742,
+      "location": 2,
+      "content": "那我们也可以看下图11啊",
+      "music": 0.0
+    },
+    {
+      "from": 1639.569,
+      "to": 1641.149,
+      "sid": 743,
+      "location": 2,
+      "content": "这几年企业固定投资呢",
+      "music": 0.0
+    },
+    {
+      "from": 1641.149,
+      "to": 1643.809,
+      "sid": 744,
+      "location": 2,
+      "content": "几乎是靠AI1条腿在往上抬的",
+      "music": 0.0
+    },
+    {
+      "from": 1643.809,
+      "to": 1645.55,
+      "sid": 745,
+      "location": 2,
+      "content": "其余部分基本上走平",
+      "music": 0.0
+    },
+    {
+      "from": 1645.55,
+      "to": 1647.79,
+      "sid": 746,
+      "location": 2,
+      "content": "橙色这条线呢就是AI相关的投资",
+      "music": 0.0
+    },
+    {
+      "from": 1647.79,
+      "to": 1650.09,
+      "sid": 747,
+      "location": 2,
+      "content": "你可以看到在2024年之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 1650.09,
+      "to": 1651.14,
+      "sid": 748,
+      "location": 2,
+      "content": "大幅的上行",
+      "music": 0.0
+    },
+    {
+      "from": 1651.14,
+      "to": 1654.96,
+      "sid": 749,
+      "location": 2,
+      "content": "而灰色这条线呢是其他的私人固定投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 1654.96,
+      "to": 1656.48,
+      "sid": 750,
+      "location": 2,
+      "content": "整体是处于一个持平的状态",
+      "music": 0.0
+    },
+    {
+      "from": 1656.48,
+      "to": 1658.44,
+      "sid": 751,
+      "location": 2,
+      "content": "那在企业新增的固定投资里呢",
+      "music": 0.0
+    },
+    {
+      "from": 1658.44,
+      "to": 1660.56,
+      "sid": 752,
+      "location": 2,
+      "content": "约六成是流向了AI基础设施",
+      "music": 0.0
+    },
+    {
+      "from": 1660.56,
+      "to": 1662.17,
+      "sid": 753,
+      "location": 2,
+      "content": "其中算力硬件",
+      "music": 0.0
+    },
+    {
+      "from": 1662.17,
+      "to": 1665.01,
+      "sid": 754,
+      "location": 2,
+      "content": "其中算力硬件这一项就占到了35%",
+      "music": 0.0
+    },
+    {
+      "from": 1665.01,
+      "to": 1666.63,
+      "sid": 755,
+      "location": 2,
+      "content": "软件呢占21%",
+      "music": 0.0
+    },
+    {
+      "from": 1666.63,
+      "to": 1668.94,
+      "sid": 756,
+      "location": 2,
+      "content": "数据中心建设呢是占4%啊",
+      "music": 0.0
+    },
+    {
+      "from": 1668.94,
+      "to": 1671.26,
+      "sid": 757,
+      "location": 2,
+      "content": "那剩下的呢分散在研发其他设备",
+      "music": 0.0
+    },
+    {
+      "from": 1671.26,
+      "to": 1673.78,
+      "sid": 758,
+      "location": 2,
+      "content": "和传统的这个厂房楼宇之上",
+      "music": 0.0
+    },
+    {
+      "from": 1673.78,
+      "to": 1676.62,
+      "sid": 759,
+      "location": 2,
+      "content": "AI投资高度集中在少数企业上",
+      "music": 0.0
+    },
+    {
+      "from": 1676.62,
+      "to": 1677.46,
+      "sid": 760,
+      "location": 2,
+      "content": "比如说亚马逊",
+      "music": 0.0
+    },
+    {
+      "from": 1677.46,
+      "to": 1677.94,
+      "sid": 761,
+      "location": 2,
+      "content": "谷歌",
+      "music": 0.0
+    },
+    {
+      "from": 1677.94,
+      "to": 1678.48,
+      "sid": 762,
+      "location": 2,
+      "content": "Meta",
+      "music": 0.0
+    },
+    {
+      "from": 1678.48,
+      "to": 1679.9,
+      "sid": 763,
+      "location": 2,
+      "content": "微软和甲骨文啊",
+      "music": 0.0
+    },
+    {
+      "from": 1679.9,
+      "to": 1681.54,
+      "sid": 764,
+      "location": 2,
+      "content": "五家公司的合计资本开支",
+      "music": 0.0
+    },
+    {
+      "from": 1681.54,
+      "to": 1683.96,
+      "sid": 765,
+      "location": 2,
+      "content": "从22年的约1600亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 1683.96,
+      "to": 1687.0,
+      "sid": 766,
+      "location": 2,
+      "content": "增到了2025年的约4500亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 1687.0,
+      "to": 1689.179,
+      "sid": 767,
+      "location": 2,
+      "content": "3年是增长了近三倍",
+      "music": 0.0
+    },
+    {
+      "from": 1689.179,
+      "to": 1691.259,
+      "sid": 768,
+      "location": 2,
+      "content": "那截止2025年的秋天呢",
+      "music": 0.0
+    },
+    {
+      "from": 1691.259,
+      "to": 1693.219,
+      "sid": 769,
+      "location": 2,
+      "content": "已宣布的数据中心投资计划",
+      "music": 0.0
+    },
+    {
+      "from": 1693.219,
+      "to": 1694.94,
+      "sid": 770,
+      "location": 2,
+      "content": "总额已经超过了1万亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 1694.94,
+      "to": 1696.86,
+      "sid": 771,
+      "location": 2,
+      "content": "那从美国近两年的情况来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 1696.86,
+      "to": 1699.69,
+      "sid": 772,
+      "location": 2,
+      "content": "AI对总需求的影响真正凸显的地方",
+      "music": 0.0
+    },
+    {
+      "from": 1699.69,
+      "to": 1701.37,
+      "sid": 773,
+      "location": 2,
+      "content": "从刚才这篇研报的表述",
+      "music": 0.0
+    },
+    {
+      "from": 1701.37,
+      "to": 1702.29,
+      "sid": 774,
+      "location": 2,
+      "content": "大家可以看到了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1702.29,
+      "to": 1703.21,
+      "sid": 775,
+      "location": 2,
+      "content": "是在于投资",
+      "music": 0.0
+    },
+    {
+      "from": 1703.21,
+      "to": 1704.21,
+      "sid": 776,
+      "location": 2,
+      "content": "而不是消费",
+      "music": 0.0
+    },
+    {
+      "from": 1704.21,
+      "to": 1706.71,
+      "sid": 777,
+      "location": 2,
+      "content": "AI投资还在一个快速的上升期",
+      "music": 0.0
+    },
+    {
+      "from": 1706.71,
+      "to": 1708.28,
+      "sid": 778,
+      "location": 2,
+      "content": "没有真正的精力下滑",
+      "music": 0.0
+    },
+    {
+      "from": 1708.28,
+      "to": 1711.24,
+      "sid": 779,
+      "location": 2,
+      "content": "但是从过去对库存周期和固定资产",
+      "music": 0.0
+    },
+    {
+      "from": 1711.24,
+      "to": 1712.46,
+      "sid": 780,
+      "location": 2,
+      "content": "投资周期的研究来看",
+      "music": 0.0
+    },
+    {
+      "from": 1712.46,
+      "to": 1714.86,
+      "sid": 781,
+      "location": 2,
+      "content": "当前的AI投资有非常相似的机制",
+      "music": 0.0
+    },
+    {
+      "from": 1714.86,
+      "to": 1717.98,
+      "sid": 782,
+      "location": 2,
+      "content": "难以避免会出现库存和固定资产投资",
+      "music": 0.0
+    },
+    {
+      "from": 1717.98,
+      "to": 1719.7,
+      "sid": 783,
+      "location": 2,
+      "content": "周期性的显著变化",
+      "music": 0.0
+    },
+    {
+      "from": 1719.7,
+      "to": 1723.28,
+      "sid": 784,
+      "location": 2,
+      "content": "为了提高为了提供AI服务需要的电力",
+      "music": 0.0
+    },
+    {
+      "from": 1723.28,
+      "to": 1726.2,
+      "sid": 785,
+      "location": 2,
+      "content": "算力设备等各种有形产品的支持",
+      "music": 0.0
+    },
+    {
+      "from": 1726.2,
+      "to": 1727.56,
+      "sid": 786,
+      "location": 2,
+      "content": "这些有形产品呢",
+      "music": 0.0
+    },
+    {
+      "from": 1727.56,
+      "to": 1729.8,
+      "sid": 787,
+      "location": 2,
+      "content": "难以避免库存变化和需求的脱节啊",
+      "music": 0.0
+    },
+    {
+      "from": 1729.8,
+      "to": 1732.38,
+      "sid": 788,
+      "location": 2,
+      "content": "特别是在目前AI快速发展阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1732.38,
+      "to": 1733.34,
+      "sid": 789,
+      "location": 2,
+      "content": "AI产业链上",
+      "music": 0.0
+    },
+    {
+      "from": 1733.34,
+      "to": 1734.9,
+      "sid": 790,
+      "location": 2,
+      "content": "总是难以避免的",
+      "music": 0.0
+    },
+    {
+      "from": 1734.9,
+      "to": 1738.22,
+      "sid": 791,
+      "location": 2,
+      "content": "会遇到这里或者那里的短缺环节",
+      "music": 0.0
+    },
+    {
+      "from": 1738.22,
+      "to": 1740.46,
+      "sid": 792,
+      "location": 2,
+      "content": "比如说当前的高端存储啊",
+      "music": 0.0
+    },
+    {
+      "from": 1740.46,
+      "to": 1743.46,
+      "sid": 793,
+      "location": 2,
+      "content": "那有些短缺产品的供货周期呢是大幅的拉长",
+      "music": 0.0
+    },
+    {
+      "from": 1743.46,
+      "to": 1745.2,
+      "sid": 794,
+      "location": 2,
+      "content": "且做不到百分百的供货",
+      "music": 0.0
+    },
+    {
+      "from": 1745.2,
+      "to": 1747.56,
+      "sid": 795,
+      "location": 2,
+      "content": "而是按照一定的百分比去供货",
+      "music": 0.0
+    },
+    {
+      "from": 1747.56,
+      "to": 1750.0,
+      "sid": 796,
+      "location": 2,
+      "content": "包括梁文峰说的华为的升腾950啊",
+      "music": 0.0
+    },
+    {
+      "from": 1750.0,
+      "to": 1750.56,
+      "sid": 797,
+      "location": 2,
+      "content": "似乎也给",
+      "music": 0.0
+    },
+    {
+      "from": 1750.56,
+      "to": 1754.45,
+      "sid": 798,
+      "location": 2,
+      "content": "能给他们只能配百分之一定百分比的货",
+      "music": 0.0
+    },
+    {
+      "from": 1754.45,
+      "to": 1755.81,
+      "sid": 799,
+      "location": 2,
+      "content": "在这种环境下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1755.81,
+      "to": 1758.77,
+      "sid": 800,
+      "location": 2,
+      "content": "大型的科技公司为了在竞争当中不落后",
+      "music": 0.0
+    },
+    {
+      "from": 1758.77,
+      "to": 1761.41,
+      "sid": 801,
+      "location": 2,
+      "content": "倾向于前置过度下单",
+      "music": 0.0
+    },
+    {
+      "from": 1761.41,
+      "to": 1764.45,
+      "sid": 802,
+      "location": 2,
+      "content": "如果AI终端服务带来的收益符合预期呢",
+      "music": 0.0
+    },
+    {
+      "from": 1764.45,
+      "to": 1765.53,
+      "sid": 803,
+      "location": 2,
+      "content": "这些库存会被消化",
+      "music": 0.0
+    },
+    {
+      "from": 1765.53,
+      "to": 1767.28,
+      "sid": 804,
+      "location": 2,
+      "content": "但如果收益低于预期",
+      "music": 0.0
+    },
+    {
+      "from": 1767.28,
+      "to": 1769.32,
+      "sid": 805,
+      "location": 2,
+      "content": "牛鞭效应就会随之而来",
+      "music": 0.0
+    },
+    {
+      "from": 1769.32,
+      "to": 1770.98,
+      "sid": 806,
+      "location": 2,
+      "content": "终端需求的小变化",
+      "music": 0.0
+    },
+    {
+      "from": 1770.98,
+      "to": 1774.08,
+      "sid": 807,
+      "location": 2,
+      "content": "也会引发中上游企业的剧烈调整",
+      "music": 0.0
+    },
+    {
+      "from": 1774.08,
+      "to": 1777.4,
+      "sid": 808,
+      "location": 2,
+      "content": "AI的固定资产投资变动可能会更加的剧烈",
+      "music": 0.0
+    },
+    {
+      "from": 1777.4,
+      "to": 1781.12,
+      "sid": 809,
+      "location": 2,
+      "content": "因为呢研究发现AI专用的硬件就是这些GPU啊",
+      "music": 0.0
+    },
+    {
+      "from": 1781.12,
+      "to": 1782.78,
+      "sid": 810,
+      "location": 2,
+      "content": "这种高端的算力芯片",
+      "music": 0.0
+    },
+    {
+      "from": 1782.78,
+      "to": 1785.46,
+      "sid": 811,
+      "location": 2,
+      "content": "他是面临着极其残酷的技术更迭的",
+      "music": 0.0
+    },
+    {
+      "from": 1785.46,
+      "to": 1786.3,
+      "sid": 812,
+      "location": 2,
+      "content": "经济折旧呢",
+      "music": 0.0
+    },
+    {
+      "from": 1786.3,
+      "to": 1788.38,
+      "sid": 813,
+      "location": 2,
+      "content": "也远远超过传统的机械AI",
+      "music": 0.0
+    },
+    {
+      "from": 1788.38,
+      "to": 1790.42,
+      "sid": 814,
+      "location": 2,
+      "content": "算力资本的这个半衰期啊",
+      "music": 0.0
+    },
+    {
+      "from": 1790.42,
+      "to": 1792.26,
+      "sid": 815,
+      "location": 2,
+      "content": "大约就仅仅有七个季度",
+      "music": 0.0
+    },
+    {
+      "from": 1792.26,
+      "to": 1793.18,
+      "sid": 816,
+      "location": 2,
+      "content": "一点75年",
+      "music": 0.0
+    },
+    {
+      "from": 1793.18,
+      "to": 1794.06,
+      "sid": 817,
+      "location": 2,
+      "content": "那作为对比呢",
+      "music": 0.0
+    },
+    {
+      "from": 1794.06,
+      "to": 1794.44,
+      "sid": 818,
+      "location": 2,
+      "content": "厂房",
+      "music": 0.0
+    },
+    {
+      "from": 1794.44,
+      "to": 1796.9,
+      "sid": 819,
+      "location": 2,
+      "content": "传统设备等常规的固定资产",
+      "music": 0.0
+    },
+    {
+      "from": 1796.9,
+      "to": 1798.79,
+      "sid": 820,
+      "location": 2,
+      "content": "的半衰期是长达10年啊",
+      "music": 0.0
+    },
+    {
+      "from": 1798.79,
+      "to": 1801.19,
+      "sid": 821,
+      "location": 2,
+      "content": "以AI为代表的这种高折旧资产",
+      "music": 0.0
+    },
+    {
+      "from": 1801.19,
+      "to": 1804.92,
+      "sid": 822,
+      "location": 2,
+      "content": "那高折旧本质上就是技术快速迭代",
+      "music": 0.0
+    },
+    {
+      "from": 1804.92,
+      "to": 1806.38,
+      "sid": 823,
+      "location": 2,
+      "content": "导致的无形的折旧",
+      "music": 0.0
+    },
+    {
+      "from": 1806.38,
+      "to": 1807.84,
+      "sid": 824,
+      "location": 2,
+      "content": "这种高无形折旧",
+      "music": 0.0
+    },
+    {
+      "from": 1807.84,
+      "to": 1810.77,
+      "sid": 825,
+      "location": 2,
+      "content": "使企业陷入了一个囚徒困境的投资竞赛",
+      "music": 0.0
+    },
+    {
+      "from": 1810.77,
+      "to": 1813.25,
+      "sid": 826,
+      "location": 2,
+      "content": "不投资呢就错失了AI发展的机遇",
+      "music": 0.0
+    },
+    {
+      "from": 1813.25,
+      "to": 1815.23,
+      "sid": 827,
+      "location": 2,
+      "content": "那跟风投资呢又面临着需求",
+      "music": 0.0
+    },
+    {
+      "from": 1815.23,
+      "to": 1816.83,
+      "sid": 828,
+      "location": 2,
+      "content": "可能会不及预期的风险",
+      "music": 0.0
+    },
+    {
+      "from": 1816.83,
+      "to": 1820.32,
+      "sid": 829,
+      "location": 2,
+      "content": "以及资产迅速贬值的这种重大的损失",
+      "music": 0.0
+    },
+    {
+      "from": 1820.32,
+      "to": 1821.84,
+      "sid": 830,
+      "location": 2,
+      "content": "那两难境地之下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1821.84,
+      "to": 1824.16,
+      "sid": 831,
+      "location": 2,
+      "content": "投资决策又被迫短期化",
+      "music": 0.0
+    },
+    {
+      "from": 1824.16,
+      "to": 1824.82,
+      "sid": 832,
+      "location": 2,
+      "content": "高频化",
+      "music": 0.0
+    },
+    {
+      "from": 1824.82,
+      "to": 1825.6,
+      "sid": 833,
+      "location": 2,
+      "content": "这种环境下",
+      "music": 0.0
+    },
+    {
+      "from": 1825.6,
+      "to": 1829.22,
+      "sid": 834,
+      "location": 2,
+      "content": "市场预期很容易变成急剧传染的情绪放大器",
+      "music": 0.0
+    },
+    {
+      "from": 1829.22,
+      "to": 1830.64,
+      "sid": 835,
+      "location": 2,
+      "content": "在繁荣期没有问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 1830.64,
+      "to": 1833.02,
+      "sid": 836,
+      "location": 2,
+      "content": "错失恐惧呢会催生过度的投资",
+      "music": 0.0
+    },
+    {
+      "from": 1833.02,
+      "to": 1834.38,
+      "sid": 837,
+      "location": 2,
+      "content": "大家都去上算力",
+      "music": 0.0
+    },
+    {
+      "from": 1834.38,
+      "to": 1835.0,
+      "sid": 838,
+      "location": 2,
+      "content": "上显卡",
+      "music": 0.0
+    },
+    {
+      "from": 1835.0,
+      "to": 1836.26,
+      "sid": 839,
+      "location": 2,
+      "content": "但是在退潮期呢",
+      "music": 0.0
+    },
+    {
+      "from": 1836.26,
+      "to": 1840.5,
+      "sid": 840,
+      "location": 2,
+      "content": "悲观预期又会引发现金流的收紧与投资的骤停",
+      "music": 0.0
+    },
+    {
+      "from": 1840.5,
+      "to": 1844.02,
+      "sid": 841,
+      "location": 2,
+      "content": "那这种预期到行为到现实的顺周期自我实现",
+      "music": 0.0
+    },
+    {
+      "from": 1844.02,
+      "to": 1848.44,
+      "sid": 842,
+      "location": 2,
+      "content": "最终引发了显著超过传统行业的投资波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 1848.44,
+      "to": 1851.91,
+      "sid": 843,
+      "location": 2,
+      "content": "那在这基础之上还有一层剧烈的波动",
+      "music": 0.0
+    },
+    {
+      "from": 1851.91,
+      "to": 1854.77,
+      "sid": 844,
+      "location": 2,
+      "content": "就是金融市场会放大固定资产投资的波动",
+      "music": 0.0
+    },
+    {
+      "from": 1854.77,
+      "to": 1858.09,
+      "sid": 845,
+      "location": 2,
+      "content": "因为科技企业开始呢大幅的从外部融资",
+      "music": 0.0
+    },
+    {
+      "from": 1858.09,
+      "to": 1860.63,
+      "sid": 846,
+      "location": 2,
+      "content": "这为AI的投资扩张提供了支持",
+      "music": 0.0
+    },
+    {
+      "from": 1860.63,
+      "to": 1863.389,
+      "sid": 847,
+      "location": 2,
+      "content": "但是也为未来带来了隐患",
+      "music": 0.0
+    },
+    {
+      "from": 1863.389,
+      "to": 1866.309,
+      "sid": 848,
+      "location": 2,
+      "content": "底层资产像GPU算力和数据中心",
+      "music": 0.0
+    },
+    {
+      "from": 1866.309,
+      "to": 1869.069,
+      "sid": 849,
+      "location": 2,
+      "content": "它们的价值是完全取决于AI商业化的",
+      "music": 0.0
+    },
+    {
+      "from": 1869.069,
+      "to": 1869.8,
+      "sid": 850,
+      "location": 2,
+      "content": "变现能力的",
+      "music": 0.0
+    },
+    {
+      "from": 1869.8,
+      "to": 1872.04,
+      "sid": 851,
+      "location": 2,
+      "content": "一旦生成式AI的收益预期下修",
+      "music": 0.0
+    },
+    {
+      "from": 1872.04,
+      "to": 1873.4,
+      "sid": 852,
+      "location": 2,
+      "content": "或者商业化不及预期呢",
+      "music": 0.0
+    },
+    {
+      "from": 1873.4,
+      "to": 1876.54,
+      "sid": 853,
+      "location": 2,
+      "content": "底层资产的价值也将面临重估",
+      "music": 0.0
+    },
+    {
+      "from": 1876.54,
+      "to": 1877.98,
+      "sid": 854,
+      "location": 2,
+      "content": "那么资产重估风险呢",
+      "music": 0.0
+    },
+    {
+      "from": 1877.98,
+      "to": 1882.01,
+      "sid": 855,
+      "location": 2,
+      "content": "将会通过交叉违约和影子银行系统产生共振啊",
+      "music": 0.0
+    },
+    {
+      "from": 1882.01,
+      "to": 1885.57,
+      "sid": 856,
+      "location": 2,
+      "content": "引发系统性的信用风险和跨市场的快速扩散",
+      "music": 0.0
+    },
+    {
+      "from": 1885.57,
+      "to": 1886.81,
+      "sid": 857,
+      "location": 2,
+      "content": "这会进一步恶化",
+      "music": 0.0
+    },
+    {
+      "from": 1886.81,
+      "to": 1890.0,
+      "sid": 858,
+      "location": 2,
+      "content": "对未来AI的盈利预期以及投资的显著下行",
+      "music": 0.0
+    },
+    {
+      "from": 1890.0,
+      "to": 1892.91,
+      "sid": 859,
+      "location": 2,
+      "content": "那以上呢就是对于需求端的一个影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 1892.91,
+      "to": 1895.71,
+      "sid": 860,
+      "location": 2,
+      "content": "那最后呢我们再来看一下对于市场机制的影响",
+      "music": 0.0
+    },
+    {
+      "from": 1895.71,
+      "to": 1897.75,
+      "sid": 861,
+      "location": 2,
+      "content": "这块呢它主要提到了几个维度吧",
+      "music": 0.0
+    },
+    {
+      "from": 1897.75,
+      "to": 1899.07,
+      "sid": 862,
+      "location": 2,
+      "content": "就是像菜单成本啊",
+      "music": 0.0
+    },
+    {
+      "from": 1899.07,
+      "to": 1901.56,
+      "sid": 863,
+      "location": 2,
+      "content": "信息不对称呀啊规模经济啊等等",
+      "music": 0.0
+    },
+    {
+      "from": 1901.56,
+      "to": 1902.8,
+      "sid": 864,
+      "location": 2,
+      "content": "我们就主要看一下结论",
+      "music": 0.0
+    },
+    {
+      "from": 1902.8,
+      "to": 1904.32,
+      "sid": 865,
+      "location": 2,
+      "content": "部分AI的出现呢",
+      "music": 0.0
+    },
+    {
+      "from": 1904.32,
+      "to": 1906.88,
+      "sid": 866,
+      "location": 2,
+      "content": "对于市场机制究竟是改善还是破坏",
+      "music": 0.0
+    },
+    {
+      "from": 1906.88,
+      "to": 1907.86,
+      "sid": 867,
+      "location": 2,
+      "content": "其实是不确定的",
+      "music": 0.0
+    },
+    {
+      "from": 1907.86,
+      "to": 1909.54,
+      "sid": 868,
+      "location": 2,
+      "content": "从纯粹的技术角度看",
+      "music": 0.0
+    },
+    {
+      "from": 1909.54,
+      "to": 1912.06,
+      "sid": 869,
+      "location": 2,
+      "content": "AI可以更充分的传递和处理信息",
+      "music": 0.0
+    },
+    {
+      "from": 1912.06,
+      "to": 1914.54,
+      "sid": 870,
+      "location": 2,
+      "content": "减少供求双方之间的信息不对称",
+      "music": 0.0
+    },
+    {
+      "from": 1914.54,
+      "to": 1915.66,
+      "sid": 871,
+      "location": 2,
+      "content": "降低菜单成本",
+      "music": 0.0
+    },
+    {
+      "from": 1915.66,
+      "to": 1919.34,
+      "sid": 872,
+      "location": 2,
+      "content": "让价格更灵活地反映市场的供求信息",
+      "music": 0.0
+    },
+    {
+      "from": 1919.34,
+      "to": 1921.04,
+      "sid": 873,
+      "location": 2,
+      "content": "市场呢也更加的有效",
+      "music": 0.0
+    },
+    {
+      "from": 1921.04,
+      "to": 1924.66,
+      "sid": 874,
+      "location": 2,
+      "content": "也就是说进一步提高市场资源配置的有效性啊",
+      "music": 0.0
+    },
+    {
+      "from": 1924.66,
+      "to": 1927.54,
+      "sid": 875,
+      "location": 2,
+      "content": "那AI呢还能给企业特别是小企业赋能",
+      "music": 0.0
+    },
+    {
+      "from": 1927.54,
+      "to": 1929.18,
+      "sid": 876,
+      "location": 2,
+      "content": "帮助他们与大企业去竞争啊",
+      "music": 0.0
+    },
+    {
+      "from": 1929.18,
+      "to": 1931.06,
+      "sid": 877,
+      "location": 2,
+      "content": "但是呢从机制设计层面看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1931.06,
+      "to": 1935.08,
+      "sid": 878,
+      "location": 2,
+      "content": "企业呢又可以凭借巨大的资本投入和网络效应",
+      "music": 0.0
+    },
+    {
+      "from": 1935.08,
+      "to": 1936.24,
+      "sid": 879,
+      "location": 2,
+      "content": "强化市场的势力",
+      "music": 0.0
+    },
+    {
+      "from": 1936.24,
+      "to": 1937.5,
+      "sid": 880,
+      "location": 2,
+      "content": "特别是对于大厂来说",
+      "music": 0.0
+    },
+    {
+      "from": 1937.5,
+      "to": 1940.44,
+      "sid": 881,
+      "location": 2,
+      "content": "那么叠加利润最大化目标下的这个AI算法",
+      "music": 0.0
+    },
+    {
+      "from": 1940.44,
+      "to": 1943.0,
+      "sid": 882,
+      "location": 2,
+      "content": "再叠加利润提升和巨大资本投入",
+      "music": 0.0
+    },
+    {
+      "from": 1943.0,
+      "to": 1944.76,
+      "sid": 883,
+      "location": 2,
+      "content": "之间的正向反馈机制",
+      "music": 0.0
+    },
+    {
+      "from": 1944.76,
+      "to": 1946.82,
+      "sid": 884,
+      "location": 2,
+      "content": "不断地放大市场的势力",
+      "music": 0.0
+    },
+    {
+      "from": 1946.82,
+      "to": 1948.28,
+      "sid": 885,
+      "location": 2,
+      "content": "破坏市场的效率",
+      "music": 0.0
+    },
+    {
+      "from": 1948.28,
+      "to": 1949.88,
+      "sid": 886,
+      "location": 2,
+      "content": "这也是为什么很多外资",
+      "music": 0.0
+    },
+    {
+      "from": 1949.88,
+      "to": 1953.92,
+      "sid": 887,
+      "location": 2,
+      "content": "在目前这一轮AI lab和大厂之间的AI竞争当中",
+      "music": 0.0
+    },
+    {
+      "from": 1953.92,
+      "to": 1955.96,
+      "sid": 888,
+      "location": 2,
+      "content": "更倾向于认为大厂会获胜",
+      "music": 0.0
+    },
+    {
+      "from": 1955.96,
+      "to": 1958.2,
+      "sid": 889,
+      "location": 2,
+      "content": "其中一方面原因呢之前给大家分析过",
+      "music": 0.0
+    },
+    {
+      "from": 1958.2,
+      "to": 1960.92,
+      "sid": 890,
+      "location": 2,
+      "content": "是因为这些互联网大厂有私域的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1960.92,
+      "to": 1964.44,
+      "sid": 891,
+      "location": 2,
+      "content": "另一方面呢就是这些大厂有源源不断的现金流",
+      "music": 0.0
+    },
+    {
+      "from": 1964.44,
+      "to": 1966.48,
+      "sid": 892,
+      "location": 2,
+      "content": "可以提供资本开支的支撑",
+      "music": 0.0
+    },
+    {
+      "from": 1966.48,
+      "to": 1967.76,
+      "sid": 893,
+      "location": 2,
+      "content": "那在cf40看来呢",
+      "music": 0.0
+    },
+    {
+      "from": 1967.76,
+      "to": 1969.36,
+      "sid": 894,
+      "location": 2,
+      "content": "究竟哪种力量占上风",
+      "music": 0.0
+    },
+    {
+      "from": 1969.36,
+      "to": 1971.52,
+      "sid": 895,
+      "location": 2,
+      "content": "也就是到底是从纯粹技术角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 1971.52,
+      "to": 1973.06,
+      "sid": 896,
+      "location": 2,
+      "content": "更加的信息平全呢",
+      "music": 0.0
+    },
+    {
+      "from": 1973.06,
+      "to": 1975.04,
+      "sid": 897,
+      "location": 2,
+      "content": "还是从机制设计层面看",
+      "music": 0.0
+    },
+    {
+      "from": 1975.04,
+      "to": 1976.53,
+      "sid": 898,
+      "location": 2,
+      "content": "大厂能够通吃呢",
+      "music": 0.0
+    },
+    {
+      "from": 1976.53,
+      "to": 1978.17,
+      "sid": 899,
+      "location": 2,
+      "content": "目前是不太确定的",
+      "music": 0.0
+    },
+    {
+      "from": 1978.17,
+      "to": 1980.41,
+      "sid": 900,
+      "location": 2,
+      "content": "不仅要看AI技术自身的变革和应用",
+      "music": 0.0
+    },
+    {
+      "from": 1980.41,
+      "to": 1983.8,
+      "sid": 901,
+      "location": 2,
+      "content": "还要看AI治理政策能否合理的去应对",
+      "music": 0.0
+    },
+    {
+      "from": 1983.8,
+      "to": 1986.88,
+      "sid": 902,
+      "location": 2,
+      "content": "所以后面呢他就提到了一些AI的宏观经济",
+      "music": 0.0
+    },
+    {
+      "from": 1986.88,
+      "to": 1987.92,
+      "sid": 903,
+      "location": 2,
+      "content": "治理的政策",
+      "music": 0.0
+    },
+    {
+      "from": 1987.92,
+      "to": 1990.36,
+      "sid": 904,
+      "location": 2,
+      "content": "我就不给大家去过多的赘述了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1990.36,
+      "to": 1991.84,
+      "sid": 905,
+      "location": 2,
+      "content": "这里面提到了很多内容",
+      "music": 0.0
+    },
+    {
+      "from": 1991.84,
+      "to": 1992.92,
+      "sid": 906,
+      "location": 2,
+      "content": "但是我只想提一点",
+      "music": 0.0
+    },
+    {
+      "from": 1992.92,
+      "to": 1995.08,
+      "sid": 907,
+      "location": 2,
+      "content": "也是跟大家相关性最强的一点",
+      "music": 0.0
+    },
+    {
+      "from": 1995.08,
+      "to": 1996.78,
+      "sid": 908,
+      "location": 2,
+      "content": "也就是说作为居民部门",
+      "music": 0.0
+    },
+    {
+      "from": 1996.78,
+      "to": 1997.65,
+      "sid": 909,
+      "location": 2,
+      "content": "作为家庭",
+      "music": 0.0
+    },
+    {
+      "from": 1997.65,
+      "to": 2000.31,
+      "sid": 910,
+      "location": 2,
+      "content": "我们需要从政府获得什么样的支持啊",
+      "music": 0.0
+    },
+    {
+      "from": 2000.31,
+      "to": 2004.06,
+      "sid": 911,
+      "location": 2,
+      "content": "为了保持家庭消费增长不落后于GDP增长",
+      "music": 0.0
+    },
+    {
+      "from": 2004.06,
+      "to": 2005.34,
+      "sid": 912,
+      "location": 2,
+      "content": "主要有几个方面",
+      "music": 0.0
+    },
+    {
+      "from": 2005.34,
+      "to": 2008.02,
+      "sid": 913,
+      "location": 2,
+      "content": "一呢是家庭金融资产要快速增长",
+      "music": 0.0
+    },
+    {
+      "from": 2008.02,
+      "to": 2012.04,
+      "sid": 914,
+      "location": 2,
+      "content": "其增长速度显著超过全社会名义收入增速",
+      "music": 0.0
+    },
+    {
+      "from": 2012.04,
+      "to": 2015.6,
+      "sid": 915,
+      "location": 2,
+      "content": "那补充家庭的可支配收入增长和消费的能力",
+      "music": 0.0
+    },
+    {
+      "from": 2015.6,
+      "to": 2018.88,
+      "sid": 916,
+      "location": 2,
+      "content": "也就是说要让整个金融市场更加的活跃",
+      "music": 0.0
+    },
+    {
+      "from": 2018.88,
+      "to": 2022.0,
+      "sid": 917,
+      "location": 2,
+      "content": "第二呢是社会保障水平要不断的去完善",
+      "music": 0.0
+    },
+    {
+      "from": 2022.0,
+      "to": 2023.12,
+      "sid": 918,
+      "location": 2,
+      "content": "要做到兜底",
+      "music": 0.0
+    },
+    {
+      "from": 2023.12,
+      "to": 2026.08,
+      "sid": 919,
+      "location": 2,
+      "content": "你可以看到已经在美国目前显现出来了啊",
+      "music": 0.0
+    },
+    {
+      "from": 2026.08,
+      "to": 2026.92,
+      "sid": 920,
+      "location": 2,
+      "content": "低收入家庭",
+      "music": 0.0
+    },
+    {
+      "from": 2026.92,
+      "to": 2029.62,
+      "sid": 921,
+      "location": 2,
+      "content": "其实在这一轮AI当中并没有享受到红利",
+      "music": 0.0
+    },
+    {
+      "from": 2029.62,
+      "to": 2032.58,
+      "sid": 922,
+      "location": 2,
+      "content": "反而呢他可能工作岗位还被替代掉",
+      "music": 0.0
+    },
+    {
+      "from": 2032.58,
+      "to": 2034.42,
+      "sid": 923,
+      "location": 2,
+      "content": "那三呢是社会福利啊",
+      "music": 0.0
+    },
+    {
+      "from": 2034.42,
+      "to": 2035.82,
+      "sid": 924,
+      "location": 2,
+      "content": "要持续的去提升啊",
+      "music": 0.0
+    },
+    {
+      "from": 2035.82,
+      "to": 2038.1,
+      "sid": 925,
+      "location": 2,
+      "content": "这和第二点其实也没有太大的区别啊",
+      "music": 0.0
+    },
+    {
+      "from": 2038.1,
+      "to": 2040.74,
+      "sid": 926,
+      "location": 2,
+      "content": "AI技术呢在替代掉一部分就业的同时",
+      "music": 0.0
+    },
+    {
+      "from": 2040.74,
+      "to": 2043.78,
+      "sid": 927,
+      "location": 2,
+      "content": "也会创造新的就业机会和产业机会",
+      "music": 0.0
+    },
+    {
+      "from": 2043.78,
+      "to": 2044.2,
+      "sid": 928,
+      "location": 2,
+      "content": "所以呢",
+      "music": 0.0
+    },
+    {
+      "from": 2044.2,
+      "to": 2046.92,
+      "sid": 929,
+      "location": 2,
+      "content": "政府应该营造友好的商业环境和支持创业",
+      "music": 0.0
+    },
+    {
+      "from": 2046.92,
+      "to": 2049.579,
+      "sid": 930,
+      "location": 2,
+      "content": "鼓励新技术的运用和投资增长",
+      "music": 0.0
+    },
+    {
+      "from": 2049.579,
+      "to": 2052.819,
+      "sid": 931,
+      "location": 2,
+      "content": "这对于创造新的就业机会和改善劳动者的收入",
+      "music": 0.0
+    },
+    {
+      "from": 2052.819,
+      "to": 2053.75,
+      "sid": 932,
+      "location": 2,
+      "content": "至关重要",
+      "music": 0.0
+    },
+    {
+      "from": 2053.75,
+      "to": 2056.47,
+      "sid": 933,
+      "location": 2,
+      "content": "那以上呢就是这篇研报的全部内容了",
+      "music": 0.0
+    },
+    {
+      "from": 2056.47,
+      "to": 2057.39,
+      "sid": 934,
+      "location": 2,
+      "content": "如果大家有兴趣的话",
+      "music": 0.0
+    },
+    {
+      "from": 2057.39,
+      "to": 2058.79,
+      "sid": 935,
+      "location": 2,
+      "content": "其实可以自己去阅读一下",
+      "music": 0.0
+    },
+    {
+      "from": 2058.79,
+      "to": 2061.03,
+      "sid": 936,
+      "location": 2,
+      "content": "我觉得这篇研报还是比较有价值吧",
+      "music": 0.0
+    },
+    {
+      "from": 2061.03,
+      "to": 2062.67,
+      "sid": 937,
+      "location": 2,
+      "content": "也是一篇难得的",
+      "music": 0.0
+    },
+    {
+      "from": 2062.67,
+      "to": 2064.229,
+      "sid": 938,
+      "location": 2,
+      "content": "从宏观视角来看",
+      "music": 0.0
+    },
+    {
+      "from": 2064.229,
+      "to": 2066.229,
+      "sid": 939,
+      "location": 2,
+      "content": "AI会如何的影响宏观经济",
+      "music": 0.0
+    },
+    {
+      "from": 2066.229,
+      "to": 2067.84,
+      "sid": 940,
+      "location": 2,
+      "content": "并且也举了美国的案例啊",
+      "music": 0.0
+    },
+    {
+      "from": 2067.84,
+      "to": 2068.32,
+      "sid": 941,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 2068.32,
+      "to": 2070.08,
+      "sid": 942,
+      "location": 2,
+      "content": "那就简单的跟大家分享这些内容吧",
+      "music": 0.0
+    },
+    {
+      "from": 2070.08,
+      "to": 2070.8,
+      "sid": 943,
+      "location": 2,
+      "content": "还是老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 2070.8,
+      "to": 2072.32,
+      "sid": 944,
+      "location": 2,
+      "content": "如果大家对这篇研报感兴趣呢",
+      "music": 0.0
+    },
+    {
+      "from": 2072.32,
+      "to": 2074.84,
+      "sid": 945,
+      "location": 2,
+      "content": "欢迎大家在本视频的描述栏当中去获取",
+      "music": 0.0
+    },
+    {
+      "from": 2074.84,
+      "to": 2076.069,
+      "sid": 946,
+      "location": 2,
+      "content": "谷歌云盘的下载链接",
+      "music": 0.0
+    },
+    {
+      "from": 2076.069,
+      "to": 2077.549,
+      "sid": 947,
+      "location": 2,
+      "content": "那今天就先到这里",
+      "music": 0.0
+    },
+    {
+      "from": 2077.549,
+      "to": 2079.069,
+      "sid": 948,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 2079.069,
+      "to": 2079.78,
+      "sid": 949,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}
