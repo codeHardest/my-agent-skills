@@ -1,0 +1,31 @@
+In this lesson, you will learn how to build a context retrieval system from chunking to embeddings and vector search to power context-aware reviews. You'll discover that selective context retrieval with the most relevant code chunks actually outperforms dumping the larger code context. Let's have some fun.
+
+You learned how context matters in the previous lab. In this lab, you'll focus on using the right context. You'll start by reviewing pull requests using the full code base as the context for code review. As you'll see, this can lead to lower code review quality and lower F1 score. Next, you'll enhance the review by building a context retrieval engine and use it to retrieve the relevant context from code bases for each PR, and conduct code review using the more relevant context. You'll see improvements in your code review quality using this approach.
+
+To make the comparison even more meaningful. You're going to repeat this evaluation across 15 pull requests, aggregate the results and compare the overall performance of both approaches.
+
+All right, let's build it. Now let's start with building the context engine. Just like in the last lesson, we are setting up our environment and loading our OpenAI API key. And it loaded successfully.
+
+The next thing to do is to load our FastAPI repository that we'll end up chunking and indexing. In the results, you see that we have 25 repo files and in total 1126 lines of code. Now, in the real world, this would be pretty small repository, but this is sufficient for what we're testing related to grabbing the most relevant context in a context engine for our code review systems.
+
+Next, we are going to use AST-based chunking. This will allow us to extract functions and classes from the code base. We'll enumerate over it and show the type, name, and file_path of the content. So this process created 99 chunks, and they're distributed between classes, the functions, and one test. And these are the sample chunks for the function types.
+
+The next step is to convert these chunks to vector embeddings. We will be using OpenAI's text-embedding-3-large. This will allow us to find semantically similar code beyond the keyword matches. 99 embeddings were created, and you can see a sample of their dimensions below.
+
+Next, we're going to store the embeddings in Chroma, which is a vector database for fast similarity search. Now, vector index was created with 99 chunks.
+
+Now let's test retrieval on a sample PR and we can see which chunks are retrieved. And as you can see, the query is Add user search functionality. Our top retrieved chunks are these different functions like list_users, search_reports, and based off these values we can see that there are some similarities.
+
+Now let's compare the size of different context approaches. And here are the different context sizes. We have Full Context, which is 99 chunks and over 31000 characters. And then Selective Context, where there's only 15 chunks and almost 3500 characters. That's an 88.9% reduction. So in the real world, Selective Context is more efficient when it comes to token cost, and you could end up with more precise code review because of this Selective Context that's been retrieved.
+
+Now we've run a full evaluation before, but this time we'll run it for no context, full context, and selective context. And this will be run across all 15 PRs like the last time, and it'll take a little bit of time.
+
+Now that the evaluation is complete, let's calculate the precision, recall and F1 score of all three approaches. When the full evaluation is complete, you'll notice that there is low precision for No Context as we would expect. And then we see a jump in context from using all of the chunks and using only the top 15 most relevant chunks. And that ultimately improved the F1 Score. So this proves that when we use Selective Context, it actually ultimately outperforms Full Context.
+
+And we can apply that to a bar chart to see what the visuals look like. And based on the addition of context, but more importantly, Selective Context based on focused retrieval, it outperforms having Full Context and No Context at all across all of the metrics.
+
+Another aspect of this that we can visualize is the tradeoff between context size and review quality. In this chart, when you compare the Selective Context and the Full Context, you see that when we use the Full Context, there is a degradation of quality, which ultimately impacts the F1 Score. On the Y-axis, higher is better, and on the X-axis, lower is actually better.
+
+So in this lesson, we saw how context quality can matter more than the amount of context that you give when the context is very selective. And in the next lesson, we're going to take a deeper look at specialized agent processes that can also ultimately improve the precision of code review.
+
+All right, see you in the next lesson.

@@ -27,6 +27,11 @@ def extract_metadata(summary_path: str) -> dict:
     if url_match:
         metadata['url'] = url_match.group(1).strip()
 
+    # Extract author/uploader
+    author_match = re.search(r'\*\*作者/UP主\*\*:\s*(.+)', content)
+    if author_match:
+        metadata['author'] = author_match.group(1).strip()
+
     # Extract publish date (优先使用发布时间)
     pubdate_match = re.search(r'\*\*发布时间\*\*:\s*(\d{4}-\d{2}-\d{2})', content)
     if pubdate_match:
@@ -40,18 +45,62 @@ def extract_metadata(summary_path: str) -> dict:
     return metadata
 
 
+def detect_platform(url: str) -> str:
+    """Detect platform directory name from URL."""
+    if not url:
+        return 'other'
+    url_lower = url.lower()
+    if "bilibili.com" in url_lower or "b23.tv" in url_lower:
+        return 'bilibili'
+    if "youtube.com" in url_lower or "youtu.be" in url_lower:
+        return 'youtube'
+    if "twitter.com" in url_lower or "x.com" in url_lower:
+        return 'twitter'
+    if "tiktok.com" in url_lower:
+        return 'tiktok'
+    if "vimeo.com" in url_lower:
+        return 'vimeo'
+    if "instagram.com" in url_lower:
+        return 'instagram'
+    if "twitch.tv" in url_lower:
+        return 'twitch'
+    return 'other'
+
+
+def extract_video_id(url: str) -> str:
+    """Extract platform-specific video ID from URL."""
+    if not url:
+        return ''
+    # YouTube: watch?v=XXXXX or youtu.be/XXXXX or shorts/XXXXX
+    yt_match = re.search(r'(?:v=|youtu\.be/|shorts/|live/)([A-Za-z0-9_-]{6,})', url)
+    if yt_match:
+        return yt_match.group(1)
+    # Bilibili: /BVxxxx or /av12345
+    bv_match = re.search(r'/(BV[\w]+)', url)
+    if bv_match:
+        return bv_match.group(1)
+    av_match = re.search(r'/(av\d+)', url)
+    if av_match:
+        return av_match.group(1)
+    # Vimeo/TikTok/Twitter: trailing numeric or path segment
+    tail_match = re.search(r'/([^/?#]+)/?$', url)
+    if tail_match:
+        return tail_match.group(1)
+    return ''
+
+
 def format_catalog_entry(metadata: dict) -> str:
     """Format a single catalog entry line."""
     title = metadata.get('title', '未知标题')
     url = metadata.get('url', '')
+    author = metadata.get('author', '')
 
-    # Extract BVID from URL if available
-    bvid_match = re.search(r'/(BV[\w]+)', url) if url else None
-    bvid = bvid_match.group(1) if bvid_match else ''
+    platform = detect_platform(url)
+    video_id = extract_video_id(url)
 
-    link = f"[summary.md](../../downloads/bilibili/{bvid}/summary.md)" if bvid else ''
+    link = f"[summary.md](../../downloads/{platform}/{video_id}/summary.md)" if video_id else ''
 
-    return f"| | {title} | {link} |"
+    return f"| {author} | {title} | {link} |"
 
 
 def find_section_insert_pos(catalog_content: str, target_date: str) -> int:
@@ -148,9 +197,11 @@ def update_catalog(summary_path: str, catalog_path: str):
     # Find where to insert
     insert_pos = find_section_insert_pos(catalog_content, metadata['date'])
 
-    # Create new section content
+    # Create new section content (include year header if section doesn't exist yet)
     year = metadata['date'][:4]
-    new_section = f"\n### {metadata['date']}\n\n| 发布者 | 标题 | 链接 |\n|--------|------|------|\n"
+    year_exists = re.search(rf'^## {year}年$', catalog_content, re.MULTILINE)
+    year_header = f"## {year}年\n\n" if not year_exists else ""
+    new_section = f"\n{year_header}### {metadata['date']}\n\n| 发布者 | 标题 | 链接 |\n|--------|------|------|\n"
     new_entry = format_catalog_entry(metadata) + '\n\n'
 
     # Insert

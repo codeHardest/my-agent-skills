@@ -1,0 +1,25 @@
+In this lesson, you will learn how combining specialized agents with domain expertise outperforms a single general purpose reviewer while managing the cost quality tradeoff. Let's build.
+
+So in this lab, you're going to use the same context engine you built in the previous lesson first do a security code review and then a code base pattern code review. Finally, an ensemble code review agent will combine both findings to generate the final code review result, You will see how this can result in higher code review quality. You'll repeat this evaluation across 15 pull requests, aggregate the results, and compare the overall performance of using specialized agents with the results of a general code review.
+
+All right, let's build it. So in the previous lessons, we used context, we built a context engine, and then we leveraged selective retrieval to improve the overall metrics and quality of the code review system. Now, we're going to see how specialized agents can work together to outperform the past code review systems that we built.
+
+Just like in the previous lessons, we set up our environment and made sure to bring in and load our OpenAI API key. And it loaded successfully.
+
+Now, we'll use the same context engine that we use in previous lessons. Okay, now the context engine is ready with the 99 chunks indexed.
+
+Now we're going to use an ensemble architecture. This is combining Security Agent that will be detecting vulnerabilities, Pattern Compliance Agent that'll be looking for codebase patterns, and then the ensemble. And this is both of these agents will be operating in parallel and we will deduplicate the results and come up with final code review results.
+
+Now let's take a look at the prompts for the Security Agent, the Pattern Agent, and the default general agent. And you can see that we've got 411 characters for the general one, and the security has 2300, and the Pattern Agent has around 17 hundred. These specialized agents tend to have longer, more domain-specific prompts.
+
+We've run a full evaluation before. We're going to do the same thing, but comparing a general code review versus ensemble leveraging all of the specialized agents. And note that the Context Engine remains the same for both of these approaches. It's only the agents that have changed that will impact the results that we see from this evaluation.
+
+And now the evaluation is complete. So let's take a look at the aggregate precision, recall, and F1 across all 15 PRs for both general review and the ensemble code review with the specialized agents.
+
+Let's look at the results. For the ensemble architecture, there's an increase in precision, a slight decrease in recall, and overall an increase in the F1 Score. So this goes to show that when using specialized agents, it ultimately outperforms a general agent architecture. And in the real world when using a code review system, much higher precision can lead to less noise in the results that you get from the actual code review. And less noise leads to developers being able to trust the actual results over time.
+
+And now let's look at a visual comparison. Notice how the ensemble architecture achieves 71.1% F1 versus 60.6% for the general agent. And that improvement is now clear from the security and pattern compliance agents that were used.
+
+Next, we can take a look at the performance of the general versus the ensemble architecture per PR. All right, and now we have the per-PR performance results. So we have each of the PRs, the amount of issues that are expected and the differences in their performance of how many issues were caught that were matching to the expected issues and how many issues were caught in total as well. And there is a clear winner more times than not that the ensemble architecture wins.
+
+So in this lesson, we saw how specialized ensemble architecture that has domain expertise agents actually improves the code review quality overall. And we can also keep in mind that with the consistency of using the same context engine from the previous lessons, that that is also crucial in maintaining and improving the quality of a code review system. But add in an ensemble architecture and you could get even better results.

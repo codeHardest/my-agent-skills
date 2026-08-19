@@ -79,6 +79,28 @@ def format_count(count, default=0):
     return str(count)
 
 
+def detect_source(url=""):
+    """Detect video source platform and language from URL."""
+    if not url:
+        return "Bilibili", "中文"  # Default for backward compatibility
+    url_lower = url.lower()
+    if "youtube.com" in url_lower or "youtu.be" in url_lower:
+        return "YouTube", "英文"
+    if "bilibili.com" in url_lower or "b23.tv" in url_lower:
+        return "Bilibili", "中文"
+    if "twitter.com" in url_lower or "x.com" in url_lower:
+        return "Twitter/X", "英文"
+    if "tiktok.com" in url_lower:
+        return "TikTok", "英文"
+    if "vimeo.com" in url_lower:
+        return "Vimeo", "英文"
+    if "instagram.com" in url_lower:
+        return "Instagram", "英文"
+    if "twitch.tv" in url_lower:
+        return "Twitch", "英文"
+    return "其他", "中文"
+
+
 def generate_summary_with_retry(transcript, title, url, duration, author="", view_count=0, like_count=0,
                                 coin_count=0, favorite_count=0, share_count=0, danmaku_count=0,
                                 subtitle_json="", timestamps="", pubdate="", max_retries=3, initial_delay=2):
@@ -93,6 +115,7 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
     duration_str = f"{int(duration)}秒 (约{int(duration)//60}分钟)" if duration else "未知"
     duration_short = f"{int(duration)}秒" if duration else "未知"
     download_time = time.strftime("%Y-%m-%d %H:%M:%S")
+    source, language = detect_source(url)
     word_count = len(transcript)
     char_count = len(transcript.replace('\n', ''))
 
@@ -126,10 +149,10 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
 
 ## 视频信息
 - **标题**: {title}
-- **来源**: Bilibili
+- **来源**: {source}
 - **URL**: {url}
 - **时长**: {duration_str}
-- **语言**: 中文
+- **语言**: {language}
 - **发布时间**: {pubdate}
 - **下载时间**: {download_time}
 
@@ -149,10 +172,11 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
 # 视频摘要：{title}
 
 ## 基本信息
-- **来源**: Bilibili
+- **来源**: {source}
 - **URL**: {url}
 - **时长**: {duration_str}
-- **语言**: 中文
+- **语言**: {language}
+- **发布时间**: {pubdate}
 - **下载时间**: {download_time}
 
 ## 原始元数据
@@ -277,7 +301,7 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
 
 
 def generate_transcript_summary(transcript, title, url, duration, author="", view_count=0, like_count=0,
-                                coin_count=0, favorite_count=0, share_count=0, danmaku_count=0):
+                                coin_count=0, favorite_count=0, share_count=0, danmaku_count=0, pubdate=""):
     """
     Generate a basic summary directly from transcript (fallback when API fails).
     Preserves all original metadata.
@@ -312,14 +336,16 @@ def generate_transcript_summary(transcript, title, url, duration, author="", vie
     if danmaku_count:
         metadata_parts.append(f"- **弹幕数**: {format_count(danmaku_count)}")
     metadata_block = '\n'.join(metadata_parts) if metadata_parts else "- (无额外元数据)"
+    source, language = detect_source(url)
 
     return f'''# 视频摘要：{title}
 
 ## 基本信息
-- **来源**: Bilibili
+- **来源**: {source}
 - **URL**: {url}
 - **时长**: {duration_str}
-- **语言**: 中文
+- **语言**: {language}
+- **发布时间**: {pubdate}
 - **下载时间**: {download_time}
 - **备注**: 此为由机器人生成的自动摘要（API不可用时生成）
 
@@ -430,7 +456,8 @@ def main():
             coin_count=args.coin_count,
             favorite_count=args.favorite_count,
             share_count=args.share_count,
-            danmaku_count=args.danmaku_count
+            danmaku_count=args.danmaku_count,
+            pubdate=args.pubdate
         )
 
     # Save summary

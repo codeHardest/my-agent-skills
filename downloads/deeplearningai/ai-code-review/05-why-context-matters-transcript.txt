@@ -1,0 +1,39 @@
+In this lesson, you will learn why context-aware code review significantly outperforms diff-only review by comparing both approaches across many synthetic PRs. You'll see how providing the reviewer with code base patterns and task requirements enables it to catch pattern violations that are invisible from the diff alone. You'll understand that context quality can matter more than the model itself. Let's go.
+
+In this lab, you'll start by reviewing pull requests using only the code diff. As you'll see, this diff only approach leads to lower precision recall and F1 score. Next, you'll enhance the review by providing the review system with both code based context and task requirements in addition to the diff.
+
+With this extra context, you'll see a significant improvement in all three metrics precision, recall, and F1.
+
+To make the comparison meaningful, you'll repeat this evaluation across 15 different pull requests, Aggregate the results, and compare the overall performance of the diff only approach against the context aware approach. Let's build it.
+
+So the first thing we'll do is set up our environment. We'll be using the OpenAI API key, and we just want to make sure that is loading successfully. And this is already set up for you by the DeepLearning.AI environment, so you should be good to go.
+
+So now let's examine just a single PR and we'll take a look at the code diff that's inside of it. So in this PR, it's about adding a user profile update endpoint.
+
+And we could see that being done here in this method for this API.
+
+And we have our expected issues related to authentication authorization patterns and try-except error handling that isn't being handled in the best way. And the reason we have these expected issues is because we want to evaluate the code review system to see when we run this code diff through it, does it catch these issues? So that's what we'll test.
+
+So now let's take a look at the review system that we'll use to pass our code diff through. So here we have the code review prompt, our PR title, task section, code diff, context section, and instructions. And so these are the placeholders that we can pass in parameters to, but what the model will generate are the list of the issues and their corresponding severity levels.
+
+So let's see what the Diff-Only reviewer finds without any other context besides the code diffs. So here are the results. The Diff-Only reviewer found four issues, and we see that there are some related to authentication, authorization, and as well as some security concerns around error handling and unhandled exceptions. We also see that there are two issues that are of high severity, one that's medium, and one that's pretty low.
+
+And we can see here that out of the two expected issues that are listed, there were none that were matching based off what the diff-only review gave us.
+
+Now let's run the same thing, but this time with a lot more context. So we can see here that there are three total findings, and one thing to point out is that the quality of these findings are a bit different. You notice in these descriptions are referencing different patterns that are being violated and more about authorization and authentication and error handling with try-except blocks.
+
+So now let's look at how the context-aware code review results compare to the expected issues like before. And with these results, we see that Both of the expected issues are matching with two of the code review issues that were found from the context-aware results.
+
+Now let's do a side-by-side comparison of the diff-only review and the context-aware review results. And here we have diff-only had no matches to the expected issues, and context-aware had both matches.
+
+Let's evaluate both approaches across all 15 synthetic PRs to see if the pattern that we're seeing with the results hold up. So first we've loaded all 15 to prepare for the evaluation. And now we can run them. And just a heads up, this'll take just a little bit of time.
+
+Now that the evaluation is complete, we can take a look at the metrics. that show what the quality of both of these code review systems are. And the way to evaluate them is through Precision, which asks how much the code review results match the known ones, and Recall, which is asking how much of the known issue set was actually caught. and the F1 Score balances both.
+
+Notice how in the results between Diff-Only and Context-Aware, there is a 17.5% increase in precision, 43.3% increase in recall, and 25.4% increase in F1 Score. This shows us that the overall quality of the code review system significantly increases with added context.
+
+Now let's visualize it.
+
+Now if you're curious to get a deeper look into the results per PR, we can take a look at that here. So a few things to point out here is that per PR, you can see that the Diff-Only code review found somewhere between zero and two issues. But for every single Context-Aware review that was run for the PRs, all two expected issues were found. And that's a pretty consistent improvement from Diff-Only to Context-Aware results.
+
+So in this lesson, we learned the power of the right context being added to a code review system. In the next lesson, we're going to dive deeper into building a context engine to control finding the most relevant context for a code review system.

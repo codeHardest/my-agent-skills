@@ -1,0 +1,19 @@
+Welcome to AI Code Review built in partnership with Qodo. In this course, you'll learn how to use AI code review agents in your software development workflow. You'll also build your own code review agent to better understand how these systems work under the hood, which will let you use them better.
+
+AI-generated code is wonderful, and it's vastly increasing the amount of code we can write. But there's now so much code written that if we need to review it manually, we become the bottleneck, which is why AI code review is an important part of my workflow and of many teams' workflows.
+
+AI generated code also introduces new challenges. A pull request may look perfectly reasonable while still missing an important requirement or introduce a security loophole. So, to keep up with AI code development and the pace at which AI can now generate code, a code review workflow also needs to evolve.
+
+In this course, you'll learn practical techniques for making AI code review more effective, such as how to steer it to focus on the highest risk issues. You'll also build your own AI code review agent so you can understand how these systems retrieve context and how they reason about code, and why some ways you steer them might produce better results than others.
+
+Thanks, Andrew. We'll start by looking at what makes a good code review and how AI code review fits in today's software development workflow. Then we'll focus on practical techniques that help AI reviewers produce better results, such as local code review by developers before opening a pull request, providing richer context about the task and repository and prioritizing findings based on their potential impact.
+
+Once you've seen these best practices in action, we'll take a closer look at why context is often the biggest factor in review quality. And why simply using a more powerful model isn't enough if it doesn't have the right information.
+
+Finally, we'll build our own context-aware AI Code Review system from the ground up. You'll build a context engine to retrieve the relevant code, and then extend the reviewer by combining specialized agents with different areas of expertise.
+
+Many people have worked to create this course. I'd like to thank Esmaeil Gargari, Brendan Brown and Nick Lewis from DeepLearning.AI.
+
+In the first lesson, you will learn about the core goals of effective code review, and how AI code review differs from traditional human review and how modern AI code review systems analyze pull requests to generate feedback.
+
+That sounds great. Let's go on to the next video to review what comes next.
