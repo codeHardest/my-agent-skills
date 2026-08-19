@@ -35,6 +35,11 @@
       "source": "anthropics/skills",
       "sourceType": "github",
       "computedHash": "cb7fba2177d0d35d14b3244272b25d1b05246e99b3468a087fe06c84193dbd20"
+    },
+    "youdaonote": {
+      "source": "C:\\Users\\tynie\\AppData\\Local\\Temp\\youdaonote-skill\\youdaonote",
+      "sourceType": "local",
+      "computedHash": "c4124404cd21ed50b22074f348f326a31f70d295db53d9f69121330822d84f76"
     }
   }
 }
