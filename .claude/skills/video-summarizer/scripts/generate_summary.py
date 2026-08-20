@@ -267,7 +267,7 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
     for attempt in range(max_retries):
         try:
             response = client.messages.create(
-                model='claude-haiku-4-5-20251001',
+                model=os.environ.get('ANTHROPIC_MODEL') or 'deepseek-v4-pro',
                 max_tokens=4096,
                 messages=[{
                     'role': 'user',

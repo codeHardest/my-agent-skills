@@ -145,6 +145,10 @@ The `update_catalog.py` script will:
 - **DeepLearning.AI captions fail**: Fall back to VTT URL from `subtitleUrl` field
 - **API 529/Overloaded**: Retry with exponential backoff (3 attempts), fall back to transcript-only summary if all fail
 - **Encoding errors**: Always specify `encoding='utf-8'` when reading/writing files
+- **Model 401 "not supported"**: generate_summary.py reads the model from the `ANTHROPIC_MODEL` env var (set by the API gateway), falling back to `deepseek-v4-pro`. Do NOT hardcode a Claude model ID — this environment's gateway exposes a different model set (deepseek/kimi/glm/qwen etc.) and rejects `claude-*` IDs.
+
+<!-- Evolution: 2026-08-20 | source: ep-2026-08-20-002 | skill: video-summarizer -->
+**Pattern Added (2026-08-20)**: `generate_summary.py` must never hardcode a model ID. It reads `ANTHROPIC_MODEL` env var (the gateway-configured model, e.g. `gpt-5.6-luna`) and falls back to `deepseek-v4-pro`. First run failed with `Error code: 401 - Model claude-haiku-4-5-20251001 is not supported`; switching to the env-var model produced a full AI summary.
 
 ## Bilibili-Specific Notes
 
