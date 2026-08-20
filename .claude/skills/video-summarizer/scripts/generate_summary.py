@@ -264,40 +264,44 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
             pass
         return '\n'.join(result) if result else ''
 
-    for attempt in range(max_retries):
-        try:
-            response = client.messages.create(
-                model=os.environ.get('ANTHROPIC_MODEL') or 'deepseek-v4-pro',
-                max_tokens=4096,
-                messages=[{
-                    'role': 'user',
-                    'content': prompt
-                }]
-            )
-            text = extract_text_from_content(response.content)
-            if text:
-                return text
-            # If no text extracted, raise error to trigger fallback
-            raise ValueError("No text content in response")
+    # Model fallback chain: prefer ANTHROPIC_MODEL (gateway-configured), then known-working models.
+    # The gateway rejects claude-* IDs and gpt-5.6-luna returns empty 400 responses, so a single
+    # hardcoded model is fragile. Try each candidate until one returns usable text.
+    candidates = [os.environ.get('ANTHROPIC_MODEL') or 'deepseek-v4-pro',
+                  'deepseek-v4-flash', 'deepseek-v4-pro']
 
-        except (OverloadedError, RateLimitError) as e:
-            last_error = e
-            delay = initial_delay * (2 ** attempt)
-            print(f"  API error (attempt {attempt + 1}/{max_retries}): {type(e).__name__}")
-            print(f"  Retrying in {delay}s...")
-            time.sleep(delay)
+    last_error = None
+    for model in candidates:
+        for attempt in range(max_retries):
+            try:
+                print(f"  Trying model: {model} (attempt {attempt + 1}/{max_retries})")
+                response = client.messages.create(
+                    model=model,
+                    max_tokens=4096,
+                    messages=[{
+                        'role': 'user',
+                        'content': prompt
+                    }]
+                )
+                text = extract_text_from_content(response.content)
+                if text:
+                    return text
+                # If no text extracted, raise error to trigger fallback
+                raise ValueError(f"No text content in response for model {model}")
 
-        except Exception as e:
-            last_error = e
-            print(f"  Unexpected error: {e}")
-            break
+            except (OverloadedError, RateLimitError) as e:
+                last_error = e
+                delay = initial_delay * (2 ** attempt)
+                print(f"  API error (attempt {attempt + 1}/{max_retries}): {type(e).__name__}")
+                print(f"  Retrying in {delay}s...")
+                time.sleep(delay)
 
-        except Exception as e:
-            last_error = e
-            print(f"  Unexpected error: {e}")
-            break
+            except Exception as e:
+                last_error = e
+                print(f"  Model {model} failed: {e}")
+                break
 
-    raise Exception(f"Failed after {max_retries} retries. Last error: {last_error}")
+    raise Exception(f"Failed after {len(candidates)} models x {max_retries} retries. Last error: {last_error}")
 
 
 def generate_transcript_summary(transcript, title, url, duration, author="", view_count=0, like_count=0,
