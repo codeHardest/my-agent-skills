@@ -39,3 +39,18 @@ https://learn.deeplearning.ai/courses/generative-ai-for-everyone/lesson/ieb07/we
 
 将有道云笔记的所有内容转成markdown
  然后按照不同主题总结
+
+
+ 每日8点定期微信推送
+1. 天气
+2. 知先财情 https://space.bilibili.com/131580584?spm_id_from=333.337.0.0 每日财经要闻推送
+3. 下面up主列表中的up是否有更新，有更新则使用技能 video-summarizer 总结后 推送给我
+    https://space.bilibili.com/13920437?spm_id_from=333.1387.follow.user_card.click
+    https://space.bilibili.com/596866446?spm_id_from=333.1387.follow.user_card.click
+    https://space.bilibili.com/383350110?spm_id_from=333.1387.follow.user_card.click
+    https://space.bilibili.com/383587023?spm_id_from=333.1387.follow.user_card.click
+    https://space.bilibili.com/1575688490?spm_id_from=333.1387.follow.user_card.click
+    https://space.bilibili.com/3546909549529340/?spm_id_from=333.788.upinfo.detail.click
+    https://space.bilibili.com/531131239?spm_id_from=333.337.search-card.all.click
+
+总结内容需要按日期保存， 跳过充电专属视频
