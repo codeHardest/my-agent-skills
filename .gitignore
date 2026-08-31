@@ -30,3 +30,5 @@ Thumbs.db
 # Logs
 *.log
 downloads/bilibili/bilibili-cookies.txt
+.agents/skills/book-to-skill
+.claude/skills/book-to-skill
