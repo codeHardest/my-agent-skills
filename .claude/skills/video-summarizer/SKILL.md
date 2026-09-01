@@ -146,12 +146,17 @@ The `update_catalog.py` script will:
 - **API 529/Overloaded**: Retry with exponential backoff (3 attempts), fall back to transcript-only summary if all fail
 - **Encoding errors**: Always specify `encoding='utf-8'` when reading/writing files
 - **Model 401 "not supported" / empty 400 response**: generate_summary.py uses a **model fallback chain** — it tries `ANTHROPIC_MODEL` first (gateway-configured), then `deepseek-v4-flash`, then `deepseek-v4-pro`. Do NOT hardcode a single model ID. This environment's gateway rejects `claude-*` IDs (401), and `gpt-5.6-luna` (the current `ANTHROPIC_MODEL` value) returns empty 400 responses — only the deepseek-v4 models reliably return text.
+- **Truncated summary (ends mid-list)**: generate_summary.py detects `stop_reason` = `max_tokens`/`length` and escalates `max_tokens` (4096→8192→16384→32768). Long videos (60min+, ~20K-char transcripts) truncate at 4096. If `deepseek-v4-flash` still truncates at 16384, it switches to `deepseek-v4-pro` which completes at 8192. Note: max_tokens=32768 requires streaming — the gateway rejects non-streaming >10min requests. Always verify the generated summary ends with a real section (关键词/技术信息), not a bare number.
+- **`update_catalog.py` has no dedup**: do NOT re-run it for an already-catalogued video after regenerating summary.md — it would add a duplicate row. Edit the existing row manually (e.g., to add the author).
 
 <!-- Evolution: 2026-08-20 | source: ep-2026-08-20-002 | skill: video-summarizer -->
 **Pattern Added (2026-08-20)**: `generate_summary.py` must never hardcode a model ID. It reads `ANTHROPIC_MODEL` env var (the gateway-configured model) and falls back to `deepseek-v4-flash` / `deepseek-v4-pro`. First run failed with `Error code: 401 - Model claude-haiku-4-5-20251001 is not supported`; switching to the env-var model produced a full AI summary.
 
 <!-- Evolution: 2026-08-20 | source: ep-2026-08-20-003 | skill: video-summarizer -->
 **Pattern Refined (2026-08-20)**: The env-var model itself (`gpt-5.6-luna`) can be broken through the gateway — it returned an empty `400` with `content: [{type: text, text: ''}]`. Added a multi-model fallback chain (`ANTHROPIC_MODEL` → `deepseek-v4-flash` → `deepseek-v4-pro`) so a single broken model no longer degrades the summary to the fallback. Verified: gpt-5.6-luna failed, deepseek-v4-flash produced the full summary.
+
+<!-- Evolution: 2026-09-01 | source: BV1m7th6uEH3 | skill: video-summarizer -->
+**Pattern Added (2026-09-01)**: `generate_summary.py` silently saved truncated output. A 68-min video (20,628-char transcript) truncated at `max_tokens=4096` — summary.md ended mid-list at "6." with no error. Fix: check `response.stop_reason` for `max_tokens`/`length` and escalate through token levels [4096, 8192, 16384, 32768]; models that exhaust the budget get skipped. Observed: deepseek-v4-flash truncates even at 16384; deepseek-v4-pro completes at 8192. Also: max_tokens=32768 triggers the gateway's "Streaming is required" error — cap escalation at 16384 for non-streaming calls, or enable streaming.
 
 ## Bilibili-Specific Notes
 

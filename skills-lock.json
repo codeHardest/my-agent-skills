@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "book-to-skill": {
+      "source": "virgiliojr94/book-to-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "5114757e63370b6f637ebbe7c5e6296111c8e74ae9666e6513ae1dbff5ae34c5"
+    },
     "docx": {
       "source": "anthropics/skills",
       "sourceType": "github",
@@ -10,6 +16,12 @@
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "computedHash": "645b891da1edbae76ab79c7b088d4e73397464f8396edaf773c0e01971ce75d6"
+    },
+    "hallmark": {
+      "source": "nutlope/hallmark",
+      "sourceType": "github",
+      "skillPath": "skills/hallmark/SKILL.md",
+      "computedHash": "6d53b2b609e05849c1dd0fc53e37daa7515089d5880c15e7e885c86e8b814e9c"
     },
     "mcp-builder": {
       "source": "anthropics/skills",
@@ -37,7 +49,7 @@
       "computedHash": "cb7fba2177d0d35d14b3244272b25d1b05246e99b3468a087fe06c84193dbd20"
     },
     "youdaonote": {
-      "source": "C:\\Users\\tynie\\AppData\\Local\\Temp\\youdaonote-skill\\youdaonote",
+      "source": "C:/Users/tynie/AppData/Local/Temp/youdaonote-skill/youdaonote",
       "sourceType": "local",
       "computedHash": "c4124404cd21ed50b22074f348f326a31f70d295db53d9f69121330822d84f76"
     }

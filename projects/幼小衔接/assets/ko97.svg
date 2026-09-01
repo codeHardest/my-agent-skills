@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+  <!-- 拳皇97 风格 K.O.：金黄放射光芒 + 黄色大字 + 红色描边（2026-08-20 自绘） -->
+  <!-- 光芒 -->
+  <polygon points="595,180 619,312 509,389 432,499 300,475 168,499 91,389 -19,312 5,180 -19,48 91,-29 168,-139 300,-115 432,-139 509,-29 619,48" fill="#FFE082"/>
+  <circle cx="300" cy="180" r="205" fill="#FFD54D"/>
+  <circle cx="300" cy="180" r="160" fill="#FFCA28"/>
+  <!-- 文字投影 -->
+  <text x="308" y="252" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="176" font-weight="900" fill="#7A1200" transform="skewX(-8)">K.O.</text>
+  <!-- 主字 -->
+  <text x="300" y="244" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="176" font-weight="900" fill="#FFD700" stroke="#9B1B0A" stroke-width="14" stroke-linejoin="round" transform="skewX(-8)">K.O.</text>
+  <!-- 高光 -->
+  <text x="300" y="244" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="176" font-weight="900" fill="none" stroke="#FFF3C4" stroke-width="4" stroke-linejoin="round" transform="skewX(-8)">K.O.</text>
+</svg>

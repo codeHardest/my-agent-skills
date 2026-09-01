@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>奥特曼识字战</title>
+<!-- 设计令牌（全站唯一色板/字体源） -->
+<link rel="stylesheet" href="../tokens.css">
+<!-- 字体增强：在线走 Google Fonts，离线自动回落系统圆体（file:// 下不阻塞） -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* Hallmark · genre: playful · macrostructure: Marquee Hero · theme: Hum
+ * enrichment: Tier-A CSS art（check-burst ✓ · sticker 章节徽章）· nav: HUD（应用内）
+ * designed-as-app: 幼小衔接学习台 · tokens: ../tokens.css
+ * pre-emit critique: P4 H4 E4 S4 R5 V4
+ */
+* { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+html, body { height:100%; overflow-x:clip; }
+body {
+  font-family:var(--font-body); font-size:var(--text-base); line-height:1.55;
+  background:var(--bg); color:var(--color-ink);
+  overflow:clip; user-select:none;
+}
+.hidden { display:none !important; }
+
+/* ============ HUD 顶栏（浮层胶囊 · 小屏最简） ============ */
+#hud {
+  position:fixed; top:12px; left:50%; transform:translateX(-50%);
+  z-index:var(--z-hud);
+  width:min(calc(100% - 20px), 540px);
+  display:flex; align-items:center; gap:8px;
+  padding:8px 12px;
+  background:var(--color-paper-2); border:1.5px solid var(--color-rule);
+  border-radius:var(--radius-pill);
+  box-shadow:0 10px 24px -14px var(--shadow-ink);
+}
+.hud-logo {
+  font-family:var(--font-display); font-size:15px; font-weight:800;
+  color:var(--color-ink); letter-spacing:.01em; white-space:nowrap;
+}
+.hud-right { margin-left:auto; display:flex; align-items:center; gap:8px; }
+.energy-wrap { width:52px; height:14px; border-radius:var(--radius-pill); overflow:hidden;
+  background:var(--color-paper-3); border:1.5px solid var(--color-rule);
+  display:none; }                       /* 最窄屏隐藏能量条，数据在 ⚡ 胶囊里 */
+#energyBar { display:block; height:100%; width:100%; transform:scaleX(0); transform-origin:left;
+  background:var(--color-accent); border-radius:var(--radius-pill);
+  transition:transform .35s var(--ease-snap); }
+.pill { font-family:var(--font-label); font-size:12px; font-weight:600;
+  font-variant-numeric:tabular-nums; letter-spacing:.02em;
+  color:var(--color-ink-2); background:var(--color-paper);
+  border:1.5px solid var(--color-rule); border-radius:var(--radius-pill);
+  padding:4px 8px; white-space:nowrap; }
+.pill.warn { color:var(--color-coral-deep); }
+@media (min-width:26rem) {
+  .energy-wrap { display:block; width:80px; }
+  .hud-logo { font-size:16px; }
+}
+@media (min-width:40rem) { .energy-wrap { width:104px; } }
+
+/* 连击徽章（高能时刻 · 珊瑚） */
+.combo-badge {
+  position:fixed; top:60px; right:12px; z-index:var(--z-toast);
+  font-family:var(--font-label); font-size:18px; font-weight:700;
+  font-variant-numeric:tabular-nums; white-space:nowrap;
+  color:var(--color-coral-deep); background:var(--color-coral-soft);
+  border:1.5px solid var(--color-accent-3); border-radius:var(--radius-pill);
+  padding:4px 12px; display:none;
+}
+.combo-badge.show { display:block; animation:badgePop .4s var(--ease-spring); }
+@keyframes badgePop {
+  0% { transform:scale(.5); opacity:0; }
+  70% { transform:scale(1.08); opacity:1; }
+  100% { transform:scale(1); opacity:1; }
+}
+
+/* ============ 主屏：舞台 + 托盘（Marquee Hero 每屏结构） ============ */
+#screen {
+  position:relative; z-index:var(--z-raised); height:100%; overflow-y:auto;
+  display:flex; flex-direction:column; align-items:center;
+  padding:92px 16px max(20px, env(safe-area-inset-bottom));
+  padding-left:max(16px, env(safe-area-inset-left));
+  padding-right:max(16px, env(safe-area-inset-right));
+}
+.card {
+  width:100%; max-width:540px; min-height:calc(100dvh - 132px);
+  display:flex; flex-direction:column;
+  animation:stageIn var(--dur-long) var(--ease-snap) both;
+}
+.card.center, .section-card { justify-content:center; }
+@keyframes stageIn { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:none; } }
+
+.stage { flex:1 1 auto; min-height:0; display:flex; flex-direction:column;
+  align-items:center; justify-content:center; gap:var(--space-sm);
+  padding:var(--space-md) 0 var(--space-lg); text-align:center; }
+.tray { flex:0 0 auto; display:flex; flex-direction:column; align-items:center;
+  gap:var(--space-sm); padding:var(--space-md) 0 var(--space-2xs);
+  border-top:2px dashed var(--color-rule); }
+.section-card .tray { border-top:0; padding-top:var(--space-2xs); }
+
+/* 步骤标签（功能性路标：复习/新技能/跟读/描红） */
+.tag { font-family:var(--font-display); font-size:12px; font-weight:700;
+  letter-spacing:.1em; color:var(--color-ink); background:var(--color-paper-2);
+  border:1.5px dashed var(--color-rule); border-radius:var(--radius-pill);
+  padding:4px 12px; }
+
+h1 { font-family:var(--font-display); font-size:clamp(26px, 7vw, 34px); font-weight:800;
+  letter-spacing:.03em; line-height:1.3; color:var(--color-ink);
+  overflow-wrap:anywhere; min-width:0; margin:4px 0; }
+h1 .u { color:var(--color-accent-2-ink); }
+h1 .m { color:var(--color-accent-3-deep); }
+.sub { color:var(--color-ink-2); font-size:17px; font-weight:500; }
+.sub.detail { font-size:22px; font-weight:800; color:var(--color-accent-3-deep); }
+
+/* 主角大字（就是折叠区） */
+.big { font-family:var(--font-display); font-weight:900; line-height:1.1;
+  font-size:var(--text-display); color:var(--color-ink); letter-spacing:.02em;
+  overflow-wrap:anywhere; min-width:0; margin:4px 0;
+  text-shadow:0 4px 0 var(--color-paper-3), 0 16px 32px var(--shadow-ink-soft); }
+.big.small { font-size:clamp(2.75rem, 8vw + 1rem, 5rem); }
+.big.pinyin-big { color:var(--color-accent-2-ink); }
+
+/* 拼音垫（薰衣草） */
+.pinyin { display:inline-block; font-family:var(--font-display); font-weight:600;
+  font-size:clamp(18px, 5vw, 22px); letter-spacing:.04em; line-height:1.6;
+  min-height:36px; padding:4px 16px; color:var(--color-lavender-ink);
+  background:var(--color-lavender); border:1.5px solid var(--color-lavender-ink);
+  border-radius:var(--radius-pill); }
+
+.prompt { font-size:var(--text-lg); font-weight:600; color:var(--color-ink-2); line-height:1.5; }
+.encourage { font-size:var(--text-lg); font-weight:700; color:var(--color-ink-2); min-height:1.7em; }
+
+/* 章节主角徽章（虚线贴纸） */
+.section-emoji { width:clamp(96px, 28vw, 128px); aspect-ratio:1;
+  display:flex; align-items:center; justify-content:center;
+  font-size:clamp(52px, 16vw, 72px); line-height:1;
+  background:var(--color-accent-soft); border:2.5px dashed var(--color-accent-border);
+  border-radius:50%; box-shadow:0 5px 0 -2px var(--color-paper-3), 0 14px 28px -14px var(--shadow-ink); }
+
+/* ============ 选项：2×2 大块（minmax(0,1fr) 防溢出） ============ */
+.options { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:12px; width:100%; }
+.opt { display:flex; align-items:center; justify-content:center;
+  min-height:clamp(84px, 20vw, 104px); padding:14px 8px;
+  font-family:var(--font-display); font-weight:800;
+  font-size:clamp(26px, 9.5vw, 38px); color:var(--color-ink);
+  background:var(--color-paper); border:2.5px solid var(--color-accent-border);
+  border-radius:var(--radius-card); cursor:pointer;
+  box-shadow:0 3px 0 0 var(--color-paper-3), 0 10px 20px -12px var(--shadow-ink);
+  transition:transform var(--dur-micro) var(--ease-out),
+             background-color .16s var(--ease-out), border-color .16s var(--ease-out);
+  touch-action:manipulation; }
+.opt:active { transform:translateY(3px); box-shadow:0 1px 0 0 var(--color-paper-3); }
+.opt:disabled { opacity:.55; cursor:not-allowed; pointer-events:none; }
+@media (hover:hover) and (pointer:fine) {
+  .opt:hover { transform:translateY(-2px); border-color:var(--color-accent-dark); }
+}
+.opt.correct { background:var(--color-mint); border-color:var(--color-mint); color:var(--color-mint-ink);
+  box-shadow:0 3px 0 0 var(--color-mint-deep), 0 12px 24px -12px var(--shadow-ink);
+  animation:optCorrect .45s var(--ease-snap); }
+.opt.wrong { background:var(--color-accent-3-deep); border-color:var(--color-accent-3-deep); color:var(--color-coral-ink);
+  box-shadow:0 3px 0 0 var(--color-coral-edge), 0 12px 24px -12px var(--shadow-ink);
+  animation:optWrong .38s var(--ease-out); }
+@keyframes optCorrect { 0% { transform:scale(1); } 45% { transform:scale(1.08); } 100% { transform:scale(1); } }
+@keyframes optWrong {
+  0%,100% { transform:translateX(0); }
+  25% { transform:translateX(-6px); } 50% { transform:translateX(6px); }
+  75% { transform:translateX(-3px); }
+}
+
+/* ============ 按钮：Hum 按压系统（按压即反馈） ============ */
+.btn, .stroke-btn {
+  --btn-face: var(--color-accent); --btn-ink: var(--color-accent-ink);
+  --btn-edge: var(--color-accent-deep); --btn-cast: var(--shadow-ink);
+  display:inline-flex; align-items:center; justify-content:center; gap:.5em;
+  padding:.8rem 1.4rem; font-weight:700; border:0; border-radius:var(--radius-pill);
+  font-family:var(--font-display); font-size:var(--text-md); white-space:nowrap;
+  color:var(--btn-ink); background:var(--btn-face); cursor:pointer;
+  position:relative; isolation:isolate; touch-action:manipulation;
+  box-shadow:0 4px 0 0 var(--btn-edge), 0 6px 12px -3px var(--btn-cast);
+  transform:translateY(0);
+  transition:transform 140ms cubic-bezier(0.2,0.7,0.3,1),
+             box-shadow 140ms cubic-bezier(0.2,0.7,0.3,1), background-color 160ms;
+}
+.btn:hover, .stroke-btn:hover { transform:translateY(-2px);
+  box-shadow:0 6px 0 0 var(--btn-edge), 0 12px 22px -4px var(--btn-cast); }
+.btn:active, .stroke-btn:active { transform:translateY(3px);
+  box-shadow:0 1px 0 0 var(--btn-edge), 0 2px 6px -2px var(--btn-cast);
+  transition-duration:70ms; }
+.btn:focus-visible, .stroke-btn:focus-visible { outline:3px solid var(--color-focus); outline-offset:3px; }
+.btn[disabled], .stroke-btn[disabled] { opacity:.5; cursor:not-allowed; pointer-events:none;
+  transform:none; box-shadow:0 4px 0 0 var(--btn-edge); }
+.btn.blue { --btn-face:var(--color-accent-2); --btn-ink:var(--color-accent-2-ink);
+  --btn-edge:var(--color-accent-2-deep); }
+.stroke-btn { --btn-face:var(--color-accent-2-soft); --btn-ink:var(--color-accent-2-ink);
+  --btn-edge:var(--color-accent-2-deep);
+  font-size:var(--text-base); padding:.65rem 1.2rem; }
+
+/* 组词点读 chips */
+.words-row { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; }
+.word-chip { display:inline-flex; align-items:center; gap:6px;
+  font-family:var(--font-display); font-weight:700; font-size:var(--text-lg);
+  color:var(--color-accent-2-ink); background:var(--color-accent-2-soft);
+  border:2px solid var(--color-accent-2-deep); border-radius:var(--radius-chip);
+  padding:8px 16px; white-space:nowrap; touch-action:manipulation; }
+.word-chip.speak { cursor:pointer; }
+.word-chip.speak:active { transform:translateY(2px); }
+.word-chip:focus-visible { outline:3px solid var(--color-focus); outline-offset:3px; }
+
+/* 家长判断（薄荷=标准 · 珊瑚=再练练） */
+.judge-row { display:flex; gap:16px; justify-content:center; }
+.judge { --j-edge: var(--color-mint-deep);
+  display:inline-flex; align-items:center; justify-content:center; gap:8px;
+  border:none; border-radius:var(--radius-card); cursor:pointer;
+  font-family:var(--font-display); font-size:clamp(22px, 6vw, 26px); font-weight:800;
+  padding:14px 24px; white-space:nowrap; touch-action:manipulation;
+  box-shadow:0 4px 0 0 var(--j-edge), 0 6px 12px -3px var(--shadow-ink);
+  transition:transform 140ms cubic-bezier(0.2,0.7,0.3,1), box-shadow 140ms cubic-bezier(0.2,0.7,0.3,1); }
+.judge.ok { background:var(--color-mint); color:var(--color-mint-ink); }
+.judge.no { --j-edge:var(--color-coral-edge); background:var(--color-accent-3-deep); color:var(--color-coral-ink); }
+.judge:active { transform:translateY(3px); box-shadow:0 1px 0 0 var(--j-edge); transition-duration:70ms; }
+.judge:focus-visible { outline:3px solid var(--color-focus); outline-offset:3px; }
+
+/* 发音录音指示（功能性脉冲） */
+.mic { font-size:clamp(48px, 14vw, 60px); line-height:1; animation:pulse 1.4s var(--ease-in-out) infinite; }
+@keyframes pulse { 0%,100% { transform:scale(1); } 50% { transform:scale(1.15); } }
+
+/* ============ 描红/笔顺画布（薰衣草书写垫） ============ */
+#traceWrap { position:relative; margin:2px auto 0; width:min(300px, 74vw); }
+#traceWrap svg, #learnWriter svg { touch-action:none; display:block; width:100%; height:auto;
+  background:var(--color-lavender); border:2.5px dashed var(--color-lavender-ink); border-radius:22px; }
+#learnWriter { margin:0 auto; width:min(220px, 56vw); }
+#learnWriter svg { border-width:2px; border-radius:var(--radius-chip); }
+.trace-tip { color:var(--color-ink-2); font-size:15px; font-weight:500; }
+.writer-hint { color:var(--color-lavender-ink); font-size:16px; font-weight:700; }
+
+/* ============ 战斗效果遮罩 ============ */
+#fx { position:fixed; inset:0; z-index:var(--z-fx); pointer-events:none;
+  display:flex; align-items:center; justify-content:center; }
+.fx-monster { font-size:clamp(80px, 28vw, 120px); animation:monsterFade 1s var(--ease-out) forwards; }
+@keyframes monsterFade {
+  0% { transform:scale(1); opacity:1; }
+  60% { transform:scale(1.6); opacity:1; }
+  100% { transform:scale(0); opacity:0; }
+}
+.fx-ultra { font-size:clamp(110px, 36vw, 160px); animation:ultraFlash 1.6s var(--ease-out) forwards; }
+@keyframes ultraFlash {
+  0% { transform:scale(.3); opacity:0; }
+  30% { transform:scale(1.1); opacity:1; }
+  80% { transform:scale(1.5); opacity:1; }
+  100% { opacity:0; }
+}
+.fx-unlock { text-align:center; }
+.fx-hero { font-size:clamp(72px, 26vw, 120px); line-height:1.2; animation:heroPop .5s var(--ease-spring) both; }
+.fx-label { font-family:var(--font-display); font-size:clamp(24px, 7vw, 36px); font-weight:800;
+  color:var(--color-accent-3-deep); margin-top:4px; }
+@keyframes heroPop { 0% { transform:scale(.5); opacity:0; } 100% { transform:scale(1); opacity:1; } }
+
+/* 星星爆发（Hum 成功庆祝 · 珊瑚四角星 · 420ms 单次） */
+.check-burst {
+  /* 答对庆祝：薄荷圆晕 + 粗体绿对钩。旋转十字/星芒在儿童语境里会读成「答错 ✕」，
+   * 成功信号改用唯一明确的符号：绿色 ✓（不旋转，只弹入淡出） */
+  position:fixed; z-index:var(--z-fx); width:64px; height:64px;
+  margin:-32px 0 0 -32px; pointer-events:none;
+  display:flex; align-items:center; justify-content:center;
+  animation:check-burst 520ms var(--ease-spring) forwards;
+}
+.check-burst::before {
+  content:''; position:absolute; inset:0; border-radius:50%;
+  background:var(--color-mint-soft);
+  box-shadow:0 6px 16px -8px var(--shadow-ink);
+}
+.check-burst::after {
+  /* 手绘 ✓ 路径（M12,34 → 顶点 26,48 → 右上 52,20），stroke 走 currentColor 吃令牌 */
+  content:''; width:44px; height:44px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath d='M12 34 L26 48 L52 20' fill='none' stroke='currentColor' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+  background-size:contain; background-repeat:no-repeat; background-position:center;
+  color:var(--color-mint-ink);
+}
+@keyframes check-burst {
+  0% { transform:scale(0); opacity:0; }
+  55% { transform:scale(1.12); opacity:1; }
+  100% { transform:scale(1); opacity:0; }
+}
+
+/* ============ 战报 ============ */
+#report { justify-content:flex-start; min-height:0; gap:12px; padding-bottom:10px; }
+#report .ko-hero { position:relative; border-radius:var(--radius-card); overflow:hidden;
+  box-shadow:0 14px 30px -16px var(--shadow-ink); }
+#report .ko-img { width:100%; display:block; animation:koPunch .7s var(--ease-snap); }
+#report .ko-hero h1 { position:absolute; left:0; right:0; bottom:0; margin:0;
+  padding:44px 16px 16px; font-size:clamp(22px, 6vw, 28px); color:var(--color-paper);
+  text-shadow:0 2px 10px var(--shadow-ink-strong); background:var(--grad-ko); }
+@keyframes koPunch {
+  0% { transform:scale(2.4) rotate(-6deg); opacity:0; }
+  60% { transform:scale(.92) rotate(1deg); opacity:1; }
+  100% { transform:scale(1) rotate(0deg); }
+}
+/* 统计块：每格一个强调色（Hum 多强调色） */
+.stat-grid { display:grid; grid-template-columns:repeat(2, minmax(0, 1fr)); gap:12px; }
+.stat { border-radius:var(--radius-chip); padding:10px 6px; text-align:center; }
+.stat b { display:block; font-family:var(--font-label); font-weight:700;
+  font-size:clamp(26px, 7vw, 32px); line-height:1.3; font-variant-numeric:tabular-nums; }
+.stat span { display:block; font-size:12px; font-weight:700; color:var(--color-ink); }
+.stat--pear { background:var(--color-accent-soft); }  .stat--pear b { color:var(--color-accent-text); }
+.stat--cyan { background:var(--color-accent-2-soft); } .stat--cyan b { color:var(--color-accent-2-ink); }
+.stat--mint { background:var(--color-mint-soft); }     .stat--mint b { color:var(--color-mint-ink); }
+.stat--coral { background:var(--color-coral-soft); }   .stat--coral b { color:var(--color-coral-deep); }
+.stat--lavender { background:var(--color-lavender-soft); } .stat--lavender b { color:var(--color-lavender-ink); }
+
+.rev-list { text-align:left; display:flex; flex-wrap:wrap; gap:8px; align-items:center;
+  max-height:180px; overflow-y:auto; background:var(--color-paper-2);
+  border:1.5px solid var(--color-rule); border-radius:var(--radius-chip); padding:10px 12px; }
+.rev-head { font-weight:700; font-size:15px; color:var(--color-ink); }
+.rev-list span { display:inline-flex; align-items:center; padding:4px 10px;
+  border-radius:10px; font-size:15px; font-weight:700; white-space:nowrap; }
+.rev-ok { background:var(--color-mint-soft); color:var(--color-mint-ink); }
+.rev-no { background:var(--color-coral-soft); color:var(--color-coral-deep); }
+
+/* 触摸 + 键盘焦点 */
+.btn, .opt, .judge, .word-chip, .stroke-btn { touch-action:manipulation; }
+.btn:focus-visible, .opt:focus-visible, .judge:focus-visible,
+.word-chip:focus-visible, .stroke-btn:focus-visible {
+  outline:3px solid var(--color-focus); outline-offset:3px;
+}
+
+/* 减少动态偏好：全部折叠为瞬时状态 */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration:.01ms !important;
+    animation-iteration-count:1 !important;
+    transition-duration:.01ms !important;
+  }
+  .check-burst { display:none; }
+}
+</style>
+</head>
+<body>
+<div id="hud">
+  <div class="hud-logo" id="hudLogo">🦸 奥特识字战</div>
+  <div class="hud-right">
+    <div class="energy-wrap"><div id="energyBar"></div></div>
+    <div class="pill" id="hudEnergy">⚡ 0</div>
+    <div class="pill" id="hudStars">⭐ 0</div>
+    <div class="pill warn" id="hudProg">👾 0</div>
+  </div>
+</div>
+<div class="combo-badge" id="comboBadge"></div>
+
+<div id="screen"></div>
+<div id="fx"></div>
+
+<!-- 今日数据：由技能注入 -->
+<script id="lesson-data" type="application/json">{}</script>
+<!-- 笔顺动画引擎 + 本地笔画矢量数据（模板输出到 sessions/，故用 ../ 相对路径） -->
+<script src="../data/stroke_data.js"></script>
+<script src="../vendor/hanzi-writer.min.js"></script>
+
+<script>
+"use strict";
+/* ============ 数据加载 ============ */
+const DATA = JSON.parse(document.getElementById('lesson-data').textContent || '{}');
+const THEME = DATA.theme || {};
+const $ = id => document.getElementById(id);
+const screen = $('screen');
+
+/* ============ 主题应用（CSS 变量 + 文案） ============ */
+(function applyTheme(){
+  const t = THEME, s = document.documentElement.style;
+  if (t.accent)       s.setProperty('--accent', t.accent);
+  if (t.accentLight)  s.setProperty('--accent-light', t.accentLight);
+  if (t.accentDark)   s.setProperty('--accent-dark', t.accentDark);
+  if (t.accentText)   s.setProperty('--accent-text', t.accentText);
+  if (t.accentSoft)   s.setProperty('--accent-soft', t.accentSoft);
+  if (t.accentBorder) s.setProperty('--accent-border', t.accentBorder);
+  if (t.bg)           s.setProperty('--bg', t.bg);
+  if (t.logo)  { const el = $('hudLogo'); if (el) el.textContent = t.logo; }
+  if (t.title) document.title = t.title;
+})();
+
+/* ============ 令牌读取（JS 侧颜色一律走 tokens.css，兜底 hex 仅在令牌缺失时生效） ============ */
+const CSSVARS = getComputedStyle(document.documentElement);
+const tok = n => CSSVARS.getPropertyValue(n).trim();
+const HWC = {
+  stroke:  tok('--color-accent-dark')  || '#B97F00',
+  highlight: tok('--color-accent-2')   || '#1E88E5',
+  outline: tok('--color-lavender-ink') || '#8A6FA8',
+  drawing: tok('--color-accent')       || '#F2B30A'
+};
+
+/* ============ 小工具 ============ */
+function rand(n){ return Math.floor(Math.random()*n); }
+const ENCOURAGE = THEME.encourage || [
+  "太棒了！", "好厉害！", "又消灭一只！", "奥特曼为你点赞！", "记牢啦！",
+  "真聪明！", "继续加油！", "这一题漂亮！", "超厉害的！", "离胜利又近一步！"
+];
+const ENC_BAD = THEME.encBad || ["没关系，再想想！", "怪兽在偷笑，打败它！", "不着急，记住它！", "下一只一定行！"];
+/* 步骤标签（功能性路标，THEME.tag 可整体覆盖） */
+const TAG = THEME.tag || { section: '新章节', choice: '复习', learn: '新技能', pronounce: '跟读', trace: '描红' };
+
+/* 星星爆发（Hum 成功庆祝，单次；reduced-motion 关闭） */
+function burst(x, y){
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const s = document.createElement('div');
+  s.className = 'check-burst';
+  s.setAttribute('aria-hidden', 'true');
+  s.style.left = x + 'px';
+  s.style.top = y + 'px';
+  document.body.appendChild(s);
+  setTimeout(() => s.remove(), 600);
+}
+/* 战报数字滚动（snappy 到达；reduced-motion 直接落值） */
+function countUp(el){
+  const target = +el.dataset.count;
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) { el.textContent = target; return; }
+  const t0 = performance.now();
+  (function tick(now){
+    const p = Math.min(1, (now - t0) / 1000);
+    el.textContent = Math.round(target * (1 - Math.pow(1 - p, 4)));
+    if (p < 1) requestAnimationFrame(tick);
+  })(t0);
+}
+
+/* ============ 音效（Web Audio 合成） ============ */
+let AC = null;
+function audio(){ if(!AC) AC = new (window.AudioContext||window.webkitAudioContext)(); return AC; }
+function tone(freq, dur=0.15, type='sine', vol=0.5, when=0){
+  const c = audio(), t = c.currentTime + when;
+  const o = c.createOscillator(), g = c.createGain();
+  o.type = type; o.frequency.value = freq;
+  g.gain.setValueAtTime(vol, t); g.gain.exponentialRampToValueAtTime(0.001, t+dur);
+  o.connect(g); g.connect(c.destination); o.start(t); o.stop(t+dur);
+}
+function sndCorrect(){ tone(660,0.1,'square',0.4); tone(880,0.15,'square',0.4,0.08); }
+function sndWrong(){ tone(180,0.25,'sawtooth',0.3); }
+function sndVictory(){ [523,659,784,1047].forEach((f,i)=>tone(f,0.2,'triangle',0.44,i*0.12)); }
+function sndPower(){ tone(392,0.1,'square',0.4); tone(523,0.1,'square',0.4,0.08); tone(784,0.2,'square',0.44,0.16); }
+function sndClick(){ tone(500,0.06,'square',0.2); }
+
+/* ============ TTS 语音（语言由 DATA.lang 驱动） ============ */
+let voices = [];
+function loadVoices(){ voices = speechSynthesis.getVoices(); }
+if ('speechSynthesis' in window) {
+  loadVoices();
+  speechSynthesis.onvoiceschanged = loadVoices;
+}
+function speak(text, lang){
+  if(!('speechSynthesis' in window)) return;
+  if (!voices.length) voices = speechSynthesis.getVoices();  // onvoiceschanged 可能不触发，播放前兜底重载
+  lang = lang || THEME.lang || 'zh-CN';
+  try {
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = lang; u.volume = 1; u.rate = 0.85; u.pitch = 1.05;   // volume 上限即 100%，置顶
+    // 按语言前缀选音色：zh 优先 cn 排除 tw/hk；en 优先 us/gb
+    const prefix = lang.toLowerCase().startsWith('zh') ? 'zh' : lang.toLowerCase().slice(0,2);
+    const vs = voices.filter(v => v.lang && v.lang.toLowerCase().startsWith(prefix));
+    let v = null;
+    if (prefix === 'zh') {
+      v = vs.find(v => v.lang.toLowerCase().includes('cn') && !v.lang.toLowerCase().includes('tw') && !v.lang.toLowerCase().includes('hk'))
+       || vs.find(v => !v.lang.toLowerCase().includes('tw') && !v.lang.toLowerCase().includes('hk'))
+       || vs[0];
+    } else {
+      v = vs.find(v => v.lang.toLowerCase().includes('us'))
+       || vs.find(v => v.lang.toLowerCase().includes('gb'))
+       || vs[0];
+    }
+    if (v) u.voice = v;
+    speechSynthesis.speak(u);
+  } catch(e) { /* 无语音引擎时静默降级 */ }
+}
+
+/* ============ 语音识别（自动判定 + 降级家长判断） ============ */
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+function recognize(target, onResult, onFallback){
+  if (!SR) return onFallback('unsupported');
+  let rec;
+  try {
+    rec = new SR();
+    rec.lang = THEME.lang || 'zh-CN'; rec.interimResults = false; rec.maxAlternatives = 5; rec.continuous = false;
+  } catch(e){ return onFallback('init-fail'); }
+  let done = false;
+  const finish = (ok) => { if(!done){ done = true; onResult(ok); } };
+  rec.onresult = ev => {
+    let best = '';
+    for (let i=0;i<ev.results.length;i++) best += ev.results[i][0].transcript;
+    const isZh = (THEME.lang || 'zh-CN').toLowerCase().startsWith('zh');
+    const norm = s => s.replace(/\s+/g,'').replace(/[^\w一-龥]/g,'').toLowerCase();
+    const t = norm(target);
+    if (isZh) {
+      // 中文宽松判定：识别结果命中目标任意一个字
+      const hit = [...t].some(ch => norm(best).includes(ch));
+      finish(hit);
+    } else {
+      // 英语宽松判定：归一化后互相包含
+      finish(norm(best).includes(t) || t.includes(norm(best)));
+    }
+  };
+  rec.onerror = () => finish(false);
+  rec.onend = () => finish(false);   // 静默结束也结束流程
+  try { rec.start(); } catch(e){ finish(false); }
+  // 8 秒无结果 → 自动降级家长判断
+  setTimeout(() => { if(!done){ done = true; onFallback('timeout'); } }, 8000);
+  return rec;
+}
+
+/* ============ 游戏状态 ============ */
+let steps = (DATA.steps||[]).filter(Boolean);
+let idx = -1;
+let combo = 0, comboMax = 0, energy = 0, stars = 0;
+let correctCount = 0, totalAnswered = 0;
+let reviewResults = [];      // {id, correct, tries}
+let newLearned = [];
+
+/* 记录复习结果（聚合键：step.id || step.char，语文/英语通用）。
+   choice 题附带题干明细（数学错题队列需要知道错的是哪道题） */
+function recordReview(step, correct, tries){
+  const key = step.id || step.char;
+  if (!key || step.phase === 'new') return;
+  const prev = reviewResults.find(r => r.id === key);
+  if (prev) { prev.correct = prev.correct && correct; prev.tries += tries; }
+  else reviewResults.push({
+    id: key, correct, tries,
+    step: step.kind === 'choice' ? { big: step.big, prompt: step.prompt, options: step.options, answer: step.answer } : null
+  });
+}
+
+/* ============ 渲染 ============ */
+/* 切换到有语音的卡片时自动朗读一次。
+   pick_pinyin 除外：字形→选拼音，自动读出声等于泄露答案。 */
+function autoSpeak(s){
+  if (s.kind === 'section') return;
+  if (s.kind === 'choice') {
+    if (s.mode === 'pick_pinyin') return;
+    speak(s.char || s.phonetic);
+    return;
+  }
+  if (s.kind === 'learn') {
+    speak(s.speak || (s.char ? s.char + '。' + (s.words||[]).join('，') : (s.big || s.title || '')));
+    return;
+  }
+  if (s.kind === 'pronounce')  { speak(s.text || s.char || s.big); return; }
+  if (s.kind === 'trace')      { speak(s.char || ''); return; }
+}
+function render(){
+  if (idx >= steps.length) return finish();
+  const s = steps[idx];
+  writerCleanup();   // 上一步的 hanzi-writer 动画先销毁，避免泄漏/重叠
+  sndClick();
+  autoSpeak(s);
+  switch (s.kind) {
+    case 'section': return renderSection(s);
+    case 'choice':  return renderChoice(s);
+    case 'pronounce': return renderPronounce(s);
+    case 'trace':  return renderTrace(s);
+    case 'learn':  return renderLearn(s);
+    default: idx++; render();
+  }
+}
+
+function renderSection(s){
+  updateHud();
+  screen.innerHTML = `
+    <div class="card section-card">
+      <div class="stage">
+        <div class="tag">${TAG.section}</div>
+        ${s.emoji ? `<div class="section-emoji">${s.emoji}</div>` : ''}
+        <h1>${s.label || ''}</h1>
+        <div class="sub">${s.subtitle || ''}</div>
+      </div>
+      <div class="tray">
+        <button class="btn" id="goBtn">${s.emoji ? '出发！' : '继续'}</button>
+      </div>
+    </div>`;
+  $('goBtn').onclick = () => { next(); };
+}
+
+function renderChoice(s){
+  updateHud();
+  const optsHtml = s.options.map((o,i) => `<button class="opt" data-i="${i}">${o}</button>`).join('');
+  screen.innerHTML = `
+    <div class="card">
+      <div class="stage">
+        <div class="tag">${TAG.choice}</div>
+        ${s.big_tag ? `<div class="pinyin">${s.big_tag}</div>` : ''}
+        <div class="big ${s.big_tag ? 'small' : ''}${s.mode === 'pick_char' || s.mode === 'pick_word' ? ' pinyin-big' : ''}">${s.big || ''}</div>
+      </div>
+      <div class="tray">
+        <div class="prompt">${s.prompt || '选出正确的答案'}</div>
+        <div class="options">${optsHtml}</div>
+        <div class="encourage" aria-live="polite"></div>
+      </div>
+    </div>`;
+  // 组词点读
+  screen.querySelectorAll('.word-chip').forEach(el => el.onclick = () => speak(el.dataset.w));
+  // big/标签可点听（pick_pinyin 的 big 是字形，点了会读答案，排除；其余模式只要带 phonetic 即可点）
+  // 朗读用文本而非拼音文本——中文 TTS 读汉字才是标准发音，读 "quán" 会拼读得怪；英语读单词正常
+  if (s.phonetic && s.mode !== 'pick_pinyin') {
+    screen.querySelectorAll('.big, .pinyin').forEach(el => {
+      if (!el) return;
+      el.style.cursor = 'pointer';
+      el.onclick = () => speak(s.char || s.phonetic);
+    });
+  }
+  let answered = false;
+  screen.querySelectorAll('.opt').forEach(btn => {
+    btn.onclick = () => {
+      if (answered) return;
+      answered = true;
+      const i = +btn.dataset.i, ok = (i === s.answer);
+      if (ok) {
+        btn.classList.add('correct');
+        const r = btn.getBoundingClientRect();
+        onCorrect(s, r.left + r.width / 2, r.top + r.height / 2);
+      } else {
+        btn.classList.add('wrong');
+        screen.querySelectorAll('.opt').forEach(b => { if (+b.dataset.i === s.answer) b.classList.add('correct'); });
+        onWrong(s);
+      }
+    };
+  });
+}
+
+function renderPronounce(s){
+  updateHud();
+  const target = s.text || s.char || s.big || '';
+  screen.innerHTML = `
+    <div class="card">
+      <div class="stage">
+        <div class="tag">${TAG.pronounce}</div>
+        <div class="pinyin">${s.phonetic || ''}</div>
+        <div class="big ${s.emoji ? 'small' : ''}">${s.emoji ? s.emoji + ' ' : ''}${s.char || target}</div>
+      </div>
+      <div class="tray">
+        <div class="prompt">${s.prompt || '听一听，跟着读出来吧！'}</div>
+        <button class="btn blue" id="playBtn">🔊 听发音</button>
+        <div class="mic hidden" id="micIcon">🎤</div>
+        <div class="judge-row hidden" id="judgeRow">
+          <button class="judge ok" id="jOk">👍 标准</button>
+          <button class="judge no" id="jNo">👎 再练练</button>
+        </div>
+        <div class="encourage" id="pronMsg" aria-live="polite">点「听发音」，跟着大声读</div>
+      </div>
+    </div>`;
+  let settled = false;
+  const done = ok => {
+    if (settled) return; settled = true;
+    if (ok) { sndCorrect(); onCorrect(s); } else { sndWrong(); onWrong(s); }
+  };
+  const showJudges = () => {
+    $('judgeRow').classList.remove('hidden');
+    $('micIcon').classList.add('hidden');
+    $('pronMsg').textContent = '家长请判断：读得标准吗？';
+  };
+  // 语音识别命中 → 自动判定；未命中或失败 → 家长判断
+  const autoJudge = ok => {
+    if (ok) { $('pronMsg').textContent = '👏 识别成功！真标准！'; return done(true); }
+    $('micIcon').classList.add('hidden');
+    showJudges();
+  };
+  $('playBtn').onclick = () => {
+    speak(target);
+    $('micIcon').classList.remove('hidden');
+    $('judgeRow').classList.add('hidden');
+    $('pronMsg').textContent = '🎤 正在听…请大声跟读（可再点播放重听）';
+    recognize(target, autoJudge, showJudges);
+  };
+  $('jOk').onclick = () => done(true);
+  $('jNo').onclick = () => done(false);
+}
+
+/* 描红练习 */
+/* 当前 hanzi-writer 实例（每步切换时销毁，防泄漏/重叠） */
+let currentWriter = null;
+function writerCleanup(){
+  if (currentWriter){ try{ currentWriter.destroy(); }catch(e){} currentWriter = null; }
+}
+/* 从本地打包数据取笔顺数据（未内置时降级到引擎默认 CDN 加载器） */
+function charDataLoader(char, onComplete, onError){
+  const d = window.STROKE_DATA && window.STROKE_DATA[char];
+  if (d){ onComplete(d); return; }
+  if (HanziWriter && HanziWriter.loadCharacterData){
+    HanziWriter.loadCharacterData(char).then(onComplete).catch(onError);
+  } else onError('no-data');
+}
+
+/* 描红练习：先看笔顺演示，再按正确笔顺逐笔书写，全部写对才过关（严格模式，无跳过） */
+function renderTrace(s){
+  updateHud();
+  screen.innerHTML = `
+    <div class="card">
+      <div class="stage">
+        <div class="tag">${TAG.trace}</div>
+        <div class="pinyin">${s.phonetic || ''}</div>
+        <div id="traceWrap"></div>
+        <div class="trace-tip writer-hint" id="traceHint">👀 先看看这个字怎么写</div>
+      </div>
+      <div class="tray">
+        <div class="prompt">${s.prompt || '跟着笔顺写一写'}</div>
+        <button class="stroke-btn" id="traceGo">开始写！</button>
+      </div>
+    </div>`;
+  writerCleanup();
+  const wrap = $('traceWrap');
+  const hint = $('traceHint');
+  const goBtn = $('traceGo');
+  const ch = s.char || '一';
+
+  currentWriter = HanziWriter.create(wrap, ch, {
+    charDataLoader, width: 320, height: 320,
+    padding: 8, showCharacter: true, showOutline: true,
+    strokeColor: HWC.stroke, highlightColor: HWC.highlight, outlineColor: HWC.outline,
+    drawingColor: HWC.drawing, strokeAnimationSpeed: 0.9, delayBetweenStrokes: 500,
+    onLoadCharDataError: () => { hint.textContent = '笔顺数据加载失败'; }
+  });
+  currentWriter.loopCharacterAnimation();
+
+  goBtn.onclick = () => {
+    if (!currentWriter) return;
+    sndClick();
+    goBtn.disabled = true;
+    hint.textContent = '✍️ 按笔顺写！一笔一笔来';
+    // 停掉演示，进入严格逐笔校验
+    currentWriter.pauseAnimation();
+    currentWriter.cancelQuiz();
+    currentWriter.quiz({
+      quizStartStrokeNum: 0,
+      showHintAfterMisses: 2,          // 连续错 2 笔后显示提示
+      highlightOnComplete: true,
+      acceptBackwardsStrokes: false,   // 严格：倒笔算错
+      onMistake: () => { sndWrong(); hint.textContent = '💡 这一笔不对，再试一次！'; },
+      onComplete: () => {
+        hint.textContent = '🌟 全部写完啦！';
+        sndPower();
+        unlockFlash(ch);
+        setTimeout(() => { writerCleanup(); next(); }, 1000);
+      }
+    });
+  };
+}
+
+/* 学习卡：语文（汉字+笔顺动画）与英语/数学（无 char 则只展示图文）通用 */
+function renderLearn(s){
+  updateHud();
+  const strokes = (s.strokes||[]).join(' → ');
+  const big = s.big || s.char || '';
+  const sub = s.subtitle || s.pinyin || '';
+  const hasWriter = !!(s.char && window.STROKE_DATA && window.STROKE_DATA[s.char]);
+  screen.innerHTML = `
+    <div class="card">
+      <div class="stage">
+        <div class="tag">${TAG.learn}</div>
+        ${(sub || s.emoji) ? `<div class="pinyin">${s.emoji ? s.emoji + ' ' : ''}${sub}</div>` : ''}
+        <div class="big ${(s.emoji && !s.char) ? 'small' : ''}">${big}</div>
+        ${s.detail ? `<div class="sub detail">${s.detail}</div>` : ''}
+      </div>
+      <div class="tray">
+        <div class="prompt">${s.prompt || '新技能解锁！记住这个字'}</div>
+        ${hasWriter ? `<div id="learnWriter"></div>
+        <div class="writer-hint">👇 看笔顺动画</div>
+        <button class="stroke-btn" id="replayBtn">🔁 再看一遍</button>` : ''}
+        ${(s.words||[]).length ? `<div class="words-row">${(s.words||[]).map(w=>`<span class="word-chip speak" data-w="${w}">🔊 ${w}</span>`).join('')}</div>` : ''}
+        ${strokes ? `<div class="trace-tip">笔顺：${strokes}</div>` : ''}
+        <button class="btn blue" id="speakBtn">🔊 听读音</button>
+        <button class="btn" id="learnOk">${s.okLabel || '我会啦！'}</button>
+      </div>
+    </div>`;
+  if (hasWriter) {
+    writerCleanup();
+    currentWriter = HanziWriter.create($('learnWriter'), s.char, {
+      charDataLoader, width: 230, height: 230,
+      padding: 10, showCharacter: true, showOutline: false,
+      strokeColor: HWC.stroke, highlightColor: HWC.highlight,
+      strokeAnimationSpeed: 0.75, delayBetweenStrokes: 550
+    });
+    currentWriter.loopCharacterAnimation();
+    $('replayBtn').onclick = () => {
+      sndClick();
+      if (!currentWriter) return;
+      currentWriter.pauseAnimation();
+      currentWriter.loopCharacterAnimation();
+    };
+  }
+  const speakText = s.speak || (s.char ? s.char + '。' + (s.words||[]).join('，') : big);
+  $('speakBtn').onclick = () => speak(speakText);
+  screen.querySelectorAll('.word-chip').forEach(el => el.onclick = () => speak(el.dataset.w));
+  $('learnOk').onclick = () => {
+    writerCleanup();
+    newLearned.push(s.id || s.char);
+    sndPower();
+    unlockFlash(s.id || s.char);
+    setTimeout(next, 900);
+  };
+}
+
+/* ============ 战斗效果 ============ */
+function fxMonster(){ const fx=$('fx'); fx.innerHTML='<div class="fx-monster">👾</div>'; setTimeout(()=>fx.innerHTML='',1000); }
+function fxUltra(){ const fx=$('fx'); fx.innerHTML='<div class="fx-ultra">💥⚡💥</div>'; setTimeout(()=>fx.innerHTML='',1700); }
+
+function onCorrect(s, bx, by){
+  totalAnswered++;
+  combo++; comboMax = Math.max(comboMax, combo);
+  energy = Math.min(100, energy + 12);
+  stars += 1;
+  correctCount++;
+  recordReview(s, true, 1);
+  if (combo >= 5) fxUltra(); else fxMonster();
+  if (energy >= 100) { fxUltra(); energy = 0; }
+  const el = screen.querySelector('.encourage');
+  if (el) el.textContent = (combo>=3 ? `🔥 连击 ${combo}！` : '') + ENCOURAGE[rand(ENCOURAGE.length)];
+  sndCorrect();
+  burst(bx === undefined ? innerWidth / 2 : bx, by === undefined ? innerHeight / 2 : by);
+  updateHud();
+  setTimeout(next, 700);
+}
+function onWrong(s){
+  totalAnswered++;
+  combo = 0; stars = Math.max(0, stars - 1);
+  recordReview(s, false, 1);
+  const el = screen.querySelector('.encourage');
+  if (el) el.textContent = ENC_BAD[rand(ENC_BAD.length)];
+  sndWrong();
+  updateHud();
+  setTimeout(next, 1300);
+}
+
+/* ============ 顶栏 ============ */
+function updateHud(){
+  const answered = reviewResults.length + newLearned.length;
+  $('energyBar').style.transform = 'scaleX(' + (energy/100) + ')';
+  $('hudEnergy').textContent = '⚡ ' + energy;
+  $('hudStars').textContent = '⭐ ' + stars;
+  $('hudProg').textContent = (THEME.progIcon || '👾') + ' ' + answered;
+  const cb = $('comboBadge');
+  if (combo >= 2) { cb.textContent = '🔥 x' + combo; cb.classList.add('show'); }
+  else cb.classList.remove('show');
+}
+
+function next(){ idx++; render(); }
+
+/* ============ 解锁动画 ============ */
+function unlockFlash(ch){
+  const fx = $('fx');
+  const hero = THEME.heroEmoji || '🦸';
+  const label = THEME.unlockLabel || '新技能';
+  fx.innerHTML = `<div class="fx-unlock"><div class="fx-hero">${hero}</div><div class="fx-label">${label} · ${ch}</div></div>`;
+  setTimeout(()=>fx.innerHTML='', 900);
+}
+
+/* ============ 结束 / 战报 ============ */
+/* K.O. 图池：每次结算随机一张。THEME.koImage = 指定图（不随机）/ ''（不显示）/ 未设（随机） */
+const KO_POOL = ['../assets/ko97.svg', '../assets/ko-alt-1.jpg', '../assets/ko-alt-2.jpg',
+  '../assets/ko-alt-3.jpg', '../assets/ko-alt-4.jpg', '../assets/ko-alt-5.jpg', '../assets/ko-alt-6.png'];
+function koSrc(){
+  if (THEME.koImage !== undefined) return THEME.koImage;
+  return KO_POOL[Math.floor(Math.random() * KO_POOL.length)];
+}
+function finish(){
+  sndVictory();
+  const wrong = reviewResults.filter(r => !r.correct);
+  const ok = reviewResults.filter(r => r.correct);
+  const totalRev = reviewResults.length;
+  const pct = totalRev ? Math.round(ok.length/totalRev*100) : 0;
+  const praise = pct >= 90 ? (THEME.praiseHigh || '超级厉害！奥特曼为你骄傲！')
+              : pct >= 70 ? (THEME.praiseMid || '很棒！明天再来战！')
+              : (THEME.praiseLow || '不错！多复习几次会更棒！');
+
+  const result = {
+    date: DATA.date || '',
+    subject: DATA.subject || 'chinese',
+    review: reviewResults,
+    new_items: newLearned,
+    stats: { stars, combo_max: comboMax, correct: correctCount, total: totalAnswered }
+  };
+  const filename = `result-${DATA.date||'session'}-${DATA.subject||'chinese'}.json`;
+  const ko = koSrc();
+
+  screen.innerHTML = `
+    <div class="card" id="report">
+      ${ko !== '' ? `
+      <div class="ko-hero">
+        <img class="ko-img" src="${ko}" alt="K.O.">
+        <h1>${THEME.reportTitle || '🛡️ 今日战报'}</h1>
+      </div>` : `<h1>${THEME.reportTitle || '🛡️ 今日战报'}</h1>`}
+      <div class="sub">${praise}</div>
+      <div class="stat-grid">
+        <div class="stat stat--lavender"><b data-count="${totalRev}">0</b><span>复习</span></div>
+        <div class="stat stat--pear"><b data-count="${newLearned.length}">0</b><span>${THEME.newLabel || '新字'}</span></div>
+        <div class="stat stat--mint"><b data-count="${ok.length}">0</b><span>答对</span></div>
+        <div class="stat stat--coral"><b data-count="${wrong.length}">0</b><span>错</span></div>
+        <div class="stat stat--pear"><b data-count="${stars}">0</b><span>星星</span></div>
+        <div class="stat stat--coral"><b data-count="${comboMax}">0</b><span>最高连击</span></div>
+        <div class="stat stat--cyan"><b data-count="${pct}">0</b><span>正确率</span></div>
+      </div>
+      ${wrong.length ? `<div class="rev-list"><span class="rev-head">要再练练：</span>${wrong.map(r=>`<span class="rev-no">${r.id || r.char}</span>`).join('')}</div>` : ''}
+      ${newLearned.length ? `<div class="rev-list"><span class="rev-head">${THEME.newLabel || '新技能'}：</span>${newLearned.map(c=>`<span class="rev-ok">${c}</span>`).join('')}</div>` : ''}
+      <button class="btn" id="saveBtn">💾 保存学习结果</button>
+      <div class="encourage" id="saveMsg" aria-live="polite"></div>
+    </div>`;
+
+  screen.querySelectorAll('[data-count]').forEach(countUp);
+  $('saveBtn').onclick = () => saveResult(result, filename);
+  // 自动尝试静默保存（第一次需用户授权选目录）
+  setTimeout(() => saveResult(result, filename, true), 500);
+}
+
+/* 目录句柄持久化：IndexedDB 存上次选中的保存目录（FileSystemDirectoryHandle 可结构化克隆）。
+ * 新页面加载后静默恢复——按钮点击时直接写入上次目录；权限失效（浏览器重启等）时
+ * 用 startIn 让选择器默认打开上次的目录。 */
+const DIR_DB = 'kid-learn-dirs', DIR_STORE = 'handles', DIR_KEY = 'results-dir';
+function idbDir(){
+  return new Promise((res, rej) => {
+    try {
+      const req = indexedDB.open(DIR_DB, 1);
+      req.onupgradeneeded = () => req.result.createObjectStore(DIR_STORE);
+      req.onsuccess = () => res(req.result);
+      req.onerror = () => rej(req.error);
+    } catch(e){ rej(e); }
+  });
+}
+async function loadDirHandle(){
+  try {
+    const db = await idbDir();
+    return new Promise(res => {
+      const g = db.transaction(DIR_STORE, 'readonly').objectStore(DIR_STORE).get(DIR_KEY);
+      g.onsuccess = () => res(g.result || null);
+      g.onerror = () => res(null);
+    });
+  } catch(e){ return null; }
+}
+function saveDirHandle(handle){
+  try {
+    return idbDir().then(db => new Promise(res => {
+      const tx = db.transaction(DIR_STORE, 'readwrite');
+      tx.objectStore(DIR_STORE).put(handle, DIR_KEY);
+      tx.oncomplete = () => res(true);
+      tx.onerror = () => res(false);
+    }));
+  } catch(e){ return Promise.resolve(false); }
+}
+/* 保存结果：File System Access API 优先（目录句柄跨页面持久化），下载兜底 */
+async function saveResult(result, filename, silent){
+  const msg = $('saveMsg'); if (msg) msg.textContent = '正在保存…';
+  const json = JSON.stringify(result, null, 2);
+  try {
+    if (!window.showDirectoryPicker) throw new Error('fs-api-unavailable');
+    if (!window.__dirHandleCache__) window.__dirHandleCache__ = await loadDirHandle();
+    let dir = window.__dirHandleCache__;
+    if (!dir) {
+      if (silent) return;   // 静默自动保存仅在已记住目录时写
+      dir = await window.showDirectoryPicker();
+      window.__dirHandleCache__ = dir;
+      saveDirHandle(dir);
+    }
+    try {
+      const fh = await dir.getFileHandle(filename, { create:true });
+      const w = await fh.createWritable();
+      await w.write(json); await w.close();
+    } catch(permErr) {
+      // 句柄权限失效 → 重新选目录（选择器默认打开上次目录），并更新记忆
+      if (silent) return;
+      dir = await window.showDirectoryPicker({ startIn: dir });
+      window.__dirHandleCache__ = dir;
+      saveDirHandle(dir);
+      const fh = await dir.getFileHandle(filename, { create:true });
+      const w = await fh.createWritable();
+      await w.write(json); await w.close();
+    }
+    if (msg) msg.textContent = '✅ 已写入 results 文件夹：' + filename;
+    sndVictory();
+  } catch(e) {
+    if (silent) return;
+    try {
+      const blob = new Blob([json], { type:'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = filename;
+      document.body.appendChild(a); a.click(); a.remove();
+      if (msg) msg.textContent = '⬇️ 已下载 ' + filename + '，请保存到 data\\results\\ 目录';
+    } catch(e2) {
+      if (msg) msg.textContent = '⚠️ 请复制下方内容手动保存';
+    }
+  }
+}
+
+/* ============ 启动 ============ */
+function start(){
+  if (!steps.length){
+    screen.innerHTML = `<div class="card section-card"><div class="stage"><div class="section-emoji">📖</div><h1>今日没有任务</h1><div class="sub">先运行 /kid-learn 生成今日页面</div></div></div>`;
+    return;
+  }
+  next();   // 从 idx=-1 推进到 0，首屏正确渲染第一题
+}
+start();
+</script>
+</body>
+</html>

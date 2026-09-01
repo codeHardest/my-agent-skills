@@ -1,0 +1,6009 @@
+[
+  {
+    "char": "一",
+    "pinyin": "yī",
+    "words": [
+      "一个",
+      "一样",
+      "一起",
+      "一共"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "二",
+    "pinyin": "èr",
+    "words": [
+      "二月",
+      "二百",
+      "二哥",
+      "第二"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "er",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "三",
+    "pinyin": "sān",
+    "words": [
+      "三个",
+      "三月",
+      "三十",
+      "三只"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "san",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "四",
+    "pinyin": "sì",
+    "words": [
+      "四个",
+      "四月",
+      "四方",
+      "四天"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "si",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "五",
+    "pinyin": "wǔ",
+    "words": [
+      "五个",
+      "五月",
+      "五星",
+      "五官"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "六",
+    "pinyin": "liù",
+    "words": [
+      "六个",
+      "六月",
+      "六天",
+      "六只"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "liu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "七",
+    "pinyin": "qī",
+    "words": [
+      "七个",
+      "七月",
+      "七岁",
+      "七星"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "八",
+    "pinyin": "bā",
+    "words": [
+      "八个",
+      "八月",
+      "八方",
+      "八天"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ba",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "九",
+    "pinyin": "jiǔ",
+    "words": [
+      "九个",
+      "九月",
+      "九点",
+      "九天"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "十",
+    "pinyin": "shí",
+    "words": [
+      "十个",
+      "十月",
+      "十分",
+      "十字"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "百",
+    "pinyin": "bǎi",
+    "words": [
+      "一百",
+      "百鸟",
+      "百人",
+      "百货"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "千",
+    "pinyin": "qiān",
+    "words": [
+      "一千",
+      "千万",
+      "千秋"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "万",
+    "pinyin": "wàn",
+    "words": [
+      "一万",
+      "千万",
+      "万花"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "个",
+    "pinyin": "gè",
+    "words": [
+      "一个",
+      "个人",
+      "个子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ge",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "两",
+    "pinyin": "liǎng",
+    "words": [
+      "两个",
+      "两岁",
+      "两边",
+      "两面"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "liang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "日",
+    "pinyin": "rì",
+    "words": [
+      "日出",
+      "日月",
+      "日子",
+      "生日"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ri",
+    "similar": [
+      "目"
+    ],
+    "level": 1
+  },
+  {
+    "char": "月",
+    "pinyin": "yuè",
+    "words": [
+      "月亮",
+      "日月",
+      "月份",
+      "正月"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yue",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "星",
+    "pinyin": "xīng",
+    "words": [
+      "星星",
+      "明星",
+      "星光"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "云",
+    "pinyin": "yún",
+    "words": [
+      "云朵",
+      "白云",
+      "乌云"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yun",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "雨",
+    "pinyin": "yǔ",
+    "words": [
+      "下雨",
+      "雨水",
+      "雨点"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "风",
+    "pinyin": "fēng",
+    "words": [
+      "大风",
+      "风雨",
+      "春风"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "feng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "雪",
+    "pinyin": "xuě",
+    "words": [
+      "下雪",
+      "雪花",
+      "冰雪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xue",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "天",
+    "pinyin": "tiān",
+    "words": [
+      "天空",
+      "今天",
+      "天天",
+      "天气"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tian",
+    "similar": [
+      "大",
+      "太"
+    ],
+    "level": 1
+  },
+  {
+    "char": "地",
+    "pinyin": "dì",
+    "words": [
+      "大地",
+      "土地",
+      "地方"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "di",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "山",
+    "pinyin": "shān",
+    "words": [
+      "高山",
+      "上山",
+      "山水",
+      "大山"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "水",
+    "pinyin": "shuǐ",
+    "words": [
+      "喝水",
+      "水果",
+      "开水",
+      "河水"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shui",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "火",
+    "pinyin": "huǒ",
+    "words": [
+      "火车",
+      "大火",
+      "灯火"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "huo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "土",
+    "pinyin": "tǔ",
+    "words": [
+      "土地",
+      "泥土",
+      "土豆"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tu",
+    "similar": [
+      "士"
+    ],
+    "level": 1
+  },
+  {
+    "char": "石",
+    "pinyin": "shí",
+    "words": [
+      "石头",
+      "石块",
+      "石子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "田",
+    "pinyin": "tián",
+    "words": [
+      "田野",
+      "水田",
+      "农田"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tian",
+    "similar": [
+      "由",
+      "甲",
+      "申"
+    ],
+    "level": 1
+  },
+  {
+    "char": "海",
+    "pinyin": "hǎi",
+    "words": [
+      "大海",
+      "海水",
+      "海边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "江",
+    "pinyin": "jiāng",
+    "words": [
+      "长江",
+      "江水",
+      "江边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "河",
+    "pinyin": "hé",
+    "words": [
+      "河水",
+      "小河",
+      "黄河"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "he",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "湖",
+    "pinyin": "hú",
+    "words": [
+      "湖水",
+      "湖泊",
+      "湖边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "花",
+    "pinyin": "huā",
+    "words": [
+      "花朵",
+      "红花",
+      "开花",
+      "雪花"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hua",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "草",
+    "pinyin": "cǎo",
+    "words": [
+      "小草",
+      "草地",
+      "花草"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "树",
+    "pinyin": "shù",
+    "words": [
+      "大树",
+      "树木",
+      "树林"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "木",
+    "pinyin": "mù",
+    "words": [
+      "木头",
+      "树木",
+      "木马"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mu",
+    "similar": [
+      "本",
+      "未",
+      "末"
+    ],
+    "level": 1
+  },
+  {
+    "char": "叶",
+    "pinyin": "yè",
+    "words": [
+      "树叶",
+      "叶子",
+      "叶片"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ye",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "果",
+    "pinyin": "guǒ",
+    "words": [
+      "水果",
+      "苹果",
+      "果园",
+      "结果"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "瓜",
+    "pinyin": "guā",
+    "words": [
+      "西瓜",
+      "冬瓜",
+      "瓜子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gua",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "竹",
+    "pinyin": "zhú",
+    "words": [
+      "竹子",
+      "竹叶",
+      "竹竿"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "米",
+    "pinyin": "mǐ",
+    "words": [
+      "大米",
+      "米饭",
+      "玉米"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "虫",
+    "pinyin": "chóng",
+    "words": [
+      "虫子",
+      "小虫",
+      "害虫"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "words": [
+      "小鸟",
+      "鸟儿",
+      "飞鸟"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "niao",
+    "similar": [
+      "乌"
+    ],
+    "level": 1
+  },
+  {
+    "char": "鱼",
+    "pinyin": "yú",
+    "words": [
+      "小鱼",
+      "金鱼",
+      "鱼儿"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "马",
+    "pinyin": "mǎ",
+    "words": [
+      "大马",
+      "小马",
+      "马车"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ma",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "牛",
+    "pinyin": "niú",
+    "words": [
+      "水牛",
+      "牛奶",
+      "黄牛"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "niu",
+    "similar": [
+      "午",
+      "生"
+    ],
+    "level": 1
+  },
+  {
+    "char": "羊",
+    "pinyin": "yáng",
+    "words": [
+      "山羊",
+      "绵羊",
+      "羊角"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "狗",
+    "pinyin": "gǒu",
+    "words": [
+      "小狗",
+      "花狗",
+      "狗叫"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "猫",
+    "pinyin": "māo",
+    "words": [
+      "小猫",
+      "花猫",
+      "猫咪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "兔",
+    "pinyin": "tù",
+    "words": [
+      "白兔",
+      "兔子",
+      "兔牙"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "龙",
+    "pinyin": "lóng",
+    "words": [
+      "龙年",
+      "长龙",
+      "龙头"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "long",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "虎",
+    "pinyin": "hǔ",
+    "words": [
+      "老虎",
+      "虎牙",
+      "虎头"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "鸡",
+    "pinyin": "jī",
+    "words": [
+      "公鸡",
+      "母鸡",
+      "小鸡"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ji",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "鸭",
+    "pinyin": "yā",
+    "words": [
+      "小鸭",
+      "鸭子",
+      "鸭蛋"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ya",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "鹅",
+    "pinyin": "é",
+    "words": [
+      "白鹅",
+      "天鹅",
+      "鹅毛"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "e",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "猪",
+    "pinyin": "zhū",
+    "words": [
+      "小猪",
+      "猪头",
+      "野猪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "象",
+    "pinyin": "xiàng",
+    "words": [
+      "大象",
+      "象牙",
+      "万象"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "猴",
+    "pinyin": "hóu",
+    "words": [
+      "猴子",
+      "小猴",
+      "猴年"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "人",
+    "pinyin": "rén",
+    "words": [
+      "大人",
+      "人们",
+      "好人",
+      "家人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ren",
+    "similar": [
+      "入",
+      "八",
+      "大"
+    ],
+    "level": 1
+  },
+  {
+    "char": "口",
+    "pinyin": "kǒu",
+    "words": [
+      "门口",
+      "口水",
+      "人口"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "目",
+    "pinyin": "mù",
+    "words": [
+      "目光",
+      "耳目",
+      "目录"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mu",
+    "similar": [
+      "日"
+    ],
+    "level": 1
+  },
+  {
+    "char": "耳",
+    "pinyin": "ěr",
+    "words": [
+      "耳朵",
+      "木耳",
+      "耳机"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "er",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "手",
+    "pinyin": "shǒu",
+    "words": [
+      "小手",
+      "手机",
+      "手心"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shou",
+    "similar": [
+      "毛",
+      "牛"
+    ],
+    "level": 1
+  },
+  {
+    "char": "足",
+    "pinyin": "zú",
+    "words": [
+      "足球",
+      "手足",
+      "足够"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "头",
+    "pinyin": "tóu",
+    "words": [
+      "头发",
+      "石头",
+      "一头"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "牙",
+    "pinyin": "yá",
+    "words": [
+      "牙齿",
+      "门牙",
+      "刷牙"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ya",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "心",
+    "pinyin": "xīn",
+    "words": [
+      "开心",
+      "小心",
+      "心中",
+      "心情"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "身",
+    "pinyin": "shēn",
+    "words": [
+      "身体",
+      "全身",
+      "身高"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "爸",
+    "pinyin": "bà",
+    "words": [
+      "爸爸",
+      "老爸",
+      "爸妈"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ba",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "妈",
+    "pinyin": "mā",
+    "words": [
+      "妈妈",
+      "大妈",
+      "爸妈"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ma",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "爷",
+    "pinyin": "yé",
+    "words": [
+      "爷爷",
+      "老爷",
+      "大爷"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ye",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "奶",
+    "pinyin": "nǎi",
+    "words": [
+      "奶奶",
+      "牛奶",
+      "奶茶"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "哥",
+    "pinyin": "gē",
+    "words": [
+      "哥哥",
+      "大哥",
+      "表哥"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ge",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "年",
+    "pinyin": "nián",
+    "words": [
+      "新年",
+      "今年",
+      "过年",
+      "年糕"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "时",
+    "pinyin": "shí",
+    "words": [
+      "时间",
+      "小时",
+      "有时"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "分",
+    "pinyin": "fēn",
+    "words": [
+      "分开",
+      "一分",
+      "十分"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "早",
+    "pinyin": "zǎo",
+    "words": [
+      "早上",
+      "早饭",
+      "早晚"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "晚",
+    "pinyin": "wǎn",
+    "words": [
+      "晚上",
+      "晚安",
+      "傍晚"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "春",
+    "pinyin": "chūn",
+    "words": [
+      "春天",
+      "春风",
+      "春水"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chun",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "夏",
+    "pinyin": "xià",
+    "words": [
+      "夏天",
+      "夏季",
+      "夏日"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xia",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "秋",
+    "pinyin": "qiū",
+    "words": [
+      "秋天",
+      "秋千",
+      "秋风"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qiu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "冬",
+    "pinyin": "dōng",
+    "words": [
+      "冬天",
+      "冬瓜",
+      "冬雪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "今",
+    "pinyin": "jīn",
+    "words": [
+      "今天",
+      "今年",
+      "今晚"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "明",
+    "pinyin": "míng",
+    "words": [
+      "明天",
+      "明月",
+      "明亮"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ming",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "昨",
+    "pinyin": "zuó",
+    "words": [
+      "昨天",
+      "昨晚",
+      "昨日"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "上",
+    "pinyin": "shàng",
+    "words": [
+      "上面",
+      "上学",
+      "上山"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "下",
+    "pinyin": "xià",
+    "words": [
+      "下面",
+      "下雨",
+      "下课"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xia",
+    "similar": [
+      "不"
+    ],
+    "level": 1
+  },
+  {
+    "char": "左",
+    "pinyin": "zuǒ",
+    "words": [
+      "左手",
+      "左边",
+      "左右"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "右",
+    "pinyin": "yòu",
+    "words": [
+      "右手",
+      "右边",
+      "左右"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "中",
+    "pinyin": "zhōng",
+    "words": [
+      "中午",
+      "中国",
+      "中间"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "前",
+    "pinyin": "qián",
+    "words": [
+      "前面",
+      "从前",
+      "前门"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "后",
+    "pinyin": "hòu",
+    "words": [
+      "后面",
+      "后来",
+      "前后"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "里",
+    "pinyin": "lǐ",
+    "words": [
+      "里面",
+      "心里",
+      "屋里"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "li",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "外",
+    "pinyin": "wài",
+    "words": [
+      "外面",
+      "门外",
+      "外公"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "东",
+    "pinyin": "dōng",
+    "words": [
+      "东方",
+      "东西",
+      "东边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dong",
+    "similar": [
+      "车"
+    ],
+    "level": 1
+  },
+  {
+    "char": "西",
+    "pinyin": "xī",
+    "words": [
+      "东西",
+      "西方",
+      "西边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xi",
+    "similar": [
+      "四"
+    ],
+    "level": 1
+  },
+  {
+    "char": "南",
+    "pinyin": "nán",
+    "words": [
+      "南方",
+      "南瓜",
+      "南边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "北",
+    "pinyin": "běi",
+    "words": [
+      "北方",
+      "北边",
+      "北京"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "看",
+    "pinyin": "kàn",
+    "words": [
+      "看见",
+      "看书",
+      "好看"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "听",
+    "pinyin": "tīng",
+    "words": [
+      "听见",
+      "好听",
+      "听说"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ting",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "说",
+    "pinyin": "shuō",
+    "words": [
+      "说话",
+      "听说",
+      "说明"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "读",
+    "pinyin": "dú",
+    "words": [
+      "读书",
+      "朗读",
+      "读字"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "du",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "写",
+    "pinyin": "xiě",
+    "words": [
+      "写字",
+      "写作",
+      "听写"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "走",
+    "pinyin": "zǒu",
+    "words": [
+      "走路",
+      "走开",
+      "行走"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "跑",
+    "pinyin": "pǎo",
+    "words": [
+      "跑步",
+      "快跑",
+      "跑开"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "跳",
+    "pinyin": "tiào",
+    "words": [
+      "跳高",
+      "跳绳",
+      "跳远"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "坐",
+    "pinyin": "zuò",
+    "words": [
+      "坐下",
+      "请坐",
+      "座位"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "站",
+    "pinyin": "zhàn",
+    "words": [
+      "站队",
+      "车站",
+      "站立"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "来",
+    "pinyin": "lái",
+    "words": [
+      "回来",
+      "原来",
+      "来到"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lai",
+    "similar": [
+      "米"
+    ],
+    "level": 1
+  },
+  {
+    "char": "去",
+    "pinyin": "qù",
+    "words": [
+      "出去",
+      "回去",
+      "去年"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qu",
+    "similar": [
+      "云"
+    ],
+    "level": 1
+  },
+  {
+    "char": "开",
+    "pinyin": "kāi",
+    "words": [
+      "开门",
+      "打开",
+      "开花"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "关",
+    "pinyin": "guān",
+    "words": [
+      "关门",
+      "关心",
+      "开关"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "出",
+    "pinyin": "chū",
+    "words": [
+      "出来",
+      "出去",
+      "出门"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chu",
+    "similar": [
+      "山"
+    ],
+    "level": 1
+  },
+  {
+    "char": "入",
+    "pinyin": "rù",
+    "words": [
+      "出入",
+      "入口",
+      "加入"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ru",
+    "similar": [
+      "人"
+    ],
+    "level": 1
+  },
+  {
+    "char": "吃",
+    "pinyin": "chī",
+    "words": [
+      "吃饭",
+      "小吃",
+      "好吃"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "喝",
+    "pinyin": "hē",
+    "words": [
+      "喝水",
+      "喝茶",
+      "喝汤"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "he",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "睡",
+    "pinyin": "shuì",
+    "words": [
+      "睡觉",
+      "睡眠",
+      "睡着"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shui",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "玩",
+    "pinyin": "wán",
+    "words": [
+      "玩具",
+      "好玩",
+      "玩水"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wan",
+    "similar": [
+      "完"
+    ],
+    "level": 1
+  },
+  {
+    "char": "学",
+    "pinyin": "xué",
+    "words": [
+      "学习",
+      "学生",
+      "上学"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xue",
+    "similar": [
+      "字"
+    ],
+    "level": 1
+  },
+  {
+    "char": "问",
+    "pinyin": "wèn",
+    "words": [
+      "问题",
+      "问答",
+      "请问"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wen",
+    "similar": [
+      "间"
+    ],
+    "level": 1
+  },
+  {
+    "char": "做",
+    "pinyin": "zuò",
+    "words": [
+      "做事",
+      "做饭",
+      "做工"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zuo",
+    "similar": [
+      "作"
+    ],
+    "level": 1
+  },
+  {
+    "char": "打",
+    "pinyin": "dǎ",
+    "words": [
+      "打人",
+      "打球",
+      "打开"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "da",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "唱",
+    "pinyin": "chàng",
+    "words": [
+      "唱歌",
+      "合唱",
+      "唱戏"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "画",
+    "pinyin": "huà",
+    "words": [
+      "画画",
+      "图画",
+      "画纸"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hua",
+    "similar": [
+      "书"
+    ],
+    "level": 1
+  },
+  {
+    "char": "找",
+    "pinyin": "zhǎo",
+    "words": [
+      "找到",
+      "找人",
+      "寻找"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "拿",
+    "pinyin": "ná",
+    "words": [
+      "拿走",
+      "拿起",
+      "拿出"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "na",
+    "similar": [
+      "合"
+    ],
+    "level": 1
+  },
+  {
+    "char": "放",
+    "pinyin": "fàng",
+    "words": [
+      "放学",
+      "放下",
+      "放假"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fang",
+    "similar": [
+      "房"
+    ],
+    "level": 1
+  },
+  {
+    "char": "洗",
+    "pinyin": "xǐ",
+    "words": [
+      "洗手",
+      "洗衣",
+      "洗澡"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "扫",
+    "pinyin": "sǎo",
+    "words": [
+      "扫地",
+      "打扫",
+      "清扫"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "sao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "飞",
+    "pinyin": "fēi",
+    "words": [
+      "飞机",
+      "飞鸟",
+      "起飞"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "游",
+    "pinyin": "yóu",
+    "words": [
+      "游泳",
+      "游戏",
+      "游玩"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "爬",
+    "pinyin": "pá",
+    "words": [
+      "爬山",
+      "爬树",
+      "爬行"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pa",
+    "similar": [
+      "爪"
+    ],
+    "level": 1
+  },
+  {
+    "char": "笑",
+    "pinyin": "xiào",
+    "words": [
+      "笑话",
+      "微笑",
+      "笑声"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "哭",
+    "pinyin": "kū",
+    "words": [
+      "大哭",
+      "哭声",
+      "哭脸"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ku",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "爱",
+    "pinyin": "ài",
+    "words": [
+      "爱好",
+      "可爱",
+      "爱心"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "好",
+    "pinyin": "hǎo",
+    "words": [
+      "好人",
+      "好看",
+      "很好"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hao",
+    "similar": [
+      "妈"
+    ],
+    "level": 1
+  },
+  {
+    "char": "帮",
+    "pinyin": "bāng",
+    "words": [
+      "帮忙",
+      "帮助",
+      "帮手"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "借",
+    "pinyin": "jiè",
+    "words": [
+      "借书",
+      "借钱",
+      "借用"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "送",
+    "pinyin": "sòng",
+    "words": [
+      "送花",
+      "送给",
+      "接送"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "song",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "讲",
+    "pinyin": "jiǎng",
+    "words": [
+      "讲话",
+      "听讲",
+      "讲课"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "教",
+    "pinyin": "jiāo",
+    "words": [
+      "教书",
+      "教课",
+      "教学"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "怕",
+    "pinyin": "pà",
+    "words": [
+      "害怕",
+      "不怕",
+      "怕冷"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pa",
+    "similar": [
+      "拍"
+    ],
+    "level": 1
+  },
+  {
+    "char": "抱",
+    "pinyin": "bào",
+    "words": [
+      "拥抱",
+      "抱着",
+      "抱抱"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "摇",
+    "pinyin": "yáo",
+    "words": [
+      "摇手",
+      "摇头",
+      "摇动"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "拍",
+    "pinyin": "pāi",
+    "words": [
+      "拍手",
+      "拍球",
+      "拍照"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "敲",
+    "pinyin": "qiāo",
+    "words": [
+      "敲门",
+      "敲打",
+      "敲鼓"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "点",
+    "pinyin": "diǎn",
+    "words": [
+      "点头",
+      "一点",
+      "钟点"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "数",
+    "pinyin": "shǔ",
+    "words": [
+      "数数",
+      "数星星",
+      "数一数"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "大",
+    "pinyin": "dà",
+    "words": [
+      "大人",
+      "大小",
+      "大雨",
+      "大家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "da",
+    "similar": [
+      "天",
+      "太"
+    ],
+    "level": 1
+  },
+  {
+    "char": "小",
+    "pinyin": "xiǎo",
+    "words": [
+      "小孩",
+      "大小",
+      "小心",
+      "小鸟"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiao",
+    "similar": [
+      "少"
+    ],
+    "level": 1
+  },
+  {
+    "char": "多",
+    "pinyin": "duō",
+    "words": [
+      "多少",
+      "许多",
+      "好多"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "duo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "少",
+    "pinyin": "shǎo",
+    "words": [
+      "多少",
+      "很少",
+      "少年"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "高",
+    "pinyin": "gāo",
+    "words": [
+      "高兴",
+      "高山",
+      "高中"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "低",
+    "pinyin": "dī",
+    "words": [
+      "低头",
+      "高低",
+      "低下"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "di",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "长",
+    "pinyin": "cháng",
+    "words": [
+      "长短",
+      "长江",
+      "很长"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "短",
+    "pinyin": "duǎn",
+    "words": [
+      "长短",
+      "短裤",
+      "短发"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "duan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "新",
+    "pinyin": "xīn",
+    "words": [
+      "新年",
+      "新衣",
+      "新鲜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "旧",
+    "pinyin": "jiù",
+    "words": [
+      "新旧",
+      "旧书",
+      "旧衣"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "快",
+    "pinyin": "kuài",
+    "words": [
+      "快乐",
+      "飞快",
+      "快点"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kuai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "慢",
+    "pinyin": "màn",
+    "words": [
+      "慢慢",
+      "快慢",
+      "慢跑"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "man",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "坏",
+    "pinyin": "huài",
+    "words": [
+      "好坏",
+      "坏事",
+      "坏人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "huai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "白",
+    "pinyin": "bái",
+    "words": [
+      "白色",
+      "白云",
+      "白菜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bai",
+    "similar": [
+      "百"
+    ],
+    "level": 1
+  },
+  {
+    "char": "黑",
+    "pinyin": "hēi",
+    "words": [
+      "黑色",
+      "黑板",
+      "黑夜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "红",
+    "pinyin": "hóng",
+    "words": [
+      "红色",
+      "红花",
+      "大红"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "黄",
+    "pinyin": "huáng",
+    "words": [
+      "黄色",
+      "黄瓜",
+      "黄豆"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "huang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "蓝",
+    "pinyin": "lán",
+    "words": [
+      "蓝色",
+      "蓝天",
+      "蓝蓝"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "绿",
+    "pinyin": "lǜ",
+    "words": [
+      "绿色",
+      "绿叶",
+      "绿灯"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lv",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "青",
+    "pinyin": "qīng",
+    "words": [
+      "青色",
+      "青蛙",
+      "青山"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "紫",
+    "pinyin": "zǐ",
+    "words": [
+      "紫色",
+      "紫菜",
+      "紫红"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "亮",
+    "pinyin": "liàng",
+    "words": [
+      "明亮",
+      "月亮",
+      "漂亮"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "liang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "暗",
+    "pinyin": "àn",
+    "words": [
+      "黑暗",
+      "暗暗",
+      "暗色"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "an",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "热",
+    "pinyin": "rè",
+    "words": [
+      "热水",
+      "热天",
+      "热闹"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "re",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "冷",
+    "pinyin": "lěng",
+    "words": [
+      "冷水",
+      "寒冷",
+      "冷热"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "leng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "软",
+    "pinyin": "ruǎn",
+    "words": [
+      "软糖",
+      "软软",
+      "心软"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ruan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "硬",
+    "pinyin": "yìng",
+    "words": [
+      "坚硬",
+      "硬糖",
+      "硬币"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ying",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "门",
+    "pinyin": "mén",
+    "words": [
+      "门口",
+      "大门",
+      "开门"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "men",
+    "similar": [
+      "们",
+      "问"
+    ],
+    "level": 1
+  },
+  {
+    "char": "窗",
+    "pinyin": "chuāng",
+    "words": [
+      "窗户",
+      "天窗",
+      "车窗"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chuang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "桌",
+    "pinyin": "zhuō",
+    "words": [
+      "桌子",
+      "书桌",
+      "饭桌"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "椅",
+    "pinyin": "yǐ",
+    "words": [
+      "椅子",
+      "桌椅",
+      "靠椅"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "书",
+    "pinyin": "shū",
+    "words": [
+      "书本",
+      "看书",
+      "读书"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "words": [
+      "书本",
+      "本子",
+      "一本"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ben",
+    "similar": [
+      "木"
+    ],
+    "level": 1
+  },
+  {
+    "char": "笔",
+    "pinyin": "bǐ",
+    "words": [
+      "铅笔",
+      "毛笔",
+      "笔画"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "纸",
+    "pinyin": "zhǐ",
+    "words": [
+      "白纸",
+      "纸张",
+      "纸船"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "字",
+    "pinyin": "zì",
+    "words": [
+      "写字",
+      "汉字",
+      "生字"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zi",
+    "similar": [
+      "学"
+    ],
+    "level": 1
+  },
+  {
+    "char": "词",
+    "pinyin": "cí",
+    "words": [
+      "词语",
+      "歌词",
+      "组词"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ci",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "句",
+    "pinyin": "jù",
+    "words": [
+      "句子",
+      "一句",
+      "造句"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ju",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "文",
+    "pinyin": "wén",
+    "words": [
+      "语文",
+      "文字",
+      "作文"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "刀",
+    "pinyin": "dāo",
+    "words": [
+      "小刀",
+      "剪刀",
+      "刀口"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "尺",
+    "pinyin": "chǐ",
+    "words": [
+      "尺子",
+      "直尺",
+      "尺寸"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "衣",
+    "pinyin": "yī",
+    "words": [
+      "衣服",
+      "毛衣",
+      "大衣"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "帽",
+    "pinyin": "mào",
+    "words": [
+      "帽子",
+      "草帽",
+      "红帽"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "鞋",
+    "pinyin": "xié",
+    "words": [
+      "鞋子",
+      "皮鞋",
+      "拖鞋"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "袜",
+    "pinyin": "wà",
+    "words": [
+      "袜子",
+      "短袜",
+      "袜口"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wa",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "床",
+    "pinyin": "chuáng",
+    "words": [
+      "起床",
+      "床上",
+      "床单"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chuang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "灯",
+    "pinyin": "dēng",
+    "words": [
+      "灯光",
+      "台灯",
+      "路灯"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "deng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "车",
+    "pinyin": "chē",
+    "words": [
+      "汽车",
+      "火车",
+      "车子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "che",
+    "similar": [
+      "东"
+    ],
+    "level": 1
+  },
+  {
+    "char": "船",
+    "pinyin": "chuán",
+    "words": [
+      "小船",
+      "轮船",
+      "船长"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chuan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "机",
+    "pinyin": "jī",
+    "words": [
+      "飞机",
+      "机器",
+      "机会"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ji",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "桥",
+    "pinyin": "qiáo",
+    "words": [
+      "大桥",
+      "木桥",
+      "过桥"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "路",
+    "pinyin": "lù",
+    "words": [
+      "马路",
+      "走路",
+      "路灯"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "街",
+    "pinyin": "jiē",
+    "words": [
+      "大街",
+      "街上",
+      "街道"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "楼",
+    "pinyin": "lóu",
+    "words": [
+      "高楼",
+      "楼上",
+      "楼房"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "房",
+    "pinyin": "fáng",
+    "words": [
+      "房子",
+      "房间",
+      "楼房"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fang",
+    "similar": [
+      "放"
+    ],
+    "level": 1
+  },
+  {
+    "char": "屋",
+    "pinyin": "wū",
+    "words": [
+      "房屋",
+      "屋里",
+      "小屋"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "包",
+    "pinyin": "bāo",
+    "words": [
+      "书包",
+      "面包",
+      "包子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "球",
+    "pinyin": "qiú",
+    "words": [
+      "皮球",
+      "足球",
+      "打球"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qiu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "线",
+    "pinyin": "xiàn",
+    "words": [
+      "毛线",
+      "线条",
+      "电线"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "布",
+    "pinyin": "bù",
+    "words": [
+      "布鞋",
+      "花布",
+      "布料"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "皮",
+    "pinyin": "pí",
+    "words": [
+      "皮球",
+      "树皮",
+      "毛皮"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "网",
+    "pinyin": "wǎng",
+    "words": [
+      "上网",
+      "渔网",
+      "球网"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "国",
+    "pinyin": "guó",
+    "words": [
+      "中国",
+      "国家",
+      "国旗"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "家",
+    "pinyin": "jiā",
+    "words": [
+      "家里",
+      "家人",
+      "大家",
+      "回家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jia",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "城",
+    "pinyin": "chéng",
+    "words": [
+      "城市",
+      "长城",
+      "进城"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cheng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "这",
+    "pinyin": "zhè",
+    "words": [
+      "这里",
+      "这个",
+      "这些"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhe",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "那",
+    "pinyin": "nà",
+    "words": [
+      "那里",
+      "那个",
+      "那些"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "na",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "的",
+    "pinyin": "de",
+    "words": [
+      "我的",
+      "你的",
+      "好的"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "de",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "了",
+    "pinyin": "le",
+    "words": [
+      "好了",
+      "来了",
+      "走了"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "le",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "吗",
+    "pinyin": "ma",
+    "words": [
+      "好吗",
+      "是吗",
+      "行吗"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ma",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "呢",
+    "pinyin": "ne",
+    "words": [
+      "你呢",
+      "好呢",
+      "我呢"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ne",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "吧",
+    "pinyin": "ba",
+    "words": [
+      "好吧",
+      "走吧",
+      "来吧"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ba",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "呀",
+    "pinyin": "ya",
+    "words": [
+      "好呀",
+      "来呀",
+      "快呀"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ya",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "很",
+    "pinyin": "hěn",
+    "words": [
+      "很好",
+      "很多",
+      "很高"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hen",
+    "similar": [
+      "跟"
+    ],
+    "level": 1
+  },
+  {
+    "char": "都",
+    "pinyin": "dōu",
+    "words": [
+      "都有",
+      "都是",
+      "大家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "也",
+    "pinyin": "yě",
+    "words": [
+      "也好",
+      "也是",
+      "我也"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ye",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "还",
+    "pinyin": "hái",
+    "words": [
+      "还有",
+      "还是",
+      "还没"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "又",
+    "pinyin": "yòu",
+    "words": [
+      "又有",
+      "又来",
+      "又大"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "有",
+    "pinyin": "yǒu",
+    "words": [
+      "没有",
+      "有人",
+      "有用"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "没",
+    "pinyin": "méi",
+    "words": [
+      "没有",
+      "没事",
+      "没来"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "在",
+    "pinyin": "zài",
+    "words": [
+      "在家",
+      "正在",
+      "现在"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zai",
+    "similar": [
+      "左"
+    ],
+    "level": 1
+  },
+  {
+    "char": "是",
+    "pinyin": "shì",
+    "words": [
+      "不是",
+      "是的",
+      "我是"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [
+      "足"
+    ],
+    "level": 1
+  },
+  {
+    "char": "不",
+    "pinyin": "bù",
+    "words": [
+      "不是",
+      "不好",
+      "不要"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bu",
+    "similar": [
+      "下"
+    ],
+    "level": 1
+  },
+  {
+    "char": "就",
+    "pinyin": "jiù",
+    "words": [
+      "就是",
+      "就要",
+      "就好"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "和",
+    "pinyin": "hé",
+    "words": [
+      "我和你",
+      "和平",
+      "和好"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "he",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "跟",
+    "pinyin": "gēn",
+    "words": [
+      "跟着",
+      "跟上",
+      "脚跟"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "从",
+    "pinyin": "cóng",
+    "words": [
+      "从前",
+      "跟从",
+      "从小"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cong",
+    "similar": [
+      "丛",
+      "人"
+    ],
+    "level": 1
+  },
+  {
+    "char": "向",
+    "pinyin": "xiàng",
+    "words": [
+      "方向",
+      "向上",
+      "去向"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "对",
+    "pinyin": "duì",
+    "words": [
+      "对错",
+      "对面",
+      "对了"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dui",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "到",
+    "pinyin": "dào",
+    "words": [
+      "到了",
+      "到处",
+      "来到"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "给",
+    "pinyin": "gěi",
+    "words": [
+      "给我",
+      "送给",
+      "交给"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "把",
+    "pinyin": "bǎ",
+    "words": [
+      "一把",
+      "把门",
+      "把手"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ba",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "让",
+    "pinyin": "ràng",
+    "words": [
+      "让开",
+      "让座",
+      "请让"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "rang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "会",
+    "pinyin": "huì",
+    "words": [
+      "开会",
+      "学会",
+      "会来"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hui",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "能",
+    "pinyin": "néng",
+    "words": [
+      "能干",
+      "不能",
+      "能力"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "neng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "要",
+    "pinyin": "yào",
+    "words": [
+      "需要",
+      "不要",
+      "要点"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "想",
+    "pinyin": "xiǎng",
+    "words": [
+      "想念",
+      "想法",
+      "想要"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "知",
+    "pinyin": "zhī",
+    "words": [
+      "知道",
+      "知识",
+      "无知"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "道",
+    "pinyin": "dào",
+    "words": [
+      "知道",
+      "道路",
+      "道理"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "见",
+    "pinyin": "jiàn",
+    "words": [
+      "看见",
+      "见面",
+      "听见"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jian",
+    "similar": [
+      "贝"
+    ],
+    "level": 1
+  },
+  {
+    "char": "各",
+    "pinyin": "gè",
+    "words": [
+      "各自",
+      "各位",
+      "各种"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ge",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "们",
+    "pinyin": "men",
+    "words": [
+      "我们",
+      "你们",
+      "他们"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "men",
+    "similar": [
+      "门"
+    ],
+    "level": 1
+  },
+  {
+    "char": "太",
+    "pinyin": "tài",
+    "words": [
+      "太阳",
+      "太好",
+      "太大"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tai",
+    "similar": [
+      "大",
+      "天"
+    ],
+    "level": 1
+  },
+  {
+    "char": "士",
+    "pinyin": "shì",
+    "words": [
+      "士兵",
+      "女士",
+      "博士"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [
+      "土"
+    ],
+    "level": 1
+  },
+  {
+    "char": "午",
+    "pinyin": "wǔ",
+    "words": [
+      "中午",
+      "下午",
+      "午饭"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [
+      "牛"
+    ],
+    "level": 1
+  },
+  {
+    "char": "生",
+    "pinyin": "shēng",
+    "words": [
+      "生日",
+      "学生",
+      "花生"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "sheng",
+    "similar": [
+      "牛"
+    ],
+    "level": 1
+  },
+  {
+    "char": "未",
+    "pinyin": "wèi",
+    "words": [
+      "未来",
+      "未知",
+      "未有"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wei",
+    "similar": [
+      "木",
+      "末"
+    ],
+    "level": 1
+  },
+  {
+    "char": "末",
+    "pinyin": "mò",
+    "words": [
+      "末尾",
+      "周末",
+      "期末"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mo",
+    "similar": [
+      "木",
+      "未"
+    ],
+    "level": 1
+  },
+  {
+    "char": "完",
+    "pinyin": "wán",
+    "words": [
+      "完成",
+      "写完",
+      "玩完"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wan",
+    "similar": [
+      "玩"
+    ],
+    "level": 1
+  },
+  {
+    "char": "间",
+    "pinyin": "jiān",
+    "words": [
+      "中间",
+      "房间",
+      "时间"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jian",
+    "similar": [
+      "问",
+      "门"
+    ],
+    "level": 1
+  },
+  {
+    "char": "作",
+    "pinyin": "zuò",
+    "words": [
+      "作业",
+      "工作",
+      "作家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zuo",
+    "similar": [
+      "做",
+      "昨"
+    ],
+    "level": 1
+  },
+  {
+    "char": "合",
+    "pinyin": "hé",
+    "words": [
+      "合作",
+      "合上",
+      "合理"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "he",
+    "similar": [
+      "拿"
+    ],
+    "level": 1
+  },
+  {
+    "char": "爪",
+    "pinyin": "zhuǎ",
+    "words": [
+      "爪子",
+      "猫爪",
+      "鹰爪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhua",
+    "similar": [
+      "爬",
+      "瓜"
+    ],
+    "level": 1
+  },
+  {
+    "char": "乌",
+    "pinyin": "wū",
+    "words": [
+      "乌云",
+      "乌鸦",
+      "乌龟"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [
+      "鸟"
+    ],
+    "level": 1
+  },
+  {
+    "char": "丛",
+    "pinyin": "cóng",
+    "words": [
+      "丛林",
+      "草丛",
+      "丛书"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cong",
+    "similar": [
+      "从"
+    ],
+    "level": 1
+  },
+  {
+    "char": "成",
+    "pinyin": "chéng",
+    "words": [
+      "成功",
+      "成人",
+      "完成"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cheng",
+    "similar": [
+      "城"
+    ],
+    "level": 1
+  },
+  {
+    "char": "友",
+    "pinyin": "yǒu",
+    "words": [
+      "朋友",
+      "友好",
+      "好友"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [
+      "有"
+    ],
+    "level": 1
+  },
+  {
+    "char": "贝",
+    "pinyin": "bèi",
+    "words": [
+      "贝壳",
+      "宝贝",
+      "贝类"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bei",
+    "similar": [
+      "见"
+    ],
+    "level": 1
+  },
+  {
+    "char": "已",
+    "pinyin": "yǐ",
+    "words": [
+      "已经",
+      "早已",
+      "己所不欲"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yi",
+    "similar": [
+      "己"
+    ],
+    "level": 1
+  },
+  {
+    "char": "己",
+    "pinyin": "jǐ",
+    "words": [
+      "自己",
+      "知己",
+      "一己之力"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ji",
+    "similar": [
+      "已"
+    ],
+    "level": 1
+  },
+  {
+    "char": "毛",
+    "pinyin": "máo",
+    "words": [
+      "毛衣",
+      "毛巾",
+      "毛发"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mao",
+    "similar": [
+      "手"
+    ],
+    "level": 1
+  },
+  {
+    "char": "声",
+    "pinyin": "shēng",
+    "words": [
+      "声音",
+      "大声",
+      "叫声"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "sheng",
+    "similar": [
+      "生"
+    ],
+    "level": 1
+  },
+  {
+    "char": "无",
+    "pinyin": "wú",
+    "words": [
+      "无人",
+      "有无",
+      "无敌"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [
+      "元"
+    ],
+    "level": 1
+  },
+  {
+    "char": "再",
+    "pinyin": "zài",
+    "words": [
+      "再见",
+      "再会",
+      "再来"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "别",
+    "pinyin": "bié",
+    "words": [
+      "别人",
+      "分别",
+      "告别"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "您",
+    "pinyin": "nín",
+    "words": [
+      "您好",
+      "您请",
+      "谢谢您"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "请",
+    "pinyin": "qǐng",
+    "words": [
+      "请问",
+      "请坐",
+      "请客"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "谢",
+    "pinyin": "xiè",
+    "words": [
+      "谢谢",
+      "感谢",
+      "道谢"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "忙",
+    "pinyin": "máng",
+    "words": [
+      "帮忙",
+      "急忙",
+      "忙碌"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "期",
+    "pinyin": "qī",
+    "words": [
+      "星期",
+      "日期",
+      "学期"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "京",
+    "pinyin": "jīng",
+    "words": [
+      "北京",
+      "京城",
+      "京剧"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "张",
+    "pinyin": "zhāng",
+    "words": [
+      "一张",
+      "张开",
+      "纸张"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "块",
+    "pinyin": "kuài",
+    "words": [
+      "一块",
+      "石块",
+      "块头"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kuai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "只",
+    "pinyin": "zhī",
+    "words": [
+      "一只",
+      "只有",
+      "只好"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "条",
+    "pinyin": "tiáo",
+    "words": [
+      "一条",
+      "纸条",
+      "面条"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "片",
+    "pinyin": "piàn",
+    "words": [
+      "一片",
+      "卡片",
+      "叶片"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "双",
+    "pinyin": "shuāng",
+    "words": [
+      "双手",
+      "一双",
+      "双人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shuang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "位",
+    "pinyin": "wèi",
+    "words": [
+      "一位",
+      "座位",
+      "位置"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "辆",
+    "pinyin": "liàng",
+    "words": [
+      "一辆",
+      "车辆",
+      "辆辆"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "liang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "些",
+    "pinyin": "xiē",
+    "words": [
+      "一些",
+      "这些",
+      "那些"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "真",
+    "pinyin": "zhēn",
+    "words": [
+      "认真",
+      "真的",
+      "真好"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "着",
+    "pinyin": "zhe",
+    "words": [
+      "看着",
+      "走着",
+      "笑着"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhe",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "等",
+    "pinyin": "děng",
+    "words": [
+      "等待",
+      "等一等",
+      "平等"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "deng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "姐",
+    "pinyin": "jiě",
+    "words": [
+      "姐姐",
+      "姐妹",
+      "大姐"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jie",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "妹",
+    "pinyin": "mèi",
+    "words": [
+      "妹妹",
+      "姐妹",
+      "表妹"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "她",
+    "pinyin": "tā",
+    "words": [
+      "她们",
+      "她的",
+      "她们家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ta",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "他",
+    "pinyin": "tā",
+    "words": [
+      "他们",
+      "他的",
+      "他人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ta",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "我",
+    "pinyin": "wǒ",
+    "words": [
+      "我们",
+      "我的",
+      "自我"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "你",
+    "pinyin": "nǐ",
+    "words": [
+      "你们",
+      "你好",
+      "你的"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ni",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "光",
+    "pinyin": "guāng",
+    "words": [
+      "阳光",
+      "灯光",
+      "月光"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "钱",
+    "pinyin": "qián",
+    "words": [
+      "金钱",
+      "钱包",
+      "零钱"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qian",
+    "similar": [
+      "线"
+    ],
+    "level": 1
+  },
+  {
+    "char": "买",
+    "pinyin": "mǎi",
+    "words": [
+      "买卖",
+      "买书",
+      "买菜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mai",
+    "similar": [
+      "卖"
+    ],
+    "level": 1
+  },
+  {
+    "char": "卖",
+    "pinyin": "mài",
+    "words": [
+      "买卖",
+      "卖菜",
+      "卖花"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mai",
+    "similar": [
+      "买"
+    ],
+    "level": 1
+  },
+  {
+    "char": "正",
+    "pinyin": "zhèng",
+    "words": [
+      "正在",
+      "正确",
+      "立正"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zheng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "反",
+    "pinyin": "fǎn",
+    "words": [
+      "相反",
+      "反面",
+      "反正"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "错",
+    "pinyin": "cuò",
+    "words": [
+      "对错",
+      "错误",
+      "认错"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cuo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "名",
+    "pinyin": "míng",
+    "words": [
+      "名字",
+      "名人",
+      "姓名"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ming",
+    "similar": [
+      "各"
+    ],
+    "level": 1
+  },
+  {
+    "char": "课",
+    "pinyin": "kè",
+    "words": [
+      "上课",
+      "下课",
+      "课文"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ke",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "题",
+    "pinyin": "tí",
+    "words": [
+      "题目",
+      "问题",
+      "出题"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ti",
+    "similar": [
+      "提"
+    ],
+    "level": 1
+  },
+  {
+    "char": "答",
+    "pinyin": "dá",
+    "words": [
+      "回答",
+      "答案",
+      "答应"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "da",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "思",
+    "pinyin": "sī",
+    "words": [
+      "思考",
+      "思想",
+      "意思"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "si",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "气",
+    "pinyin": "qì",
+    "words": [
+      "天气",
+      "生气",
+      "气球"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "力",
+    "pinyin": "lì",
+    "words": [
+      "力气",
+      "有力",
+      "力量"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "li",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "平",
+    "pinyin": "píng",
+    "words": [
+      "和平",
+      "平地",
+      "水平"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ping",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "方",
+    "pinyin": "fāng",
+    "words": [
+      "方向",
+      "方法",
+      "地方"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "fang",
+    "similar": [
+      "万"
+    ],
+    "level": 1
+  },
+  {
+    "char": "元",
+    "pinyin": "yuán",
+    "words": [
+      "一元",
+      "元旦",
+      "元宝"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yuan",
+    "similar": [
+      "无"
+    ],
+    "level": 1
+  },
+  {
+    "char": "角",
+    "pinyin": "jiǎo",
+    "words": [
+      "牛角",
+      "角落",
+      "三角"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jiao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "边",
+    "pinyin": "biān",
+    "words": [
+      "旁边",
+      "身边",
+      "一边"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "bian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "半",
+    "pinyin": "bàn",
+    "words": [
+      "一半",
+      "半天",
+      "半个"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ban",
+    "similar": [
+      "羊"
+    ],
+    "level": 1
+  },
+  {
+    "char": "尖",
+    "pinyin": "jiān",
+    "words": [
+      "尖尖",
+      "山尖",
+      "舌尖"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "回",
+    "pinyin": "huí",
+    "words": [
+      "回来",
+      "回去",
+      "回家"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "hui",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "过",
+    "pinyin": "guò",
+    "words": [
+      "过去",
+      "过来",
+      "过河"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "共",
+    "pinyin": "gòng",
+    "words": [
+      "一共",
+      "共同",
+      "公共"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "另",
+    "pinyin": "lìng",
+    "words": [
+      "另外",
+      "另一个",
+      "另找"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ling",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "像",
+    "pinyin": "xiàng",
+    "words": [
+      "好像",
+      "想象",
+      "头像"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiang",
+    "similar": [
+      "象"
+    ],
+    "level": 1
+  },
+  {
+    "char": "干",
+    "pinyin": "gān",
+    "words": [
+      "干净",
+      "饼干",
+      "才干"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gan",
+    "similar": [
+      "千"
+    ],
+    "level": 1
+  },
+  {
+    "char": "认",
+    "pinyin": "rèn",
+    "words": [
+      "认识",
+      "认真",
+      "认错"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ren",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "识",
+    "pinyin": "shí",
+    "words": [
+      "认识",
+      "识字",
+      "知识"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "该",
+    "pinyin": "gāi",
+    "words": [
+      "应该",
+      "该做",
+      "该来"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "起",
+    "pinyin": "qǐ",
+    "words": [
+      "起来",
+      "起床",
+      "一起"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "用",
+    "pinyin": "yòng",
+    "words": [
+      "有用",
+      "好用",
+      "用笔"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yong",
+    "similar": [
+      "甩"
+    ],
+    "level": 1
+  },
+  {
+    "char": "甩",
+    "pinyin": "shuǎi",
+    "words": [
+      "甩手",
+      "甩开",
+      "甩头"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shuai",
+    "similar": [
+      "用"
+    ],
+    "level": 1
+  },
+  {
+    "char": "王",
+    "pinyin": "wáng",
+    "words": [
+      "大王",
+      "国王",
+      "王子"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wang",
+    "similar": [
+      "主"
+    ],
+    "level": 1
+  },
+  {
+    "char": "全",
+    "pinyin": "quán",
+    "words": [
+      "全部",
+      "安全",
+      "完全"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "quan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "公",
+    "pinyin": "gōng",
+    "words": [
+      "公园",
+      "公共",
+      "公鸡"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "主",
+    "pinyin": "zhǔ",
+    "words": [
+      "主人",
+      "主要",
+      "公主"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhu",
+    "similar": [
+      "王",
+      "住"
+    ],
+    "level": 1
+  },
+  {
+    "char": "迎",
+    "pinyin": "yíng",
+    "words": [
+      "欢迎",
+      "迎接",
+      "迎面"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ying",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "住",
+    "pinyin": "zhù",
+    "words": [
+      "记住",
+      "住下",
+      "居住"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhu",
+    "similar": [
+      "主"
+    ],
+    "level": 1
+  },
+  {
+    "char": "居",
+    "pinyin": "jū",
+    "words": [
+      "居住",
+      "邻居",
+      "居民"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ju",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "圆",
+    "pinyin": "yuán",
+    "words": [
+      "圆圈",
+      "圆形",
+      "汤圆"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yuan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "尾",
+    "pinyin": "wěi",
+    "words": [
+      "尾巴",
+      "船尾",
+      "结尾"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wei",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "巴",
+    "pinyin": "bā",
+    "words": [
+      "尾巴",
+      "嘴巴",
+      "巴西"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ba",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "忘",
+    "pinyin": "wàng",
+    "words": [
+      "忘记",
+      "难忘",
+      "忘掉"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "记",
+    "pinyin": "jì",
+    "words": [
+      "记住",
+      "忘记",
+      "笔记"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ji",
+    "similar": [
+      "己",
+      "已"
+    ],
+    "level": 1
+  },
+  {
+    "char": "兴",
+    "pinyin": "xìng",
+    "words": [
+      "高兴",
+      "兴趣",
+      "兴致"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "越",
+    "pinyin": "yuè",
+    "words": [
+      "越过",
+      "越来越",
+      "越级"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yue",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "喊",
+    "pinyin": "hǎn",
+    "words": [
+      "大喊",
+      "喊叫",
+      "喊话"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "han",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "招",
+    "pinyin": "zhāo",
+    "words": [
+      "招手",
+      "招呼",
+      "招收"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "沉",
+    "pinyin": "chén",
+    "words": [
+      "下沉",
+      "沉下",
+      "沉住"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "连",
+    "pinyin": "lián",
+    "words": [
+      "连接",
+      "连上",
+      "连忙"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "造",
+    "pinyin": "zào",
+    "words": [
+      "造句",
+      "创造",
+      "建造"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "提",
+    "pinyin": "tí",
+    "words": [
+      "提问",
+      "提高",
+      "提起"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ti",
+    "similar": [
+      "题"
+    ],
+    "level": 1
+  },
+  {
+    "char": "由",
+    "pinyin": "yóu",
+    "words": [
+      "由于",
+      "理由",
+      "自由"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "you",
+    "similar": [
+      "田"
+    ],
+    "level": 1
+  },
+  {
+    "char": "甲",
+    "pinyin": "jiǎ",
+    "words": [
+      "甲虫",
+      "指甲",
+      "甲鱼"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jia",
+    "similar": [
+      "由",
+      "田"
+    ],
+    "level": 1
+  },
+  {
+    "char": "申",
+    "pinyin": "shēn",
+    "words": [
+      "申请",
+      "重申",
+      "申办"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shen",
+    "similar": [
+      "由",
+      "甲"
+    ],
+    "level": 1
+  },
+  {
+    "char": "胖",
+    "pinyin": "pàng",
+    "words": [
+      "胖胖",
+      "胖瘦",
+      "小胖"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "瘦",
+    "pinyin": "shòu",
+    "words": [
+      "胖瘦",
+      "瘦小",
+      "瘦长"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "粗",
+    "pinyin": "cū",
+    "words": [
+      "粗细",
+      "粗心",
+      "粗大"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "细",
+    "pinyin": "xì",
+    "words": [
+      "仔细",
+      "粗细",
+      "细心"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "闹",
+    "pinyin": "nào",
+    "words": [
+      "热闹",
+      "闹钟",
+      "闹着玩"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "静",
+    "pinyin": "jìng",
+    "words": [
+      "安静",
+      "平静",
+      "静静"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "台",
+    "pinyin": "tái",
+    "words": [
+      "台灯",
+      "台阶",
+      "舞台"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "组",
+    "pinyin": "zǔ",
+    "words": [
+      "组长",
+      "一组",
+      "组词"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "排",
+    "pinyin": "pái",
+    "words": [
+      "排队",
+      "排列",
+      "排球"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "pai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "活",
+    "pinyin": "huó",
+    "words": [
+      "生活",
+      "活动",
+      "干活"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "huo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "收",
+    "pinyin": "shōu",
+    "words": [
+      "收到",
+      "丰收",
+      "收下"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "商",
+    "pinyin": "shāng",
+    "words": [
+      "商人",
+      "商量",
+      "商场"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "姑",
+    "pinyin": "gū",
+    "words": [
+      "姑姑",
+      "姑娘",
+      "姑妈"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "娘",
+    "pinyin": "niáng",
+    "words": [
+      "姑娘",
+      "大娘",
+      "新娘"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "niang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "伙",
+    "pinyin": "huǒ",
+    "words": [
+      "伙伴",
+      "同伙",
+      "伙食"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "huo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "汉",
+    "pinyin": "hàn",
+    "words": [
+      "汉字",
+      "汉族",
+      "武汉"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "han",
+    "similar": [
+      "难"
+    ],
+    "level": 1
+  },
+  {
+    "char": "野",
+    "pinyin": "yě",
+    "words": [
+      "田野",
+      "野外",
+      "野菜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ye",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "洞",
+    "pinyin": "dòng",
+    "words": [
+      "山洞",
+      "洞口",
+      "黑洞"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "搬",
+    "pinyin": "bān",
+    "words": [
+      "搬家",
+      "搬动",
+      "搬走"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ban",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "挖",
+    "pinyin": "wā",
+    "words": [
+      "挖土",
+      "挖洞",
+      "挖坑"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wa",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "丢",
+    "pinyin": "diū",
+    "words": [
+      "丢下",
+      "丢掉",
+      "丢人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "diu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "躲",
+    "pinyin": "duǒ",
+    "words": [
+      "躲开",
+      "躲雨",
+      "躲猫猫"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "duo",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "藏",
+    "pinyin": "cáng",
+    "words": [
+      "躲藏",
+      "藏好",
+      "隐藏"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "cang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "急",
+    "pinyin": "jí",
+    "words": [
+      "着急",
+      "急忙",
+      "紧急"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ji",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "信",
+    "pinyin": "xìn",
+    "words": [
+      "相信",
+      "书信",
+      "信封"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "考",
+    "pinyin": "kǎo",
+    "words": [
+      "考试",
+      "思考",
+      "考查"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "kao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "验",
+    "pinyin": "yàn",
+    "words": [
+      "检验",
+      "实验",
+      "验证"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "逗",
+    "pinyin": "dòu",
+    "words": [
+      "逗笑",
+      "逗乐",
+      "逗留"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "dou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "兰",
+    "pinyin": "lán",
+    "words": [
+      "兰花",
+      "兰草",
+      "木兰"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "面",
+    "pinyin": "miàn",
+    "words": [
+      "前面",
+      "里面",
+      "面包"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "容",
+    "pinyin": "róng",
+    "words": [
+      "笑容",
+      "容易",
+      "内容"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "rong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "易",
+    "pinyin": "yì",
+    "words": [
+      "容易",
+      "易学",
+      "不易"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "难",
+    "pinyin": "nán",
+    "words": [
+      "困难",
+      "很难",
+      "难题"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "nan",
+    "similar": [
+      "汉"
+    ],
+    "level": 1
+  },
+  {
+    "char": "事",
+    "pinyin": "shì",
+    "words": [
+      "事情",
+      "做事",
+      "故事"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "情",
+    "pinyin": "qíng",
+    "words": [
+      "心情",
+      "事情",
+      "感情"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "梦",
+    "pinyin": "mèng",
+    "words": [
+      "做梦",
+      "梦想",
+      "美梦"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "meng",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "甜",
+    "pinyin": "tián",
+    "words": [
+      "甜甜",
+      "甜品",
+      "甜瓜"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tian",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "苦",
+    "pinyin": "kǔ",
+    "words": [
+      "苦瓜",
+      "辛苦",
+      "吃苦"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ku",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "香",
+    "pinyin": "xiāng",
+    "words": [
+      "香味",
+      "花香",
+      "香蕉"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "xiang",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "臭",
+    "pinyin": "chòu",
+    "words": [
+      "臭味",
+      "臭臭",
+      "口臭"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "chou",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "美",
+    "pinyin": "měi",
+    "words": [
+      "美丽",
+      "美好",
+      "美人"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "mei",
+    "similar": [
+      "羊"
+    ],
+    "level": 1
+  },
+  {
+    "char": "丽",
+    "pinyin": "lì",
+    "words": [
+      "美丽",
+      "华丽",
+      "壮丽"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "li",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "漂",
+    "pinyin": "piào",
+    "words": [
+      "漂亮",
+      "漂流",
+      "漂浮"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "piao",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "神",
+    "pinyin": "shén",
+    "words": [
+      "神仙",
+      "精神",
+      "神奇"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "shen",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "奇",
+    "pinyin": "qí",
+    "words": [
+      "神奇",
+      "好奇",
+      "奇怪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qi",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "怪",
+    "pinyin": "guài",
+    "words": [
+      "奇怪",
+      "怪物",
+      "难怪"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "guai",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "勇",
+    "pinyin": "yǒng",
+    "words": [
+      "勇敢",
+      "勇气",
+      "勇士"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "yong",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "敢",
+    "pinyin": "gǎn",
+    "words": [
+      "勇敢",
+      "敢于",
+      "不敢"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "gan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "团",
+    "pinyin": "tuán",
+    "words": [
+      "团结",
+      "团队",
+      "团长"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "tuan",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "结",
+    "pinyin": "jié",
+    "words": [
+      "团结",
+      "结果",
+      "打结"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jie",
+    "similar": [
+      "接"
+    ],
+    "level": 1
+  },
+  {
+    "char": "伴",
+    "pinyin": "bàn",
+    "words": [
+      "伙伴",
+      "陪伴",
+      "同伴"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "ban",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "邻",
+    "pinyin": "lín",
+    "words": [
+      "邻居",
+      "邻近",
+      "邻里"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "lin",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "直",
+    "pinyin": "zhí",
+    "words": [
+      "直接",
+      "一直",
+      "直线"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhi",
+    "similar": [
+      "真"
+    ],
+    "level": 1
+  },
+  {
+    "char": "接",
+    "pinyin": "jiē",
+    "words": [
+      "直接",
+      "接着",
+      "接住"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "jie",
+    "similar": [
+      "结"
+    ],
+    "level": 1
+  },
+  {
+    "char": "乐",
+    "pinyin": "lè",
+    "words": [
+      "快乐",
+      "乐园",
+      "音乐"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "le",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "舞",
+    "pinyin": "wǔ",
+    "words": [
+      "跳舞",
+      "舞蹈",
+      "舞龙"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "wu",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "轻",
+    "pinyin": "qīng",
+    "words": [
+      "轻轻",
+      "轻松",
+      "轻重"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "qing",
+    "similar": [],
+    "level": 1
+  },
+  {
+    "char": "重",
+    "pinyin": "zhòng",
+    "words": [
+      "重要",
+      "轻重",
+      "重点"
+    ],
+    "stroke_count": 0,
+    "strokes": [],
+    "phonetic_group": "zhong",
+    "similar": [],
+    "level": 1
+  }
+]

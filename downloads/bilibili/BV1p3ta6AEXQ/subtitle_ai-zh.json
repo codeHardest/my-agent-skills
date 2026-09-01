@@ -1,0 +1,4244 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.58,
+      "to": 1.42,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.42,
+      "to": 3.9,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎回到司马迁的YOUTUBE频道",
+      "music": 0.0
+    },
+    {
+      "from": 3.9,
+      "to": 6.42,
+      "sid": 3,
+      "location": 2,
+      "content": "带你看最真实的中国经济",
+      "music": 0.0
+    },
+    {
+      "from": 6.42,
+      "to": 8.58,
+      "sid": 4,
+      "location": 2,
+      "content": "今天呢股市整体还行啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.58,
+      "to": 10.24,
+      "sid": 5,
+      "location": 2,
+      "content": "但是地产股大跌",
+      "music": 0.0
+    },
+    {
+      "from": 10.24,
+      "to": 12.18,
+      "sid": 6,
+      "location": 2,
+      "content": "你比如说像国企啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.18,
+      "to": 13.06,
+      "sid": 7,
+      "location": 2,
+      "content": "中国金茂",
+      "music": 0.0
+    },
+    {
+      "from": 13.06,
+      "to": 14.14,
+      "sid": 8,
+      "location": 2,
+      "content": "越秀地产",
+      "music": 0.0
+    },
+    {
+      "from": 14.14,
+      "to": 17.8,
+      "sid": 9,
+      "location": 2,
+      "content": "绿城中国这种呢跌幅都非常大啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.8,
+      "to": 19.08,
+      "sid": 10,
+      "location": 2,
+      "content": "那稍微好一点呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.08,
+      "to": 20.94,
+      "sid": 11,
+      "location": 2,
+      "content": "你像央企华润置地",
+      "music": 0.0
+    },
+    {
+      "from": 20.94,
+      "to": 22.0,
+      "sid": 12,
+      "location": 2,
+      "content": "中海外啊",
+      "music": 0.0
+    },
+    {
+      "from": 22.0,
+      "to": 23.84,
+      "sid": 13,
+      "location": 2,
+      "content": "跌幅稍微小一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.84,
+      "to": 26.17,
+      "sid": 14,
+      "location": 2,
+      "content": "但也挺大的",
+      "music": 0.0
+    },
+    {
+      "from": 26.17,
+      "to": 31.13,
+      "sid": 15,
+      "location": 2,
+      "content": "嗯其实也呃知道现在这种现房销售制啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.13,
+      "to": 31.73,
+      "sid": 16,
+      "location": 2,
+      "content": "出来以后",
+      "music": 0.0
+    },
+    {
+      "from": 31.73,
+      "to": 34.53,
+      "sid": 17,
+      "location": 2,
+      "content": "有些人说呢是为了挤压民企啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.53,
+      "to": 37.95,
+      "sid": 18,
+      "location": 2,
+      "content": "让国企占整个房地产市场当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 37.95,
+      "to": 40.11,
+      "sid": 19,
+      "location": 2,
+      "content": "占据更大的份额",
+      "music": 0.0
+    },
+    {
+      "from": 40.11,
+      "to": 42.35,
+      "sid": 20,
+      "location": 2,
+      "content": "那今天的股市的表现啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.35,
+      "to": 44.92,
+      "sid": 21,
+      "location": 2,
+      "content": "好像就不是这个样子啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.92,
+      "to": 49.52,
+      "sid": 22,
+      "location": 2,
+      "content": "呃你反而倒是那种财务比较稳健的民企啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.52,
+      "to": 51.64,
+      "sid": 23,
+      "location": 2,
+      "content": "你比如说像龙湖集团啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.64,
+      "to": 53.04,
+      "sid": 24,
+      "location": 2,
+      "content": "呃新城发展啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.04,
+      "to": 55.959,
+      "sid": 25,
+      "location": 2,
+      "content": "这样呢跌幅还小一点儿",
+      "music": 0.0
+    },
+    {
+      "from": 55.959,
+      "to": 58.759,
+      "sid": 26,
+      "location": 2,
+      "content": "那今天呢当然主题还是房地产啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.759,
+      "to": 59.839,
+      "sid": 27,
+      "location": 2,
+      "content": "讲三篇研报",
+      "music": 0.0
+    },
+    {
+      "from": 59.839,
+      "to": 60.959,
+      "sid": 28,
+      "location": 2,
+      "content": "前两篇呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.959,
+      "to": 66.01,
+      "sid": 29,
+      "location": 2,
+      "content": "大摩和野村的还是聚焦828地产新政啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.01,
+      "to": 67.17,
+      "sid": 30,
+      "location": 2,
+      "content": "确实我看了一下",
+      "music": 0.0
+    },
+    {
+      "from": 67.17,
+      "to": 70.02,
+      "sid": 31,
+      "location": 2,
+      "content": "比我周六啊粗糙的解读要更全面",
+      "music": 0.0
+    },
+    {
+      "from": 70.02,
+      "to": 71.46,
+      "sid": 32,
+      "location": 2,
+      "content": "那最后还有一篇啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.46,
+      "to": 74.68,
+      "sid": 33,
+      "location": 2,
+      "content": "就是小摩探讨对外投资管理办法",
+      "music": 0.0
+    },
+    {
+      "from": 74.68,
+      "to": 78.62,
+      "sid": 34,
+      "location": 2,
+      "content": "对个人香港买房的影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.62,
+      "to": 79.6,
+      "sid": 35,
+      "location": 2,
+      "content": "咱们一起来看",
+      "music": 0.0
+    },
+    {
+      "from": 79.6,
+      "to": 81.84,
+      "sid": 36,
+      "location": 2,
+      "content": "先看大魔的这篇",
+      "music": 0.0
+    },
+    {
+      "from": 81.84,
+      "to": 85.1,
+      "sid": 37,
+      "location": 2,
+      "content": "那我个人觉得呢这篇虽然篇幅短啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.1,
+      "to": 90.48,
+      "sid": 38,
+      "location": 2,
+      "content": "但其实比野村的那篇呢要更加清晰明了啊",
+      "music": 0.0
+    },
+    {
+      "from": 90.48,
+      "to": 91.72,
+      "sid": 39,
+      "location": 2,
+      "content": "就是一些要点",
+      "music": 0.0
+    },
+    {
+      "from": 91.72,
+      "to": 92.52,
+      "sid": 40,
+      "location": 2,
+      "content": "他这也说了",
+      "music": 0.0
+    },
+    {
+      "from": 92.52,
+      "to": 93.949,
+      "sid": 41,
+      "location": 2,
+      "content": "人家叫first take",
+      "music": 0.0
+    },
+    {
+      "from": 93.949,
+      "to": 97.32,
+      "sid": 42,
+      "location": 2,
+      "content": "那首先就他聚焦的是住建部啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.32,
+      "to": 99.28,
+      "sid": 43,
+      "location": 2,
+      "content": "I'MAMOHEARD的",
+      "music": 0.0
+    },
+    {
+      "from": 99.28,
+      "to": 102.4,
+      "sid": 44,
+      "location": 2,
+      "content": "还有什ministry of housing and urban rural development啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.4,
+      "to": 104.76,
+      "sid": 45,
+      "location": 2,
+      "content": "住建部他们出台了这种啊",
+      "music": 0.0
+    },
+    {
+      "from": 104.76,
+      "to": 106.39,
+      "sid": 46,
+      "location": 2,
+      "content": "就是现房销售制嘛",
+      "music": 0.0
+    },
+    {
+      "from": 106.39,
+      "to": 110.34,
+      "sid": 47,
+      "location": 2,
+      "content": "呃而且还有就是说你存量项目的预售资金呢",
+      "music": 0.0
+    },
+    {
+      "from": 110.34,
+      "to": 112.84,
+      "sid": 48,
+      "location": 2,
+      "content": "要全部进这种监管账户啊",
+      "music": 0.0
+    },
+    {
+      "from": 112.84,
+      "to": 116.16,
+      "sid": 49,
+      "location": 2,
+      "content": "就防止这种再发现发生这种烂尾楼啊",
+      "music": 0.0
+    },
+    {
+      "from": 116.16,
+      "to": 118.3,
+      "sid": 50,
+      "location": 2,
+      "content": "这个资金被挪用的这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 118.3,
+      "to": 120.4,
+      "sid": 51,
+      "location": 2,
+      "content": "那整体的政策这也说了啊",
+      "music": 0.0
+    },
+    {
+      "from": 120.4,
+      "to": 124.73,
+      "sid": 52,
+      "location": 2,
+      "content": "对房企啊构成了比较大的冲击啊",
+      "music": 0.0
+    },
+    {
+      "from": 124.73,
+      "to": 125.95,
+      "sid": 53,
+      "location": 2,
+      "content": "确实啊今天的股",
+      "music": 0.0
+    },
+    {
+      "from": 125.95,
+      "to": 128.71,
+      "sid": 54,
+      "location": 2,
+      "content": "人家这个判断啊还是比较准确的",
+      "music": 0.0
+    },
+    {
+      "from": 128.71,
+      "to": 130.89,
+      "sid": 55,
+      "location": 2,
+      "content": "今天的股市就反映出来了",
+      "music": 0.0
+    },
+    {
+      "from": 130.89,
+      "to": 133.43,
+      "sid": 56,
+      "location": 2,
+      "content": "而且这么看呢",
+      "music": 0.0
+    },
+    {
+      "from": 133.63,
+      "to": 135.87,
+      "sid": 57,
+      "location": 2,
+      "content": "那因为你要现房销售嘛",
+      "music": 0.0
+    },
+    {
+      "from": 135.87,
+      "to": 139.21,
+      "sid": 58,
+      "location": 2,
+      "content": "那这个房就明年能够上市",
+      "music": 0.0
+    },
+    {
+      "from": 139.21,
+      "to": 141.51,
+      "sid": 59,
+      "location": 2,
+      "content": "卖的新房就比较少啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.51,
+      "to": 142.83,
+      "sid": 60,
+      "location": 2,
+      "content": "还没出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.83,
+      "to": 143.67,
+      "sid": 61,
+      "location": 2,
+      "content": "这么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 143.67,
+      "to": 147.75,
+      "sid": 62,
+      "location": 2,
+      "content": "明年的新房供给呢大概率要大幅回落",
+      "music": 0.0
+    },
+    {
+      "from": 147.75,
+      "to": 149.29,
+      "sid": 63,
+      "location": 2,
+      "content": "那某种意义上呢",
+      "music": 0.0
+    },
+    {
+      "from": 149.29,
+      "to": 152.57,
+      "sid": 64,
+      "location": 2,
+      "content": "可能还利好这种房产中介的行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 152.57,
+      "to": 156.52,
+      "sid": 65,
+      "location": 2,
+      "content": "因为那更多的人可能要涌入二手房市场",
+      "music": 0.0
+    },
+    {
+      "from": 156.52,
+      "to": 158.42,
+      "sid": 66,
+      "location": 2,
+      "content": "来消化他们这个需求啊",
+      "music": 0.0
+    },
+    {
+      "from": 158.42,
+      "to": 161.82,
+      "sid": 67,
+      "location": 2,
+      "content": "那这个地方呢其实咱们就看这啊",
+      "music": 0.0
+    },
+    {
+      "from": 161.82,
+      "to": 164.95,
+      "sid": 68,
+      "location": 2,
+      "content": "最关键的它有两个利好",
+      "music": 0.0
+    },
+    {
+      "from": 164.95,
+      "to": 167.27,
+      "sid": 69,
+      "location": 2,
+      "content": "还有两个负面的影响",
+      "music": 0.0
+    },
+    {
+      "from": 167.27,
+      "to": 170.69,
+      "sid": 70,
+      "location": 2,
+      "content": "利好的因素呢我理解他这个好不好",
+      "music": 0.0
+    },
+    {
+      "from": 170.69,
+      "to": 174.44,
+      "sid": 71,
+      "location": 2,
+      "content": "主要还是从房地产行业的角度去出发",
+      "music": 0.0
+    },
+    {
+      "from": 174.44,
+      "to": 179.92,
+      "sid": 72,
+      "location": 2,
+      "content": "那第一个利好就说诶他保护了购房者的权益啊",
+      "music": 0.0
+    },
+    {
+      "from": 179.92,
+      "to": 183.56,
+      "sid": 73,
+      "location": 2,
+      "content": "能够降低啊对期房交付的风险呢",
+      "music": 0.0
+    },
+    {
+      "from": 183.56,
+      "to": 186.32,
+      "sid": 74,
+      "location": 2,
+      "content": "过去就是因为这个房交不上啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.32,
+      "to": 189.63,
+      "sid": 75,
+      "location": 2,
+      "content": "所以更多的人选择去二手房市场",
+      "music": 0.0
+    },
+    {
+      "from": 189.63,
+      "to": 195.13,
+      "sid": 76,
+      "location": 2,
+      "content": "那这个可能尤其是你过去你比如说说像央企啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.13,
+      "to": 195.95,
+      "sid": 77,
+      "location": 2,
+      "content": "国企",
+      "music": 0.0
+    },
+    {
+      "from": 198.85,
+      "to": 202.47,
+      "sid": 78,
+      "location": 2,
+      "content": "所以他们的新房项目就即便是期房啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.47,
+      "to": 203.67,
+      "sid": 79,
+      "location": 2,
+      "content": "还有人去买啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.67,
+      "to": 205.68,
+      "sid": 80,
+      "location": 2,
+      "content": "一会儿咱们看野村那儿有个图啊",
+      "music": 0.0
+    },
+    {
+      "from": 205.68,
+      "to": 208.68,
+      "sid": 81,
+      "location": 2,
+      "content": "现在其实期房在整个房地产市场中",
+      "music": 0.0
+    },
+    {
+      "from": 208.68,
+      "to": 210.3,
+      "sid": 82,
+      "location": 2,
+      "content": "还是占据大头的",
+      "music": 0.0
+    },
+    {
+      "from": 210.3,
+      "to": 211.98,
+      "sid": 83,
+      "location": 2,
+      "content": "那这儿说的利好呢",
+      "music": 0.0
+    },
+    {
+      "from": 211.98,
+      "to": 215.8,
+      "sid": 84,
+      "location": 2,
+      "content": "主要还利好所谓的民营企业啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.8,
+      "to": 217.58,
+      "sid": 85,
+      "location": 2,
+      "content": "那民营企业啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.58,
+      "to": 220.22,
+      "sid": 86,
+      "location": 2,
+      "content": "那整个现在大家都现房销售制了",
+      "music": 0.0
+    },
+    {
+      "from": 220.22,
+      "to": 224.01,
+      "sid": 87,
+      "location": 2,
+      "content": "所以过去民营企业是没有这种呃信用背书的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 224.01,
+      "to": 226.61,
+      "sid": 88,
+      "location": 2,
+      "content": "哎现在大家都回到同一起跑线了",
+      "music": 0.0
+    },
+    {
+      "from": 226.61,
+      "to": 231.38,
+      "sid": 89,
+      "location": 2,
+      "content": "这也可能就是啊今天所谓的呃财务稳健的地产",
+      "music": 0.0
+    },
+    {
+      "from": 231.38,
+      "to": 234.86,
+      "sid": 90,
+      "location": 2,
+      "content": "民企为什么跌幅相对较小的一个原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.86,
+      "to": 237.42,
+      "sid": 91,
+      "location": 2,
+      "content": "呃这个所以说大模分析的还是挺好",
+      "music": 0.0
+    },
+    {
+      "from": 237.42,
+      "to": 238.0,
+      "sid": 92,
+      "location": 2,
+      "content": "挺全面",
+      "music": 0.0
+    },
+    {
+      "from": 238.0,
+      "to": 242.38,
+      "sid": 93,
+      "location": 2,
+      "content": "另一方面呢是在去库存的方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 242.38,
+      "to": 243.52,
+      "sid": 94,
+      "location": 2,
+      "content": "尤其是二手房",
+      "music": 0.0
+    },
+    {
+      "from": 243.52,
+      "to": 244.3,
+      "sid": 95,
+      "location": 2,
+      "content": "刚才说了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 244.3,
+      "to": 248.59,
+      "sid": 96,
+      "location": 2,
+      "content": "那因为你新房啊要现房才能搞出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 248.59,
+      "to": 250.96,
+      "sid": 97,
+      "location": 2,
+      "content": "大家只能去二手房市场",
+      "music": 0.0
+    },
+    {
+      "from": 250.96,
+      "to": 252.1,
+      "sid": 98,
+      "location": 2,
+      "content": "这样的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 252.1,
+      "to": 256.34,
+      "sid": 99,
+      "location": 2,
+      "content": "唉还可能让一线城市的房价呢继续上涨啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.34,
+      "to": 257.7,
+      "sid": 100,
+      "location": 2,
+      "content": "啊才能缓解啊",
+      "music": 0.0
+    },
+    {
+      "from": 257.7,
+      "to": 260.08,
+      "sid": 101,
+      "location": 2,
+      "content": "更多低一线城市的下行压力",
+      "music": 0.0
+    },
+    {
+      "from": 260.08,
+      "to": 262.02,
+      "sid": 102,
+      "location": 2,
+      "content": "这可能倒是这样啊",
+      "music": 0.0
+    },
+    {
+      "from": 262.02,
+      "to": 264.32,
+      "sid": 103,
+      "location": 2,
+      "content": "但是负面因素呢一方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 264.32,
+      "to": 268.38,
+      "sid": 104,
+      "location": 2,
+      "content": "因为现房销售制明显要让它的周转速度下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 268.38,
+      "to": 270.88,
+      "sid": 105,
+      "location": 2,
+      "content": "那他的这种啊投资回报率啊",
+      "music": 0.0
+    },
+    {
+      "from": 270.88,
+      "to": 273.9,
+      "sid": 106,
+      "location": 2,
+      "content": "净资产收益率啊啊都下降",
+      "music": 0.0
+    },
+    {
+      "from": 273.9,
+      "to": 277.2,
+      "sid": 107,
+      "location": 2,
+      "content": "所以那如果房价没有上涨的话",
+      "music": 0.0
+    },
+    {
+      "from": 277.2,
+      "to": 279.48,
+      "sid": 108,
+      "location": 2,
+      "content": "那你利润率肯定也要下降啊",
+      "music": 0.0
+    },
+    {
+      "from": 283.32,
+      "to": 286.06,
+      "sid": 109,
+      "location": 2,
+      "content": "那第二条利空呢",
+      "music": 0.0
+    },
+    {
+      "from": 286.06,
+      "to": 291.12,
+      "sid": 110,
+      "location": 2,
+      "content": "还有那就是他们在呃土地储备上的投资",
+      "music": 0.0
+    },
+    {
+      "from": 291.12,
+      "to": 293.06,
+      "sid": 111,
+      "location": 2,
+      "content": "整个会下来",
+      "music": 0.0
+    },
+    {
+      "from": 293.06,
+      "to": 295.61,
+      "sid": 112,
+      "location": 2,
+      "content": "那这一块呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 295.61,
+      "to": 299.29,
+      "sid": 113,
+      "location": 2,
+      "content": "这个利空我看有点超出了所谓的地产行业啊",
+      "music": 0.0
+    },
+    {
+      "from": 299.29,
+      "to": 304.73,
+      "sid": 114,
+      "location": 2,
+      "content": "那给地方政府的土地收让金也会下来",
+      "music": 0.0
+    },
+    {
+      "from": 304.73,
+      "to": 309.28,
+      "sid": 115,
+      "location": 2,
+      "content": "那所以就说这个现房销售制还是挺狠的啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.28,
+      "to": 310.58,
+      "sid": 116,
+      "location": 2,
+      "content": "等于是三杀啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.58,
+      "to": 312.62,
+      "sid": 117,
+      "location": 2,
+      "content": "房企啊",
+      "music": 0.0
+    },
+    {
+      "from": 312.62,
+      "to": 313.62,
+      "sid": 118,
+      "location": 2,
+      "content": "地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 313.62,
+      "to": 316.34,
+      "sid": 119,
+      "location": 2,
+      "content": "然后后边咱们看野村哪个重点谈了",
+      "music": 0.0
+    },
+    {
+      "from": 316.34,
+      "to": 320.01,
+      "sid": 120,
+      "location": 2,
+      "content": "银行再看一下呃",
+      "music": 0.0
+    },
+    {
+      "from": 320.01,
+      "to": 322.89,
+      "sid": 121,
+      "location": 2,
+      "content": "就说呢那这个投资者的整个情绪啊",
+      "music": 0.0
+    },
+    {
+      "from": 322.89,
+      "to": 324.89,
+      "sid": 122,
+      "location": 2,
+      "content": "会受到影响影响",
+      "music": 0.0
+    },
+    {
+      "from": 324.89,
+      "to": 328.99,
+      "sid": 123,
+      "location": 2,
+      "content": "而且但是呢不同的主体啊分化非常明显啊",
+      "music": 0.0
+    },
+    {
+      "from": 328.99,
+      "to": 331.31,
+      "sid": 124,
+      "location": 2,
+      "content": "其实也刚才也谈到了啊不同",
+      "music": 0.0
+    },
+    {
+      "from": 331.31,
+      "to": 332.53,
+      "sid": 125,
+      "location": 2,
+      "content": "比如说央企啊",
+      "music": 0.0
+    },
+    {
+      "from": 332.53,
+      "to": 334.87,
+      "sid": 126,
+      "location": 2,
+      "content": "国企还有民企之间的",
+      "music": 0.0
+    },
+    {
+      "from": 335.88,
+      "to": 338.04,
+      "sid": 127,
+      "location": 2,
+      "content": "接着呢咱们看野村啊",
+      "music": 0.0
+    },
+    {
+      "from": 338.04,
+      "to": 340.92,
+      "sid": 128,
+      "location": 2,
+      "content": "野村这篇呢我觉得他比较重要的",
+      "music": 0.0
+    },
+    {
+      "from": 340.92,
+      "to": 342.28,
+      "sid": 129,
+      "location": 2,
+      "content": "我就挑一些要点啊",
+      "music": 0.0
+    },
+    {
+      "from": 342.28,
+      "to": 345.43,
+      "sid": 130,
+      "location": 2,
+      "content": "这篇研报其实比刚才大魔那篇要长",
+      "music": 0.0
+    },
+    {
+      "from": 345.89,
+      "to": 348.49,
+      "sid": 131,
+      "location": 2,
+      "content": "要点其实就主要他关注了银行",
+      "music": 0.0
+    },
+    {
+      "from": 348.49,
+      "to": 353.09,
+      "sid": 132,
+      "location": 2,
+      "content": "他认为呢这个长期啊是利好啊",
+      "music": 0.0
+    },
+    {
+      "from": 353.09,
+      "to": 354.39,
+      "sid": 133,
+      "location": 2,
+      "content": "要大于短期影响",
+      "music": 0.0
+    },
+    {
+      "from": 354.39,
+      "to": 356.45,
+      "sid": 134,
+      "location": 2,
+      "content": "但是呢你从我个人角度",
+      "music": 0.0
+    },
+    {
+      "from": 356.45,
+      "to": 359.13,
+      "sid": 135,
+      "location": 2,
+      "content": "我不太去关注长期啊",
+      "music": 0.0
+    },
+    {
+      "from": 359.13,
+      "to": 360.85,
+      "sid": 136,
+      "location": 2,
+      "content": "大家还是关注短期",
+      "music": 0.0
+    },
+    {
+      "from": 360.85,
+      "to": 363.26,
+      "sid": 137,
+      "location": 2,
+      "content": "你说10年20年以后的事儿啊",
+      "music": 0.0
+    },
+    {
+      "from": 363.26,
+      "to": 364.9,
+      "sid": 138,
+      "location": 2,
+      "content": "你的这一套",
+      "music": 0.0
+    },
+    {
+      "from": 364.9,
+      "to": 367.919,
+      "sid": 139,
+      "location": 2,
+      "content": "那其他很多变量也会在变嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 367.919,
+      "to": 369.639,
+      "sid": 140,
+      "location": 2,
+      "content": "你这个现房销售",
+      "music": 0.0
+    },
+    {
+      "from": 369.639,
+      "to": 373.079,
+      "sid": 141,
+      "location": 2,
+      "content": "当然你长期有助于建立他们的信心对吧",
+      "music": 0.0
+    },
+    {
+      "from": 373.079,
+      "to": 373.85,
+      "sid": 142,
+      "location": 2,
+      "content": "重建",
+      "music": 0.0
+    },
+    {
+      "from": 373.85,
+      "to": 375.25,
+      "sid": 143,
+      "location": 2,
+      "content": "但是短期来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 375.25,
+      "to": 378.81,
+      "sid": 144,
+      "location": 2,
+      "content": "当然对于民企的资金压力呀是相当的大啊",
+      "music": 0.0
+    },
+    {
+      "from": 378.81,
+      "to": 382.36,
+      "sid": 145,
+      "location": 2,
+      "content": "其实一些那个你像包括一些混合素质",
+      "music": 0.0
+    },
+    {
+      "from": 382.36,
+      "to": 383.54,
+      "sid": 146,
+      "location": 2,
+      "content": "你像万科这样的",
+      "music": 0.0
+    },
+    {
+      "from": 383.54,
+      "to": 385.61,
+      "sid": 147,
+      "location": 2,
+      "content": "而是吧压力就更大",
+      "music": 0.0
+    },
+    {
+      "from": 385.61,
+      "to": 388.13,
+      "sid": 148,
+      "location": 2,
+      "content": "那还而且过去这几年呢",
+      "music": 0.0
+    },
+    {
+      "from": 388.13,
+      "to": 391.08,
+      "sid": 149,
+      "location": 2,
+      "content": "地产积累了大量的所谓坏账啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.08,
+      "to": 393.3,
+      "sid": 150,
+      "location": 2,
+      "content": "那怎么才能解决啊",
+      "music": 0.0
+    },
+    {
+      "from": 393.3,
+      "to": 398.76,
+      "sid": 151,
+      "location": 2,
+      "content": "或者这搞不好也是一个引爆金融危机的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 398.76,
+      "to": 399.92,
+      "sid": 152,
+      "location": 2,
+      "content": "但是其实呢",
+      "music": 0.0
+    },
+    {
+      "from": 399.92,
+      "to": 402.86,
+      "sid": 153,
+      "location": 2,
+      "content": "我觉得政府现在住建部出这个政策呢",
+      "music": 0.0
+    },
+    {
+      "from": 402.86,
+      "to": 404.24,
+      "sid": 154,
+      "location": 2,
+      "content": "高层还是有信心啊",
+      "music": 0.0
+    },
+    {
+      "from": 404.24,
+      "to": 406.2,
+      "sid": 155,
+      "location": 2,
+      "content": "你比如像万科这样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 406.2,
+      "to": 409.32,
+      "sid": 156,
+      "location": 2,
+      "content": "不是说万科像恒大这种大雷啊",
+      "music": 0.0
+    },
+    {
+      "from": 409.32,
+      "to": 411.72,
+      "sid": 157,
+      "location": 2,
+      "content": "其实已经搞掉了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 411.72,
+      "to": 416.43,
+      "sid": 158,
+      "location": 2,
+      "content": "而且万科的情况可能已呃高层也有数啊",
+      "music": 0.0
+    },
+    {
+      "from": 416.43,
+      "to": 420.67,
+      "sid": 159,
+      "location": 2,
+      "content": "就是这几个比较大的雷点呢",
+      "music": 0.0
+    },
+    {
+      "from": 420.67,
+      "to": 421.83,
+      "sid": 160,
+      "location": 2,
+      "content": "他们已经有数了",
+      "music": 0.0
+    },
+    {
+      "from": 421.83,
+      "to": 425.73,
+      "sid": 161,
+      "location": 2,
+      "content": "所以剩下的这些也就不太担心暴雷啊",
+      "music": 0.0
+    },
+    {
+      "from": 425.73,
+      "to": 428.65,
+      "sid": 162,
+      "location": 2,
+      "content": "当然呢有时候有可能会过度自信啊",
+      "music": 0.0
+    },
+    {
+      "from": 428.65,
+      "to": 430.89,
+      "sid": 163,
+      "location": 2,
+      "content": "啊咱们看他对于银行的影响",
+      "music": 0.0
+    },
+    {
+      "from": 430.89,
+      "to": 432.62,
+      "sid": 164,
+      "location": 2,
+      "content": "就这个地方说了一下",
+      "music": 0.0
+    },
+    {
+      "from": 432.62,
+      "to": 436.88,
+      "sid": 165,
+      "location": 2,
+      "content": "如果购房者呢现在呢是你诶房子盖好以后",
+      "music": 0.0
+    },
+    {
+      "from": 436.88,
+      "to": 437.76,
+      "sid": 166,
+      "location": 2,
+      "content": "竣工以后",
+      "music": 0.0
+    },
+    {
+      "from": 437.76,
+      "to": 440.0,
+      "sid": 167,
+      "location": 2,
+      "content": "他才开始偿还房贷",
+      "music": 0.0
+    },
+    {
+      "from": 440.0,
+      "to": 442.36,
+      "sid": 168,
+      "location": 2,
+      "content": "那也就是说在这盖之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 442.36,
+      "to": 444.68,
+      "sid": 169,
+      "location": 2,
+      "content": "这个房企主要是依赖啊",
+      "music": 0.0
+    },
+    {
+      "from": 444.68,
+      "to": 448.73,
+      "sid": 170,
+      "location": 2,
+      "content": "所谓的开发贷来作为资金来源",
+      "music": 0.0
+    },
+    {
+      "from": 448.73,
+      "to": 450.61,
+      "sid": 171,
+      "location": 2,
+      "content": "那这样的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 450.61,
+      "to": 457.14,
+      "sid": 172,
+      "location": 2,
+      "content": "就银行因为他啊能到手前的时间要更晚嘛",
+      "music": 0.0
+    },
+    {
+      "from": 457.14,
+      "to": 461.76,
+      "sid": 173,
+      "location": 2,
+      "content": "那他甄别项目的难度呢就进一步的提升啊",
+      "music": 0.0
+    },
+    {
+      "from": 461.76,
+      "to": 464.83,
+      "sid": 174,
+      "location": 2,
+      "content": "他承担的金融风险也就更大",
+      "music": 0.0
+    },
+    {
+      "from": 464.83,
+      "to": 467.33,
+      "sid": 175,
+      "location": 2,
+      "content": "呃我们看一下后边这两张图吧",
+      "music": 0.0
+    },
+    {
+      "from": 467.33,
+      "to": 470.55,
+      "sid": 176,
+      "location": 2,
+      "content": "啊就看看现在市场的情况",
+      "music": 0.0
+    },
+    {
+      "from": 470.55,
+      "to": 473.95,
+      "sid": 177,
+      "location": 2,
+      "content": "这个呢就是所谓的预售的占比啊",
+      "music": 0.0
+    },
+    {
+      "from": 473.95,
+      "to": 474.95,
+      "sid": 178,
+      "location": 2,
+      "content": "其实还是挺高",
+      "music": 0.0
+    },
+    {
+      "from": 474.95,
+      "to": 476.75,
+      "sid": 179,
+      "location": 2,
+      "content": "那当然最高的时候哦",
+      "music": 0.0
+    },
+    {
+      "from": 476.75,
+      "to": 478.82,
+      "sid": 180,
+      "location": 2,
+      "content": "这还有一个上升啊",
+      "music": 0.0
+    },
+    {
+      "from": 478.82,
+      "to": 480.04,
+      "sid": 181,
+      "location": 2,
+      "content": "这挺有意思的",
+      "music": 0.0
+    },
+    {
+      "from": 480.04,
+      "to": 481.17,
+      "sid": 182,
+      "location": 2,
+      "content": "其实你看啊",
+      "music": 0.0
+    },
+    {
+      "from": 481.17,
+      "to": 483.39,
+      "sid": 183,
+      "location": 2,
+      "content": "现在基本上这个比例呢",
+      "music": 0.0
+    },
+    {
+      "from": 483.39,
+      "to": 486.31,
+      "sid": 184,
+      "location": 2,
+      "content": "回到了一个0708年的这个状态是吧",
+      "music": 0.0
+    },
+    {
+      "from": 486.31,
+      "to": 487.49,
+      "sid": 185,
+      "location": 2,
+      "content": "67.6啊",
+      "music": 0.0
+    },
+    {
+      "from": 487.49,
+      "to": 491.12,
+      "sid": 186,
+      "location": 2,
+      "content": "和当时其实后边越到后边这预售的比例越高",
+      "music": 0.0
+    },
+    {
+      "from": 491.12,
+      "to": 493.36,
+      "sid": 187,
+      "location": 2,
+      "content": "那在房地产巅峰的时期呢",
+      "music": 0.0
+    },
+    {
+      "from": 493.36,
+      "to": 496.69,
+      "sid": 188,
+      "location": 2,
+      "content": "那也就是这预售占比最高的一个时期啊",
+      "music": 0.0
+    },
+    {
+      "from": 496.69,
+      "to": 497.83,
+      "sid": 189,
+      "location": 2,
+      "content": "这挺有意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 497.83,
+      "to": 499.09,
+      "sid": 190,
+      "location": 2,
+      "content": "再看看这个图二吧",
+      "music": 0.0
+    },
+    {
+      "from": 499.09,
+      "to": 504.109,
+      "sid": 191,
+      "location": 2,
+      "content": "图二呢就是说他这个开发的资金来源啊",
+      "music": 0.0
+    },
+    {
+      "from": 504.109,
+      "to": 505.409,
+      "sid": 192,
+      "location": 2,
+      "content": "啊举嗯",
+      "music": 0.0
+    },
+    {
+      "from": 505.409,
+      "to": 506.329,
+      "sid": 193,
+      "location": 2,
+      "content": "一个大头",
+      "music": 0.0
+    },
+    {
+      "from": 506.329,
+      "to": 509.829,
+      "sid": 194,
+      "location": 2,
+      "content": "接近一半的还是来自于之前的新房销售啊",
+      "music": 0.0
+    },
+    {
+      "from": 509.829,
+      "to": 513.06,
+      "sid": 195,
+      "location": 2,
+      "content": "他这个开发贷其实占比是不高的啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.06,
+      "to": 516.72,
+      "sid": 196,
+      "location": 2,
+      "content": "但是现在的话你不能把这两种资金去混同吗",
+      "music": 0.0
+    },
+    {
+      "from": 516.72,
+      "to": 519.37,
+      "sid": 197,
+      "location": 2,
+      "content": "那就只能啊依赖于开发贷",
+      "music": 0.0
+    },
+    {
+      "from": 519.37,
+      "to": 522.81,
+      "sid": 198,
+      "location": 2,
+      "content": "嗯还有呢这个地方其实也说了啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.81,
+      "to": 525.4,
+      "sid": 199,
+      "location": 2,
+      "content": "呃就是开发贷呢",
+      "music": 0.0
+    },
+    {
+      "from": 525.4,
+      "to": 527.48,
+      "sid": 200,
+      "location": 2,
+      "content": "唉本金的归还",
+      "music": 0.0
+    },
+    {
+      "from": 527.48,
+      "to": 528.04,
+      "sid": 201,
+      "location": 2,
+      "content": "你看啊",
+      "music": 0.0
+    },
+    {
+      "from": 528.04,
+      "to": 532.48,
+      "sid": 202,
+      "location": 2,
+      "content": "这这个地方首次是安排在项目竣工以后",
+      "music": 0.0
+    },
+    {
+      "from": 532.48,
+      "to": 533.16,
+      "sid": 203,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 533.16,
+      "to": 534.48,
+      "sid": 204,
+      "location": 2,
+      "content": "他留了个活画啊",
+      "music": 0.0
+    },
+    {
+      "from": 534.48,
+      "to": 537.57,
+      "sid": 205,
+      "location": 2,
+      "content": "你要和房企和银行如果商量好了啊",
+      "music": 0.0
+    },
+    {
+      "from": 537.57,
+      "to": 540.05,
+      "sid": 206,
+      "location": 2,
+      "content": "能想提前还也可以",
+      "music": 0.0
+    },
+    {
+      "from": 540.05,
+      "to": 543.51,
+      "sid": 207,
+      "location": 2,
+      "content": "那建设期间呢银行只能收利息",
+      "music": 0.0
+    },
+    {
+      "from": 543.51,
+      "to": 546.11,
+      "sid": 208,
+      "location": 2,
+      "content": "那这个风险啊大家不言而喻啊",
+      "music": 0.0
+    },
+    {
+      "from": 546.11,
+      "to": 548.37,
+      "sid": 209,
+      "location": 2,
+      "content": "只能收利息",
+      "music": 0.0
+    },
+    {
+      "from": 548.61,
+      "to": 551.19,
+      "sid": 210,
+      "location": 2,
+      "content": "这个地方呢咱们综合看下来啊",
+      "music": 0.0
+    },
+    {
+      "from": 551.19,
+      "to": 554.01,
+      "sid": 211,
+      "location": 2,
+      "content": "就这种效现房销售制是挺狠的啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.01,
+      "to": 555.65,
+      "sid": 212,
+      "location": 2,
+      "content": "又牺牲了地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 555.65,
+      "to": 556.91,
+      "sid": 213,
+      "location": 2,
+      "content": "牺牲了银行利益",
+      "music": 0.0
+    },
+    {
+      "from": 556.91,
+      "to": 558.97,
+      "sid": 214,
+      "location": 2,
+      "content": "当然而且房企",
+      "music": 0.0
+    },
+    {
+      "from": 558.97,
+      "to": 561.05,
+      "sid": 215,
+      "location": 2,
+      "content": "房企里边儿的很多的大量的央企",
+      "music": 0.0
+    },
+    {
+      "from": 561.05,
+      "to": 563.65,
+      "sid": 216,
+      "location": 2,
+      "content": "国企啊的利益也牺牲了",
+      "music": 0.0
+    },
+    {
+      "from": 563.65,
+      "to": 566.37,
+      "sid": 217,
+      "location": 2,
+      "content": "嗯这个呢怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 566.37,
+      "to": 568.49,
+      "sid": 218,
+      "location": 2,
+      "content": "为什么要做这么大的牺牲呢",
+      "music": 0.0
+    },
+    {
+      "from": 568.49,
+      "to": 569.21,
+      "sid": 219,
+      "location": 2,
+      "content": "愿意啊",
+      "music": 0.0
+    },
+    {
+      "from": 569.21,
+      "to": 573.05,
+      "sid": 220,
+      "location": 2,
+      "content": "我觉得呃一个点呢还是之前所谓的保交楼",
+      "music": 0.0
+    },
+    {
+      "from": 573.05,
+      "to": 575.93,
+      "sid": 221,
+      "location": 2,
+      "content": "以及即便你勉强保交楼",
+      "music": 0.0
+    },
+    {
+      "from": 575.93,
+      "to": 579.53,
+      "sid": 222,
+      "location": 2,
+      "content": "但是很多都是减配的或者劣质的配置的",
+      "music": 0.0
+    },
+    {
+      "from": 579.53,
+      "to": 582.02,
+      "sid": 223,
+      "location": 2,
+      "content": "造成了后边的物业费的危机",
+      "music": 0.0
+    },
+    {
+      "from": 582.02,
+      "to": 585.66,
+      "sid": 224,
+      "location": 2,
+      "content": "物业费的危机造成了比较大的这种社会的动荡",
+      "music": 0.0
+    },
+    {
+      "from": 585.66,
+      "to": 587.38,
+      "sid": 225,
+      "location": 2,
+      "content": "然后人家搞起业委会来嘛",
+      "music": 0.0
+    },
+    {
+      "from": 587.38,
+      "to": 590.6,
+      "sid": 226,
+      "location": 2,
+      "content": "我要替换掉原来的这种物业公司啊",
+      "music": 0.0
+    },
+    {
+      "from": 590.6,
+      "to": 591.42,
+      "sid": 227,
+      "location": 2,
+      "content": "物业公司",
+      "music": 0.0
+    },
+    {
+      "from": 591.42,
+      "to": 594.3,
+      "sid": 228,
+      "location": 2,
+      "content": "而且很多附属于的他们那些地产公司",
+      "music": 0.0
+    },
+    {
+      "from": 594.3,
+      "to": 595.62,
+      "sid": 229,
+      "location": 2,
+      "content": "比如万科啊",
+      "music": 0.0
+    },
+    {
+      "from": 595.62,
+      "to": 599.46,
+      "sid": 230,
+      "location": 2,
+      "content": "他自己的主业都是朝不保夕",
+      "music": 0.0
+    },
+    {
+      "from": 599.46,
+      "to": 602.64,
+      "sid": 231,
+      "location": 2,
+      "content": "嗯那你下边的物业质量就谈何质量呢",
+      "music": 0.0
+    },
+    {
+      "from": 602.64,
+      "to": 606.02,
+      "sid": 232,
+      "location": 2,
+      "content": "啊就是这一块儿带来的这整个的社会啊",
+      "music": 0.0
+    },
+    {
+      "from": 606.02,
+      "to": 607.74,
+      "sid": 233,
+      "location": 2,
+      "content": "动荡问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 607.74,
+      "to": 608.52,
+      "sid": 234,
+      "location": 2,
+      "content": "太大了",
+      "music": 0.0
+    },
+    {
+      "from": 608.52,
+      "to": 612.08,
+      "sid": 235,
+      "location": 2,
+      "content": "所以我宁愿说是呃",
+      "music": 0.0
+    },
+    {
+      "from": 612.08,
+      "to": 615.16,
+      "sid": 236,
+      "location": 2,
+      "content": "损害他这个金钱上或者经济上的利益",
+      "music": 0.0
+    },
+    {
+      "from": 615.16,
+      "to": 616.38,
+      "sid": 237,
+      "location": 2,
+      "content": "甚至地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 616.38,
+      "to": 619.31,
+      "sid": 238,
+      "location": 2,
+      "content": "那我也要啊保持整个的稳定",
+      "music": 0.0
+    },
+    {
+      "from": 619.31,
+      "to": 620.55,
+      "sid": 239,
+      "location": 2,
+      "content": "那其实这招呢",
+      "music": 0.0
+    },
+    {
+      "from": 620.55,
+      "to": 624.95,
+      "sid": 240,
+      "location": 2,
+      "content": "你你听就和当年的这个三道红线啊有点类似啊",
+      "music": 0.0
+    },
+    {
+      "from": 624.95,
+      "to": 626.55,
+      "sid": 241,
+      "location": 2,
+      "content": "也是要防风险嘛",
+      "music": 0.0
+    },
+    {
+      "from": 626.55,
+      "to": 627.95,
+      "sid": 242,
+      "location": 2,
+      "content": "三道红线当然了",
+      "music": 0.0
+    },
+    {
+      "from": 627.95,
+      "to": 631.209,
+      "sid": 243,
+      "location": 2,
+      "content": "嘶呃是不是也有一些大家认为它不好是吧",
+      "music": 0.0
+    },
+    {
+      "from": 631.209,
+      "to": 632.689,
+      "sid": 244,
+      "location": 2,
+      "content": "有点暴雷了啊",
+      "music": 0.0
+    },
+    {
+      "from": 632.689,
+      "to": 634.729,
+      "sid": 245,
+      "location": 2,
+      "content": "但是现在呢其实也是防风险",
+      "music": 0.0
+    },
+    {
+      "from": 634.729,
+      "to": 637.68,
+      "sid": 246,
+      "location": 2,
+      "content": "他防的风险主要是社会的风险",
+      "music": 0.0
+    },
+    {
+      "from": 637.68,
+      "to": 639.92,
+      "sid": 247,
+      "location": 2,
+      "content": "那最后这一篇呢",
+      "music": 0.0
+    },
+    {
+      "from": 639.92,
+      "to": 644.54,
+      "sid": 248,
+      "location": 2,
+      "content": "小魔啊看一下他对个人香港买房啊",
+      "music": 0.0
+    },
+    {
+      "from": 644.54,
+      "to": 648.06,
+      "sid": 249,
+      "location": 2,
+      "content": "可能有一个全面的监管",
+      "music": 0.0
+    },
+    {
+      "from": 648.06,
+      "to": 650.94,
+      "sid": 250,
+      "location": 2,
+      "content": "那这一块呢所谓的监管大家最后看啊",
+      "music": 0.0
+    },
+    {
+      "from": 650.94,
+      "to": 652.34,
+      "sid": 251,
+      "location": 2,
+      "content": "也是为了收税",
+      "music": 0.0
+    },
+    {
+      "from": 652.34,
+      "to": 657.84,
+      "sid": 252,
+      "location": 2,
+      "content": "那之前啊这个现房这前两篇讲的现房销售制呢",
+      "music": 0.0
+    },
+    {
+      "from": 657.84,
+      "to": 662.14,
+      "sid": 253,
+      "location": 2,
+      "content": "等于让地方政府在财政收入上进一步的出血啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.14,
+      "to": 664.38,
+      "sid": 254,
+      "location": 2,
+      "content": "呃那这个地方出钱",
+      "music": 0.0
+    },
+    {
+      "from": 664.38,
+      "to": 667.04,
+      "sid": 255,
+      "location": 2,
+      "content": "那他得找别的地方把钱挣回来啊",
+      "music": 0.0
+    },
+    {
+      "from": 667.04,
+      "to": 667.88,
+      "sid": 256,
+      "location": 2,
+      "content": "怎么挣呢",
+      "music": 0.0
+    },
+    {
+      "from": 667.88,
+      "to": 671.89,
+      "sid": 257,
+      "location": 2,
+      "content": "那在境外进一步的加紧啊",
+      "music": 0.0
+    },
+    {
+      "from": 671.89,
+      "to": 675.05,
+      "sid": 258,
+      "location": 2,
+      "content": "境外收入的税收征集啊",
+      "music": 0.0
+    },
+    {
+      "from": 675.05,
+      "to": 677.11,
+      "sid": 259,
+      "location": 2,
+      "content": "这个就是重中之重",
+      "music": 0.0
+    },
+    {
+      "from": 677.11,
+      "to": 680.09,
+      "sid": 260,
+      "location": 2,
+      "content": "那就是早一点的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 687.909,
+      "to": 690.62,
+      "sid": 261,
+      "location": 2,
+      "content": "修订的征求意见稿啊",
+      "music": 0.0
+    },
+    {
+      "from": 690.62,
+      "to": 697.53,
+      "sid": 262,
+      "location": 2,
+      "content": "那整个的监管范围呢覆盖了境内居民个人啊",
+      "music": 0.0
+    },
+    {
+      "from": 697.53,
+      "to": 702.39,
+      "sid": 263,
+      "location": 2,
+      "content": "这一次呢主要这儿还提到了一个使用权的",
+      "music": 0.0
+    },
+    {
+      "from": 702.39,
+      "to": 703.73,
+      "sid": 264,
+      "location": 2,
+      "content": "土地使用权的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 703.73,
+      "to": 706.7,
+      "sid": 265,
+      "location": 2,
+      "content": "他这个征求意见里边那大家大家都担心啊",
+      "music": 0.0
+    },
+    {
+      "from": 706.7,
+      "to": 710.77,
+      "sid": 266,
+      "location": 2,
+      "content": "那我去香港买房是不是也会被监管了呢",
+      "music": 0.0
+    },
+    {
+      "from": 710.77,
+      "to": 714.27,
+      "sid": 267,
+      "location": 2,
+      "content": "啊这一篇都提了六个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 714.27,
+      "to": 716.349,
+      "sid": 268,
+      "location": 2,
+      "content": "重点来回应啊",
+      "music": 0.0
+    },
+    {
+      "from": 716.349,
+      "to": 719.319,
+      "sid": 269,
+      "location": 2,
+      "content": "这些投资者比较关心的内容",
+      "music": 0.0
+    },
+    {
+      "from": 719.599,
+      "to": 721.839,
+      "sid": 270,
+      "location": 2,
+      "content": "唉这一个要点就不看了啊",
+      "music": 0.0
+    },
+    {
+      "from": 721.839,
+      "to": 724.37,
+      "sid": 271,
+      "location": 2,
+      "content": "其实后边那六大问题都覆盖了",
+      "music": 0.0
+    },
+    {
+      "from": 724.37,
+      "to": 727.05,
+      "sid": 272,
+      "location": 2,
+      "content": "主要有什么新的内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 727.05,
+      "to": 729.82,
+      "sid": 273,
+      "location": 2,
+      "content": "其实呢就是哎你看啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.82,
+      "to": 731.46,
+      "sid": 274,
+      "location": 2,
+      "content": "这前面就说了一下他的背景",
+      "music": 0.0
+    },
+    {
+      "from": 731.46,
+      "to": 732.36,
+      "sid": 275,
+      "location": 2,
+      "content": "这发改委啊",
+      "music": 0.0
+    },
+    {
+      "from": 732.36,
+      "to": 734.32,
+      "sid": 276,
+      "location": 2,
+      "content": "这就对外投资管理办法呢",
+      "music": 0.0
+    },
+    {
+      "from": 734.32,
+      "to": 736.02,
+      "sid": 277,
+      "location": 2,
+      "content": "主要新的内容就这几个",
+      "music": 0.0
+    },
+    {
+      "from": 736.02,
+      "to": 738.76,
+      "sid": 278,
+      "location": 2,
+      "content": "首先呢第一是监管对象的扩充啊",
+      "music": 0.0
+    },
+    {
+      "from": 738.76,
+      "to": 741.19,
+      "sid": 279,
+      "location": 2,
+      "content": "把这个resident individuals啊",
+      "music": 0.0
+    },
+    {
+      "from": 741.19,
+      "to": 744.49,
+      "sid": 280,
+      "location": 2,
+      "content": "居民境内居民个人给覆盖了",
+      "music": 0.0
+    },
+    {
+      "from": 744.49,
+      "to": 748.36,
+      "sid": 281,
+      "location": 2,
+      "content": "然后呢就对这个境外再投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 748.36,
+      "to": 751.81,
+      "sid": 282,
+      "location": 2,
+      "content": "确定为对外投资的一类啊",
+      "music": 0.0
+    },
+    {
+      "from": 751.81,
+      "to": 754.45,
+      "sid": 283,
+      "location": 2,
+      "content": "而且把这个上限给取消了啊",
+      "music": 0.0
+    },
+    {
+      "from": 754.45,
+      "to": 756.81,
+      "sid": 284,
+      "location": 2,
+      "content": "原来有一个境外再投资的",
+      "music": 0.0
+    },
+    {
+      "from": 756.81,
+      "to": 759.5,
+      "sid": 285,
+      "location": 2,
+      "content": "备案的门槛是嚯3亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 759.5,
+      "to": 760.38,
+      "sid": 286,
+      "location": 2,
+      "content": "这相当高啊",
+      "music": 0.0
+    },
+    {
+      "from": 760.38,
+      "to": 762.1,
+      "sid": 287,
+      "location": 2,
+      "content": "那只有大户才搞得起啊",
+      "music": 0.0
+    },
+    {
+      "from": 762.1,
+      "to": 762.98,
+      "sid": 288,
+      "location": 2,
+      "content": "把这个取消了",
+      "music": 0.0
+    },
+    {
+      "from": 762.98,
+      "to": 765.78,
+      "sid": 289,
+      "location": 2,
+      "content": "你就投一点小钱也要抓你啊",
+      "music": 0.0
+    },
+    {
+      "from": 765.78,
+      "to": 766.9,
+      "sid": 290,
+      "location": 2,
+      "content": "也要监管你是吧",
+      "music": 0.0
+    },
+    {
+      "from": 766.9,
+      "to": 767.68,
+      "sid": 291,
+      "location": 2,
+      "content": "不是抓你",
+      "music": 0.0
+    },
+    {
+      "from": 767.68,
+      "to": 771.1,
+      "sid": 292,
+      "location": 2,
+      "content": "那这个呃当然有一些或豁免啊",
+      "music": 0.0
+    },
+    {
+      "from": 771.1,
+      "to": 772.79,
+      "sid": 293,
+      "location": 2,
+      "content": "比如说q d ii啊",
+      "music": 0.0
+    },
+    {
+      "from": 772.79,
+      "to": 774.55,
+      "sid": 294,
+      "location": 2,
+      "content": "或者这个港股通啊",
+      "music": 0.0
+    },
+    {
+      "from": 774.55,
+      "to": 775.79,
+      "sid": 295,
+      "location": 2,
+      "content": "跨境理财通啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.79,
+      "to": 777.19,
+      "sid": 296,
+      "location": 2,
+      "content": "这些是豁免的",
+      "music": 0.0
+    },
+    {
+      "from": 777.19,
+      "to": 780.089,
+      "sid": 297,
+      "location": 2,
+      "content": "那咱们就正式来看这六大问题吧",
+      "music": 0.0
+    },
+    {
+      "from": 780.089,
+      "to": 780.889,
+      "sid": 298,
+      "location": 2,
+      "content": "六大问题",
+      "music": 0.0
+    },
+    {
+      "from": 780.889,
+      "to": 783.189,
+      "sid": 299,
+      "location": 2,
+      "content": "首先第一呢其实没啥",
+      "music": 0.0
+    },
+    {
+      "from": 783.189,
+      "to": 785.669,
+      "sid": 300,
+      "location": 2,
+      "content": "就问说这个是一个新增内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 785.669,
+      "to": 786.869,
+      "sid": 301,
+      "location": 2,
+      "content": "其实并不是啊",
+      "music": 0.0
+    },
+    {
+      "from": 786.869,
+      "to": 792.66,
+      "sid": 302,
+      "location": 2,
+      "content": "其实17年的发改委的旧版里边儿呢也说了",
+      "music": 0.0
+    },
+    {
+      "from": 792.66,
+      "to": 795.09,
+      "sid": 303,
+      "location": 2,
+      "content": "有房地产这一块儿啊",
+      "music": 0.0
+    },
+    {
+      "from": 795.09,
+      "to": 798.13,
+      "sid": 304,
+      "location": 2,
+      "content": "就这中国这好多呀都是框架给你搭好了",
+      "music": 0.0
+    },
+    {
+      "from": 798.13,
+      "to": 799.49,
+      "sid": 305,
+      "location": 2,
+      "content": "就是一执行的问题嘛",
+      "music": 0.0
+    },
+    {
+      "from": 799.49,
+      "to": 804.76,
+      "sid": 306,
+      "location": 2,
+      "content": "那最近这些年呢那个税啊明显就加强了执行啊",
+      "music": 0.0
+    },
+    {
+      "from": 804.76,
+      "to": 807.02,
+      "sid": 307,
+      "location": 2,
+      "content": "用用这让你用个人所得税app啊",
+      "music": 0.0
+    },
+    {
+      "from": 807.02,
+      "to": 809.36,
+      "sid": 308,
+      "location": 2,
+      "content": "你说过去这个法律法规就没有吗",
+      "music": 0.0
+    },
+    {
+      "from": 809.36,
+      "to": 811.119,
+      "sid": 309,
+      "location": 2,
+      "content": "啊当然也有啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.119,
+      "to": 812.579,
+      "sid": 310,
+      "location": 2,
+      "content": "现在就加强了执行",
+      "music": 0.0
+    },
+    {
+      "from": 812.579,
+      "to": 816.599,
+      "sid": 311,
+      "location": 2,
+      "content": "包括你说把一些税收洼地给取消了啊",
+      "music": 0.0
+    },
+    {
+      "from": 816.599,
+      "to": 820.509,
+      "sid": 312,
+      "location": 2,
+      "content": "那其实过去呢那就是他放松了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 820.509,
+      "to": 823.67,
+      "sid": 313,
+      "location": 2,
+      "content": "让你各地那种那睁一只眼闭一只眼",
+      "music": 0.0
+    },
+    {
+      "from": 823.67,
+      "to": 825.19,
+      "sid": 314,
+      "location": 2,
+      "content": "现在还重新啊",
+      "music": 0.0
+    },
+    {
+      "from": 825.19,
+      "to": 827.63,
+      "sid": 315,
+      "location": 2,
+      "content": "给你这些公司让你补税啊",
+      "music": 0.0
+    },
+    {
+      "from": 827.63,
+      "to": 830.12,
+      "sid": 316,
+      "location": 2,
+      "content": "说你这个税收条款用的不合理啊",
+      "music": 0.0
+    },
+    {
+      "from": 830.12,
+      "to": 831.6,
+      "sid": 317,
+      "location": 2,
+      "content": "甚至包括那天讲了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 831.6,
+      "to": 833.12,
+      "sid": 318,
+      "location": 2,
+      "content": "一些国企也被迫",
+      "music": 0.0
+    },
+    {
+      "from": 833.12,
+      "to": 834.48,
+      "sid": 319,
+      "location": 2,
+      "content": "你像北大荒这样的",
+      "music": 0.0
+    },
+    {
+      "from": 834.48,
+      "to": 835.68,
+      "sid": 320,
+      "location": 2,
+      "content": "这对吧",
+      "music": 0.0
+    },
+    {
+      "from": 840.19,
+      "to": 841.61,
+      "sid": 321,
+      "location": 2,
+      "content": "这不是新增变化",
+      "music": 0.0
+    },
+    {
+      "from": 841.61,
+      "to": 842.65,
+      "sid": 322,
+      "location": 2,
+      "content": "接着看第二问",
+      "music": 0.0
+    },
+    {
+      "from": 842.65,
+      "to": 843.81,
+      "sid": 323,
+      "location": 2,
+      "content": "第二问问呢",
+      "music": 0.0
+    },
+    {
+      "from": 843.81,
+      "to": 848.28,
+      "sid": 324,
+      "location": 2,
+      "content": "说这个境内居民个人试试用这个范围",
+      "music": 0.0
+    },
+    {
+      "from": 848.28,
+      "to": 850.04,
+      "sid": 325,
+      "location": 2,
+      "content": "那是否表示呢",
+      "music": 0.0
+    },
+    {
+      "from": 850.04,
+      "to": 852.92,
+      "sid": 326,
+      "location": 2,
+      "content": "所有的内地税务居民到香港买房",
+      "music": 0.0
+    },
+    {
+      "from": 852.92,
+      "to": 855.19,
+      "sid": 327,
+      "location": 2,
+      "content": "都得需要发改委审批",
+      "music": 0.0
+    },
+    {
+      "from": 855.19,
+      "to": 858.2,
+      "sid": 328,
+      "location": 2,
+      "content": "哎这个没有规定啊",
+      "music": 0.0
+    },
+    {
+      "from": 858.2,
+      "to": 861.2,
+      "sid": 329,
+      "location": 2,
+      "content": "那就其实就变成了一个灰色地带嘛",
+      "music": 0.0
+    },
+    {
+      "from": 861.2,
+      "to": 861.96,
+      "sid": 330,
+      "location": 2,
+      "content": "这不是也说吗",
+      "music": 0.0
+    },
+    {
+      "from": 861.96,
+      "to": 862.76,
+      "sid": 331,
+      "location": 2,
+      "content": "Green area",
+      "music": 0.0
+    },
+    {
+      "from": 862.76,
+      "to": 863.88,
+      "sid": 332,
+      "location": 2,
+      "content": "这这还写错了吧",
+      "music": 0.0
+    },
+    {
+      "from": 863.88,
+      "to": 865.46,
+      "sid": 333,
+      "location": 2,
+      "content": "应该GREY嗯",
+      "music": 0.0
+    },
+    {
+      "from": 865.46,
+      "to": 870.2,
+      "sid": 334,
+      "location": 2,
+      "content": "灰色地带呢就是那我以后唉可以再让你再补啊",
+      "music": 0.0
+    },
+    {
+      "from": 870.2,
+      "to": 871.14,
+      "sid": 335,
+      "location": 2,
+      "content": "补审批啊",
+      "music": 0.0
+    },
+    {
+      "from": 871.14,
+      "to": 872.62,
+      "sid": 336,
+      "location": 2,
+      "content": "说你没没报批啊",
+      "music": 0.0
+    },
+    {
+      "from": 872.62,
+      "to": 873.38,
+      "sid": 337,
+      "location": 2,
+      "content": "有问题",
+      "music": 0.0
+    },
+    {
+      "from": 873.38,
+      "to": 878.42,
+      "sid": 338,
+      "location": 2,
+      "content": "那当然呢现在在实践中的监管范围呢",
+      "music": 0.0
+    },
+    {
+      "from": 878.42,
+      "to": 883.999,
+      "sid": 339,
+      "location": 2,
+      "content": "一般指的是就是这种经营性的房地产投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 883.999,
+      "to": 885.799,
+      "sid": 340,
+      "location": 2,
+      "content": "比如说他举了个例子",
+      "music": 0.0
+    },
+    {
+      "from": 885.799,
+      "to": 890.16,
+      "sid": 341,
+      "location": 2,
+      "content": "像那阿里呢在铜锣湾一号买了一个写字楼啊",
+      "music": 0.0
+    },
+    {
+      "from": 890.16,
+      "to": 892.08,
+      "sid": 342,
+      "location": 2,
+      "content": "他就是即便自用呢",
+      "music": 0.0
+    },
+    {
+      "from": 894.3,
+      "to": 898.31,
+      "sid": 343,
+      "location": 2,
+      "content": "但内地居民购房呢现在没有清晰的界定",
+      "music": 0.0
+    },
+    {
+      "from": 898.31,
+      "to": 900.39,
+      "sid": 344,
+      "location": 2,
+      "content": "呃小魔认为呢",
+      "music": 0.0
+    },
+    {
+      "from": 900.39,
+      "to": 903.45,
+      "sid": 345,
+      "location": 2,
+      "content": "哎如果你是一个自住",
+      "music": 0.0
+    },
+    {
+      "from": 903.45,
+      "to": 905.65,
+      "sid": 346,
+      "location": 2,
+      "content": "self youth这种住房呢",
+      "music": 0.0
+    },
+    {
+      "from": 905.65,
+      "to": 907.41,
+      "sid": 347,
+      "location": 2,
+      "content": "应该不需要审批",
+      "music": 0.0
+    },
+    {
+      "from": 907.41,
+      "to": 909.07,
+      "sid": 348,
+      "location": 2,
+      "content": "但是呢没说明啊",
+      "music": 0.0
+    },
+    {
+      "from": 909.07,
+      "to": 911.13,
+      "sid": 349,
+      "location": 2,
+      "content": "可能呃这个是作为",
+      "music": 0.0
+    },
+    {
+      "from": 911.13,
+      "to": 915.59,
+      "sid": 350,
+      "location": 2,
+      "content": "那大家可能就担心啊啊就可能不敢买",
+      "music": 0.0
+    },
+    {
+      "from": 915.59,
+      "to": 917.65,
+      "sid": 351,
+      "location": 2,
+      "content": "那第三个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 920.73,
+      "to": 922.95,
+      "sid": 352,
+      "location": 2,
+      "content": "那会来带来哪些影响啊",
+      "music": 0.0
+    },
+    {
+      "from": 922.95,
+      "to": 925.73,
+      "sid": 353,
+      "location": 2,
+      "content": "呃他就先说了好的一方面啊",
+      "music": 0.0
+    },
+    {
+      "from": 928.53,
+      "to": 931.86,
+      "sid": 354,
+      "location": 2,
+      "content": "诶就说明其实现在是允许啊",
+      "music": 0.0
+    },
+    {
+      "from": 931.86,
+      "to": 934.02,
+      "sid": 355,
+      "location": 2,
+      "content": "内地居民去香港买房的",
+      "music": 0.0
+    },
+    {
+      "from": 934.02,
+      "to": 939.7,
+      "sid": 356,
+      "location": 2,
+      "content": "但是呢唉不能让你用内地的钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 939.7,
+      "to": 942.44,
+      "sid": 357,
+      "location": 2,
+      "content": "换成外汇去买房对吧",
+      "music": 0.0
+    },
+    {
+      "from": 942.44,
+      "to": 943.86,
+      "sid": 358,
+      "location": 2,
+      "content": "他举了一个例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 943.86,
+      "to": 947.7,
+      "sid": 359,
+      "location": 2,
+      "content": "就说现在你这不是每年可以有5万美元的",
+      "music": 0.0
+    },
+    {
+      "from": 947.7,
+      "to": 949.14,
+      "sid": 360,
+      "location": 2,
+      "content": "这种外汇额度吗",
+      "music": 0.0
+    },
+    {
+      "from": 949.14,
+      "to": 951.58,
+      "sid": 361,
+      "location": 2,
+      "content": "但你5万美元购汇的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 951.58,
+      "to": 954.26,
+      "sid": 362,
+      "location": 2,
+      "content": "你不能填说我买房啊",
+      "music": 0.0
+    },
+    {
+      "from": 954.26,
+      "to": 956.62,
+      "sid": 363,
+      "location": 2,
+      "content": "这个是一直以来都是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 956.62,
+      "to": 960.28,
+      "sid": 364,
+      "location": 2,
+      "content": "所以那如果你内地居民去香港买房",
+      "music": 0.0
+    },
+    {
+      "from": 960.28,
+      "to": 965.23,
+      "sid": 365,
+      "location": 2,
+      "content": "那你就资金的来源必须是内地以外啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.23,
+      "to": 968.31,
+      "sid": 366,
+      "location": 2,
+      "content": "比如在香港啊取得的像工资啊",
+      "music": 0.0
+    },
+    {
+      "from": 968.31,
+      "to": 973.04,
+      "sid": 367,
+      "location": 2,
+      "content": "还有什么分红啊啊这一类的都可以用于买房",
+      "music": 0.0
+    },
+    {
+      "from": 975.52,
+      "to": 977.58,
+      "sid": 368,
+      "location": 2,
+      "content": "他认为啊如果是自住需求",
+      "music": 0.0
+    },
+    {
+      "from": 977.58,
+      "to": 979.75,
+      "sid": 369,
+      "location": 2,
+      "content": "资金的来源合法",
+      "music": 0.0
+    },
+    {
+      "from": 979.75,
+      "to": 981.47,
+      "sid": 370,
+      "location": 2,
+      "content": "那也没有什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 981.47,
+      "to": 984.12,
+      "sid": 371,
+      "location": 2,
+      "content": "如果你是要投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 984.12,
+      "to": 985.72,
+      "sid": 372,
+      "location": 2,
+      "content": "那如果他要审批",
+      "music": 0.0
+    },
+    {
+      "from": 985.72,
+      "to": 988.54,
+      "sid": 373,
+      "location": 2,
+      "content": "那就是审批投资需要注意的",
+      "music": 0.0
+    },
+    {
+      "from": 988.54,
+      "to": 991.16,
+      "sid": 374,
+      "location": 2,
+      "content": "就是一个税费的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 991.16,
+      "to": 993.14,
+      "sid": 375,
+      "location": 2,
+      "content": "后边会说下一问吧",
+      "music": 0.0
+    },
+    {
+      "from": 993.14,
+      "to": 993.88,
+      "sid": 376,
+      "location": 2,
+      "content": "应该就是",
+      "music": 0.0
+    },
+    {
+      "from": 993.88,
+      "to": 995.44,
+      "sid": 377,
+      "location": 2,
+      "content": "但是呢他这也说了",
+      "music": 0.0
+    },
+    {
+      "from": 995.44,
+      "to": 1000.21,
+      "sid": 378,
+      "location": 2,
+      "content": "你这种啊多一到手会让人感觉有疑惑",
+      "music": 0.0
+    },
+    {
+      "from": 1000.21,
+      "to": 1003.01,
+      "sid": 379,
+      "location": 2,
+      "content": "那就会吓走一些潜在的买家啊",
+      "music": 0.0
+    },
+    {
+      "from": 1003.01,
+      "to": 1007.43,
+      "sid": 380,
+      "location": 2,
+      "content": "那有些人的资金来源可能就不那么正式啊",
+      "music": 0.0
+    },
+    {
+      "from": 1007.43,
+      "to": 1009.78,
+      "sid": 381,
+      "location": 2,
+      "content": "正规合理合法",
+      "music": 0.0
+    },
+    {
+      "from": 1010.02,
+      "to": 1012.9,
+      "sid": 382,
+      "location": 2,
+      "content": "第四问呢说的就是说啊",
+      "music": 0.0
+    },
+    {
+      "from": 1012.9,
+      "to": 1015.22,
+      "sid": 383,
+      "location": 2,
+      "content": "如果我就算不需要发改委审批了",
+      "music": 0.0
+    },
+    {
+      "from": 1015.22,
+      "to": 1016.18,
+      "sid": 384,
+      "location": 2,
+      "content": "是不是就没事了",
+      "music": 0.0
+    },
+    {
+      "from": 1016.18,
+      "to": 1017.5,
+      "sid": 385,
+      "location": 2,
+      "content": "那也不是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1017.5,
+      "to": 1019.97,
+      "sid": 386,
+      "location": 2,
+      "content": "那你嗯就没有发改委审批",
+      "music": 0.0
+    },
+    {
+      "from": 1019.97,
+      "to": 1022.59,
+      "sid": 387,
+      "location": 2,
+      "content": "你这个纳税还是得纳啊",
+      "music": 0.0
+    },
+    {
+      "from": 1022.59,
+      "to": 1024.97,
+      "sid": 388,
+      "location": 2,
+      "content": "就现在你如果是房租的话",
+      "music": 0.0
+    },
+    {
+      "from": 1024.97,
+      "to": 1027.329,
+      "sid": 389,
+      "location": 2,
+      "content": "就得交20%的税率",
+      "music": 0.0
+    },
+    {
+      "from": 1027.329,
+      "to": 1031.48,
+      "sid": 390,
+      "location": 2,
+      "content": "那香港那边呢已经收了15%的物业税啊",
+      "music": 0.0
+    },
+    {
+      "from": 1031.48,
+      "to": 1035.48,
+      "sid": 391,
+      "location": 2,
+      "content": "那因为跟香港肯定有这种避免双重征收嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1035.48,
+      "to": 1037.8,
+      "sid": 392,
+      "location": 2,
+      "content": "那你就额外交一个5%哈",
+      "music": 0.0
+    },
+    {
+      "from": 1037.8,
+      "to": 1039.139,
+      "sid": 393,
+      "location": 2,
+      "content": "也不算太多",
+      "music": 0.0
+    },
+    {
+      "from": 1039.139,
+      "to": 1042.299,
+      "sid": 394,
+      "location": 2,
+      "content": "但是呢如果你还有这个房产升值",
+      "music": 0.0
+    },
+    {
+      "from": 1042.299,
+      "to": 1043.419,
+      "sid": 395,
+      "location": 2,
+      "content": "你把房子卖掉",
+      "music": 0.0
+    },
+    {
+      "from": 1043.419,
+      "to": 1045.42,
+      "sid": 396,
+      "location": 2,
+      "content": "有一个资本利得的税啊",
+      "music": 0.0
+    },
+    {
+      "from": 1045.42,
+      "to": 1048.26,
+      "sid": 397,
+      "location": 2,
+      "content": "那香港本身是不征收资本利夺的",
+      "music": 0.0
+    },
+    {
+      "from": 1048.26,
+      "to": 1050.78,
+      "sid": 398,
+      "location": 2,
+      "content": "但是你是内地的税务居民",
+      "music": 0.0
+    },
+    {
+      "from": 1050.78,
+      "to": 1055.93,
+      "sid": 399,
+      "location": 2,
+      "content": "你在香港啊享受了这种房价的呃资本利得",
+      "music": 0.0
+    },
+    {
+      "from": 1055.93,
+      "to": 1057.65,
+      "sid": 400,
+      "location": 2,
+      "content": "那你就得交税了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1057.65,
+      "to": 1061.05,
+      "sid": 401,
+      "location": 2,
+      "content": "这一块20%你还是躲不掉的",
+      "music": 0.0
+    },
+    {
+      "from": 1061.05,
+      "to": 1065.52,
+      "sid": 402,
+      "location": 2,
+      "content": "这一块呢就会比较大的降低啊",
+      "music": 0.0
+    },
+    {
+      "from": 1065.52,
+      "to": 1068.62,
+      "sid": 403,
+      "location": 2,
+      "content": "内地居民去香港买房的这么一个动力啊",
+      "music": 0.0
+    },
+    {
+      "from": 1068.62,
+      "to": 1069.86,
+      "sid": 404,
+      "location": 2,
+      "content": "这还挺难的",
+      "music": 0.0
+    },
+    {
+      "from": 1069.86,
+      "to": 1072.8,
+      "sid": 405,
+      "location": 2,
+      "content": "那就还是看这个执行力度啊",
+      "music": 0.0
+    },
+    {
+      "from": 1072.8,
+      "to": 1073.75,
+      "sid": 406,
+      "location": 2,
+      "content": "这对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1073.75,
+      "to": 1075.63,
+      "sid": 407,
+      "location": 2,
+      "content": "这种税法你20%的",
+      "music": 0.0
+    },
+    {
+      "from": 1075.63,
+      "to": 1077.15,
+      "sid": 408,
+      "location": 2,
+      "content": "那原来其实就有啊",
+      "music": 0.0
+    },
+    {
+      "from": 1077.15,
+      "to": 1081.47,
+      "sid": 409,
+      "location": 2,
+      "content": "那就是你所谓的税法里的财产这块的收入吗",
+      "music": 0.0
+    },
+    {
+      "from": 1081.47,
+      "to": 1086.79,
+      "sid": 410,
+      "location": 2,
+      "content": "啊那就现在说呢已经有一些包括像信托呀",
+      "music": 0.0
+    },
+    {
+      "from": 1086.79,
+      "to": 1088.37,
+      "sid": 411,
+      "location": 2,
+      "content": "都开始征税",
+      "music": 0.0
+    },
+    {
+      "from": 1088.37,
+      "to": 1090.47,
+      "sid": 412,
+      "location": 2,
+      "content": "那大概率可能啊",
+      "music": 0.0
+    },
+    {
+      "from": 1090.47,
+      "to": 1094.31,
+      "sid": 413,
+      "location": 2,
+      "content": "按照这现在财政吃紧的这个状态呢",
+      "music": 0.0
+    },
+    {
+      "from": 1094.31,
+      "to": 1095.89,
+      "sid": 414,
+      "location": 2,
+      "content": "那你这个卖房啊",
+      "music": 0.0
+    },
+    {
+      "from": 1095.89,
+      "to": 1097.05,
+      "sid": 415,
+      "location": 2,
+      "content": "如果资本利得",
+      "music": 0.0
+    },
+    {
+      "from": 1097.05,
+      "to": 1099.61,
+      "sid": 416,
+      "location": 2,
+      "content": "那应该就有税是跑不了的",
+      "music": 0.0
+    },
+    {
+      "from": 1099.61,
+      "to": 1102.95,
+      "sid": 417,
+      "location": 2,
+      "content": "而且第五问呢说这个CRS呢",
+      "music": 0.0
+    },
+    {
+      "from": 1102.95,
+      "to": 1105.35,
+      "sid": 418,
+      "location": 2,
+      "content": "呃之前我好像讲过",
+      "music": 0.0
+    },
+    {
+      "from": 1105.35,
+      "to": 1106.43,
+      "sid": 419,
+      "location": 2,
+      "content": "忘了是哪家的了",
+      "music": 0.0
+    },
+    {
+      "from": 1106.43,
+      "to": 1110.02,
+      "sid": 420,
+      "location": 2,
+      "content": "也说这CRS其实是管不了房地产的诶",
+      "music": 0.0
+    },
+    {
+      "from": 1110.02,
+      "to": 1113.87,
+      "sid": 421,
+      "location": 2,
+      "content": "但是小魔认为呢这也没什么管不了的",
+      "music": 0.0
+    },
+    {
+      "from": 1113.87,
+      "to": 1115.47,
+      "sid": 422,
+      "location": 2,
+      "content": "现在虽然没覆盖呢",
+      "music": 0.0
+    },
+    {
+      "from": 1115.47,
+      "to": 1117.29,
+      "sid": 423,
+      "location": 2,
+      "content": "以后可能需要",
+      "music": 0.0
+    },
+    {
+      "from": 1117.29,
+      "to": 1119.79,
+      "sid": 424,
+      "location": 2,
+      "content": "当然他认为呢这个执行啊",
+      "music": 0.0
+    },
+    {
+      "from": 1119.79,
+      "to": 1121.71,
+      "sid": 425,
+      "location": 2,
+      "content": "可能需要比较长的时间",
+      "music": 0.0
+    },
+    {
+      "from": 1121.71,
+      "to": 1125.44,
+      "sid": 426,
+      "location": 2,
+      "content": "短期之内呢不会让你新增房地产申报",
+      "music": 0.0
+    },
+    {
+      "from": 1125.44,
+      "to": 1129.3,
+      "sid": 427,
+      "location": 2,
+      "content": "但是呢你要是内地的税务居民啊",
+      "music": 0.0
+    },
+    {
+      "from": 1129.3,
+      "to": 1135.19,
+      "sid": 428,
+      "location": 2,
+      "content": "你还是得向税务机关报你在境外的房地产啊",
+      "music": 0.0
+    },
+    {
+      "from": 1135.19,
+      "to": 1136.21,
+      "sid": 429,
+      "location": 2,
+      "content": "资产啊",
+      "music": 0.0
+    },
+    {
+      "from": 1136.21,
+      "to": 1137.57,
+      "sid": 430,
+      "location": 2,
+      "content": "包括香港的房地产",
+      "music": 0.0
+    },
+    {
+      "from": 1137.57,
+      "to": 1142.2,
+      "sid": 431,
+      "location": 2,
+      "content": "那如果说现在要开始强化征管啊",
+      "music": 0.0
+    },
+    {
+      "from": 1142.2,
+      "to": 1144.7,
+      "sid": 432,
+      "location": 2,
+      "content": "他不一定走CRS对吧",
+      "music": 0.0
+    },
+    {
+      "from": 1144.7,
+      "to": 1147.82,
+      "sid": 433,
+      "location": 2,
+      "content": "但他也能查到你在香港的房产",
+      "music": 0.0
+    },
+    {
+      "from": 1147.82,
+      "to": 1149.62,
+      "sid": 434,
+      "location": 2,
+      "content": "当然他这也说了",
+      "music": 0.0
+    },
+    {
+      "from": 1149.62,
+      "to": 1154.16,
+      "sid": 435,
+      "location": 2,
+      "content": "你如果是香港以外的其他的境外的房产呢",
+      "music": 0.0
+    },
+    {
+      "from": 1154.16,
+      "to": 1157.74,
+      "sid": 436,
+      "location": 2,
+      "content": "这个难度还是比较大的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1157.74,
+      "to": 1158.64,
+      "sid": 437,
+      "location": 2,
+      "content": "就很难",
+      "music": 0.0
+    },
+    {
+      "from": 1158.64,
+      "to": 1161.86,
+      "sid": 438,
+      "location": 2,
+      "content": "那这你要查房产得去人家国家",
+      "music": 0.0
+    },
+    {
+      "from": 1161.86,
+      "to": 1164.2,
+      "sid": 439,
+      "location": 2,
+      "content": "这个难度反正比较大",
+      "music": 0.0
+    },
+    {
+      "from": 1164.2,
+      "to": 1167.28,
+      "sid": 440,
+      "location": 2,
+      "content": "那最后一个呢压轴的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1167.28,
+      "to": 1170.86,
+      "sid": 441,
+      "location": 2,
+      "content": "小魔认为他们最大的担忧是什么呀",
+      "music": 0.0
+    },
+    {
+      "from": 1170.86,
+      "to": 1174.8,
+      "sid": 442,
+      "location": 2,
+      "content": "他们最大的担忧不是在于所谓的资本流出管制",
+      "music": 0.0
+    },
+    {
+      "from": 1174.8,
+      "to": 1178.5,
+      "sid": 443,
+      "location": 2,
+      "content": "也不是在于所谓的内地居民的房产",
+      "music": 0.0
+    },
+    {
+      "from": 1178.5,
+      "to": 1180.11,
+      "sid": 444,
+      "location": 2,
+      "content": "的全球征税啊",
+      "music": 0.0
+    },
+    {
+      "from": 1180.11,
+      "to": 1184.25,
+      "sid": 445,
+      "location": 2,
+      "content": "这两个都不是小魔最担心的事儿",
+      "music": 0.0
+    },
+    {
+      "from": 1184.25,
+      "to": 1185.49,
+      "sid": 446,
+      "location": 2,
+      "content": "那因为为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1185.49,
+      "to": 1189.38,
+      "sid": 447,
+      "location": 2,
+      "content": "哎因为比如说呃资本流出管制呢",
+      "music": 0.0
+    },
+    {
+      "from": 1189.38,
+      "to": 1190.4,
+      "sid": 448,
+      "location": 2,
+      "content": "他们统计啊",
+      "music": 0.0
+    },
+    {
+      "from": 1190.4,
+      "to": 1194.68,
+      "sid": 449,
+      "location": 2,
+      "content": "内地买家占香港住宅成交套数的29%",
+      "music": 0.0
+    },
+    {
+      "from": 1194.68,
+      "to": 1196.88,
+      "sid": 450,
+      "location": 2,
+      "content": "成交金额的37%",
+      "music": 0.0
+    },
+    {
+      "from": 1196.88,
+      "to": 1199.18,
+      "sid": 451,
+      "location": 2,
+      "content": "那大部分都是定居香港",
+      "music": 0.0
+    },
+    {
+      "from": 1199.18,
+      "to": 1201.54,
+      "sid": 452,
+      "location": 2,
+      "content": "具备真实需求的这些人啊",
+      "music": 0.0
+    },
+    {
+      "from": 1201.54,
+      "to": 1204.94,
+      "sid": 453,
+      "location": 2,
+      "content": "他们估算呢就我人住在内地",
+      "music": 0.0
+    },
+    {
+      "from": 1204.94,
+      "to": 1206.46,
+      "sid": 454,
+      "location": 2,
+      "content": "我只是投资用的呢",
+      "music": 0.0
+    },
+    {
+      "from": 1206.46,
+      "to": 1208.36,
+      "sid": 455,
+      "location": 2,
+      "content": "可能只是5~10",
+      "music": 0.0
+    },
+    {
+      "from": 1208.36,
+      "to": 1210.04,
+      "sid": 456,
+      "location": 2,
+      "content": "那从价值上来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 1210.04,
+      "to": 1211.16,
+      "sid": 457,
+      "location": 2,
+      "content": "是10~15",
+      "music": 0.0
+    },
+    {
+      "from": 1211.16,
+      "to": 1213.2,
+      "sid": 458,
+      "location": 2,
+      "content": "那这真是真有钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 1213.2,
+      "to": 1214.0,
+      "sid": 459,
+      "location": 2,
+      "content": "我都不去住",
+      "music": 0.0
+    },
+    {
+      "from": 1214.0,
+      "to": 1216.05,
+      "sid": 460,
+      "location": 2,
+      "content": "我就买了就投啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 1216.05,
+      "to": 1216.89,
+      "sid": 461,
+      "location": 2,
+      "content": "留着啊",
+      "music": 0.0
+    },
+    {
+      "from": 1216.89,
+      "to": 1218.05,
+      "sid": 462,
+      "location": 2,
+      "content": "当仓库",
+      "music": 0.0
+    },
+    {
+      "from": 1218.41,
+      "to": 1222.63,
+      "sid": 463,
+      "location": 2,
+      "content": "那至于说所谓的全球征税呢",
+      "music": 0.0
+    },
+    {
+      "from": 1222.63,
+      "to": 1225.45,
+      "sid": 464,
+      "location": 2,
+      "content": "说就是严格执行啊",
+      "music": 0.0
+    },
+    {
+      "from": 1226.45,
+      "to": 1230.9,
+      "sid": 465,
+      "location": 2,
+      "content": "那我对于真正要去香港的人来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 1230.9,
+      "to": 1231.6,
+      "sid": 466,
+      "location": 2,
+      "content": "也无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 1231.6,
+      "to": 1234.06,
+      "sid": 467,
+      "location": 2,
+      "content": "你这个20%的这个资本利得税",
+      "music": 0.0
+    },
+    {
+      "from": 1234.06,
+      "to": 1235.72,
+      "sid": 468,
+      "location": 2,
+      "content": "这块儿挣得多吧",
+      "music": 0.0
+    },
+    {
+      "from": 1235.72,
+      "to": 1237.74,
+      "sid": 469,
+      "location": 2,
+      "content": "那你也就是卖房的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1237.74,
+      "to": 1239.06,
+      "sid": 470,
+      "location": 2,
+      "content": "那如果你自住的话",
+      "music": 0.0
+    },
+    {
+      "from": 1239.06,
+      "to": 1241.32,
+      "sid": 471,
+      "location": 2,
+      "content": "就不会产生这块的负担",
+      "music": 0.0
+    },
+    {
+      "from": 1241.32,
+      "to": 1246.06,
+      "sid": 472,
+      "location": 2,
+      "content": "所以呢哎他把这两点都排除了以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 1246.06,
+      "to": 1247.36,
+      "sid": 473,
+      "location": 2,
+      "content": "最最担心的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1247.36,
+      "to": 1253.8,
+      "sid": 474,
+      "location": 2,
+      "content": "其实是个人全球征税的力度的不确定性啊",
+      "music": 0.0
+    },
+    {
+      "from": 1253.8,
+      "to": 1254.82,
+      "sid": 475,
+      "location": 2,
+      "content": "这什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 1254.82,
+      "to": 1257.44,
+      "sid": 476,
+      "location": 2,
+      "content": "那就是你可能不止房产啊",
+      "music": 0.0
+    },
+    {
+      "from": 1257.44,
+      "to": 1260.68,
+      "sid": 477,
+      "location": 2,
+      "content": "理论上要覆盖你所有的这个境外所得",
+      "music": 0.0
+    },
+    {
+      "from": 1260.68,
+      "to": 1262.77,
+      "sid": 478,
+      "location": 2,
+      "content": "尤其是所谓境外工资啊",
+      "music": 0.0
+    },
+    {
+      "from": 1262.77,
+      "to": 1265.57,
+      "sid": 479,
+      "location": 2,
+      "content": "这一块儿现在还没有开始争",
+      "music": 0.0
+    },
+    {
+      "from": 1265.57,
+      "to": 1270.06,
+      "sid": 480,
+      "location": 2,
+      "content": "那现在呢这个追诉期限呢还不明确",
+      "music": 0.0
+    },
+    {
+      "from": 1270.06,
+      "to": 1272.94,
+      "sid": 481,
+      "location": 2,
+      "content": "那如果你参考已经开始征了",
+      "music": 0.0
+    },
+    {
+      "from": 1272.94,
+      "to": 1274.82,
+      "sid": 482,
+      "location": 2,
+      "content": "所谓的信托的征税啊",
+      "music": 0.0
+    },
+    {
+      "from": 1274.82,
+      "to": 1279.17,
+      "sid": 483,
+      "location": 2,
+      "content": "信托征税呢是追溯到2023年的1月份",
+      "music": 0.0
+    },
+    {
+      "from": 1279.17,
+      "to": 1283.06,
+      "sid": 484,
+      "location": 2,
+      "content": "那也就26年之前取得的信托收益啊",
+      "music": 0.0
+    },
+    {
+      "from": 1283.06,
+      "to": 1287.88,
+      "sid": 485,
+      "location": 2,
+      "content": "那欠缴的税款让你九十千内要清缴啊",
+      "music": 0.0
+    },
+    {
+      "from": 1289.62,
+      "to": 1292.54,
+      "sid": 486,
+      "location": 2,
+      "content": "那这一块呢追诉期限是3年",
+      "music": 0.0
+    },
+    {
+      "from": 1292.54,
+      "to": 1295.9,
+      "sid": 487,
+      "location": 2,
+      "content": "那是不是你挣工资也有这么好的待遇呢",
+      "music": 0.0
+    },
+    {
+      "from": 1295.9,
+      "to": 1298.48,
+      "sid": 488,
+      "location": 2,
+      "content": "你只要补交3年的税款就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1298.48,
+      "to": 1299.96,
+      "sid": 489,
+      "location": 2,
+      "content": "那也不一定啊",
+      "music": 0.0
+    },
+    {
+      "from": 1299.96,
+      "to": 1302.5,
+      "sid": 490,
+      "location": 2,
+      "content": "他这说了最坏最坏的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1302.5,
+      "to": 1304.96,
+      "sid": 491,
+      "location": 2,
+      "content": "可能给你搞个倒查20年",
+      "music": 0.0
+    },
+    {
+      "from": 1304.96,
+      "to": 1306.73,
+      "sid": 492,
+      "location": 2,
+      "content": "那这个可就厉害了",
+      "music": 0.0
+    },
+    {
+      "from": 1308.25,
+      "to": 1311.61,
+      "sid": 493,
+      "location": 2,
+      "content": "那直接让你的现金流就切掉一大块儿吗",
+      "music": 0.0
+    },
+    {
+      "from": 1311.61,
+      "to": 1314.78,
+      "sid": 494,
+      "location": 2,
+      "content": "那这样你在香港买房这一块儿",
+      "music": 0.0
+    },
+    {
+      "from": 1314.78,
+      "to": 1318.21,
+      "sid": 495,
+      "location": 2,
+      "content": "那可能就会减弱啊",
+      "music": 0.0
+    },
+    {
+      "from": 1318.21,
+      "to": 1319.89,
+      "sid": 496,
+      "location": 2,
+      "content": "利空香港的房地产市场",
+      "music": 0.0
+    },
+    {
+      "from": 1319.89,
+      "to": 1321.13,
+      "sid": 497,
+      "location": 2,
+      "content": "当然大家也不关心啊",
+      "music": 0.0
+    },
+    {
+      "from": 1321.13,
+      "to": 1323.889,
+      "sid": 498,
+      "location": 2,
+      "content": "大家主要关心会不会收我这个钱啊",
+      "music": 0.0
+    },
+    {
+      "from": 1323.889,
+      "to": 1325.289,
+      "sid": 499,
+      "location": 2,
+      "content": "他这还统计了一下",
+      "music": 0.0
+    },
+    {
+      "from": 1325.289,
+      "to": 1329.329,
+      "sid": 500,
+      "location": 2,
+      "content": "在香港住了不满7年的还没换啊",
+      "music": 0.0
+    },
+    {
+      "from": 1329.329,
+      "to": 1333.44,
+      "sid": 501,
+      "location": 2,
+      "content": "香港护照的这些人呢大概有20到40万人啊",
+      "music": 0.0
+    },
+    {
+      "from": 1333.44,
+      "to": 1337.14,
+      "sid": 502,
+      "location": 2,
+      "content": "占香港目前人口的2%到5%",
+      "music": 0.0
+    },
+    {
+      "from": 1337.14,
+      "to": 1340.59,
+      "sid": 503,
+      "location": 2,
+      "content": "这部分人呢受到的影响应该是最大的",
+      "music": 0.0
+    },
+    {
+      "from": 1340.59,
+      "to": 1342.39,
+      "sid": 504,
+      "location": 2,
+      "content": "其实那我总结一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1342.39,
+      "to": 1345.19,
+      "sid": 505,
+      "location": 2,
+      "content": "就先说今天这个现房销售",
+      "music": 0.0
+    },
+    {
+      "from": 1345.19,
+      "to": 1348.03,
+      "sid": 506,
+      "location": 2,
+      "content": "其实重点还是进一步的防风险",
+      "music": 0.0
+    },
+    {
+      "from": 1348.03,
+      "to": 1351.01,
+      "sid": 507,
+      "location": 2,
+      "content": "也挤压了地方的财政收入啊",
+      "music": 0.0
+    },
+    {
+      "from": 1351.01,
+      "to": 1354.79,
+      "sid": 508,
+      "location": 2,
+      "content": "那这么看境外的征税就会更加的推进",
+      "music": 0.0
+    },
+    {
+      "from": 1354.79,
+      "to": 1357.23,
+      "sid": 509,
+      "location": 2,
+      "content": "小摩分析的这种最严苛的",
+      "music": 0.0
+    },
+    {
+      "from": 1359.41,
+      "to": 1362.25,
+      "sid": 510,
+      "location": 2,
+      "content": "也很有可能在未来出现",
+      "music": 0.0
+    },
+    {
+      "from": 1362.25,
+      "to": 1363.65,
+      "sid": 511,
+      "location": 2,
+      "content": "那现在你看啊",
+      "music": 0.0
+    },
+    {
+      "from": 1363.65,
+      "to": 1366.69,
+      "sid": 512,
+      "location": 2,
+      "content": "整个经济三季度两个月已经过去了",
+      "music": 0.0
+    },
+    {
+      "from": 1366.69,
+      "to": 1368.25,
+      "sid": 513,
+      "location": 2,
+      "content": "就算四季度要发力",
+      "music": 0.0
+    },
+    {
+      "from": 1368.25,
+      "to": 1370.13,
+      "sid": 514,
+      "location": 2,
+      "content": "那地方配套资金",
+      "music": 0.0
+    },
+    {
+      "from": 1370.13,
+      "to": 1372.95,
+      "sid": 515,
+      "location": 2,
+      "content": "你现在这么挤压人家的地方收入啊",
+      "music": 0.0
+    },
+    {
+      "from": 1372.95,
+      "to": 1374.41,
+      "sid": 516,
+      "location": 2,
+      "content": "通过现房销售",
+      "music": 0.0
+    },
+    {
+      "from": 1374.41,
+      "to": 1377.02,
+      "sid": 517,
+      "location": 2,
+      "content": "那配套资金难度也很大",
+      "music": 0.0
+    },
+    {
+      "from": 1377.02,
+      "to": 1380.12,
+      "sid": 518,
+      "location": 2,
+      "content": "那四季度能不能完成目标呢",
+      "music": 0.0
+    },
+    {
+      "from": 1380.12,
+      "to": 1382.23,
+      "sid": 519,
+      "location": 2,
+      "content": "现在越来越有疑惑",
+      "music": 0.0
+    },
+    {
+      "from": 1382.23,
+      "to": 1384.95,
+      "sid": 520,
+      "location": 2,
+      "content": "就算今年勉强完成目标啊",
+      "music": 0.0
+    },
+    {
+      "from": 1384.95,
+      "to": 1389.71,
+      "sid": 521,
+      "location": 2,
+      "content": "那明年GDP增速下台阶幅度应该也小不了行",
+      "music": 0.0
+    },
+    {
+      "from": 1389.71,
+      "to": 1391.55,
+      "sid": 522,
+      "location": 2,
+      "content": "那今天就给大家分享这么多啊",
+      "music": 0.0
+    },
+    {
+      "from": 1391.55,
+      "to": 1392.81,
+      "sid": 523,
+      "location": 2,
+      "content": "这三篇研报啊",
+      "music": 0.0
+    },
+    {
+      "from": 1392.81,
+      "to": 1394.97,
+      "sid": 524,
+      "location": 2,
+      "content": "下载链接都会放在描述栏",
+      "music": 0.0
+    },
+    {
+      "from": 1394.97,
+      "to": 1396.59,
+      "sid": 525,
+      "location": 2,
+      "content": "还有相关的往期节目",
+      "music": 0.0
+    },
+    {
+      "from": 1396.59,
+      "to": 1398.33,
+      "sid": 526,
+      "location": 2,
+      "content": "在中国感受中国经济",
+      "music": 0.0
+    },
+    {
+      "from": 1398.33,
+      "to": 1399.33,
+      "sid": 527,
+      "location": 2,
+      "content": "我是司马迁",
+      "music": 0.0
+    },
+    {
+      "from": 1399.33,
+      "to": 1401.03,
+      "sid": 528,
+      "location": 2,
+      "content": "感谢大家的订阅和支持",
+      "music": 0.0
+    },
+    {
+      "from": 1401.03,
+      "to": 1401.9,
+      "sid": 529,
+      "location": 2,
+      "content": "明天见",
+      "music": 0.0
+    }
+  ]
+}

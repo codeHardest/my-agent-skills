@@ -64,9 +64,11 @@ description: 格雷厄姆《聪明的投资者》全书方法论——投资者�
 - **构建组合**：先定身份（F1）→ 平衡配置 → 分散化 → 每笔买入都要求安全边际（F2）。
 - **识别泡沫/投机**：用F3（市场先生）、F6（保障倍数）、P6（数学警告）检验价格是否脱离价值。
 - **检验管理层与股息**：支付约2/3利润或证明留存带来满意增长，否则低支付率就是低估的原因（1美元股息对股价影响≈1美元留存的4倍）。
-- 详细章节见 `chapters/`（22个文件，每章含 Core Idea / Frameworks / Concepts / Mental Models / Anti-patterns / Worked Example / Takeaways），跨章模式见 `patterns.md`，术语定义见 `glossary.md`，决策速查见 `cheatsheet.md`。
+- 详细章节见 `chapters/`（24个文件，每章含 Core Idea / Frameworks / Concepts / Mental Models / Anti-patterns / Worked Example / Takeaways），跨章模式见 `patterns.md`，术语定义见 `glossary.md`，决策速查见 `cheatsheet.md`。
 
 ## 章节索引
+- 序 第4版序（巴菲特序+悼文：知识体系+情绪约束；股市越愚蠢机会越大）
+- 导言 本书的目的（美元成本平均法、成长股陷阱、投资者最大的敌人是自己）
 - ch01 投资与投机（本书定义：深入分析+本金安全+满意回报）
 - ch02 通货膨胀（股票≠通胀对冲；利润与商品价格相关）
 - ch03 百年股市历史（波动常态；"这，也将成为过去"）

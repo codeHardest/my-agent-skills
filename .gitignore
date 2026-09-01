@@ -32,3 +32,14 @@ Thumbs.db
 downloads/bilibili/bilibili-cookies.txt
 .agents/skills/book-to-skill
 .claude/skills/book-to-skill
+
+# kid-learn: personal learning data (keep out of public repo)
+projects/幼小衔接/node_modules/
+projects/幼小衔接/sessions/
+projects/幼小衔接/data/progress.json
+projects/幼小衔接/data/progress_english.json
+projects/幼小衔接/data/progress_math.json
+projects/幼小衔接/data/results/
+projects/幼小衔接/data/subjects_progress.md
+.agents/skills/hallmark
+.claude/skills/hallmark

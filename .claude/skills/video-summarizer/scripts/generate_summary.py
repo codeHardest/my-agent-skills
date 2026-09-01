@@ -270,24 +270,36 @@ def generate_summary_with_retry(transcript, title, url, duration, author="", vie
     candidates = [os.environ.get('ANTHROPIC_MODEL') or 'deepseek-v4-pro',
                   'deepseek-v4-flash', 'deepseek-v4-pro']
 
+    # Token escalation: long transcripts (60min+ videos) can truncate output at small max_tokens.
+    # Detect via stop_reason ('max_tokens'/'length') and retry with a larger budget instead of
+    # silently saving a truncated summary.
+    TOKEN_LEVELS = [4096, 8192, 16384, 32768]
+
     last_error = None
     for model in candidates:
         for attempt in range(max_retries):
             try:
-                print(f"  Trying model: {model} (attempt {attempt + 1}/{max_retries})")
-                response = client.messages.create(
-                    model=model,
-                    max_tokens=4096,
-                    messages=[{
-                        'role': 'user',
-                        'content': prompt
-                    }]
-                )
-                text = extract_text_from_content(response.content)
-                if text:
+                for max_tokens in TOKEN_LEVELS:
+                    print(f"  Trying model: {model} (attempt {attempt + 1}/{max_retries}, max_tokens={max_tokens})")
+                    response = client.messages.create(
+                        model=model,
+                        max_tokens=max_tokens,
+                        messages=[{
+                            'role': 'user',
+                            'content': prompt
+                        }]
+                    )
+                    text = extract_text_from_content(response.content)
+                    if not text:
+                        # If no text extracted, raise error to trigger fallback
+                        raise ValueError(f"No text content in response for model {model}")
+                    # Detect truncation: gateway reports 'max_tokens'/'length' when output is cut off
+                    stop_reason = getattr(response, 'stop_reason', '') or ''
+                    if stop_reason in ('max_tokens', 'length'):
+                        print(f"  Output truncated at max_tokens={max_tokens}, escalating...")
+                        continue
                     return text
-                # If no text extracted, raise error to trigger fallback
-                raise ValueError(f"No text content in response for model {model}")
+                raise ValueError(f"Output still truncated for model {model} at max_tokens={TOKEN_LEVELS[-1]}")
 
             except (OverloadedError, RateLimitError) as e:
                 last_error = e

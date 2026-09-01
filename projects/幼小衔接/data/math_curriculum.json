@@ -1,0 +1,10 @@
+[
+  { "id": "shapes",   "title": "图形认识",   "type": "shapes",   "emoji": "🔺", "desc": "认识圆形、三角形、正方形、长方形、五角星" },
+  { "id": "classify", "title": "找不同",     "type": "classify", "emoji": "🧩", "desc": "找出不一样的图形" },
+  { "id": "compare",  "title": "比大小",     "type": "compare",  "emoji": "⚖️", "desc": "比较两个数的大小", "params": { "max": 20 } },
+  { "id": "add10",    "title": "10以内加法", "type": "add",     "emoji": "➕", "desc": "加法就是把两个数合起来", "params": { "max": 10 } },
+  { "id": "sub10",    "title": "10以内减法", "type": "sub",     "emoji": "➖", "desc": "减法就是从总数里去掉一部分", "params": { "max": 10 } },
+  { "id": "add20",    "title": "20以内进位加法", "type": "add", "emoji": "➕", "desc": "个位满十，向十位进一", "params": { "max": 20, "carry": true } },
+  { "id": "sub20",    "title": "20以内退位减法", "type": "sub", "emoji": "➖", "desc": "个位不够减，向十位借一", "params": { "max": 20, "borrow": true } },
+  { "id": "mix20",    "title": "综合挑战",   "type": "mix",     "emoji": "🏆", "desc": "加减法混合练习", "params": { "max": 20 } }
+]

@@ -1,0 +1,112 @@
+/* Hallmark · 幼小衔接学习台 · 设计令牌（单一事实来源）
+ * genre: playful · macrostructure: Marquee Hero · theme: Hum
+ * 模板与会话页统一 <link rel="stylesheet" href="../tokens.css"> 引用本文件。
+ * 首段 --accent 族是 JS applyTheme() 的逐节主题覆盖接口 —— 变量名不得删除。
+ */
+
+:root {
+  /* ============ 主题覆盖接口（JS 可逐项覆盖） ============ */
+  --bg: oklch(97% 0.012 95);
+  --accent: oklch(86% 0.18 95);
+  --accent-light: oklch(91% 0.14 95);
+  --accent-dark: oklch(60% 0.16 95);
+  --accent-text: oklch(30% 0.06 95);
+  --accent-soft: oklch(93% 0.10 95);
+  --accent-border: oklch(86% 0.18 95 / 0.35);
+
+  /* ============ Hum 系统令牌 ============ */
+  /* 纸面与墨 */
+  --color-paper: var(--bg);
+  --color-paper-2: oklch(94.5% 0.015 95);
+  --color-paper-3: oklch(91% 0.02 95);
+  --color-ink: oklch(20% 0.012 250);
+  --color-ink-2: oklch(45% 0.014 250);
+  --color-rule: oklch(82% 0.02 95);
+
+  /* 多强调色（Hum） */
+  --color-accent: var(--accent);            /* 梨黄 · 主操作 */
+  --color-accent-deep: var(--accent-dark);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-text);
+
+  --color-accent-2: oklch(66% 0.18 235);    /* 天蓝 · 听音/链接 */
+  --color-accent-2-ink: oklch(26% 0.09 235);
+  --color-accent-2-deep: oklch(54% 0.14 235);
+  --color-accent-2-soft: oklch(92.5% 0.06 235);
+
+  --color-accent-3: oklch(66% 0.24 18);     /* 珊瑚 · 爆发装饰（星星/徽章） */
+  --color-accent-3-deep: oklch(54% 0.2 18); /* 珊瑚深 · 实底填充/文字（≥3:1 大字号） */
+  --color-coral-edge: oklch(46% 0.18 18);   /* 珊瑚更深的按钮边缘 */
+  --color-coral-ink: oklch(97% 0.012 95);   /* 珊瑚实底上的文字 */
+  --color-coral-deep: oklch(40% 0.16 18);   /* 珊瑚浅底上的文字（小字号 ≥4.5:1） */
+  --color-coral-soft: oklch(92% 0.06 18);
+
+  --color-mint: oklch(80% 0.15 150);        /* 薄荷 · 成功 */
+  --color-mint-deep: oklch(58% 0.13 150);
+  --color-mint-ink: oklch(26% 0.09 150);
+  --color-mint-soft: oklch(92% 0.07 150);
+
+  --color-lavender: oklch(89% 0.09 305);    /* 薰衣草 · 描红垫/拼音垫 */
+  --color-lavender-ink: oklch(36% 0.09 305);
+  --color-lavender-soft: oklch(92.5% 0.07 305);
+
+  --color-focus: oklch(55% 0.18 235);       /* 焦点环 ≥3:1 */
+
+  /* 阴影墨与渐变（几何阴影引用，保证全站颜色只出令牌） */
+  --shadow-ink: oklch(20% 0.012 250 / 0.22);
+  --shadow-ink-soft: oklch(20% 0.012 250 / 0.12);
+  --shadow-ink-strong: oklch(18% 0.012 250 / 0.55);
+  --grad-ko: linear-gradient(180deg, transparent 0%, oklch(18% 0.012 250 / 0.62) 100%);
+
+  /* ============ 字体（CJK 自适：拉丁走 Google Fonts，汉字回落系统圆体） ============ */
+  --font-display: "Plus Jakarta Sans", "YouYuan", "幼圆", "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei", sans-serif;
+  --font-body: "Plus Jakarta Sans", "YouYuan", "幼圆", "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei", sans-serif;
+  --font-label: "JetBrains Mono", "Cascadia Mono", "Consolas", monospace;
+
+  /* ============ 4pt 间距 ============ */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  /* ============ 字号（major third 1.25；单字 display 可上 7.5rem） ============ */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-md: 1.125rem;
+  --text-lg: 1.375rem;
+  --text-xl: 1.75rem;
+  --text-2xl: 2.25rem;
+  --text-3xl: 3rem;
+  --text-display: clamp(3.5rem, 13vw + 1rem, 7.5rem);
+
+  /* ============ 动效 ============ */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);   /* 角色时刻专用 */
+  --ease-snap: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long: 420ms;
+
+  /* ============ 圆角（儿童向加厚：卡片 28px） ============ */
+  --radius-card: 28px;
+  --radius-pill: 999px;
+  --radius-input: 14px;
+  --radius-chip: 18px;
+
+  /* ============ 层级 ============ */
+  --z-base: 1;
+  --z-raised: 10;
+  --z-hud: 20;
+  --z-fx: 30;
+  --z-toast: 40;
+  --z-tooltip: 50;
+}
