@@ -1,0 +1,940 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.73,
+   "sid": 1,
+   "location": 2,
+   "content": "大家看看这前后间隔两个月的这个投篮",
+   "music": 0
+  },
+  {
+   "from": 2.73,
+   "to": 3.9,
+   "sid": 2,
+   "location": 2,
+   "content": "哪一个更线条",
+   "music": 0
+  },
+  {
+   "from": 3.9,
+   "to": 6.5,
+   "sid": 3,
+   "location": 2,
+   "content": "哪一个更省力流畅呢",
+   "music": 0
+  },
+  {
+   "from": 6.78,
+   "to": 9.44,
+   "sid": 4,
+   "location": 2,
+   "content": "相信大家心里的答案应该是挺明显的",
+   "music": 0
+  },
+  {
+   "from": 9.44,
+   "to": 13.46,
+   "sid": 5,
+   "location": 2,
+   "content": "后一个呢便是我受到零天赋射手脚踝先用力",
+   "music": 0
+  },
+  {
+   "from": 13.46,
+   "to": 15.71,
+   "sid": 6,
+   "location": 2,
+   "content": "臀腿后用力这个观点的启发",
+   "music": 0
+  },
+  {
+   "from": 17.64,
+   "to": 18.9,
+   "sid": 7,
+   "location": 2,
+   "content": "所以当时发了之后呢",
+   "music": 0
+  },
+  {
+   "from": 18.9,
+   "to": 20.16,
+   "sid": 8,
+   "location": 2,
+   "content": "好几个粉丝就问我",
+   "music": 0
+  },
+  {
+   "from": 20.16,
+   "to": 23.04,
+   "sid": 9,
+   "location": 2,
+   "content": "是如何感觉到这个踝关节优先主动发力的",
+   "music": 0
+  },
+  {
+   "from": 23.04,
+   "to": 24.54,
+   "sid": 10,
+   "location": 2,
+   "content": "或者说是怎么做到的呢",
+   "music": 0
+  },
+  {
+   "from": 24.54,
+   "to": 25.74,
+   "sid": 11,
+   "location": 2,
+   "content": "因为大家都知道",
+   "music": 0
+  },
+  {
+   "from": 25.74,
+   "to": 27.45,
+   "sid": 12,
+   "location": 2,
+   "content": "有时候即便是看会了",
+   "music": 0
+  },
+  {
+   "from": 27.45,
+   "to": 29.88,
+   "sid": 13,
+   "location": 2,
+   "content": "想要控制住自己的身体还是挺难的",
+   "music": 0
+  },
+  {
+   "from": 29.88,
+   "to": 31.68,
+   "sid": 14,
+   "location": 2,
+   "content": "但是根据我说的这几点体会呢",
+   "music": 0
+  },
+  {
+   "from": 31.68,
+   "to": 33.48,
+   "sid": 15,
+   "location": 2,
+   "content": "这几个粉丝真的就找到了感觉",
+   "music": 0
+  },
+  {
+   "from": 33.48,
+   "to": 35.58,
+   "sid": 16,
+   "location": 2,
+   "content": "有一个呢还非要给我发个红包感谢",
+   "music": 0
+  },
+  {
+   "from": 35.58,
+   "to": 37.14,
+   "sid": 17,
+   "location": 2,
+   "content": "省得我都怪不好意思了",
+   "music": 0
+  },
+  {
+   "from": 37.14,
+   "to": 38.28,
+   "sid": 18,
+   "location": 2,
+   "content": "下面呢就分享一下",
+   "music": 0
+  },
+  {
+   "from": 38.28,
+   "to": 40.89,
+   "sid": 19,
+   "location": 2,
+   "content": "我是如何学会利用脚踝优先主动发力",
+   "music": 0
+  },
+  {
+   "from": 40.89,
+   "to": 43.56,
+   "sid": 20,
+   "location": 2,
+   "content": "来改善投篮这个手快脚慢的问题的",
+   "music": 0
+  },
+  {
+   "from": 43.56,
+   "to": 45.58,
+   "sid": 21,
+   "location": 2,
+   "content": "第一减少下蹲的幅度",
+   "music": 0
+  },
+  {
+   "from": 45.58,
+   "to": 47.38,
+   "sid": 22,
+   "location": 2,
+   "content": "以前呢我为了利用下肢发力",
+   "music": 0
+  },
+  {
+   "from": 47.38,
+   "to": 48.58,
+   "sid": 23,
+   "location": 2,
+   "content": "往往会蹲的很深",
+   "music": 0
+  },
+  {
+   "from": 48.58,
+   "to": 49.99,
+   "sid": 24,
+   "location": 2,
+   "content": "但是这样呢有两个影响",
+   "music": 0
+  },
+  {
+   "from": 49.99,
+   "to": 52.24,
+   "sid": 25,
+   "location": 2,
+   "content": "第一呢是增加了下肢伸展时候的运动距",
+   "music": 0
+  },
+  {
+   "from": 52.24,
+   "to": 52.96,
+   "sid": 26,
+   "location": 2,
+   "content": "离和时间",
+   "music": 0
+  },
+  {
+   "from": 52.96,
+   "to": 54.91,
+   "sid": 27,
+   "location": 2,
+   "content": "但势必会让手去蹬脚",
+   "music": 0
+  },
+  {
+   "from": 54.91,
+   "to": 56.53,
+   "sid": 28,
+   "location": 2,
+   "content": "第二个呢是蹲得越低",
+   "music": 0
+  },
+  {
+   "from": 56.53,
+   "to": 57.98,
+   "sid": 29,
+   "location": 2,
+   "content": "你向上蹬起的时候呢",
+   "music": 0
+  },
+  {
+   "from": 57.98,
+   "to": 60.35,
+   "sid": 30,
+   "location": 2,
+   "content": "用的肌肉越是臀和大腿的肌肉",
+   "music": 0
+  },
+  {
+   "from": 60.35,
+   "to": 62.33,
+   "sid": 31,
+   "location": 2,
+   "content": "这时候你想用脚踝也用不上",
+   "music": 0
+  },
+  {
+   "from": 62.33,
+   "to": 64.26,
+   "sid": 32,
+   "location": 2,
+   "content": "所以呀减少下蹲的幅度",
+   "music": 0
+  },
+  {
+   "from": 64.26,
+   "to": 66.3,
+   "sid": 33,
+   "location": 2,
+   "content": "也就减少了下肢的运动距离",
+   "music": 0
+  },
+  {
+   "from": 66.3,
+   "to": 67.74,
+   "sid": 34,
+   "location": 2,
+   "content": "让你能够更快地伸直",
+   "music": 0
+  },
+  {
+   "from": 67.74,
+   "to": 70.5,
+   "sid": 35,
+   "location": 2,
+   "content": "客观上呢就缩短了上肢等下肢的时间",
+   "music": 0
+  },
+  {
+   "from": 70.5,
+   "to": 73.83,
+   "sid": 36,
+   "location": 2,
+   "content": "也为脚踝呢能优先主动发力创造了生理条件",
+   "music": 0
+  },
+  {
+   "from": 73.83,
+   "to": 75.66,
+   "sid": 37,
+   "location": 2,
+   "content": "第二想象跳绳的感觉",
+   "music": 0
+  },
+  {
+   "from": 75.66,
+   "to": 77.8,
+   "sid": 38,
+   "location": 2,
+   "content": "大家应该都会正经的快速跳绳吧",
+   "music": 0
+  },
+  {
+   "from": 77.8,
+   "to": 79.9,
+   "sid": 39,
+   "location": 2,
+   "content": "你看跳绳的时候没有蹲的很低的吧",
+   "music": 0
+  },
+  {
+   "from": 79.9,
+   "to": 81.25,
+   "sid": 40,
+   "location": 2,
+   "content": "而且也不用跳的特别高",
+   "music": 0
+  },
+  {
+   "from": 81.25,
+   "to": 83.47,
+   "sid": 41,
+   "location": 2,
+   "content": "脚后跟呢始终是处于一个抬起的状态",
+   "music": 0
+  },
+  {
+   "from": 83.47,
+   "to": 84.52,
+   "sid": 42,
+   "location": 2,
+   "content": "而且连跳了之后呢",
+   "music": 0
+  },
+  {
+   "from": 84.52,
+   "to": 86.72,
+   "sid": 43,
+   "location": 2,
+   "content": "你就会有很轻盈处理祭坛的感觉",
+   "music": 0
+  },
+  {
+   "from": 86.72,
+   "to": 88.16,
+   "sid": 44,
+   "location": 2,
+   "content": "术语呢咱不是很会说",
+   "music": 0
+  },
+  {
+   "from": 88.16,
+   "to": 90.5,
+   "sid": 45,
+   "location": 2,
+   "content": "但是这大概就是脚踝出到发力的感觉了",
+   "music": 0
+  },
+  {
+   "from": 90.5,
+   "to": 91.7,
+   "sid": 46,
+   "location": 2,
+   "content": "那模拟到投篮上来呢",
+   "music": 0
+  },
+  {
+   "from": 91.7,
+   "to": 92.82,
+   "sid": 47,
+   "location": 2,
+   "content": "你可以先抱着球",
+   "music": 0
+  },
+  {
+   "from": 92.82,
+   "to": 94.2,
+   "sid": 48,
+   "location": 2,
+   "content": "利用这种跳绳的方式",
+   "music": 0
+  },
+  {
+   "from": 94.2,
+   "to": 96.24,
+   "sid": 49,
+   "location": 2,
+   "content": "感受脚踝不断轻盈发力的感觉",
+   "music": 0
+  },
+  {
+   "from": 96.24,
+   "to": 97.44,
+   "sid": 50,
+   "location": 2,
+   "content": "跳起的速度会更快",
+   "music": 0
+  },
+  {
+   "from": 97.44,
+   "to": 98.32,
+   "sid": 51,
+   "location": 2,
+   "content": "离地也不高",
+   "music": 0
+  },
+  {
+   "from": 98.32,
+   "to": 99.88,
+   "sid": 52,
+   "location": 2,
+   "content": "还会减少被垫脚的风险",
+   "music": 0
+  },
+  {
+   "from": 99.88,
+   "to": 102.22,
+   "sid": 53,
+   "location": 2,
+   "content": "这样的方式呢先练个三五组去找感觉",
+   "music": 0
+  },
+  {
+   "from": 102.22,
+   "to": 104.58,
+   "sid": 54,
+   "location": 2,
+   "content": "只不过这种跳跃训练很快就会出汗",
+   "music": 0
+  },
+  {
+   "from": 104.58,
+   "to": 105.36,
+   "sid": 55,
+   "location": 2,
+   "content": "特别是冬天的",
+   "music": 0
+  },
+  {
+   "from": 105.36,
+   "to": 106.24,
+   "sid": 56,
+   "location": 2,
+   "content": "还穿着秋裤",
+   "music": 0
+  },
+  {
+   "from": 106.24,
+   "to": 107.68,
+   "sid": 57,
+   "location": 2,
+   "content": "一会儿就会贴在屁股上",
+   "music": 0
+  },
+  {
+   "from": 107.68,
+   "to": 108.58,
+   "sid": 58,
+   "location": 2,
+   "content": "腿上闷着了",
+   "music": 0
+  },
+  {
+   "from": 108.58,
+   "to": 109.69,
+   "sid": 59,
+   "location": 2,
+   "content": "捂着特别难受",
+   "music": 0
+  },
+  {
+   "from": 109.69,
+   "to": 112.68,
+   "sid": 60,
+   "location": 2,
+   "content": "那affeat alpha紧身裤呢就是个不错的选择",
+   "music": 0
+  },
+  {
+   "from": 112.68,
+   "to": 114,
+   "sid": 61,
+   "location": 2,
+   "content": "改了my text科技功能",
+   "music": 0
+  },
+  {
+   "from": 114,
+   "to": 116.22,
+   "sid": 62,
+   "location": 2,
+   "content": "面料的弹性和压缩性能都是足够的",
+   "music": 0
+  },
+  {
+   "from": 116.22,
+   "to": 118.5,
+   "sid": 63,
+   "location": 2,
+   "content": "而且看看上面这个灵感的透气网眼",
+   "music": 0
+  },
+  {
+   "from": 118.5,
+   "to": 119.91,
+   "sid": 64,
+   "location": 2,
+   "content": "能完美的透过阳光",
+   "music": 0
+  },
+  {
+   "from": 119.91,
+   "to": 122.1,
+   "sid": 65,
+   "location": 2,
+   "content": "还能让你透过这个网眼看世界",
+   "music": 0
+  },
+  {
+   "from": 122.1,
+   "to": 122.52,
+   "sid": 66,
+   "location": 2,
+   "content": "当然了",
+   "music": 0
+  },
+  {
+   "from": 122.52,
+   "to": 124.38,
+   "sid": 67,
+   "location": 2,
+   "content": "我之前也有耐克或者UA的紧身裤",
+   "music": 0
+  },
+  {
+   "from": 124.38,
+   "to": 125.55,
+   "sid": 68,
+   "location": 2,
+   "content": "透气也还算可以",
+   "music": 0
+  },
+  {
+   "from": 125.55,
+   "to": 127.8,
+   "sid": 69,
+   "location": 2,
+   "content": "不过紧身库里呢要不要穿内裤",
+   "music": 0
+  },
+  {
+   "from": 127.8,
+   "to": 129.039,
+   "sid": 70,
+   "location": 2,
+   "content": "一直让我特别纠结",
+   "music": 0
+  },
+  {
+   "from": 129.039,
+   "to": 131.019,
+   "sid": 71,
+   "location": 2,
+   "content": "穿的多一层呢透气性会变差",
+   "music": 0
+  },
+  {
+   "from": 131.019,
+   "to": 133.3,
+   "sid": 72,
+   "location": 2,
+   "content": "而且还由于两层衣物之间的摩擦呢",
+   "music": 0
+  },
+  {
+   "from": 133.3,
+   "to": 134.68,
+   "sid": 73,
+   "location": 2,
+   "content": "内裤还容易卷边",
+   "music": 0
+  },
+  {
+   "from": 134.68,
+   "to": 135.4,
+   "sid": 74,
+   "location": 2,
+   "content": "就勒在裆",
+   "music": 0
+  },
+  {
+   "from": 136.9,
+   "to": 139.42,
+   "sid": 75,
+   "location": 2,
+   "content": "做这种连续的跳跃式投篮训练多了以后呢",
+   "music": 0
+  },
+  {
+   "from": 139.42,
+   "to": 140.92,
+   "sid": 76,
+   "location": 2,
+   "content": "弟弟可能就一直在晃",
+   "music": 0
+  },
+  {
+   "from": 140.92,
+   "to": 142.04,
+   "sid": 77,
+   "location": 2,
+   "content": "我的皮有点疼",
+   "music": 0
+  },
+  {
+   "from": 142.04,
+   "to": 144.68,
+   "sid": 78,
+   "location": 2,
+   "content": "那正好our fit独立的这个3D承托呢",
+   "music": 0
+  },
+  {
+   "from": 144.68,
+   "to": 146,
+   "sid": 79,
+   "location": 2,
+   "content": "就很好地解决了这个问题",
+   "music": 0
+  },
+  {
+   "from": 146,
+   "to": 147.08,
+   "sid": 80,
+   "location": 2,
+   "content": "它又能当紧身裤",
+   "music": 0
+  },
+  {
+   "from": 147.08,
+   "to": 147.98,
+   "sid": 81,
+   "location": 2,
+   "content": "又能当内裤",
+   "music": 0
+  },
+  {
+   "from": 147.98,
+   "to": 148.76,
+   "sid": 82,
+   "location": 2,
+   "content": "一裤两用",
+   "music": 0
+  },
+  {
+   "from": 148.76,
+   "to": 149.68,
+   "sid": 83,
+   "location": 2,
+   "content": "直接外穿",
+   "music": 0
+  },
+  {
+   "from": 149.68,
+   "to": 151.09,
+   "sid": 84,
+   "location": 2,
+   "content": "解决了我最大的纠结",
+   "music": 0
+  },
+  {
+   "from": 151.09,
+   "to": 152.86,
+   "sid": 85,
+   "location": 2,
+   "content": "而且运动面料的衬托效果呢",
+   "music": 0
+  },
+  {
+   "from": 152.86,
+   "to": 154.3,
+   "sid": 86,
+   "location": 2,
+   "content": "比普通内裤还更好一些",
+   "music": 0
+  },
+  {
+   "from": 154.3,
+   "to": 155.98,
+   "sid": 87,
+   "location": 2,
+   "content": "头一回穿这种设计的紧身裤",
+   "music": 0
+  },
+  {
+   "from": 155.98,
+   "to": 156.98,
+   "sid": 88,
+   "location": 2,
+   "content": "感觉还是挺奇妙的",
+   "music": 0
+  },
+  {
+   "from": 156.98,
+   "to": 158.57,
+   "sid": 89,
+   "location": 2,
+   "content": "而且他们家呢还有短款",
+   "music": 0
+  },
+  {
+   "from": 158.57,
+   "to": 159.02,
+   "sid": 90,
+   "location": 2,
+   "content": "好了",
+   "music": 0
+  },
+  {
+   "from": 159.02,
+   "to": 159.77,
+   "sid": 91,
+   "location": 2,
+   "content": "说回练习",
+   "music": 0
+  },
+  {
+   "from": 159.77,
+   "to": 162.12,
+   "sid": 92,
+   "location": 2,
+   "content": "第三点呢就是要去想象高的时候",
+   "music": 0
+  },
+  {
+   "from": 162.12,
+   "to": 163.26,
+   "sid": 93,
+   "location": 2,
+   "content": "你的手脚的协调感",
+   "music": 0
+  },
+  {
+   "from": 163.26,
+   "to": 166.14,
+   "sid": 94,
+   "location": 2,
+   "content": "我们正常的摸高跳跃呢手和脚必须非常的同步",
+   "music": 0
+  },
+  {
+   "from": 166.14,
+   "to": 167.34,
+   "sid": 95,
+   "location": 2,
+   "content": "才能让你摸到最高",
+   "music": 0
+  },
+  {
+   "from": 167.34,
+   "to": 168.68,
+   "sid": 96,
+   "location": 2,
+   "content": "但如果你会摸高",
+   "music": 0
+  },
+  {
+   "from": 168.68,
+   "to": 170.3,
+   "sid": 97,
+   "location": 2,
+   "content": "再加上前面两个练习",
+   "music": 0
+  },
+  {
+   "from": 170.3,
+   "to": 172.52,
+   "sid": 98,
+   "location": 2,
+   "content": "那你达到投篮手脚协调就容易多了",
+   "music": 0
+  },
+  {
+   "from": 172.52,
+   "to": 174.7,
+   "sid": 99,
+   "location": 2,
+   "content": "电视呢就是将我们的下蹲幅度减小",
+   "music": 0
+  },
+  {
+   "from": 174.7,
+   "to": 176.74,
+   "sid": 100,
+   "location": 2,
+   "content": "把抱着球弯着手臂的状态呢",
+   "music": 0
+  },
+  {
+   "from": 176.74,
+   "to": 179.74,
+   "sid": 101,
+   "location": 2,
+   "content": "想象成自己变成了一只霸王龙一样的小短手",
+   "music": 0
+  },
+  {
+   "from": 179.74,
+   "to": 181.24,
+   "sid": 102,
+   "location": 2,
+   "content": "只能抬到胸口附近",
+   "music": 0
+  },
+  {
+   "from": 181.24,
+   "to": 183.46,
+   "sid": 103,
+   "location": 2,
+   "content": "这样呢不断把跳绳的脚踝发力感",
+   "music": 0
+  },
+  {
+   "from": 183.46,
+   "to": 186.42,
+   "sid": 104,
+   "location": 2,
+   "content": "和摸高时手脚协同的这个时机感进行综合",
+   "music": 0
+  },
+  {
+   "from": 186.42,
+   "to": 188.1,
+   "sid": 105,
+   "location": 2,
+   "content": "去做这个举球跳跃练习",
+   "music": 0
+  },
+  {
+   "from": 188.1,
+   "to": 189.69,
+   "sid": 106,
+   "location": 2,
+   "content": "第四点就是综合练习了",
+   "music": 0
+  },
+  {
+   "from": 189.69,
+   "to": 191.79,
+   "sid": 107,
+   "location": 2,
+   "content": "每次举球跳跃两到三下之后呢",
+   "music": 0
+  },
+  {
+   "from": 191.79,
+   "to": 192.9,
+   "sid": 108,
+   "location": 2,
+   "content": "再将球投出",
+   "music": 0
+  },
+  {
+   "from": 192.9,
+   "to": 195,
+   "sid": 109,
+   "location": 2,
+   "content": "你会发现比自己以前出手快速了很多",
+   "music": 0
+  },
+  {
+   "from": 195,
+   "to": 195.93,
+   "sid": 110,
+   "location": 2,
+   "content": "也省略了很多",
+   "music": 0
+  },
+  {
+   "from": 195.93,
+   "to": 197.7,
+   "sid": 111,
+   "location": 2,
+   "content": "那剩下的呢就是多加练习了",
+   "music": 0
+  },
+  {
+   "from": 197.7,
+   "to": 198.66,
+   "sid": 112,
+   "location": 2,
+   "content": "如果觉得有帮助",
+   "music": 0
+  },
+  {
+   "from": 198.66,
+   "to": 199.5,
+   "sid": 113,
+   "location": 2,
+   "content": "别忘了一键三连",
+   "music": 0
+  },
+  {
+   "from": 199.5,
+   "to": 200.18,
+   "sid": 114,
+   "location": 2,
+   "content": "支持一下",
+   "music": 0
+  },
+  {
+   "from": 200.18,
+   "to": 200.84,
+   "sid": 115,
+   "location": 2,
+   "content": "沟通交流",
+   "music": 0
+  },
+  {
+   "from": 200.84,
+   "to": 205.16,
+   "sid": 116,
+   "location": 2,
+   "content": "共同进步喽",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.66,
+   "to": 2.41,
+   "sid": 1,
+   "location": 2,
+   "content": "投篮常犯的四个错误",
+   "music": 0
+  },
+  {
+   "from": 2.41,
+   "to": 4.01,
+   "sid": 2,
+   "location": 2,
+   "content": "第一手快脚慢",
+   "music": 0
+  },
+  {
+   "from": 4.01,
+   "to": 4.85,
+   "sid": 3,
+   "location": 2,
+   "content": "发力脱节",
+   "music": 0
+  },
+  {
+   "from": 4.85,
+   "to": 6.31,
+   "sid": 4,
+   "location": 2,
+   "content": "这也是大部分人的通病",
+   "music": 0
+  },
+  {
+   "from": 6.31,
+   "to": 7.81,
+   "sid": 5,
+   "location": 2,
+   "content": "导致投篮射程不远",
+   "music": 0
+  },
+  {
+   "from": 7.81,
+   "to": 9.27,
+   "sid": 6,
+   "location": 2,
+   "content": "上肢主导的发力",
+   "music": 0
+  },
+  {
+   "from": 9.27,
+   "to": 10.73,
+   "sid": 7,
+   "location": 2,
+   "content": "第二推出去",
+   "music": 0
+  },
+  {
+   "from": 10.73,
+   "to": 12.23,
+   "sid": 8,
+   "location": 2,
+   "content": "误以为推就是一段式",
+   "music": 0
+  },
+  {
+   "from": 12.23,
+   "to": 13.79,
+   "sid": 9,
+   "location": 2,
+   "content": "算完小臂后直接就推了",
+   "music": 0
+  },
+  {
+   "from": 13.79,
+   "to": 15.219,
+   "sid": 10,
+   "location": 2,
+   "content": "并没有把手抬起来",
+   "music": 0
+  },
+  {
+   "from": 15.219,
+   "to": 16.859,
+   "sid": 11,
+   "location": 2,
+   "content": "第三手肘外翻",
+   "music": 0
+  },
+  {
+   "from": 16.859,
+   "to": 18.779,
+   "sid": 12,
+   "location": 2,
+   "content": "常见于出手点较低的投篮",
+   "music": 0
+  },
+  {
+   "from": 18.779,
+   "to": 21.35,
+   "sid": 13,
+   "location": 2,
+   "content": "通过手肘外翻来缓解上肢紧张",
+   "music": 0
+  },
+  {
+   "from": 21.35,
+   "to": 23.38,
+   "sid": 14,
+   "location": 2,
+   "content": "第四辅助手不跟随",
+   "music": 0
+  },
+  {
+   "from": 23.38,
+   "to": 25.92,
+   "sid": 15,
+   "location": 2,
+   "content": "很多人不跟随是因为怕辅助手发力",
+   "music": 0
+  },
+  {
+   "from": 25.92,
+   "to": 28.34,
+   "sid": 16,
+   "location": 2,
+   "content": "但如果不跟随就会导致身体不平衡",
+   "music": 0
+  },
+  {
+   "from": 28.34,
+   "to": 29.9,
+   "sid": 17,
+   "location": 2,
+   "content": "只是投篮手出去的话",
+   "music": 0
+  },
+  {
+   "from": 29.9,
+   "to": 31.67,
+   "sid": 18,
+   "location": 2,
+   "content": "上肢会发生较大的旋转",
+   "music": 0
+  },
+  {
+   "from": 31.67,
+   "to": 33.36,
+   "sid": 19,
+   "location": 2,
+   "content": "从而导致投篮不稳定",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 2,
+   "sid": 1,
+   "location": 2,
+   "content": "为什么库里跳得很低",
+   "music": 0
+  },
+  {
+   "from": 2,
+   "to": 3.719,
+   "sid": 2,
+   "location": 2,
+   "content": "却能投得更高更远",
+   "music": 0
+  },
+  {
+   "from": 3.719,
+   "to": 6.359,
+   "sid": 3,
+   "location": 2,
+   "content": "为什么威少西蒙斯身体天赋更好",
+   "music": 0
+  },
+  {
+   "from": 6.359,
+   "to": 7.499,
+   "sid": 4,
+   "location": 2,
+   "content": "爆发力更强",
+   "music": 0
+  },
+  {
+   "from": 7.499,
+   "to": 10.04,
+   "sid": 5,
+   "location": 2,
+   "content": "却经常投篮打铁",
+   "music": 0
+  },
+  {
+   "from": 10.44,
+   "to": 12.65,
+   "sid": 6,
+   "location": 2,
+   "content": "要明白one motion的底层原理",
+   "music": 0
+  },
+  {
+   "from": 12.65,
+   "to": 14.72,
+   "sid": 7,
+   "location": 2,
+   "content": "我们必须理解两个数据",
+   "music": 0
+  },
+  {
+   "from": 14.72,
+   "to": 18.08,
+   "sid": 8,
+   "location": 2,
+   "content": "第一是出手时球速高达10米每秒",
+   "music": 0
+  },
+  {
+   "from": 18.08,
+   "to": 20.63,
+   "sid": 9,
+   "location": 2,
+   "content": "我们知道H等于V方除以2G",
+   "music": 0.11009173806918564
+  },
+  {
+   "from": 20.63,
+   "to": 22.73,
+   "sid": 10,
+   "location": 2,
+   "content": "像库里这样只跳10cm",
+   "music": 0
+  },
+  {
+   "from": 22.73,
+   "to": 25.759,
+   "sid": 11,
+   "location": 2,
+   "content": "离地时的最大速度就只有1.4米每秒",
+   "music": 0
+  },
+  {
+   "from": 25.759,
+   "to": 27.769,
+   "sid": 12,
+   "location": 2,
+   "content": "只占球速的14%",
+   "music": 0
+  },
+  {
+   "from": 27.769,
+   "to": 30.04,
+   "sid": 13,
+   "location": 2,
+   "content": "几乎差了一个数量级",
+   "music": 0
+  },
+  {
+   "from": 31.16,
+   "to": 34.98,
+   "sid": 14,
+   "location": 2,
+   "content": "很多人喜欢把one motion简单归结成一个推子",
+   "music": 0
+  },
+  {
+   "from": 34.98,
+   "to": 36.48,
+   "sid": 15,
+   "location": 2,
+   "content": "然而如此高的球速",
+   "music": 0
+  },
+  {
+   "from": 36.48,
+   "to": 39.7,
+   "sid": 16,
+   "location": 2,
+   "content": "绝不是靠上肢肌肉的强力收缩就能达到的",
+   "music": 0
+  },
+  {
+   "from": 39.7,
+   "to": 40.84,
+   "sid": 17,
+   "location": 2,
+   "content": "实际上",
+   "music": 0
+  },
+  {
+   "from": 40.84,
+   "to": 42.13,
+   "sid": 18,
+   "location": 2,
+   "content": "越是大力推球",
+   "music": 0
+  },
+  {
+   "from": 42.13,
+   "to": 42.88,
+   "sid": 19,
+   "location": 2,
+   "content": "大臂收缩",
+   "music": 0
+  },
+  {
+   "from": 42.88,
+   "to": 45.22,
+   "sid": 20,
+   "location": 2,
+   "content": "肱三头肌就越容易挑手",
+   "music": 0.06315789141274125
+  },
+  {
+   "from": 45.22,
+   "to": 45.64,
+   "sid": 21,
+   "location": 2,
+   "content": "卸力",
+   "music": 0
+  },
+  {
+   "from": 45.64,
+   "to": 46.68,
+   "sid": 22,
+   "location": 2,
+   "content": "旋转不足",
+   "music": 0
+  },
+  {
+   "from": 46.68,
+   "to": 51.1,
+   "sid": 23,
+   "location": 2,
+   "content": "这一点相信每一个经常投篮的同学都深有体会",
+   "music": 0
+  },
+  {
+   "from": 51.62,
+   "to": 54.66,
+   "sid": 24,
+   "location": 2,
+   "content": "第二个数据是出手时手腕的角速度",
+   "music": 0
+  },
+  {
+   "from": 54.66,
+   "to": 56.73,
+   "sid": 25,
+   "location": 2,
+   "content": "库里高达3000多每秒",
+   "music": 0
+  },
+  {
+   "from": 56.73,
+   "to": 58.56,
+   "sid": 26,
+   "location": 2,
+   "content": "它的转速如此之快",
+   "music": 0
+  },
+  {
+   "from": 58.56,
+   "to": 61.38,
+   "sid": 27,
+   "location": 2,
+   "content": "甚至很难找到不糊的影像",
+   "music": 0
+  },
+  {
+   "from": 62.2,
+   "to": 64.68,
+   "sid": 28,
+   "location": 2,
+   "content": "如此高速到底是从哪来的呢",
+   "music": 0
+  },
+  {
+   "from": 64.68,
+   "to": 67.04,
+   "sid": 29,
+   "location": 2,
+   "content": "我认为靠的是甩鞭效应",
+   "music": 0
+  },
+  {
+   "from": 67.04,
+   "to": 70.1,
+   "sid": 30,
+   "location": 2,
+   "content": "鞭子在甩动过程中会逐渐静止",
+   "music": 0
+  },
+  {
+   "from": 70.1,
+   "to": 71.51,
+   "sid": 31,
+   "location": 2,
+   "content": "由于动量守恒",
+   "music": 0
+  },
+  {
+   "from": 71.51,
+   "to": 75.2,
+   "sid": 32,
+   "location": 2,
+   "content": "上一小段的动能会传递到下一小段弧线",
+   "music": 0
+  },
+  {
+   "from": 75.2,
+   "to": 77,
+   "sid": 33,
+   "location": 2,
+   "content": "多小段的动能做个积分",
+   "music": 0
+  },
+  {
+   "from": 77,
+   "to": 80.56,
+   "sid": 34,
+   "location": 2,
+   "content": "理论上最后一段的速度会趋近于无穷大",
+   "music": 0
+  },
+  {
+   "from": 80.56,
+   "to": 81.94,
+   "sid": 35,
+   "location": 2,
+   "content": "现实情况中",
+   "music": 0
+  },
+  {
+   "from": 81.94,
+   "to": 84.58,
+   "sid": 36,
+   "location": 2,
+   "content": "虽然受限于鞭子的质量和长度",
+   "music": 0
+  },
+  {
+   "from": 84.58,
+   "to": 87.01,
+   "sid": 37,
+   "location": 2,
+   "content": "变烧速度仍然超过了音速",
+   "music": 0
+  },
+  {
+   "from": 87.01,
+   "to": 92.25,
+   "sid": 38,
+   "location": 2,
+   "content": "形成音爆甩鞭效应在棒球中更加明显",
+   "music": 0
+  },
+  {
+   "from": 92.25,
+   "to": 94.74,
+   "sid": 39,
+   "location": 2,
+   "content": "MLB的球速记录高达47米",
+   "music": 0
+  },
+  {
+   "from": 94.74,
+   "to": 97.54,
+   "sid": 40,
+   "location": 2,
+   "content": "每秒约168千米每小时",
+   "music": 0
+  },
+  {
+   "from": 97.54,
+   "to": 101.08,
+   "sid": 41,
+   "location": 2,
+   "content": "比库里的球速还高四倍",
+   "music": 0
+  },
+  {
+   "from": 101.41,
+   "to": 102.82,
+   "sid": 42,
+   "location": 2,
+   "content": "有了物理上的知道",
+   "music": 0
+  },
+  {
+   "from": 102.82,
+   "to": 105.13,
+   "sid": 43,
+   "location": 2,
+   "content": "one motion10变得非常明确",
+   "music": 0
+  },
+  {
+   "from": 105.13,
+   "to": 107.62,
+   "sid": 44,
+   "location": 2,
+   "content": "大臂小臂和手臂要柔性连接",
+   "music": 0
+  },
+  {
+   "from": 107.62,
+   "to": 109.54,
+   "sid": 45,
+   "location": 2,
+   "content": "完全放松肌肉",
+   "music": 0
+  },
+  {
+   "from": 109.54,
+   "to": 111.58,
+   "sid": 46,
+   "location": 2,
+   "content": "不处于任何形式的收缩胎",
+   "music": 0
+  },
+  {
+   "from": 111.58,
+   "to": 113.98,
+   "sid": 47,
+   "location": 2,
+   "content": "然后像鞭子一样甩出去",
+   "music": 0
+  },
+  {
+   "from": 114.68,
+   "to": 115.81,
+   "sid": 48,
+   "location": 2,
+   "content": "很反直觉",
+   "music": 0
+  },
+  {
+   "from": 115.81,
+   "to": 116.7,
+   "sid": 49,
+   "location": 2,
+   "content": "不是吗",
+   "music": 0
+  },
+  {
+   "from": 116.7,
+   "to": 118.71,
+   "sid": 50,
+   "location": 2,
+   "content": "我一开始也是不信的",
+   "music": 0
+  },
+  {
+   "from": 118.71,
+   "to": 120.3,
+   "sid": 51,
+   "location": 2,
+   "content": "直到看到了这段采访",
+   "music": 0
+  },
+  {
+   "from": 121.32,
+   "to": 121.92,
+   "sid": 52,
+   "location": 2,
+   "content": "I said now",
+   "music": 0
+  },
+  {
+   "from": 121.92,
+   "to": 126.85,
+   "sid": 53,
+   "location": 2,
+   "content": "How how exactly do throttle that ball from in the outfield to home",
+   "music": 0
+  },
+  {
+   "from": 126.85,
+   "to": 129.22,
+   "sid": 54,
+   "location": 2,
+   "content": "Plate like a laser right",
+   "music": 0
+  },
+  {
+   "from": 129.22,
+   "to": 133.02,
+   "sid": 55,
+   "location": 2,
+   "content": "And he said soft muscle sopa sophommusone",
+   "music": 0
+  },
+  {
+   "from": 133.02,
+   "to": 138.01,
+   "sid": 56,
+   "location": 2,
+   "content": "He said you don't need to be big that is a very slight answer",
+   "music": 0
+  },
+  {
+   "from": 138.01,
+   "to": 140.02,
+   "sid": 57,
+   "location": 2,
+   "content": "实践结果也是如此",
+   "music": 0
+  },
+  {
+   "from": 140.02,
+   "to": 142.06,
+   "sid": 58,
+   "location": 2,
+   "content": "柔软的上肢逐渐甩动",
+   "music": 0
+  },
+  {
+   "from": 142.06,
+   "to": 144.44,
+   "sid": 59,
+   "location": 2,
+   "content": "会使墨收到转速变得很高",
+   "music": 0
+  },
+  {
+   "from": 144.44,
+   "to": 148.04,
+   "sid": 60,
+   "location": 2,
+   "content": "我可以毫不用力地投出超高弧线",
+   "music": 0
+  },
+  {
+   "from": 151.08,
+   "to": 152.57,
+   "sid": 61,
+   "location": 2,
+   "content": "不还没结束",
+   "music": 0
+  },
+  {
+   "from": 152.57,
+   "to": 155.33,
+   "sid": 62,
+   "location": 2,
+   "content": "前面都只是猜想和亲身体会而已",
+   "music": 0
+  },
+  {
+   "from": 155.33,
+   "to": 157.3,
+   "sid": 63,
+   "location": 2,
+   "content": "我无法就这样说服自己",
+   "music": 0
+  },
+  {
+   "from": 157.3,
+   "to": 160.54,
+   "sid": 64,
+   "location": 2,
+   "content": "因此我提取了库里关节角速度数据",
+   "music": 0
+  },
+  {
+   "from": 160.54,
+   "to": 162.82,
+   "sid": 65,
+   "location": 2,
+   "content": "可以看到在release阶段",
+   "music": 0
+  },
+  {
+   "from": 162.82,
+   "to": 165.16,
+   "sid": 66,
+   "location": 2,
+   "content": "肩关节和肘关节均为匀速运动",
+   "music": 0
+  },
+  {
+   "from": 165.16,
+   "to": 168.61,
+   "sid": 67,
+   "location": 2,
+   "content": "说明肌肉没有大臂收缩是非常放松的",
+   "music": 0
+  },
+  {
+   "from": 168.61,
+   "to": 171.7,
+   "sid": 68,
+   "location": 2,
+   "content": "同时肘关节的角速度约等于三倍的肩",
+   "music": 0
+  },
+  {
+   "from": 171.7,
+   "to": 172.7,
+   "sid": 69,
+   "location": 2,
+   "content": "九倍的宽",
+   "music": 0
+  },
+  {
+   "from": 172.7,
+   "to": 175.02,
+   "sid": 70,
+   "location": 2,
+   "content": "和甩鞭模型契合度很高",
+   "music": 0
+  },
+  {
+   "from": 175.02,
+   "to": 177.99,
+   "sid": 71,
+   "location": 2,
+   "content": "反过来上肢只要一主动发力",
+   "music": 0
+  },
+  {
+   "from": 177.99,
+   "to": 180.15,
+   "sid": 72,
+   "location": 2,
+   "content": "肩关节的角速度就会骤降",
+   "music": 0
+  },
+  {
+   "from": 180.15,
+   "to": 182.8,
+   "sid": 73,
+   "location": 2,
+   "content": "三级放大关系也会被打破",
+   "music": 0
+  },
+  {
+   "from": 183.86,
+   "to": 187.54,
+   "sid": 74,
+   "location": 2,
+   "content": "最后甩鞭效应并不只存在于投掷类运动",
+   "music": 0
+  },
+  {
+   "from": 187.54,
+   "to": 190.38,
+   "sid": 75,
+   "location": 2,
+   "content": "拳击和羽毛球中也有大量应用",
+   "music": 0
+  },
+  {
+   "from": 190.38,
+   "to": 193.14,
+   "sid": 76,
+   "location": 2,
+   "content": "感兴趣的朋友可以查看简介中的外链",
+   "music": 0
+  },
+  {
+   "from": 194.58,
+   "to": 195.81,
+   "sid": 77,
+   "location": 2,
+   "content": "关注零天赋",
+   "music": 0
+  },
+  {
+   "from": 195.81,
+   "to": 197.58,
+   "sid": 78,
+   "location": 2,
+   "content": "更多底层细节",
+   "music": 0
+  }
+ ]
+}

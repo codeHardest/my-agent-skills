@@ -1,0 +1,1052 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.28,
+   "sid": 1,
+   "location": 2,
+   "content": "今天这期视频呢简单跟大家聊一聊",
+   "music": 0
+  },
+  {
+   "from": 2.28,
+   "to": 4.5,
+   "sid": 2,
+   "location": 2,
+   "content": "近期在观看库里赛前的有求训练",
+   "music": 0
+  },
+  {
+   "from": 4.5,
+   "to": 5.92,
+   "sid": 3,
+   "location": 2,
+   "content": "总结到的一些细节",
+   "music": 0
+  },
+  {
+   "from": 5.92,
+   "to": 7.9,
+   "sid": 4,
+   "location": 2,
+   "content": "也是发现了一些非常不错的素材",
+   "music": 0
+  },
+  {
+   "from": 7.9,
+   "to": 9.22,
+   "sid": 5,
+   "location": 2,
+   "content": "希望结合我的分析啊",
+   "music": 0
+  },
+  {
+   "from": 9.22,
+   "to": 11.04,
+   "sid": 6,
+   "location": 2,
+   "content": "可以帮助到屏幕前的收集者们",
+   "music": 0
+  },
+  {
+   "from": 11.04,
+   "to": 12.51,
+   "sid": 7,
+   "location": 2,
+   "content": "给到大家一些启发",
+   "music": 0
+  },
+  {
+   "from": 12.51,
+   "to": 13.23,
+   "sid": 8,
+   "location": 2,
+   "content": "话不多说",
+   "music": 0
+  },
+  {
+   "from": 13.23,
+   "to": 14.37,
+   "sid": 9,
+   "location": 2,
+   "content": "我们就开始吧",
+   "music": 0
+  },
+  {
+   "from": 14.37,
+   "to": 18.2,
+   "sid": 10,
+   "location": 2,
+   "content": "首先第一点尽可能的去丰富不同情况下的出手",
+   "music": 0
+  },
+  {
+   "from": 18.2,
+   "to": 20.78,
+   "sid": 11,
+   "location": 2,
+   "content": "你很少会看到库里会在赛前热身的时候",
+   "music": 0
+  },
+  {
+   "from": 20.78,
+   "to": 22.98,
+   "sid": 12,
+   "location": 2,
+   "content": "机械的去做一些重复性的训练",
+   "music": 0
+  },
+  {
+   "from": 22.98,
+   "to": 24.18,
+   "sid": 13,
+   "location": 2,
+   "content": "比如在某一个点位",
+   "music": 0
+  },
+  {
+   "from": 24.18,
+   "to": 27.44,
+   "sid": 14,
+   "location": 2,
+   "content": "用相同的脚步或者相同的技术去连续的投篮",
+   "music": 0
+  },
+  {
+   "from": 27.44,
+   "to": 29.03,
+   "sid": 15,
+   "location": 2,
+   "content": "从而找到投篮手感",
+   "music": 0
+  },
+  {
+   "from": 29.03,
+   "to": 32.84,
+   "sid": 16,
+   "location": 2,
+   "content": "相反你会发现几乎库里的每次出手都是不同的",
+   "music": 0
+  },
+  {
+   "from": 32.84,
+   "to": 33.8,
+   "sid": 17,
+   "location": 2,
+   "content": "比如在这里",
+   "music": 0
+  },
+  {
+   "from": 33.8,
+   "to": 35.98,
+   "sid": 18,
+   "location": 2,
+   "content": "他刚刚完成了运球的左手上篮",
+   "music": 0
+  },
+  {
+   "from": 35.98,
+   "to": 39.52,
+   "sid": 19,
+   "location": 2,
+   "content": "下一个动作就换成了右手的中间",
+   "music": 0
+  },
+  {
+   "from": 42.06,
+   "to": 44.42,
+   "sid": 20,
+   "location": 2,
+   "content": "之后又完成了一次中距离投篮",
+   "music": 0
+  },
+  {
+   "from": 44.42,
+   "to": 45.74,
+   "sid": 21,
+   "location": 2,
+   "content": "不过这球没有进",
+   "music": 0
+  },
+  {
+   "from": 45.74,
+   "to": 48.46,
+   "sid": 22,
+   "location": 2,
+   "content": "库里也是又重新投了一次",
+   "music": 0
+  },
+  {
+   "from": 50.24,
+   "to": 51.88,
+   "sid": 23,
+   "location": 2,
+   "content": "在三分线外也是一样",
+   "music": 0
+  },
+  {
+   "from": 51.88,
+   "to": 54.96,
+   "sid": 24,
+   "location": 2,
+   "content": "命中了原地的结构投篮之后",
+   "music": 0
+  },
+  {
+   "from": 54.96,
+   "to": 59.04,
+   "sid": 25,
+   "location": 2,
+   "content": "接着就改变成运球后左右两侧的一二步投篮",
+   "music": 0
+  },
+  {
+   "from": 63.6,
+   "to": 66.5,
+   "sid": 26,
+   "location": 2,
+   "content": "当然最经典的例子还是库里赛前习惯的",
+   "music": 0
+  },
+  {
+   "from": 66.5,
+   "to": 67.52,
+   "sid": 27,
+   "location": 2,
+   "content": "从近距离投篮",
+   "music": 0
+  },
+  {
+   "from": 67.52,
+   "to": 68.8,
+   "sid": 28,
+   "location": 2,
+   "content": "一直投到中圈附近",
+   "music": 0
+  },
+  {
+   "from": 68.8,
+   "to": 71.26,
+   "sid": 29,
+   "location": 2,
+   "content": "然后再投回来的这个赛前训练环节",
+   "music": 0
+  },
+  {
+   "from": 71.26,
+   "to": 75.1,
+   "sid": 30,
+   "location": 2,
+   "content": "相信大家也都不陌生了",
+   "music": 0
+  },
+  {
+   "from": 80.26,
+   "to": 82.89,
+   "sid": 31,
+   "location": 2,
+   "content": "我们可以看到跟他旁边的队友相比",
+   "music": 0
+  },
+  {
+   "from": 82.89,
+   "to": 84.78,
+   "sid": 32,
+   "location": 2,
+   "content": "他会频繁的改变出手节奏",
+   "music": 0
+  },
+  {
+   "from": 84.78,
+   "to": 87.28,
+   "sid": 33,
+   "location": 2,
+   "content": "也不会在同一个点位耗费过多时间",
+   "music": 0
+  },
+  {
+   "from": 87.28,
+   "to": 89.2,
+   "sid": 34,
+   "location": 2,
+   "content": "追求在有限的热身时间内",
+   "music": 0
+  },
+  {
+   "from": 89.2,
+   "to": 91.75,
+   "sid": 35,
+   "location": 2,
+   "content": "尽可能地投进更多普通情况下的投篮",
+   "music": 0
+  },
+  {
+   "from": 91.75,
+   "to": 94.52,
+   "sid": 36,
+   "location": 2,
+   "content": "我觉得这是赛前热身一个非常好的思路",
+   "music": 0
+  },
+  {
+   "from": 94.52,
+   "to": 95.6,
+   "sid": 37,
+   "location": 2,
+   "content": "毕竟在一场比赛中",
+   "music": 0
+  },
+  {
+   "from": 95.6,
+   "to": 98.56,
+   "sid": 38,
+   "location": 2,
+   "content": "的确很少出现两次相同情况下的投篮",
+   "music": 0
+  },
+  {
+   "from": 98.56,
+   "to": 101.11,
+   "sid": 39,
+   "location": 2,
+   "content": "尽可能地适应更多不同情况下的出手",
+   "music": 0
+  },
+  {
+   "from": 101.11,
+   "to": 104.18,
+   "sid": 40,
+   "location": 2,
+   "content": "也是我一直希望大家在训练中加入的特质",
+   "music": 0
+  },
+  {
+   "from": 104.18,
+   "to": 106.82,
+   "sid": 41,
+   "location": 2,
+   "content": "另外还有一点大家可能也发现了",
+   "music": 0
+  },
+  {
+   "from": 106.82,
+   "to": 108.56,
+   "sid": 42,
+   "location": 2,
+   "content": "就是库里每个动作的出手",
+   "music": 0
+  },
+  {
+   "from": 108.56,
+   "to": 110.1,
+   "sid": 43,
+   "location": 2,
+   "content": "最后都要以命中结束",
+   "music": 0
+  },
+  {
+   "from": 110.1,
+   "to": 111.66,
+   "sid": 44,
+   "location": 2,
+   "content": "再进行到下一个动作",
+   "music": 0
+  },
+  {
+   "from": 111.66,
+   "to": 113.98,
+   "sid": 45,
+   "location": 2,
+   "content": "也就是说投进了再换动作",
+   "music": 0
+  },
+  {
+   "from": 113.98,
+   "to": 114.88,
+   "sid": 46,
+   "location": 2,
+   "content": "这也是我想说的",
+   "music": 0
+  },
+  {
+   "from": 114.88,
+   "to": 115.51,
+   "sid": 47,
+   "location": 2,
+   "content": "第二点",
+   "music": 0
+  },
+  {
+   "from": 115.51,
+   "to": 117.46,
+   "sid": 48,
+   "location": 2,
+   "content": "要通过热身来建立信心",
+   "music": 0
+  },
+  {
+   "from": 117.46,
+   "to": 118.6,
+   "sid": 49,
+   "location": 2,
+   "content": "科比曾经说过",
+   "music": 0
+  },
+  {
+   "from": 118.6,
+   "to": 118.96,
+   "sid": 50,
+   "location": 2,
+   "content": "自信",
+   "music": 0
+  },
+  {
+   "from": 118.96,
+   "to": 120.02,
+   "sid": 51,
+   "location": 2,
+   "content": "以便于准备",
+   "music": 0
+  },
+  {
+   "from": 120.02,
+   "to": 121.04,
+   "sid": 52,
+   "location": 2,
+   "content": "在你热身时",
+   "music": 0
+  },
+  {
+   "from": 121.04,
+   "to": 123.68,
+   "sid": 53,
+   "location": 2,
+   "content": "命中的每一个进球都是一个正向的反馈",
+   "music": 0
+  },
+  {
+   "from": 123.68,
+   "to": 125,
+   "sid": 54,
+   "location": 2,
+   "content": "随着进球的累积",
+   "music": 0
+  },
+  {
+   "from": 125,
+   "to": 125.87,
+   "sid": 55,
+   "location": 2,
+   "content": "每一个点位",
+   "music": 0
+  },
+  {
+   "from": 125.87,
+   "to": 127.32,
+   "sid": 56,
+   "location": 2,
+   "content": "每一项技术的命中",
+   "music": 0
+  },
+  {
+   "from": 127.32,
+   "to": 128.7,
+   "sid": 57,
+   "location": 2,
+   "content": "也会在球员的心里",
+   "music": 0
+  },
+  {
+   "from": 128.7,
+   "to": 131.04,
+   "sid": 58,
+   "location": 2,
+   "content": "逐渐形成一个正向的心理动力",
+   "music": 0
+  },
+  {
+   "from": 131.04,
+   "to": 132.18,
+   "sid": 59,
+   "location": 2,
+   "content": "简单来说",
+   "music": 0
+  },
+  {
+   "from": 132.18,
+   "to": 133.5,
+   "sid": 60,
+   "location": 2,
+   "content": "你在赛前准备的时候",
+   "music": 0
+  },
+  {
+   "from": 133.5,
+   "to": 134.85,
+   "sid": 61,
+   "location": 2,
+   "content": "已经命中过这些进球",
+   "music": 0
+  },
+  {
+   "from": 134.85,
+   "to": 135.74,
+   "sid": 62,
+   "location": 2,
+   "content": "做好了准备",
+   "music": 0
+  },
+  {
+   "from": 135.74,
+   "to": 137,
+   "sid": 63,
+   "location": 2,
+   "content": "那在之后的比赛中",
+   "music": 0
+  },
+  {
+   "from": 137,
+   "to": 138.89,
+   "sid": 64,
+   "location": 2,
+   "content": "你也会更有信心的去命中他们",
+   "music": 0
+  },
+  {
+   "from": 138.89,
+   "to": 140.69,
+   "sid": 65,
+   "location": 2,
+   "content": "相信大家都有过这种情况",
+   "music": 0
+  },
+  {
+   "from": 140.69,
+   "to": 142.16,
+   "sid": 66,
+   "location": 2,
+   "content": "在命中过几个进球之后",
+   "music": 0
+  },
+  {
+   "from": 142.16,
+   "to": 143.68,
+   "sid": 67,
+   "location": 2,
+   "content": "你会感觉手风特别顺",
+   "music": 0
+  },
+  {
+   "from": 143.68,
+   "to": 145.3,
+   "sid": 68,
+   "location": 2,
+   "content": "完全沉浸在比赛当中",
+   "music": 0
+  },
+  {
+   "from": 145.3,
+   "to": 146.92,
+   "sid": 69,
+   "location": 2,
+   "content": "无论怎么投球都会进",
+   "music": 0
+  },
+  {
+   "from": 146.92,
+   "to": 148.1,
+   "sid": 70,
+   "location": 2,
+   "content": "特别的有自信",
+   "music": 0
+  },
+  {
+   "from": 148.1,
+   "to": 149.42,
+   "sid": 71,
+   "location": 2,
+   "content": "有这种情况的收集者",
+   "music": 0
+  },
+  {
+   "from": 149.42,
+   "to": 152.9,
+   "sid": 72,
+   "location": 2,
+   "content": "可以在公屏里分享一下自己当时的感受",
+   "music": 0
+  },
+  {
+   "from": 153.98,
+   "to": 156.91,
+   "sid": 73,
+   "location": 2,
+   "content": "另外我也希望大家不要过度担心投丢的球",
+   "music": 0
+  },
+  {
+   "from": 156.91,
+   "to": 158.2,
+   "sid": 74,
+   "location": 2,
+   "content": "这些都是正常的",
+   "music": 0
+  },
+  {
+   "from": 158.2,
+   "to": 161.32,
+   "sid": 75,
+   "location": 2,
+   "content": "想想强如库里也会在热身中投丢一些球",
+   "music": 0
+  },
+  {
+   "from": 161.32,
+   "to": 162.82,
+   "sid": 76,
+   "location": 2,
+   "content": "那还有什么好担心的呢",
+   "music": 0
+  },
+  {
+   "from": 162.82,
+   "to": 163.87,
+   "sid": 77,
+   "location": 2,
+   "content": "投丢了不要紧",
+   "music": 0
+  },
+  {
+   "from": 163.87,
+   "to": 167.42,
+   "sid": 78,
+   "location": 2,
+   "content": "带着信心投进下一个球就好",
+   "music": 0
+  },
+  {
+   "from": 171.02,
+   "to": 172.96,
+   "sid": 79,
+   "location": 2,
+   "content": "最后也是我觉得非常重要的一点",
+   "music": 0
+  },
+  {
+   "from": 172.96,
+   "to": 174.61,
+   "sid": 80,
+   "location": 2,
+   "content": "就是赛前的心态调整",
+   "music": 0
+  },
+  {
+   "from": 174.61,
+   "to": 176.82,
+   "sid": 81,
+   "location": 2,
+   "content": "我在后台收到过很多受益者的留言",
+   "music": 0
+  },
+  {
+   "from": 176.82,
+   "to": 178.62,
+   "sid": 82,
+   "location": 2,
+   "content": "说自己一打比赛就特紧张",
+   "music": 0
+  },
+  {
+   "from": 178.62,
+   "to": 180.64,
+   "sid": 83,
+   "location": 2,
+   "content": "发挥不出来自己真实的水平",
+   "music": 0
+  },
+  {
+   "from": 180.64,
+   "to": 183.1,
+   "sid": 84,
+   "location": 2,
+   "content": "其实赛前紧张是一件很正常的事情",
+   "music": 0
+  },
+  {
+   "from": 183.1,
+   "to": 184.72,
+   "sid": 85,
+   "location": 2,
+   "content": "紧张说明你在乎",
+   "music": 0
+  },
+  {
+   "from": 184.72,
+   "to": 186.16,
+   "sid": 86,
+   "location": 2,
+   "content": "每个人在面对压力时",
+   "music": 0
+  },
+  {
+   "from": 186.16,
+   "to": 188.18,
+   "sid": 87,
+   "location": 2,
+   "content": "表现出来的应对方式也都不同",
+   "music": 0
+  },
+  {
+   "from": 188.18,
+   "to": 189.14,
+   "sid": 88,
+   "location": 2,
+   "content": "我的建议是",
+   "music": 0
+  },
+  {
+   "from": 189.14,
+   "to": 191.87,
+   "sid": 89,
+   "location": 2,
+   "content": "将这些紧张的情绪更多地转化为兴奋",
+   "music": 0
+  },
+  {
+   "from": 191.87,
+   "to": 194.42,
+   "sid": 90,
+   "location": 2,
+   "content": "开心期待这些积极的信号",
+   "music": 0
+  },
+  {
+   "from": 194.42,
+   "to": 195.68,
+   "sid": 91,
+   "location": 2,
+   "content": "比如在比赛前",
+   "music": 0
+  },
+  {
+   "from": 195.68,
+   "to": 198.9,
+   "sid": 92,
+   "location": 2,
+   "content": "库里总会跟助教BRUCE做一些有趣的仪式互动",
+   "music": 0
+  },
+  {
+   "from": 198.9,
+   "to": 201,
+   "sid": 93,
+   "location": 2,
+   "content": "虽然不太清楚这些首饰的含义",
+   "music": 0
+  },
+  {
+   "from": 201,
+   "to": 203.34,
+   "sid": 94,
+   "location": 2,
+   "content": "大家可以大胆的在公屏里猜测一下",
+   "music": 0
+  },
+  {
+   "from": 203.34,
+   "to": 204.6,
+   "sid": 95,
+   "location": 2,
+   "content": "但我看到的是",
+   "music": 0
+  },
+  {
+   "from": 204.6,
+   "to": 206.38,
+   "sid": 96,
+   "location": 2,
+   "content": "每一位参与者都乐在其中",
+   "music": 0
+  },
+  {
+   "from": 206.38,
+   "to": 209.17,
+   "sid": 97,
+   "location": 2,
+   "content": "这些积极的信号也会感染到身边的队友",
+   "music": 0
+  },
+  {
+   "from": 209.17,
+   "to": 210.58,
+   "sid": 98,
+   "location": 2,
+   "content": "包括跟队友聊聊天",
+   "music": 0
+  },
+  {
+   "from": 210.58,
+   "to": 211.45,
+   "sid": 99,
+   "location": 2,
+   "content": "开开玩笑",
+   "music": 0
+  },
+  {
+   "from": 211.45,
+   "to": 212.14,
+   "sid": 100,
+   "location": 2,
+   "content": "跳一跳",
+   "music": 0
+  },
+  {
+   "from": 212.14,
+   "to": 212.98,
+   "sid": 101,
+   "location": 2,
+   "content": "放松一下",
+   "music": 0
+  },
+  {
+   "from": 212.98,
+   "to": 215.66,
+   "sid": 102,
+   "location": 2,
+   "content": "这都是很好的缓解紧张压力的方式",
+   "music": 0
+  },
+  {
+   "from": 215.66,
+   "to": 218.27,
+   "sid": 103,
+   "location": 2,
+   "content": "就像前两天库里在赛前训练的时候",
+   "music": 0
+  },
+  {
+   "from": 218.27,
+   "to": 219.5,
+   "sid": 104,
+   "location": 2,
+   "content": "发现拦下来一块地板",
+   "music": 0
+  },
+  {
+   "from": 219.5,
+   "to": 220.64,
+   "sid": 105,
+   "location": 2,
+   "content": "好像没安装好",
+   "music": 0
+  },
+  {
+   "from": 220.64,
+   "to": 222.8,
+   "sid": 106,
+   "location": 2,
+   "content": "还在那里花时间测试了一会儿",
+   "music": 0
+  },
+  {
+   "from": 222.8,
+   "to": 224.45,
+   "sid": 107,
+   "location": 2,
+   "content": "跟工作人员反馈完之后",
+   "music": 0
+  },
+  {
+   "from": 224.45,
+   "to": 226.58,
+   "sid": 108,
+   "location": 2,
+   "content": "回头就很随意的进了一个三分",
+   "music": 0
+  },
+  {
+   "from": 226.58,
+   "to": 228.95,
+   "sid": 109,
+   "location": 2,
+   "content": "给人的感觉就是一切都很放松",
+   "music": 0
+  },
+  {
+   "from": 228.95,
+   "to": 231.28,
+   "sid": 110,
+   "location": 2,
+   "content": "打球本应是一件开心的事情",
+   "music": 0
+  },
+  {
+   "from": 231.28,
+   "to": 233.32,
+   "sid": 111,
+   "location": 2,
+   "content": "上场比赛享受比赛就好",
+   "music": 0
+  },
+  {
+   "from": 235.3,
+   "to": 237.85,
+   "sid": 112,
+   "location": 2,
+   "content": "在视频的最后跟大家简单的总结一下",
+   "music": 0
+  },
+  {
+   "from": 237.85,
+   "to": 239.16,
+   "sid": 113,
+   "location": 2,
+   "content": "在赛前的训练中",
+   "music": 0
+  },
+  {
+   "from": 239.16,
+   "to": 241.65,
+   "sid": 114,
+   "location": 2,
+   "content": "与其机械性的重复相同的投篮动作",
+   "music": 0
+  },
+  {
+   "from": 241.65,
+   "to": 242.64,
+   "sid": 115,
+   "location": 2,
+   "content": "不如尝试一下",
+   "music": 0
+  },
+  {
+   "from": 242.64,
+   "to": 244.64,
+   "sid": 116,
+   "location": 2,
+   "content": "在每次投篮中加入一些变化",
+   "music": 0
+  },
+  {
+   "from": 244.64,
+   "to": 246.41,
+   "sid": 117,
+   "location": 2,
+   "content": "适应更多情况下的出手",
+   "music": 0
+  },
+  {
+   "from": 246.41,
+   "to": 248.42,
+   "sid": 118,
+   "location": 2,
+   "content": "另外投丢了就继续投",
+   "music": 0
+  },
+  {
+   "from": 248.42,
+   "to": 250.52,
+   "sid": 119,
+   "location": 2,
+   "content": "投进了之后再去换下一个动作",
+   "music": 0
+  },
+  {
+   "from": 250.52,
+   "to": 252.65,
+   "sid": 120,
+   "location": 2,
+   "content": "保持一个正向的心理动力",
+   "music": 0
+  },
+  {
+   "from": 252.65,
+   "to": 254.78,
+   "sid": 121,
+   "location": 2,
+   "content": "最后调整好赛前的心态",
+   "music": 0
+  },
+  {
+   "from": 254.78,
+   "to": 256.49,
+   "sid": 122,
+   "location": 2,
+   "content": "将紧张转化为期待",
+   "music": 0
+  },
+  {
+   "from": 256.49,
+   "to": 258.14,
+   "sid": 123,
+   "location": 2,
+   "content": "打球是一件开心的事情",
+   "music": 0
+  },
+  {
+   "from": 258.14,
+   "to": 259.58,
+   "sid": 124,
+   "location": 2,
+   "content": "不要给自己太大压力",
+   "music": 0
+  },
+  {
+   "from": 259.58,
+   "to": 261.079,
+   "sid": 125,
+   "location": 2,
+   "content": "好好的享受比赛",
+   "music": 0
+  },
+  {
+   "from": 261.079,
+   "to": 263.479,
+   "sid": 126,
+   "location": 2,
+   "content": "那么以上就这些宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 263.479,
+   "to": 265.76,
+   "sid": 127,
+   "location": 2,
+   "content": "希望对大家的赛前训练有所启发",
+   "music": 0
+  },
+  {
+   "from": 265.76,
+   "to": 267.2,
+   "sid": 128,
+   "location": 2,
+   "content": "如果大家喜欢这期视频",
+   "music": 0
+  },
+  {
+   "from": 267.2,
+   "to": 269.66,
+   "sid": 129,
+   "location": 2,
+   "content": "可以通过点赞三连来继续支持咱们频道",
+   "music": 0
+  },
+  {
+   "from": 269.66,
+   "to": 272.96,
+   "sid": 130,
+   "location": 2,
+   "content": "非常感谢我们下期再见",
+   "music": 0
+  }
+ ]
+}

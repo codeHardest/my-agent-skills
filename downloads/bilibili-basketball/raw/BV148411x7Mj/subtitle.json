@@ -1,0 +1,89 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 1.26,
+   "sid": 1,
+   "location": 2,
+   "content": "这胯下农国人吗"
+  },
+  {
+   "from": 1.26,
+   "to": 5.84,
+   "sid": 2,
+   "location": 2,
+   "content": "看下终结者是不是你what直夸下"
+  },
+  {
+   "from": 5.84,
+   "to": 6.62,
+   "sid": 3,
+   "location": 2,
+   "content": "很简单"
+  },
+  {
+   "from": 6.62,
+   "to": 7.46,
+   "sid": 4,
+   "location": 2,
+   "content": "没有变数"
+  },
+  {
+   "from": 7.46,
+   "to": 8.78,
+   "sid": 5,
+   "location": 2,
+   "content": "你看走这样"
+  },
+  {
+   "from": 8.78,
+   "to": 10.61,
+   "sid": 6,
+   "location": 2,
+   "content": "这时候你能把防守队员定住"
+  },
+  {
+   "from": 10.61,
+   "to": 11.48,
+   "sid": 7,
+   "location": 2,
+   "content": "也能产生"
+  },
+  {
+   "from": 11.48,
+   "to": 13.04,
+   "sid": 8,
+   "location": 2,
+   "content": "你看第一个往那边去"
+  },
+  {
+   "from": 13.04,
+   "to": 14.84,
+   "sid": 9,
+   "location": 2,
+   "content": "步行跨往那边走啊"
+  },
+  {
+   "from": 15.16,
+   "to": 16.93,
+   "sid": 10,
+   "location": 2,
+   "content": "下脚步反中"
+  },
+  {
+   "from": 16.93,
+   "to": 22.44,
+   "sid": 11,
+   "location": 2,
+   "content": "这样上脚平角那个球飘的会更远"
+  }
+ ]
+}

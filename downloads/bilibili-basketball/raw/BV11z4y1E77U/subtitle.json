@@ -1,0 +1,340 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.7,
+   "sid": 1,
+   "location": 2,
+   "content": "好多兄弟在自己打球的时候遇到突破",
+   "music": 0
+  },
+  {
+   "from": 2.7,
+   "to": 5.76,
+   "sid": 2,
+   "location": 2,
+   "content": "转身合球时机的问题",
+   "music": 0.3138686016836278
+  },
+  {
+   "from": 8.02,
+   "to": 8.8,
+   "sid": 3,
+   "location": 2,
+   "content": "头发情况",
+   "music": 0.030303025711662122
+  },
+  {
+   "from": 8.8,
+   "to": 10.06,
+   "sid": 4,
+   "location": 2,
+   "content": "然后再来一个隔空",
+   "music": 0
+  },
+  {
+   "from": 10.06,
+   "to": 11.05,
+   "sid": 5,
+   "location": 2,
+   "content": "显得非常的尴尬",
+   "music": 0
+  },
+  {
+   "from": 11.05,
+   "to": 12.7,
+   "sid": 6,
+   "location": 2,
+   "content": "今天我介绍两种情况",
+   "music": 0
+  },
+  {
+   "from": 12.7,
+   "to": 15.54,
+   "sid": 7,
+   "location": 2,
+   "content": "帮你解决转身合球时机的问题",
+   "music": 0
+  },
+  {
+   "from": 15.54,
+   "to": 17.31,
+   "sid": 8,
+   "location": 2,
+   "content": "欢迎来到这期的团别慌",
+   "music": 0
+  },
+  {
+   "from": 17.31,
+   "to": 20.6,
+   "sid": 9,
+   "location": 2,
+   "content": "第一种情况就是在我们三维胁突破的中",
+   "music": 0
+  },
+  {
+   "from": 20.6,
+   "to": 22.88,
+   "sid": 10,
+   "location": 2,
+   "content": "对方采取的是一个顶防式",
+   "music": 0
+  },
+  {
+   "from": 22.88,
+   "to": 24.92,
+   "sid": 11,
+   "location": 2,
+   "content": "在我的身体右侧不让我往前走了",
+   "music": 0
+  },
+  {
+   "from": 24.92,
+   "to": 27.63,
+   "sid": 12,
+   "location": 2,
+   "content": "那个瞬间我要选的就是合球",
+   "music": 0
+  },
+  {
+   "from": 27.63,
+   "to": 29.4,
+   "sid": 13,
+   "location": 2,
+   "content": "那个时候合球一点毛病没有",
+   "music": 0
+  },
+  {
+   "from": 29.4,
+   "to": 32.259,
+   "sid": 14,
+   "location": 2,
+   "content": "合球过来以后转身过来投篮",
+   "music": 0
+  },
+  {
+   "from": 32.259,
+   "to": 35.199,
+   "sid": 15,
+   "location": 2,
+   "content": "或者是转身过来以后直接上下步",
+   "music": 0
+  },
+  {
+   "from": 35.199,
+   "to": 37.36,
+   "sid": 16,
+   "location": 2,
+   "content": "这个选择合球就没有问题",
+   "music": 0
+  },
+  {
+   "from": 37.36,
+   "to": 38.92,
+   "sid": 17,
+   "location": 2,
+   "content": "第二种情况",
+   "music": 0
+  },
+  {
+   "from": 38.92,
+   "to": 41.11,
+   "sid": 18,
+   "location": 2,
+   "content": "突破放到这里说",
+   "music": 0.35460990392837466
+  },
+  {
+   "from": 41.11,
+   "to": 44.32,
+   "sid": 19,
+   "location": 2,
+   "content": "他没有在我的肩膀或者突破路线的右侧",
+   "music": 0
+  },
+  {
+   "from": 44.32,
+   "to": 46.3,
+   "sid": 20,
+   "location": 2,
+   "content": "这种时候千万不要合球",
+   "music": 0
+  },
+  {
+   "from": 46.3,
+   "to": 49.79,
+   "sid": 21,
+   "location": 2,
+   "content": "一合球就会出现这种问题",
+   "music": 0
+  },
+  {
+   "from": 49.79,
+   "to": 50.9,
+   "sid": 22,
+   "location": 2,
+   "content": "被人一个大熊猫",
+   "music": 0
+  },
+  {
+   "from": 50.9,
+   "to": 52.64,
+   "sid": 23,
+   "location": 2,
+   "content": "要么就很难去创造空间",
+   "music": 0
+  },
+  {
+   "from": 52.64,
+   "to": 54.68,
+   "sid": 24,
+   "location": 2,
+   "content": "所以这种情况介绍一个方法",
+   "music": 0
+  },
+  {
+   "from": 54.68,
+   "to": 59.34,
+   "sid": 25,
+   "location": 2,
+   "content": "就是要转过来以后放球防守突破",
+   "music": 0
+  },
+  {
+   "from": 59.34,
+   "to": 62.46,
+   "sid": 26,
+   "location": 2,
+   "content": "这样的话他如果顶上来可以对抗",
+   "music": 0
+  },
+  {
+   "from": 62.46,
+   "to": 63.84,
+   "sid": 27,
+   "location": 2,
+   "content": "创造空间",
+   "music": 0
+  },
+  {
+   "from": 63.84,
+   "to": 66.42,
+   "sid": 28,
+   "location": 2,
+   "content": "也可以再接转身",
+   "music": 0
+  },
+  {
+   "from": 67.8,
+   "to": 72.2,
+   "sid": 29,
+   "location": 2,
+   "content": "所以转身选择大家可以根据这两种情况去判断",
+   "music": 0
+  },
+  {
+   "from": 72.2,
+   "to": 74,
+   "sid": 30,
+   "location": 2,
+   "content": "去选择自己运用的技术",
+   "music": 0
+  },
+  {
+   "from": 74,
+   "to": 76.16,
+   "sid": 31,
+   "location": 2,
+   "content": "最后呢我特别跟大家强调一点",
+   "music": 0
+  },
+  {
+   "from": 76.16,
+   "to": 78.49,
+   "sid": 32,
+   "location": 2,
+   "content": "如果你转身回来有机会要投篮的时候",
+   "music": 0
+  },
+  {
+   "from": 78.49,
+   "to": 81.49,
+   "sid": 33,
+   "location": 2,
+   "content": "其实刚开始的时候要巩固自己的重心",
+   "music": 0
+  },
+  {
+   "from": 81.49,
+   "to": 84.56,
+   "sid": 34,
+   "location": 2,
+   "content": "就是转过来控制直上直下",
+   "music": 0
+  },
+  {
+   "from": 84.72,
+   "to": 87.08,
+   "sid": 35,
+   "location": 2,
+   "content": "如果熟练了以后加一点后仰",
+   "music": 0
+  },
+  {
+   "from": 88.64,
+   "to": 91.42,
+   "sid": 36,
+   "location": 2,
+   "content": "这样的转身投篮就会显得无比的丝滑",
+   "music": 0
+  },
+  {
+   "from": 91.42,
+   "to": 94,
+   "sid": 37,
+   "location": 2,
+   "content": "好好好好好好哈登哈哈哈",
+   "music": 0
+  },
+  {
+   "from": 94,
+   "to": 94.42,
+   "sid": 38,
+   "location": 2,
+   "content": "兄弟们",
+   "music": 0
+  },
+  {
+   "from": 94.42,
+   "to": 96.46,
+   "sid": 39,
+   "location": 2,
+   "content": "感谢大家的点赞和关注",
+   "music": 0
+  },
+  {
+   "from": 96.46,
+   "to": 97.93,
+   "sid": 40,
+   "location": 2,
+   "content": "我们下期鹏友别慌",
+   "music": 0.25899278712282053
+  },
+  {
+   "from": 97.93,
+   "to": 98.5,
+   "sid": 41,
+   "location": 2,
+   "content": "再见",
+   "music": 0
+  }
+ ]
+}

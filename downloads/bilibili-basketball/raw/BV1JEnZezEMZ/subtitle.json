@@ -1,0 +1,1172 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.02,
+   "to": 1.04,
+   "sid": 1,
+   "location": 2,
+   "content": "运球没有脚步",
+   "music": 0
+  },
+  {
+   "from": 1.04,
+   "to": 2.54,
+   "sid": 2,
+   "location": 2,
+   "content": "就像这样一顿操作",
+   "music": 0
+  },
+  {
+   "from": 2.54,
+   "to": 4.54,
+   "sid": 3,
+   "location": 2,
+   "content": "还是在原地一点用都没有",
+   "music": 0
+  },
+  {
+   "from": 4.54,
+   "to": 6.52,
+   "sid": 4,
+   "location": 2,
+   "content": "运球的脚步突破变身术",
+   "music": 0
+  },
+  {
+   "from": 6.52,
+   "to": 8.96,
+   "sid": 5,
+   "location": 2,
+   "content": "即使慢悠悠也能轻松过掉防守",
+   "music": 0
+  },
+  {
+   "from": 8.96,
+   "to": 11.04,
+   "sid": 6,
+   "location": 2,
+   "content": "把这十大基础脚步整明白了",
+   "music": 0
+  },
+  {
+   "from": 11.04,
+   "to": 13,
+   "sid": 7,
+   "location": 2,
+   "content": "你的球技一定会有很大的帮助",
+   "music": 0
+  },
+  {
+   "from": 13,
+   "to": 14.92,
+   "sid": 8,
+   "location": 2,
+   "content": "这步作为最常用的突破基础",
+   "music": 0
+  },
+  {
+   "from": 14.92,
+   "to": 16.61,
+   "sid": 9,
+   "location": 2,
+   "content": "是能让我们瞬间提速",
+   "music": 0
+  },
+  {
+   "from": 16.61,
+   "to": 17.73,
+   "sid": 10,
+   "location": 2,
+   "content": "两脚平行站立",
+   "music": 0
+  },
+  {
+   "from": 17.73,
+   "to": 18.57,
+   "sid": 11,
+   "location": 2,
+   "content": "屈膝屈髋",
+   "music": 0
+  },
+  {
+   "from": 18.57,
+   "to": 19.84,
+   "sid": 12,
+   "location": 2,
+   "content": "两侧垂直运球",
+   "music": 0
+  },
+  {
+   "from": 19.84,
+   "to": 21.86,
+   "sid": 13,
+   "location": 2,
+   "content": "手将球往后拉至口袋附近",
+   "music": 0
+  },
+  {
+   "from": 21.86,
+   "to": 25.3,
+   "sid": 14,
+   "location": 2,
+   "content": "脚下的动作是分离两脚一前一后形成坠步姿态",
+   "music": 0
+  },
+  {
+   "from": 25.3,
+   "to": 26.42,
+   "sid": 15,
+   "location": 2,
+   "content": "后脚蹬地发力",
+   "music": 0
+  },
+  {
+   "from": 26.42,
+   "to": 27.38,
+   "sid": 16,
+   "location": 2,
+   "content": "启动加速",
+   "music": 0
+  },
+  {
+   "from": 27.38,
+   "to": 29.38,
+   "sid": 17,
+   "location": 2,
+   "content": "这就是坠步最基础的形态",
+   "music": 0
+  },
+  {
+   "from": 29.38,
+   "to": 31.84,
+   "sid": 18,
+   "location": 2,
+   "content": "紧接着后脚往侧前方迈步",
+   "music": 0
+  },
+  {
+   "from": 31.84,
+   "to": 33.07,
+   "sid": 19,
+   "location": 2,
+   "content": "衔接运球步",
+   "music": 0
+  },
+  {
+   "from": 33.07,
+   "to": 34.87,
+   "sid": 20,
+   "location": 2,
+   "content": "运球步的概念大概就是",
+   "music": 0
+  },
+  {
+   "from": 34.87,
+   "to": 37.03,
+   "sid": 21,
+   "location": 2,
+   "content": "你的球要比对侧脚先落地",
+   "music": 0
+  },
+  {
+   "from": 37.03,
+   "to": 38.03,
+   "sid": 22,
+   "location": 2,
+   "content": "虽然很简单",
+   "music": 0
+  },
+  {
+   "from": 38.03,
+   "to": 39.21,
+   "sid": 23,
+   "location": 2,
+   "content": "但是很有用",
+   "music": 0
+  },
+  {
+   "from": 39.21,
+   "to": 41.13,
+   "sid": 24,
+   "location": 2,
+   "content": "随后外侧脚向外迈步",
+   "music": 0
+  },
+  {
+   "from": 41.13,
+   "to": 42.39,
+   "sid": 25,
+   "location": 2,
+   "content": "落地后自动急停",
+   "music": 0
+  },
+  {
+   "from": 42.39,
+   "to": 43.61,
+   "sid": 26,
+   "location": 2,
+   "content": "同时炸球降速",
+   "music": 0
+  },
+  {
+   "from": 43.61,
+   "to": 44.61,
+   "sid": 27,
+   "location": 2,
+   "content": "通常情况下",
+   "music": 0
+  },
+  {
+   "from": 44.61,
+   "to": 47.74,
+   "sid": 28,
+   "location": 2,
+   "content": "同侧步急停后已经和防守人拉开距离了",
+   "music": 0
+  },
+  {
+   "from": 47.74,
+   "to": 49.56,
+   "sid": 29,
+   "location": 2,
+   "content": "我们可以马上衔接并步投篮",
+   "music": 0
+  },
+  {
+   "from": 49.56,
+   "to": 50.62,
+   "sid": 30,
+   "location": 2,
+   "content": "同侧步急停后",
+   "music": 0
+  },
+  {
+   "from": 50.62,
+   "to": 52.18,
+   "sid": 31,
+   "location": 2,
+   "content": "此时是一前一后的脚步",
+   "music": 0
+  },
+  {
+   "from": 52.18,
+   "to": 53.72,
+   "sid": 32,
+   "location": 2,
+   "content": "随后两脚迅速冲刺",
+   "music": 0
+  },
+  {
+   "from": 53.72,
+   "to": 56.04,
+   "sid": 33,
+   "location": 2,
+   "content": "同时在重心的位置前脚掌着地",
+   "music": 0
+  },
+  {
+   "from": 56.04,
+   "to": 59.54,
+   "sid": 34,
+   "location": 2,
+   "content": "呈并步投篮脚步合球完成投篮",
+   "music": 0
+  },
+  {
+   "from": 59.78,
+   "to": 61.06,
+   "sid": 35,
+   "location": 2,
+   "content": "即使同侧步急停",
+   "music": 0
+  },
+  {
+   "from": 61.06,
+   "to": 62.32,
+   "sid": 36,
+   "location": 2,
+   "content": "没把防守甩开",
+   "music": 0
+  },
+  {
+   "from": 62.32,
+   "to": 63.72,
+   "sid": 37,
+   "location": 2,
+   "content": "我们依然有变招",
+   "music": 0
+  },
+  {
+   "from": 63.72,
+   "to": 66.78,
+   "sid": 38,
+   "location": 2,
+   "content": "同侧步急停后衔接犹豫步投篮",
+   "music": 0
+  },
+  {
+   "from": 67.64,
+   "to": 68.8,
+   "sid": 39,
+   "location": 2,
+   "content": "同侧步急停后",
+   "music": 0
+  },
+  {
+   "from": 68.8,
+   "to": 70.46,
+   "sid": 40,
+   "location": 2,
+   "content": "此时是一前一后的脚步",
+   "music": 0
+  },
+  {
+   "from": 70.46,
+   "to": 72.08,
+   "sid": 41,
+   "location": 2,
+   "content": "随后后脚再次蹬地发力",
+   "music": 0
+  },
+  {
+   "from": 72.08,
+   "to": 73.43,
+   "sid": 42,
+   "location": 2,
+   "content": "带动身体向前移动",
+   "music": 0
+  },
+  {
+   "from": 73.43,
+   "to": 75.07,
+   "sid": 43,
+   "location": 2,
+   "content": "前脚顺势向前迈步",
+   "music": 0
+  },
+  {
+   "from": 75.07,
+   "to": 75.91,
+   "sid": 44,
+   "location": 2,
+   "content": "自动急停",
+   "music": 0
+  },
+  {
+   "from": 75.91,
+   "to": 76.77,
+   "sid": 45,
+   "location": 2,
+   "content": "压低重心",
+   "music": 0
+  },
+  {
+   "from": 76.77,
+   "to": 78.71,
+   "sid": 46,
+   "location": 2,
+   "content": "后脚跟向成投篮脚步合球",
+   "music": 0
+  },
+  {
+   "from": 78.71,
+   "to": 80.27,
+   "sid": 47,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 81.74,
+   "to": 84.98,
+   "sid": 48,
+   "location": 2,
+   "content": "我们也可以选择主动拉开进攻空间",
+   "music": 0
+  },
+  {
+   "from": 84.98,
+   "to": 87.1,
+   "sid": 49,
+   "location": 2,
+   "content": "同侧步急停后衔接侧步投篮",
+   "music": 0
+  },
+  {
+   "from": 87.1,
+   "to": 88.34,
+   "sid": 50,
+   "location": 2,
+   "content": "同侧步急停后",
+   "music": 0
+  },
+  {
+   "from": 88.34,
+   "to": 90.16,
+   "sid": 51,
+   "location": 2,
+   "content": "此时是一前一后的脚步",
+   "music": 0
+  },
+  {
+   "from": 90.16,
+   "to": 91.68,
+   "sid": 52,
+   "location": 2,
+   "content": "后脚侧蹬发力",
+   "music": 0
+  },
+  {
+   "from": 91.68,
+   "to": 93.66,
+   "sid": 53,
+   "location": 2,
+   "content": "带动身体往侧向移动",
+   "music": 0
+  },
+  {
+   "from": 93.66,
+   "to": 96.1,
+   "sid": 54,
+   "location": 2,
+   "content": "衔接一二投篮脚步合球",
+   "music": 0
+  },
+  {
+   "from": 96.1,
+   "to": 97.56,
+   "sid": 55,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 99.82,
+   "to": 100.66,
+   "sid": 56,
+   "location": 2,
+   "content": "除此之外",
+   "music": 0
+  },
+  {
+   "from": 100.66,
+   "to": 101.62,
+   "sid": 57,
+   "location": 2,
+   "content": "做坠步的时候",
+   "music": 0
+  },
+  {
+   "from": 101.62,
+   "to": 105.38,
+   "sid": 58,
+   "location": 2,
+   "content": "我们可以根据防守的反应和站位改变进攻方向",
+   "music": 0
+  },
+  {
+   "from": 105.38,
+   "to": 107.44,
+   "sid": 59,
+   "location": 2,
+   "content": "衔接变向延伸变向",
+   "music": 0
+  },
+  {
+   "from": 107.44,
+   "to": 110.069,
+   "sid": 60,
+   "location": 2,
+   "content": "又或者是胯下衔接胯下时",
+   "music": 0
+  },
+  {
+   "from": 110.069,
+   "to": 112.49,
+   "sid": 61,
+   "location": 2,
+   "content": "自然少不了胯下大师哈登的挖步",
+   "music": 0
+  },
+  {
+   "from": 112.49,
+   "to": 114.83,
+   "sid": 62,
+   "location": 2,
+   "content": "胯下结合挖步速度再次提速",
+   "music": 0
+  },
+  {
+   "from": 114.83,
+   "to": 116.37,
+   "sid": 63,
+   "location": 2,
+   "content": "快下时前脚往后撤",
+   "music": 0
+  },
+  {
+   "from": 116.37,
+   "to": 118.35,
+   "sid": 64,
+   "location": 2,
+   "content": "身体会有一种向前扑的感觉",
+   "music": 0
+  },
+  {
+   "from": 118.35,
+   "to": 119.47,
+   "sid": 65,
+   "location": 2,
+   "content": "再次蹬地发力",
+   "music": 0
+  },
+  {
+   "from": 119.47,
+   "to": 121.009,
+   "sid": 66,
+   "location": 2,
+   "content": "带动身体向前加速",
+   "music": 0
+  },
+  {
+   "from": 121.009,
+   "to": 123.929,
+   "sid": 67,
+   "location": 2,
+   "content": "这步八步能让我们启动的时候瞬间提速",
+   "music": 0
+  },
+  {
+   "from": 123.929,
+   "to": 127.129,
+   "sid": 68,
+   "location": 2,
+   "content": "而内侧步能让我们在突破的时候抢占进攻空间",
+   "music": 0
+  },
+  {
+   "from": 127.129,
+   "to": 129.889,
+   "sid": 69,
+   "location": 2,
+   "content": "相当于把侧面突破变成了正面突破",
+   "music": 0
+  },
+  {
+   "from": 129.889,
+   "to": 131.529,
+   "sid": 70,
+   "location": 2,
+   "content": "两脚左右开立换手",
+   "music": 0
+  },
+  {
+   "from": 131.529,
+   "to": 133.789,
+   "sid": 71,
+   "location": 2,
+   "content": "运球后内侧脚贴近外侧脚",
+   "music": 0
+  },
+  {
+   "from": 133.789,
+   "to": 134.82,
+   "sid": 72,
+   "location": 2,
+   "content": "划膝迈步",
+   "music": 0
+  },
+  {
+   "from": 134.82,
+   "to": 136.16,
+   "sid": 73,
+   "location": 2,
+   "content": "注意要贴近外侧脚",
+   "music": 0
+  },
+  {
+   "from": 136.16,
+   "to": 137.68,
+   "sid": 74,
+   "location": 2,
+   "content": "不然容易做成交叉步",
+   "music": 0
+  },
+  {
+   "from": 137.68,
+   "to": 139.18,
+   "sid": 75,
+   "location": 2,
+   "content": "脚尖指向突破方向",
+   "music": 0
+  },
+  {
+   "from": 139.18,
+   "to": 140.22,
+   "sid": 76,
+   "location": 2,
+   "content": "前脚掌着地",
+   "music": 0
+  },
+  {
+   "from": 140.22,
+   "to": 142.34,
+   "sid": 77,
+   "location": 2,
+   "content": "髋也尽量朝向突破方向",
+   "music": 0
+  },
+  {
+   "from": 142.34,
+   "to": 144.06,
+   "sid": 78,
+   "location": 2,
+   "content": "这就是内侧部的精髓",
+   "music": 0
+  },
+  {
+   "from": 144.06,
+   "to": 146.54,
+   "sid": 79,
+   "location": 2,
+   "content": "大家多去感受一下身体交叉步",
+   "music": 0
+  },
+  {
+   "from": 146.54,
+   "to": 147.22,
+   "sid": 80,
+   "location": 2,
+   "content": "快多了",
+   "music": 0
+  },
+  {
+   "from": 147.22,
+   "to": 149.74,
+   "sid": 81,
+   "location": 2,
+   "content": "交叉步可能我们很自然的就能做出来",
+   "music": 0
+  },
+  {
+   "from": 149.74,
+   "to": 152.54,
+   "sid": 82,
+   "location": 2,
+   "content": "内侧步的话还是得刻意去练",
+   "music": 0
+  },
+  {
+   "from": 154.12,
+   "to": 157.24,
+   "sid": 83,
+   "location": 2,
+   "content": "哦光块其实有时候很容易挨冒",
+   "music": 0
+  },
+  {
+   "from": 157.24,
+   "to": 158.24,
+   "sid": 84,
+   "location": 2,
+   "content": "懂得慢下来",
+   "music": 0
+  },
+  {
+   "from": 158.24,
+   "to": 160.94,
+   "sid": 85,
+   "location": 2,
+   "content": "打时间差才是古希腊掌握少来的神",
+   "music": 0
+  },
+  {
+   "from": 160.94,
+   "to": 162.56,
+   "sid": 86,
+   "location": 2,
+   "content": "内饰部衔接欧洲步",
+   "music": 0
+  },
+  {
+   "from": 162.56,
+   "to": 163.6,
+   "sid": 87,
+   "location": 2,
+   "content": "使用欧洲步时",
+   "music": 0
+  },
+  {
+   "from": 163.6,
+   "to": 165.84,
+   "sid": 88,
+   "location": 2,
+   "content": "外侧脚要稍微带点急停减速",
+   "music": 0
+  },
+  {
+   "from": 165.84,
+   "to": 167.3,
+   "sid": 89,
+   "location": 2,
+   "content": "发力点要往侧蹬",
+   "music": 0
+  },
+  {
+   "from": 167.3,
+   "to": 168.98,
+   "sid": 90,
+   "location": 2,
+   "content": "内侧脚往内横跨",
+   "music": 0
+  },
+  {
+   "from": 168.98,
+   "to": 169.76,
+   "sid": 91,
+   "location": 2,
+   "content": "改变方向",
+   "music": 0
+  },
+  {
+   "from": 169.76,
+   "to": 170.44,
+   "sid": 92,
+   "location": 2,
+   "content": "制造横移",
+   "music": 0
+  },
+  {
+   "from": 170.44,
+   "to": 171.38,
+   "sid": 93,
+   "location": 2,
+   "content": "创造空间",
+   "music": 0
+  },
+  {
+   "from": 171.38,
+   "to": 174.14,
+   "sid": 94,
+   "location": 2,
+   "content": "防守几乎很难再次防上来",
+   "music": 0
+  },
+  {
+   "from": 174.14,
+   "to": 175,
+   "sid": 95,
+   "location": 2,
+   "content": "就像",
+   "music": 0
+  },
+  {
+   "from": 177.66,
+   "to": 178.9,
+   "sid": 96,
+   "location": 2,
+   "content": "说到散人的脚步",
+   "music": 0
+  },
+  {
+   "from": 178.9,
+   "to": 180.94,
+   "sid": 97,
+   "location": 2,
+   "content": "怎么能少得了隆多的上下步呢",
+   "music": 0
+  },
+  {
+   "from": 182.02,
+   "to": 183.14,
+   "sid": 98,
+   "location": 2,
+   "content": "同样使用内置步骤",
+   "music": 0
+  },
+  {
+   "from": 183.14,
+   "to": 185.38,
+   "sid": 99,
+   "location": 2,
+   "content": "加速外侧脚落地后带点刹车",
+   "music": 0
+  },
+  {
+   "from": 185.38,
+   "to": 186.46,
+   "sid": 100,
+   "location": 2,
+   "content": "左手运球收球",
+   "music": 0
+  },
+  {
+   "from": 186.46,
+   "to": 188.22,
+   "sid": 101,
+   "location": 2,
+   "content": "换到右手做上篮假动作",
+   "music": 0
+  },
+  {
+   "from": 188.22,
+   "to": 189.86,
+   "sid": 102,
+   "location": 2,
+   "content": "内侧脚侧着落地急停",
+   "music": 0
+  },
+  {
+   "from": 189.86,
+   "to": 191.86,
+   "sid": 103,
+   "location": 2,
+   "content": "以外侧脚为轴衔接转身",
+   "music": 0
+  },
+  {
+   "from": 191.86,
+   "to": 194.14,
+   "sid": 104,
+   "location": 2,
+   "content": "内侧脚上步完成上篮",
+   "music": 0
+  },
+  {
+   "from": 198.3,
+   "to": 200.76,
+   "sid": 105,
+   "location": 2,
+   "content": "胯下四步同样是突破换人杀招",
+   "music": 0
+  },
+  {
+   "from": 200.76,
+   "to": 202.14,
+   "sid": 106,
+   "location": 2,
+   "content": "重点是脚步动作",
+   "music": 0
+  },
+  {
+   "from": 202.14,
+   "to": 203.04,
+   "sid": 107,
+   "location": 2,
+   "content": "胯下下球",
+   "music": 0
+  },
+  {
+   "from": 203.04,
+   "to": 204.91,
+   "sid": 108,
+   "location": 2,
+   "content": "两脚一前一后坠步姿态",
+   "music": 0
+  },
+  {
+   "from": 204.91,
+   "to": 208.07,
+   "sid": 109,
+   "location": 2,
+   "content": "下球后内侧脚跟外侧脚依次124步",
+   "music": 0
+  },
+  {
+   "from": 208.07,
+   "to": 210.27,
+   "sid": 110,
+   "location": 2,
+   "content": "非常实用的启动脚步节奏",
+   "music": 0
+  },
+  {
+   "from": 210.27,
+   "to": 211.36,
+   "sid": 111,
+   "location": 2,
+   "content": "一卡一卡的",
+   "music": 0
+  },
+  {
+   "from": 211.36,
+   "to": 213.12,
+   "sid": 112,
+   "location": 2,
+   "content": "连续两个胯下四步启动",
+   "music": 0
+  },
+  {
+   "from": 213.12,
+   "to": 214.56,
+   "sid": 113,
+   "location": 2,
+   "content": "加速衔接运球",
+   "music": 0
+  },
+  {
+   "from": 214.56,
+   "to": 215.44,
+   "sid": 114,
+   "location": 2,
+   "content": "步运同住",
+   "music": 0
+  },
+  {
+   "from": 215.44,
+   "to": 215.88,
+   "sid": 115,
+   "location": 2,
+   "content": "脚急停",
+   "music": 0
+  },
+  {
+   "from": 215.88,
+   "to": 216.84,
+   "sid": 116,
+   "location": 2,
+   "content": "换开防守衔接",
+   "music": 0
+  },
+  {
+   "from": 216.84,
+   "to": 217.36,
+   "sid": 117,
+   "location": 2,
+   "content": "并步合球",
+   "music": 0
+  },
+  {
+   "from": 217.36,
+   "to": 218.76,
+   "sid": 118,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 221.64,
+   "to": 223.98,
+   "sid": 119,
+   "location": 2,
+   "content": "同样的同侧步急停后观察防守",
+   "music": 0
+  },
+  {
+   "from": 223.98,
+   "to": 225.32,
+   "sid": 120,
+   "location": 2,
+   "content": "如果没有完全摆脱",
+   "music": 0
+  },
+  {
+   "from": 225.32,
+   "to": 226.5,
+   "sid": 121,
+   "location": 2,
+   "content": "可以衔接犹豫步",
+   "music": 0
+  },
+  {
+   "from": 226.5,
+   "to": 229.24,
+   "sid": 122,
+   "location": 2,
+   "content": "再次压迫防守和球完成投篮",
+   "music": 0
+  },
+  {
+   "from": 231.14,
+   "to": 232.54,
+   "sid": 123,
+   "location": 2,
+   "content": "如果没有投篮空间",
+   "music": 0
+  },
+  {
+   "from": 232.54,
+   "to": 234.9,
+   "sid": 124,
+   "location": 2,
+   "content": "我们需要运用侧步创造投篮空间",
+   "music": 0
+  },
+  {
+   "from": 234.9,
+   "to": 236.82,
+   "sid": 125,
+   "location": 2,
+   "content": "合球完成投篮",
+   "music": 0
+  },
+  {
+   "from": 240.92,
+   "to": 243.45,
+   "sid": 126,
+   "location": 2,
+   "content": "当然我们也可以在运球步的过程中",
+   "music": 0
+  },
+  {
+   "from": 243.45,
+   "to": 244.89,
+   "sid": 127,
+   "location": 2,
+   "content": "使用内侧脚急停",
+   "music": 0
+  },
+  {
+   "from": 244.89,
+   "to": 245.95,
+   "sid": 128,
+   "location": 2,
+   "content": "并侧蹬发力",
+   "music": 0
+  },
+  {
+   "from": 245.95,
+   "to": 247.47,
+   "sid": 129,
+   "location": 2,
+   "content": "撤步合球完成投篮",
+   "music": 0
+  },
+  {
+   "from": 247.47,
+   "to": 251.09,
+   "sid": 130,
+   "location": 2,
+   "content": "不过这对你的投篮发力会有比较大的挑战",
+   "music": 0
+  },
+  {
+   "from": 254.92,
+   "to": 256.48,
+   "sid": 131,
+   "location": 2,
+   "content": "当然胯下吃不完后",
+   "music": 0
+  },
+  {
+   "from": 256.48,
+   "to": 261.019,
+   "sid": 132,
+   "location": 2,
+   "content": "衔接延伸脚步的变相也是实战中常用的变招",
+   "music": 0
+  },
+  {
+   "from": 267.12,
+   "to": 269.14,
+   "sid": 133,
+   "location": 2,
+   "content": "如果你运球节奏比较一般",
+   "music": 0
+  },
+  {
+   "from": 269.14,
+   "to": 272.68,
+   "sid": 134,
+   "location": 2,
+   "content": "那我非常推荐你在运球中加入拖曳步换手运球",
+   "music": 0
+  },
+  {
+   "from": 272.68,
+   "to": 273.42,
+   "sid": 135,
+   "location": 2,
+   "content": "压低重心",
+   "music": 0
+  },
+  {
+   "from": 273.42,
+   "to": 276.18,
+   "sid": 136,
+   "location": 2,
+   "content": "下球后利用压低重心让身体弹起来",
+   "music": 0
+  },
+  {
+   "from": 276.18,
+   "to": 278.08,
+   "sid": 137,
+   "location": 2,
+   "content": "横移的幅度会特别的大",
+   "music": 0
+  },
+  {
+   "from": 278.08,
+   "to": 280.2,
+   "sid": 138,
+   "location": 2,
+   "content": "落地的脚步是内侧脚先落地",
+   "music": 0
+  },
+  {
+   "from": 280.2,
+   "to": 281.58,
+   "sid": 139,
+   "location": 2,
+   "content": "外侧脚后落地",
+   "music": 0
+  },
+  {
+   "from": 281.58,
+   "to": 283.8,
+   "sid": 140,
+   "location": 2,
+   "content": "内侧脚落地时可以主动落地",
+   "music": 0
+  },
+  {
+   "from": 283.8,
+   "to": 287.08,
+   "sid": 141,
+   "location": 2,
+   "content": "蹬地前斜后蹬步加速或者变向",
+   "music": 0
+  },
+  {
+   "from": 288.04,
+   "to": 291.66,
+   "sid": 142,
+   "location": 2,
+   "content": "胯下拖曳步同样一样可以更好的保护球",
+   "music": 0
+  },
+  {
+   "from": 291.66,
+   "to": 294.16,
+   "sid": 143,
+   "location": 2,
+   "content": "节奏也会更加多变",
+   "music": 0
+  },
+  {
+   "from": 297.76,
+   "to": 299.44,
+   "sid": 144,
+   "location": 2,
+   "content": "好了本期视频就到这里",
+   "music": 0
+  },
+  {
+   "from": 299.44,
+   "to": 300.62,
+   "sid": 145,
+   "location": 2,
+   "content": "我们下期再见",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "sync-en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.52,
+   "sid": 1,
+   "location": 2,
+   "content": "以下是如何投篮"
+  },
+  {
+   "from": 1.52,
+   "to": 4.42,
+   "sid": 2,
+   "location": 2,
+   "content": "伟大的射手到底是如何拍摄的"
+  },
+  {
+   "from": 4.42,
+   "to": 6.24,
+   "sid": 3,
+   "location": 2,
+   "content": "如果你看看伟大射手的手"
+  },
+  {
+   "from": 6.24,
+   "to": 8.95,
+   "sid": 4,
+   "location": 2,
+   "content": "你会发现他们的手实际上是垂直的"
+  },
+  {
+   "from": 8.95,
+   "to": 12.24,
+   "sid": 5,
+   "location": 2,
+   "content": "这意味着如果我把我的手分开"
+  },
+  {
+   "from": 12.24,
+   "to": 15.44,
+   "sid": 6,
+   "location": 2,
+   "content": "这正是你要找到他们手的位置"
+  },
+  {
+   "from": 15.44,
+   "to": 17.42,
+   "sid": 7,
+   "location": 2,
+   "content": "当他们真正投篮的时候"
+  },
+  {
+   "from": 17.42,
+   "to": 21.25,
+   "sid": 8,
+   "location": 2,
+   "content": "因为在这个位置上，你实际上持球的安全性要高得多"
+  },
+  {
+   "from": 21.25,
+   "to": 26.23,
+   "sid": 9,
+   "location": 2,
+   "content": "这就是为什么早期的低拾取率实际上会对你的拍摄有害"
+  },
+  {
+   "from": 26.23,
+   "to": 28.53,
+   "sid": 10,
+   "location": 2,
+   "content": "看看我是不是把篮球捡起来"
+  },
+  {
+   "from": 28.53,
+   "to": 29.87,
+   "sid": 11,
+   "location": 2,
+   "content": "肘部伸展"
+  },
+  {
+   "from": 29.87,
+   "to": 31.07,
+   "sid": 12,
+   "location": 2,
+   "content": "更糟糕的是"
+  },
+  {
+   "from": 31.07,
+   "to": 34.76,
+   "sid": 13,
+   "location": 2,
+   "content": "如果我真的试着用手指直直地投篮"
+  },
+  {
+   "from": 34.76,
+   "to": 38.66,
+   "sid": 14,
+   "location": 2,
+   "content": "你会发现两个手指实际上都要竖起来"
+  },
+  {
+   "from": 38.66,
+   "to": 40.28,
+   "sid": 15,
+   "location": 2,
+   "content": "在完全相同的方向"
+  },
+  {
+   "from": 40.28,
+   "to": 44.61,
+   "sid": 16,
+   "location": 2,
+   "content": "这与实际射手的投篮方式完全相反"
+  },
+  {
+   "from": 44.61,
+   "to": 46.57,
+   "sid": 17,
+   "location": 2,
+   "content": "所以与其早到"
+  },
+  {
+   "from": 46.57,
+   "to": 48.59,
+   "sid": 18,
+   "location": 2,
+   "content": "保证手的位置不好"
+  },
+  {
+   "from": 48.59,
+   "to": 50.85,
+   "sid": 19,
+   "location": 2,
+   "content": "解决这个问题的方法是在皮卡上工作"
+  },
+  {
+   "from": 50.85,
+   "to": 54.75,
+   "sid": 20,
+   "location": 2,
+   "content": "时机是在你的脚接触地板的那一刻"
+  },
+  {
+   "from": 54.75,
+   "to": 57.41,
+   "sid": 21,
+   "location": 2,
+   "content": "因为我的手肘会弯曲"
+  },
+  {
+   "from": 57.41,
+   "to": 60.719,
+   "sid": 22,
+   "location": 2,
+   "content": "现在我可以很晚才拿起篮球了"
+  },
+  {
+   "from": 60.719,
+   "to": 63.039,
+   "sid": 23,
+   "location": 2,
+   "content": "你会发现，如果我放弃了篮球"
+  },
+  {
+   "from": 63.039,
+   "to": 65.379,
+   "sid": 24,
+   "location": 2,
+   "content": "我又回到了那个垂直的位置"
+  },
+  {
+   "from": 65.379,
+   "to": 68.459,
+   "sid": 25,
+   "location": 2,
+   "content": "这就是伟大的射手实际上要拿篮球的地方"
+  },
+  {
+   "from": 68.459,
+   "to": 72.079,
+   "sid": 26,
+   "location": 2,
+   "content": "你的捡球时机实际上会帮助你拿住篮球"
+  },
+  {
+   "from": 72.079,
+   "to": 74.539,
+   "sid": 27,
+   "location": 2,
+   "content": "就像伟大的射手真的开枪"
+  },
+  {
+   "from": 74.539,
+   "to": 75.719,
+   "sid": 28,
+   "location": 2,
+   "content": "我不知道你怎么样"
+  },
+  {
+   "from": 75.719,
+   "to": 80.84,
+   "sid": 29,
+   "location": 2,
+   "content": "但我想模仿当今真正伟大的射手"
+  }
+ ]
+}

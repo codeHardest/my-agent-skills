@@ -1,0 +1,2332 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.92,
+   "sid": 1,
+   "location": 2,
+   "content": "保持耐心把这个视频看完",
+   "music": 0
+  },
+  {
+   "from": 1.92,
+   "to": 3.84,
+   "sid": 2,
+   "location": 2,
+   "content": "一定能让你有所收获",
+   "music": 0
+  },
+  {
+   "from": 3.84,
+   "to": 5.58,
+   "sid": 3,
+   "location": 2,
+   "content": "这是一个系列视频",
+   "music": 0
+  },
+  {
+   "from": 5.58,
+   "to": 9.36,
+   "sid": 4,
+   "location": 2,
+   "content": "ECB在暑假和你放场球技系列视频",
+   "music": 0
+  },
+  {
+   "from": 9.36,
+   "to": 10.44,
+   "sid": 5,
+   "location": 2,
+   "content": "将会有运球篇",
+   "music": 0
+  },
+  {
+   "from": 10.44,
+   "to": 11.04,
+   "sid": 6,
+   "location": 2,
+   "content": "投篮篇",
+   "music": 0
+  },
+  {
+   "from": 11.04,
+   "to": 12.75,
+   "sid": 7,
+   "location": 2,
+   "content": "高手篇的非常细节",
+   "music": 0
+  },
+  {
+   "from": 12.75,
+   "to": 13.56,
+   "sid": 8,
+   "location": 2,
+   "content": "干货多多",
+   "music": 0
+  },
+  {
+   "from": 13.56,
+   "to": 14.65,
+   "sid": 9,
+   "location": 2,
+   "content": "敬请期待",
+   "music": 0
+  },
+  {
+   "from": 20.58,
+   "to": 22.4,
+   "sid": 10,
+   "location": 2,
+   "content": "投篮之前非常重要的一点",
+   "music": 0
+  },
+  {
+   "from": 22.4,
+   "to": 24.8,
+   "sid": 11,
+   "location": 2,
+   "content": "就是你需要放松你的全身大脑",
+   "music": 0
+  },
+  {
+   "from": 24.8,
+   "to": 26.21,
+   "sid": 12,
+   "location": 2,
+   "content": "放松身体放松",
+   "music": 0
+  },
+  {
+   "from": 26.21,
+   "to": 30.08,
+   "sid": 13,
+   "location": 2,
+   "content": "因为我们整个投篮的整个过程都是非常放松的",
+   "music": 0
+  },
+  {
+   "from": 30.08,
+   "to": 31.1,
+   "sid": 14,
+   "location": 2,
+   "content": "非常放松",
+   "music": 0
+  },
+  {
+   "from": 31.1,
+   "to": 31.96,
+   "sid": 15,
+   "location": 2,
+   "content": "自然的",
+   "music": 0
+  },
+  {
+   "from": 32.08,
+   "to": 36.76,
+   "sid": 16,
+   "location": 2,
+   "content": "基本上没有任何一处肌肉是非常紧绷的",
+   "music": 0
+  },
+  {
+   "from": 36.76,
+   "to": 39.43,
+   "sid": 17,
+   "location": 2,
+   "content": "我们这期视频采用分解动作的形式",
+   "music": 0
+  },
+  {
+   "from": 39.43,
+   "to": 41.17,
+   "sid": 18,
+   "location": 2,
+   "content": "我们先讲投篮上肢",
+   "music": 0
+  },
+  {
+   "from": 41.17,
+   "to": 42.34,
+   "sid": 19,
+   "location": 2,
+   "content": "还有投篮下肢",
+   "music": 0
+  },
+  {
+   "from": 42.34,
+   "to": 45.44,
+   "sid": 20,
+   "location": 2,
+   "content": "然后再结合起来完整动作",
+   "music": 0
+  },
+  {
+   "from": 45.84,
+   "to": 47.63,
+   "sid": 21,
+   "location": 2,
+   "content": "投篮手自然屈肘",
+   "music": 0
+  },
+  {
+   "from": 47.63,
+   "to": 49.88,
+   "sid": 22,
+   "location": 2,
+   "content": "整个手掌放在球的侧面",
+   "music": 0
+  },
+  {
+   "from": 49.88,
+   "to": 51.26,
+   "sid": 23,
+   "location": 2,
+   "content": "放在球的侧面",
+   "music": 0
+  },
+  {
+   "from": 51.26,
+   "to": 52.86,
+   "sid": 24,
+   "location": 2,
+   "content": "手指不用力张开",
+   "music": 0
+  },
+  {
+   "from": 52.86,
+   "to": 56.94,
+   "sid": 25,
+   "location": 2,
+   "content": "不建议你将球放在你的球的正上面",
+   "music": 0
+  },
+  {
+   "from": 56.94,
+   "to": 58.98,
+   "sid": 26,
+   "location": 2,
+   "content": "要放在球的正上方方的话",
+   "music": 0
+  },
+  {
+   "from": 58.98,
+   "to": 61.92,
+   "sid": 27,
+   "location": 2,
+   "content": "你肯定要旋转你的手腕以及手臂",
+   "music": 0
+  },
+  {
+   "from": 61.92,
+   "to": 65.88,
+   "sid": 28,
+   "location": 2,
+   "content": "你的手腕相对来说就会紧张",
+   "music": 0
+  },
+  {
+   "from": 65.88,
+   "to": 69.52,
+   "sid": 29,
+   "location": 2,
+   "content": "并且小臂肌肉也会紧张",
+   "music": 0
+  },
+  {
+   "from": 69.52,
+   "to": 72.04,
+   "sid": 30,
+   "location": 2,
+   "content": "就不符合我们刚刚的那一个理念",
+   "music": 0
+  },
+  {
+   "from": 72.04,
+   "to": 74.52,
+   "sid": 31,
+   "location": 2,
+   "content": "就是我们整个投篮都是非常放松的",
+   "music": 0
+  },
+  {
+   "from": 74.52,
+   "to": 76.77,
+   "sid": 32,
+   "location": 2,
+   "content": "好讲完投篮手就讲辅助手",
+   "music": 0
+  },
+  {
+   "from": 76.77,
+   "to": 82.42,
+   "sid": 33,
+   "location": 2,
+   "content": "用你的手指以及掌心以及这块位置去抓触球",
+   "music": 0
+  },
+  {
+   "from": 83.44,
+   "to": 84.04,
+   "sid": 34,
+   "location": 2,
+   "content": "就拖住",
+   "music": 0
+  },
+  {
+   "from": 84.04,
+   "to": 85.06,
+   "sid": 35,
+   "location": 2,
+   "content": "轻轻托住就好了",
+   "music": 0
+  },
+  {
+   "from": 85.06,
+   "to": 85.87,
+   "sid": 36,
+   "location": 2,
+   "content": "拖触球",
+   "music": 0
+  },
+  {
+   "from": 85.87,
+   "to": 90.62,
+   "sid": 37,
+   "location": 2,
+   "content": "然后投篮手自然的放在球的侧面",
+   "music": 0
+  },
+  {
+   "from": 90.62,
+   "to": 92.51,
+   "sid": 38,
+   "location": 2,
+   "content": "持球的辅助手呢",
+   "music": 0
+  },
+  {
+   "from": 92.51,
+   "to": 95.45,
+   "sid": 39,
+   "location": 2,
+   "content": "位于我们身体的中线的一个位置",
+   "music": 0
+  },
+  {
+   "from": 95.45,
+   "to": 97.34,
+   "sid": 40,
+   "location": 2,
+   "content": "中线的一个位置",
+   "music": 0
+  },
+  {
+   "from": 97.34,
+   "to": 99.89,
+   "sid": 41,
+   "location": 2,
+   "content": "将球自然地放在我们的胸",
+   "music": 0
+  },
+  {
+   "from": 99.89,
+   "to": 101.99,
+   "sid": 42,
+   "location": 2,
+   "content": "手心脏附近的一个距离",
+   "music": 0
+  },
+  {
+   "from": 101.99,
+   "to": 103.38,
+   "sid": 43,
+   "location": 2,
+   "content": "看看侧面",
+   "music": 0
+  },
+  {
+   "from": 104.5,
+   "to": 107.46,
+   "sid": 44,
+   "location": 2,
+   "content": "你的肘关节是不用紧贴身体",
+   "music": 0
+  },
+  {
+   "from": 107.46,
+   "to": 108.36,
+   "sid": 45,
+   "location": 2,
+   "content": "自然放松",
+   "music": 0
+  },
+  {
+   "from": 108.36,
+   "to": 109.2,
+   "sid": 46,
+   "location": 2,
+   "content": "张开一点",
+   "music": 0
+  },
+  {
+   "from": 109.2,
+   "to": 112.04,
+   "sid": 47,
+   "location": 2,
+   "content": "大概一两个拳头的一个距离",
+   "music": 0
+  },
+  {
+   "from": 112.04,
+   "to": 114.08,
+   "sid": 48,
+   "location": 2,
+   "content": "看看球离身体的一个距离",
+   "music": 0
+  },
+  {
+   "from": 114.08,
+   "to": 115.7,
+   "sid": 49,
+   "location": 2,
+   "content": "你也不用离得太远",
+   "music": 0
+  },
+  {
+   "from": 115.7,
+   "to": 116.36,
+   "sid": 50,
+   "location": 2,
+   "content": "太远的话",
+   "music": 0
+  },
+  {
+   "from": 116.36,
+   "to": 118.94,
+   "sid": 51,
+   "location": 2,
+   "content": "投篮的时候你容易被能切球",
+   "music": 0
+  },
+  {
+   "from": 118.94,
+   "to": 123.44,
+   "sid": 52,
+   "location": 2,
+   "content": "那么太近的话就会造成你那个肌肉的一个紧张",
+   "music": 0
+  },
+  {
+   "from": 124.32,
+   "to": 126.2,
+   "sid": 53,
+   "location": 2,
+   "content": "好我们接下来进入下一个环节",
+   "music": 0
+  },
+  {
+   "from": 126.2,
+   "to": 127.48,
+   "sid": 54,
+   "location": 2,
+   "content": "就是我们举球",
+   "music": 0
+  },
+  {
+   "from": 127.48,
+   "to": 128.89,
+   "sid": 55,
+   "location": 2,
+   "content": "首先你要清楚一点",
+   "music": 0
+  },
+  {
+   "from": 128.89,
+   "to": 131.41,
+   "sid": 56,
+   "location": 2,
+   "content": "举球的力量基本来自于你的辅助手",
+   "music": 0
+  },
+  {
+   "from": 131.41,
+   "to": 132.82,
+   "sid": 57,
+   "location": 2,
+   "content": "辅助手放松",
+   "music": 0
+  },
+  {
+   "from": 132.82,
+   "to": 136.08,
+   "sid": 58,
+   "location": 2,
+   "content": "然后稍微用力将球举到额头的附近",
+   "music": 0
+  },
+  {
+   "from": 136.08,
+   "to": 139.96,
+   "sid": 59,
+   "location": 2,
+   "content": "辅助手势是处于我们身体的中线的一个位置",
+   "music": 0
+  },
+  {
+   "from": 139.96,
+   "to": 143.02,
+   "sid": 60,
+   "location": 2,
+   "content": "身体中旋球是相对靠右的一个位置",
+   "music": 0
+  },
+  {
+   "from": 143.02,
+   "to": 144.31,
+   "sid": 61,
+   "location": 2,
+   "content": "像我们右手投篮",
+   "music": 0
+  },
+  {
+   "from": 144.31,
+   "to": 146.64,
+   "sid": 62,
+   "location": 2,
+   "content": "我们的重心脚是在左脚的",
+   "music": 0
+  },
+  {
+   "from": 146.64,
+   "to": 148.86,
+   "sid": 63,
+   "location": 2,
+   "content": "所以你球再稍微往右",
+   "music": 0
+  },
+  {
+   "from": 148.86,
+   "to": 151.78,
+   "sid": 64,
+   "location": 2,
+   "content": "你才更好地达到一个相对平衡的一个位置",
+   "music": 0
+  },
+  {
+   "from": 151.78,
+   "to": 154.6,
+   "sid": 65,
+   "location": 2,
+   "content": "好我们将球举到额头附近就好了",
+   "music": 0
+  },
+  {
+   "from": 154.6,
+   "to": 155.8,
+   "sid": 66,
+   "location": 2,
+   "content": "你不要举太高",
+   "music": 0
+  },
+  {
+   "from": 155.8,
+   "to": 156.76,
+   "sid": 67,
+   "location": 2,
+   "content": "也不要举太低",
+   "music": 0
+  },
+  {
+   "from": 156.76,
+   "to": 157.56,
+   "sid": 68,
+   "location": 2,
+   "content": "举太低",
+   "music": 0
+  },
+  {
+   "from": 157.56,
+   "to": 159.42,
+   "sid": 69,
+   "location": 2,
+   "content": "出手点太低也不好举",
+   "music": 0
+  },
+  {
+   "from": 159.42,
+   "to": 163.38,
+   "sid": 70,
+   "location": 2,
+   "content": "太高呢不是很符合one motion的一个特点",
+   "music": 0
+  },
+  {
+   "from": 163.38,
+   "to": 166.98,
+   "sid": 71,
+   "location": 2,
+   "content": "然后呢你可以看到举球到额头附近的时候",
+   "music": 0
+  },
+  {
+   "from": 166.98,
+   "to": 171.26,
+   "sid": 72,
+   "location": 2,
+   "content": "手腕你可以看到手腕是侧着的",
+   "music": 0
+  },
+  {
+   "from": 171.26,
+   "to": 173.96,
+   "sid": 73,
+   "location": 2,
+   "content": "是侧腕的侧腕",
+   "music": 0
+  },
+  {
+   "from": 173.96,
+   "to": 175.76,
+   "sid": 74,
+   "location": 2,
+   "content": "它有它有一个什么好处",
+   "music": 0
+  },
+  {
+   "from": 175.76,
+   "to": 177.72,
+   "sid": 75,
+   "location": 2,
+   "content": "侧腕掌心C字形",
+   "music": 0
+  },
+  {
+   "from": 178.74,
+   "to": 183.3,
+   "sid": 76,
+   "location": 2,
+   "content": "下腕实际上是更符合我们人体投篮弧线球的",
+   "music": 0
+  },
+  {
+   "from": 183.3,
+   "to": 185.16,
+   "sid": 77,
+   "location": 2,
+   "content": "如果你举球到额头附近",
+   "music": 0
+  },
+  {
+   "from": 185.16,
+   "to": 187.08,
+   "sid": 78,
+   "location": 2,
+   "content": "你的掌心不是侧弯的话",
+   "music": 0
+  },
+  {
+   "from": 187.08,
+   "to": 188.04,
+   "sid": 79,
+   "location": 2,
+   "content": "是平的话",
+   "music": 0
+  },
+  {
+   "from": 188.04,
+   "to": 190.6,
+   "sid": 80,
+   "location": 2,
+   "content": "那么你的手腕一定会用力的",
+   "music": 0
+  },
+  {
+   "from": 190.6,
+   "to": 193.6,
+   "sid": 81,
+   "location": 2,
+   "content": "用力地将将它强行的平行",
+   "music": 0
+  },
+  {
+   "from": 193.6,
+   "to": 196.22,
+   "sid": 82,
+   "location": 2,
+   "content": "那么这时候你的手腕就会紧张",
+   "music": 0
+  },
+  {
+   "from": 196.22,
+   "to": 198.98,
+   "sid": 83,
+   "location": 2,
+   "content": "这也不太符合我们刚刚讲的",
+   "music": 0
+  },
+  {
+   "from": 198.98,
+   "to": 202.16,
+   "sid": 84,
+   "location": 2,
+   "content": "我们整个投篮都是非常放松的",
+   "music": 0
+  },
+  {
+   "from": 202.92,
+   "to": 205.76,
+   "sid": 85,
+   "location": 2,
+   "content": "然后你微微转动你的辅助手",
+   "music": 0
+  },
+  {
+   "from": 205.76,
+   "to": 206.93,
+   "sid": 86,
+   "location": 2,
+   "content": "微微转动",
+   "music": 0
+  },
+  {
+   "from": 206.93,
+   "to": 208.22,
+   "sid": 87,
+   "location": 2,
+   "content": "转动你的手",
+   "music": 0
+  },
+  {
+   "from": 208.22,
+   "to": 209.87,
+   "sid": 88,
+   "location": 2,
+   "content": "转动你的手",
+   "music": 0
+  },
+  {
+   "from": 209.87,
+   "to": 212.12,
+   "sid": 89,
+   "location": 2,
+   "content": "微微转动你的手",
+   "music": 0
+  },
+  {
+   "from": 212.12,
+   "to": 214.22,
+   "sid": 90,
+   "location": 2,
+   "content": "离开篮球投篮",
+   "music": 0
+  },
+  {
+   "from": 214.22,
+   "to": 218.42,
+   "sid": 91,
+   "location": 2,
+   "content": "手向前下前下方下腕",
+   "music": 0
+  },
+  {
+   "from": 219.4,
+   "to": 223.88,
+   "sid": 92,
+   "location": 2,
+   "content": "我投篮的抛物线一般都是由我们手腕控制的",
+   "music": 0
+  },
+  {
+   "from": 223.88,
+   "to": 224.72,
+   "sid": 93,
+   "location": 2,
+   "content": "手腕",
+   "music": 0
+  },
+  {
+   "from": 226.76,
+   "to": 229.55,
+   "sid": 94,
+   "location": 2,
+   "content": "我们刚刚已经讲了持球以及举球",
+   "music": 0
+  },
+  {
+   "from": 229.55,
+   "to": 233.53,
+   "sid": 95,
+   "location": 2,
+   "content": "以及下腕投球的一个三个动作",
+   "music": 0
+  },
+  {
+   "from": 233.53,
+   "to": 237.97,
+   "sid": 96,
+   "location": 2,
+   "content": "所以我们接下来可以三个连着来练习",
+   "music": 0
+  },
+  {
+   "from": 237.97,
+   "to": 239.86,
+   "sid": 97,
+   "location": 2,
+   "content": "那么在我改投篮的时候呢",
+   "music": 0
+  },
+  {
+   "from": 239.86,
+   "to": 242.86,
+   "sid": 98,
+   "location": 2,
+   "content": "我除了用篮球练习呢",
+   "music": 0
+  },
+  {
+   "from": 242.86,
+   "to": 245.52,
+   "sid": 99,
+   "location": 2,
+   "content": "我还会用瓶子辅助我的练习",
+   "music": 0
+  },
+  {
+   "from": 245.52,
+   "to": 248.46,
+   "sid": 100,
+   "location": 2,
+   "content": "让我可以更好地感受到下腕以及下腕",
+   "music": 0
+  },
+  {
+   "from": 248.46,
+   "to": 251.58,
+   "sid": 101,
+   "location": 2,
+   "content": "令鼻子产生的剧烈旋转",
+   "music": 0
+  },
+  {
+   "from": 252.16,
+   "to": 254.52,
+   "sid": 102,
+   "location": 2,
+   "content": "非常的直观",
+   "music": 0
+  },
+  {
+   "from": 261.06,
+   "to": 262.61,
+   "sid": 103,
+   "location": 2,
+   "content": "太干了吧",
+   "music": 0.49999996093752525
+  },
+  {
+   "from": 262.61,
+   "to": 265.26,
+   "sid": 104,
+   "location": 2,
+   "content": "你这是在撒哈拉沙漠拍的视频吧",
+   "music": 0
+  },
+  {
+   "from": 266.06,
+   "to": 267.76,
+   "sid": 105,
+   "location": 2,
+   "content": "这瓶外星人电解质水",
+   "music": 0
+  },
+  {
+   "from": 267.76,
+   "to": 270.82,
+   "sid": 106,
+   "location": 2,
+   "content": "我通常会选在练球后大汗淋漓的时候喝",
+   "music": 0
+  },
+  {
+   "from": 270.82,
+   "to": 271.96,
+   "sid": 107,
+   "location": 2,
+   "content": "可以补充电解质",
+   "music": 0
+  },
+  {
+   "from": 271.96,
+   "to": 273.28,
+   "sid": 108,
+   "location": 2,
+   "content": "给身体快速补水",
+   "music": 0
+  },
+  {
+   "from": 273.28,
+   "to": 275.92,
+   "sid": 109,
+   "location": 2,
+   "content": "电解质是人体体液的重要组成部分",
+   "music": 0
+  },
+  {
+   "from": 275.92,
+   "to": 277.3,
+   "sid": 110,
+   "location": 2,
+   "content": "训练时大量出汗",
+   "music": 0
+  },
+  {
+   "from": 277.3,
+   "to": 279.48,
+   "sid": 111,
+   "location": 2,
+   "content": "电解质会在这种情况下流失",
+   "music": 0
+  },
+  {
+   "from": 279.48,
+   "to": 280.86,
+   "sid": 112,
+   "location": 2,
+   "content": "如果没有及时的补充",
+   "music": 0
+  },
+  {
+   "from": 280.86,
+   "to": 284.52,
+   "sid": 113,
+   "location": 2,
+   "content": "很容易出现电解质失衡而造成身体不适的情况",
+   "music": 0
+  },
+  {
+   "from": 284.52,
+   "to": 288.02,
+   "sid": 114,
+   "location": 2,
+   "content": "外星人电解质水含钠钾锌等电解质",
+   "music": 0
+  },
+  {
+   "from": 288.02,
+   "to": 291.65,
+   "sid": 115,
+   "location": 2,
+   "content": "并且还有维生素B6和维生素E0糖零卡",
+   "music": 0
+  },
+  {
+   "from": 291.65,
+   "to": 292.85,
+   "sid": 116,
+   "location": 2,
+   "content": "喝起来无负担",
+   "music": 0
+  },
+  {
+   "from": 292.85,
+   "to": 294.98,
+   "sid": 117,
+   "location": 2,
+   "content": "每次训练我都会买几瓶带上",
+   "music": 0
+  },
+  {
+   "from": 294.98,
+   "to": 299.94,
+   "sid": 118,
+   "location": 2,
+   "content": "推荐给屏幕前的你们也可以尝试一下投篮",
+   "music": 0
+  },
+  {
+   "from": 299.94,
+   "to": 301.65,
+   "sid": 119,
+   "location": 2,
+   "content": "脚尖不要对准篮筐",
+   "music": 0
+  },
+  {
+   "from": 301.65,
+   "to": 307.71,
+   "sid": 120,
+   "location": 2,
+   "content": "右脚稍前一篮筐形成一个是小小的一个角度",
+   "music": 0.09615384384246198
+  },
+  {
+   "from": 307.71,
+   "to": 308.94,
+   "sid": 121,
+   "location": 2,
+   "content": "不用人站直了",
+   "music": 0
+  },
+  {
+   "from": 308.94,
+   "to": 310.4,
+   "sid": 122,
+   "location": 2,
+   "content": "往左边一点点",
+   "music": 0
+  },
+  {
+   "from": 310.4,
+   "to": 312.08,
+   "sid": 123,
+   "location": 2,
+   "content": "侧身对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 312.08,
+   "to": 314.44,
+   "sid": 124,
+   "location": 2,
+   "content": "两脚的方向基本是一致的",
+   "music": 0
+  },
+  {
+   "from": 314.44,
+   "to": 316.48,
+   "sid": 125,
+   "location": 2,
+   "content": "保证你的用力方向是一致的",
+   "music": 0
+  },
+  {
+   "from": 316.48,
+   "to": 318.1,
+   "sid": 126,
+   "location": 2,
+   "content": "你不要外八",
+   "music": 0
+  },
+  {
+   "from": 318.1,
+   "to": 320.28,
+   "sid": 127,
+   "location": 2,
+   "content": "小小的内八没有问题",
+   "music": 0
+  },
+  {
+   "from": 320.28,
+   "to": 321.99,
+   "sid": 128,
+   "location": 2,
+   "content": "肩膀保持一致",
+   "music": 0
+  },
+  {
+   "from": 321.99,
+   "to": 324.69,
+   "sid": 129,
+   "location": 2,
+   "content": "间间距与你的肩同宽差不多",
+   "music": 0
+  },
+  {
+   "from": 324.69,
+   "to": 326.7,
+   "sid": 130,
+   "location": 2,
+   "content": "一个球的距离也可以太大",
+   "music": 0
+  },
+  {
+   "from": 326.7,
+   "to": 327.74,
+   "sid": 131,
+   "location": 2,
+   "content": "力容易分散",
+   "music": 0
+  },
+  {
+   "from": 327.74,
+   "to": 328.91,
+   "sid": 132,
+   "location": 2,
+   "content": "太小了",
+   "music": 0
+  },
+  {
+   "from": 328.91,
+   "to": 331.82,
+   "sid": 133,
+   "location": 2,
+   "content": "你身体不容易保持平衡",
+   "music": 0
+  },
+  {
+   "from": 333.66,
+   "to": 336.86,
+   "sid": 134,
+   "location": 2,
+   "content": "侧身侧身下蹲屈髋",
+   "music": 0
+  },
+  {
+   "from": 336.86,
+   "to": 338,
+   "sid": 135,
+   "location": 2,
+   "content": "什么叫屈髋",
+   "music": 0
+  },
+  {
+   "from": 338,
+   "to": 340.07,
+   "sid": 136,
+   "location": 2,
+   "content": "想一下你屁股往后坐",
+   "music": 0
+  },
+  {
+   "from": 340.07,
+   "to": 342.68,
+   "sid": 137,
+   "location": 2,
+   "content": "往后坐凳子的一个动作就是屈髋",
+   "music": 0
+  },
+  {
+   "from": 342.68,
+   "to": 346.13,
+   "sid": 138,
+   "location": 2,
+   "content": "想象一下你在练习重跳重跳",
+   "music": 0
+  },
+  {
+   "from": 346.13,
+   "to": 348.62,
+   "sid": 139,
+   "location": 2,
+   "content": "重跳或者立定跳远",
+   "music": 0
+  },
+  {
+   "from": 348.62,
+   "to": 351.17,
+   "sid": 140,
+   "location": 2,
+   "content": "预摆往前的一个动作",
+   "music": 0
+  },
+  {
+   "from": 351.17,
+   "to": 355.34,
+   "sid": 141,
+   "location": 2,
+   "content": "其实就和我们投篮的下肢动作其实是差不多的",
+   "music": 0
+  },
+  {
+   "from": 355.34,
+   "to": 356.42,
+   "sid": 142,
+   "location": 2,
+   "content": "屈髋屈髋",
+   "music": 0
+  },
+  {
+   "from": 356.42,
+   "to": 356.84,
+   "sid": 143,
+   "location": 2,
+   "content": "屈膝",
+   "music": 0
+  },
+  {
+   "from": 356.84,
+   "to": 357.2,
+   "sid": 144,
+   "location": 2,
+   "content": "屈髋",
+   "music": 0
+  },
+  {
+   "from": 357.2,
+   "to": 361.4,
+   "sid": 145,
+   "location": 2,
+   "content": "可以让你的脚底蹬地的力量更好地传递到手部",
+   "music": 0
+  },
+  {
+   "from": 361.4,
+   "to": 365.24,
+   "sid": 146,
+   "location": 2,
+   "content": "屈髋呢能够减少你的膝关节的一个压力",
+   "music": 0
+  },
+  {
+   "from": 365.24,
+   "to": 366.8,
+   "sid": 147,
+   "location": 2,
+   "content": "你可以做以下几个练习",
+   "music": 0
+  },
+  {
+   "from": 366.8,
+   "to": 371.23,
+   "sid": 148,
+   "location": 2,
+   "content": "来帮您找到屈髋屈髋的一个感觉",
+   "music": 0.06249999822443995
+  },
+  {
+   "from": 371.23,
+   "to": 376.58,
+   "sid": 149,
+   "location": 2,
+   "content": "就是第一个练习就是刚刚说的重跳纵跳",
+   "music": 0
+  },
+  {
+   "from": 376.58,
+   "to": 378.68,
+   "sid": 150,
+   "location": 2,
+   "content": "你只要协调的做就好了",
+   "music": 0
+  },
+  {
+   "from": 378.68,
+   "to": 381.6,
+   "sid": 151,
+   "location": 2,
+   "content": "你不要你也不需要你非常用力的做",
+   "music": 0
+  },
+  {
+   "from": 381.6,
+   "to": 387.34,
+   "sid": 152,
+   "location": 2,
+   "content": "又找到屈髋屈髋屈髋屈髋屈髋",
+   "music": 0
+  },
+  {
+   "from": 387.5,
+   "to": 390.07,
+   "sid": 153,
+   "location": 2,
+   "content": "然后第二个练习就是箱式深蹲",
+   "music": 0
+  },
+  {
+   "from": 390.07,
+   "to": 392.1,
+   "sid": 154,
+   "location": 2,
+   "content": "你可以找一个凳子",
+   "music": 0
+  },
+  {
+   "from": 392.1,
+   "to": 393.42,
+   "sid": 155,
+   "location": 2,
+   "content": "臀部往后坐",
+   "music": 0
+  },
+  {
+   "from": 393.42,
+   "to": 396.3,
+   "sid": 156,
+   "location": 2,
+   "content": "膝关节尽量保持不动的一个状态",
+   "music": 0
+  },
+  {
+   "from": 396.3,
+   "to": 397.5,
+   "sid": 157,
+   "location": 2,
+   "content": "臀部往后坐",
+   "music": 0
+  },
+  {
+   "from": 398.82,
+   "to": 400.32,
+   "sid": 158,
+   "location": 2,
+   "content": "臀部往后坐",
+   "music": 0
+  },
+  {
+   "from": 401.38,
+   "to": 403.74,
+   "sid": 159,
+   "location": 2,
+   "content": "臀部往后坐",
+   "music": 0
+  },
+  {
+   "from": 404.7,
+   "to": 405.92,
+   "sid": 160,
+   "location": 2,
+   "content": "好第三个练习",
+   "music": 0
+  },
+  {
+   "from": 405.92,
+   "to": 408.71,
+   "sid": 161,
+   "location": 2,
+   "content": "我们可以112下蹲",
+   "music": 0
+  },
+  {
+   "from": 408.71,
+   "to": 411.88,
+   "sid": 162,
+   "location": 2,
+   "content": "我们先原地的小碎步",
+   "music": 0
+  },
+  {
+   "from": 411.88,
+   "to": 416.02,
+   "sid": 163,
+   "location": 2,
+   "content": "然后往前一二",
+   "music": 0
+  },
+  {
+   "from": 416.54,
+   "to": 419.68,
+   "sid": 164,
+   "location": 2,
+   "content": "好再来一二",
+   "music": 0
+  },
+  {
+   "from": 420.82,
+   "to": 424.84,
+   "sid": 165,
+   "location": 2,
+   "content": "好再来一二",
+   "music": 0
+  },
+  {
+   "from": 425.86,
+   "to": 432.1,
+   "sid": 166,
+   "location": 2,
+   "content": "一二还有一个重点就是你头投篮的时候",
+   "music": 0
+  },
+  {
+   "from": 432.1,
+   "to": 434.11,
+   "sid": 167,
+   "location": 2,
+   "content": "你要锁住你的腰部",
+   "music": 0
+  },
+  {
+   "from": 434.11,
+   "to": 436.18,
+   "sid": 168,
+   "location": 2,
+   "content": "就屈髋锁腰",
+   "music": 0
+  },
+  {
+   "from": 436.18,
+   "to": 439.18,
+   "sid": 169,
+   "location": 2,
+   "content": "你千万不要把你的腰挺的",
+   "music": 0
+  },
+  {
+   "from": 439.18,
+   "to": 442.3,
+   "sid": 170,
+   "location": 2,
+   "content": "往后就是呈一个反攻的一个形状",
+   "music": 0
+  },
+  {
+   "from": 443.96,
+   "to": 446.02,
+   "sid": 171,
+   "location": 2,
+   "content": "千万不要这样",
+   "music": 0
+  },
+  {
+   "from": 447.76,
+   "to": 449.14,
+   "sid": 172,
+   "location": 2,
+   "content": "是这样的",
+   "music": 0
+  },
+  {
+   "from": 450.62,
+   "to": 452.44,
+   "sid": 173,
+   "location": 2,
+   "content": "分解动作练习的差不多了",
+   "music": 0
+  },
+  {
+   "from": 452.44,
+   "to": 454.7,
+   "sid": 174,
+   "location": 2,
+   "content": "我们开始完整动作练习",
+   "music": 0
+  },
+  {
+   "from": 454.7,
+   "to": 456.08,
+   "sid": 175,
+   "location": 2,
+   "content": "不要急于求成",
+   "music": 0
+  },
+  {
+   "from": 456.08,
+   "to": 456.98,
+   "sid": 176,
+   "location": 2,
+   "content": "好第一个练习",
+   "music": 0
+  },
+  {
+   "from": 456.98,
+   "to": 459.02,
+   "sid": 177,
+   "location": 2,
+   "content": "我们先在篮底下进行练习",
+   "music": 0
+  },
+  {
+   "from": 459.02,
+   "to": 460.31,
+   "sid": 178,
+   "location": 2,
+   "content": "刚练习的时候",
+   "music": 0
+  },
+  {
+   "from": 460.31,
+   "to": 462.2,
+   "sid": 179,
+   "location": 2,
+   "content": "不要一味的追求命中率",
+   "music": 0
+  },
+  {
+   "from": 462.2,
+   "to": 464.74,
+   "sid": 180,
+   "location": 2,
+   "content": "先把动作做连贯才是首要的",
+   "music": 0
+  },
+  {
+   "from": 464.74,
+   "to": 465.58,
+   "sid": 181,
+   "location": 2,
+   "content": "每一次练习",
+   "music": 0
+  },
+  {
+   "from": 465.58,
+   "to": 468.37,
+   "sid": 182,
+   "location": 2,
+   "content": "你都要思考每一个环节是否做到位了",
+   "music": 0
+  },
+  {
+   "from": 468.37,
+   "to": 469.96,
+   "sid": 183,
+   "location": 2,
+   "content": "当你连进十个球的时候",
+   "music": 0
+  },
+  {
+   "from": 469.96,
+   "to": 471.22,
+   "sid": 184,
+   "location": 2,
+   "content": "你就可以往后退一步",
+   "music": 0.30158727765178833
+  },
+  {
+   "from": 471.22,
+   "to": 472.34,
+   "sid": 185,
+   "location": 2,
+   "content": "增加距离",
+   "music": 0
+  },
+  {
+   "from": 472.34,
+   "to": 474.17,
+   "sid": 186,
+   "location": 2,
+   "content": "把注意力放在下肢",
+   "music": 0
+  },
+  {
+   "from": 474.17,
+   "to": 476.66,
+   "sid": 187,
+   "location": 2,
+   "content": "不要因为距离变远而使动作变形",
+   "music": 0
+  },
+  {
+   "from": 476.66,
+   "to": 478.46,
+   "sid": 188,
+   "location": 2,
+   "content": "也不要加大手臂的用力",
+   "music": 0
+  },
+  {
+   "from": 478.46,
+   "to": 481.76,
+   "sid": 189,
+   "location": 2,
+   "content": "其实手越用力越投不远",
+   "music": 0
+  },
+  {
+   "from": 486.64,
+   "to": 490.28,
+   "sid": 190,
+   "location": 2,
+   "content": "记住你的身体都保持一个放松的一个状态",
+   "music": 0
+  },
+  {
+   "from": 504.32,
+   "to": 506.98,
+   "sid": 191,
+   "location": 2,
+   "content": "训练呢你的幅度要调高一点",
+   "music": 0.2357723481393486
+  },
+  {
+   "from": 506.98,
+   "to": 509.12,
+   "sid": 192,
+   "location": 2,
+   "content": "投篮的抛物线要调高一点",
+   "music": 0
+  },
+  {
+   "from": 509.12,
+   "to": 509.84,
+   "sid": 193,
+   "location": 2,
+   "content": "你也可以",
+   "music": 0
+  },
+  {
+   "from": 509.84,
+   "to": 511.46,
+   "sid": 194,
+   "location": 2,
+   "content": "首先不要对着篮筐练习",
+   "music": 0
+  },
+  {
+   "from": 511.46,
+   "to": 513.74,
+   "sid": 195,
+   "location": 2,
+   "content": "你对着篮板练习也可以",
+   "music": 0
+  },
+  {
+   "from": 513.74,
+   "to": 515.36,
+   "sid": 196,
+   "location": 2,
+   "content": "篮板",
+   "music": 0
+  },
+  {
+   "from": 528.7,
+   "to": 532.9,
+   "sid": 197,
+   "location": 2,
+   "content": "每一个每一个环节你要思考有没有做到位",
+   "music": 0
+  },
+  {
+   "from": 533,
+   "to": 535.96,
+   "sid": 198,
+   "location": 2,
+   "content": "好像漏了一个没有夹投篮的一个环节",
+   "music": 0
+  },
+  {
+   "from": 535.96,
+   "to": 538.54,
+   "sid": 199,
+   "location": 2,
+   "content": "就是下蹲接球",
+   "music": 0
+  },
+  {
+   "from": 538.54,
+   "to": 541.42,
+   "sid": 200,
+   "location": 2,
+   "content": "瞄准投篮",
+   "music": 0
+  },
+  {
+   "from": 560.22,
+   "to": 564.5,
+   "sid": 201,
+   "location": 2,
+   "content": "整个投篮过程都是一个非常放松的状态",
+   "music": 0
+  },
+  {
+   "from": 567.74,
+   "to": 571.24,
+   "sid": 202,
+   "location": 2,
+   "content": "投篮时候你的臀部尽量不要保持移动",
+   "music": 0.09036144306138727
+  },
+  {
+   "from": 571.24,
+   "to": 573.94,
+   "sid": 203,
+   "location": 2,
+   "content": "尽量在一个位置上",
+   "music": 0
+  },
+  {
+   "from": 577.24,
+   "to": 580.32,
+   "sid": 204,
+   "location": 2,
+   "content": "好当你当你连续投进十个球的时候",
+   "music": 0
+  },
+  {
+   "from": 580.32,
+   "to": 582.12,
+   "sid": 205,
+   "location": 2,
+   "content": "你就可以往后退一步",
+   "music": 0
+  },
+  {
+   "from": 582.12,
+   "to": 584.76,
+   "sid": 206,
+   "location": 2,
+   "content": "增加你的射程",
+   "music": 0.5999999538462448
+  },
+  {
+   "from": 614.48,
+   "to": 616.92,
+   "sid": 207,
+   "location": 2,
+   "content": "再往后看",
+   "music": 0
+  },
+  {
+   "from": 624.62,
+   "to": 628.12,
+   "sid": 208,
+   "location": 2,
+   "content": "你投篮投篮的力量基本是来自你的臀部",
+   "music": 0
+  },
+  {
+   "from": 628.12,
+   "to": 631.54,
+   "sid": 209,
+   "location": 2,
+   "content": "你投篮向上的力量基本都是来自你的臀部",
+   "music": 0
+  },
+  {
+   "from": 631.54,
+   "to": 635.02,
+   "sid": 210,
+   "location": 2,
+   "content": "你要用你的手腕去控制你的抛",
+   "music": 0
+  },
+  {
+   "from": 697.96,
+   "to": 701.76,
+   "sid": 211,
+   "location": 2,
+   "content": "来了来了来",
+   "music": 0
+  },
+  {
+   "from": 706.86,
+   "to": 709.8,
+   "sid": 212,
+   "location": 2,
+   "content": "接下来我们讲一下投篮常见的一些问题",
+   "music": 0
+  },
+  {
+   "from": 709.8,
+   "to": 713.04,
+   "sid": 213,
+   "location": 2,
+   "content": "第一个就是你举球举得太贴身了",
+   "music": 0
+  },
+  {
+   "from": 713.04,
+   "to": 715.86,
+   "sid": 214,
+   "location": 2,
+   "content": "胳膊举球你太靠近身体了",
+   "music": 0
+  },
+  {
+   "from": 715.86,
+   "to": 720.12,
+   "sid": 215,
+   "location": 2,
+   "content": "很多就是很多很多小伙伴私信发给我的",
+   "music": 0
+  },
+  {
+   "from": 720.12,
+   "to": 725.42,
+   "sid": 216,
+   "location": 2,
+   "content": "就是你投篮飞投篮球离身体太近了",
+   "music": 0
+  },
+  {
+   "from": 725.42,
+   "to": 728.5,
+   "sid": 217,
+   "location": 2,
+   "content": "就会造成你的胳膊会受压",
+   "music": 0
+  },
+  {
+   "from": 728.5,
+   "to": 730.78,
+   "sid": 218,
+   "location": 2,
+   "content": "出现紧张的一个状态",
+   "music": 0
+  },
+  {
+   "from": 730.78,
+   "to": 736.48,
+   "sid": 219,
+   "location": 2,
+   "content": "并且呢你的手肘也会外外外翻的非常的严重",
+   "music": 0
+  },
+  {
+   "from": 736.48,
+   "to": 737.44,
+   "sid": 220,
+   "location": 2,
+   "content": "如果你靠近身体",
+   "music": 0
+  },
+  {
+   "from": 737.44,
+   "to": 738.4,
+   "sid": 221,
+   "location": 2,
+   "content": "看一下",
+   "music": 0
+  },
+  {
+   "from": 739.72,
+   "to": 740.72,
+   "sid": 222,
+   "location": 2,
+   "content": "靠近身体",
+   "music": 0
+  },
+  {
+   "from": 741.6,
+   "to": 743.06,
+   "sid": 223,
+   "location": 2,
+   "content": "你靠近身体的手",
+   "music": 0
+  },
+  {
+   "from": 743.06,
+   "to": 746.96,
+   "sid": 224,
+   "location": 2,
+   "content": "就要这你的手肘就要这样往上抬起来",
+   "music": 0
+  },
+  {
+   "from": 746.96,
+   "to": 751.18,
+   "sid": 225,
+   "location": 2,
+   "content": "嗯记住你练习的时候一定靠近身体",
+   "music": 0
+  },
+  {
+   "from": 751.18,
+   "to": 753.73,
+   "sid": 226,
+   "location": 2,
+   "content": "不是说要贴近身体",
+   "music": 0
+  },
+  {
+   "from": 753.73,
+   "to": 754.66,
+   "sid": 227,
+   "location": 2,
+   "content": "靠近身体",
+   "music": 0
+  },
+  {
+   "from": 754.66,
+   "to": 757,
+   "sid": 228,
+   "location": 2,
+   "content": "只是不要让你把手伸直",
+   "music": 0
+  },
+  {
+   "from": 757,
+   "to": 758.8,
+   "sid": 229,
+   "location": 2,
+   "content": "你轻轻屈肘就可以了",
+   "music": 0
+  },
+  {
+   "from": 758.8,
+   "to": 759.79,
+   "sid": 230,
+   "location": 2,
+   "content": "轻轻屈肘",
+   "music": 0
+  },
+  {
+   "from": 759.79,
+   "to": 761.32,
+   "sid": 231,
+   "location": 2,
+   "content": "如果你有这样的问题话",
+   "music": 0
+  },
+  {
+   "from": 761.32,
+   "to": 766.22,
+   "sid": 232,
+   "location": 2,
+   "content": "你就练习持球到举球投出去",
+   "music": 0
+  },
+  {
+   "from": 766.23,
+   "to": 771.38,
+   "sid": 233,
+   "location": 2,
+   "content": "就练习就练习这个就可以了",
+   "music": 0
+  },
+  {
+   "from": 782.02,
+   "to": 785.73,
+   "sid": 234,
+   "location": 2,
+   "content": "然后第二个问题就是你投篮的时候重心前倾",
+   "music": 0
+  },
+  {
+   "from": 785.73,
+   "to": 786.81,
+   "sid": 235,
+   "location": 2,
+   "content": "有很多",
+   "music": 0
+  },
+  {
+   "from": 786.81,
+   "to": 791.08,
+   "sid": 236,
+   "location": 2,
+   "content": "有很多同学就是你想投很远的一个距离",
+   "music": 0
+  },
+  {
+   "from": 791.08,
+   "to": 793.96,
+   "sid": 237,
+   "location": 2,
+   "content": "就会使劲的像往前跳一样",
+   "music": 0
+  },
+  {
+   "from": 793.96,
+   "to": 797.6,
+   "sid": 238,
+   "location": 2,
+   "content": "其实我们投篮基本上都是直上直下",
+   "music": 0
+  },
+  {
+   "from": 797.6,
+   "to": 799.4,
+   "sid": 239,
+   "location": 2,
+   "content": "你往前跳一点点就可以了",
+   "music": 0
+  },
+  {
+   "from": 799.4,
+   "to": 801.32,
+   "sid": 240,
+   "location": 2,
+   "content": "甚至可以不用往前跳",
+   "music": 0
+  },
+  {
+   "from": 801.32,
+   "to": 803.04,
+   "sid": 241,
+   "location": 2,
+   "content": "就就直上直下",
+   "music": 0
+  },
+  {
+   "from": 803.04,
+   "to": 805.92,
+   "sid": 242,
+   "location": 2,
+   "content": "one motion就追求非常的一点",
+   "music": 0
+  },
+  {
+   "from": 805.92,
+   "to": 810.32,
+   "sid": 243,
+   "location": 2,
+   "content": "就算你往前手也是一点点一个一点点",
+   "music": 0
+  },
+  {
+   "from": 810.32,
+   "to": 812.54,
+   "sid": 244,
+   "location": 2,
+   "content": "一个距离很小很小",
+   "music": 0
+  },
+  {
+   "from": 812.54,
+   "to": 814.25,
+   "sid": 245,
+   "location": 2,
+   "content": "你重心受压",
+   "music": 0
+  },
+  {
+   "from": 814.25,
+   "to": 818.02,
+   "sid": 246,
+   "location": 2,
+   "content": "首先我会建议你做一些",
+   "music": 0
+  },
+  {
+   "from": 818.12,
+   "to": 820.87,
+   "sid": 247,
+   "location": 2,
+   "content": "去做那个箱式深蹲的一个练习",
+   "music": 0
+  },
+  {
+   "from": 820.87,
+   "to": 826.38,
+   "sid": 248,
+   "location": 2,
+   "content": "感受屈髋保持重心",
+   "music": 0
+  },
+  {
+   "from": 827.08,
+   "to": 828.48,
+   "sid": 249,
+   "location": 2,
+   "content": "还有下蹲的时候",
+   "music": 0
+  },
+  {
+   "from": 828.48,
+   "to": 831.81,
+   "sid": 250,
+   "location": 2,
+   "content": "你下蹲微微下蹲其实就可以了",
+   "music": 0
+  },
+  {
+   "from": 831.81,
+   "to": 834.1,
+   "sid": 251,
+   "location": 2,
+   "content": "一点点一点点",
+   "music": 0
+  },
+  {
+   "from": 835.22,
+   "to": 837.64,
+   "sid": 252,
+   "location": 2,
+   "content": "不用下蹲的太下",
+   "music": 0
+  },
+  {
+   "from": 837.64,
+   "to": 840.04,
+   "sid": 253,
+   "location": 2,
+   "content": "第三个问题就是举球点太低了",
+   "music": 0
+  },
+  {
+   "from": 840.04,
+   "to": 843.88,
+   "sid": 254,
+   "location": 2,
+   "content": "很多同学到下巴就开始投出去了",
+   "music": 0
+  },
+  {
+   "from": 843.88,
+   "to": 846.7,
+   "sid": 255,
+   "location": 2,
+   "content": "这下巴发给我很多感觉",
+   "music": 0
+  },
+  {
+   "from": 846.7,
+   "to": 850.03,
+   "sid": 256,
+   "location": 2,
+   "content": "就像呃小学生学投篮一样",
+   "music": 0
+  },
+  {
+   "from": 850.03,
+   "to": 852.7,
+   "sid": 257,
+   "location": 2,
+   "content": "在胸口往上往前推的",
+   "music": 0
+  },
+  {
+   "from": 852.7,
+   "to": 856.95,
+   "sid": 258,
+   "location": 2,
+   "content": "其实我摸摸手不是不是在胸口往前推的",
+   "music": 0
+  },
+  {
+   "from": 856.95,
+   "to": 860.02,
+   "sid": 259,
+   "location": 2,
+   "content": "我们是要举到额头的附近",
+   "music": 0
+  },
+  {
+   "from": 861.14,
+   "to": 863.5,
+   "sid": 260,
+   "location": 2,
+   "content": "举到额头的废物件",
+   "music": 0
+  },
+  {
+   "from": 863.5,
+   "to": 866.86,
+   "sid": 261,
+   "location": 2,
+   "content": "那么你也可以通过分解动作的一个练习",
+   "music": 0
+  },
+  {
+   "from": 866.86,
+   "to": 868.76,
+   "sid": 262,
+   "location": 2,
+   "content": "举球额头投篮",
+   "music": 0
+  },
+  {
+   "from": 869.22,
+   "to": 875.08,
+   "sid": 263,
+   "location": 2,
+   "content": "举球额头投篮这个练习来帮助你解决这个问题",
+   "music": 0
+  },
+  {
+   "from": 875.36,
+   "to": 876.7,
+   "sid": 264,
+   "location": 2,
+   "content": "然后第四个问题",
+   "music": 0
+  },
+  {
+   "from": 876.7,
+   "to": 878.2,
+   "sid": 265,
+   "location": 2,
+   "content": "身体反弓的一个问题",
+   "music": 0
+  },
+  {
+   "from": 878.2,
+   "to": 880.86,
+   "sid": 266,
+   "location": 2,
+   "content": "也是我在练习投篮时",
+   "music": 0
+  },
+  {
+   "from": 880.86,
+   "to": 884.04,
+   "sid": 267,
+   "location": 2,
+   "content": "经常容易犯的一个不好的毛病",
+   "music": 0
+  },
+  {
+   "from": 884.04,
+   "to": 888.32,
+   "sid": 268,
+   "location": 2,
+   "content": "就是很多同学他投篮投篮",
+   "music": 0
+  },
+  {
+   "from": 890.12,
+   "to": 892.7,
+   "sid": 269,
+   "location": 2,
+   "content": "就是身体呈一个C字眼",
+   "music": 0
+  },
+  {
+   "from": 892.7,
+   "to": 894.02,
+   "sid": 270,
+   "location": 2,
+   "content": "反一个C字形",
+   "music": 0
+  },
+  {
+   "from": 894.02,
+   "to": 896,
+   "sid": 271,
+   "location": 2,
+   "content": "就是身体反弓起来了",
+   "music": 0
+  },
+  {
+   "from": 896,
+   "to": 900.59,
+   "sid": 272,
+   "location": 2,
+   "content": "其实这个问题的重点就是你投篮的时候",
+   "music": 0
+  },
+  {
+   "from": 900.59,
+   "to": 906.81,
+   "sid": 273,
+   "location": 2,
+   "content": "将注意力将你投球要用的力放在了手臂身上",
+   "music": 0
+  },
+  {
+   "from": 906.81,
+   "to": 908.7,
+   "sid": 274,
+   "location": 2,
+   "content": "你手臂身上你会怎么样",
+   "music": 0
+  },
+  {
+   "from": 908.7,
+   "to": 911.12,
+   "sid": 275,
+   "location": 2,
+   "content": "用力推推推的话",
+   "music": 0
+  },
+  {
+   "from": 911.12,
+   "to": 915.38,
+   "sid": 276,
+   "location": 2,
+   "content": "你是不是你的肩膀要用力要往前顶",
+   "music": 0
+  },
+  {
+   "from": 915.78,
+   "to": 918.72,
+   "sid": 277,
+   "location": 2,
+   "content": "这就导致了你身体反攻的一个情况",
+   "music": 0
+  },
+  {
+   "from": 918.72,
+   "to": 919.89,
+   "sid": 278,
+   "location": 2,
+   "content": "你要明白",
+   "music": 0
+  },
+  {
+   "from": 919.89,
+   "to": 921.7,
+   "sid": 279,
+   "location": 2,
+   "content": "温某省投篮球",
+   "music": 0
+  },
+  {
+   "from": 921.7,
+   "to": 924.85,
+   "sid": 280,
+   "location": 2,
+   "content": "基本上都是来自于我们臀部的力量",
+   "music": 0
+  },
+  {
+   "from": 924.85,
+   "to": 927.9,
+   "sid": 281,
+   "location": 2,
+   "content": "向上的力量基本是来自我们臀部的力量",
+   "music": 0
+  },
+  {
+   "from": 927.9,
+   "to": 929.34,
+   "sid": 282,
+   "location": 2,
+   "content": "首先还是一样的",
+   "music": 0
+  },
+  {
+   "from": 929.34,
+   "to": 930.72,
+   "sid": 283,
+   "location": 2,
+   "content": "你可以原地练习",
+   "music": 0
+  },
+  {
+   "from": 930.72,
+   "to": 934.02,
+   "sid": 284,
+   "location": 2,
+   "content": "你的放松的重跳",
+   "music": 0
+  },
+  {
+   "from": 937.02,
+   "to": 939.56,
+   "sid": 285,
+   "location": 2,
+   "content": "把注意力放在锁腰身上",
+   "music": 0
+  },
+  {
+   "from": 939.56,
+   "to": 940.76,
+   "sid": 286,
+   "location": 2,
+   "content": "锁住你的腰",
+   "music": 0
+  },
+  {
+   "from": 940.76,
+   "to": 943.46,
+   "sid": 287,
+   "location": 2,
+   "content": "腰部稍微用点力",
+   "music": 0
+  },
+  {
+   "from": 945.1,
+   "to": 948,
+   "sid": 288,
+   "location": 2,
+   "content": "然后撤两步投篮",
+   "music": 0
+  },
+  {
+   "from": 950.2,
+   "to": 952.32,
+   "sid": 289,
+   "location": 2,
+   "content": "跳两步",
+   "music": 0
+  },
+  {
+   "from": 957.92,
+   "to": 961.12,
+   "sid": 290,
+   "location": 2,
+   "content": "好以上就是本期视频的全部内容",
+   "music": 0
+  }
+ ]
+}

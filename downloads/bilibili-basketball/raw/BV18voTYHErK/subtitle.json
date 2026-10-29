@@ -1,0 +1,508 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 1.4,
+   "sid": 1,
+   "location": 2,
+   "content": "你是不是也是这样",
+   "music": 0
+  },
+  {
+   "from": 1.4,
+   "to": 5.24,
+   "sid": 2,
+   "location": 2,
+   "content": "投篮的一点节奏都没有练好这五个投篮脚步",
+   "music": 0
+  },
+  {
+   "from": 5.24,
+   "to": 8.7,
+   "sid": 3,
+   "location": 2,
+   "content": "在野球场上成为顶级射手",
+   "music": 0
+  },
+  {
+   "from": 8.7,
+   "to": 10.9,
+   "sid": 4,
+   "location": 2,
+   "content": "很多人在野球场上",
+   "music": 0
+  },
+  {
+   "from": 10.9,
+   "to": 14.05,
+   "sid": 5,
+   "location": 2,
+   "content": "平时会遇到中距离投篮的问题",
+   "music": 0
+  },
+  {
+   "from": 14.05,
+   "to": 16.77,
+   "sid": 6,
+   "location": 2,
+   "content": "今天和你们分享这几个练习呢",
+   "music": 0
+  },
+  {
+   "from": 16.77,
+   "to": 18.43,
+   "sid": 7,
+   "location": 2,
+   "content": "仅仅需要10分钟",
+   "music": 0
+  },
+  {
+   "from": 18.43,
+   "to": 23.09,
+   "sid": 8,
+   "location": 2,
+   "content": "你通过10分钟提升你的中距离投篮的命中率",
+   "music": 0
+  },
+  {
+   "from": 23.09,
+   "to": 25.59,
+   "sid": 9,
+   "location": 2,
+   "content": "我们先以脚步开始接球",
+   "music": 0
+  },
+  {
+   "from": 25.59,
+   "to": 31.51,
+   "sid": 10,
+   "location": 2,
+   "content": "胯下跳托运一步skip抓球两分投篮",
+   "music": 0
+  },
+  {
+   "from": 31.51,
+   "to": 33.69,
+   "sid": 11,
+   "location": 2,
+   "content": "左到右我们也做同样的",
+   "music": 0
+  },
+  {
+   "from": 33.69,
+   "to": 36.03,
+   "sid": 12,
+   "location": 2,
+   "content": "我们往前跳一二投篮",
+   "music": 0
+  },
+  {
+   "from": 36.03,
+   "to": 37.97,
+   "sid": 13,
+   "location": 2,
+   "content": "我们投进十个球",
+   "music": 0
+  },
+  {
+   "from": 37.97,
+   "to": 42.72,
+   "sid": 14,
+   "location": 2,
+   "content": "我们才换来看一往前投篮",
+   "music": 0
+  },
+  {
+   "from": 42.72,
+   "to": 45.64,
+   "sid": 15,
+   "location": 2,
+   "content": "然后左到右我们也做同样的",
+   "music": 0
+  },
+  {
+   "from": 45.64,
+   "to": 47.22,
+   "sid": 16,
+   "location": 2,
+   "content": "所有的速度快的球员",
+   "music": 0
+  },
+  {
+   "from": 47.22,
+   "to": 48.62,
+   "sid": 17,
+   "location": 2,
+   "content": "他们都有这些习惯",
+   "music": 0
+  },
+  {
+   "from": 48.62,
+   "to": 51.459,
+   "sid": 18,
+   "location": 2,
+   "content": "来一偷懒",
+   "music": 0
+  },
+  {
+   "from": 51.459,
+   "to": 53.819,
+   "sid": 19,
+   "location": 2,
+   "content": "有人帮你捡球是最好的",
+   "music": 0
+  },
+  {
+   "from": 53.819,
+   "to": 57.299,
+   "sid": 20,
+   "location": 2,
+   "content": "这边呢我们做胯下重心踢双",
+   "music": 0
+  },
+  {
+   "from": 57.299,
+   "to": 65.93,
+   "sid": 21,
+   "location": 2,
+   "content": "胯下往左一二后撤投篮跳one two one投篮右到左",
+   "music": 0
+  },
+  {
+   "from": 65.93,
+   "to": 70.93,
+   "sid": 22,
+   "location": 2,
+   "content": "我们做同样的one two12转到弓圈投篮",
+   "music": 0
+  },
+  {
+   "from": 70.93,
+   "to": 74.11,
+   "sid": 23,
+   "location": 2,
+   "content": "one two one two头",
+   "music": 0
+  },
+  {
+   "from": 74.11,
+   "to": 81.07,
+   "sid": 24,
+   "location": 2,
+   "content": "第三个我们是从左边交叉步急停投篮变向急停",
+   "music": 0
+  },
+  {
+   "from": 81.22,
+   "to": 82.36,
+   "sid": 25,
+   "location": 2,
+   "content": "快速出手",
+   "music": 0
+  },
+  {
+   "from": 82.36,
+   "to": 86.98,
+   "sid": 26,
+   "location": 2,
+   "content": "左到右急停快速出",
+   "music": 0
+  },
+  {
+   "from": 86.98,
+   "to": 88.04,
+   "sid": 27,
+   "location": 2,
+   "content": "收手留住",
+   "music": 0
+  },
+  {
+   "from": 88.04,
+   "to": 90.7,
+   "sid": 28,
+   "location": 2,
+   "content": "我们可以选择胯下急停",
+   "music": 0
+  },
+  {
+   "from": 92.21,
+   "to": 94.97,
+   "sid": 29,
+   "location": 2,
+   "content": "接听手留住右到左",
+   "music": 0
+  },
+  {
+   "from": 96.41,
+   "to": 99.22,
+   "sid": 30,
+   "location": 2,
+   "content": "one two急停",
+   "music": 0
+  },
+  {
+   "from": 99.22,
+   "to": 102.44,
+   "sid": 31,
+   "location": 2,
+   "content": "很多人他背后之后就没办法投篮",
+   "music": 0
+  },
+  {
+   "from": 102.44,
+   "to": 104.56,
+   "sid": 32,
+   "location": 2,
+   "content": "那我们这次背后之后",
+   "music": 0
+  },
+  {
+   "from": 104.56,
+   "to": 106.83,
+   "sid": 33,
+   "location": 2,
+   "content": "我们可以后撤投篮",
+   "music": 0
+  },
+  {
+   "from": 106.83,
+   "to": 111.22,
+   "sid": 34,
+   "location": 2,
+   "content": "但是我希望我们先学会从原地",
+   "music": 0
+  },
+  {
+   "from": 111.22,
+   "to": 113,
+   "sid": 35,
+   "location": 2,
+   "content": "选择一个中距离投篮",
+   "music": 0
+  },
+  {
+   "from": 113,
+   "to": 116.34,
+   "sid": 36,
+   "location": 2,
+   "content": "脚下步换出停投篮",
+   "music": 0
+  },
+  {
+   "from": 116.34,
+   "to": 118.06,
+   "sid": 37,
+   "location": 2,
+   "content": "右脚交加步",
+   "music": 0
+  },
+  {
+   "from": 119.1,
+   "to": 121.29,
+   "sid": 38,
+   "location": 2,
+   "content": "one two停投篮",
+   "music": 0
+  },
+  {
+   "from": 122.33,
+   "to": 124.31,
+   "sid": 39,
+   "location": 2,
+   "content": "最后一个点都是炸球",
+   "music": 0
+  },
+  {
+   "from": 124.31,
+   "to": 128.06,
+   "sid": 40,
+   "location": 2,
+   "content": "往后撤哎炸球往后撤",
+   "music": 0
+  },
+  {
+   "from": 128.06,
+   "to": 130.52,
+   "sid": 41,
+   "location": 2,
+   "content": "投篮来go炸",
+   "music": 0
+  },
+  {
+   "from": 130.52,
+   "to": 132.26,
+   "sid": 42,
+   "location": 2,
+   "content": "往后撤投篮",
+   "music": 0
+  },
+  {
+   "from": 132.26,
+   "to": 133.75,
+   "sid": 43,
+   "location": 2,
+   "content": "很多人会问我",
+   "music": 0
+  },
+  {
+   "from": 133.75,
+   "to": 136.97,
+   "sid": 44,
+   "location": 2,
+   "content": "平时我炸球为什么球会在侧面",
+   "music": 0
+  },
+  {
+   "from": 136.97,
+   "to": 138.91,
+   "sid": 45,
+   "location": 2,
+   "content": "这是为了更好保护球",
+   "music": 0
+  },
+  {
+   "from": 139.91,
+   "to": 142.09,
+   "sid": 46,
+   "location": 2,
+   "content": "炸一投篮",
+   "music": 0
+  },
+  {
+   "from": 143.89,
+   "to": 147.03,
+   "sid": 47,
+   "location": 2,
+   "content": "炸一投篮",
+   "music": 0
+  },
+  {
+   "from": 147.39,
+   "to": 149.52,
+   "sid": 48,
+   "location": 2,
+   "content": "诶兄弟学会牺牲",
+   "music": 0
+  },
+  {
+   "from": 149.52,
+   "to": 150.94,
+   "sid": 49,
+   "location": 2,
+   "content": "你只需要10分钟",
+   "music": 0
+  },
+  {
+   "from": 150.94,
+   "to": 154.38,
+   "sid": 50,
+   "location": 2,
+   "content": "在这五个点练好这几个投篮脚步",
+   "music": 0
+  },
+  {
+   "from": 154.38,
+   "to": 158.99,
+   "sid": 51,
+   "location": 2,
+   "content": "你也早晚可以在中距离成为球场投篮射手",
+   "music": 0
+  },
+  {
+   "from": 158.99,
+   "to": 162.53,
+   "sid": 52,
+   "location": 2,
+   "content": "所有的球星都离不开命中率训练",
+   "music": 0
+  },
+  {
+   "from": 162.53,
+   "to": 165.25,
+   "sid": 53,
+   "location": 2,
+   "content": "所以我希望你根据每个点投进时",
+   "music": 0
+  },
+  {
+   "from": 165.25,
+   "to": 166.91,
+   "sid": 54,
+   "location": 2,
+   "content": "提升你的投篮命中率",
+   "music": 0
+  },
+  {
+   "from": 166.91,
+   "to": 167.87,
+   "sid": 55,
+   "location": 2,
+   "content": "这样的话",
+   "music": 0
+  },
+  {
+   "from": 167.87,
+   "to": 172.329,
+   "sid": 56,
+   "location": 2,
+   "content": "在野球场上随时可以收拾他们那几个小趴菜啊",
+   "music": 0
+  },
+  {
+   "from": 172.329,
+   "to": 173.569,
+   "sid": 57,
+   "location": 2,
+   "content": "无论怎么防你",
+   "music": 0
+  },
+  {
+   "from": 173.569,
+   "to": 175.009,
+   "sid": 58,
+   "location": 2,
+   "content": "你要么突破终结",
+   "music": 0
+  },
+  {
+   "from": 175.009,
+   "to": 177.149,
+   "sid": 59,
+   "location": 2,
+   "content": "要么大球创造空间",
+   "music": 0
+  },
+  {
+   "from": 177.149,
+   "to": 178.329,
+   "sid": 60,
+   "location": 2,
+   "content": "要么棒棒",
+   "music": 0
+  },
+  {
+   "from": 178.329,
+   "to": 179.629,
+   "sid": 61,
+   "location": 2,
+   "content": "急停终止",
+   "music": 0
+  },
+  {
+   "from": 179.629,
+   "to": 181.24,
+   "sid": 62,
+   "location": 2,
+   "content": "来love you们",
+   "music": 0
+  }
+ ]
+}

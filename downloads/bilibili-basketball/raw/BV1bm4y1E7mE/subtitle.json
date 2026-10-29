@@ -1,0 +1,572 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.16,
+   "to": 2.88,
+   "sid": 1,
+   "location": 2,
+   "content": "这是我以前的投篮",
+   "music": 0
+  },
+  {
+   "from": 3.54,
+   "to": 5.51,
+   "sid": 2,
+   "location": 2,
+   "content": "这是我现在的投篮吗",
+   "music": 0
+  },
+  {
+   "from": 5.51,
+   "to": 7.19,
+   "sid": 3,
+   "location": 2,
+   "content": "以前三分都投不到",
+   "music": 0
+  },
+  {
+   "from": 7.19,
+   "to": 9.44,
+   "sid": 4,
+   "location": 2,
+   "content": "现在超勇三分轻轻松松",
+   "music": 0
+  },
+  {
+   "from": 9.44,
+   "to": 11.36,
+   "sid": 5,
+   "location": 2,
+   "content": "这个视频向大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 11.36,
+   "to": 13.46,
+   "sid": 6,
+   "location": 2,
+   "content": "我改投篮所做的一些训练",
+   "music": 0
+  },
+  {
+   "from": 13.46,
+   "to": 14.48,
+   "sid": 7,
+   "location": 2,
+   "content": "非常简洁",
+   "music": 0
+  },
+  {
+   "from": 14.48,
+   "to": 15.48,
+   "sid": 8,
+   "location": 2,
+   "content": "没有废话",
+   "music": 0
+  },
+  {
+   "from": 15.48,
+   "to": 17.34,
+   "sid": 9,
+   "location": 2,
+   "content": "如果你也被投篮所困扰",
+   "music": 0
+  },
+  {
+   "from": 17.34,
+   "to": 19.68,
+   "sid": 10,
+   "location": 2,
+   "content": "相信这个视频能够帮助到你",
+   "music": 0.16161615345372793
+  },
+  {
+   "from": 19.68,
+   "to": 21.57,
+   "sid": 11,
+   "location": 2,
+   "content": "一改变球球手型",
+   "music": 0
+  },
+  {
+   "from": 21.57,
+   "to": 24.48,
+   "sid": 12,
+   "location": 2,
+   "content": "两手感在球两侧稍微上一点的位置",
+   "music": 0
+  },
+  {
+   "from": 24.48,
+   "to": 25.38,
+   "sid": 13,
+   "location": 2,
+   "content": "搓一下球",
+   "music": 0
+  },
+  {
+   "from": 25.38,
+   "to": 27.36,
+   "sid": 14,
+   "location": 2,
+   "content": "投篮手放在球的右侧上面",
+   "music": 0
+  },
+  {
+   "from": 27.36,
+   "to": 29.37,
+   "sid": 15,
+   "location": 2,
+   "content": "辅助手放在球的左侧下面",
+   "music": 0
+  },
+  {
+   "from": 29.37,
+   "to": 31.4,
+   "sid": 16,
+   "location": 2,
+   "content": "这样篮球就会非常的稳",
+   "music": 0
+  },
+  {
+   "from": 31.4,
+   "to": 33.65,
+   "sid": 17,
+   "location": 2,
+   "content": "二改变双脚站位",
+   "music": 0
+  },
+  {
+   "from": 33.65,
+   "to": 34.88,
+   "sid": 18,
+   "location": 2,
+   "content": "两脚与肩同宽",
+   "music": 0
+  },
+  {
+   "from": 34.88,
+   "to": 36.41,
+   "sid": 19,
+   "location": 2,
+   "content": "太窄不利于稳定",
+   "music": 0
+  },
+  {
+   "from": 36.41,
+   "to": 38.39,
+   "sid": 20,
+   "location": 2,
+   "content": "太宽会降低出手点高度",
+   "music": 0
+  },
+  {
+   "from": 38.39,
+   "to": 40.1,
+   "sid": 21,
+   "location": 2,
+   "content": "微微向左旋转脚尖",
+   "music": 0
+  },
+  {
+   "from": 40.1,
+   "to": 42.3,
+   "sid": 22,
+   "location": 2,
+   "content": "让身体稍微侧对篮筐",
+   "music": 0
+  },
+  {
+   "from": 42.3,
+   "to": 45.57,
+   "sid": 23,
+   "location": 2,
+   "content": "三分解训练上肢成球举球",
+   "music": 0
+  },
+  {
+   "from": 45.57,
+   "to": 47.46,
+   "sid": 24,
+   "location": 2,
+   "content": "按照刚刚的持球手型",
+   "music": 0
+  },
+  {
+   "from": 47.46,
+   "to": 49.16,
+   "sid": 25,
+   "location": 2,
+   "content": "将球放在腰腹前方",
+   "music": 0
+  },
+  {
+   "from": 49.16,
+   "to": 51.53,
+   "sid": 26,
+   "location": 2,
+   "content": "辅助手用力将球举到额头附近",
+   "music": 0
+  },
+  {
+   "from": 51.53,
+   "to": 54.06,
+   "sid": 27,
+   "location": 2,
+   "content": "举球路线是一个小小的弧形",
+   "music": 0
+  },
+  {
+   "from": 55.36,
+   "to": 58.3,
+   "sid": 28,
+   "location": 2,
+   "content": "是分解训练上肢顶肘下腕出手",
+   "music": 0
+  },
+  {
+   "from": 58.3,
+   "to": 60.19,
+   "sid": 29,
+   "location": 2,
+   "content": "单手持球在额头附近",
+   "music": 0
+  },
+  {
+   "from": 60.19,
+   "to": 61.72,
+   "sid": 30,
+   "location": 2,
+   "content": "注意力放在手上",
+   "music": 0
+  },
+  {
+   "from": 61.72,
+   "to": 63.34,
+   "sid": 31,
+   "location": 2,
+   "content": "肘关节向上顶",
+   "music": 0
+  },
+  {
+   "from": 63.34,
+   "to": 64.36,
+   "sid": 32,
+   "location": 2,
+   "content": "下半运球",
+   "music": 0
+  },
+  {
+   "from": 64.36,
+   "to": 65.519,
+   "sid": 33,
+   "location": 2,
+   "content": "场上勾拳",
+   "music": 0
+  },
+  {
+   "from": 65.519,
+   "to": 68.459,
+   "sid": 34,
+   "location": 2,
+   "content": "五分解训练上肢全程动作",
+   "music": 0
+  },
+  {
+   "from": 68.459,
+   "to": 71.5,
+   "sid": 35,
+   "location": 2,
+   "content": "两手持球在腰腹附近做好成球动作",
+   "music": 0
+  },
+  {
+   "from": 71.5,
+   "to": 75.58,
+   "sid": 36,
+   "location": 2,
+   "content": "导致先过一遍动作顺序举球到额头附近停走",
+   "music": 0
+  },
+  {
+   "from": 75.58,
+   "to": 77.5,
+   "sid": 37,
+   "location": 2,
+   "content": "下晚出手",
+   "music": 0
+  },
+  {
+   "from": 78.18,
+   "to": 80.6,
+   "sid": 38,
+   "location": 2,
+   "content": "六分解训练下肢弹性训练",
+   "music": 0
+  },
+  {
+   "from": 80.6,
+   "to": 82.19,
+   "sid": 39,
+   "location": 2,
+   "content": "重心放在前脚掌上",
+   "music": 0
+  },
+  {
+   "from": 82.19,
+   "to": 83.81,
+   "sid": 40,
+   "location": 2,
+   "content": "有节奏的上下弹动",
+   "music": 0
+  },
+  {
+   "from": 83.81,
+   "to": 85.1,
+   "sid": 41,
+   "location": 2,
+   "content": "屈膝不要太多",
+   "music": 0
+  },
+  {
+   "from": 85.1,
+   "to": 86.3,
+   "sid": 42,
+   "location": 2,
+   "content": "保持平衡稳定",
+   "music": 0
+  },
+  {
+   "from": 86.3,
+   "to": 88.6,
+   "sid": 43,
+   "location": 2,
+   "content": "弹动自然就会屈髋",
+   "music": 0
+  },
+  {
+   "from": 88.6,
+   "to": 90.88,
+   "sid": 44,
+   "location": 2,
+   "content": "七徒手完整动作训练",
+   "music": 0
+  },
+  {
+   "from": 90.88,
+   "to": 92.78,
+   "sid": 45,
+   "location": 2,
+   "content": "将注意力放在下肢上",
+   "music": 0
+  },
+  {
+   "from": 92.78,
+   "to": 95.9,
+   "sid": 46,
+   "location": 2,
+   "content": "脑海里建立持续下肢蹬地发力",
+   "music": 0
+  },
+  {
+   "from": 95.9,
+   "to": 98.08,
+   "sid": 47,
+   "location": 2,
+   "content": "上肢举球顶走出手",
+   "music": 0
+  },
+  {
+   "from": 98.08,
+   "to": 101.65,
+   "sid": 48,
+   "location": 2,
+   "content": "每一次脑子里要过一遍动作的顺序再做动作",
+   "music": 0
+  },
+  {
+   "from": 101.65,
+   "to": 104.14,
+   "sid": 49,
+   "location": 2,
+   "content": "八完整动作打板训练",
+   "music": 0
+  },
+  {
+   "from": 104.14,
+   "to": 105.97,
+   "sid": 50,
+   "location": 2,
+   "content": "将注力放在动作上",
+   "music": 0
+  },
+  {
+   "from": 105.97,
+   "to": 107.38,
+   "sid": 51,
+   "location": 2,
+   "content": "而不是是否命中",
+   "music": 0
+  },
+  {
+   "from": 107.38,
+   "to": 108.76,
+   "sid": 52,
+   "location": 2,
+   "content": "投篮打板训练",
+   "music": 0
+  },
+  {
+   "from": 108.76,
+   "to": 111.07,
+   "sid": 53,
+   "location": 2,
+   "content": "更好的观察球的方向是否正道",
+   "music": 0
+  },
+  {
+   "from": 111.07,
+   "to": 113.72,
+   "sid": 54,
+   "location": 2,
+   "content": "以及球的后悬是否足够",
+   "music": 0
+  },
+  {
+   "from": 113.94,
+   "to": 116.03,
+   "sid": 55,
+   "location": 2,
+   "content": "九完整动作投篮训练",
+   "music": 0
+  },
+  {
+   "from": 116.03,
+   "to": 117.58,
+   "sid": 56,
+   "location": 2,
+   "content": "慢慢增加距离",
+   "music": 0
+  },
+  {
+   "from": 117.58,
+   "to": 120.88,
+   "sid": 57,
+   "location": 2,
+   "content": "站在篮底以后一步投篮弧度尽量高一些",
+   "music": 0
+  },
+  {
+   "from": 120.88,
+   "to": 121.9,
+   "sid": 58,
+   "location": 2,
+   "content": "进行巩固",
+   "music": 0
+  },
+  {
+   "from": 121.9,
+   "to": 122.89,
+   "sid": 59,
+   "location": 2,
+   "content": "投篮动作",
+   "music": 0
+  },
+  {
+   "from": 122.89,
+   "to": 124.06,
+   "sid": 60,
+   "location": 2,
+   "content": "连进五次",
+   "music": 0
+  },
+  {
+   "from": 124.06,
+   "to": 126.02,
+   "sid": 61,
+   "location": 2,
+   "content": "退一步增加射程",
+   "music": 0
+  },
+  {
+   "from": 126.02,
+   "to": 127.7,
+   "sid": 62,
+   "location": 2,
+   "content": "切记循序渐进",
+   "music": 0
+  },
+  {
+   "from": 129.2,
+   "to": 130.7,
+   "sid": 63,
+   "location": 2,
+   "content": "十完整动作",
+   "music": 0
+  },
+  {
+   "from": 130.7,
+   "to": 132.29,
+   "sid": 64,
+   "location": 2,
+   "content": "不同距离投篮训练",
+   "music": 0
+  },
+  {
+   "from": 132.29,
+   "to": 134.36,
+   "sid": 65,
+   "location": 2,
+   "content": "从篮底后一步投篮开始",
+   "music": 0
+  },
+  {
+   "from": 134.36,
+   "to": 136.14,
+   "sid": 66,
+   "location": 2,
+   "content": "每进一个后退一步",
+   "music": 0
+  },
+  {
+   "from": 136.14,
+   "to": 139.44,
+   "sid": 67,
+   "location": 2,
+   "content": "逐步适应不同距离的投篮",
+   "music": 0
+  },
+  {
+   "from": 145.62,
+   "to": 149.82,
+   "sid": 68,
+   "location": 2,
+   "content": "好了",
+   "music": 0
+  },
+  {
+   "from": 149.82,
+   "to": 151.02,
+   "sid": 69,
+   "location": 2,
+   "content": "本期视频就到这里",
+   "music": 0
+  },
+  {
+   "from": 151.02,
+   "to": 151.36,
+   "sid": 70,
+   "location": 2,
+   "content": "我们",
+   "music": 0
+  }
+ ]
+}

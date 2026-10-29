@@ -1,0 +1,164 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.03,
+   "sid": 1,
+   "location": 2,
+   "content": "今天带兄弟们练一下上篮",
+   "music": 0
+  },
+  {
+   "from": 3.09,
+   "to": 5.39,
+   "sid": 2,
+   "location": 2,
+   "content": "第一个就正常的右手三步上篮",
+   "music": 0
+  },
+  {
+   "from": 6.53,
+   "to": 7.67,
+   "sid": 3,
+   "location": 2,
+   "content": "如果对方贴得很紧",
+   "music": 0
+  },
+  {
+   "from": 7.67,
+   "to": 9.05,
+   "sid": 4,
+   "location": 2,
+   "content": "那我们选择不起三步",
+   "music": 0
+  },
+  {
+   "from": 9.05,
+   "to": 10.74,
+   "sid": 5,
+   "location": 2,
+   "content": "直接一步上篮",
+   "music": 0.2550335399306345
+  },
+  {
+   "from": 10.74,
+   "to": 12.78,
+   "sid": 6,
+   "location": 2,
+   "content": "当然左手的一步篮板也要练",
+   "music": 0
+  },
+  {
+   "from": 14.52,
+   "to": 15.42,
+   "sid": 7,
+   "location": 2,
+   "content": "面对包夹时",
+   "music": 0
+  },
+  {
+   "from": 15.42,
+   "to": 18.24,
+   "sid": 8,
+   "location": 2,
+   "content": "可以选择头顶绕球上篮",
+   "music": 0.33858266383532787
+  },
+  {
+   "from": 18.58,
+   "to": 21.54,
+   "sid": 9,
+   "location": 2,
+   "content": "内线出来补防的可以选择向他一侧炸球",
+   "music": 0
+  },
+  {
+   "from": 21.54,
+   "to": 22.88,
+   "sid": 10,
+   "location": 2,
+   "content": "起三步完成上篮",
+   "music": 0
+  },
+  {
+   "from": 22.88,
+   "to": 24.08,
+   "sid": 11,
+   "location": 2,
+   "content": "当然还有跳步",
+   "music": 0
+  },
+  {
+   "from": 24.08,
+   "to": 25.88,
+   "sid": 12,
+   "location": 2,
+   "content": "同样是做一个炸球再起跳",
+   "music": 0
+  },
+  {
+   "from": 25.88,
+   "to": 27.42,
+   "sid": 13,
+   "location": 2,
+   "content": "这样力量会更集中一些",
+   "music": 0
+  },
+  {
+   "from": 27.42,
+   "to": 29.91,
+   "sid": 14,
+   "location": 2,
+   "content": "面对补防转身也是一个不错的选择",
+   "music": 0
+  },
+  {
+   "from": 29.91,
+   "to": 32.84,
+   "sid": 15,
+   "location": 2,
+   "content": "切记这个过程一定要往里转",
+   "music": 0.2101167233417614
+  },
+  {
+   "from": 32.94,
+   "to": 34.1,
+   "sid": 16,
+   "location": 2,
+   "content": "面对内线起跳",
+   "music": 0
+  },
+  {
+   "from": 34.1,
+   "to": 34.7,
+   "sid": 17,
+   "location": 2,
+   "content": "封盖的",
+   "music": 0
+  },
+  {
+   "from": 34.7,
+   "to": 36.47,
+   "sid": 18,
+   "location": 2,
+   "content": "利用拉杆去完成终结",
+   "music": 0
+  },
+  {
+   "from": 36.47,
+   "to": 39.44,
+   "sid": 19,
+   "location": 2,
+   "content": "当然单手的我们也要练习",
+   "music": 0.14492753098088615
+  }
+ ]
+}

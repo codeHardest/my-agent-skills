@@ -1,0 +1,124 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 1.5,
+   "sid": 1,
+   "location": 2,
+   "content": "把这几个脚步整明白",
+   "music": 0
+  },
+  {
+   "from": 1.5,
+   "to": 2.76,
+   "sid": 2,
+   "location": 2,
+   "content": "真没人能防住你",
+   "music": 0
+  },
+  {
+   "from": 2.76,
+   "to": 5.13,
+   "sid": 3,
+   "location": 2,
+   "content": "首先右脚往前上一步做一个对抗",
+   "music": 0
+  },
+  {
+   "from": 5.13,
+   "to": 6.18,
+   "sid": 4,
+   "location": 2,
+   "content": "但是把脚收回来",
+   "music": 0
+  },
+  {
+   "from": 6.18,
+   "to": 6.92,
+   "sid": 5,
+   "location": 2,
+   "content": "可以直接投",
+   "music": 0
+  },
+  {
+   "from": 6.92,
+   "to": 8.3,
+   "sid": 6,
+   "location": 2,
+   "content": "如果防守人要是跟上来",
+   "music": 0
+  },
+  {
+   "from": 8.3,
+   "to": 11.42,
+   "sid": 7,
+   "location": 2,
+   "content": "咱们直接做一个坠步胯下",
+   "music": 0.04807692076553334
+  },
+  {
+   "from": 15.02,
+   "to": 18.98,
+   "sid": 8,
+   "location": 2,
+   "content": "下图右边继续变化炸球YYOUT图右边",
+   "music": 0
+  },
+  {
+   "from": 18.98,
+   "to": 22.04,
+   "sid": 9,
+   "location": 2,
+   "content": "然后在ea奥斯基础上多加一个体前变向",
+   "music": 0
+  },
+  {
+   "from": 22.04,
+   "to": 23.84,
+   "sid": 10,
+   "location": 2,
+   "content": "扑左边炸球拉回来",
+   "music": 0
+  },
+  {
+   "from": 23.84,
+   "to": 26.52,
+   "sid": 11,
+   "location": 2,
+   "content": "胯下背后突右边",
+   "music": 0
+  },
+  {
+   "from": 28.2,
+   "to": 30.26,
+   "sid": 12,
+   "location": 2,
+   "content": "最后一招过来直接炸球",
+   "music": 0
+  },
+  {
+   "from": 30.26,
+   "to": 32.18,
+   "sid": 13,
+   "location": 2,
+   "content": "反胯下做一个横移步过来",
+   "music": 0
+  },
+  {
+   "from": 32.18,
+   "to": 33.02,
+   "sid": 14,
+   "location": 2,
+   "content": "直接转身",
+   "music": 0
+  }
+ ]
+}

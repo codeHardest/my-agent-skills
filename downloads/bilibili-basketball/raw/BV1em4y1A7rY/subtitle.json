@@ -1,0 +1,668 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.06,
+   "to": 1.23,
+   "sid": 1,
+   "location": 2,
+   "content": "作为一个投篮up主",
+   "music": 0
+  },
+  {
+   "from": 1.23,
+   "to": 3.69,
+   "sid": 2,
+   "location": 2,
+   "content": "我邮箱里有很多投篮慢热相关的问题",
+   "music": 0
+  },
+  {
+   "from": 3.69,
+   "to": 5.49,
+   "sid": 3,
+   "location": 2,
+   "content": "其中问的最多的问题有两类",
+   "music": 0
+  },
+  {
+   "from": 5.49,
+   "to": 7.92,
+   "sid": 4,
+   "location": 2,
+   "content": "一是为什么自己总感觉脱手压腕",
+   "music": 0
+  },
+  {
+   "from": 7.92,
+   "to": 10.2,
+   "sid": 5,
+   "location": 2,
+   "content": "才刚刚开始球就已经离手了",
+   "music": 0
+  },
+  {
+   "from": 10.2,
+   "to": 11.64,
+   "sid": 6,
+   "location": 2,
+   "content": "手指感觉发不上力",
+   "music": 0
+  },
+  {
+   "from": 11.64,
+   "to": 14.79,
+   "sid": 7,
+   "location": 2,
+   "content": "二是为什么老歪脑子里是笔直向上的",
+   "music": 0.17343172791764797
+  },
+  {
+   "from": 14.79,
+   "to": 16.11,
+   "sid": 8,
+   "location": 2,
+   "content": "露出来就是歪的",
+   "music": 0.007575757001837773
+  },
+  {
+   "from": 16.11,
+   "to": 17.46,
+   "sid": 9,
+   "location": 2,
+   "content": "有时候是胳膊肘歪",
+   "music": 0
+  },
+  {
+   "from": 17.46,
+   "to": 19.02,
+   "sid": 10,
+   "location": 2,
+   "content": "有时候又是手指歪",
+   "music": 0
+  },
+  {
+   "from": 19.02,
+   "to": 21.18,
+   "sid": 11,
+   "location": 2,
+   "content": "但实际上这些问题不止普通人",
+   "music": 0
+  },
+  {
+   "from": 21.18,
+   "to": 22.5,
+   "sid": 12,
+   "location": 2,
+   "content": "有职业球员也一样",
+   "music": 0
+  },
+  {
+   "from": 22.5,
+   "to": 24.6,
+   "sid": 13,
+   "location": 2,
+   "content": "有热火的投篮教练rap folder",
+   "music": 0
+  },
+  {
+   "from": 24.6,
+   "to": 25.71,
+   "sid": 14,
+   "location": 2,
+   "content": "讲过这样一个故事",
+   "music": 0
+  },
+  {
+   "from": 25.71,
+   "to": 28.6,
+   "sid": 15,
+   "location": 2,
+   "content": "曾经有一个新秀三分命中率只有20%",
+   "music": 0
+  },
+  {
+   "from": 28.6,
+   "to": 29.92,
+   "sid": 16,
+   "location": 2,
+   "content": "ROBERT只用了五个字",
+   "music": 0
+  },
+  {
+   "from": 29.92,
+   "to": 31.66,
+   "sid": 17,
+   "location": 2,
+   "content": "就让它提升到了40%",
+   "music": 0
+  },
+  {
+   "from": 31.66,
+   "to": 33.7,
+   "sid": 18,
+   "location": 2,
+   "content": "这名新秀就是曾经的10号秀",
+   "music": 0
+  },
+  {
+   "from": 33.7,
+   "to": 34.26,
+   "sid": 19,
+   "location": 2,
+   "content": "温斯洛",
+   "music": 0
+  },
+  {
+   "from": 34.26,
+   "to": 35.88,
+   "sid": 20,
+   "location": 2,
+   "content": "现在已经很少听说了",
+   "music": 0
+  },
+  {
+   "from": 35.88,
+   "to": 38.76,
+   "sid": 21,
+   "location": 2,
+   "content": "但这故事里的五个字不少人可能都听说过",
+   "music": 0
+  },
+  {
+   "from": 38.76,
+   "to": 41.83,
+   "sid": 22,
+   "location": 2,
+   "content": "那就是给篮筐传球啊",
+   "music": 0
+  },
+  {
+   "from": 41.83,
+   "to": 44.92,
+   "sid": 23,
+   "location": 2,
+   "content": "rap所说的传球和普通人其实不太一样",
+   "music": 0
+  },
+  {
+   "from": 44.92,
+   "to": 46,
+   "sid": 24,
+   "location": 2,
+   "content": "我们看一下对比",
+   "music": 0
+  },
+  {
+   "from": 46,
+   "to": 47.92,
+   "sid": 25,
+   "location": 2,
+   "content": "左边是未经训练的小球员",
+   "music": 0
+  },
+  {
+   "from": 47.92,
+   "to": 48.97,
+   "sid": 26,
+   "location": 2,
+   "content": "右边是绕吧",
+   "music": 0
+  },
+  {
+   "from": 48.97,
+   "to": 50.11,
+   "sid": 27,
+   "location": 2,
+   "content": "左边大臂在抡",
+   "music": 0
+  },
+  {
+   "from": 50.11,
+   "to": 51.12,
+   "sid": 28,
+   "location": 2,
+   "content": "肩膀也在抡",
+   "music": 0.3366336300362712
+  },
+  {
+   "from": 51.12,
+   "to": 52.74,
+   "sid": 29,
+   "location": 2,
+   "content": "而右边就精简多了",
+   "music": 0
+  },
+  {
+   "from": 52.74,
+   "to": 54,
+   "sid": 30,
+   "location": 2,
+   "content": "基本上只靠手腕",
+   "music": 0
+  },
+  {
+   "from": 54,
+   "to": 55.2,
+   "sid": 31,
+   "location": 2,
+   "content": "我们看哈登投篮",
+   "music": 0
+  },
+  {
+   "from": 55.2,
+   "to": 58.06,
+   "sid": 32,
+   "location": 2,
+   "content": "因为一种手腕一甩球球出去了的感觉",
+   "music": 0
+  },
+  {
+   "from": 58.06,
+   "to": 60.31,
+   "sid": 33,
+   "location": 2,
+   "content": "其实就和rob的传球手法很像",
+   "music": 0
+  },
+  {
+   "from": 60.31,
+   "to": 62.74,
+   "sid": 34,
+   "location": 2,
+   "content": "rob认为传球和投篮都很像",
+   "music": 0
+  },
+  {
+   "from": 62.74,
+   "to": 64.84,
+   "sid": 35,
+   "location": 2,
+   "content": "扔飞镖对准度要求很高",
+   "music": 0
+  },
+  {
+   "from": 64.84,
+   "to": 67.35,
+   "sid": 36,
+   "location": 2,
+   "content": "扔飞镖时手腕会先往后甩",
+   "music": 0
+  },
+  {
+   "from": 67.35,
+   "to": 68.34,
+   "sid": 37,
+   "location": 2,
+   "content": "再往前甩",
+   "music": 0
+  },
+  {
+   "from": 68.34,
+   "to": 69.93,
+   "sid": 38,
+   "location": 2,
+   "content": "手腕是很放松的",
+   "music": 0
+  },
+  {
+   "from": 69.93,
+   "to": 72.48,
+   "sid": 39,
+   "location": 2,
+   "content": "很多人问为什么我压腕压不住",
+   "music": 0
+  },
+  {
+   "from": 72.48,
+   "to": 74.82,
+   "sid": 40,
+   "location": 2,
+   "content": "我认为和手腕太用力有很大关系",
+   "music": 0
+  },
+  {
+   "from": 74.82,
+   "to": 76.02,
+   "sid": 41,
+   "location": 2,
+   "content": "我们来看一个对比",
+   "music": 0
+  },
+  {
+   "from": 76.02,
+   "to": 77.31,
+   "sid": 42,
+   "location": 2,
+   "content": "左边是手腕用力",
+   "music": 0
+  },
+  {
+   "from": 77.31,
+   "to": 78.7,
+   "sid": 43,
+   "location": 2,
+   "content": "右边是手腕放松",
+   "music": 0
+  },
+  {
+   "from": 78.7,
+   "to": 81.28,
+   "sid": 44,
+   "location": 2,
+   "content": "左边其实刚一用力球就脱手了",
+   "music": 0
+  },
+  {
+   "from": 81.28,
+   "to": 82.9,
+   "sid": 45,
+   "location": 2,
+   "content": "压腕其实压的是空气",
+   "music": 0
+  },
+  {
+   "from": 82.9,
+   "to": 84.79,
+   "sid": 46,
+   "location": 2,
+   "content": "而右边虽然手腕是放松的",
+   "music": 0
+  },
+  {
+   "from": 84.79,
+   "to": 86.5,
+   "sid": 47,
+   "location": 2,
+   "content": "但反而更能压住球",
+   "music": 0.1793103324613613
+  },
+  {
+   "from": 86.5,
+   "to": 89.23,
+   "sid": 48,
+   "location": 2,
+   "content": "你记住没有没记住好",
+   "music": 0.30952379109977335
+  },
+  {
+   "from": 89.23,
+   "to": 91.82,
+   "sid": 49,
+   "location": 2,
+   "content": "除了用传球来固定手腕的肌肉记忆",
+   "music": 0
+  },
+  {
+   "from": 91.82,
+   "to": 93.53,
+   "sid": 50,
+   "location": 2,
+   "content": "rap还设计了运一步练习",
+   "music": 0
+  },
+  {
+   "from": 93.53,
+   "to": 95.36,
+   "sid": 51,
+   "location": 2,
+   "content": "用来固定合球的肌肉记忆",
+   "music": 0
+  },
+  {
+   "from": 95.36,
+   "to": 98.15,
+   "sid": 52,
+   "location": 2,
+   "content": "尺寸练习用来固定举球的肌肉记忆",
+   "music": 0
+  },
+  {
+   "from": 98.15,
+   "to": 98.96,
+   "sid": 53,
+   "location": 2,
+   "content": "以及爱的魔力",
+   "music": 0.37837832724615694
+  },
+  {
+   "from": 98.96,
+   "to": 101.1,
+   "sid": 54,
+   "location": 2,
+   "content": "转圈圈练习用来固定平衡",
+   "music": 0.0396039584354536
+  },
+  {
+   "from": 101.1,
+   "to": 104.07,
+   "sid": 55,
+   "location": 2,
+   "content": "那具体的练习方法我也会放在评论区里",
+   "music": 0.059701490309644466
+  },
+  {
+   "from": 104.07,
+   "to": 105.78,
+   "sid": 56,
+   "location": 2,
+   "content": "希望大家能给一个一键三连",
+   "music": 0
+  },
+  {
+   "from": 107.4,
+   "to": 108.96,
+   "sid": 57,
+   "location": 2,
+   "content": "最后也是最重要的",
+   "music": 0
+  },
+  {
+   "from": 108.96,
+   "to": 110.91,
+   "sid": 58,
+   "location": 2,
+   "content": "冬天运动人难免慢热",
+   "music": 0
+  },
+  {
+   "from": 110.91,
+   "to": 112.11,
+   "sid": 59,
+   "location": 2,
+   "content": "想要快速找到手感",
+   "music": 0
+  },
+  {
+   "from": 112.11,
+   "to": 113.4,
+   "sid": 60,
+   "location": 2,
+   "content": "保暖装备非常重要",
+   "music": 0
+  },
+  {
+   "from": 113.4,
+   "to": 115.54,
+   "sid": 61,
+   "location": 2,
+   "content": "比如我身上的这件安踏热血羽绒服",
+   "music": 0
+  },
+  {
+   "from": 115.54,
+   "to": 117.04,
+   "sid": 62,
+   "location": 2,
+   "content": "拒绝慢热就很给力",
+   "music": 0
+  },
+  {
+   "from": 117.04,
+   "to": 118.54,
+   "sid": 63,
+   "location": 2,
+   "content": "安踏作为冬奥会赞助商",
+   "music": 0
+  },
+  {
+   "from": 118.54,
+   "to": 121.65,
+   "sid": 64,
+   "location": 2,
+   "content": "他们的保暖装备是运动员拒绝慢热的秘密武器",
+   "music": 0.0964630194063329
+  },
+  {
+   "from": 121.65,
+   "to": 124.5,
+   "sid": 65,
+   "location": 2,
+   "content": "热血羽绒服搭载了国家队同款的炽热科技",
+   "music": 0
+  },
+  {
+   "from": 124.5,
+   "to": 125.37,
+   "sid": 66,
+   "location": 2,
+   "content": "和巨水科技",
+   "music": 0
+  },
+  {
+   "from": 125.37,
+   "to": 126.93,
+   "sid": 67,
+   "location": 2,
+   "content": "炽热科技采用无缝工艺",
+   "music": 0
+  },
+  {
+   "from": 126.93,
+   "to": 129,
+   "sid": 68,
+   "location": 2,
+   "content": "既闭门跑绒又所容所温",
+   "music": 0
+  },
+  {
+   "from": 129,
+   "to": 130.47,
+   "sid": 69,
+   "location": 2,
+   "content": "球衣上面直接套一件",
+   "music": 0
+  },
+  {
+   "from": 130.47,
+   "to": 132.87,
+   "sid": 70,
+   "location": 2,
+   "content": "人在去球场的路上就已经热起来了",
+   "music": 0
+  },
+  {
+   "from": 132.87,
+   "to": 135.07,
+   "sid": 71,
+   "location": 2,
+   "content": "打球时我们难免弄脏衣服",
+   "music": 0
+  },
+  {
+   "from": 135.07,
+   "to": 137.08,
+   "sid": 72,
+   "location": 2,
+   "content": "这款面料采用安踏巨水科技",
+   "music": 0
+  },
+  {
+   "from": 137.08,
+   "to": 138.55,
+   "sid": 73,
+   "location": 2,
+   "content": "防泼水防油",
+   "music": 0
+  },
+  {
+   "from": 138.55,
+   "to": 139.54,
+   "sid": 74,
+   "location": 2,
+   "content": "超级好打理",
+   "music": 0
+  },
+  {
+   "from": 139.54,
+   "to": 141.24,
+   "sid": 75,
+   "location": 2,
+   "content": "真的服设计方面",
+   "music": 0
+  },
+  {
+   "from": 141.24,
+   "to": 142.11,
+   "sid": 76,
+   "location": 2,
+   "content": "隐形口袋",
+   "music": 0
+  },
+  {
+   "from": 142.11,
+   "to": 143.9,
+   "sid": 77,
+   "location": 2,
+   "content": "双层袖口立领连帽",
+   "music": 0
+  },
+  {
+   "from": 143.9,
+   "to": 146.21,
+   "sid": 78,
+   "location": 2,
+   "content": "质感拉满的同时又简洁百搭",
+   "music": 0
+  },
+  {
+   "from": 146.21,
+   "to": 147.86,
+   "sid": 79,
+   "location": 2,
+   "content": "所以其实去年冬天的时候",
+   "music": 0
+  },
+  {
+   "from": 147.86,
+   "to": 149.78,
+   "sid": 80,
+   "location": 2,
+   "content": "安踏羽绒服就已经很抢手了",
+   "music": 0
+  },
+  {
+   "from": 149.78,
+   "to": 153.3,
+   "sid": 81,
+   "location": 2,
+   "content": "今年双11以安踏的传统应该也是手快有手慢",
+   "music": 0
+  },
+  {
+   "from": 153.3,
+   "to": 156.24,
+   "sid": 82,
+   "location": 2,
+   "content": "无喜欢的朋友请不要错过",
+   "music": 0
+  }
+ ]
+}

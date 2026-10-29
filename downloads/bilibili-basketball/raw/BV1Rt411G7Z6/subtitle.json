@@ -1,0 +1,306 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "sync-en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 2.54,
+   "to": 2.78,
+   "sid": 1,
+   "location": 2,
+   "content": "斯科特"
+  },
+  {
+   "from": 2.78,
+   "to": 4.78,
+   "sid": 2,
+   "location": 2,
+   "content": "我知道你的手很大"
+  },
+  {
+   "from": 4.78,
+   "to": 5.38,
+   "sid": 3,
+   "location": 2,
+   "content": "是呀"
+  },
+  {
+   "from": 5.38,
+   "to": 5.94,
+   "sid": 4,
+   "location": 2,
+   "content": "我有"
+  },
+  {
+   "from": 5.94,
+   "to": 9.179,
+   "sid": 5,
+   "location": 2,
+   "content": "但你手的路径，你能告诉我们什么呢"
+  },
+  {
+   "from": 9.179,
+   "to": 9.539,
+   "sid": 6,
+   "location": 2,
+   "content": "嗯"
+  },
+  {
+   "from": 9.539,
+   "to": 12.479,
+   "sid": 7,
+   "location": 2,
+   "content": "手指路径对练习篮球很重要"
+  },
+  {
+   "from": 12.479,
+   "to": 15.739,
+   "sid": 8,
+   "location": 2,
+   "content": "你把手从篮球上拿开是很重要的"
+  },
+  {
+   "from": 15.739,
+   "to": 19.17,
+   "sid": 9,
+   "location": 2,
+   "content": "用你的裤子把篮球推到地板上"
+  },
+  {
+   "from": 19.17,
+   "to": 20.5,
+   "sid": 10,
+   "location": 2,
+   "content": "如果你在尝试"
+  },
+  {
+   "from": 22.719,
+   "to": 25.4,
+   "sid": 11,
+   "location": 2,
+   "content": "我们将从运球开始"
+  },
+  {
+   "from": 25.4,
+   "to": 26.56,
+   "sid": 12,
+   "location": 2,
+   "content": "运球"
+  },
+  {
+   "from": 26.56,
+   "to": 30.81,
+   "sid": 13,
+   "location": 2,
+   "content": "显然是篮球场上任何类型成功的关键"
+  },
+  {
+   "from": 30.81,
+   "to": 32.17,
+   "sid": 14,
+   "location": 2,
+   "content": "我们要从运球开始"
+  },
+  {
+   "from": 32.17,
+   "to": 34.87,
+   "sid": 15,
+   "location": 2,
+   "content": "我们不想用手掌运球"
+  },
+  {
+   "from": 34.87,
+   "to": 37.019,
+   "sid": 16,
+   "location": 2,
+   "content": "我们想用手指垫运球"
+  },
+  {
+   "from": 37.019,
+   "to": 39.99,
+   "sid": 17,
+   "location": 2,
+   "content": "我们不想这样运球，也不想这样运球"
+  },
+  {
+   "from": 39.99,
+   "to": 45.09,
+   "sid": 18,
+   "location": 2,
+   "content": "但我们想用手指垫运球"
+  },
+  {
+   "from": 45.09,
+   "to": 46.49,
+   "sid": 19,
+   "location": 2,
+   "content": "当我们运球的时候"
+  },
+  {
+   "from": 46.49,
+   "to": 48.49,
+   "sid": 20,
+   "location": 2,
+   "content": "我们不想保持手腕笔直"
+  },
+  {
+   "from": 48.49,
+   "to": 51.84,
+   "sid": 21,
+   "location": 2,
+   "content": "我们想投篮，就像你投球棒一样"
+  },
+  {
+   "from": 51.84,
+   "to": 53.44,
+   "sid": 22,
+   "location": 2,
+   "content": "把篮球扔到篮筐里"
+  },
+  {
+   "from": 53.44,
+   "to": 56.2,
+   "sid": 23,
+   "location": 2,
+   "content": "我们想把篮球射到地上"
+  },
+  {
+   "from": 56.2,
+   "to": 58.91,
+   "sid": 24,
+   "location": 2,
+   "content": "所以我们要把篮球打到地上"
+  },
+  {
+   "from": 58.91,
+   "to": 63.03,
+   "sid": 25,
+   "location": 2,
+   "content": "通常你想让篮球保持在膝盖以上"
+  },
+  {
+   "from": 63.03,
+   "to": 64.01,
+   "sid": 26,
+   "location": 2,
+   "content": "当你运球的时候"
+  },
+  {
+   "from": 64.01,
+   "to": 65.64,
+   "sid": 27,
+   "location": 2,
+   "content": "如果你把它弄得太高"
+  },
+  {
+   "from": 65.64,
+   "to": 68.68,
+   "sid": 28,
+   "location": 2,
+   "content": "它允许防守队员进入并偷走篮球"
+  },
+  {
+   "from": 68.68,
+   "to": 70.3,
+   "sid": 29,
+   "location": 2,
+   "content": "如果你变得太低"
+  },
+  {
+   "from": 70.3,
+   "to": 72.37,
+   "sid": 30,
+   "location": 2,
+   "content": "很难快速移动"
+  },
+  {
+   "from": 72.37,
+   "to": 74.21,
+   "sid": 31,
+   "location": 2,
+   "content": "所以除了速度运球"
+  },
+  {
+   "from": 74.21,
+   "to": 76.65,
+   "sid": 32,
+   "location": 2,
+   "content": "这是一个分离上篮类型的情况"
+  },
+  {
+   "from": 76.65,
+   "to": 79.949,
+   "sid": 33,
+   "location": 2,
+   "content": "我们想让篮球保持在膝盖以上"
+  },
+  {
+   "from": 79.949,
+   "to": 84.56,
+   "sid": 34,
+   "location": 2,
+   "content": "用我们的手指垫运球，把篮球投到地上"
+  },
+  {
+   "from": 84.56,
+   "to": 86.74,
+   "sid": 35,
+   "location": 2,
+   "content": "所以我要运球"
+  },
+  {
+   "from": 86.74,
+   "to": 91.36,
+   "sid": 36,
+   "location": 2,
+   "content": "我用手指垫把它推倒在地"
+  },
+  {
+   "from": 92.26,
+   "to": 94.86,
+   "sid": 37,
+   "location": 2,
+   "content": "注意到我想开始你几乎所有的运球"
+  },
+  {
+   "from": 94.86,
+   "to": 98.3,
+   "sid": 38,
+   "location": 2,
+   "content": "你想从一个篮球姿势和位置开始"
+  },
+  {
+   "from": 98.3,
+   "to": 102.18,
+   "sid": 39,
+   "location": 2,
+   "content": "你的膝盖应该弯曲，下巴向上"
+  },
+  {
+   "from": 102.18,
+   "to": 105.82,
+   "sid": 40,
+   "location": 2,
+   "content": "所以我要用手指垫运球"
+  },
+  {
+   "from": 105.82,
+   "to": 108.61,
+   "sid": 41,
+   "location": 2,
+   "content": "把球打到地上"
+  },
+  {
+   "from": 108.61,
+   "to": 112.44,
+   "sid": 42,
+   "location": 2,
+   "content": "运球的一个基本功"
+  }
+ ]
+}

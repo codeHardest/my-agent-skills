@@ -1,0 +1,40 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 8.299,
+   "to": 12.02,
+   "sid": 1,
+   "location": 2,
+   "content": "唱唱大赛冠one one"
+  },
+  {
+   "from": 12.86,
+   "to": 15.08,
+   "sid": 2,
+   "location": 2,
+   "content": "but i took a single again"
+  },
+  {
+   "from": 15.08,
+   "to": 18.39,
+   "sid": 3,
+   "location": 2,
+   "content": "she had a second ch that s one"
+  },
+  {
+   "from": 18.39,
+   "to": 19.36,
+   "sid": 4,
+   "location": 2,
+   "content": "one one"
+  }
+ ]
+}

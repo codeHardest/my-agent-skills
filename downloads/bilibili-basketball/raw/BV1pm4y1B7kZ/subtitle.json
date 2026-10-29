@@ -1,0 +1,340 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 2.61,
+   "sid": 1,
+   "location": 2,
+   "content": "这位老铁投篮为什么不协调的",
+   "music": 0
+  },
+  {
+   "from": 2.61,
+   "to": 6.92,
+   "sid": 2,
+   "location": 2,
+   "content": "第一个问题就是他在蓄力向下的时候开始几圈",
+   "music": 0
+  },
+  {
+   "from": 6.92,
+   "to": 9.14,
+   "sid": 3,
+   "location": 2,
+   "content": "并且再续一点是膝盖",
+   "music": 0
+  },
+  {
+   "from": 9.14,
+   "to": 14.18,
+   "sid": 4,
+   "location": 2,
+   "content": "这会导致他在登山的时候上下肢一起发力",
+   "music": 0
+  },
+  {
+   "from": 14.18,
+   "to": 15.05,
+   "sid": 5,
+   "location": 2,
+   "content": "看到没",
+   "music": 0
+  },
+  {
+   "from": 15.05,
+   "to": 17.09,
+   "sid": 6,
+   "location": 2,
+   "content": "就第一个节奏全错了",
+   "music": 0
+  },
+  {
+   "from": 17.09,
+   "to": 20.69,
+   "sid": 7,
+   "location": 2,
+   "content": "第二个问题就是他球的停球点太靠后了",
+   "music": 0
+  },
+  {
+   "from": 20.69,
+   "to": 21.61,
+   "sid": 8,
+   "location": 2,
+   "content": "太靠上",
+   "music": 0
+  },
+  {
+   "from": 21.61,
+   "to": 24.34,
+   "sid": 9,
+   "location": 2,
+   "content": "应该在这个位置的时候基本上就稳住了",
+   "music": 0
+  },
+  {
+   "from": 24.34,
+   "to": 25.39,
+   "sid": 10,
+   "location": 2,
+   "content": "我们看库里啊",
+   "music": 0
+  },
+  {
+   "from": 25.39,
+   "to": 26.77,
+   "sid": 11,
+   "location": 2,
+   "content": "库里在起球的过程中",
+   "music": 0
+  },
+  {
+   "from": 26.77,
+   "to": 30.65,
+   "sid": 12,
+   "location": 2,
+   "content": "他的下肢不会再过多的向下蓄力",
+   "music": 0
+  },
+  {
+   "from": 30.65,
+   "to": 33.98,
+   "sid": 13,
+   "location": 2,
+   "content": "而是把身体通过前倾的状态",
+   "music": 0
+  },
+  {
+   "from": 33.98,
+   "to": 35.55,
+   "sid": 14,
+   "location": 2,
+   "content": "然后变成竖直",
+   "music": 0
+  },
+  {
+   "from": 35.55,
+   "to": 37.05,
+   "sid": 15,
+   "location": 2,
+   "content": "然后在这个位置的时候",
+   "music": 0
+  },
+  {
+   "from": 37.05,
+   "to": 38.64,
+   "sid": 16,
+   "location": 2,
+   "content": "他的球基本稳住了",
+   "music": 0
+  },
+  {
+   "from": 38.64,
+   "to": 40.53,
+   "sid": 17,
+   "location": 2,
+   "content": "然后下肢蹬伸完之后",
+   "music": 0
+  },
+  {
+   "from": 40.53,
+   "to": 41.61,
+   "sid": 18,
+   "location": 2,
+   "content": "上肢在发力",
+   "music": 0
+  },
+  {
+   "from": 41.61,
+   "to": 43.61,
+   "sid": 19,
+   "location": 2,
+   "content": "并且连接点非常迅速",
+   "music": 0
+  },
+  {
+   "from": 43.61,
+   "to": 47.06,
+   "sid": 20,
+   "location": 2,
+   "content": "正面的问题就是他的这种瞄准的意识不对",
+   "music": 0
+  },
+  {
+   "from": 47.06,
+   "to": 49.97,
+   "sid": 21,
+   "location": 2,
+   "content": "它是以身体的中间去瞄准篮筐",
+   "music": 0
+  },
+  {
+   "from": 49.97,
+   "to": 53.33,
+   "sid": 22,
+   "location": 2,
+   "content": "这会导致他的手肘明显的外展",
+   "music": 0
+  },
+  {
+   "from": 53.33,
+   "to": 54.77,
+   "sid": 23,
+   "location": 2,
+   "content": "因为你球在中间",
+   "music": 0
+  },
+  {
+   "from": 54.77,
+   "to": 58.279,
+   "sid": 24,
+   "location": 2,
+   "content": "你手肘肯定是左右的发力来拖着这个球",
+   "music": 0
+  },
+  {
+   "from": 58.3,
+   "to": 61.73,
+   "sid": 25,
+   "location": 2,
+   "content": "应该像哈登这样把身体侧过来一点",
+   "music": 0
+  },
+  {
+   "from": 61.73,
+   "to": 63.59,
+   "sid": 26,
+   "location": 2,
+   "content": "手肘到这个位置的时候",
+   "music": 0
+  },
+  {
+   "from": 63.59,
+   "to": 66.5,
+   "sid": 27,
+   "location": 2,
+   "content": "看他的手肘已经对准篮筐了",
+   "music": 0
+  },
+  {
+   "from": 66.5,
+   "to": 68.57,
+   "sid": 28,
+   "location": 2,
+   "content": "而不是用你的身体",
+   "music": 0
+  },
+  {
+   "from": 68.57,
+   "to": 70.56,
+   "sid": 29,
+   "location": 2,
+   "content": "用你的脸去瞄准篮筐",
+   "music": 0
+  },
+  {
+   "from": 70.58,
+   "to": 73.73,
+   "sid": 30,
+   "location": 2,
+   "content": "而是用你的肘关节去瞄准篮筐",
+   "music": 0
+  },
+  {
+   "from": 73.73,
+   "to": 78,
+   "sid": 31,
+   "location": 2,
+   "content": "这样的话你整个身体会自然而然的旋转一点",
+   "music": 0
+  },
+  {
+   "from": 78,
+   "to": 78.78,
+   "sid": 32,
+   "location": 2,
+   "content": "侧身一点",
+   "music": 0
+  },
+  {
+   "from": 78.78,
+   "to": 82.38,
+   "sid": 33,
+   "location": 2,
+   "content": "这样才能给你肘关节足够的一个打开的空间",
+   "music": 0
+  },
+  {
+   "from": 82.38,
+   "to": 83.46,
+   "sid": 34,
+   "location": 2,
+   "content": "像哈登这样",
+   "music": 0
+  },
+  {
+   "from": 83.46,
+   "to": 85.74,
+   "sid": 35,
+   "location": 2,
+   "content": "哈登在这个位置已经瞄准好了",
+   "music": 0
+  },
+  {
+   "from": 85.74,
+   "to": 86.88,
+   "sid": 36,
+   "location": 2,
+   "content": "他发力以后",
+   "music": 0
+  },
+  {
+   "from": 86.88,
+   "to": 89.13,
+   "sid": 37,
+   "location": 2,
+   "content": "球一定会按照他的弹道往前走",
+   "music": 0
+  },
+  {
+   "from": 89.13,
+   "to": 90.51,
+   "sid": 38,
+   "location": 2,
+   "content": "而你在这个位置的时候",
+   "music": 0
+  },
+  {
+   "from": 90.51,
+   "to": 92.25,
+   "sid": 39,
+   "location": 2,
+   "content": "其实还没有瞄准好",
+   "music": 0
+  },
+  {
+   "from": 92.25,
+   "to": 94.36,
+   "sid": 40,
+   "location": 2,
+   "content": "所以你出出出球以后",
+   "music": 0
+  },
+  {
+   "from": 94.36,
+   "to": 96.5,
+   "sid": 41,
+   "location": 2,
+   "content": "球一定会出现左右偏移",
+   "music": 0
+  }
+ ]
+}

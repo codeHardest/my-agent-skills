@@ -1,0 +1,756 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.9,
+   "to": 3,
+   "sid": 1,
+   "location": 2,
+   "content": "我发现了10万宝石",
+   "music": 0
+  },
+  {
+   "from": 3.28,
+   "to": 5.19,
+   "sid": 2,
+   "location": 2,
+   "content": "达到了10万订阅关注",
+   "music": 0
+  },
+  {
+   "from": 5.19,
+   "to": 6.63,
+   "sid": 3,
+   "location": 2,
+   "content": "这对我意义重大",
+   "music": 0
+  },
+  {
+   "from": 6.63,
+   "to": 10.719,
+   "sid": 4,
+   "location": 2,
+   "content": "在这里感谢梅为收集宝石并渴望进步的球手",
+   "music": 0
+  },
+  {
+   "from": 10.719,
+   "to": 14.5,
+   "sid": 5,
+   "location": 2,
+   "content": "非常的感谢",
+   "music": 0
+  },
+  {
+   "from": 15.02,
+   "to": 17.26,
+   "sid": 6,
+   "location": 2,
+   "content": "OK今天这些宝石呢是跟大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 17.26,
+   "to": 19.24,
+   "sid": 7,
+   "location": 2,
+   "content": "我们行进间运球的一些小的组合",
+   "music": 0
+  },
+  {
+   "from": 19.24,
+   "to": 20.3,
+   "sid": 8,
+   "location": 2,
+   "content": "一些小的combo",
+   "music": 0
+  },
+  {
+   "from": 20.3,
+   "to": 21.98,
+   "sid": 9,
+   "location": 2,
+   "content": "因为很多小伙伴在后台一直问",
+   "music": 0
+  },
+  {
+   "from": 21.98,
+   "to": 25.55,
+   "sid": 10,
+   "location": 2,
+   "content": "我想看一些关于基础运球的一些啊训练视频",
+   "music": 0
+  },
+  {
+   "from": 25.55,
+   "to": 26.96,
+   "sid": 11,
+   "location": 2,
+   "content": "我觉得他们说的非常有道理",
+   "music": 0
+  },
+  {
+   "from": 26.96,
+   "to": 29.06,
+   "sid": 12,
+   "location": 2,
+   "content": "因为无论你是什么等级的球员",
+   "music": 0
+  },
+  {
+   "from": 29.06,
+   "to": 30.02,
+   "sid": 13,
+   "location": 2,
+   "content": "包括一些职业球员",
+   "music": 0
+  },
+  {
+   "from": 30.02,
+   "to": 31.4,
+   "sid": 14,
+   "location": 2,
+   "content": "他们每年都会花出一些时间",
+   "music": 0
+  },
+  {
+   "from": 31.4,
+   "to": 34.24,
+   "sid": 15,
+   "location": 2,
+   "content": "来锻炼他们的这个基础运球",
+   "music": 0
+  },
+  {
+   "from": 34.24,
+   "to": 36.16,
+   "sid": 16,
+   "location": 2,
+   "content": "运球的一些基本功能啊",
+   "music": 0
+  },
+  {
+   "from": 36.16,
+   "to": 38.18,
+   "sid": 17,
+   "location": 2,
+   "content": "所以呢今天给大家带来一些训练的动作",
+   "music": 0
+  },
+  {
+   "from": 38.18,
+   "to": 40.22,
+   "sid": 18,
+   "location": 2,
+   "content": "其实也是相对来讲比较基础的",
+   "music": 0
+  },
+  {
+   "from": 40.22,
+   "to": 44,
+   "sid": 19,
+   "location": 2,
+   "content": "而且他并不需要你要在球场这些东西",
+   "music": 0.11445782787777703
+  },
+  {
+   "from": 44,
+   "to": 46.7,
+   "sid": 20,
+   "location": 2,
+   "content": "其实可以在这个只需要点空地",
+   "music": 0.25225224088953985
+  },
+  {
+   "from": 46.7,
+   "to": 48.56,
+   "sid": 21,
+   "location": 2,
+   "content": "可能在地下车库都可以去完成",
+   "music": 0
+  },
+  {
+   "from": 48.56,
+   "to": 50.9,
+   "sid": 22,
+   "location": 2,
+   "content": "每天花个10分钟的时间啊",
+   "music": 0.2708333192274337
+  },
+  {
+   "from": 50.9,
+   "to": 53.6,
+   "sid": 23,
+   "location": 2,
+   "content": "都可以让那个运球进入下一个等级",
+   "music": 0.12727272148760393
+  },
+  {
+   "from": 53.6,
+   "to": 54.56,
+   "sid": 24,
+   "location": 2,
+   "content": "OK那话不多说",
+   "music": 0
+  },
+  {
+   "from": 54.56,
+   "to": 55.54,
+   "sid": 25,
+   "location": 2,
+   "content": "我们就来看一下",
+   "music": 0
+  },
+  {
+   "from": 55.72,
+   "to": 58.36,
+   "sid": 26,
+   "location": 2,
+   "content": "首先是左右手的大力运球",
+   "music": 0
+  },
+  {
+   "from": 58.36,
+   "to": 60.77,
+   "sid": 27,
+   "location": 2,
+   "content": "热身分三个不同的高度",
+   "music": 0
+  },
+  {
+   "from": 60.77,
+   "to": 62.99,
+   "sid": 28,
+   "location": 2,
+   "content": "希望你可以用全力去完成",
+   "music": 0
+  },
+  {
+   "from": 62.99,
+   "to": 64.66,
+   "sid": 29,
+   "location": 2,
+   "content": "不用担心失误",
+   "music": 0
+  },
+  {
+   "from": 64.66,
+   "to": 67.6,
+   "sid": 30,
+   "location": 2,
+   "content": "每个高度控制在十次运球左右",
+   "music": 0
+  },
+  {
+   "from": 67.6,
+   "to": 71.62,
+   "sid": 31,
+   "location": 2,
+   "content": "左右手交替完成两到三组即可",
+   "music": 0
+  },
+  {
+   "from": 79.9,
+   "to": 82.539,
+   "sid": 32,
+   "location": 2,
+   "content": "然后是我们的行进间V字运球",
+   "music": 0
+  },
+  {
+   "from": 82.539,
+   "to": 84.069,
+   "sid": 33,
+   "location": 2,
+   "content": "躯干保持稳定",
+   "music": 0
+  },
+  {
+   "from": 84.069,
+   "to": 85.989,
+   "sid": 34,
+   "location": 2,
+   "content": "尽量让眼睛不要看球",
+   "music": 0
+  },
+  {
+   "from": 85.989,
+   "to": 88.7,
+   "sid": 35,
+   "location": 2,
+   "content": "以合适的节奏完成整个训练",
+   "music": 0
+  },
+  {
+   "from": 88.7,
+   "to": 92.66,
+   "sid": 36,
+   "location": 2,
+   "content": "同时我们的左右手可以交替完成",
+   "music": 0
+  },
+  {
+   "from": 97.9,
+   "to": 100.59,
+   "sid": 37,
+   "location": 2,
+   "content": "然后是我们的行进间内外运球",
+   "music": 0
+  },
+  {
+   "from": 100.59,
+   "to": 101.82,
+   "sid": 38,
+   "location": 2,
+   "content": "需要注意的是",
+   "music": 0
+  },
+  {
+   "from": 101.82,
+   "to": 105.46,
+   "sid": 39,
+   "location": 2,
+   "content": "内外运球时对策角需要做出相应的刺探",
+   "music": 0
+  },
+  {
+   "from": 105.46,
+   "to": 108.64,
+   "sid": 40,
+   "location": 2,
+   "content": "配合眼神误导两次内外运球",
+   "music": 0
+  },
+  {
+   "from": 108.64,
+   "to": 110.65,
+   "sid": 41,
+   "location": 2,
+   "content": "中间会衔接一次普通运球",
+   "music": 0
+  },
+  {
+   "from": 110.65,
+   "to": 113.9,
+   "sid": 42,
+   "location": 2,
+   "content": "来保证我们的节奏啊",
+   "music": 0
+  },
+  {
+   "from": 116.9,
+   "to": 119.78,
+   "sid": 43,
+   "location": 2,
+   "content": "之后是V字运球衔接体前变向",
+   "music": 0
+  },
+  {
+   "from": 119.78,
+   "to": 121.98,
+   "sid": 44,
+   "location": 2,
+   "content": "重点是保证运球的速率",
+   "music": 0
+  },
+  {
+   "from": 121.98,
+   "to": 123.18,
+   "sid": 45,
+   "location": 2,
+   "content": "眼睛不要看球",
+   "music": 0
+  },
+  {
+   "from": 127.02,
+   "to": 129.5,
+   "sid": 46,
+   "location": 2,
+   "content": "然后是V字运球衔接胯下",
+   "music": 0
+  },
+  {
+   "from": 129.5,
+   "to": 131.66,
+   "sid": 47,
+   "location": 2,
+   "content": "希望你可以在有限的距离中",
+   "music": 0
+  },
+  {
+   "from": 131.66,
+   "to": 134.54,
+   "sid": 48,
+   "location": 2,
+   "content": "完成更多的运球次数",
+   "music": 0
+  },
+  {
+   "from": 138.96,
+   "to": 140.48,
+   "sid": 49,
+   "location": 2,
+   "content": "相同的道理来了",
+   "music": 0
+  },
+  {
+   "from": 140.48,
+   "to": 142.94,
+   "sid": 50,
+   "location": 2,
+   "content": "我们的V字运球衔接背后运球",
+   "music": 0
+  },
+  {
+   "from": 142.94,
+   "to": 146.03,
+   "sid": 51,
+   "location": 2,
+   "content": "注意在背后运球时会有一定的挑战",
+   "music": 0
+  },
+  {
+   "from": 146.03,
+   "to": 149.84,
+   "sid": 52,
+   "location": 2,
+   "content": "要及时跟随着运球节奏调整你的脚步",
+   "music": 0
+  },
+  {
+   "from": 150.24,
+   "to": 152.54,
+   "sid": 53,
+   "location": 2,
+   "content": "之后是我们的内外运球衔接",
+   "music": 0
+  },
+  {
+   "from": 152.54,
+   "to": 154.64,
+   "sid": 54,
+   "location": 2,
+   "content": "两次快速的体前变向",
+   "music": 0
+  },
+  {
+   "from": 154.64,
+   "to": 156.92,
+   "sid": 55,
+   "location": 2,
+   "content": "希望你可以保证动作的连续性",
+   "music": 0
+  },
+  {
+   "from": 156.92,
+   "to": 159.26,
+   "sid": 56,
+   "location": 2,
+   "content": "以及你运球的速率",
+   "music": 0
+  },
+  {
+   "from": 159.96,
+   "to": 162.98,
+   "sid": 57,
+   "location": 2,
+   "content": "同时我们的弱侧手也要进行相同的训练",
+   "music": 0
+  },
+  {
+   "from": 171.079,
+   "to": 173.619,
+   "sid": 58,
+   "location": 2,
+   "content": "之后是我们的内外运球衔接",
+   "music": 0
+  },
+  {
+   "from": 173.619,
+   "to": 175.16,
+   "sid": 59,
+   "location": 2,
+   "content": "胯下体前变向",
+   "music": 0
+  },
+  {
+   "from": 175.16,
+   "to": 177.83,
+   "sid": 60,
+   "location": 2,
+   "content": "这个训练动作更加贴合实战",
+   "music": 0
+  },
+  {
+   "from": 177.83,
+   "to": 180.26,
+   "sid": 61,
+   "location": 2,
+   "content": "希望可以加入自己的运球节奏",
+   "music": 0
+  },
+  {
+   "from": 180.26,
+   "to": 182.03,
+   "sid": 62,
+   "location": 2,
+   "content": "以及重心的起伏等",
+   "music": 0
+  },
+  {
+   "from": 183.09,
+   "to": 187.43,
+   "sid": 63,
+   "location": 2,
+   "content": "当然我们的弱侧手也要进行相同的训练",
+   "music": 0
+  },
+  {
+   "from": 195.36,
+   "to": 198.86,
+   "sid": 64,
+   "location": 2,
+   "content": "然后就是我们非常具有挑战的内外运球衔接",
+   "music": 0
+  },
+  {
+   "from": 198.86,
+   "to": 200.27,
+   "sid": 65,
+   "location": 2,
+   "content": "两次背后运球",
+   "music": 0
+  },
+  {
+   "from": 200.27,
+   "to": 203.16,
+   "sid": 66,
+   "location": 2,
+   "content": "这对初学者来说可能具有一些挑战",
+   "music": 0
+  },
+  {
+   "from": 203.16,
+   "to": 207.6,
+   "sid": 67,
+   "location": 2,
+   "content": "重点在于一定要跟随着身体的节奏去运球",
+   "music": 0
+  },
+  {
+   "from": 209.04,
+   "to": 211.79,
+   "sid": 68,
+   "location": 2,
+   "content": "刚开始运球的速率可能不需要太快",
+   "music": 0
+  },
+  {
+   "from": 211.79,
+   "to": 213.47,
+   "sid": 69,
+   "location": 2,
+   "content": "当你逐渐适应之后",
+   "music": 0
+  },
+  {
+   "from": 213.47,
+   "to": 215.86,
+   "sid": 70,
+   "location": 2,
+   "content": "慢慢加快速度",
+   "music": 0
+  },
+  {
+   "from": 222.52,
+   "to": 226.29,
+   "sid": 71,
+   "location": 2,
+   "content": "最后一项则是我们行进间运球中的后退运球",
+   "music": 0
+  },
+  {
+   "from": 226.29,
+   "to": 226.92,
+   "sid": 72,
+   "location": 2,
+   "content": "训练",
+   "music": 0
+  },
+  {
+   "from": 226.92,
+   "to": 228.1,
+   "sid": 73,
+   "location": 2,
+   "content": "保护球的同时",
+   "music": 0
+  },
+  {
+   "from": 228.1,
+   "to": 232.12,
+   "sid": 74,
+   "location": 2,
+   "content": "利用胯下或者背后运球完成变向摆脱防守",
+   "music": 0
+  },
+  {
+   "from": 235.36,
+   "to": 235.62,
+   "sid": 75,
+   "location": 2,
+   "content": "啊",
+   "music": 0
+  },
+  {
+   "from": 237.76,
+   "to": 240.7,
+   "sid": 76,
+   "location": 2,
+   "content": "OK现在大家已经看完了以上的这个训练流程了",
+   "music": 0
+  },
+  {
+   "from": 240.7,
+   "to": 242.62,
+   "sid": 77,
+   "location": 2,
+   "content": "其实在这里还是想跟大家多说两句",
+   "music": 0
+  },
+  {
+   "from": 242.62,
+   "to": 245.64,
+   "sid": 78,
+   "location": 2,
+   "content": "如果我们训练的时长以及频率呃",
+   "music": 0.17460316767447784
+  },
+  {
+   "from": 245.64,
+   "to": 246.18,
+   "sid": 79,
+   "location": 2,
+   "content": "在这里呢",
+   "music": 0
+  },
+  {
+   "from": 246.18,
+   "to": 248.58,
+   "sid": 80,
+   "location": 2,
+   "content": "其实我个人建议大家每天拿出10分钟的时间",
+   "music": 0
+  },
+  {
+   "from": 248.58,
+   "to": 251.18,
+   "sid": 81,
+   "location": 2,
+   "content": "来完成我们以上求流程就可以了",
+   "music": 0.17599999295999938
+  },
+  {
+   "from": 251.18,
+   "to": 254,
+   "sid": 82,
+   "location": 2,
+   "content": "其实不希望大家去做那种3分钟热度",
+   "music": 0.04999999821429086
+  },
+  {
+   "from": 254,
+   "to": 255.08,
+   "sid": 83,
+   "location": 2,
+   "content": "大家看到这个视频之后",
+   "music": 0
+  },
+  {
+   "from": 255.08,
+   "to": 256.899,
+   "sid": 84,
+   "location": 2,
+   "content": "能拿下篮球去练习一个小时",
+   "music": 0
+  },
+  {
+   "from": 256.899,
+   "to": 258.879,
+   "sid": 85,
+   "location": 2,
+   "content": "然后过了一周之后又训练一个小时",
+   "music": 0
+  },
+  {
+   "from": 258.879,
+   "to": 261.609,
+   "sid": 86,
+   "location": 2,
+   "content": "其实我是更加倾向于大家每天都要去控球",
+   "music": 0
+  },
+  {
+   "from": 261.609,
+   "to": 263.64,
+   "sid": 87,
+   "location": 2,
+   "content": "然后说只是碰10分钟啊",
+   "music": 0
+  },
+  {
+   "from": 263.64,
+   "to": 265.68,
+   "sid": 88,
+   "location": 2,
+   "content": "我觉得效果会更好一些的",
+   "music": 0
+  },
+  {
+   "from": 265.68,
+   "to": 267.84,
+   "sid": 89,
+   "location": 2,
+   "content": "那OK以上就是这期宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 267.84,
+   "to": 269.7,
+   "sid": 90,
+   "location": 2,
+   "content": "如果大家喜欢这期宝石呢",
+   "music": 0
+  },
+  {
+   "from": 269.7,
+   "to": 272.26,
+   "sid": 91,
+   "location": 2,
+   "content": "希望大家长按点赞三连来支持我们宝石",
+   "music": 0
+  },
+  {
+   "from": 272.26,
+   "to": 273.46,
+   "sid": 92,
+   "location": 2,
+   "content": "那我们下期再见",
+   "music": 0
+  },
+  {
+   "from": 273.46,
+   "to": 275.18,
+   "sid": 93,
+   "location": 2,
+   "content": "拜拜",
+   "music": 0
+  }
+ ]
+}

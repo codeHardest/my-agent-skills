@@ -1,0 +1,82 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "r1.3.0.0",
+ "body": [
+  {
+   "from": 0.05,
+   "to": 0.68,
+   "sid": 1,
+   "location": 2,
+   "content": "快醒醒"
+  },
+  {
+   "from": 0.93,
+   "to": 2.19,
+   "sid": 2,
+   "location": 2,
+   "content": "你训练的时候投篮准"
+  },
+  {
+   "from": 2.33,
+   "to": 4.79,
+   "sid": 3,
+   "location": 2,
+   "content": "并不代表你已经把投篮做到完美了"
+  },
+  {
+   "from": 5.15,
+   "to": 6.02,
+   "sid": 4,
+   "location": 2,
+   "content": "三个重要细节"
+  },
+  {
+   "from": 6.02,
+   "to": 9.56,
+   "sid": 5,
+   "location": 2,
+   "content": "不注意实战投篮命中率直接下降60%"
+  },
+  {
+   "from": 9.91,
+   "to": 10.91,
+   "sid": 6,
+   "location": 2,
+   "content": "还有可能挨骂"
+  },
+  {
+   "from": 11.25,
+   "to": 12.15,
+   "sid": 7,
+   "location": 2,
+   "content": "快点赞上车"
+  },
+  {
+   "from": 12.45,
+   "to": 15,
+   "sid": 8,
+   "location": 2,
+   "content": "跟着kpt一起提升实战命中率吧"
+  },
+  {
+   "from": 26.04,
+   "to": 27.98,
+   "sid": 9,
+   "location": 2,
+   "content": "我是如此相信"
+  },
+  {
+   "from": 36.23,
+   "to": 36.44,
+   "sid": 10,
+   "location": 2,
+   "content": "我"
+  }
+ ]
+}

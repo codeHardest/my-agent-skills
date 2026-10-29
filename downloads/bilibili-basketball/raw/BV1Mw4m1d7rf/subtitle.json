@@ -1,0 +1,372 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 0.94,
+   "to": 2.62,
+   "sid": 1,
+   "location": 2,
+   "content": "你没到没用啊",
+   "music": 0
+  },
+  {
+   "from": 2.62,
+   "to": 3.22,
+   "sid": 2,
+   "location": 2,
+   "content": "我防你",
+   "music": 0
+  },
+  {
+   "from": 3.22,
+   "to": 3.94,
+   "sid": 3,
+   "location": 2,
+   "content": "你在这里",
+   "music": 0
+  },
+  {
+   "from": 3.94,
+   "to": 6.23,
+   "sid": 4,
+   "location": 2,
+   "content": "你做这个没用啊",
+   "music": 0
+  },
+  {
+   "from": 6.75,
+   "to": 9.56,
+   "sid": 5,
+   "location": 2,
+   "content": "你马上走过来停",
+   "music": 0
+  },
+  {
+   "from": 9.56,
+   "to": 10.01,
+   "sid": 6,
+   "location": 2,
+   "content": "你",
+   "music": 0
+  },
+  {
+   "from": 10.01,
+   "to": 12.64,
+   "sid": 7,
+   "location": 2,
+   "content": "这一瞬间我要你给我背",
+   "music": 0.2557077508809239
+  },
+  {
+   "from": 12.64,
+   "to": 14.32,
+   "sid": 8,
+   "location": 2,
+   "content": "那对了",
+   "music": 0
+  },
+  {
+   "from": 14.32,
+   "to": 17.74,
+   "sid": 9,
+   "location": 2,
+   "content": "你就不知道我小鸽子要干嘛了",
+   "music": 0.09154929255108056
+  },
+  {
+   "from": 17.74,
+   "to": 19.06,
+   "sid": 10,
+   "location": 2,
+   "content": "当你给我背",
+   "music": 0
+  },
+  {
+   "from": 19.06,
+   "to": 22.18,
+   "sid": 11,
+   "location": 2,
+   "content": "你有左右方向都可以走",
+   "music": 0
+  },
+  {
+   "from": 22.18,
+   "to": 24.715,
+   "sid": 12,
+   "location": 2,
+   "content": "啊啊啊啊",
+   "music": 0
+  },
+  {
+   "from": 28.67,
+   "to": 30.32,
+   "sid": 13,
+   "location": 2,
+   "content": "觉得我给你看了这里",
+   "music": 0
+  },
+  {
+   "from": 30.32,
+   "to": 34.3,
+   "sid": 14,
+   "location": 2,
+   "content": "但是我回头我还可以走这个方向过来",
+   "music": 0
+  },
+  {
+   "from": 34.3,
+   "to": 36.31,
+   "sid": 15,
+   "location": 2,
+   "content": "可以转过来啊",
+   "music": 0
+  },
+  {
+   "from": 36.31,
+   "to": 38.71,
+   "sid": 16,
+   "location": 2,
+   "content": "啊到了没有",
+   "music": 0
+  },
+  {
+   "from": 38.71,
+   "to": 40.6,
+   "sid": 17,
+   "location": 2,
+   "content": "你很小很快",
+   "music": 0
+  },
+  {
+   "from": 40.6,
+   "to": 42.07,
+   "sid": 18,
+   "location": 2,
+   "content": "很容易可以走",
+   "music": 0
+  },
+  {
+   "from": 42.07,
+   "to": 43.21,
+   "sid": 19,
+   "location": 2,
+   "content": "两边都可以走",
+   "music": 0
+  },
+  {
+   "from": 43.21,
+   "to": 45.52,
+   "sid": 20,
+   "location": 2,
+   "content": "但是一旦你学会了",
+   "music": 0
+  },
+  {
+   "from": 45.52,
+   "to": 49.019,
+   "sid": 21,
+   "location": 2,
+   "content": "走以后还可以选择减速",
+   "music": 0.11570247455774939
+  },
+  {
+   "from": 49.019,
+   "to": 52.319,
+   "sid": 22,
+   "location": 2,
+   "content": "胯下楼梯可以减速",
+   "music": 0
+  },
+  {
+   "from": 52.319,
+   "to": 54.119,
+   "sid": 23,
+   "location": 2,
+   "content": "我也可以变向",
+   "music": 0
+  },
+  {
+   "from": 54.119,
+   "to": 54.779,
+   "sid": 24,
+   "location": 2,
+   "content": "都可以",
+   "music": 0
+  },
+  {
+   "from": 54.779,
+   "to": 55.499,
+   "sid": 25,
+   "location": 2,
+   "content": "先给我看看",
+   "music": 0
+  },
+  {
+   "from": 55.499,
+   "to": 57.12,
+   "sid": 26,
+   "location": 2,
+   "content": "第一个",
+   "music": 0
+  },
+  {
+   "from": 57.12,
+   "to": 59.64,
+   "sid": 27,
+   "location": 2,
+   "content": "你没到没用啊",
+   "music": 0
+  },
+  {
+   "from": 59.64,
+   "to": 61.14,
+   "sid": 28,
+   "location": 2,
+   "content": "你要靠近我",
+   "music": 0
+  },
+  {
+   "from": 61.14,
+   "to": 63.12,
+   "sid": 29,
+   "location": 2,
+   "content": "或者你从这个放下来",
+   "music": 0
+  },
+  {
+   "from": 63.12,
+   "to": 64.879,
+   "sid": 30,
+   "location": 2,
+   "content": "我堵住你了",
+   "music": 0
+  },
+  {
+   "from": 64.879,
+   "to": 66.379,
+   "sid": 31,
+   "location": 2,
+   "content": "哎对了",
+   "music": 0.29579063756647317
+  },
+  {
+   "from": 66.379,
+   "to": 68.269,
+   "sid": 32,
+   "location": 2,
+   "content": "这种我就看不到了",
+   "music": 0
+  },
+  {
+   "from": 68.269,
+   "to": 71.749,
+   "sid": 33,
+   "location": 2,
+   "content": "不要这么远去做这些没用的",
+   "music": 0
+  },
+  {
+   "from": 71.749,
+   "to": 74.28,
+   "sid": 34,
+   "location": 2,
+   "content": "你要等到我给你压力",
+   "music": 0.1586462105422472
+  },
+  {
+   "from": 77.07,
+   "to": 79.04,
+   "sid": 35,
+   "location": 2,
+   "content": "慢了慢了",
+   "music": 0
+  },
+  {
+   "from": 79.04,
+   "to": 81.89,
+   "sid": 36,
+   "location": 2,
+   "content": "炸球你看转身踩带球走",
+   "music": 0
+  },
+  {
+   "from": 81.89,
+   "to": 84.23,
+   "sid": 37,
+   "location": 2,
+   "content": "如果你是往另一个方向跑",
+   "music": 0
+  },
+  {
+   "from": 84.23,
+   "to": 88.24,
+   "sid": 38,
+   "location": 2,
+   "content": "看我这边走对了",
+   "music": 0
+  },
+  {
+   "from": 88.24,
+   "to": 92.85,
+   "sid": 39,
+   "location": 2,
+   "content": "OK这种情况我在这里你就往那边走",
+   "music": 0.22527471908585747
+  },
+  {
+   "from": 92.85,
+   "to": 95.31,
+   "sid": 40,
+   "location": 2,
+   "content": "我在这里你就往这边走",
+   "music": 0.15525113446341923
+  },
+  {
+   "from": 95.31,
+   "to": 97.71,
+   "sid": 41,
+   "location": 2,
+   "content": "假如我到这里哎",
+   "music": 0
+  },
+  {
+   "from": 97.71,
+   "to": 98.55,
+   "sid": 42,
+   "location": 2,
+   "content": "放你走",
+   "music": 0
+  },
+  {
+   "from": 98.55,
+   "to": 101.64,
+   "sid": 43,
+   "location": 2,
+   "content": "然后就可以减速了",
+   "music": 0
+  },
+  {
+   "from": 101.64,
+   "to": 103.62,
+   "sid": 44,
+   "location": 2,
+   "content": "理论还是一样的",
+   "music": 0
+  },
+  {
+   "from": 103.62,
+   "to": 116.44,
+   "sid": 45,
+   "location": 2,
+   "content": "左边突啊啊啊跳舞啊啊啊诶嗯",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,3084 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 2.14,
+      "sid": 1,
+      "location": 2,
+      "content": "想象下这个场景啊",
+      "music": 0.0
+    },
+    {
+      "from": 2.14,
+      "to": 3.74,
+      "sid": 2,
+      "location": 2,
+      "content": "为了让你买房",
+      "music": 0.0
+    },
+    {
+      "from": 3.74,
+      "to": 6.22,
+      "sid": 3,
+      "location": 2,
+      "content": "银行现在不仅把房贷的还款期限",
+      "music": 0.0
+    },
+    {
+      "from": 6.22,
+      "to": 8.53,
+      "sid": 4,
+      "location": 2,
+      "content": "拉长到了惊人的40年",
+      "music": 0.0
+    },
+    {
+      "from": 8.53,
+      "to": 9.25,
+      "sid": 5,
+      "location": 2,
+      "content": "甚至啊",
+      "music": 0.0
+    },
+    {
+      "from": 9.25,
+      "to": 12.89,
+      "sid": 6,
+      "location": 2,
+      "content": "还给特定人群提供实打实的1%利息补贴",
+      "music": 0.0
+    },
+    {
+      "from": 12.89,
+      "to": 15.01,
+      "sid": 7,
+      "location": 2,
+      "content": "嗯真的是给足了时间",
+      "music": 0.0
+    },
+    {
+      "from": 15.01,
+      "to": 16.41,
+      "sid": 8,
+      "location": 2,
+      "content": "还倒贴你利息",
+      "music": 0.0
+    },
+    {
+      "from": 16.41,
+      "to": 19.61,
+      "sid": 9,
+      "location": 2,
+      "content": "这条件听起来简直无法拒绝对吧",
+      "music": 0.0
+    },
+    {
+      "from": 19.61,
+      "to": 22.61,
+      "sid": 10,
+      "location": 2,
+      "content": "按理说面对这种级别的诱惑",
+      "music": 0.0
+    },
+    {
+      "from": 22.61,
+      "to": 26.49,
+      "sid": 11,
+      "location": 2,
+      "content": "那个售楼处和银行的贷款部应该排起长队才对",
+      "music": 0.0
+    },
+    {
+      "from": 26.49,
+      "to": 29.57,
+      "sid": 12,
+      "location": 2,
+      "content": "但现实却是大家完全无动于衷",
+      "music": 0.0
+    },
+    {
+      "from": 29.57,
+      "to": 31.23,
+      "sid": 13,
+      "location": 2,
+      "content": "确实不仅无动于衷",
+      "music": 0.0
+    },
+    {
+      "from": 31.23,
+      "to": 33.49,
+      "sid": 14,
+      "location": 2,
+      "content": "而且数据出来让人大跌眼镜",
+      "music": 0.0
+    },
+    {
+      "from": 33.49,
+      "to": 34.24,
+      "sid": 15,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 34.24,
+      "to": 35.04,
+      "sid": 16,
+      "location": 2,
+      "content": "上个月",
+      "music": 0.0
+    },
+    {
+      "from": 35.04,
+      "to": 37.46,
+      "sid": 17,
+      "location": 2,
+      "content": "全国普通家庭新增的贷款数字",
+      "music": 0.0
+    },
+    {
+      "from": 37.46,
+      "to": 39.19,
+      "sid": 18,
+      "location": 2,
+      "content": "竟然直接砸到了零",
+      "music": 0.0
+    },
+    {
+      "from": 39.19,
+      "to": 40.15,
+      "sid": 19,
+      "location": 2,
+      "content": "你没听错",
+      "music": 0.0
+    },
+    {
+      "from": 40.15,
+      "to": 44.25,
+      "sid": 20,
+      "location": 2,
+      "content": "全中国家庭新增贷款的总和是绝对的零",
+      "music": 0.0
+    },
+    {
+      "from": 44.25,
+      "to": 47.16,
+      "sid": 21,
+      "location": 2,
+      "content": "嗯一个非常绝对的数字啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.16,
+      "to": 49.22,
+      "sid": 22,
+      "location": 2,
+      "content": "这个现象其实非常令人着迷",
+      "music": 0.0
+    },
+    {
+      "from": 49.22,
+      "to": 51.07,
+      "sid": 23,
+      "location": 2,
+      "content": "或者说令人深思",
+      "music": 0.0
+    },
+    {
+      "from": 51.07,
+      "to": 54.129,
+      "sid": 24,
+      "location": 2,
+      "content": "所以欢迎来到今天的深度解析",
+      "music": 0.0
+    },
+    {
+      "from": 54.129,
+      "to": 57.309,
+      "sid": 25,
+      "location": 2,
+      "content": "今天我们的任务呢是啃下一份看起来有点硬核",
+      "music": 0.0
+    },
+    {
+      "from": 57.309,
+      "to": 61.269,
+      "sid": 26,
+      "location": 2,
+      "content": "但绝对会重塑你对当前经济底色的认知的研报",
+      "music": 0.0
+    },
+    {
+      "from": 61.269,
+      "to": 61.93,
+      "sid": 27,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 61.93,
+      "to": 65.37,
+      "sid": 28,
+      "location": 2,
+      "content": "也就是野村证券在2026年10月14日",
+      "music": 0.0
+    },
+    {
+      "from": 65.37,
+      "to": 67.92,
+      "sid": 29,
+      "location": 2,
+      "content": "发布的这篇亚各州经济洞察报告",
+      "music": 0.0
+    },
+    {
+      "from": 67.92,
+      "to": 68.82,
+      "sid": 30,
+      "location": 2,
+      "content": "没记错的话",
+      "music": 0.0
+    },
+    {
+      "from": 68.82,
+      "to": 70.98,
+      "sid": 31,
+      "location": 2,
+      "content": "这份报告的核心主题只有一个",
+      "music": 0.0
+    },
+    {
+      "from": 70.98,
+      "to": 73.19,
+      "sid": 32,
+      "location": 2,
+      "content": "就是中国9月份的信贷数据",
+      "music": 0.0
+    },
+    {
+      "from": 73.19,
+      "to": 77.51,
+      "sid": 33,
+      "location": 2,
+      "content": "对其实这份报告揭示了一些非常反直觉的现象",
+      "music": 0.0
+    },
+    {
+      "from": 77.51,
+      "to": 78.34,
+      "sid": 34,
+      "location": 2,
+      "content": "你想啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.34,
+      "to": 81.68,
+      "sid": 35,
+      "location": 2,
+      "content": "当政策刺激的力度和市场的实际反应",
+      "music": 0.0
+    },
+    {
+      "from": 81.68,
+      "to": 83.56,
+      "sid": 36,
+      "location": 2,
+      "content": "出现这么巨大的落差时",
+      "music": 0.0
+    },
+    {
+      "from": 83.56,
+      "to": 84.82,
+      "sid": 37,
+      "location": 2,
+      "content": "通常意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 84.82,
+      "to": 87.56,
+      "sid": 38,
+      "location": 2,
+      "content": "意味着底层的机器出问题了",
+      "music": 0.0
+    },
+    {
+      "from": 87.56,
+      "to": 88.2,
+      "sid": 39,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 88.2,
+      "to": 91.469,
+      "sid": 40,
+      "location": 2,
+      "content": "意味着经济系统底层运作的逻辑呃",
+      "music": 0.0
+    },
+    {
+      "from": 91.469,
+      "to": 93.109,
+      "sid": 41,
+      "location": 2,
+      "content": "发生了一个根本性的改变",
+      "music": 0.0
+    },
+    {
+      "from": 93.109,
+      "to": 94.769,
+      "sid": 42,
+      "location": 2,
+      "content": "这也正是我们今天要做的事",
+      "music": 0.0
+    },
+    {
+      "from": 94.769,
+      "to": 97.229,
+      "sid": 43,
+      "location": 2,
+      "content": "弄明白底层到底在发生什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.229,
+      "to": 98.539,
+      "sid": 44,
+      "location": 2,
+      "content": "不过在听的你别担心",
+      "music": 0.0
+    },
+    {
+      "from": 98.539,
+      "to": 100.559,
+      "sid": 45,
+      "location": 2,
+      "content": "不管你是准备下一次商业会议",
+      "music": 0.0
+    },
+    {
+      "from": 100.559,
+      "to": 102.539,
+      "sid": 46,
+      "location": 2,
+      "content": "还是单纯好奇宏观经济",
+      "music": 0.0
+    },
+    {
+      "from": 102.539,
+      "to": 104.85,
+      "sid": 47,
+      "location": 2,
+      "content": "都别被报告里那些名词吓到对",
+      "music": 0.0
+    },
+    {
+      "from": 104.85,
+      "to": 106.07,
+      "sid": 48,
+      "location": 2,
+      "content": "其实没那么复杂",
+      "music": 0.0
+    },
+    {
+      "from": 106.07,
+      "to": 107.91,
+      "sid": 49,
+      "location": 2,
+      "content": "像那个社会融资规模",
+      "music": 0.0
+    },
+    {
+      "from": 107.91,
+      "to": 110.11,
+      "sid": 50,
+      "location": 2,
+      "content": "也就是我们常说的ASF呃",
+      "music": 0.0
+    },
+    {
+      "from": 112.33,
+      "to": 115.28,
+      "sid": 51,
+      "location": 2,
+      "content": "从金融体系里一共借了多少钱对吧",
+      "music": 0.0
+    },
+    {
+      "from": 115.28,
+      "to": 116.72,
+      "sid": 52,
+      "location": 2,
+      "content": "解释的很精准啊",
+      "music": 0.0
+    },
+    {
+      "from": 116.72,
+      "to": 118.2,
+      "sid": 53,
+      "location": 2,
+      "content": "还有经常听到的M2",
+      "music": 0.0
+    },
+    {
+      "from": 118.2,
+      "to": 119.56,
+      "sid": 54,
+      "location": 2,
+      "content": "你就可以简单理解为",
+      "music": 0.0
+    },
+    {
+      "from": 119.56,
+      "to": 122.2,
+      "sid": 55,
+      "location": 2,
+      "content": "市场上所有现金加上存款的总和",
+      "music": 0.0
+    },
+    {
+      "from": 122.2,
+      "to": 124.6,
+      "sid": 56,
+      "location": 2,
+      "content": "唉就是看水池里有多少水",
+      "music": 0.0
+    },
+    {
+      "from": 124.6,
+      "to": 126.32,
+      "sid": 57,
+      "location": 2,
+      "content": "理解了这些钱的流向",
+      "music": 0.0
+    },
+    {
+      "from": 126.32,
+      "to": 129.329,
+      "sid": 58,
+      "location": 2,
+      "content": "你就能摸清当前经济的真实温度",
+      "music": 0.0
+    },
+    {
+      "from": 129.329,
+      "to": 131.149,
+      "sid": 59,
+      "location": 2,
+      "content": "而野村的这份报告啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.149,
+      "to": 134.429,
+      "sid": 60,
+      "location": 2,
+      "content": "一上来就抛出了一个非常冷峻的基调",
+      "music": 0.0
+    },
+    {
+      "from": 134.429,
+      "to": 136.95,
+      "sid": 61,
+      "location": 2,
+      "content": "唉是的两个历史新低",
+      "music": 0.0
+    },
+    {
+      "from": 136.95,
+      "to": 137.71,
+      "sid": 62,
+      "location": 2,
+      "content": "9月份",
+      "music": 0.0
+    },
+    {
+      "from": 137.71,
+      "to": 141.19,
+      "sid": 63,
+      "location": 2,
+      "content": "未偿社会融资规模的增速降到了7.1%",
+      "music": 0.0
+    },
+    {
+      "from": 141.19,
+      "to": 144.03,
+      "sid": 64,
+      "location": 2,
+      "content": "然后人民币贷款增速更是跌到了",
+      "music": 0.0
+    },
+    {
+      "from": 144.03,
+      "to": 146.139,
+      "sid": 65,
+      "location": 2,
+      "content": "4.8%啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.139,
+      "to": 148.019,
+      "sid": 66,
+      "location": 2,
+      "content": "这两个双双触底的数据",
+      "music": 0.0
+    },
+    {
+      "from": 148.019,
+      "to": 148.539,
+      "sid": 67,
+      "location": 2,
+      "content": "说明",
+      "music": 0.0
+    },
+    {
+      "from": 148.539,
+      "to": 150.119,
+      "sid": 68,
+      "location": 2,
+      "content": "传统的经济驱动引擎",
+      "music": 0.0
+    },
+    {
+      "from": 150.119,
+      "to": 153.12,
+      "sid": 69,
+      "location": 2,
+      "content": "正在经历一场极其痛苦的熄火呃",
+      "music": 0.0
+    },
+    {
+      "from": 153.12,
+      "to": 154.98,
+      "sid": 70,
+      "location": 2,
+      "content": "或者说切换哇",
+      "music": 0.0
+    },
+    {
+      "from": 154.98,
+      "to": 156.87,
+      "sid": 71,
+      "location": 2,
+      "content": "熄火这个词有点重了",
+      "music": 0.0
+    },
+    {
+      "from": 156.87,
+      "to": 157.59,
+      "sid": 72,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 157.59,
+      "to": 158.77,
+      "sid": 73,
+      "location": 2,
+      "content": "那我们来拆解一下",
+      "music": 0.0
+    },
+    {
+      "from": 158.77,
+      "to": 162.18,
+      "sid": 74,
+      "location": 2,
+      "content": "把这些宏大的总量数据拆开看看真实情况",
+      "music": 0.0
+    },
+    {
+      "from": 162.18,
+      "to": 163.86,
+      "sid": 75,
+      "location": 2,
+      "content": "我们先从企业端看起吧",
+      "music": 0.0
+    },
+    {
+      "from": 163.86,
+      "to": 165.56,
+      "sid": 76,
+      "location": 2,
+      "content": "好看企业端的话",
+      "music": 0.0
+    },
+    {
+      "from": 165.56,
+      "to": 168.3,
+      "sid": 77,
+      "location": 2,
+      "content": "这里有个特别有意思的障眼法",
+      "music": 0.0
+    },
+    {
+      "from": 168.3,
+      "to": 172.39,
+      "sid": 78,
+      "location": 2,
+      "content": "障眼法你是说表面数据看起来没那么糟",
+      "music": 0.0
+    },
+    {
+      "from": 172.39,
+      "to": 173.93,
+      "sid": 79,
+      "location": 2,
+      "content": "因为我看报告上写",
+      "music": 0.0
+    },
+    {
+      "from": 173.93,
+      "to": 176.34,
+      "sid": 80,
+      "location": 2,
+      "content": "9月份新增的企业人民币贷款",
+      "music": 0.0
+    },
+    {
+      "from": 176.34,
+      "to": 179.76,
+      "sid": 81,
+      "location": 2,
+      "content": "实际上从去年同期的1万2200亿元",
+      "music": 0.0
+    },
+    {
+      "from": 179.76,
+      "to": 182.25,
+      "sid": 82,
+      "location": 2,
+      "content": "微升到了1万2900亿元",
+      "music": 0.0
+    },
+    {
+      "from": 182.25,
+      "to": 183.15,
+      "sid": 83,
+      "location": 2,
+      "content": "哎没错",
+      "music": 0.0
+    },
+    {
+      "from": 183.15,
+      "to": 184.67,
+      "sid": 84,
+      "location": 2,
+      "content": "数字确实变大了",
+      "music": 0.0
+    },
+    {
+      "from": 184.67,
+      "to": 186.62,
+      "sid": 85,
+      "location": 2,
+      "content": "企业似乎在借更多的钱",
+      "music": 0.0
+    },
+    {
+      "from": 186.62,
+      "to": 189.88,
+      "sid": 86,
+      "location": 2,
+      "content": "但这恰恰是最容易迷惑人的地方等等",
+      "music": 0.0
+    },
+    {
+      "from": 189.88,
+      "to": 190.54,
+      "sid": 87,
+      "location": 2,
+      "content": "怎么说",
+      "music": 0.0
+    },
+    {
+      "from": 190.54,
+      "to": 191.74,
+      "sid": 88,
+      "location": 2,
+      "content": "借的钱变多了",
+      "music": 0.0
+    },
+    {
+      "from": 191.74,
+      "to": 192.84,
+      "sid": 89,
+      "location": 2,
+      "content": "难道不是好事吗",
+      "music": 0.0
+    },
+    {
+      "from": 192.84,
+      "to": 194.96,
+      "sid": 90,
+      "location": 2,
+      "content": "诶其实银行放贷给企业",
+      "music": 0.0
+    },
+    {
+      "from": 194.96,
+      "to": 197.28,
+      "sid": 91,
+      "location": 2,
+      "content": "按照期限和用途可以分好几类",
+      "music": 0.0
+    },
+    {
+      "from": 197.28,
+      "to": 199.7,
+      "sid": 92,
+      "location": 2,
+      "content": "真正能反映企业想不想扩张的",
+      "music": 0.0
+    },
+    {
+      "from": 199.7,
+      "to": 202.51,
+      "sid": 93,
+      "location": 2,
+      "content": "是短期贷款和中长期贷款嗯",
+      "music": 0.0
+    },
+    {
+      "from": 202.51,
+      "to": 204.75,
+      "sid": 94,
+      "location": 2,
+      "content": "短期贷款就是用来进货呀",
+      "music": 0.0
+    },
+    {
+      "from": 204.75,
+      "to": 205.35,
+      "sid": 95,
+      "location": 2,
+      "content": "发工资啊",
+      "music": 0.0
+    },
+    {
+      "from": 205.35,
+      "to": 207.26,
+      "sid": 96,
+      "location": 2,
+      "content": "维持日常运转的那些哎对",
+      "music": 0.0
+    },
+    {
+      "from": 207.26,
+      "to": 210.08,
+      "sid": 97,
+      "location": 2,
+      "content": "然后中长期贷款呢就是用来盖新工厂",
+      "music": 0.0
+    },
+    {
+      "from": 210.08,
+      "to": 211.24,
+      "sid": 98,
+      "location": 2,
+      "content": "买大型设备",
+      "music": 0.0
+    },
+    {
+      "from": 211.24,
+      "to": 213.0,
+      "sid": 99,
+      "location": 2,
+      "content": "投入新技术研发的",
+      "music": 0.0
+    },
+    {
+      "from": 213.0,
+      "to": 214.76,
+      "sid": 100,
+      "location": 2,
+      "content": "但是野村的数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 214.76,
+      "to": 215.48,
+      "sid": 101,
+      "location": 2,
+      "content": "9月份",
+      "music": 0.0
+    },
+    {
+      "from": 215.48,
+      "to": 217.44,
+      "sid": 102,
+      "location": 2,
+      "content": "真实的短期和中长期贷款",
+      "music": 0.0
+    },
+    {
+      "from": 217.44,
+      "to": 219.45,
+      "sid": 103,
+      "location": 2,
+      "content": "实际上都在大幅放缓诶",
+      "music": 0.0
+    },
+    {
+      "from": 219.45,
+      "to": 222.25,
+      "sid": 104,
+      "location": 2,
+      "content": "如果用来发工资的短期贷款再降",
+      "music": 0.0
+    },
+    {
+      "from": 222.25,
+      "to": 224.85,
+      "sid": 105,
+      "location": 2,
+      "content": "用来建工厂的中长期贷款也在降",
+      "music": 0.0
+    },
+    {
+      "from": 224.85,
+      "to": 228.37,
+      "sid": 106,
+      "location": 2,
+      "content": "那总额怎么可能涨到1万2900亿",
+      "music": 0.0
+    },
+    {
+      "from": 228.37,
+      "to": 230.93,
+      "sid": 107,
+      "location": 2,
+      "content": "这多出来的钱是从哪儿冒出来的诶",
+      "music": 0.0
+    },
+    {
+      "from": 230.93,
+      "to": 231.95,
+      "sid": 108,
+      "location": 2,
+      "content": "多出来的部分",
+      "music": 0.0
+    },
+    {
+      "from": 231.95,
+      "to": 235.7,
+      "sid": 109,
+      "location": 2,
+      "content": "完全是因为一项叫做票据融资的数据变化",
+      "music": 0.0
+    },
+    {
+      "from": 235.7,
+      "to": 240.13,
+      "sid": 110,
+      "location": 2,
+      "content": "票据融资对去年同期的票据融资是负的",
+      "music": 0.0
+    },
+    {
+      "from": 240.13,
+      "to": 241.53,
+      "sid": 111,
+      "location": 2,
+      "content": "4030亿元",
+      "music": 0.0
+    },
+    {
+      "from": 241.53,
+      "to": 244.29,
+      "sid": 112,
+      "location": 2,
+      "content": "而今年9月是负的500亿元",
+      "music": 0.0
+    },
+    {
+      "from": 244.29,
+      "to": 246.29,
+      "sid": 113,
+      "location": 2,
+      "content": "因为这个负值大幅收窄了",
+      "music": 0.0
+    },
+    {
+      "from": 246.29,
+      "to": 247.75,
+      "sid": 114,
+      "location": 2,
+      "content": "所以在数学计算上",
+      "music": 0.0
+    },
+    {
+      "from": 247.75,
+      "to": 250.51,
+      "sid": 115,
+      "location": 2,
+      "content": "他硬生生把总贷款的盘子给撑大了",
+      "music": 0.0
+    },
+    {
+      "from": 250.51,
+      "to": 250.89,
+      "sid": 116,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 250.89,
+      "to": 254.66,
+      "sid": 117,
+      "location": 2,
+      "content": "我们得把票据融资这个概念得听众落地一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.66,
+      "to": 255.56,
+      "sid": 118,
+      "location": 2,
+      "content": "据我了解",
+      "music": 0.0
+    },
+    {
+      "from": 255.56,
+      "to": 258.24,
+      "sid": 119,
+      "location": 2,
+      "content": "这玩意儿往往是银行为了满足监管的信贷",
+      "music": 0.0
+    },
+    {
+      "from": 258.24,
+      "to": 258.94,
+      "sid": 120,
+      "location": 2,
+      "content": "投放额度",
+      "music": 0.0
+    },
+    {
+      "from": 258.94,
+      "to": 262.42,
+      "sid": 121,
+      "location": 2,
+      "content": "把一些短期的商业票据在银行之间倒来倒去",
+      "music": 0.0
+    },
+    {
+      "from": 262.62,
+      "to": 264.06,
+      "sid": 122,
+      "location": 2,
+      "content": "哼解释的很到位",
+      "music": 0.0
+    },
+    {
+      "from": 264.06,
+      "to": 267.58,
+      "sid": 123,
+      "location": 2,
+      "content": "你可以把它理解为一种短期的账面资金周转",
+      "music": 0.0
+    },
+    {
+      "from": 267.58,
+      "to": 269.5,
+      "sid": 124,
+      "location": 2,
+      "content": "根本没变成砖头和机器",
+      "music": 0.0
+    },
+    {
+      "from": 269.5,
+      "to": 270.9,
+      "sid": 125,
+      "location": 2,
+      "content": "这感觉就像是一个人",
+      "music": 0.0
+    },
+    {
+      "from": 270.9,
+      "to": 273.76,
+      "sid": 126,
+      "location": 2,
+      "content": "为了达到每天2000大卡的卡路里目标",
+      "music": 0.0
+    },
+    {
+      "from": 273.76,
+      "to": 276.14,
+      "sid": 127,
+      "location": 2,
+      "content": "狂吃没有任何营养的膨化零食",
+      "music": 0.0
+    },
+    {
+      "from": 276.14,
+      "to": 276.82,
+      "sid": 128,
+      "location": 2,
+      "content": "诶嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 276.82,
+      "to": 278.02,
+      "sid": 129,
+      "location": 2,
+      "content": "这个比喻很贴切",
+      "music": 0.0
+    },
+    {
+      "from": 278.02,
+      "to": 279.27,
+      "sid": 130,
+      "location": 2,
+      "content": "就是为了凑数嘛",
+      "music": 0.0
+    },
+    {
+      "from": 279.27,
+      "to": 282.83,
+      "sid": 131,
+      "location": 2,
+      "content": "但他实际上根本吃不下真正能长肌肉的正餐",
+      "music": 0.0
+    },
+    {
+      "from": 282.83,
+      "to": 283.29,
+      "sid": 132,
+      "location": 2,
+      "content": "牛肉",
+      "music": 0.0
+    },
+    {
+      "from": 283.29,
+      "to": 285.53,
+      "sid": 133,
+      "location": 2,
+      "content": "也就是那些中长期贷款",
+      "music": 0.0
+    },
+    {
+      "from": 285.53,
+      "to": 286.27,
+      "sid": 134,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 286.27,
+      "to": 287.69,
+      "sid": 135,
+      "location": 2,
+      "content": "而且更关键的是",
+      "music": 0.0
+    },
+    {
+      "from": 287.69,
+      "to": 289.49,
+      "sid": 136,
+      "location": 2,
+      "content": "报告里的另一个数据",
+      "music": 0.0
+    },
+    {
+      "from": 289.49,
+      "to": 291.51,
+      "sid": 137,
+      "location": 2,
+      "content": "自2025年3月以来",
+      "music": 0.0
+    },
+    {
+      "from": 291.51,
+      "to": 294.25,
+      "sid": 138,
+      "location": 2,
+      "content": "企业债券融资首次转为负值",
+      "music": 0.0
+    },
+    {
+      "from": 294.25,
+      "to": 296.47,
+      "sid": 139,
+      "location": 2,
+      "content": "录得了-430亿元",
+      "music": 0.0
+    },
+    {
+      "from": 296.47,
+      "to": 298.539,
+      "sid": 140,
+      "location": 2,
+      "content": "我负数嘶",
+      "music": 0.0
+    },
+    {
+      "from": 298.539,
+      "to": 301.379,
+      "sid": 141,
+      "location": 2,
+      "content": "这是否意味着企业连在公开市场发债",
+      "music": 0.0
+    },
+    {
+      "from": 301.379,
+      "to": 302.78,
+      "sid": 142,
+      "location": 2,
+      "content": "筹钱都不愿意了",
+      "music": 0.0
+    },
+    {
+      "from": 302.78,
+      "to": 304.28,
+      "sid": 143,
+      "location": 2,
+      "content": "这不仅是不想扩张",
+      "music": 0.0
+    },
+    {
+      "from": 304.28,
+      "to": 306.48,
+      "sid": 144,
+      "location": 2,
+      "content": "这是不是在主动缩减规模",
+      "music": 0.0
+    },
+    {
+      "from": 306.48,
+      "to": 307.74,
+      "sid": 145,
+      "location": 2,
+      "content": "甚至加速还债",
+      "music": 0.0
+    },
+    {
+      "from": 307.74,
+      "to": 308.85,
+      "sid": 146,
+      "location": 2,
+      "content": "确实是这样",
+      "music": 0.0
+    },
+    {
+      "from": 308.85,
+      "to": 309.69,
+      "sid": 147,
+      "location": 2,
+      "content": "你想啊",
+      "music": 0.0
+    },
+    {
+      "from": 309.69,
+      "to": 312.22,
+      "sid": 148,
+      "location": 2,
+      "content": "发债的成本往往比银行贷款更低",
+      "music": 0.0
+    },
+    {
+      "from": 312.22,
+      "to": 314.86,
+      "sid": 149,
+      "location": 2,
+      "content": "如果连最便宜的筹资渠道都在萎缩",
+      "music": 0.0
+    },
+    {
+      "from": 314.86,
+      "to": 317.08,
+      "sid": 150,
+      "location": 2,
+      "content": "说明企业的核心诉求已经变了",
+      "music": 0.0
+    },
+    {
+      "from": 317.08,
+      "to": 319.33,
+      "sid": 151,
+      "location": 2,
+      "content": "从怎么借钱赚更多利润",
+      "music": 0.0
+    },
+    {
+      "from": 319.33,
+      "to": 321.53,
+      "sid": 152,
+      "location": 2,
+      "content": "变成了怎么赶紧把债还清",
+      "music": 0.0
+    },
+    {
+      "from": 321.53,
+      "to": 324.53,
+      "sid": 153,
+      "location": 2,
+      "content": "对保证现金流安全才是第一位的",
+      "music": 0.0
+    },
+    {
+      "from": 324.53,
+      "to": 326.61,
+      "sid": 154,
+      "location": 2,
+      "content": "所以野村据此得出结论",
+      "music": 0.0
+    },
+    {
+      "from": 326.61,
+      "to": 329.31,
+      "sid": 155,
+      "location": 2,
+      "content": "私营部门的信贷需求极其疲软",
+      "music": 0.0
+    },
+    {
+      "from": 329.31,
+      "to": 331.03,
+      "sid": 156,
+      "location": 2,
+      "content": "表面上的贷款总额微增",
+      "music": 0.0
+    },
+    {
+      "from": 331.03,
+      "to": 333.61,
+      "sid": 157,
+      "location": 2,
+      "content": "完全掩盖了投资意愿的严重低迷",
+      "music": 0.0
+    },
+    {
+      "from": 333.61,
+      "to": 334.47,
+      "sid": 158,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 334.47,
+      "to": 337.409,
+      "sid": 159,
+      "location": 2,
+      "content": "那既然企业端这个引擎不愿意加杠杆儿",
+      "music": 0.0
+    },
+    {
+      "from": 337.409,
+      "to": 339.369,
+      "sid": 160,
+      "location": 2,
+      "content": "我们自然就看向另一个引擎了",
+      "music": 0.0
+    },
+    {
+      "from": 339.369,
+      "to": 341.309,
+      "sid": 161,
+      "location": 2,
+      "content": "作为消费主力的家庭部门",
+      "music": 0.0
+    },
+    {
+      "from": 341.309,
+      "to": 344.24,
+      "sid": 162,
+      "location": 2,
+      "content": "这也是我们在节目一开始提到的整个报告里",
+      "music": 0.0
+    },
+    {
+      "from": 344.24,
+      "to": 345.78,
+      "sid": 163,
+      "location": 2,
+      "content": "最令人震撼的那个部分",
+      "music": 0.0
+    },
+    {
+      "from": 345.78,
+      "to": 348.37,
+      "sid": 164,
+      "location": 2,
+      "content": "对也就是那个匪夷所思的现象",
+      "music": 0.0
+    },
+    {
+      "from": 348.37,
+      "to": 352.75,
+      "sid": 165,
+      "location": 2,
+      "content": "9月份家庭部门新增人民币贷款直接降至了零",
+      "music": 0.0
+    },
+    {
+      "from": 352.75,
+      "to": 355.51,
+      "sid": 166,
+      "location": 2,
+      "content": "去年同期还有3890亿元呢",
+      "music": 0.0
+    },
+    {
+      "from": 355.51,
+      "to": 359.85,
+      "sid": 167,
+      "location": 2,
+      "content": "意味着整个9月全中国几亿个家庭新借书的钱",
+      "music": 0.0
+    },
+    {
+      "from": 359.85,
+      "to": 361.89,
+      "sid": 168,
+      "location": 2,
+      "content": "和他们提前还给银行的旧债",
+      "music": 0.0
+    },
+    {
+      "from": 361.89,
+      "to": 364.15,
+      "sid": 169,
+      "location": 2,
+      "content": "刚好完全抵消了一分钱",
+      "music": 0.0
+    },
+    {
+      "from": 364.15,
+      "to": 364.85,
+      "sid": 170,
+      "location": 2,
+      "content": "没多借",
+      "music": 0.0
+    },
+    {
+      "from": 364.85,
+      "to": 365.89,
+      "sid": 171,
+      "location": 2,
+      "content": "我的天",
+      "music": 0.0
+    },
+    {
+      "from": 365.89,
+      "to": 368.33,
+      "sid": 172,
+      "location": 2,
+      "content": "而且绝不仅仅是9月单月的数据",
+      "music": 0.0
+    },
+    {
+      "from": 368.33,
+      "to": 368.95,
+      "sid": 173,
+      "location": 2,
+      "content": "吓人吧",
+      "music": 0.0
+    },
+    {
+      "from": 368.95,
+      "to": 369.55,
+      "sid": 174,
+      "location": 2,
+      "content": "是的",
+      "music": 0.0
+    },
+    {
+      "from": 369.55,
+      "to": 372.6,
+      "sid": 175,
+      "location": 2,
+      "content": "如果我们拉长视野看前九个月的累计数据",
+      "music": 0.0
+    },
+    {
+      "from": 372.6,
+      "to": 374.46,
+      "sid": 176,
+      "location": 2,
+      "content": "新增的中长期家庭贷款",
+      "music": 0.0
+    },
+    {
+      "from": 374.46,
+      "to": 376.72,
+      "sid": 177,
+      "location": 2,
+      "content": "也就是主要用来买房的那些贷款",
+      "music": 0.0
+    },
+    {
+      "from": 376.72,
+      "to": 380.649,
+      "sid": 178,
+      "location": 2,
+      "content": "房贷对总额仅仅只有1060亿元",
+      "music": 0.0
+    },
+    {
+      "from": 380.649,
+      "to": 382.409,
+      "sid": 179,
+      "location": 2,
+      "content": "我查了一下背景数据",
+      "music": 0.0
+    },
+    {
+      "from": 382.409,
+      "to": 385.829,
+      "sid": 180,
+      "location": 2,
+      "content": "在2021年房地产市场最火热的时候",
+      "music": 0.0
+    },
+    {
+      "from": 385.829,
+      "to": 388.149,
+      "sid": 181,
+      "location": 2,
+      "content": "一年的新增家庭中长期贷款",
+      "music": 0.0
+    },
+    {
+      "from": 388.149,
+      "to": 391.43,
+      "sid": 182,
+      "location": 2,
+      "content": "是可以达到4.27万亿元的",
+      "music": 0.0
+    },
+    {
+      "from": 391.43,
+      "to": 393.93,
+      "sid": 183,
+      "location": 2,
+      "content": "现在只有1060亿",
+      "music": 0.0
+    },
+    {
+      "from": 393.93,
+      "to": 395.73,
+      "sid": 184,
+      "location": 2,
+      "content": "这落差极其巨大",
+      "music": 0.0
+    },
+    {
+      "from": 395.73,
+      "to": 398.89,
+      "sid": 185,
+      "location": 2,
+      "content": "这是自2004年以来的最低水平",
+      "music": 0.0
+    },
+    {
+      "from": 398.89,
+      "to": 400.39,
+      "sid": 186,
+      "location": 2,
+      "content": "直接跌穿了地板",
+      "music": 0.0
+    },
+    {
+      "from": 400.39,
+      "to": 402.59,
+      "sid": 187,
+      "location": 2,
+      "content": "这里才是真正有趣的地方",
+      "music": 0.0
+    },
+    {
+      "from": 404.87,
+      "to": 406.17,
+      "sid": 188,
+      "location": 2,
+      "content": "像我们开头说的",
+      "music": 0.0
+    },
+    {
+      "from": 406.17,
+      "to": 407.71,
+      "sid": 189,
+      "location": 2,
+      "content": "40年的房贷期限",
+      "music": 0.0
+    },
+    {
+      "from": 407.71,
+      "to": 409.73,
+      "sid": 190,
+      "location": 2,
+      "content": "还有1%的利息补贴",
+      "music": 0.0
+    },
+    {
+      "from": 409.73,
+      "to": 412.41,
+      "sid": 191,
+      "location": 2,
+      "content": "这简直是在送时间和金钱了",
+      "music": 0.0
+    },
+    {
+      "from": 412.41,
+      "to": 415.47,
+      "sid": 192,
+      "location": 2,
+      "content": "难道大家真的对这些优惠完全免疫了吗",
+      "music": 0.0
+    },
+    {
+      "from": 415.47,
+      "to": 417.409,
+      "sid": 193,
+      "location": 2,
+      "content": "这就引出了一个重要问题",
+      "music": 0.0
+    },
+    {
+      "from": 417.409,
+      "to": 420.109,
+      "sid": 194,
+      "location": 2,
+      "content": "传统的宏观经济学里有个经典的说法",
+      "music": 0.0
+    },
+    {
+      "from": 420.109,
+      "to": 423.529,
+      "sid": 195,
+      "location": 2,
+      "content": "叫你无法用绳子推动一个物体前进",
+      "music": 0.0
+    },
+    {
+      "from": 424.18,
+      "to": 427.14,
+      "sid": 196,
+      "location": 2,
+      "content": "推绳子对央行通过降息",
+      "music": 0.0
+    },
+    {
+      "from": 427.14,
+      "to": 429.08,
+      "sid": 197,
+      "location": 2,
+      "content": "延长贷款期限来拉动信贷",
+      "music": 0.0
+    },
+    {
+      "from": 429.08,
+      "to": 430.54,
+      "sid": 198,
+      "location": 2,
+      "content": "就像用绳子拉车",
+      "music": 0.0
+    },
+    {
+      "from": 430.54,
+      "to": 432.21,
+      "sid": 199,
+      "location": 2,
+      "content": "在平时是很管用的",
+      "music": 0.0
+    },
+    {
+      "from": 432.21,
+      "to": 434.51,
+      "sid": 200,
+      "location": 2,
+      "content": "但是当市场预期悲观的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 434.51,
+      "to": 436.95,
+      "sid": 201,
+      "location": 2,
+      "content": "那你在后面拼命推这根绳子",
+      "music": 0.0
+    },
+    {
+      "from": 436.95,
+      "to": 438.13,
+      "sid": 202,
+      "location": 2,
+      "content": "绳子只会弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 438.13,
+      "to": 439.93,
+      "sid": 203,
+      "location": 2,
+      "content": "车子根本一动不动",
+      "music": 0.0
+    },
+    {
+      "from": 439.93,
+      "to": 443.41,
+      "sid": 204,
+      "location": 2,
+      "content": "因为目前的真正障碍是低迷的消费者信心",
+      "music": 0.0
+    },
+    {
+      "from": 443.41,
+      "to": 445.419,
+      "sid": 205,
+      "location": 2,
+      "content": "和持续的房地产下行",
+      "music": 0.0
+    },
+    {
+      "from": 445.419,
+      "to": 449.019,
+      "sid": 206,
+      "location": 2,
+      "content": "也就是说问题不在于借钱的条件不够好",
+      "music": 0.0
+    },
+    {
+      "from": 449.019,
+      "to": 451.88,
+      "sid": 207,
+      "location": 2,
+      "content": "而在于大家不愿意压住未来了",
+      "music": 0.0
+    },
+    {
+      "from": 451.88,
+      "to": 455.3,
+      "sid": 208,
+      "location": 2,
+      "content": "买房本质上是压住自己未来几十年的收入会涨",
+      "music": 0.0
+    },
+    {
+      "from": 455.3,
+      "to": 456.46,
+      "sid": 209,
+      "location": 2,
+      "content": "对吧没错",
+      "music": 0.0
+    },
+    {
+      "from": 456.46,
+      "to": 459.58,
+      "sid": 210,
+      "location": 2,
+      "content": "当家庭预期未来的工资可能不涨反降",
+      "music": 0.0
+    },
+    {
+      "from": 459.58,
+      "to": 462.88,
+      "sid": 211,
+      "location": 2,
+      "content": "或者认为今天买的房子明天就可能贬值时",
+      "music": 0.0
+    },
+    {
+      "from": 462.88,
+      "to": 464.52,
+      "sid": 212,
+      "location": 2,
+      "content": "别说1%的补贴了",
+      "music": 0.0
+    },
+    {
+      "from": 464.52,
+      "to": 465.7,
+      "sid": 213,
+      "location": 2,
+      "content": "就算零利息",
+      "music": 0.0
+    },
+    {
+      "from": 465.7,
+      "to": 467.88,
+      "sid": 214,
+      "location": 2,
+      "content": "理性的选择依然是按兵不动",
+      "music": 0.0
+    },
+    {
+      "from": 467.88,
+      "to": 471.77,
+      "sid": 215,
+      "location": 2,
+      "content": "甚至还会提前还贷来减轻未来的固定支出压力",
+      "music": 0.0
+    },
+    {
+      "from": 471.77,
+      "to": 475.71,
+      "sid": 216,
+      "location": 2,
+      "content": "所以单纯的金融工具刺激效果现在非常有限",
+      "music": 0.0
+    },
+    {
+      "from": 475.71,
+      "to": 477.95,
+      "sid": 217,
+      "location": 2,
+      "content": "这确实是个非常棘手的局面",
+      "music": 0.0
+    },
+    {
+      "from": 477.95,
+      "to": 480.61,
+      "sid": 218,
+      "location": 2,
+      "content": "你看企业在去杠杆儿往后退",
+      "music": 0.0
+    },
+    {
+      "from": 480.61,
+      "to": 483.35,
+      "sid": 219,
+      "location": 2,
+      "content": "家庭也在拼命去杠杆往后退",
+      "music": 0.0
+    },
+    {
+      "from": 483.35,
+      "to": 486.27,
+      "sid": 220,
+      "location": 2,
+      "content": "这就引出了一个非常关键的逻辑推演",
+      "music": 0.0
+    },
+    {
+      "from": 486.27,
+      "to": 488.6,
+      "sid": 221,
+      "location": 2,
+      "content": "你是指总盘子的问题",
+      "music": 0.0
+    },
+    {
+      "from": 488.6,
+      "to": 490.94,
+      "sid": 222,
+      "location": 2,
+      "content": "对啊既然大家都不借钱了",
+      "music": 0.0
+    },
+    {
+      "from": 490.94,
+      "to": 494.23,
+      "sid": 223,
+      "location": 2,
+      "content": "社会融资规模的总量为什么没有直接崩塌",
+      "music": 0.0
+    },
+    {
+      "from": 494.23,
+      "to": 495.69,
+      "sid": 224,
+      "location": 2,
+      "content": "我们开头可是说了",
+      "music": 0.0
+    },
+    {
+      "from": 495.69,
+      "to": 498.38,
+      "sid": 225,
+      "location": 2,
+      "content": "总额还有7.1%的增速",
+      "music": 0.0
+    },
+    {
+      "from": 498.38,
+      "to": 500.38,
+      "sid": 226,
+      "location": 2,
+      "content": "谁在逆势大举借钱",
+      "music": 0.0
+    },
+    {
+      "from": 500.38,
+      "to": 501.64,
+      "sid": 227,
+      "location": 2,
+      "content": "答案非常明确",
+      "music": 0.0
+    },
+    {
+      "from": 501.64,
+      "to": 503.38,
+      "sid": 228,
+      "location": 2,
+      "content": "只能是公共部门",
+      "music": 0.0
+    },
+    {
+      "from": 503.38,
+      "to": 505.56,
+      "sid": 229,
+      "location": 2,
+      "content": "当私营部门全面撤退时",
+      "music": 0.0
+    },
+    {
+      "from": 505.56,
+      "to": 508.52,
+      "sid": 230,
+      "location": 2,
+      "content": "政府必须站出来充当最后的借款人",
+      "music": 0.0
+    },
+    {
+      "from": 508.52,
+      "to": 510.159,
+      "sid": 231,
+      "location": 2,
+      "content": "报告里是怎么说的",
+      "music": 0.0
+    },
+    {
+      "from": 510.159,
+      "to": 511.239,
+      "sid": 232,
+      "location": 2,
+      "content": "数据显示",
+      "music": 0.0
+    },
+    {
+      "from": 511.239,
+      "to": 514.299,
+      "sid": 233,
+      "location": 2,
+      "content": "9月份的政府债券融资大幅增加到了",
+      "music": 0.0
+    },
+    {
+      "from": 514.299,
+      "to": 516.319,
+      "sid": 234,
+      "location": 2,
+      "content": "1万5330亿元",
+      "music": 0.0
+    },
+    {
+      "from": 516.319,
+      "to": 518.93,
+      "sid": 235,
+      "location": 2,
+      "content": "创下了一年多来的单月新高",
+      "music": 0.0
+    },
+    {
+      "from": 518.93,
+      "to": 520.57,
+      "sid": 236,
+      "location": 2,
+      "content": "政府在发债筹钱",
+      "music": 0.0
+    },
+    {
+      "from": 520.57,
+      "to": 521.65,
+      "sid": 237,
+      "location": 2,
+      "content": "搞基建托底",
+      "music": 0.0
+    },
+    {
+      "from": 521.65,
+      "to": 523.21,
+      "sid": 238,
+      "location": 2,
+      "content": "这其实在预期之内",
+      "music": 0.0
+    },
+    {
+      "from": 523.21,
+      "to": 524.65,
+      "sid": 239,
+      "location": 2,
+      "content": "但在很多人看来",
+      "music": 0.0
+    },
+    {
+      "from": 524.65,
+      "to": 526.91,
+      "sid": 240,
+      "location": 2,
+      "content": "经济现在需要的是一剂猛药",
+      "music": 0.0
+    },
+    {
+      "from": 526.91,
+      "to": 528.53,
+      "sid": 241,
+      "location": 2,
+      "content": "但我仔细看央行的动作",
+      "music": 0.0
+    },
+    {
+      "from": 528.53,
+      "to": 531.35,
+      "sid": 242,
+      "location": 2,
+      "content": "发现央行给的却像是靶向药",
+      "music": 0.0
+    },
+    {
+      "from": 531.35,
+      "to": 532.28,
+      "sid": 243,
+      "location": 2,
+      "content": "怎么讲",
+      "music": 0.0
+    },
+    {
+      "from": 532.28,
+      "to": 536.22,
+      "sid": 244,
+      "location": 2,
+      "content": "你看央行在9月29日将一年期PSL",
+      "music": 0.0
+    },
+    {
+      "from": 536.22,
+      "to": 538.42,
+      "sid": 245,
+      "location": 2,
+      "content": "也就是抵押补充贷款的利率",
+      "music": 0.0
+    },
+    {
+      "from": 538.42,
+      "to": 540.03,
+      "sid": 246,
+      "location": 2,
+      "content": "下调了25个基点",
+      "music": 0.0
+    },
+    {
+      "from": 540.03,
+      "to": 542.59,
+      "sid": 247,
+      "location": 2,
+      "content": "并且扩大到了六大网络建设",
+      "music": 0.0
+    },
+    {
+      "from": 542.59,
+      "to": 545.78,
+      "sid": 248,
+      "location": 2,
+      "content": "还增加了7000亿元的定向再贷款",
+      "music": 0.0
+    },
+    {
+      "from": 546.12,
+      "to": 547.46,
+      "sid": 249,
+      "location": 2,
+      "content": "这是定向的动作",
+      "music": 0.0
+    },
+    {
+      "from": 547.46,
+      "to": 550.8,
+      "sid": 250,
+      "location": 2,
+      "content": "但是央行却没有选择下调政策利率",
+      "music": 0.0
+    },
+    {
+      "from": 551.88,
+      "to": 553.13,
+      "sid": 251,
+      "location": 2,
+      "content": "我就很不理解",
+      "music": 0.0
+    },
+    {
+      "from": 553.13,
+      "to": 555.09,
+      "sid": 252,
+      "location": 2,
+      "content": "如果现在经济体温这么低",
+      "music": 0.0
+    },
+    {
+      "from": 557.81,
+      "to": 560.01,
+      "sid": 253,
+      "location": 2,
+      "content": "这种大水漫灌式的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 561.61,
+      "to": 564.93,
+      "sid": 254,
+      "location": 2,
+      "content": "也就是没有降低银行的存款准备金率",
+      "music": 0.0
+    },
+    {
+      "from": 564.93,
+      "to": 568.069,
+      "sid": 255,
+      "location": 2,
+      "content": "其实是理解目前宏观政策的核心",
+      "music": 0.0
+    },
+    {
+      "from": 569.749,
+      "to": 573.28,
+      "sid": 256,
+      "location": 2,
+      "content": "商业银行手里确实会突然多出一大笔钱",
+      "music": 0.0
+    },
+    {
+      "from": 573.28,
+      "to": 576.02,
+      "sid": 257,
+      "location": 2,
+      "content": "那把这笔巨额资金释放出来不好吗",
+      "music": 0.0
+    },
+    {
+      "from": 576.02,
+      "to": 578.39,
+      "sid": 258,
+      "location": 2,
+      "content": "让市场上的钱变得极其便宜",
+      "music": 0.0
+    },
+    {
+      "from": 578.39,
+      "to": 580.45,
+      "sid": 259,
+      "location": 2,
+      "content": "问题是这笔钱会去哪儿",
+      "music": 0.0
+    },
+    {
+      "from": 580.45,
+      "to": 581.79,
+      "sid": 260,
+      "location": 2,
+      "content": "我们刚才讨论了",
+      "music": 0.0
+    },
+    {
+      "from": 581.79,
+      "to": 584.839,
+      "sid": 261,
+      "location": 2,
+      "content": "企业和家庭根本不想借钱呃",
+      "music": 0.0
+    },
+    {
+      "from": 584.839,
+      "to": 586.859,
+      "sid": 262,
+      "location": 2,
+      "content": "他总得找个地方赚利息吧",
+      "music": 0.0
+    },
+    {
+      "from": 588.519,
+      "to": 590.8,
+      "sid": 263,
+      "location": 2,
+      "content": "难道会在金融体系内部空转",
+      "music": 0.0
+    },
+    {
+      "from": 590.8,
+      "to": 591.54,
+      "sid": 264,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 591.54,
+      "to": 594.23,
+      "sid": 265,
+      "location": 2,
+      "content": "这就形成了所谓的流动性陷阱",
+      "music": 0.0
+    },
+    {
+      "from": 596.63,
+      "to": 598.53,
+      "sid": 266,
+      "location": 2,
+      "content": "只能在银行之间互相拆借",
+      "music": 0.0
+    },
+    {
+      "from": 598.53,
+      "to": 601.01,
+      "sid": 267,
+      "location": 2,
+      "content": "或者去炒作无风险的国债哇",
+      "music": 0.0
+    },
+    {
+      "from": 601.01,
+      "to": 602.23,
+      "sid": 268,
+      "location": 2,
+      "content": "那不仅没救活经济",
+      "music": 0.0
+    },
+    {
+      "from": 602.23,
+      "to": 604.07,
+      "sid": 269,
+      "location": 2,
+      "content": "还把国债的收益率给扭曲了",
+      "music": 0.0
+    },
+    {
+      "from": 604.07,
+      "to": 605.38,
+      "sid": 270,
+      "location": 2,
+      "content": "而且更糟糕的是",
+      "music": 0.0
+    },
+    {
+      "from": 605.38,
+      "to": 608.8,
+      "sid": 271,
+      "location": 2,
+      "content": "如果市场上到处都是泛滥且便宜的人民币",
+      "music": 0.0
+    },
+    {
+      "from": 608.8,
+      "to": 611.99,
+      "sid": 272,
+      "location": 2,
+      "content": "这会引发货币贬值的巨大压力",
+      "music": 0.0
+    },
+    {
+      "from": 611.99,
+      "to": 613.86,
+      "sid": 273,
+      "location": 2,
+      "content": "导致资本外流对",
+      "music": 0.0
+    },
+    {
+      "from": 613.86,
+      "to": 617.46,
+      "sid": 274,
+      "location": 2,
+      "content": "所以如果我们把这和宏观大局联系起来看",
+      "music": 0.0
+    },
+    {
+      "from": 617.46,
+      "to": 621.44,
+      "sid": 275,
+      "location": 2,
+      "content": "央行显然是在刻意避免广泛的货币宽松",
+      "music": 0.0
+    },
+    {
+      "from": 621.44,
+      "to": 622.94,
+      "sid": 276,
+      "location": 2,
+      "content": "野村的报告也指出",
+      "music": 0.0
+    },
+    {
+      "from": 622.94,
+      "to": 624.28,
+      "sid": 277,
+      "location": 2,
+      "content": "今年剩下的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 627.16,
+      "to": 627.96,
+      "sid": 278,
+      "location": 2,
+      "content": "明白了",
+      "music": 0.0
+    },
+    {
+      "from": 627.96,
+      "to": 631.18,
+      "sid": 279,
+      "location": 2,
+      "content": "政策重心完全转移到了定向支持上",
+      "music": 0.0
+    },
+    {
+      "from": 631.18,
+      "to": 633.559,
+      "sid": 280,
+      "location": 2,
+      "content": "也就是从向整个池子注水",
+      "music": 0.0
+    },
+    {
+      "from": 633.559,
+      "to": 635.879,
+      "sid": 281,
+      "location": 2,
+      "content": "变成了修水管定向滴灌",
+      "music": 0.0
+    },
+    {
+      "from": 635.879,
+      "to": 637.94,
+      "sid": 282,
+      "location": 2,
+      "content": "对这是一种底线思维",
+      "music": 0.0
+    },
+    {
+      "from": 637.94,
+      "to": 640.92,
+      "sid": 283,
+      "location": 2,
+      "content": "首要目的不是立刻促成经济大繁荣",
+      "music": 0.0
+    },
+    {
+      "from": 640.92,
+      "to": 642.12,
+      "sid": 284,
+      "location": 2,
+      "content": "而是托底",
+      "music": 0.0
+    },
+    {
+      "from": 642.12,
+      "to": 644.359,
+      "sid": 285,
+      "location": 2,
+      "content": "防止自由落体时的硬着陆",
+      "music": 0.0
+    },
+    {
+      "from": 644.359,
+      "to": 646.82,
+      "sid": 286,
+      "location": 2,
+      "content": "那么这一切到底意味着什么",
+      "music": 0.0
+    },
+    {
+      "from": 646.82,
+      "to": 647.92,
+      "sid": 287,
+      "location": 2,
+      "content": "既然是靶向药",
+      "music": 0.0
+    },
+    {
+      "from": 647.92,
+      "to": 649.86,
+      "sid": 288,
+      "location": 2,
+      "content": "对于正在收听节目的你来说",
+      "music": 0.0
+    },
+    {
+      "from": 649.86,
+      "to": 652.26,
+      "sid": 289,
+      "location": 2,
+      "content": "追踪这些靶向资金的底层管道",
+      "music": 0.0
+    },
+    {
+      "from": 652.26,
+      "to": 653.89,
+      "sid": 290,
+      "location": 2,
+      "content": "就变得至关重要了",
+      "music": 0.0
+    },
+    {
+      "from": 653.89,
+      "to": 656.51,
+      "sid": 291,
+      "location": 2,
+      "content": "因为这直接决定了接下来的几个月",
+      "music": 0.0
+    },
+    {
+      "from": 656.51,
+      "to": 658.86,
+      "sid": 292,
+      "location": 2,
+      "content": "哪些领域有资金流入",
+      "music": 0.0
+    },
+    {
+      "from": 658.86,
+      "to": 659.62,
+      "sid": 293,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 663.36,
+      "to": 666.08,
+      "sid": 294,
+      "location": 2,
+      "content": "也就是NPFT正在加速部署",
+      "music": 0.0
+    },
+    {
+      "from": 666.08,
+      "to": 668.12,
+      "sid": 295,
+      "location": 2,
+      "content": "这个部署的速度确实很快",
+      "music": 0.0
+    },
+    {
+      "from": 668.12,
+      "to": 670.38,
+      "sid": 296,
+      "location": 2,
+      "content": "三大政策性银行自9月以来",
+      "music": 0.0
+    },
+    {
+      "from": 670.38,
+      "to": 674.079,
+      "sid": 297,
+      "location": 2,
+      "content": "已经向大约400个项目注入了超1000亿元",
+      "music": 0.0
+    },
+    {
+      "from": 674.079,
+      "to": 676.439,
+      "sid": 298,
+      "location": 2,
+      "content": "占了年度额度的31%了",
+      "music": 0.0
+    },
+    {
+      "from": 676.439,
+      "to": 679.67,
+      "sid": 299,
+      "location": 2,
+      "content": "而且报告里有个极其巧妙的资金放大机制",
+      "music": 0.0
+    },
+    {
+      "from": 679.67,
+      "to": 681.03,
+      "sid": 300,
+      "location": 2,
+      "content": "比如国家开发银行",
+      "music": 0.0
+    },
+    {
+      "from": 681.03,
+      "to": 684.47,
+      "sid": 301,
+      "location": 2,
+      "content": "向153个项目投放了608.5亿元",
+      "music": 0.0
+    },
+    {
+      "from": 684.47,
+      "to": 687.41,
+      "sid": 302,
+      "location": 2,
+      "content": "但这居然拉动了1.4万元的总投资",
+      "music": 0.0
+    },
+    {
+      "from": 687.41,
+      "to": 689.01,
+      "sid": 303,
+      "location": 2,
+      "content": "杠杆率非常惊人",
+      "music": 0.0
+    },
+    {
+      "from": 689.01,
+      "to": 692.47,
+      "sid": 304,
+      "location": 2,
+      "content": "不到1000亿的钱撬动了万亿级的工程",
+      "music": 0.0
+    },
+    {
+      "from": 692.47,
+      "to": 693.87,
+      "sid": 305,
+      "location": 2,
+      "content": "这简直不可思议",
+      "music": 0.0
+    },
+    {
+      "from": 693.87,
+      "to": 696.71,
+      "sid": 306,
+      "location": 2,
+      "content": "我们在数据底层到底看到了什么样的管道",
+      "music": 0.0
+    },
+    {
+      "from": 696.71,
+      "to": 698.72,
+      "sid": 307,
+      "location": 2,
+      "content": "连接钱是怎么传到的",
+      "music": 0.0
+    },
+    {
+      "from": 698.72,
+      "to": 699.68,
+      "sid": 308,
+      "location": 2,
+      "content": "简单来说",
+      "music": 0.0
+    },
+    {
+      "from": 699.68,
+      "to": 701.88,
+      "sid": 309,
+      "location": 2,
+      "content": "你可以把这种政策性金融工具",
+      "music": 0.0
+    },
+    {
+      "from": 701.88,
+      "to": 704.47,
+      "sid": 310,
+      "location": 2,
+      "content": "看作是给基建项目垫付的首付",
+      "music": 0.0
+    },
+    {
+      "from": 704.47,
+      "to": 706.39,
+      "sid": 311,
+      "location": 2,
+      "content": "首付像买房一样",
+      "music": 0.0
+    },
+    {
+      "from": 706.39,
+      "to": 708.84,
+      "sid": 312,
+      "location": 2,
+      "content": "对地方政府想搞大工程",
+      "music": 0.0
+    },
+    {
+      "from": 708.84,
+      "to": 711.62,
+      "sid": 313,
+      "location": 2,
+      "content": "商业银行要求必须先有一笔资本金",
+      "music": 0.0
+    },
+    {
+      "from": 711.62,
+      "to": 713.52,
+      "sid": 314,
+      "location": 2,
+      "content": "在地方财政吃紧的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 713.52,
+      "to": 716.38,
+      "sid": 315,
+      "location": 2,
+      "content": "政策性银行就会把钱注入进去哦",
+      "music": 0.0
+    },
+    {
+      "from": 716.38,
+      "to": 718.18,
+      "sid": 316,
+      "location": 2,
+      "content": "充当资本金没错",
+      "music": 0.0
+    },
+    {
+      "from": 718.18,
+      "to": 719.6,
+      "sid": 317,
+      "location": 2,
+      "content": "在金融操作上",
+      "music": 0.0
+    },
+    {
+      "from": 719.6,
+      "to": 723.37,
+      "sid": 318,
+      "location": 2,
+      "content": "这笔钱通常作为股东贷款打给项目公司",
+      "music": 0.0
+    },
+    {
+      "from": 723.37,
+      "to": 724.73,
+      "sid": 319,
+      "location": 2,
+      "content": "在统计报表上",
+      "music": 0.0
+    },
+    {
+      "from": 724.73,
+      "to": 728.63,
+      "sid": 320,
+      "location": 2,
+      "content": "它会被精准的记录为委托贷款诶等等",
+      "music": 0.0
+    },
+    {
+      "from": 728.63,
+      "to": 730.57,
+      "sid": 321,
+      "location": 2,
+      "content": "委托贷款诶",
+      "music": 0.0
+    },
+    {
+      "from": 730.57,
+      "to": 732.37,
+      "sid": 322,
+      "location": 2,
+      "content": "这使得9月新增委托贷款",
+      "music": 0.0
+    },
+    {
+      "from": 732.37,
+      "to": 735.23,
+      "sid": 323,
+      "location": 2,
+      "content": "创下了2025年10月以来的新高",
+      "music": 0.0
+    },
+    {
+      "from": 735.23,
+      "to": 738.829,
+      "sid": 324,
+      "location": 2,
+      "content": "原来是因为这个你的观察非常敏锐",
+      "music": 0.0
+    },
+    {
+      "from": 738.829,
+      "to": 742.93,
+      "sid": 325,
+      "location": 2,
+      "content": "一旦项目拿到了这笔国家队背书的首付",
+      "music": 0.0
+    },
+    {
+      "from": 742.93,
+      "to": 746.35,
+      "sid": 326,
+      "location": 2,
+      "content": "原本还在观望的商业银行就觉得风险可控了",
+      "music": 0.0
+    },
+    {
+      "from": 746.35,
+      "to": 748.099,
+      "sid": 327,
+      "location": 2,
+      "content": "于是纷纷跟进",
+      "music": 0.0
+    },
+    {
+      "from": 748.099,
+      "to": 752.13,
+      "sid": 328,
+      "location": 2,
+      "content": "放出几倍甚至十几倍的贷款去补齐工程款",
+      "music": 0.0
+    },
+    {
+      "from": 752.13,
+      "to": 754.11,
+      "sid": 329,
+      "location": 2,
+      "content": "这后续跟进的庞大资金",
+      "music": 0.0
+    },
+    {
+      "from": 754.11,
+      "to": 757.23,
+      "sid": 330,
+      "location": 2,
+      "content": "最终才会体现在人民币贷款总额中",
+      "music": 0.0
+    },
+    {
+      "from": 757.23,
+      "to": 758.53,
+      "sid": 331,
+      "location": 2,
+      "content": "完全正确",
+      "music": 0.0
+    },
+    {
+      "from": 758.53,
+      "to": 761.63,
+      "sid": 332,
+      "location": 2,
+      "content": "这就是为什么普通人要把委托贷款的飙升",
+      "music": 0.0
+    },
+    {
+      "from": 761.63,
+      "to": 765.41,
+      "sid": 333,
+      "location": 2,
+      "content": "看作是某种经济即将企稳的绿色信号灯",
+      "music": 0.0
+    },
+    {
+      "from": 765.41,
+      "to": 766.11,
+      "sid": 334,
+      "location": 2,
+      "content": "听起来",
+      "music": 0.0
+    },
+    {
+      "from": 766.11,
+      "to": 769.43,
+      "sid": 335,
+      "location": 2,
+      "content": "这就像是政府在亲自下场做天使投资人啊",
+      "music": 0.0
+    },
+    {
+      "from": 769.43,
+      "to": 770.45,
+      "sid": 336,
+      "location": 2,
+      "content": "可以这么说",
+      "music": 0.0
+    },
+    {
+      "from": 770.45,
+      "to": 772.75,
+      "sid": 337,
+      "location": 2,
+      "content": "而且大部分的NFPT额度",
+      "music": 0.0
+    },
+    {
+      "from": 772.75,
+      "to": 775.57,
+      "sid": 338,
+      "location": 2,
+      "content": "加上还有5500亿元的定向未使用",
+      "music": 0.0
+    },
+    {
+      "from": 775.57,
+      "to": 778.43,
+      "sid": 339,
+      "location": 2,
+      "content": "地方政府债务额度目前还没花完呢",
+      "music": 0.0
+    },
+    {
+      "from": 778.43,
+      "to": 779.37,
+      "sid": 340,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 779.37,
+      "to": 782.51,
+      "sid": 341,
+      "location": 2,
+      "content": "这些公共领域的资金渠道将是未来几个月",
+      "music": 0.0
+    },
+    {
+      "from": 782.51,
+      "to": 786.47,
+      "sid": 342,
+      "location": 2,
+      "content": "帮助社会融资规模找到底部支撑的最核心力量",
+      "music": 0.0
+    },
+    {
+      "from": 786.47,
+      "to": 789.22,
+      "sid": 343,
+      "location": 2,
+      "content": "野村报告的结论也正是如此哇",
+      "music": 0.0
+    },
+    {
+      "from": 789.22,
+      "to": 791.46,
+      "sid": 344,
+      "location": 2,
+      "content": "今天经过我们这番抽丝剥茧",
+      "music": 0.0
+    },
+    {
+      "from": 791.46,
+      "to": 793.64,
+      "sid": 345,
+      "location": 2,
+      "content": "这份硬核的研报已经变成了",
+      "music": 0.0
+    },
+    {
+      "from": 793.64,
+      "to": 796.06,
+      "sid": 346,
+      "location": 2,
+      "content": "一幅生动的宏观经济沙盘",
+      "music": 0.0
+    },
+    {
+      "from": 796.06,
+      "to": 797.86,
+      "sid": 347,
+      "location": 2,
+      "content": "其实看透了数据的表象",
+      "music": 0.0
+    },
+    {
+      "from": 797.86,
+      "to": 800.19,
+      "sid": 348,
+      "location": 2,
+      "content": "底层的逻辑是非常清晰的",
+      "music": 0.0
+    },
+    {
+      "from": 800.19,
+      "to": 802.15,
+      "sid": 349,
+      "location": 2,
+      "content": "是的对于正在收听的你",
+      "music": 0.0
+    },
+    {
+      "from": 802.15,
+      "to": 805.069,
+      "sid": 350,
+      "location": 2,
+      "content": "现在你拥有了超越表象的洞察力",
+      "music": 0.0
+    },
+    {
+      "from": 805.069,
+      "to": 807.909,
+      "sid": 351,
+      "location": 2,
+      "content": "你不仅知道了表面微增的企业贷款",
+      "music": 0.0
+    },
+    {
+      "from": 807.909,
+      "to": 810.81,
+      "sid": 352,
+      "location": 2,
+      "content": "背后是靠票据融资在苦苦支撑",
+      "music": 0.0
+    },
+    {
+      "from": 810.81,
+      "to": 814.17,
+      "sid": 353,
+      "location": 2,
+      "content": "也看到了家庭部门史无前例的信贷收缩",
+      "music": 0.0
+    },
+    {
+      "from": 814.17,
+      "to": 814.79,
+      "sid": 354,
+      "location": 2,
+      "content": "没错",
+      "music": 0.0
+    },
+    {
+      "from": 814.79,
+      "to": 816.05,
+      "sid": 355,
+      "location": 2,
+      "content": "还有公共资金",
+      "music": 0.0
+    },
+    {
+      "from": 816.05,
+      "to": 818.87,
+      "sid": 356,
+      "location": 2,
+      "content": "正通过像委托贷款这样复杂的管道",
+      "music": 0.0
+    },
+    {
+      "from": 818.87,
+      "to": 820.9,
+      "sid": 357,
+      "location": 2,
+      "content": "全力托举经济的现实",
+      "music": 0.0
+    },
+    {
+      "from": 820.9,
+      "to": 821.7,
+      "sid": 358,
+      "location": 2,
+      "content": "了解这些",
+      "music": 0.0
+    },
+    {
+      "from": 821.7,
+      "to": 825.22,
+      "sid": 359,
+      "location": 2,
+      "content": "能让你在做业务规划或者个人资产配置时",
+      "music": 0.0
+    },
+    {
+      "from": 825.22,
+      "to": 828.79,
+      "sid": 360,
+      "location": 2,
+      "content": "清楚地知道当前的资金到底流向了哪里",
+      "music": 0.0
+    },
+    {
+      "from": 828.79,
+      "to": 832.43,
+      "sid": 361,
+      "location": 2,
+      "content": "对也就是流向了公共基础设施和特定项目",
+      "music": 0.0
+    },
+    {
+      "from": 832.43,
+      "to": 835.609,
+      "sid": 362,
+      "location": 2,
+      "content": "同时避开了那些民间自发扩张的领域",
+      "music": 0.0
+    },
+    {
+      "from": 835.609,
+      "to": 838.39,
+      "sid": 363,
+      "location": 2,
+      "content": "这对未来的预判非常有价值",
+      "music": 0.0
+    },
+    {
+      "from": 838.39,
+      "to": 839.23,
+      "sid": 364,
+      "location": 2,
+      "content": "绝对的",
+      "music": 0.0
+    },
+    {
+      "from": 839.23,
+      "to": 840.63,
+      "sid": 365,
+      "location": 2,
+      "content": "那么在节目的最后",
+      "music": 0.0
+    },
+    {
+      "from": 840.63,
+      "to": 843.31,
+      "sid": 366,
+      "location": 2,
+      "content": "我想为你留下一个基于这些资料",
+      "music": 0.0
+    },
+    {
+      "from": 843.31,
+      "to": 845.59,
+      "sid": 367,
+      "location": 2,
+      "content": "但极度引人深思的问题",
+      "music": 0.0
+    },
+    {
+      "from": 845.59,
+      "to": 847.05,
+      "sid": 368,
+      "location": 2,
+      "content": "嗯是什么",
+      "music": 0.0
+    },
+    {
+      "from": 847.05,
+      "to": 848.71,
+      "sid": 369,
+      "location": 2,
+      "content": "如果当前的信贷扩张",
+      "music": 0.0
+    },
+    {
+      "from": 848.71,
+      "to": 852.3,
+      "sid": 370,
+      "location": 2,
+      "content": "越来越依赖公共部门的这种定向输血",
+      "music": 0.0
+    },
+    {
+      "from": 855.68,
+      "to": 858.36,
+      "sid": 371,
+      "location": 2,
+      "content": "或者这些特定的基建项目建设完成了",
+      "music": 0.0
+    },
+    {
+      "from": 858.36,
+      "to": 859.74,
+      "sid": 372,
+      "location": 2,
+      "content": "下一步会发生什么",
+      "music": 0.0
+    },
+    {
+      "from": 859.74,
+      "to": 862.18,
+      "sid": 373,
+      "location": 2,
+      "content": "唉这是一个非常现实的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 862.18,
+      "to": 863.14,
+      "sid": 374,
+      "location": 2,
+      "content": "到那时",
+      "music": 0.0
+    },
+    {
+      "from": 863.14,
+      "to": 866.64,
+      "sid": 375,
+      "location": 2,
+      "content": "疲软的私营部门是否已经恢复了足够的元气",
+      "music": 0.0
+    },
+    {
+      "from": 866.64,
+      "to": 867.5,
+      "sid": 376,
+      "location": 2,
+      "content": "能站起来",
+      "music": 0.0
+    },
+    {
+      "from": 867.5,
+      "to": 869.25,
+      "sid": 377,
+      "location": 2,
+      "content": "接下经济增长的接力棒",
+      "music": 0.0
+    },
+    {
+      "from": 869.25,
+      "to": 872.87,
+      "sid": 378,
+      "location": 2,
+      "content": "还是说我们需要彻底适应一种全新的",
+      "music": 0.0
+    },
+    {
+      "from": 872.87,
+      "to": 876.5,
+      "sid": 379,
+      "location": 2,
+      "content": "由公共投资长久主导的信贷生态",
+      "music": 0.0
+    },
+    {
+      "from": 876.74,
+      "to": 879.38,
+      "sid": 380,
+      "location": 2,
+      "content": "这个问题留给你自己去慢慢探索",
+      "music": 0.0
+    },
+    {
+      "from": 879.38,
+      "to": 880.62,
+      "sid": 381,
+      "location": 2,
+      "content": "感谢你的收听",
+      "music": 0.0
+    },
+    {
+      "from": 880.62,
+      "to": 882.34,
+      "sid": 382,
+      "location": 2,
+      "content": "这里是我们的深度解析",
+      "music": 0.0
+    },
+    {
+      "from": 882.34,
+      "to": 883.6,
+      "sid": 383,
+      "location": 2,
+      "content": "我们下次再见",
+      "music": 0.0
+    },
+    {
+      "from": 883.6,
+      "to": 884.6,
+      "sid": 384,
+      "location": 2,
+      "content": "下次见",
+      "music": 0.0
+    }
+  ]
+}

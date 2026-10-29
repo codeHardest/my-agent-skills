@@ -1,0 +1,108 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 2.67,
+   "sid": 1,
+   "location": 2,
+   "content": "啊如果你也想练好后撤步",
+   "music": 0
+  },
+  {
+   "from": 2.67,
+   "to": 4.68,
+   "sid": 2,
+   "location": 2,
+   "content": "这三个训练你一定不能错过",
+   "music": 0.2659574326618387
+  },
+  {
+   "from": 4.68,
+   "to": 8.5,
+   "sid": 3,
+   "location": 2,
+   "content": "我们先从最基础的不运球撤步开始练习",
+   "music": 0
+  },
+  {
+   "from": 8.5,
+   "to": 11.9,
+   "sid": 4,
+   "location": 2,
+   "content": "熟悉不同脚步和方向带来的不同感受",
+   "music": 0
+  },
+  {
+   "from": 11.9,
+   "to": 13.16,
+   "sid": 5,
+   "location": 2,
+   "content": "撤步的核心在于",
+   "music": 0
+  },
+  {
+   "from": 13.16,
+   "to": 14.93,
+   "sid": 6,
+   "location": 2,
+   "content": "撤步完可以稳定的出手",
+   "music": 0
+  },
+  {
+   "from": 14.93,
+   "to": 18.54,
+   "sid": 7,
+   "location": 2,
+   "content": "我们要确保每次出手前双脚不能并得太窄",
+   "music": 0
+  },
+  {
+   "from": 18.54,
+   "to": 20.52,
+   "sid": 8,
+   "location": 2,
+   "content": "当我们掌握了基础的脚步后",
+   "music": 0
+  },
+  {
+   "from": 20.52,
+   "to": 22.08,
+   "sid": 9,
+   "location": 2,
+   "content": "就可以加入运球练习",
+   "music": 0
+  },
+  {
+   "from": 24.78,
+   "to": 27.48,
+   "sid": 10,
+   "location": 2,
+   "content": "以上每个动作至少命中五个球",
+   "music": 0
+  },
+  {
+   "from": 28,
+   "to": 29.4,
+   "sid": 11,
+   "location": 2,
+   "content": "点赞加关注",
+   "music": 0
+  },
+  {
+   "from": 29.4,
+   "to": 32.1,
+   "sid": 12,
+   "location": 2,
+   "content": "eternal兄弟一起来练",
+   "music": 0
+  }
+ ]
+}

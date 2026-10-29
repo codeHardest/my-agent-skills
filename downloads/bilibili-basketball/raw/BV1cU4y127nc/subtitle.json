@@ -1,0 +1,250 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 0.54,
+   "sid": 1,
+   "location": 2,
+   "content": "哈喽大家好"
+  },
+  {
+   "from": 0.54,
+   "to": 1.08,
+   "sid": 2,
+   "location": 2,
+   "content": "我是伊恩"
+  },
+  {
+   "from": 1.08,
+   "to": 6.06,
+   "sid": 3,
+   "location": 2,
+   "content": "邀各位大学生朋友们一招制霸校园篮球场"
+  },
+  {
+   "from": 7.26,
+   "to": 10.46,
+   "sid": 4,
+   "location": 2,
+   "content": "坐哪个位置可以说"
+  },
+  {
+   "from": 10.46,
+   "to": 13.34,
+   "sid": 5,
+   "location": 2,
+   "content": "不管你做什么起始的动作都可以"
+  },
+  {
+   "from": 13.34,
+   "to": 15.25,
+   "sid": 6,
+   "location": 2,
+   "content": "有的时候可以调动防守"
+  },
+  {
+   "from": 15.25,
+   "to": 18.22,
+   "sid": 7,
+   "location": 2,
+   "content": "然后我们突破的目的是什么"
+  },
+  {
+   "from": 18.22,
+   "to": 19.63,
+   "sid": 8,
+   "location": 2,
+   "content": "速度不用很快"
+  },
+  {
+   "from": 19.63,
+   "to": 22.1,
+   "sid": 9,
+   "location": 2,
+   "content": "距离防守人发生身体接触"
+  },
+  {
+   "from": 22.1,
+   "to": 23.9,
+   "sid": 10,
+   "location": 2,
+   "content": "前面动作不管是什么动作"
+  },
+  {
+   "from": 23.9,
+   "to": 26,
+   "sid": 11,
+   "location": 2,
+   "content": "不要想着一下突进去啊"
+  },
+  {
+   "from": 26,
+   "to": 27.41,
+   "sid": 12,
+   "location": 2,
+   "content": "我们做完动作以后"
+  },
+  {
+   "from": 27.41,
+   "to": 29.48,
+   "sid": 13,
+   "location": 2,
+   "content": "与防守人发生身体接触以后"
+  },
+  {
+   "from": 29.48,
+   "to": 30.759,
+   "sid": 14,
+   "location": 2,
+   "content": "同侧急停"
+  },
+  {
+   "from": 30.759,
+   "to": 32.199,
+   "sid": 15,
+   "location": 2,
+   "content": "同侧急停很重要"
+  },
+  {
+   "from": 32.199,
+   "to": 33.76,
+   "sid": 16,
+   "location": 2,
+   "content": "拔同侧急停"
+  },
+  {
+   "from": 36.54,
+   "to": 40.4,
+   "sid": 17,
+   "location": 2,
+   "content": "这个时候我们哪只腿啊急停了"
+  },
+  {
+   "from": 40.4,
+   "to": 42.72,
+   "sid": 18,
+   "location": 2,
+   "content": "我们哪只腿往后放"
+  },
+  {
+   "from": 43.22,
+   "to": 47.84,
+   "sid": 19,
+   "location": 2,
+   "content": "这个时候呢就与防守人发生了一段距离的空间"
+  },
+  {
+   "from": 47.84,
+   "to": 49.76,
+   "sid": 20,
+   "location": 2,
+   "content": "这个时候我们可以投篮啊"
+  },
+  {
+   "from": 49.76,
+   "to": 50.36,
+   "sid": 21,
+   "location": 2,
+   "content": "可以投篮"
+  },
+  {
+   "from": 50.36,
+   "to": 53.29,
+   "sid": 22,
+   "location": 2,
+   "content": "如果说同侧急停完以后拉回"
+  },
+  {
+   "from": 53.29,
+   "to": 55.36,
+   "sid": 23,
+   "location": 2,
+   "content": "如果说没有机会投篮"
+  },
+  {
+   "from": 55.36,
+   "to": 56.08,
+   "sid": 24,
+   "location": 2,
+   "content": "他上来了"
+  },
+  {
+   "from": 66.64,
+   "to": 67.42,
+   "sid": 25,
+   "location": 2,
+   "content": "突破完后"
+  },
+  {
+   "from": 67.42,
+   "to": 69.28,
+   "sid": 26,
+   "location": 2,
+   "content": "如果这个地方他又跟上来了"
+  },
+  {
+   "from": 74.92,
+   "to": 78.52,
+   "sid": 27,
+   "location": 2,
+   "content": "拉回完以后再进行一个阴爻"
+  },
+  {
+   "from": 78.52,
+   "to": 81.179,
+   "sid": 28,
+   "location": 2,
+   "content": "变相搭上了"
+  },
+  {
+   "from": 88.66,
+   "to": 91.74,
+   "sid": 29,
+   "location": 2,
+   "content": "八变向都可以与防热发生接触以后"
+  },
+  {
+   "from": 91.74,
+   "to": 101.5,
+   "sid": 30,
+   "location": 2,
+   "content": "同侧急停拉回在拉丁凹变向再拉再走也是可以的"
+  },
+  {
+   "from": 101.62,
+   "to": 104.08,
+   "sid": 31,
+   "location": 2,
+   "content": "后面就是随着防守人"
+  },
+  {
+   "from": 104.08,
+   "to": 105.16,
+   "sid": 32,
+   "location": 2,
+   "content": "他是怎么防守"
+  },
+  {
+   "from": 105.16,
+   "to": 108.34,
+   "sid": 33,
+   "location": 2,
+   "content": "我们做出什么招数进行面对"
+  },
+  {
+   "from": 108.34,
+   "to": 109.36,
+   "sid": 34,
+   "location": 2,
+   "content": "你学会了吗"
+  }
+ ]
+}

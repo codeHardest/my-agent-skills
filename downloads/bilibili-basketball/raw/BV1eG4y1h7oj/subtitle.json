@@ -1,0 +1,252 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 4.74,
+   "sid": 1,
+   "location": 2,
+   "content": "提前拉回旋髋加速上篮",
+   "music": 0
+  },
+  {
+   "from": 5.09,
+   "to": 7.49,
+   "sid": 2,
+   "location": 2,
+   "content": "首先我们正常的提前拉回衔接",
+   "music": 0
+  },
+  {
+   "from": 7.49,
+   "to": 9.35,
+   "sid": 3,
+   "location": 2,
+   "content": "我们的追步是面对防守人",
+   "music": 0
+  },
+  {
+   "from": 9.35,
+   "to": 10,
+   "sid": 4,
+   "location": 2,
+   "content": "对不对",
+   "music": 0
+  },
+  {
+   "from": 10,
+   "to": 11.92,
+   "sid": 5,
+   "location": 2,
+   "content": "那你这样就存在一个弊端",
+   "music": 0
+  },
+  {
+   "from": 11.92,
+   "to": 13.3,
+   "sid": 6,
+   "location": 2,
+   "content": "就是你直接往前突破的时候",
+   "music": 0
+  },
+  {
+   "from": 13.3,
+   "to": 14.44,
+   "sid": 7,
+   "location": 2,
+   "content": "防守人如果反应快",
+   "music": 0
+  },
+  {
+   "from": 14.44,
+   "to": 16.87,
+   "sid": 8,
+   "location": 2,
+   "content": "一个滑步就挡住你的左右脚",
+   "music": 0
+  },
+  {
+   "from": 16.87,
+   "to": 19.51,
+   "sid": 9,
+   "location": 2,
+   "content": "那现在我就要求你们在提前拉回以后",
+   "music": 0
+  },
+  {
+   "from": 19.51,
+   "to": 21.22,
+   "sid": 10,
+   "location": 2,
+   "content": "向外做一个横移",
+   "music": 0
+  },
+  {
+   "from": 21.22,
+   "to": 22.54,
+   "sid": 11,
+   "location": 2,
+   "content": "同时脚步打开",
+   "music": 0
+  },
+  {
+   "from": 22.54,
+   "to": 23.8,
+   "sid": 12,
+   "location": 2,
+   "content": "髋部转动",
+   "music": 0
+  },
+  {
+   "from": 23.8,
+   "to": 26.08,
+   "sid": 13,
+   "location": 2,
+   "content": "侧身辅助手架起来",
+   "music": 0
+  },
+  {
+   "from": 26.08,
+   "to": 29.71,
+   "sid": 14,
+   "location": 2,
+   "content": "防守人如果往前抢辅助手划船撞球",
+   "music": 0
+  },
+  {
+   "from": 29.71,
+   "to": 32.56,
+   "sid": 15,
+   "location": 2,
+   "content": "一定要向外打开啊",
+   "music": 0.30303028007346433
+  },
+  {
+   "from": 32.66,
+   "to": 34.75,
+   "sid": 16,
+   "location": 2,
+   "content": "首先你提前拉回以后",
+   "music": 0
+  },
+  {
+   "from": 34.75,
+   "to": 36.73,
+   "sid": 17,
+   "location": 2,
+   "content": "不能在原地进行一个坠落",
+   "music": 0
+  },
+  {
+   "from": 36.73,
+   "to": 39.07,
+   "sid": 18,
+   "location": 2,
+   "content": "向外横移转髋",
+   "music": 0
+  },
+  {
+   "from": 39.07,
+   "to": 42.9,
+   "sid": 19,
+   "location": 2,
+   "content": "把你的脚尖儿朝外打开",
+   "music": 0
+  },
+  {
+   "from": 42.9,
+   "to": 46.14,
+   "sid": 20,
+   "location": 2,
+   "content": "侧身幅度有架直接上步",
+   "music": 0
+  },
+  {
+   "from": 46.14,
+   "to": 48.12,
+   "sid": 21,
+   "location": 2,
+   "content": "这样我们的突破角度更好啊",
+   "music": 0
+  },
+  {
+   "from": 48.12,
+   "to": 49.94,
+   "sid": 22,
+   "location": 2,
+   "content": "提前拉回旋髋",
+   "music": 0
+  },
+  {
+   "from": 49.94,
+   "to": 51.56,
+   "sid": 23,
+   "location": 2,
+   "content": "加速上篮",
+   "music": 0
+  },
+  {
+   "from": 55.16,
+   "to": 58.67,
+   "sid": 24,
+   "location": 2,
+   "content": "对快不错",
+   "music": 0
+  },
+  {
+   "from": 58.67,
+   "to": 60.14,
+   "sid": 25,
+   "location": 2,
+   "content": "当你提前拉回以后",
+   "music": 0
+  },
+  {
+   "from": 60.14,
+   "to": 61.92,
+   "sid": 26,
+   "location": 2,
+   "content": "向后坐小跳上",
+   "music": 0
+  },
+  {
+   "from": 61.92,
+   "to": 64.41,
+   "sid": 27,
+   "location": 2,
+   "content": "对侧脚同样眼睛误导",
+   "music": 0
+  },
+  {
+   "from": 64.41,
+   "to": 67,
+   "sid": 28,
+   "location": 2,
+   "content": "管你上篮拉回",
+   "music": 0
+  },
+  {
+   "from": 67,
+   "to": 69.52,
+   "sid": 29,
+   "location": 2,
+   "content": "向后脚架带走",
+   "music": 0
+  },
+  {
+   "from": 72.22,
+   "to": 75.66,
+   "sid": 30,
+   "location": 2,
+   "content": "阿辉上步",
+   "music": 0
+  }
+ ]
+}

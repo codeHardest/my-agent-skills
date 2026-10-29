@@ -1,0 +1,684 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4-s16",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.58,
+   "sid": 1,
+   "location": 2,
+   "content": "这是训练投篮屈髋发力的黄金动作"
+  },
+  {
+   "from": 2.58,
+   "to": 6.08,
+   "sid": 2,
+   "location": 2,
+   "content": "这也是库里杜兰特赛前热身的必备环节"
+  },
+  {
+   "from": 8.839,
+   "to": 9.879,
+   "sid": 3,
+   "location": 2,
+   "content": "2015年"
+  },
+  {
+   "from": 9.879,
+   "to": 13.209,
+   "sid": 4,
+   "location": 2,
+   "content": "史蒂夫纳什成为了勇士队的球员发展顾问后"
+  },
+  {
+   "from": 13.209,
+   "to": 17.05,
+   "sid": 5,
+   "location": 2,
+   "content": "他把身巨宽单脚投篮训练教授给了库里与杜兰特"
+  },
+  {
+   "from": 17.05,
+   "to": 18.43,
+   "sid": 6,
+   "location": 2,
+   "content": "在上期的视频中"
+  },
+  {
+   "from": 18.43,
+   "to": 21.439,
+   "sid": 7,
+   "location": 2,
+   "content": "很多球友反馈找不到投篮屈髋的发力感"
+  },
+  {
+   "from": 21.439,
+   "to": 24.259,
+   "sid": 8,
+   "location": 2,
+   "content": "还有部分球友仍在使用错误的屈髋模式"
+  },
+  {
+   "from": 24.259,
+   "to": 27.18,
+   "sid": 9,
+   "location": 2,
+   "content": "把投篮时的屈髋做成弯腰撅屁股"
+  },
+  {
+   "from": 27.18,
+   "to": 28.71,
+   "sid": 10,
+   "location": 2,
+   "content": "这不但发力效率低"
+  },
+  {
+   "from": 28.71,
+   "to": 31.189,
+   "sid": 11,
+   "location": 2,
+   "content": "同时长期累积还存在伤病隐患"
+  },
+  {
+   "from": 31.189,
+   "to": 33.919,
+   "sid": 12,
+   "location": 2,
+   "content": "第一种是把屈髋降重心做成了弯腰"
+  },
+  {
+   "from": 33.919,
+   "to": 34.849,
+   "sid": 13,
+   "location": 2,
+   "content": "主动弯腰"
+  },
+  {
+   "from": 34.849,
+   "to": 36.499,
+   "sid": 14,
+   "location": 2,
+   "content": "躯干前倾来降重心"
+  },
+  {
+   "from": 39.109,
+   "to": 40.08,
+   "sid": 15,
+   "location": 2,
+   "content": "腰肌劳损"
+  },
+  {
+   "from": 40.08,
+   "to": 40.8,
+   "sid": 16,
+   "location": 2,
+   "content": "第二种"
+  },
+  {
+   "from": 40.8,
+   "to": 41.64,
+   "sid": 17,
+   "location": 2,
+   "content": "挺胸挺腰"
+  },
+  {
+   "from": 41.64,
+   "to": 42.51,
+   "sid": 18,
+   "location": 2,
+   "content": "反弓下背"
+  },
+  {
+   "from": 42.51,
+   "to": 44.55,
+   "sid": 19,
+   "location": 2,
+   "content": "主动撅屁股来降低重心"
+  },
+  {
+   "from": 44.55,
+   "to": 46.5,
+   "sid": 20,
+   "location": 2,
+   "content": "这样的模式屈髋幅度受限"
+  },
+  {
+   "from": 46.5,
+   "to": 48.12,
+   "sid": 21,
+   "location": 2,
+   "content": "会造成骨盆的前倾"
+  },
+  {
+   "from": 48.12,
+   "to": 49.41,
+   "sid": 22,
+   "location": 2,
+   "content": "腰椎过度弯曲"
+  },
+  {
+   "from": 49.41,
+   "to": 51.29,
+   "sid": 23,
+   "location": 2,
+   "content": "无法维持脊柱的中立位"
+  },
+  {
+   "from": 51.29,
+   "to": 52.07,
+   "sid": 24,
+   "location": 2,
+   "content": "在投篮时"
+  },
+  {
+   "from": 52.07,
+   "to": 55.07,
+   "sid": 25,
+   "location": 2,
+   "content": "正确的屈髋模式应该是臀部主动发力"
+  },
+  {
+   "from": 55.07,
+   "to": 55.85,
+   "sid": 26,
+   "location": 2,
+   "content": "向下做"
+  },
+  {
+   "from": 55.85,
+   "to": 57.569,
+   "sid": 27,
+   "location": 2,
+   "content": "带动小幅度的屈膝"
+  },
+  {
+   "from": 57.569,
+   "to": 60.179,
+   "sid": 28,
+   "location": 2,
+   "content": "带动躯干小幅度前倾以及下沉"
+  },
+  {
+   "from": 60.179,
+   "to": 61.589,
+   "sid": 29,
+   "location": 2,
+   "content": "同时腰背要挺直"
+  },
+  {
+   "from": 61.589,
+   "to": 63.3,
+   "sid": 30,
+   "location": 2,
+   "content": "维持脊柱的中立位"
+  },
+  {
+   "from": 68.22,
+   "to": 72.47,
+   "sid": 31,
+   "location": 2,
+   "content": "而身距宽单脚投篮正式训练投篮屈髋发力的黄金动作"
+  },
+  {
+   "from": 72.47,
+   "to": 74.04,
+   "sid": 32,
+   "location": 2,
+   "content": "同样适用于初学者"
+  },
+  {
+   "from": 74.04,
+   "to": 76.41,
+   "sid": 33,
+   "location": 2,
+   "content": "它不但能充分激活臀部肌肉群"
+  },
+  {
+   "from": 76.41,
+   "to": 79.71,
+   "sid": 34,
+   "location": 2,
+   "content": "同时能让你快速找到屈髋时臀部的发力感"
+  },
+  {
+   "from": 79.71,
+   "to": 83.98,
+   "sid": 35,
+   "location": 2,
+   "content": "在比赛中我们也能看到护理对单脚投篮技术的运用"
+  },
+  {
+   "from": 85.5,
+   "to": 86.3,
+   "sid": 36,
+   "location": 2,
+   "content": "最后进入"
+  },
+  {
+   "from": 86.3,
+   "to": 88.01,
+   "sid": 37,
+   "location": 2,
+   "content": "那是本人的教学时间"
+  },
+  {
+   "from": 88.01,
+   "to": 89.39,
+   "sid": 38,
+   "location": 2,
+   "content": "shoot one way it"
+  },
+  {
+   "from": 89.39,
+   "to": 89.88,
+   "sid": 39,
+   "location": 2,
+   "content": "ok"
+  },
+  {
+   "from": 89.88,
+   "to": 91.29,
+   "sid": 40,
+   "location": 2,
+   "content": "i want you to get the ball here"
+  },
+  {
+   "from": 91.29,
+   "to": 94.11,
+   "sid": 41,
+   "location": 2,
+   "content": "so the same thing apply even though you're on one leg"
+  },
+  {
+   "from": 94.11,
+   "to": 96.83,
+   "sid": 42,
+   "location": 2,
+   "content": "i want to see flat low back chesses up"
+  },
+  {
+   "from": 99.23,
+   "to": 100.19,
+   "sid": 43,
+   "location": 2,
+   "content": "but you're on one leg"
+  },
+  {
+   "from": 100.19,
+   "to": 100.49,
+   "sid": 44,
+   "location": 2,
+   "content": "okay"
+  },
+  {
+   "from": 100.49,
+   "to": 101.84,
+   "sid": 45,
+   "location": 2,
+   "content": "see your knees swimming"
+  },
+  {
+   "from": 101.84,
+   "to": 102.38,
+   "sid": 46,
+   "location": 2,
+   "content": "yeah"
+  },
+  {
+   "from": 102.38,
+   "to": 104.15,
+   "sid": 47,
+   "location": 2,
+   "content": "that just means that this guy"
+  },
+  {
+   "from": 104.15,
+   "to": 105.62,
+   "sid": 48,
+   "location": 2,
+   "content": "this glue"
+  },
+  {
+   "from": 105.62,
+   "to": 107.64,
+   "sid": 49,
+   "location": 2,
+   "content": "i did piece of fire"
+  },
+  {
+   "from": 107.64,
+   "to": 108.6,
+   "sid": 50,
+   "location": 2,
+   "content": "more get stronger"
+  },
+  {
+   "from": 108.6,
+   "to": 109.5,
+   "sid": 51,
+   "location": 2,
+   "content": "get more aware"
+  },
+  {
+   "from": 111.24,
+   "to": 112.38,
+   "sid": 52,
+   "location": 2,
+   "content": "so when the knee swimming"
+  },
+  {
+   "from": 112.38,
+   "to": 114.3,
+   "sid": 53,
+   "location": 2,
+   "content": "this isn't completely turned on"
+  },
+  {
+   "from": 114.3,
+   "to": 115.83,
+   "sid": 54,
+   "location": 2,
+   "content": "or or strong stable"
+  },
+  {
+   "from": 115.83,
+   "to": 119.48,
+   "sid": 55,
+   "location": 2,
+   "content": "so when that quiet down that shows that you've woken that"
+  },
+  {
+   "from": 119.48,
+   "to": 120.8,
+   "sid": 56,
+   "location": 2,
+   "content": "up and strong stable"
+  },
+  {
+   "from": 120.8,
+   "to": 121.16,
+   "sid": 57,
+   "location": 2,
+   "content": "okay"
+  },
+  {
+   "from": 121.16,
+   "to": 122,
+   "sid": 58,
+   "location": 2,
+   "content": "that's just a cue"
+  },
+  {
+   "from": 122,
+   "to": 122.12,
+   "sid": 59,
+   "location": 2,
+   "content": "okay"
+  },
+  {
+   "from": 122.12,
+   "to": 123.34,
+   "sid": 60,
+   "location": 2,
+   "content": "let's get down again"
+  },
+  {
+   "from": 123.4,
+   "to": 124.72,
+   "sid": 61,
+   "location": 2,
+   "content": "so get good"
+  },
+  {
+   "from": 124.72,
+   "to": 126.94,
+   "sid": 62,
+   "location": 2,
+   "content": "good position is up there"
+  },
+  {
+   "from": 126.94,
+   "to": 132.31,
+   "sid": 63,
+   "location": 2,
+   "content": "can you drive into the ground and shoot it good"
+  },
+  {
+   "from": 132.31,
+   "to": 134.08,
+   "sid": 64,
+   "location": 2,
+   "content": "so let's come inside now"
+  },
+  {
+   "from": 134.08,
+   "to": 134.8,
+   "sid": 65,
+   "location": 2,
+   "content": "yes"
+  },
+  {
+   "from": 134.8,
+   "to": 135.16,
+   "sid": 66,
+   "location": 2,
+   "content": "right there"
+  },
+  {
+   "from": 135.16,
+   "to": 137,
+   "sid": 67,
+   "location": 2,
+   "content": "i'll drive that foot into the ground"
+  },
+  {
+   "from": 138.56,
+   "to": 140.18,
+   "sid": 68,
+   "location": 2,
+   "content": "you can take that"
+  },
+  {
+   "from": 141.53,
+   "to": 142.1,
+   "sid": 69,
+   "location": 2,
+   "content": "yeah"
+  },
+  {
+   "from": 142.1,
+   "to": 143.18,
+   "sid": 70,
+   "location": 2,
+   "content": "so that niche again"
+  },
+  {
+   "from": 143.18,
+   "to": 146.74,
+   "sid": 71,
+   "location": 2,
+   "content": "so the what i want you to feel is this muscle"
+  },
+  {
+   "from": 146.74,
+   "to": 150.5,
+   "sid": 72,
+   "location": 2,
+   "content": "pushing that foot into the ground to create energy and stability"
+  },
+  {
+   "from": 150.619,
+   "to": 154.16,
+   "sid": 73,
+   "location": 2,
+   "content": "and then you be able to operate up easier"
+  },
+  {
+   "from": 157.259,
+   "to": 160.699,
+   "sid": 74,
+   "location": 2,
+   "content": "drive drive this foot into the ground"
+  },
+  {
+   "from": 160.699,
+   "to": 162.51,
+   "sid": 75,
+   "location": 2,
+   "content": "let's get down"
+  },
+  {
+   "from": 163.09,
+   "to": 164.49,
+   "sid": 76,
+   "location": 2,
+   "content": "good good"
+  },
+  {
+   "from": 164.49,
+   "to": 165.81,
+   "sid": 77,
+   "location": 2,
+   "content": "and you see it swiming a little bit"
+  },
+  {
+   "from": 165.81,
+   "to": 166.23,
+   "sid": 78,
+   "location": 2,
+   "content": "that's all right"
+  },
+  {
+   "from": 166.23,
+   "to": 168.36,
+   "sid": 79,
+   "location": 2,
+   "content": "you're waking up now drive up"
+  },
+  {
+   "from": 169.519,
+   "to": 171.019,
+   "sid": 80,
+   "location": 2,
+   "content": "so rounding"
+  },
+  {
+   "from": 171.019,
+   "to": 177.54,
+   "sid": 81,
+   "location": 2,
+   "content": "just a touch a touch better now drive up"
+  },
+  {
+   "from": 177.64,
+   "to": 181,
+   "sid": 82,
+   "location": 2,
+   "content": "you just want to make sure that you take this position"
+  },
+  {
+   "from": 181,
+   "to": 181.6,
+   "sid": 83,
+   "location": 2,
+   "content": "this flat"
+  },
+  {
+   "from": 181.6,
+   "to": 182.98,
+   "sid": 84,
+   "location": 2,
+   "content": "neutral spine is bound"
+  },
+  {
+   "from": 182.98,
+   "to": 183.94,
+   "sid": 85,
+   "location": 2,
+   "content": "basically a shift"
+  },
+  {
+   "from": 183.94,
+   "to": 185.37,
+   "sid": 86,
+   "location": 2,
+   "content": "it over the one"
+  },
+  {
+   "from": 185.37,
+   "to": 186.45,
+   "sid": 87,
+   "location": 2,
+   "content": "you don't want to get here"
+  },
+  {
+   "from": 186.45,
+   "to": 187.64,
+   "sid": 88,
+   "location": 2,
+   "content": "you want to get here"
+  },
+  {
+   "from": 187.66,
+   "to": 188.44,
+   "sid": 89,
+   "location": 2,
+   "content": "we're here"
+  },
+  {
+   "from": 188.44,
+   "to": 190.9,
+   "sid": 90,
+   "location": 2,
+   "content": "you're gonna be a stay in that position"
+  },
+  {
+   "from": 190.9,
+   "to": 191.5,
+   "sid": 91,
+   "location": 2,
+   "content": "right here"
+  },
+  {
+   "from": 191.5,
+   "to": 192.34,
+   "sid": 92,
+   "location": 2,
+   "content": "it's nice and flat"
+  },
+  {
+   "from": 192.34,
+   "to": 195.4,
+   "sid": 93,
+   "location": 2,
+   "content": "but you're relaxed up here"
+  },
+  {
+   "from": 196.04,
+   "to": 197,
+   "sid": 94,
+   "location": 2,
+   "content": "it's pretty good"
+  },
+  {
+   "from": 197,
+   "to": 198.14,
+   "sid": 95,
+   "location": 2,
+   "content": "spring up"
+  },
+  {
+   "from": 199.46,
+   "to": 199.76,
+   "sid": 96,
+   "location": 2,
+   "content": "good"
+  }
+ ]
+}

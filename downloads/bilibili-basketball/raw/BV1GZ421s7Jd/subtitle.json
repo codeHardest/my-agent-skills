@@ -1,0 +1,68 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 9.72,
+   "to": 11.82,
+   "sid": 1,
+   "location": 2,
+   "content": "抓他的",
+   "music": 0
+  },
+  {
+   "from": 17.62,
+   "to": 19.17,
+   "sid": 2,
+   "location": 2,
+   "content": "你现在是这样子",
+   "music": 0
+  },
+  {
+   "from": 19.17,
+   "to": 24.12,
+   "sid": 3,
+   "location": 2,
+   "content": "叫我们的踩点转脚往前蹬",
+   "music": 0.6379309794887102
+  },
+  {
+   "from": 24.12,
+   "to": 26.04,
+   "sid": 4,
+   "location": 2,
+   "content": "♪ 脚尖到这边去 ♪",
+   "music": 0.9999998863636493
+  },
+  {
+   "from": 26.04,
+   "to": 28.58,
+   "sid": 5,
+   "location": 2,
+   "content": "他后腿要超过我的",
+   "music": 0.6909090280991798
+  },
+  {
+   "from": 36.38,
+   "to": 38.99,
+   "sid": 6,
+   "location": 2,
+   "content": "♪ 这下的快慢 ♪",
+   "music": 0.9999998936170327
+  },
+  {
+   "from": 38.99,
+   "to": 40.62,
+   "sid": 7,
+   "location": 2,
+   "content": "这一下再去选择快",
+   "music": 0
+  }
+ ]
+}

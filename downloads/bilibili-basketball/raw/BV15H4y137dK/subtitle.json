@@ -1,0 +1,156 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 3.58,
+   "to": 4.46,
+   "sid": 1,
+   "location": 2,
+   "content": "刚才的问题是",
+   "music": 0
+  },
+  {
+   "from": 4.46,
+   "to": 7.78,
+   "sid": 2,
+   "location": 2,
+   "content": "因为你的球和你突破的方向不在同一个频道上",
+   "music": 0
+  },
+  {
+   "from": 7.78,
+   "to": 9,
+   "sid": 3,
+   "location": 2,
+   "content": "走远离的身体方向",
+   "music": 0
+  },
+  {
+   "from": 9,
+   "to": 10.78,
+   "sid": 4,
+   "location": 2,
+   "content": "球应该在我的腰间和路线",
+   "music": 0
+  },
+  {
+   "from": 10.78,
+   "to": 12.879,
+   "sid": 5,
+   "location": 2,
+   "content": "跟身体路线是一个方向",
+   "music": 0.3428571183673489
+  },
+  {
+   "from": 17.5,
+   "to": 20.48,
+   "sid": 6,
+   "location": 2,
+   "content": "哎底线问题在于重心太高",
+   "music": 0
+  },
+  {
+   "from": 20.48,
+   "to": 21.66,
+   "sid": 7,
+   "location": 2,
+   "content": "不能把球塞过去",
+   "music": 0
+  },
+  {
+   "from": 21.66,
+   "to": 22.74,
+   "sid": 8,
+   "location": 2,
+   "content": "只要把球塞过去",
+   "music": 0
+  },
+  {
+   "from": 22.74,
+   "to": 23.98,
+   "sid": 9,
+   "location": 2,
+   "content": "你重心就会降下来",
+   "music": 0
+  },
+  {
+   "from": 23.98,
+   "to": 26.53,
+   "sid": 10,
+   "location": 2,
+   "content": "球也可以很正常过去",
+   "music": 0
+  },
+  {
+   "from": 32.859,
+   "to": 34.299,
+   "sid": 11,
+   "location": 2,
+   "content": "你做完胯下的时候",
+   "music": 0
+  },
+  {
+   "from": 34.299,
+   "to": 35.459,
+   "sid": 12,
+   "location": 2,
+   "content": "你的髋是朝低调",
+   "music": 0
+  },
+  {
+   "from": 35.459,
+   "to": 37.179,
+   "sid": 13,
+   "location": 2,
+   "content": "所以你突破路线是一条弧度",
+   "music": 0
+  },
+  {
+   "from": 37.179,
+   "to": 38.479,
+   "sid": 14,
+   "location": 2,
+   "content": "做完胯下的时候",
+   "music": 0
+  },
+  {
+   "from": 38.479,
+   "to": 39.539,
+   "sid": 15,
+   "location": 2,
+   "content": "宽还是朝前",
+   "music": 0
+  },
+  {
+   "from": 39.539,
+   "to": 41.209,
+   "sid": 16,
+   "location": 2,
+   "content": "然后走一条直线",
+   "music": 0
+  },
+  {
+   "from": 46.72,
+   "to": 49.1,
+   "sid": 17,
+   "location": 2,
+   "content": "你现在问题是一球落点太过于后面",
+   "music": 0
+  },
+  {
+   "from": 49.1,
+   "to": 51.4,
+   "sid": 18,
+   "location": 2,
+   "content": "应该在前腿大腿的下面",
+   "music": 0
+  }
+ ]
+}

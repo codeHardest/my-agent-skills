@@ -1,0 +1,1844 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.64,
+   "sid": 1,
+   "location": 2,
+   "content": "上一期视频我讲了如何提高你的投篮能力",
+   "music": 0
+  },
+  {
+   "from": 2.64,
+   "to": 3.6,
+   "sid": 2,
+   "location": 2,
+   "content": "在实战当中",
+   "music": 0
+  },
+  {
+   "from": 3.6,
+   "to": 5.4,
+   "sid": 3,
+   "location": 2,
+   "content": "那这一期有粉丝私信我",
+   "music": 0
+  },
+  {
+   "from": 5.4,
+   "to": 6.48,
+   "sid": 4,
+   "location": 2,
+   "content": "或者在底下留言",
+   "music": 0
+  },
+  {
+   "from": 6.48,
+   "to": 9.06,
+   "sid": 5,
+   "location": 2,
+   "content": "想听一下投篮姿势该如何调整",
+   "music": 0
+  },
+  {
+   "from": 9.06,
+   "to": 12.08,
+   "sid": 6,
+   "location": 2,
+   "content": "那么今天我就给大家详细讲解一下你的姿势",
+   "music": 0
+  },
+  {
+   "from": 12.08,
+   "to": 12.98,
+   "sid": 7,
+   "location": 2,
+   "content": "该如何去调整",
+   "music": 0
+  },
+  {
+   "from": 12.98,
+   "to": 14.12,
+   "sid": 8,
+   "location": 2,
+   "content": "关于投篮姿势问题",
+   "music": 0
+  },
+  {
+   "from": 14.12,
+   "to": 14.78,
+   "sid": 9,
+   "location": 2,
+   "content": "我们要注意",
+   "music": 0
+  },
+  {
+   "from": 14.78,
+   "to": 16.13,
+   "sid": 10,
+   "location": 2,
+   "content": "如果球要进框",
+   "music": 0
+  },
+  {
+   "from": 16.13,
+   "to": 17.66,
+   "sid": 11,
+   "location": 2,
+   "content": "首先是方向",
+   "music": 0
+  },
+  {
+   "from": 17.66,
+   "to": 19.28,
+   "sid": 12,
+   "location": 2,
+   "content": "你有了正确的方向",
+   "music": 0
+  },
+  {
+   "from": 19.28,
+   "to": 22,
+   "sid": 13,
+   "location": 2,
+   "content": "不偏不左不右还好进球",
+   "music": 0
+  },
+  {
+   "from": 22,
+   "to": 23.5,
+   "sid": 14,
+   "location": 2,
+   "content": "如果你方向都没对",
+   "music": 0
+  },
+  {
+   "from": 23.5,
+   "to": 26.38,
+   "sid": 15,
+   "location": 2,
+   "content": "你的力度就算完美也不会进框",
+   "music": 0
+  },
+  {
+   "from": 26.38,
+   "to": 28.48,
+   "sid": 16,
+   "location": 2,
+   "content": "所以关于方向的调整",
+   "music": 0
+  },
+  {
+   "from": 28.48,
+   "to": 29.44,
+   "sid": 17,
+   "location": 2,
+   "content": "我有几点要说",
+   "music": 0
+  },
+  {
+   "from": 29.44,
+   "to": 30.94,
+   "sid": 18,
+   "location": 2,
+   "content": "第一最好调整方向",
+   "music": 0
+  },
+  {
+   "from": 30.94,
+   "to": 32.74,
+   "sid": 19,
+   "location": 2,
+   "content": "控制方向的一些细节",
+   "music": 0
+  },
+  {
+   "from": 32.74,
+   "to": 35.58,
+   "sid": 20,
+   "location": 2,
+   "content": "是你的身体最好正对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 35.58,
+   "to": 37.26,
+   "sid": 21,
+   "location": 2,
+   "content": "根据自己的关节活动度",
+   "music": 0
+  },
+  {
+   "from": 37.26,
+   "to": 38.97,
+   "sid": 22,
+   "location": 2,
+   "content": "跟自己的身体状况的不一样",
+   "music": 0
+  },
+  {
+   "from": 38.97,
+   "to": 40.239,
+   "sid": 23,
+   "location": 2,
+   "content": "会侧身一点",
+   "music": 0
+  },
+  {
+   "from": 40.239,
+   "to": 41.199,
+   "sid": 24,
+   "location": 2,
+   "content": "这个也不要紧",
+   "music": 0
+  },
+  {
+   "from": 41.199,
+   "to": 42.579,
+   "sid": 25,
+   "location": 2,
+   "content": "但是不要太侧了",
+   "music": 0
+  },
+  {
+   "from": 42.579,
+   "to": 45.009,
+   "sid": 26,
+   "location": 2,
+   "content": "太侧了会影响你的发力和方向",
+   "music": 0
+  },
+  {
+   "from": 45.009,
+   "to": 48.73,
+   "sid": 27,
+   "location": 2,
+   "content": "教练建议最好的是养成一个良好的习惯",
+   "music": 0
+  },
+  {
+   "from": 48.73,
+   "to": 50.08,
+   "sid": 28,
+   "location": 2,
+   "content": "在平时的训练当中",
+   "music": 0
+  },
+  {
+   "from": 50.08,
+   "to": 52.66,
+   "sid": 29,
+   "location": 2,
+   "content": "脚尖膝盖髋关节都正对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 52.66,
+   "to": 53.62,
+   "sid": 30,
+   "location": 2,
+   "content": "如果你觉得不舒服",
+   "music": 0
+  },
+  {
+   "from": 53.62,
+   "to": 54.58,
+   "sid": 31,
+   "location": 2,
+   "content": "如果你觉得有点卡顿",
+   "music": 0
+  },
+  {
+   "from": 54.58,
+   "to": 55.68,
+   "sid": 32,
+   "location": 2,
+   "content": "你可以稍微偏一点",
+   "music": 0
+  },
+  {
+   "from": 55.68,
+   "to": 58.56,
+   "sid": 33,
+   "location": 2,
+   "content": "甚至喜欢一前脚后脚前脚后",
+   "music": 0
+  },
+  {
+   "from": 58.56,
+   "to": 59.52,
+   "sid": 34,
+   "location": 2,
+   "content": "这个也不要紧啊",
+   "music": 0
+  },
+  {
+   "from": 59.52,
+   "to": 60.54,
+   "sid": 35,
+   "location": 2,
+   "content": "这个也是非常正常",
+   "music": 0
+  },
+  {
+   "from": 60.54,
+   "to": 61.32,
+   "sid": 36,
+   "location": 2,
+   "content": "也是非常好的",
+   "music": 0
+  },
+  {
+   "from": 61.32,
+   "to": 62.58,
+   "sid": 37,
+   "location": 2,
+   "content": "右脚前左脚后",
+   "music": 0
+  },
+  {
+   "from": 62.58,
+   "to": 63.6,
+   "sid": 38,
+   "location": 2,
+   "content": "如果他是右手球员的话",
+   "music": 0
+  },
+  {
+   "from": 63.6,
+   "to": 64.5,
+   "sid": 39,
+   "location": 2,
+   "content": "如果是左手球员",
+   "music": 0
+  },
+  {
+   "from": 64.5,
+   "to": 67.36,
+   "sid": 40,
+   "location": 2,
+   "content": "可以左脚前右脚后这样去做投篮",
+   "music": 0
+  },
+  {
+   "from": 67.36,
+   "to": 69.16,
+   "sid": 41,
+   "location": 2,
+   "content": "那大的方向是不变的",
+   "music": 0
+  },
+  {
+   "from": 69.16,
+   "to": 73.4,
+   "sid": 42,
+   "location": 2,
+   "content": "脚尖膝盖和髋关节都正对着篮筐啊",
+   "music": 0
+  },
+  {
+   "from": 73.4,
+   "to": 75.08,
+   "sid": 43,
+   "location": 2,
+   "content": "关于方向的调整的练习",
+   "music": 0
+  },
+  {
+   "from": 75.08,
+   "to": 76.4,
+   "sid": 44,
+   "location": 2,
+   "content": "我现在可以右手运球",
+   "music": 0
+  },
+  {
+   "from": 76.4,
+   "to": 80.98,
+   "sid": 45,
+   "location": 2,
+   "content": "脚尖宽和我的胸膝盖都正对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 80.98,
+   "to": 82,
+   "sid": 46,
+   "location": 2,
+   "content": "右手运球",
+   "music": 0
+  },
+  {
+   "from": 82,
+   "to": 82.62,
+   "sid": 47,
+   "location": 2,
+   "content": "第一步",
+   "music": 0
+  },
+  {
+   "from": 82.62,
+   "to": 84.6,
+   "sid": 48,
+   "location": 2,
+   "content": "我在合球的时候下蹲",
+   "music": 0
+  },
+  {
+   "from": 84.6,
+   "to": 89.2,
+   "sid": 49,
+   "location": 2,
+   "content": "然后举球的时候蹬地去完成空心入框",
+   "music": 0
+  },
+  {
+   "from": 90.22,
+   "to": 91.87,
+   "sid": 50,
+   "location": 2,
+   "content": "第二个我们开始左手运球",
+   "music": 0
+  },
+  {
+   "from": 91.87,
+   "to": 92.38,
+   "sid": 51,
+   "location": 2,
+   "content": "合球",
+   "music": 0
+  },
+  {
+   "from": 92.38,
+   "to": 94.34,
+   "sid": 52,
+   "location": 2,
+   "content": "下蹲举球蹬地",
+   "music": 0
+  },
+  {
+   "from": 94.34,
+   "to": 95.9,
+   "sid": 53,
+   "location": 2,
+   "content": "完成空心入框",
+   "music": 0
+  },
+  {
+   "from": 95.9,
+   "to": 98.6,
+   "sid": 54,
+   "location": 2,
+   "content": "好反复左右进十个球",
+   "music": 0
+  },
+  {
+   "from": 98.6,
+   "to": 101.23,
+   "sid": 55,
+   "location": 2,
+   "content": "等于说右肘右肘的合球",
+   "music": 0
+  },
+  {
+   "from": 101.23,
+   "to": 104,
+   "sid": 56,
+   "location": 2,
+   "content": "下蹲进十个",
+   "music": 0
+  },
+  {
+   "from": 104,
+   "to": 106.7,
+   "sid": 57,
+   "location": 2,
+   "content": "左手的运球合球",
+   "music": 0
+  },
+  {
+   "from": 106.7,
+   "to": 109.19,
+   "sid": 58,
+   "location": 2,
+   "content": "下蹲蹬地举球近十个",
+   "music": 0
+  },
+  {
+   "from": 109.19,
+   "to": 111.88,
+   "sid": 59,
+   "location": 2,
+   "content": "完成方向调整的练习",
+   "music": 0
+  },
+  {
+   "from": 111.98,
+   "to": 113.08,
+   "sid": 60,
+   "location": 2,
+   "content": "再进阶一点",
+   "music": 0
+  },
+  {
+   "from": 113.08,
+   "to": 114.61,
+   "sid": 61,
+   "location": 2,
+   "content": "我可以侧对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 114.61,
+   "to": 116.2,
+   "sid": 62,
+   "location": 2,
+   "content": "然后做一次运球",
+   "music": 0
+  },
+  {
+   "from": 116.2,
+   "to": 119.46,
+   "sid": 63,
+   "location": 2,
+   "content": "上步也是训练你脚尖",
+   "music": 0
+  },
+  {
+   "from": 119.46,
+   "to": 122.7,
+   "sid": 64,
+   "location": 2,
+   "content": "膝盖和髋及时调整面对篮筐的能力",
+   "music": 0
+  },
+  {
+   "from": 122.7,
+   "to": 125.2,
+   "sid": 65,
+   "location": 2,
+   "content": "在实战当中的很多情况其实也是这样的",
+   "music": 0
+  },
+  {
+   "from": 125.2,
+   "to": 128.41,
+   "sid": 66,
+   "location": 2,
+   "content": "我在45度的接球的时候都会发生这种情况",
+   "music": 0
+  },
+  {
+   "from": 128.41,
+   "to": 129.73,
+   "sid": 67,
+   "location": 2,
+   "content": "所以我现在左手运球",
+   "music": 0
+  },
+  {
+   "from": 129.73,
+   "to": 131.72,
+   "sid": 68,
+   "location": 2,
+   "content": "然后上步去合球",
+   "music": 0
+  },
+  {
+   "from": 131.72,
+   "to": 133.1,
+   "sid": 69,
+   "location": 2,
+   "content": "同时调整你的宽",
+   "music": 0
+  },
+  {
+   "from": 133.1,
+   "to": 135.03,
+   "sid": 70,
+   "location": 2,
+   "content": "脚尖正对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 135.91,
+   "to": 138.93,
+   "sid": 71,
+   "location": 2,
+   "content": "再去完成空心入框好",
+   "music": 0
+  },
+  {
+   "from": 138.93,
+   "to": 140.1,
+   "sid": 72,
+   "location": 2,
+   "content": "如果没有空心",
+   "music": 0
+  },
+  {
+   "from": 140.1,
+   "to": 142.74,
+   "sid": 73,
+   "location": 2,
+   "content": "我们就尽量去完成空心入框",
+   "music": 0
+  },
+  {
+   "from": 142.74,
+   "to": 146.04,
+   "sid": 74,
+   "location": 2,
+   "content": "上步转好",
+   "music": 0
+  },
+  {
+   "from": 146.04,
+   "to": 147.06,
+   "sid": 75,
+   "location": 2,
+   "content": "关于方向调整",
+   "music": 0
+  },
+  {
+   "from": 147.06,
+   "to": 147.86,
+   "sid": 76,
+   "location": 2,
+   "content": "还有一个重点",
+   "music": 0
+  },
+  {
+   "from": 147.86,
+   "to": 150.38,
+   "sid": 77,
+   "location": 2,
+   "content": "之前我讲的是脚下的脚步该如何调整",
+   "music": 0
+  },
+  {
+   "from": 150.38,
+   "to": 151.61,
+   "sid": 78,
+   "location": 2,
+   "content": "你的宽该如何调整",
+   "music": 0
+  },
+  {
+   "from": 151.61,
+   "to": 153.41,
+   "sid": 79,
+   "location": 2,
+   "content": "接下来我要讲手腕的动作",
+   "music": 0
+  },
+  {
+   "from": 153.41,
+   "to": 155.8,
+   "sid": 80,
+   "location": 2,
+   "content": "首先我要强调的是关于方向",
+   "music": 0
+  },
+  {
+   "from": 155.8,
+   "to": 157.36,
+   "sid": 81,
+   "location": 2,
+   "content": "第一你要放松",
+   "music": 0
+  },
+  {
+   "from": 157.36,
+   "to": 158.62,
+   "sid": 82,
+   "location": 2,
+   "content": "千万不要僵硬",
+   "music": 0
+  },
+  {
+   "from": 158.62,
+   "to": 160.6,
+   "sid": 83,
+   "location": 2,
+   "content": "如果你一旦上半身很僵硬",
+   "music": 0
+  },
+  {
+   "from": 160.6,
+   "to": 161.8,
+   "sid": 84,
+   "location": 2,
+   "content": "手指手腕很僵硬",
+   "music": 0
+  },
+  {
+   "from": 161.8,
+   "to": 164.519,
+   "sid": 85,
+   "location": 2,
+   "content": "脑袋你想多了也不容易去进球",
+   "music": 0
+  },
+  {
+   "from": 164.519,
+   "to": 167.159,
+   "sid": 86,
+   "location": 2,
+   "content": "所以投篮最主要是放松和柔和",
+   "music": 0
+  },
+  {
+   "from": 167.159,
+   "to": 168.479,
+   "sid": 87,
+   "location": 2,
+   "content": "这一点大家一定要记住",
+   "music": 0
+  },
+  {
+   "from": 168.479,
+   "to": 170.219,
+   "sid": 88,
+   "location": 2,
+   "content": "那在这个的前提之下",
+   "music": 0
+  },
+  {
+   "from": 170.219,
+   "to": 172.499,
+   "sid": 89,
+   "location": 2,
+   "content": "我希望你在举球的时候",
+   "music": 0
+  },
+  {
+   "from": 172.499,
+   "to": 175,
+   "sid": 90,
+   "location": 2,
+   "content": "手肘我是要正对着篮筐啊",
+   "music": 0
+  },
+  {
+   "from": 175,
+   "to": 176.62,
+   "sid": 91,
+   "location": 2,
+   "content": "如果你做不到正对左右",
+   "music": 0
+  },
+  {
+   "from": 176.62,
+   "to": 177.88,
+   "sid": 92,
+   "location": 2,
+   "content": "不要歪的太明显",
+   "music": 0
+  },
+  {
+   "from": 177.88,
+   "to": 178.48,
+   "sid": 93,
+   "location": 2,
+   "content": "就很好",
+   "music": 0
+  },
+  {
+   "from": 178.48,
+   "to": 179.74,
+   "sid": 94,
+   "location": 2,
+   "content": "很多球员是这样去投篮",
+   "music": 0
+  },
+  {
+   "from": 179.74,
+   "to": 182.5,
+   "sid": 95,
+   "location": 2,
+   "content": "那你想你这么出手的方向能正吗",
+   "music": 0
+  },
+  {
+   "from": 182.5,
+   "to": 183.04,
+   "sid": 96,
+   "location": 2,
+   "content": "对不对",
+   "music": 0
+  },
+  {
+   "from": 183.04,
+   "to": 184.3,
+   "sid": 97,
+   "location": 2,
+   "content": "有的球员还是内扣",
+   "music": 0
+  },
+  {
+   "from": 184.3,
+   "to": 186.68,
+   "sid": 98,
+   "location": 2,
+   "content": "这样的话其实你也不太舒服",
+   "music": 0
+  },
+  {
+   "from": 186.68,
+   "to": 190.13,
+   "sid": 99,
+   "location": 2,
+   "content": "所以我建议的是手肘手肘",
+   "music": 0
+  },
+  {
+   "from": 190.13,
+   "to": 194.81,
+   "sid": 100,
+   "location": 2,
+   "content": "整个手掌心肘关节是最主控方向的",
+   "music": 0
+  },
+  {
+   "from": 194.81,
+   "to": 195.98,
+   "sid": 101,
+   "location": 2,
+   "content": "要正对着篮筐",
+   "music": 0
+  },
+  {
+   "from": 195.98,
+   "to": 198.83,
+   "sid": 102,
+   "location": 2,
+   "content": "也就是说要正对着你投篮的",
+   "music": 0
+  },
+  {
+   "from": 198.83,
+   "to": 200.69,
+   "sid": 103,
+   "location": 2,
+   "content": "篮筐的正正中间的点",
+   "music": 0
+  },
+  {
+   "from": 200.69,
+   "to": 201.68,
+   "sid": 104,
+   "location": 2,
+   "content": "如果你在45度",
+   "music": 0
+  },
+  {
+   "from": 201.68,
+   "to": 203.81,
+   "sid": 105,
+   "location": 2,
+   "content": "那肯定是这样去正对篮筐",
+   "music": 0
+  },
+  {
+   "from": 203.81,
+   "to": 204.9,
+   "sid": 106,
+   "location": 2,
+   "content": "不要歪",
+   "music": 0
+  },
+  {
+   "from": 204.9,
+   "to": 205.92,
+   "sid": 107,
+   "location": 2,
+   "content": "也不要内扣",
+   "music": 0
+  },
+  {
+   "from": 205.92,
+   "to": 206.88,
+   "sid": 108,
+   "location": 2,
+   "content": "这个是最重要的",
+   "music": 0
+  },
+  {
+   "from": 206.88,
+   "to": 208.08,
+   "sid": 109,
+   "location": 2,
+   "content": "第二点最重要的",
+   "music": 0
+  },
+  {
+   "from": 208.08,
+   "to": 210.66,
+   "sid": 110,
+   "location": 2,
+   "content": "如果你的关节活动度受限",
+   "music": 0
+  },
+  {
+   "from": 210.66,
+   "to": 212.22,
+   "sid": 111,
+   "location": 2,
+   "content": "你手肘对着篮筐的时候",
+   "music": 0
+  },
+  {
+   "from": 212.22,
+   "to": 213.96,
+   "sid": 112,
+   "location": 2,
+   "content": "你的身体发生很别扭",
+   "music": 0
+  },
+  {
+   "from": 213.96,
+   "to": 216.98,
+   "sid": 113,
+   "location": 2,
+   "content": "那我建议你在手肘对篮筐的时候",
+   "music": 0
+  },
+  {
+   "from": 216.98,
+   "to": 218.93,
+   "sid": 114,
+   "location": 2,
+   "content": "你前脚可以往前一点",
+   "music": 0
+  },
+  {
+   "from": 218.93,
+   "to": 222.04,
+   "sid": 115,
+   "location": 2,
+   "content": "左脚可以往后一点去调整这个站姿",
+   "music": 0
+  },
+  {
+   "from": 222.04,
+   "to": 225.46,
+   "sid": 116,
+   "location": 2,
+   "content": "到你舒服的投篮发力的方式就很好",
+   "music": 0
+  },
+  {
+   "from": 225.46,
+   "to": 229.06,
+   "sid": 117,
+   "location": 2,
+   "content": "有的这样两个脚平行站",
+   "music": 0
+  },
+  {
+   "from": 229.06,
+   "to": 231.1,
+   "sid": 118,
+   "location": 2,
+   "content": "中椎的活动度会比较好的",
+   "music": 0
+  },
+  {
+   "from": 231.1,
+   "to": 231.94,
+   "sid": 119,
+   "location": 2,
+   "content": "这种他很舒服",
+   "music": 0
+  },
+  {
+   "from": 231.94,
+   "to": 232.42,
+   "sid": 120,
+   "location": 2,
+   "content": "那没问题",
+   "music": 0
+  },
+  {
+   "from": 232.42,
+   "to": 233.36,
+   "sid": 121,
+   "location": 2,
+   "content": "如果你不舒服",
+   "music": 0
+  },
+  {
+   "from": 233.36,
+   "to": 234.62,
+   "sid": 122,
+   "location": 2,
+   "content": "觉得核心绷得很紧",
+   "music": 0
+  },
+  {
+   "from": 234.62,
+   "to": 235.4,
+   "sid": 123,
+   "location": 2,
+   "content": "很别扭",
+   "music": 0
+  },
+  {
+   "from": 235.4,
+   "to": 239.24,
+   "sid": 124,
+   "location": 2,
+   "content": "那你可以是右脚前左脚后",
+   "music": 0
+  },
+  {
+   "from": 239.24,
+   "to": 242.62,
+   "sid": 125,
+   "location": 2,
+   "content": "或者或者你的髋关节往这边转一点",
+   "music": 0
+  },
+  {
+   "from": 242.62,
+   "to": 243.34,
+   "sid": 126,
+   "location": 2,
+   "content": "都可以",
+   "music": 0
+  },
+  {
+   "from": 243.34,
+   "to": 245.14,
+   "sid": 127,
+   "location": 2,
+   "content": "以这种方式去完成投篮",
+   "music": 0
+  },
+  {
+   "from": 245.14,
+   "to": 248.34,
+   "sid": 128,
+   "location": 2,
+   "content": "但重点我强调的是跟刚才的原则是一样的",
+   "music": 0
+  },
+  {
+   "from": 248.34,
+   "to": 253.52,
+   "sid": 129,
+   "location": 2,
+   "content": "手肘正对着篮筐去完成波万的出手",
+   "music": 0
+  },
+  {
+   "from": 253.86,
+   "to": 255.68,
+   "sid": 130,
+   "location": 2,
+   "content": "好当方向的问题解决了",
+   "music": 0
+  },
+  {
+   "from": 255.68,
+   "to": 257.18,
+   "sid": 131,
+   "location": 2,
+   "content": "我们来重点说一下发力",
+   "music": 0
+  },
+  {
+   "from": 257.18,
+   "to": 258.979,
+   "sid": 132,
+   "location": 2,
+   "content": "以我的发力方式为力",
+   "music": 0
+  },
+  {
+   "from": 258.979,
+   "to": 260.539,
+   "sid": 133,
+   "location": 2,
+   "content": "接下来我会讲关于跳投",
+   "music": 0
+  },
+  {
+   "from": 260.539,
+   "to": 263.189,
+   "sid": 134,
+   "location": 2,
+   "content": "但我的发力方式是一段式的推头",
+   "music": 0
+  },
+  {
+   "from": 263.189,
+   "to": 265.439,
+   "sid": 135,
+   "location": 2,
+   "content": "那我就讲我比较擅长的推头",
+   "music": 0
+  },
+  {
+   "from": 265.439,
+   "to": 267.539,
+   "sid": 136,
+   "location": 2,
+   "content": "我的发力方式是以推头为主",
+   "music": 0
+  },
+  {
+   "from": 267.539,
+   "to": 269.919,
+   "sid": 137,
+   "location": 2,
+   "content": "那我主要是下肢主导我的发力",
+   "music": 0
+  },
+  {
+   "from": 269.919,
+   "to": 272.919,
+   "sid": 138,
+   "location": 2,
+   "content": "那我在合球的时候是需要下蹲去训练",
+   "music": 0
+  },
+  {
+   "from": 272.919,
+   "to": 275.049,
+   "sid": 139,
+   "location": 2,
+   "content": "我每次在训练的时候也是一样",
+   "music": 0
+  },
+  {
+   "from": 275.049,
+   "to": 276.489,
+   "sid": 140,
+   "location": 2,
+   "content": "我会运一次球",
+   "music": 0
+  },
+  {
+   "from": 276.489,
+   "to": 278.58,
+   "sid": 141,
+   "location": 2,
+   "content": "下蹲同时去合球",
+   "music": 0
+  },
+  {
+   "from": 278.58,
+   "to": 281.19,
+   "sid": 142,
+   "location": 2,
+   "content": "然后我在上升举球的过程当中",
+   "music": 0
+  },
+  {
+   "from": 281.19,
+   "to": 283.22,
+   "sid": 143,
+   "location": 2,
+   "content": "我的腿也在慢慢的蹬伸",
+   "music": 0
+  },
+  {
+   "from": 283.22,
+   "to": 285.38,
+   "sid": 144,
+   "location": 2,
+   "content": "当我腿蹬伸到最高点的时候",
+   "music": 0
+  },
+  {
+   "from": 285.38,
+   "to": 286.79,
+   "sid": 145,
+   "location": 2,
+   "content": "球刚好出手",
+   "music": 0
+  },
+  {
+   "from": 286.79,
+   "to": 289.61,
+   "sid": 146,
+   "location": 2,
+   "content": "这一点的发力方式让我很顺畅",
+   "music": 0
+  },
+  {
+   "from": 289.61,
+   "to": 290.7,
+   "sid": 147,
+   "location": 2,
+   "content": "也很舒服",
+   "music": 0
+  },
+  {
+   "from": 293.44,
+   "to": 295.11,
+   "sid": 148,
+   "location": 2,
+   "content": "随着距离的增加",
+   "music": 0
+  },
+  {
+   "from": 295.11,
+   "to": 296.46,
+   "sid": 149,
+   "location": 2,
+   "content": "射程的变远",
+   "music": 0
+  },
+  {
+   "from": 296.46,
+   "to": 300.81,
+   "sid": 150,
+   "location": 2,
+   "content": "我下肢主导发力的往上带的劲儿就会更多",
+   "music": 0
+  },
+  {
+   "from": 300.81,
+   "to": 303.6,
+   "sid": 151,
+   "location": 2,
+   "content": "同时我在蓄力举球的时候",
+   "music": 0
+  },
+  {
+   "from": 303.6,
+   "to": 306.65,
+   "sid": 152,
+   "location": 2,
+   "content": "我也会刻意的把举球的过程加快",
+   "music": 0
+  },
+  {
+   "from": 306.65,
+   "to": 311.24,
+   "sid": 153,
+   "location": 2,
+   "content": "为我的发力创造更好的条件和输出更大的力量",
+   "music": 0
+  },
+  {
+   "from": 311.24,
+   "to": 312.41,
+   "sid": 154,
+   "location": 2,
+   "content": "所以我在距离增加",
+   "music": 0
+  },
+  {
+   "from": 312.41,
+   "to": 314.92,
+   "sid": 155,
+   "location": 2,
+   "content": "下肢主导发力就会越明显",
+   "music": 0
+  },
+  {
+   "from": 316.16,
+   "to": 318.49,
+   "sid": 156,
+   "location": 2,
+   "content": "咱们到中距离一样",
+   "music": 0
+  },
+  {
+   "from": 318.49,
+   "to": 322.42,
+   "sid": 157,
+   "location": 2,
+   "content": "还是可以完成上步合球发力",
+   "music": 0
+  },
+  {
+   "from": 322.42,
+   "to": 323.8,
+   "sid": 158,
+   "location": 2,
+   "content": "再增加到三分线",
+   "music": 0
+  },
+  {
+   "from": 323.8,
+   "to": 324.49,
+   "sid": 159,
+   "location": 2,
+   "content": "还是散步",
+   "music": 0
+  },
+  {
+   "from": 324.49,
+   "to": 325.36,
+   "sid": 160,
+   "location": 2,
+   "content": "我把注意力",
+   "music": 0
+  },
+  {
+   "from": 325.36,
+   "to": 329.86,
+   "sid": 161,
+   "location": 2,
+   "content": "我把发力的动力来源放在我的腿上",
+   "music": 0.11428571020407889
+  },
+  {
+   "from": 332.72,
+   "to": 334.24,
+   "sid": 162,
+   "location": 2,
+   "content": "再增加点射程",
+   "music": 0
+  },
+  {
+   "from": 334.24,
+   "to": 335.62,
+   "sid": 163,
+   "location": 2,
+   "content": "再增加点射程",
+   "music": 0
+  },
+  {
+   "from": 335.62,
+   "to": 340.2,
+   "sid": 164,
+   "location": 2,
+   "content": "也是为了让我去加强和重复我下肢主导",
+   "music": 0
+  },
+  {
+   "from": 340.2,
+   "to": 342.18,
+   "sid": 165,
+   "location": 2,
+   "content": "我会慢慢的发力会更多",
+   "music": 0
+  },
+  {
+   "from": 342.18,
+   "to": 344.52,
+   "sid": 166,
+   "location": 2,
+   "content": "同时举球的过程就像我刚刚说的",
+   "music": 0
+  },
+  {
+   "from": 344.52,
+   "to": 345.42,
+   "sid": 167,
+   "location": 2,
+   "content": "也会更快",
+   "music": 0
+  },
+  {
+   "from": 345.42,
+   "to": 346.94,
+   "sid": 168,
+   "location": 2,
+   "content": "散步",
+   "music": 0
+  },
+  {
+   "from": 348.6,
+   "to": 350.06,
+   "sid": 169,
+   "location": 2,
+   "content": "关于投篮发力的练习",
+   "music": 0
+  },
+  {
+   "from": 350.06,
+   "to": 350.9,
+   "sid": 170,
+   "location": 2,
+   "content": "我来讲两个",
+   "music": 0
+  },
+  {
+   "from": 350.9,
+   "to": 351.44,
+   "sid": 171,
+   "location": 2,
+   "content": "一个进阶",
+   "music": 0
+  },
+  {
+   "from": 351.44,
+   "to": 352.04,
+   "sid": 172,
+   "location": 2,
+   "content": "一个退阶",
+   "music": 0
+  },
+  {
+   "from": 352.04,
+   "to": 354.64,
+   "sid": 173,
+   "location": 2,
+   "content": "让你更好的去根据自己的情况去训练一下",
+   "music": 0
+  },
+  {
+   "from": 354.64,
+   "to": 356.98,
+   "sid": 174,
+   "location": 2,
+   "content": "我要左脚单脚往下蹲的时候去合球",
+   "music": 0
+  },
+  {
+   "from": 356.98,
+   "to": 359.98,
+   "sid": 175,
+   "location": 2,
+   "content": "蹬地往上走去完成空心入框",
+   "music": 0
+  },
+  {
+   "from": 359.98,
+   "to": 363.07,
+   "sid": 176,
+   "location": 2,
+   "content": "进了以后再换成右脚",
+   "music": 0
+  },
+  {
+   "from": 363.07,
+   "to": 365.41,
+   "sid": 177,
+   "location": 2,
+   "content": "还是强化自己的记忆",
+   "music": 0
+  },
+  {
+   "from": 365.41,
+   "to": 366.52,
+   "sid": 178,
+   "location": 2,
+   "content": "脑袋里要去想",
+   "music": 0
+  },
+  {
+   "from": 366.52,
+   "to": 368.83,
+   "sid": 179,
+   "location": 2,
+   "content": "我要靠我的右脚蹬地往上走",
+   "music": 0
+  },
+  {
+   "from": 368.83,
+   "to": 369.88,
+   "sid": 180,
+   "location": 2,
+   "content": "借到力",
+   "music": 0
+  },
+  {
+   "from": 369.88,
+   "to": 371.08,
+   "sid": 181,
+   "location": 2,
+   "content": "然后去完成投篮练习",
+   "music": 0
+  },
+  {
+   "from": 371.08,
+   "to": 372.18,
+   "sid": 182,
+   "location": 2,
+   "content": "再进阶一点",
+   "music": 0
+  },
+  {
+   "from": 372.18,
+   "to": 374.49,
+   "sid": 183,
+   "location": 2,
+   "content": "我可以再增加一点不稳定性",
+   "music": 0
+  },
+  {
+   "from": 374.49,
+   "to": 378.15,
+   "sid": 184,
+   "location": 2,
+   "content": "我用左脚变向过来跳到右脚",
+   "music": 0
+  },
+  {
+   "from": 378.15,
+   "to": 380.46,
+   "sid": 185,
+   "location": 2,
+   "content": "然后后期完成投篮发力",
+   "music": 0
+  },
+  {
+   "from": 380.46,
+   "to": 381.84,
+   "sid": 186,
+   "location": 2,
+   "content": "还是以下肢主导",
+   "music": 0
+  },
+  {
+   "from": 381.84,
+   "to": 384.6,
+   "sid": 187,
+   "location": 2,
+   "content": "这个时候会更增加你的不稳定性",
+   "music": 0
+  },
+  {
+   "from": 384.6,
+   "to": 386.84,
+   "sid": 188,
+   "location": 2,
+   "content": "来去提高你投篮的稳定性",
+   "music": 0
+  },
+  {
+   "from": 386.84,
+   "to": 389.48,
+   "sid": 189,
+   "location": 2,
+   "content": "再做一遍变向过来到右脚",
+   "music": 0
+  },
+  {
+   "from": 389.48,
+   "to": 391.28,
+   "sid": 190,
+   "location": 2,
+   "content": "然后去完成投篮",
+   "music": 0
+  },
+  {
+   "from": 391.28,
+   "to": 392.63,
+   "sid": 191,
+   "location": 2,
+   "content": "然后换边",
+   "music": 0
+  },
+  {
+   "from": 392.63,
+   "to": 393.77,
+   "sid": 192,
+   "location": 2,
+   "content": "右手变向过来",
+   "music": 0
+  },
+  {
+   "from": 393.77,
+   "to": 396.44,
+   "sid": 193,
+   "location": 2,
+   "content": "到左脚还是蹬地发力",
+   "music": 0
+  },
+  {
+   "from": 396.44,
+   "to": 398.76,
+   "sid": 194,
+   "location": 2,
+   "content": "往上蹬地就完成投篮",
+   "music": 0
+  },
+  {
+   "from": 398.915,
+   "to": 402.04,
+   "sid": 195,
+   "location": 2,
+   "content": "左右各进十个球",
+   "music": 0
+  },
+  {
+   "from": 402.04,
+   "to": 405.61,
+   "sid": 196,
+   "location": 2,
+   "content": "然后换方向到45度是一样的",
+   "music": 0
+  },
+  {
+   "from": 405.61,
+   "to": 407.38,
+   "sid": 197,
+   "location": 2,
+   "content": "完成一样投篮练习",
+   "music": 0
+  },
+  {
+   "from": 407.38,
+   "to": 409.42,
+   "sid": 198,
+   "location": 2,
+   "content": "下面换边",
+   "music": 0
+  },
+  {
+   "from": 409.64,
+   "to": 411.82,
+   "sid": 199,
+   "location": 2,
+   "content": "再到左脚",
+   "music": 0
+  },
+  {
+   "from": 413.1,
+   "to": 414.98,
+   "sid": 200,
+   "location": 2,
+   "content": "每个点进十个球",
+   "music": 0
+  },
+  {
+   "from": 414.98,
+   "to": 419.18,
+   "sid": 201,
+   "location": 2,
+   "content": "现在完成了到对侧的45度角还是一样",
+   "music": 0
+  },
+  {
+   "from": 419.18,
+   "to": 422.36,
+   "sid": 202,
+   "location": 2,
+   "content": "右脚踢球再回来",
+   "music": 0
+  },
+  {
+   "from": 422.36,
+   "to": 425.38,
+   "sid": 203,
+   "location": 2,
+   "content": "左脚向上蹬地",
+   "music": 0
+  },
+  {
+   "from": 425.38,
+   "to": 428.02,
+   "sid": 204,
+   "location": 2,
+   "content": "发力完成之后再继续底线",
+   "music": 0
+  },
+  {
+   "from": 428.02,
+   "to": 430.12,
+   "sid": 205,
+   "location": 2,
+   "content": "在底线我可以不一定做体前变向",
+   "music": 0
+  },
+  {
+   "from": 430.12,
+   "to": 432.49,
+   "sid": 206,
+   "location": 2,
+   "content": "我做胯下的合球一样",
+   "music": 0
+  },
+  {
+   "from": 432.49,
+   "to": 434.47,
+   "sid": 207,
+   "location": 2,
+   "content": "还下蹲地转投篮",
+   "music": 0
+  },
+  {
+   "from": 434.47,
+   "to": 435.48,
+   "sid": 208,
+   "location": 2,
+   "content": "再换边",
+   "music": 0
+  },
+  {
+   "from": 435.48,
+   "to": 437.52,
+   "sid": 209,
+   "location": 2,
+   "content": "还是胯下跳一步",
+   "music": 0
+  },
+  {
+   "from": 437.52,
+   "to": 440.72,
+   "sid": 210,
+   "location": 2,
+   "content": "左脚着地完成投篮",
+   "music": 0
+  },
+  {
+   "from": 440.96,
+   "to": 443.859,
+   "sid": 211,
+   "location": 2,
+   "content": "到这边底线我只进了两个",
+   "music": 0
+  },
+  {
+   "from": 443.859,
+   "to": 445.299,
+   "sid": 212,
+   "location": 2,
+   "content": "但我希望大家能多进几个",
+   "music": 0
+  },
+  {
+   "from": 445.299,
+   "to": 446.679,
+   "sid": 213,
+   "location": 2,
+   "content": "大概5~10个",
+   "music": 0
+  },
+  {
+   "from": 446.679,
+   "to": 448.569,
+   "sid": 214,
+   "location": 2,
+   "content": "这边我可以换成背后",
+   "music": 0
+  },
+  {
+   "from": 448.569,
+   "to": 451.07,
+   "sid": 215,
+   "location": 2,
+   "content": "还是单脚向上蹬地",
+   "music": 0
+  },
+  {
+   "from": 451.07,
+   "to": 452.63,
+   "sid": 216,
+   "location": 2,
+   "content": "进球之后继续",
+   "music": 0
+  },
+  {
+   "from": 455.21,
+   "to": 458.66,
+   "sid": 217,
+   "location": 2,
+   "content": "单挑我把注意力都放在我的单脚上",
+   "music": 0
+  },
+  {
+   "from": 458.66,
+   "to": 463.66,
+   "sid": 218,
+   "location": 2,
+   "content": "然后一定要想象自己在网上登顶去完成投篮",
+   "music": 0
+  },
+  {
+   "from": 463.66,
+   "to": 465.52,
+   "sid": 219,
+   "location": 2,
+   "content": "刚才一共分享了四个练习给大家",
+   "music": 0
+  },
+  {
+   "from": 468.86,
+   "to": 469.7,
+   "sid": 220,
+   "location": 2,
+   "content": "四个练习",
+   "music": 0
+  },
+  {
+   "from": 469.7,
+   "to": 472.1,
+   "sid": 221,
+   "location": 2,
+   "content": "一共你就可以做到大概60个地球左右",
+   "music": 0
+  },
+  {
+   "from": 472.1,
+   "to": 474.5,
+   "sid": 222,
+   "location": 2,
+   "content": "这样对你的投篮提高是非常有帮助的",
+   "music": 0
+  },
+  {
+   "from": 474.5,
+   "to": 476.32,
+   "sid": 223,
+   "location": 2,
+   "content": "那么今天的训练就到这里",
+   "music": 0
+  },
+  {
+   "from": 476.32,
+   "to": 478.42,
+   "sid": 224,
+   "location": 2,
+   "content": "如果你觉得我的视频对你有帮助",
+   "music": 0
+  },
+  {
+   "from": 478.42,
+   "to": 479.74,
+   "sid": 225,
+   "location": 2,
+   "content": "请大家给我一个三连",
+   "music": 0
+  },
+  {
+   "from": 479.74,
+   "to": 480.22,
+   "sid": 226,
+   "location": 2,
+   "content": "谢谢大家",
+   "music": 0
+  },
+  {
+   "from": 480.22,
+   "to": 483.58,
+   "sid": 227,
+   "location": 2,
+   "content": "我会在以后的视频里面分享更多的关于篮球",
+   "music": 0
+  },
+  {
+   "from": 483.58,
+   "to": 485.92,
+   "sid": 228,
+   "location": 2,
+   "content": "一个人该如何训练去提高你的实战技巧",
+   "music": 0
+  },
+  {
+   "from": 485.92,
+   "to": 486.78,
+   "sid": 229,
+   "location": 2,
+   "content": "谢谢大家",
+   "music": 0
+  }
+ ]
+}

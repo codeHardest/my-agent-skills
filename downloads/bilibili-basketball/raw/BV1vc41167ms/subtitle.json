@@ -1,0 +1,676 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.22,
+   "to": 2.05,
+   "sid": 1,
+   "location": 2,
+   "content": "如果这是你的投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 2.05,
+   "to": 5.1,
+   "sid": 2,
+   "location": 2,
+   "content": "并且认为这种推投就是一段式投篮的话",
+   "music": 0
+  },
+  {
+   "from": 5.1,
+   "to": 7.11,
+   "sid": 3,
+   "location": 2,
+   "content": "那可能怎么练都很难进步",
+   "music": 0
+  },
+  {
+   "from": 7.11,
+   "to": 10.08,
+   "sid": 4,
+   "location": 2,
+   "content": "本期视频为一段式投篮系列的第十期",
+   "music": 0
+  },
+  {
+   "from": 10.08,
+   "to": 13.51,
+   "sid": 5,
+   "location": 2,
+   "content": "帮助你深度了解一段式投篮和推投的区别",
+   "music": 0
+  },
+  {
+   "from": 13.51,
+   "to": 14.74,
+   "sid": 6,
+   "location": 2,
+   "content": "提到投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 14.74,
+   "to": 16.6,
+   "sid": 7,
+   "location": 2,
+   "content": "许多球迷最先出现的画面",
+   "music": 0
+  },
+  {
+   "from": 16.6,
+   "to": 20.3,
+   "sid": 8,
+   "location": 2,
+   "content": "可能都是科比那种仿佛在空中定格的姿势",
+   "music": 0
+  },
+  {
+   "from": 20.3,
+   "to": 23.45,
+   "sid": 9,
+   "location": 2,
+   "content": "所以经常能看见网络上对一段式投篮的嫌弃",
+   "music": 0
+  },
+  {
+   "from": 23.45,
+   "to": 25.28,
+   "sid": 10,
+   "location": 2,
+   "content": "认为这种姿势是力量不足的",
+   "music": 0
+  },
+  {
+   "from": 25.28,
+   "to": 27.74,
+   "sid": 11,
+   "location": 2,
+   "content": "小孩子或者女生才使用的推投",
+   "music": 0
+  },
+  {
+   "from": 27.74,
+   "to": 29.6,
+   "sid": 12,
+   "location": 2,
+   "content": "但其实有许多身高不矮",
+   "music": 0
+  },
+  {
+   "from": 29.6,
+   "to": 32.84,
+   "sid": 13,
+   "location": 2,
+   "content": "力量也很强的职业球员也在使用一段式投篮",
+   "music": 0.03086419657826596
+  },
+  {
+   "from": 32.84,
+   "to": 35.96,
+   "sid": 14,
+   "location": 2,
+   "content": "这其实说明一段式投篮是一种主观选择",
+   "music": 0.19230768614398505
+  },
+  {
+   "from": 35.96,
+   "to": 36.68,
+   "sid": 15,
+   "location": 2,
+   "content": "就是没力量",
+   "music": 0.833333217592612
+  },
+  {
+   "from": 36.68,
+   "to": 37.61,
+   "sid": 16,
+   "location": 2,
+   "content": "只能这样投",
+   "music": 0.09999998749999979
+  },
+  {
+   "from": 37.61,
+   "to": 41.42,
+   "sid": 17,
+   "location": 2,
+   "content": "所以一段式投篮和推投到底有什么区别呢",
+   "music": 0
+  },
+  {
+   "from": 41.42,
+   "to": 45.04,
+   "sid": 18,
+   "location": 2,
+   "content": "我认为在于出手点的不同",
+   "music": 0
+  },
+  {
+   "from": 45.04,
+   "to": 46.39,
+   "sid": 19,
+   "location": 2,
+   "content": "这里问一个问题",
+   "music": 0
+  },
+  {
+   "from": 46.39,
+   "to": 50.04,
+   "sid": 20,
+   "location": 2,
+   "content": "大家觉得库里的出手点是高还是低呢",
+   "music": 0
+  },
+  {
+   "from": 51.64,
+   "to": 54.22,
+   "sid": 21,
+   "location": 2,
+   "content": "大家的答案应该都是第",
+   "music": 0.20879119731916634
+  },
+  {
+   "from": 54.22,
+   "to": 56.5,
+   "sid": 22,
+   "location": 2,
+   "content": "那什么样才算高出手点呢",
+   "music": 0
+  },
+  {
+   "from": 56.5,
+   "to": 60.02,
+   "sid": 23,
+   "location": 2,
+   "content": "应该会想到像五条悟这样手肘高于肩膀的投篮",
+   "music": 0
+  },
+  {
+   "from": 60.02,
+   "to": 63.35,
+   "sid": 24,
+   "location": 2,
+   "content": "然而这个画面是库里投篮时球离手的瞬间",
+   "music": 0
+  },
+  {
+   "from": 64.76,
+   "to": 65.96,
+   "sid": 25,
+   "location": 2,
+   "content": "如果单看这个画面",
+   "music": 0
+  },
+  {
+   "from": 65.96,
+   "to": 69.11,
+   "sid": 26,
+   "location": 2,
+   "content": "甚至连这是一段式还是二段式都判断不出来",
+   "music": 0
+  },
+  {
+   "from": 69.11,
+   "to": 71.46,
+   "sid": 27,
+   "location": 2,
+   "content": "所以实际上库里出手点并不低",
+   "music": 0
+  },
+  {
+   "from": 71.46,
+   "to": 73.44,
+   "sid": 28,
+   "location": 2,
+   "content": "也就是大家直觉上认为的低",
+   "music": 0
+  },
+  {
+   "from": 73.44,
+   "to": 75.12,
+   "sid": 29,
+   "location": 2,
+   "content": "出手点等于一段式投篮",
+   "music": 0
+  },
+  {
+   "from": 75.12,
+   "to": 75.9,
+   "sid": 30,
+   "location": 2,
+   "content": "并不是对的",
+   "music": 0
+  },
+  {
+   "from": 75.9,
+   "to": 78.28,
+   "sid": 31,
+   "location": 2,
+   "content": "那这其中反直觉的地方在哪里呢",
+   "music": 0
+  },
+  {
+   "from": 78.28,
+   "to": 79.18,
+   "sid": 32,
+   "location": 2,
+   "content": "实际上在于",
+   "music": 0
+  },
+  {
+   "from": 79.18,
+   "to": 83.92,
+   "sid": 33,
+   "location": 2,
+   "content": "一段式投篮的台球点和出手点并不一样",
+   "music": 0
+  },
+  {
+   "from": 86.48,
+   "to": 89.74,
+   "sid": 34,
+   "location": 2,
+   "content": "也就是球举起来之后继续向上了一段距离",
+   "music": 0
+  },
+  {
+   "from": 89.74,
+   "to": 92.36,
+   "sid": 35,
+   "location": 2,
+   "content": "到达出手点才开始压腕",
+   "music": 0
+  },
+  {
+   "from": 96.4,
+   "to": 99.22,
+   "sid": 36,
+   "location": 2,
+   "content": "我看了很多朋友在粉丝群里发的投篮",
+   "music": 0
+  },
+  {
+   "from": 99.22,
+   "to": 101.98,
+   "sid": 37,
+   "location": 2,
+   "content": "台球点和出手点基本都是重合的",
+   "music": 0
+  },
+  {
+   "from": 101.98,
+   "to": 105.28,
+   "sid": 38,
+   "location": 2,
+   "content": "就是脱球之后直接开始压腕",
+   "music": 0
+  },
+  {
+   "from": 108.16,
+   "to": 109.86,
+   "sid": 39,
+   "location": 2,
+   "content": "所以认真观察会发现",
+   "music": 0.19999998666666566
+  },
+  {
+   "from": 109.86,
+   "to": 111.9,
+   "sid": 40,
+   "location": 2,
+   "content": "很多人的出手其实比库里还快",
+   "music": 0.058823526528260554
+  },
+  {
+   "from": 111.9,
+   "to": 114.52,
+   "sid": 41,
+   "location": 2,
+   "content": "这种快速投篮在我看来是代价很大",
+   "music": 0
+  },
+  {
+   "from": 114.52,
+   "to": 115.6,
+   "sid": 42,
+   "location": 2,
+   "content": "除了出手点低",
+   "music": 0
+  },
+  {
+   "from": 115.6,
+   "to": 116.74,
+   "sid": 43,
+   "location": 2,
+   "content": "容易被干扰之外",
+   "music": 0
+  },
+  {
+   "from": 116.74,
+   "to": 119.08,
+   "sid": 44,
+   "location": 2,
+   "content": "更重要的一点是出手行程非常长",
+   "music": 0
+  },
+  {
+   "from": 119.08,
+   "to": 120.64,
+   "sid": 45,
+   "location": 2,
+   "content": "很多时候看似有压腕",
+   "music": 0
+  },
+  {
+   "from": 120.64,
+   "to": 123.28,
+   "sid": 46,
+   "location": 2,
+   "content": "实际上都没有真正用手指去控制投篮",
+   "music": 0
+  },
+  {
+   "from": 123.28,
+   "to": 127,
+   "sid": 47,
+   "location": 2,
+   "content": "因为球在压腕之前就已经脱手了",
+   "music": 0.07964601417495797
+  },
+  {
+   "from": 127.04,
+   "to": 127.94,
+   "sid": 48,
+   "location": 2,
+   "content": "这也能回答",
+   "music": 0
+  },
+  {
+   "from": 127.94,
+   "to": 130.64,
+   "sid": 49,
+   "location": 2,
+   "content": "那些自称随便能忘掉一段式投篮的朋友",
+   "music": 0
+  },
+  {
+   "from": 130.64,
+   "to": 132.74,
+   "sid": 50,
+   "location": 2,
+   "content": "其实一段式投篮出手并不低",
+   "music": 0
+  },
+  {
+   "from": 132.74,
+   "to": 135.04,
+   "sid": 51,
+   "location": 2,
+   "content": "并且球在台球点基本没有停顿",
+   "music": 0
+  },
+  {
+   "from": 135.04,
+   "to": 136.87,
+   "sid": 52,
+   "location": 2,
+   "content": "所以很难抓到起跳时机",
+   "music": 0.08139534410491397
+  },
+  {
+   "from": 136.87,
+   "to": 139.76,
+   "sid": 53,
+   "location": 2,
+   "content": "以下的对比可以很好地说明两者的区别",
+   "music": 0
+  },
+  {
+   "from": 139.76,
+   "to": 141.74,
+   "sid": 54,
+   "location": 2,
+   "content": "左边是我认为的一段式投篮",
+   "music": 0
+  },
+  {
+   "from": 141.74,
+   "to": 143.18,
+   "sid": 55,
+   "location": 2,
+   "content": "右边是我认为的推投",
+   "music": 0
+  },
+  {
+   "from": 143.18,
+   "to": 145.46,
+   "sid": 56,
+   "location": 2,
+   "content": "在几乎相同台球点的情况下",
+   "music": 0
+  },
+  {
+   "from": 145.46,
+   "to": 147.16,
+   "sid": 57,
+   "location": 2,
+   "content": "最后的出手点完全不同",
+   "music": 0
+  },
+  {
+   "from": 147.16,
+   "to": 151.9,
+   "sid": 58,
+   "location": 2,
+   "content": "左边这种姿势的稳定性远远高于右边",
+   "music": 0
+  },
+  {
+   "from": 152.96,
+   "to": 155.24,
+   "sid": 59,
+   "location": 2,
+   "content": "所以我在第二期视频中提到的",
+   "music": 0
+  },
+  {
+   "from": 155.24,
+   "to": 157.16,
+   "sid": 60,
+   "location": 2,
+   "content": "低肘位加小夹角的观点",
+   "music": 0
+  },
+  {
+   "from": 157.16,
+   "to": 158.84,
+   "sid": 61,
+   "location": 2,
+   "content": "实际上是应用在台球点",
+   "music": 0
+  },
+  {
+   "from": 158.84,
+   "to": 159.76,
+   "sid": 62,
+   "location": 2,
+   "content": "而不是出手点",
+   "music": 0
+  },
+  {
+   "from": 159.76,
+   "to": 160.9,
+   "sid": 63,
+   "location": 2,
+   "content": "意识到这点后",
+   "music": 0
+  },
+  {
+   "from": 160.9,
+   "to": 163.12,
+   "sid": 64,
+   "location": 2,
+   "content": "大家在平时练习中可以多注意",
+   "music": 0
+  },
+  {
+   "from": 163.12,
+   "to": 165.28,
+   "sid": 65,
+   "location": 2,
+   "content": "区分台球点和出手点的区别",
+   "music": 0
+  },
+  {
+   "from": 165.28,
+   "to": 166.54,
+   "sid": 66,
+   "location": 2,
+   "content": "多去感受发力",
+   "music": 0
+  },
+  {
+   "from": 166.54,
+   "to": 169.1,
+   "sid": 67,
+   "location": 2,
+   "content": "从下肢核心传导到手上",
+   "music": 0
+  },
+  {
+   "from": 169.1,
+   "to": 171.52,
+   "sid": 68,
+   "location": 2,
+   "content": "最后用手腕手指拨球的感觉",
+   "music": 0.1428571364796012
+  },
+  {
+   "from": 171.52,
+   "to": 173.38,
+   "sid": 69,
+   "location": 2,
+   "content": "如果你还是不知道怎么练",
+   "music": 0
+  },
+  {
+   "from": 173.38,
+   "to": 175.06,
+   "sid": 70,
+   "location": 2,
+   "content": "并且有决心和热情",
+   "music": 0
+  },
+  {
+   "from": 175.06,
+   "to": 176.5,
+   "sid": 71,
+   "location": 2,
+   "content": "想提高自己的投篮",
+   "music": 0
+  },
+  {
+   "from": 176.5,
+   "to": 179.02,
+   "sid": 72,
+   "location": 2,
+   "content": "欢迎来到我关于投篮的两篇公开课",
+   "music": 0
+  },
+  {
+   "from": 179.02,
+   "to": 181.84,
+   "sid": 73,
+   "location": 2,
+   "content": "并参与第一次三分球十中九的挑战",
+   "music": 0.42553189980384043
+  },
+  {
+   "from": 181.84,
+   "to": 185.02,
+   "sid": 74,
+   "location": 2,
+   "content": "作为一个从脱节投篮改善一段式投篮的球员",
+   "music": 0
+  },
+  {
+   "from": 185.02,
+   "to": 187.3,
+   "sid": 75,
+   "location": 2,
+   "content": "我将在课上分我走过的弯路",
+   "music": 0
+  },
+  {
+   "from": 187.3,
+   "to": 188.74,
+   "sid": 76,
+   "location": 2,
+   "content": "以及比抖音上更多",
+   "music": 0
+  },
+  {
+   "from": 188.74,
+   "to": 192.38,
+   "sid": 77,
+   "location": 2,
+   "content": "更详细的关于完成挑战所需的所有投篮细节",
+   "music": 0.049450548092012166
+  },
+  {
+   "from": 192.38,
+   "to": 194.24,
+   "sid": 78,
+   "location": 2,
+   "content": "希望能真正的帮助到你",
+   "music": 0.3655913781940129
+  },
+  {
+   "from": 194.24,
+   "to": 195.68,
+   "sid": 79,
+   "location": 2,
+   "content": "想挑战自己的朋友",
+   "music": 0.36111108603396
+  },
+  {
+   "from": 195.68,
+   "to": 196.6,
+   "sid": 80,
+   "location": 2,
+   "content": "欢迎来参加",
+   "music": 0
+  },
+  {
+   "from": 196.6,
+   "to": 198.16,
+   "sid": 81,
+   "location": 2,
+   "content": "那以上就是本期内容",
+   "music": 0
+  },
+  {
+   "from": 198.16,
+   "to": 200.23,
+   "sid": 82,
+   "location": 2,
+   "content": "记得思考清楚再训练",
+   "music": 0
+  },
+  {
+   "from": 200.23,
+   "to": 203.16,
+   "sid": 83,
+   "location": 2,
+   "content": "我们下期见",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0.28,
+   "to": 1.12,
+   "sid": 1,
+   "location": 2,
+   "content": "我悟了呀",
+   "music": 0
+  },
+  {
+   "from": 1.12,
+   "to": 1.84,
+   "sid": 2,
+   "location": 2,
+   "content": "兄弟们",
+   "music": 0
+  },
+  {
+   "from": 1.84,
+   "to": 2.92,
+   "sid": 3,
+   "location": 2,
+   "content": "我改了一个动作",
+   "music": 0
+  },
+  {
+   "from": 2.92,
+   "to": 5.59,
+   "sid": 4,
+   "location": 2,
+   "content": "就把投篮手快脚慢的毛病给改过来了",
+   "music": 0
+  },
+  {
+   "from": 5.59,
+   "to": 8.02,
+   "sid": 5,
+   "location": 2,
+   "content": "不管是原地投篮还是后仰跳投",
+   "music": 0
+  },
+  {
+   "from": 8.02,
+   "to": 9.88,
+   "sid": 6,
+   "location": 2,
+   "content": "都没有手快脚慢的毛病了",
+   "music": 0
+  },
+  {
+   "from": 9.88,
+   "to": 12.4,
+   "sid": 7,
+   "location": 2,
+   "content": "那么要怎么判断投篮手快脚慢呢",
+   "music": 0
+  },
+  {
+   "from": 12.4,
+   "to": 13.8,
+   "sid": 8,
+   "location": 2,
+   "content": "第一个就是看起球",
+   "music": 0
+  },
+  {
+   "from": 13.8,
+   "to": 15.12,
+   "sid": 9,
+   "location": 2,
+   "content": "第二个就是看你投篮之后",
+   "music": 0
+  },
+  {
+   "from": 15.12,
+   "to": 16.8,
+   "sid": 10,
+   "location": 2,
+   "content": "你的身体直接下落的话",
+   "music": 0
+  },
+  {
+   "from": 16.8,
+   "to": 18.12,
+   "sid": 11,
+   "location": 2,
+   "content": "那就不是手快脚慢",
+   "music": 0
+  },
+  {
+   "from": 18.12,
+   "to": 20.32,
+   "sid": 12,
+   "location": 2,
+   "content": "那我到底改了哪一点呢",
+   "music": 0
+  },
+  {
+   "from": 20.32,
+   "to": 22.48,
+   "sid": 13,
+   "location": 2,
+   "content": "之前我一直在腿上找毛病",
+   "music": 0
+  },
+  {
+   "from": 22.48,
+   "to": 24.4,
+   "sid": 14,
+   "location": 2,
+   "content": "最后我发现是手上的问题",
+   "music": 0
+  },
+  {
+   "from": 24.4,
+   "to": 26.92,
+   "sid": 15,
+   "location": 2,
+   "content": "我们在原地起跳的时候都要摆臂",
+   "music": 0
+  },
+  {
+   "from": 26.92,
+   "to": 28.98,
+   "sid": 16,
+   "location": 2,
+   "content": "那我们投篮的时候也要摆臂",
+   "music": 0
+  },
+  {
+   "from": 28.98,
+   "to": 31.2,
+   "sid": 17,
+   "location": 2,
+   "content": "他投篮的时候怎么摆臂呢",
+   "music": 0
+  },
+  {
+   "from": 31.2,
+   "to": 32.94,
+   "sid": 18,
+   "location": 2,
+   "content": "如果你用投篮手往上摆的话",
+   "music": 0
+  },
+  {
+   "from": 32.94,
+   "to": 34.7,
+   "sid": 19,
+   "location": 2,
+   "content": "你的手腕就会紧张",
+   "music": 0
+  },
+  {
+   "from": 34.7,
+   "to": 36.14,
+   "sid": 20,
+   "location": 2,
+   "content": "你整个出手都会紧张",
+   "music": 0
+  },
+  {
+   "from": 36.14,
+   "to": 40.07,
+   "sid": 21,
+   "location": 2,
+   "content": "所以我们起球的时候要用我们的辅助手往上摆",
+   "music": 0
+  },
+  {
+   "from": 40.07,
+   "to": 42.8,
+   "sid": 22,
+   "location": 2,
+   "content": "没错就是用我们的辅助手起球",
+   "music": 0
+  },
+  {
+   "from": 42.8,
+   "to": 44.54,
+   "sid": 23,
+   "location": 2,
+   "content": "辅助手把球踢上来",
+   "music": 0
+  },
+  {
+   "from": 44.54,
+   "to": 46.94,
+   "sid": 24,
+   "location": 2,
+   "content": "然后用你的投篮手去把球往外扑",
+   "music": 0
+  },
+  {
+   "from": 46.94,
+   "to": 50.01,
+   "sid": 25,
+   "location": 2,
+   "content": "你看这不就是完美的二段式跳投吗",
+   "music": 0
+  },
+  {
+   "from": 50.01,
+   "to": 51.36,
+   "sid": 26,
+   "location": 2,
+   "content": "近距离练好了",
+   "music": 0
+  },
+  {
+   "from": 51.36,
+   "to": 52.38,
+   "sid": 27,
+   "location": 2,
+   "content": "要想投远距离",
+   "music": 0
+  },
+  {
+   "from": 52.38,
+   "to": 54.06,
+   "sid": 28,
+   "location": 2,
+   "content": "那就加强力量就行了",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,508 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.2,
+   "to": 2.48,
+   "sid": 1,
+   "location": 2,
+   "content": "今年在马布里训练营非常高兴",
+   "music": 0
+  },
+  {
+   "from": 2.48,
+   "to": 4.76,
+   "sid": 2,
+   "location": 2,
+   "content": "然后能见到王岚钦啊",
+   "music": 0
+  },
+  {
+   "from": 4.76,
+   "to": 6.86,
+   "sid": 3,
+   "location": 2,
+   "content": "然后我今年想跟他请教一些动作",
+   "music": 0
+  },
+  {
+   "from": 6.86,
+   "to": 9.4,
+   "sid": 4,
+   "location": 2,
+   "content": "请教一下你平时在打比赛的时候",
+   "music": 0
+  },
+  {
+   "from": 9.4,
+   "to": 12.58,
+   "sid": 5,
+   "location": 2,
+   "content": "你觉得你最喜欢用的和最实用的过人动作",
+   "music": 0
+  },
+  {
+   "from": 12.58,
+   "to": 13.36,
+   "sid": 6,
+   "location": 2,
+   "content": "是一个",
+   "music": 0
+  },
+  {
+   "from": 13.36,
+   "to": 14.44,
+   "sid": 7,
+   "location": 2,
+   "content": "就是这种悬浮球",
+   "music": 0
+  },
+  {
+   "from": 14.44,
+   "to": 18.079,
+   "sid": 8,
+   "location": 2,
+   "content": "然后哎师傅这个行进间怎么做啊",
+   "music": 0
+  },
+  {
+   "from": 18.079,
+   "to": 21.44,
+   "sid": 9,
+   "location": 2,
+   "content": "你直接按防守一二哦",
+   "music": 0.11398508925974978
+  },
+  {
+   "from": 21.44,
+   "to": 23.84,
+   "sid": 10,
+   "location": 2,
+   "content": "就是悬浮球的时候做一个反向的试探",
+   "music": 0
+  },
+  {
+   "from": 23.84,
+   "to": 26.18,
+   "sid": 11,
+   "location": 2,
+   "content": "然后再走就是四步那一下",
+   "music": 0
+  },
+  {
+   "from": 26.18,
+   "to": 27.5,
+   "sid": 12,
+   "location": 2,
+   "content": "然后既是一个假动作",
+   "music": 0
+  },
+  {
+   "from": 27.5,
+   "to": 30.08,
+   "sid": 13,
+   "location": 2,
+   "content": "然后也可以为这个突破提供一些爆发力",
+   "music": 0
+  },
+  {
+   "from": 30.08,
+   "to": 32.3,
+   "sid": 14,
+   "location": 2,
+   "content": "因为你是已经情动作",
+   "music": 0
+  },
+  {
+   "from": 32.3,
+   "to": 33.77,
+   "sid": 15,
+   "location": 2,
+   "content": "你的加速度已经有了",
+   "music": 0
+  },
+  {
+   "from": 33.77,
+   "to": 35.239,
+   "sid": 16,
+   "location": 2,
+   "content": "就是过来之后",
+   "music": 0
+  },
+  {
+   "from": 36.38,
+   "to": 38.72,
+   "sid": 17,
+   "location": 2,
+   "content": "这基本就是一个基本要求",
+   "music": 0
+  },
+  {
+   "from": 38.72,
+   "to": 42.38,
+   "sid": 18,
+   "location": 2,
+   "content": "其实我去年有看过你在苏州打总决赛",
+   "music": 0
+  },
+  {
+   "from": 42.38,
+   "to": 43.64,
+   "sid": 19,
+   "location": 2,
+   "content": "其实我当时也没有看清",
+   "music": 0
+  },
+  {
+   "from": 43.64,
+   "to": 45.6,
+   "sid": 20,
+   "location": 2,
+   "content": "就是比如说有防守人贴上来",
+   "music": 0
+  },
+  {
+   "from": 45.6,
+   "to": 47.16,
+   "sid": 21,
+   "location": 2,
+   "content": "你不知道怎么一个脚步",
+   "music": 0
+  },
+  {
+   "from": 47.16,
+   "to": 48.96,
+   "sid": 22,
+   "location": 2,
+   "content": "就是很快速的去转身",
+   "music": 0
+  },
+  {
+   "from": 48.96,
+   "to": 51.24,
+   "sid": 23,
+   "location": 2,
+   "content": "就是好像就是啪直接就破掉了",
+   "music": 0
+  },
+  {
+   "from": 51.24,
+   "to": 51.8,
+   "sid": 24,
+   "location": 2,
+   "content": "那个动作",
+   "music": 0
+  },
+  {
+   "from": 51.8,
+   "to": 56.15,
+   "sid": 25,
+   "location": 2,
+   "content": "其实就你的左脚就往后撤撤退哦",
+   "music": 0
+  },
+  {
+   "from": 56.15,
+   "to": 58.13,
+   "sid": 26,
+   "location": 2,
+   "content": "其实运运一下球的同时",
+   "music": 0
+  },
+  {
+   "from": 58.13,
+   "to": 59.27,
+   "sid": 27,
+   "location": 2,
+   "content": "就是双脚落地",
+   "music": 0
+  },
+  {
+   "from": 59.27,
+   "to": 60.29,
+   "sid": 28,
+   "location": 2,
+   "content": "双脚落地",
+   "music": 0
+  },
+  {
+   "from": 60.29,
+   "to": 62.04,
+   "sid": 29,
+   "location": 2,
+   "content": "双脚一个交叉",
+   "music": 0
+  },
+  {
+   "from": 62.04,
+   "to": 63.93,
+   "sid": 30,
+   "location": 2,
+   "content": "有一个脚步的变化",
+   "music": 0
+  },
+  {
+   "from": 63.93,
+   "to": 64.74,
+   "sid": 31,
+   "location": 2,
+   "content": "我们试一下",
+   "music": 0
+  },
+  {
+   "from": 64.74,
+   "to": 65.28,
+   "sid": 32,
+   "location": 2,
+   "content": "试一下",
+   "music": 0
+  },
+  {
+   "from": 66.66,
+   "to": 68.2,
+   "sid": 33,
+   "location": 2,
+   "content": "对对哦",
+   "music": 0
+  },
+  {
+   "from": 68.2,
+   "to": 69.7,
+   "sid": 34,
+   "location": 2,
+   "content": "这样的话可以让转身更快一点",
+   "music": 0
+  },
+  {
+   "from": 69.7,
+   "to": 72.34,
+   "sid": 35,
+   "location": 2,
+   "content": "对紧逼紧逼",
+   "music": 0
+  },
+  {
+   "from": 74.28,
+   "to": 76.44,
+   "sid": 36,
+   "location": 2,
+   "content": "好好笑啊",
+   "music": 0
+  },
+  {
+   "from": 76.44,
+   "to": 77.94,
+   "sid": 37,
+   "location": 2,
+   "content": "也是两个特别实用的过人动作",
+   "music": 0
+  },
+  {
+   "from": 77.94,
+   "to": 78.72,
+   "sid": 38,
+   "location": 2,
+   "content": "一个是新晋间的",
+   "music": 0
+  },
+  {
+   "from": 78.72,
+   "to": 80.86,
+   "sid": 39,
+   "location": 2,
+   "content": "一个是遇到紧逼的舞蹈动作",
+   "music": 0
+  },
+  {
+   "from": 80.86,
+   "to": 83.8,
+   "sid": 40,
+   "location": 2,
+   "content": "我希望所有热爱篮球的兄弟们多多重复",
+   "music": 0
+  },
+  {
+   "from": 83.8,
+   "to": 84.49,
+   "sid": 41,
+   "location": 2,
+   "content": "百炼成腰",
+   "music": 0
+  },
+  {
+   "from": 84.49,
+   "to": 86.01,
+   "sid": 42,
+   "location": 2,
+   "content": "你们一定可以呃",
+   "music": 0
+  },
+  {
+   "from": 86.01,
+   "to": 87.39,
+   "sid": 43,
+   "location": 2,
+   "content": "另外最后一个问题啊",
+   "music": 0
+  },
+  {
+   "from": 87.39,
+   "to": 88.71,
+   "sid": 44,
+   "location": 2,
+   "content": "青春你也经常看我们视频",
+   "music": 0
+  },
+  {
+   "from": 88.71,
+   "to": 89.55,
+   "sid": 45,
+   "location": 2,
+   "content": "对不对",
+   "music": 0
+  },
+  {
+   "from": 89.55,
+   "to": 92.16,
+   "sid": 46,
+   "location": 2,
+   "content": "你你最喜欢我们团队的胜王师傅",
+   "music": 0
+  },
+  {
+   "from": 92.16,
+   "to": 93.68,
+   "sid": 47,
+   "location": 2,
+   "content": "真的假的",
+   "music": 0
+  },
+  {
+   "from": 93.68,
+   "to": 95.54,
+   "sid": 48,
+   "location": 2,
+   "content": "除了我知道我肯定是第一位的",
+   "music": 0
+  },
+  {
+   "from": 95.54,
+   "to": 98,
+   "sid": 49,
+   "location": 2,
+   "content": "第二位呢我很喜欢野球帝这个团队",
+   "music": 0
+  },
+  {
+   "from": 98,
+   "to": 100.96,
+   "sid": 50,
+   "location": 2,
+   "content": "整个氛围就大家一起在一块拍视频",
+   "music": 0
+  },
+  {
+   "from": 100.96,
+   "to": 102.28,
+   "sid": 51,
+   "location": 2,
+   "content": "每天奶还不快乐",
+   "music": 0
+  },
+  {
+   "from": 102.28,
+   "to": 105.179,
+   "sid": 52,
+   "location": 2,
+   "content": "那个什么爆辣牛筋丸啊什么的",
+   "music": 0
+  },
+  {
+   "from": 105.179,
+   "to": 106.799,
+   "sid": 53,
+   "location": 2,
+   "content": "我觉得每天在一起很开心",
+   "music": 0
+  },
+  {
+   "from": 106.799,
+   "to": 109.319,
+   "sid": 54,
+   "location": 2,
+   "content": "我觉得欢迎加入野球帝老王",
+   "music": 0
+  },
+  {
+   "from": 109.319,
+   "to": 110.159,
+   "sid": 55,
+   "location": 2,
+   "content": "好像这样",
+   "music": 0
+  },
+  {
+   "from": 110.159,
+   "to": 111.88,
+   "sid": 56,
+   "location": 2,
+   "content": "就是两个王师傅了啊哈哈",
+   "music": 0
+  },
+  {
+   "from": 111.88,
+   "to": 114.34,
+   "sid": 57,
+   "location": 2,
+   "content": "那我觉得有机会我可以过来玩一玩",
+   "music": 0
+  },
+  {
+   "from": 114.34,
+   "to": 115.3,
+   "sid": 58,
+   "location": 2,
+   "content": "可以请他玩一玩",
+   "music": 0
+  },
+  {
+   "from": 115.3,
+   "to": 115.9,
+   "sid": 59,
+   "location": 2,
+   "content": "好好好",
+   "music": 0
+  },
+  {
+   "from": 115.9,
+   "to": 116.74,
+   "sid": 60,
+   "location": 2,
+   "content": "欢迎欢迎欢迎",
+   "music": 0
+  },
+  {
+   "from": 116.74,
+   "to": 117.64,
+   "sid": 61,
+   "location": 2,
+   "content": "谢谢谢谢好",
+   "music": 0
+  },
+  {
+   "from": 117.64,
+   "to": 118.06,
+   "sid": 62,
+   "location": 2,
+   "content": "Ok",
+   "music": 0
+  }
+ ]
+}

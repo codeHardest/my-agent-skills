@@ -1,0 +1,964 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 0.36,
+   "sid": 1,
+   "location": 2,
+   "content": "大家好",
+   "music": 0
+  },
+  {
+   "from": 0.36,
+   "to": 0.96,
+   "sid": 2,
+   "location": 2,
+   "content": "我是张浩",
+   "music": 0
+  },
+  {
+   "from": 0.96,
+   "to": 2.22,
+   "sid": 3,
+   "location": 2,
+   "content": "是一名职业篮球的训练师",
+   "music": 0
+  },
+  {
+   "from": 2.22,
+   "to": 3.48,
+   "sid": 4,
+   "location": 2,
+   "content": "今天给大家分享一个",
+   "music": 0
+  },
+  {
+   "from": 3.48,
+   "to": 6.3,
+   "sid": 5,
+   "location": 2,
+   "content": "如何提高你玩投篮能力的一堂训练课",
+   "music": 0
+  },
+  {
+   "from": 6.3,
+   "to": 7.08,
+   "sid": 6,
+   "location": 2,
+   "content": "课程时间比较长",
+   "music": 0
+  },
+  {
+   "from": 7.08,
+   "to": 7.98,
+   "sid": 7,
+   "location": 2,
+   "content": "希望你耐心看完",
+   "music": 0
+  },
+  {
+   "from": 7.98,
+   "to": 10.24,
+   "sid": 8,
+   "location": 2,
+   "content": "绝对对你的投篮会有很大的帮助",
+   "music": 0
+  },
+  {
+   "from": 10.86,
+   "to": 14.09,
+   "sid": 9,
+   "location": 2,
+   "content": "我们在镜框的距离做一次运球的",
+   "music": 0
+  },
+  {
+   "from": 14.09,
+   "to": 16.94,
+   "sid": 10,
+   "location": 2,
+   "content": "胯下或者背后的合球",
+   "music": 0
+  },
+  {
+   "from": 16.94,
+   "to": 19.4,
+   "sid": 11,
+   "location": 2,
+   "content": "调整脚步的空心入框",
+   "music": 0
+  },
+  {
+   "from": 22.24,
+   "to": 24.72,
+   "sid": 12,
+   "location": 2,
+   "content": "好我们每个点分成三个点",
+   "music": 0
+  },
+  {
+   "from": 24.72,
+   "to": 25.62,
+   "sid": 13,
+   "location": 2,
+   "content": "这是一个点",
+   "music": 0
+  },
+  {
+   "from": 25.62,
+   "to": 28.74,
+   "sid": 14,
+   "location": 2,
+   "content": "中间一个点我们可以换成背后",
+   "music": 0
+  },
+  {
+   "from": 30.4,
+   "to": 34.14,
+   "sid": 15,
+   "location": 2,
+   "content": "然后换边的底角45度",
+   "music": 0
+  },
+  {
+   "from": 35.96,
+   "to": 37.94,
+   "sid": 16,
+   "location": 2,
+   "content": "这些细节一定要注意",
+   "music": 0
+  },
+  {
+   "from": 37.94,
+   "to": 43.739,
+   "sid": 17,
+   "location": 2,
+   "content": "是一次运球的上部去完成这个投篮训练",
+   "music": 0
+  },
+  {
+   "from": 43.749,
+   "to": 46.739,
+   "sid": 18,
+   "location": 2,
+   "content": "一定要注意上部要衔接合球",
+   "music": 0
+  },
+  {
+   "from": 46.739,
+   "to": 50.94,
+   "sid": 19,
+   "location": 2,
+   "content": "所以整个一次运球散步去合球",
+   "music": 0
+  },
+  {
+   "from": 50.94,
+   "to": 52.08,
+   "sid": 20,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 52.08,
+   "to": 54.4,
+   "sid": 21,
+   "location": 2,
+   "content": "每个点进十个球",
+   "music": 0
+  },
+  {
+   "from": 54.4,
+   "to": 56.5,
+   "sid": 22,
+   "location": 2,
+   "content": "热身结束",
+   "music": 0
+  },
+  {
+   "from": 63.5,
+   "to": 64.72,
+   "sid": 23,
+   "location": 2,
+   "content": "当热身结束以后",
+   "music": 0
+  },
+  {
+   "from": 64.72,
+   "to": 66.26,
+   "sid": 24,
+   "location": 2,
+   "content": "我们开始进入下一个阶段",
+   "music": 0
+  },
+  {
+   "from": 66.26,
+   "to": 69.12,
+   "sid": 25,
+   "location": 2,
+   "content": "在中距离等于说刚才距离在那里",
+   "music": 0
+  },
+  {
+   "from": 69.12,
+   "to": 71.04,
+   "sid": 26,
+   "location": 2,
+   "content": "镜框距离现在在中线的距离",
+   "music": 0
+  },
+  {
+   "from": 71.04,
+   "to": 72.78,
+   "sid": 27,
+   "location": 2,
+   "content": "篮筐下面和三分线的中间",
+   "music": 0
+  },
+  {
+   "from": 72.78,
+   "to": 76.48,
+   "sid": 28,
+   "location": 2,
+   "content": "完成两次运球的合球投篮练习",
+   "music": 0
+  },
+  {
+   "from": 79.06,
+   "to": 81.06,
+   "sid": 29,
+   "location": 2,
+   "content": "把整个半场分为五个点",
+   "music": 0
+  },
+  {
+   "from": 81.06,
+   "to": 82.16,
+   "sid": 30,
+   "location": 2,
+   "content": "两个底线",
+   "music": 0
+  },
+  {
+   "from": 82.16,
+   "to": 85.82,
+   "sid": 31,
+   "location": 2,
+   "content": "两个45度角和中间做两次运球的合球",
+   "music": 0
+  },
+  {
+   "from": 85.82,
+   "to": 86.66,
+   "sid": 32,
+   "location": 2,
+   "content": "投投篮训练好",
+   "music": 0
+  },
+  {
+   "from": 86.66,
+   "to": 91.56,
+   "sid": 33,
+   "location": 2,
+   "content": "我们先来到底线两次运球投篮",
+   "music": 0
+  },
+  {
+   "from": 91.56,
+   "to": 93.03,
+   "sid": 34,
+   "location": 2,
+   "content": "这个点完成以后",
+   "music": 0
+  },
+  {
+   "from": 93.03,
+   "to": 96.25,
+   "sid": 35,
+   "location": 2,
+   "content": "我们捡到球到下一个点45度",
+   "music": 0
+  },
+  {
+   "from": 96.25,
+   "to": 96.97,
+   "sid": 36,
+   "location": 2,
+   "content": "继续",
+   "music": 0
+  },
+  {
+   "from": 99.55,
+   "to": 103.039,
+   "sid": 37,
+   "location": 2,
+   "content": "完成以后你到中间还是两次运球",
+   "music": 0
+  },
+  {
+   "from": 103.039,
+   "to": 104.059,
+   "sid": 38,
+   "location": 2,
+   "content": "中间的两次运球",
+   "music": 0
+  },
+  {
+   "from": 104.059,
+   "to": 105.199,
+   "sid": 39,
+   "location": 2,
+   "content": "你可以随意调整",
+   "music": 0
+  },
+  {
+   "from": 105.199,
+   "to": 105.799,
+   "sid": 40,
+   "location": 2,
+   "content": "体前胯下",
+   "music": 0
+  },
+  {
+   "from": 105.799,
+   "to": 108.199,
+   "sid": 41,
+   "location": 2,
+   "content": "胯下背后都可以",
+   "music": 0
+  },
+  {
+   "from": 110.85,
+   "to": 114.02,
+   "sid": 42,
+   "location": 2,
+   "content": "再大对侧的是45度",
+   "music": 0
+  },
+  {
+   "from": 117.18,
+   "to": 119.12,
+   "sid": 43,
+   "location": 2,
+   "content": "最后我们来到底线",
+   "music": 0
+  },
+  {
+   "from": 119.12,
+   "to": 122.02,
+   "sid": 44,
+   "location": 2,
+   "content": "最后一个点也是两次运球",
+   "music": 0
+  },
+  {
+   "from": 124.1,
+   "to": 125.59,
+   "sid": 45,
+   "location": 2,
+   "content": "好没有投进",
+   "music": 0
+  },
+  {
+   "from": 125.59,
+   "to": 126.73,
+   "sid": 46,
+   "location": 2,
+   "content": "抢篮板",
+   "music": 0
+  },
+  {
+   "from": 126.73,
+   "to": 127.92,
+   "sid": 47,
+   "location": 2,
+   "content": "继续完成",
+   "music": 0
+  },
+  {
+   "from": 130.9,
+   "to": 132,
+   "sid": 48,
+   "location": 2,
+   "content": "一共五个点",
+   "music": 0
+  },
+  {
+   "from": 132,
+   "to": 134.88,
+   "sid": 49,
+   "location": 2,
+   "content": "每一个点希望你进五个球",
+   "music": 0
+  },
+  {
+   "from": 134.88,
+   "to": 136.05,
+   "sid": 50,
+   "location": 2,
+   "content": "一共25个球",
+   "music": 0
+  },
+  {
+   "from": 136.05,
+   "to": 138.42,
+   "sid": 51,
+   "location": 2,
+   "content": "结束我们中距离的投篮训练",
+   "music": 0
+  },
+  {
+   "from": 138.42,
+   "to": 141.62,
+   "sid": 52,
+   "location": 2,
+   "content": "刚才做完了进阶一点的自己运球的衔接",
+   "music": 0
+  },
+  {
+   "from": 141.62,
+   "to": 144.26,
+   "sid": 53,
+   "location": 2,
+   "content": "下面我们从三分线开始往里加速",
+   "music": 0
+  },
+  {
+   "from": 144.26,
+   "to": 145.16,
+   "sid": 54,
+   "location": 2,
+   "content": "急停的运球",
+   "music": 0
+  },
+  {
+   "from": 145.16,
+   "to": 151.48,
+   "sid": 55,
+   "location": 2,
+   "content": "跟刚才的运球的衔接又是不一样的感觉",
+   "music": 0
+  },
+  {
+   "from": 153.08,
+   "to": 154,
+   "sid": 56,
+   "location": 2,
+   "content": "这是第一个点",
+   "music": 0
+  },
+  {
+   "from": 155.62,
+   "to": 156.28,
+   "sid": 57,
+   "location": 2,
+   "content": "抢篮板",
+   "music": 0
+  },
+  {
+   "from": 156.28,
+   "to": 157.76,
+   "sid": 58,
+   "location": 2,
+   "content": "来到45度",
+   "music": 0
+  },
+  {
+   "from": 159.2,
+   "to": 160.81,
+   "sid": 59,
+   "location": 2,
+   "content": "刚才我是走的右侧",
+   "music": 0
+  },
+  {
+   "from": 160.81,
+   "to": 163.18,
+   "sid": 60,
+   "location": 2,
+   "content": "现在我可以拖左侧",
+   "music": 0
+  },
+  {
+   "from": 167.74,
+   "to": 174.94,
+   "sid": 61,
+   "location": 2,
+   "content": "来到中间还是一次运球的向前的急停投篮",
+   "music": 0
+  },
+  {
+   "from": 180.06,
+   "to": 181.7,
+   "sid": 62,
+   "location": 2,
+   "content": "中间做完了",
+   "music": 0
+  },
+  {
+   "from": 181.7,
+   "to": 184.7,
+   "sid": 63,
+   "location": 2,
+   "content": "来到对侧的45度",
+   "music": 0
+  },
+  {
+   "from": 184.78,
+   "to": 188.4,
+   "sid": 64,
+   "location": 2,
+   "content": "不得不没有进自己抢篮板",
+   "music": 0
+  },
+  {
+   "from": 189.78,
+   "to": 190.2,
+   "sid": 65,
+   "location": 2,
+   "content": "继续",
+   "music": 0
+  },
+  {
+   "from": 193.8,
+   "to": 195.98,
+   "sid": 66,
+   "location": 2,
+   "content": "最后一个点底线",
+   "music": 0
+  },
+  {
+   "from": 201.44,
+   "to": 202.92,
+   "sid": 67,
+   "location": 2,
+   "content": "没有进抢篮板",
+   "music": 0
+  },
+  {
+   "from": 203.239,
+   "to": 204.679,
+   "sid": 68,
+   "location": 2,
+   "content": "你在抢篮板的同时",
+   "music": 0
+  },
+  {
+   "from": 205.759,
+   "to": 207.619,
+   "sid": 69,
+   "location": 2,
+   "content": "也是提升你心肺功能",
+   "music": 0
+  },
+  {
+   "from": 207.619,
+   "to": 210.22,
+   "sid": 70,
+   "location": 2,
+   "content": "训练你强度投篮的一个能力",
+   "music": 0
+  },
+  {
+   "from": 213.819,
+   "to": 217.22,
+   "sid": 71,
+   "location": 2,
+   "content": "好还是希望你往前的急停的中距离投篮",
+   "music": 0
+  },
+  {
+   "from": 217.22,
+   "to": 218.9,
+   "sid": 72,
+   "location": 2,
+   "content": "每个点进五个球",
+   "music": 0
+  },
+  {
+   "from": 218.9,
+   "to": 220.94,
+   "sid": 73,
+   "location": 2,
+   "content": "完成急停的中距离投篮练习",
+   "music": 0
+  },
+  {
+   "from": 220.94,
+   "to": 225.07,
+   "sid": 74,
+   "location": 2,
+   "content": "开始的热身和中间的两个中距离的急停",
+   "music": 0
+  },
+  {
+   "from": 225.07,
+   "to": 226.75,
+   "sid": 75,
+   "location": 2,
+   "content": "和衔接的投篮",
+   "music": 0
+  },
+  {
+   "from": 226.75,
+   "to": 230.35,
+   "sid": 76,
+   "location": 2,
+   "content": "有了我们三分来完成另一项投篮能力里面",
+   "music": 0
+  },
+  {
+   "from": 230.35,
+   "to": 231.7,
+   "sid": 77,
+   "location": 2,
+   "content": "非常重要的一个点",
+   "music": 0
+  },
+  {
+   "from": 231.7,
+   "to": 233.42,
+   "sid": 78,
+   "location": 2,
+   "content": "横向的移动衔接投篮",
+   "music": 0
+  },
+  {
+   "from": 233.42,
+   "to": 237.5,
+   "sid": 79,
+   "location": 2,
+   "content": "所以还是以每一个点进五个球为例",
+   "music": 0
+  },
+  {
+   "from": 237.5,
+   "to": 238.4,
+   "sid": 80,
+   "location": 2,
+   "content": "一共五个点",
+   "music": 0
+  },
+  {
+   "from": 238.4,
+   "to": 239.24,
+   "sid": 81,
+   "location": 2,
+   "content": "还是25个球",
+   "music": 0
+  },
+  {
+   "from": 239.24,
+   "to": 240.2,
+   "sid": 82,
+   "location": 2,
+   "content": "第一个横向训练",
+   "music": 0
+  },
+  {
+   "from": 240.2,
+   "to": 242.51,
+   "sid": 83,
+   "location": 2,
+   "content": "我们可以右手的敲运球为例",
+   "music": 0
+  },
+  {
+   "from": 242.51,
+   "to": 244.52,
+   "sid": 84,
+   "location": 2,
+   "content": "衔接投篮",
+   "music": 0
+  },
+  {
+   "from": 246.06,
+   "to": 246.86,
+   "sid": 85,
+   "location": 2,
+   "content": "进球了",
+   "music": 0
+  },
+  {
+   "from": 246.86,
+   "to": 252.5,
+   "sid": 86,
+   "location": 2,
+   "content": "下一个我们换体前变向的横向移动衔接",
+   "music": 0
+  },
+  {
+   "from": 252.5,
+   "to": 255.6,
+   "sid": 87,
+   "location": 2,
+   "content": "投篮没有进",
+   "music": 0
+  },
+  {
+   "from": 255.6,
+   "to": 257.52,
+   "sid": 88,
+   "location": 2,
+   "content": "我们把体前变向的给补进",
+   "music": 0
+  },
+  {
+   "from": 261.54,
+   "to": 262.53,
+   "sid": 89,
+   "location": 2,
+   "content": "大家一定要注意",
+   "music": 0
+  },
+  {
+   "from": 262.53,
+   "to": 264.5,
+   "sid": 90,
+   "location": 2,
+   "content": "我在横向调动的时候",
+   "music": 0
+  },
+  {
+   "from": 264.5,
+   "to": 266.39,
+   "sid": 91,
+   "location": 2,
+   "content": "脚步非常的关键",
+   "music": 0
+  },
+  {
+   "from": 266.39,
+   "to": 268.16,
+   "sid": 92,
+   "location": 2,
+   "content": "我以右手为例",
+   "music": 0
+  },
+  {
+   "from": 268.16,
+   "to": 270.98,
+   "sid": 93,
+   "location": 2,
+   "content": "现在是左手持球到右手",
+   "music": 0
+  },
+  {
+   "from": 270.98,
+   "to": 272.87,
+   "sid": 94,
+   "location": 2,
+   "content": "那么我的右脚要在前面",
+   "music": 0
+  },
+  {
+   "from": 272.87,
+   "to": 275.2,
+   "sid": 95,
+   "location": 2,
+   "content": "方便我有突破的选择",
+   "music": 0
+  },
+  {
+   "from": 275.2,
+   "to": 276.94,
+   "sid": 96,
+   "location": 2,
+   "content": "细节非常重要",
+   "music": 0
+  },
+  {
+   "from": 276.94,
+   "to": 277.84,
+   "sid": 97,
+   "location": 2,
+   "content": "再讲一遍",
+   "music": 0
+  },
+  {
+   "from": 277.84,
+   "to": 281.77,
+   "sid": 98,
+   "location": 2,
+   "content": "球到了右手一定是这个启动的姿势",
+   "music": 0
+  },
+  {
+   "from": 281.77,
+   "to": 286.33,
+   "sid": 99,
+   "location": 2,
+   "content": "再去跟你的左脚合球去完成投篮",
+   "music": 0
+  },
+  {
+   "from": 286.52,
+   "to": 292.61,
+   "sid": 100,
+   "location": 2,
+   "content": "好下面来到中线中线我就可以换手",
+   "music": 0
+  },
+  {
+   "from": 292.61,
+   "to": 293.54,
+   "sid": 101,
+   "location": 2,
+   "content": "换成右手",
+   "music": 0
+  },
+  {
+   "from": 293.54,
+   "to": 294.23,
+   "sid": 102,
+   "location": 2,
+   "content": "变左手",
+   "music": 0
+  },
+  {
+   "from": 294.23,
+   "to": 296.72,
+   "sid": 103,
+   "location": 2,
+   "content": "每个方向每一侧的合球",
+   "music": 0
+  },
+  {
+   "from": 296.72,
+   "to": 299.42,
+   "sid": 104,
+   "location": 2,
+   "content": "左侧和右侧的合球感觉都不一样",
+   "music": 0
+  },
+  {
+   "from": 299.42,
+   "to": 302.42,
+   "sid": 105,
+   "location": 2,
+   "content": "所以我希望大家全方位的练到",
+   "music": 0
+  },
+  {
+   "from": 304.66,
+   "to": 307.26,
+   "sid": 106,
+   "location": 2,
+   "content": "45度我们可以完成胯下的横向移动",
+   "music": 0
+  },
+  {
+   "from": 307.26,
+   "to": 308.52,
+   "sid": 107,
+   "location": 2,
+   "content": "也是注意脚步",
+   "music": 0
+  },
+  {
+   "from": 310.18,
+   "to": 314.82,
+   "sid": 108,
+   "location": 2,
+   "content": "底线我们又可以换成背后的横向移动",
+   "music": 0
+  },
+  {
+   "from": 316.36,
+   "to": 317.67,
+   "sid": 109,
+   "location": 2,
+   "content": "去完成这个练习",
+   "music": 0
+  },
+  {
+   "from": 317.67,
+   "to": 322.26,
+   "sid": 110,
+   "location": 2,
+   "content": "每一个训练项目以罚球连进两到三个来结束",
+   "music": 0
+  },
+  {
+   "from": 322.26,
+   "to": 326.64,
+   "sid": 111,
+   "location": 2,
+   "content": "中间你可以休息30秒到一分钟",
+   "music": 0
+  },
+  {
+   "from": 339.26,
+   "to": 341.32,
+   "sid": 112,
+   "location": 2,
+   "content": "大家如果自己不知道该如何训练",
+   "music": 0
+  },
+  {
+   "from": 341.32,
+   "to": 344.65,
+   "sid": 113,
+   "location": 2,
+   "content": "我会接下来的作品里面会带来更多的一个人",
+   "music": 0
+  },
+  {
+   "from": 344.65,
+   "to": 346.6,
+   "sid": 114,
+   "location": 2,
+   "content": "自己如何提高你的运球能力",
+   "music": 0
+  },
+  {
+   "from": 346.6,
+   "to": 347.47,
+   "sid": 115,
+   "location": 2,
+   "content": "投篮能力",
+   "music": 0
+  },
+  {
+   "from": 347.47,
+   "to": 348.76,
+   "sid": 116,
+   "location": 2,
+   "content": "终结能力等等",
+   "music": 0
+  },
+  {
+   "from": 348.76,
+   "to": 351.34,
+   "sid": 117,
+   "location": 2,
+   "content": "各项比赛当中发生的技巧训练",
+   "music": 0
+  },
+  {
+   "from": 351.34,
+   "to": 352,
+   "sid": 118,
+   "location": 2,
+   "content": "关注我",
+   "music": 0
+  },
+  {
+   "from": 352,
+   "to": 354.66,
+   "sid": 119,
+   "location": 2,
+   "content": "让大家更了解自己该如何训练",
+   "music": 0
+  }
+ ]
+}

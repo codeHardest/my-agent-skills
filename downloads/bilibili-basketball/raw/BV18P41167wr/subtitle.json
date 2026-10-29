@@ -1,0 +1,1132 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 0.48,
+   "sid": 1,
+   "location": 2,
+   "content": "哈喽大家好",
+   "music": 0
+  },
+  {
+   "from": 0.48,
+   "to": 1.44,
+   "sid": 2,
+   "location": 2,
+   "content": "我是你们训练实战号",
+   "music": 0
+  },
+  {
+   "from": 1.44,
+   "to": 3.75,
+   "sid": 3,
+   "location": 2,
+   "content": "这一期主要给大家讲关于延伸步",
+   "music": 0
+  },
+  {
+   "from": 3.75,
+   "to": 5.1,
+   "sid": 4,
+   "location": 2,
+   "content": "也就是并步起跳",
+   "music": 0
+  },
+  {
+   "from": 5.1,
+   "to": 7.62,
+   "sid": 5,
+   "location": 2,
+   "content": "双脚起跳的终结以及运动啊",
+   "music": 0
+  },
+  {
+   "from": 7.62,
+   "to": 8.37,
+   "sid": 6,
+   "location": 2,
+   "content": "延伸步",
+   "music": 0
+  },
+  {
+   "from": 8.37,
+   "to": 9.3,
+   "sid": 7,
+   "location": 2,
+   "content": "并步起跳",
+   "music": 0
+  },
+  {
+   "from": 9.3,
+   "to": 12.2,
+   "sid": 8,
+   "location": 2,
+   "content": "作为在镜框距离最重要的得分脚步",
+   "music": 0
+  },
+  {
+   "from": 12.2,
+   "to": 15.29,
+   "sid": 9,
+   "location": 2,
+   "content": "它的优势在于我在合球之后",
+   "music": 0
+  },
+  {
+   "from": 15.29,
+   "to": 18.03,
+   "sid": 10,
+   "location": 2,
+   "content": "两个角踏的很稳很开",
+   "music": 0
+  },
+  {
+   "from": 18.03,
+   "to": 20.43,
+   "sid": 11,
+   "location": 2,
+   "content": "同时呢又有很多的选择",
+   "music": 0
+  },
+  {
+   "from": 20.43,
+   "to": 22.26,
+   "sid": 12,
+   "location": 2,
+   "content": "这是他最大的一个优势",
+   "music": 0
+  },
+  {
+   "from": 22.26,
+   "to": 22.86,
+   "sid": 13,
+   "location": 2,
+   "content": "然后呢",
+   "music": 0
+  },
+  {
+   "from": 22.86,
+   "to": 26.4,
+   "sid": 14,
+   "location": 2,
+   "content": "我也建议很多球员在推到镜框距离的时候",
+   "music": 0
+  },
+  {
+   "from": 26.4,
+   "to": 27.96,
+   "sid": 15,
+   "location": 2,
+   "content": "不要去迈三大步",
+   "music": 0
+  },
+  {
+   "from": 27.96,
+   "to": 30.48,
+   "sid": 16,
+   "location": 2,
+   "content": "因为迈三大步很容易被防守判断出来",
+   "music": 0
+  },
+  {
+   "from": 30.48,
+   "to": 31.86,
+   "sid": 17,
+   "location": 2,
+   "content": "而且选择更少",
+   "music": 0
+  },
+  {
+   "from": 31.86,
+   "to": 33.72,
+   "sid": 18,
+   "location": 2,
+   "content": "在高水平的比赛当中",
+   "music": 0
+  },
+  {
+   "from": 33.72,
+   "to": 35.1,
+   "sid": 19,
+   "location": 2,
+   "content": "除非里面是空位了",
+   "music": 0
+  },
+  {
+   "from": 35.1,
+   "to": 37.44,
+   "sid": 20,
+   "location": 2,
+   "content": "或者是只有一个人一对一的时候",
+   "music": 0
+  },
+  {
+   "from": 37.44,
+   "to": 40.8,
+   "sid": 21,
+   "location": 2,
+   "content": "可以选择卖菜大叔骑三部强在时间上的新手",
+   "music": 0
+  },
+  {
+   "from": 40.8,
+   "to": 42.81,
+   "sid": 22,
+   "location": 2,
+   "content": "如果你的情况很复杂",
+   "music": 0
+  },
+  {
+   "from": 42.81,
+   "to": 47.96,
+   "sid": 23,
+   "location": 2,
+   "content": "我一直强调是用延伸步去总结转身完成抛投",
+   "music": 0.07327586048974369
+  },
+  {
+   "from": 47.96,
+   "to": 50.6,
+   "sid": 24,
+   "location": 2,
+   "content": "延伸步的使用低制他的合球时机",
+   "music": 0
+  },
+  {
+   "from": 50.6,
+   "to": 52.16,
+   "sid": 25,
+   "location": 2,
+   "content": "以上脚的时机",
+   "music": 0
+  },
+  {
+   "from": 52.16,
+   "to": 53.12,
+   "sid": 26,
+   "location": 2,
+   "content": "我现在模拟一下",
+   "music": 0
+  },
+  {
+   "from": 53.12,
+   "to": 56.18,
+   "sid": 27,
+   "location": 2,
+   "content": "我现在如果左手去持球往禁区再突破",
+   "music": 0
+  },
+  {
+   "from": 56.18,
+   "to": 57.05,
+   "sid": 28,
+   "location": 2,
+   "content": "我的防守",
+   "music": 0
+  },
+  {
+   "from": 57.05,
+   "to": 58.9,
+   "sid": 29,
+   "location": 2,
+   "content": "也就是这个桶在我的右边",
+   "music": 0
+  },
+  {
+   "from": 58.9,
+   "to": 60.67,
+   "sid": 30,
+   "location": 2,
+   "content": "然后我已经靠近篮筐了",
+   "music": 0
+  },
+  {
+   "from": 60.67,
+   "to": 61.99,
+   "sid": 31,
+   "location": 2,
+   "content": "防守还紧贴着我",
+   "music": 0
+  },
+  {
+   "from": 61.99,
+   "to": 67.48,
+   "sid": 32,
+   "location": 2,
+   "content": "这个时候合球同时护好球的同时踏步位置",
+   "music": 0
+  },
+  {
+   "from": 67.48,
+   "to": 68.2,
+   "sid": 33,
+   "location": 2,
+   "content": "左手持球",
+   "music": 0
+  },
+  {
+   "from": 68.2,
+   "to": 70.87,
+   "sid": 34,
+   "location": 2,
+   "content": "左脚第一步也就是左右啊",
+   "music": 0
+  },
+  {
+   "from": 70.87,
+   "to": 71.68,
+   "sid": 35,
+   "location": 2,
+   "content": "再强调一遍",
+   "music": 0
+  },
+  {
+   "from": 71.68,
+   "to": 74.16,
+   "sid": 36,
+   "location": 2,
+   "content": "左右左右之后",
+   "music": 0.13265305445647985
+  },
+  {
+   "from": 74.16,
+   "to": 75.42,
+   "sid": 37,
+   "location": 2,
+   "content": "右脚在前试试",
+   "music": 0
+  },
+  {
+   "from": 75.42,
+   "to": 76.35,
+   "sid": 38,
+   "location": 2,
+   "content": "背对的防守",
+   "music": 0
+  },
+  {
+   "from": 76.35,
+   "to": 77.58,
+   "sid": 39,
+   "location": 2,
+   "content": "很容易去护球",
+   "music": 0
+  },
+  {
+   "from": 77.58,
+   "to": 79.56,
+   "sid": 40,
+   "location": 2,
+   "content": "很容易找到进攻的空间",
+   "music": 0
+  },
+  {
+   "from": 79.56,
+   "to": 81.39,
+   "sid": 41,
+   "location": 2,
+   "content": "所以左脚远离防守侧",
+   "music": 0
+  },
+  {
+   "from": 81.39,
+   "to": 82.38,
+   "sid": 42,
+   "location": 2,
+   "content": "右手支起来",
+   "music": 0
+  },
+  {
+   "from": 82.38,
+   "to": 84.15,
+   "sid": 43,
+   "location": 2,
+   "content": "我现在的防守是在我的右侧",
+   "music": 0
+  },
+  {
+   "from": 84.15,
+   "to": 86.06,
+   "sid": 44,
+   "location": 2,
+   "content": "也就是蓝色垫子的这一侧",
+   "music": 0
+  },
+  {
+   "from": 86.94,
+   "to": 87.98,
+   "sid": 45,
+   "location": 2,
+   "content": "完成打板",
+   "music": 0
+  },
+  {
+   "from": 87.98,
+   "to": 94.22,
+   "sid": 46,
+   "location": 2,
+   "content": "终结好最完整的",
+   "music": 0.6482084584982333
+  },
+  {
+   "from": 94.5,
+   "to": 97.35,
+   "sid": 47,
+   "location": 2,
+   "content": "关于这个延伸步以及双脚起跳的运动",
+   "music": 0
+  },
+  {
+   "from": 97.35,
+   "to": 99.1,
+   "sid": 48,
+   "location": 2,
+   "content": "还有一个很好的选择",
+   "music": 0
+  },
+  {
+   "from": 99.1,
+   "to": 100.3,
+   "sid": 49,
+   "location": 2,
+   "content": "如果我拖到这里",
+   "music": 0
+  },
+  {
+   "from": 100.3,
+   "to": 101.92,
+   "sid": 50,
+   "location": 2,
+   "content": "蓝色还是我防守人",
+   "music": 0
+  },
+  {
+   "from": 101.92,
+   "to": 104.74,
+   "sid": 51,
+   "location": 2,
+   "content": "篮球踏步再说一遍",
+   "music": 0
+  },
+  {
+   "from": 104.74,
+   "to": 106.48,
+   "sid": 52,
+   "location": 2,
+   "content": "合球左右",
+   "music": 0.05660376824492955
+  },
+  {
+   "from": 106.48,
+   "to": 109.68,
+   "sid": 53,
+   "location": 2,
+   "content": "如果防守往那边偏去抢",
+   "music": 0.06862744761630166
+  },
+  {
+   "from": 109.68,
+   "to": 110.94,
+   "sid": 54,
+   "location": 2,
+   "content": "不想让完成终结",
+   "music": 0
+  },
+  {
+   "from": 110.94,
+   "to": 113.12,
+   "sid": 55,
+   "location": 2,
+   "content": "我是不是右脚蹬地可以收回来",
+   "music": 0
+  },
+  {
+   "from": 113.12,
+   "to": 114.65,
+   "sid": 56,
+   "location": 2,
+   "content": "去完成抛投终结",
+   "music": 0
+  },
+  {
+   "from": 114.65,
+   "to": 115.76,
+   "sid": 57,
+   "location": 2,
+   "content": "这是为什么",
+   "music": 0
+  },
+  {
+   "from": 115.76,
+   "to": 118.4,
+   "sid": 58,
+   "location": 2,
+   "content": "延伸步在禁区里面非常实用的",
+   "music": 0
+  },
+  {
+   "from": 118.4,
+   "to": 119.42,
+   "sid": 59,
+   "location": 2,
+   "content": "一个非常重要的原因",
+   "music": 0
+  },
+  {
+   "from": 119.42,
+   "to": 120.14,
+   "sid": 60,
+   "location": 2,
+   "content": "选择更多",
+   "music": 0
+  },
+  {
+   "from": 120.14,
+   "to": 121.52,
+   "sid": 61,
+   "location": 2,
+   "content": "脚步稍微有点复杂",
+   "music": 0
+  },
+  {
+   "from": 121.52,
+   "to": 124.28,
+   "sid": 62,
+   "location": 2,
+   "content": "很多同学和球员在刚开始的时候",
+   "music": 0
+  },
+  {
+   "from": 124.28,
+   "to": 125.3,
+   "sid": 63,
+   "location": 2,
+   "content": "运动的不是很清楚",
+   "music": 0
+  },
+  {
+   "from": 125.3,
+   "to": 126.47,
+   "sid": 64,
+   "location": 2,
+   "content": "也容易手脚不协调",
+   "music": 0
+  },
+  {
+   "from": 126.47,
+   "to": 128,
+   "sid": 65,
+   "location": 2,
+   "content": "所以右侧我再讲一遍",
+   "music": 0
+  },
+  {
+   "from": 128,
+   "to": 129.4,
+   "sid": 66,
+   "location": 2,
+   "content": "我现在拖到右边来",
+   "music": 0
+  },
+  {
+   "from": 129.4,
+   "to": 130.51,
+   "sid": 67,
+   "location": 2,
+   "content": "我的防守",
+   "music": 0
+  },
+  {
+   "from": 130.51,
+   "to": 131.74,
+   "sid": 68,
+   "location": 2,
+   "content": "当我到禁区的时候",
+   "music": 0
+  },
+  {
+   "from": 131.74,
+   "to": 133.66,
+   "sid": 69,
+   "location": 2,
+   "content": "我的防守在我的左侧啊",
+   "music": 0
+  },
+  {
+   "from": 133.66,
+   "to": 134.71,
+   "sid": 70,
+   "location": 2,
+   "content": "他一直跟着我",
+   "music": 0
+  },
+  {
+   "from": 134.71,
+   "to": 137.3,
+   "sid": 71,
+   "location": 2,
+   "content": "所以这个时候和合球",
+   "music": 0
+  },
+  {
+   "from": 137.3,
+   "to": 139.1,
+   "sid": 72,
+   "location": 2,
+   "content": "右脚是第一步啊",
+   "music": 0
+  },
+  {
+   "from": 139.1,
+   "to": 141.32,
+   "sid": 73,
+   "location": 2,
+   "content": "如果你是往右突就很好记",
+   "music": 0
+  },
+  {
+   "from": 141.32,
+   "to": 142.58,
+   "sid": 74,
+   "location": 2,
+   "content": "是右脚啊",
+   "music": 0
+  },
+  {
+   "from": 142.58,
+   "to": 143.34,
+   "sid": 75,
+   "location": 2,
+   "content": "再来一遍的",
+   "music": 0
+  },
+  {
+   "from": 144.88,
+   "to": 146.61,
+   "sid": 76,
+   "location": 2,
+   "content": "然后完成上篮的终结",
+   "music": 0
+  },
+  {
+   "from": 146.61,
+   "to": 148.02,
+   "sid": 77,
+   "location": 2,
+   "content": "很好很好记",
+   "music": 0
+  },
+  {
+   "from": 148.02,
+   "to": 149.58,
+   "sid": 78,
+   "location": 2,
+   "content": "往右突是右脚",
+   "music": 0
+  },
+  {
+   "from": 149.58,
+   "to": 150.08,
+   "sid": 79,
+   "location": 2,
+   "content": "第一步",
+   "music": 0
+  },
+  {
+   "from": 150.08,
+   "to": 150.8,
+   "sid": 80,
+   "location": 2,
+   "content": "左脚",
+   "music": 0
+  },
+  {
+   "from": 150.8,
+   "to": 151.34,
+   "sid": 81,
+   "location": 2,
+   "content": "第二步",
+   "music": 0
+  },
+  {
+   "from": 151.34,
+   "to": 152.06,
+   "sid": 82,
+   "location": 2,
+   "content": "右脚",
+   "music": 0
+  },
+  {
+   "from": 152.06,
+   "to": 153.38,
+   "sid": 83,
+   "location": 2,
+   "content": "如果是左手呢",
+   "music": 0
+  },
+  {
+   "from": 153.38,
+   "to": 155.18,
+   "sid": 84,
+   "location": 2,
+   "content": "那就是左右啊",
+   "music": 0
+  },
+  {
+   "from": 155.18,
+   "to": 156.58,
+   "sid": 85,
+   "location": 2,
+   "content": "哪个手持球",
+   "music": 0
+  },
+  {
+   "from": 156.58,
+   "to": 158.62,
+   "sid": 86,
+   "location": 2,
+   "content": "哪个脚就是第一步啊",
+   "music": 0
+  },
+  {
+   "from": 158.62,
+   "to": 160.51,
+   "sid": 87,
+   "location": 2,
+   "content": "这一定要记住教练再做一遍",
+   "music": 0
+  },
+  {
+   "from": 160.51,
+   "to": 163.03,
+   "sid": 88,
+   "location": 2,
+   "content": "拖到这里来的时候",
+   "music": 0
+  },
+  {
+   "from": 163.03,
+   "to": 163.96,
+   "sid": 89,
+   "location": 2,
+   "content": "我的斜方啊",
+   "music": 0
+  },
+  {
+   "from": 163.96,
+   "to": 169.38,
+   "sid": 90,
+   "location": 2,
+   "content": "我的防守在这一侧合球一二完成上篮终结好",
+   "music": 0.07723577078788967
+  },
+  {
+   "from": 169.38,
+   "to": 170.34,
+   "sid": 91,
+   "location": 2,
+   "content": "那他的选择",
+   "music": 0
+  },
+  {
+   "from": 170.34,
+   "to": 172.24,
+   "sid": 92,
+   "location": 2,
+   "content": "我刚才左手时候已经讲了",
+   "music": 0
+  },
+  {
+   "from": 172.24,
+   "to": 174.34,
+   "sid": 93,
+   "location": 2,
+   "content": "可以停住",
+   "music": 0.14999999250000606
+  },
+  {
+   "from": 175.36,
+   "to": 177.01,
+   "sid": 94,
+   "location": 2,
+   "content": "停住左手往上去",
+   "music": 0
+  },
+  {
+   "from": 177.01,
+   "to": 179.38,
+   "sid": 95,
+   "location": 2,
+   "content": "给防守造成我要上篮的假象",
+   "music": 0
+  },
+  {
+   "from": 179.38,
+   "to": 181.94,
+   "sid": 96,
+   "location": 2,
+   "content": "然后左脚为轴可以收回来",
+   "music": 0
+  },
+  {
+   "from": 183.02,
+   "to": 184.43,
+   "sid": 97,
+   "location": 2,
+   "content": "去完成抛投终结",
+   "music": 0
+  },
+  {
+   "from": 184.43,
+   "to": 186.52,
+   "sid": 98,
+   "location": 2,
+   "content": "如果这个时候防守又上来了",
+   "music": 0
+  },
+  {
+   "from": 186.52,
+   "to": 191.26,
+   "sid": 99,
+   "location": 2,
+   "content": "我是不是还可以做一次很明显的上下步转身",
+   "music": 0.30270269452155096
+  },
+  {
+   "from": 191.26,
+   "to": 191.98,
+   "sid": 100,
+   "location": 2,
+   "content": "上篮终结",
+   "music": 0
+  },
+  {
+   "from": 191.98,
+   "to": 195.66,
+   "sid": 101,
+   "location": 2,
+   "content": "这也是为什么我跟很多球员和学员讲",
+   "music": 0
+  },
+  {
+   "from": 195.66,
+   "to": 199.6,
+   "sid": 102,
+   "location": 2,
+   "content": "在禁区里面要多使用双脚停的延伸步",
+   "music": 0
+  },
+  {
+   "from": 199.6,
+   "to": 201.64,
+   "sid": 103,
+   "location": 2,
+   "content": "并步起跳和双脚起跳",
+   "music": 0
+  },
+  {
+   "from": 201.64,
+   "to": 203.56,
+   "sid": 104,
+   "location": 2,
+   "content": "而不是起三大步的一个重要原因",
+   "music": 0
+  },
+  {
+   "from": 203.56,
+   "to": 204.579,
+   "sid": 105,
+   "location": 2,
+   "content": "就选择更多",
+   "music": 0
+  },
+  {
+   "from": 204.579,
+   "to": 205.539,
+   "sid": 106,
+   "location": 2,
+   "content": "大家记清楚了吗",
+   "music": 0
+  },
+  {
+   "from": 205.539,
+   "to": 208.359,
+   "sid": 107,
+   "location": 2,
+   "content": "好今天的视频给大家详细讲解了关于延伸步",
+   "music": 0
+  },
+  {
+   "from": 208.359,
+   "to": 209.439,
+   "sid": 108,
+   "location": 2,
+   "content": "也就是并不起跳",
+   "music": 0
+  },
+  {
+   "from": 209.439,
+   "to": 211.98,
+   "sid": 109,
+   "location": 2,
+   "content": "也就是大家俗称的双脚起跳的一些运动",
+   "music": 0
+  },
+  {
+   "from": 211.98,
+   "to": 213.84,
+   "sid": 110,
+   "location": 2,
+   "content": "我希望大家在实战当中",
+   "music": 0
+  },
+  {
+   "from": 213.84,
+   "to": 215.58,
+   "sid": 111,
+   "location": 2,
+   "content": "平时自己在打爸爸球的时候",
+   "music": 0
+  },
+  {
+   "from": 215.58,
+   "to": 217.38,
+   "sid": 112,
+   "location": 2,
+   "content": "一定要多运动一下哦",
+   "music": 0
+  },
+  {
+   "from": 217.38,
+   "to": 218.85,
+   "sid": 113,
+   "location": 2,
+   "content": "一定要注意手脚的协调",
+   "music": 0
+  },
+  {
+   "from": 218.85,
+   "to": 220.9,
+   "sid": 114,
+   "location": 2,
+   "content": "还有就是篮球的时机",
+   "music": 0
+  },
+  {
+   "from": 220.9,
+   "to": 224.47,
+   "sid": 115,
+   "location": 2,
+   "content": "哪个脚前哪个脚步是非常关键的一个动作",
+   "music": 0
+  },
+  {
+   "from": 224.47,
+   "to": 226.839,
+   "sid": 116,
+   "location": 2,
+   "content": "然后教练希望你在做延伸步的时候",
+   "music": 0
+  },
+  {
+   "from": 226.839,
+   "to": 228.939,
+   "sid": 117,
+   "location": 2,
+   "content": "脚间距要宽一点啊",
+   "music": 0
+  },
+  {
+   "from": 228.939,
+   "to": 230.319,
+   "sid": 118,
+   "location": 2,
+   "content": "这是第二个非常重要的细节",
+   "music": 0
+  },
+  {
+   "from": 230.319,
+   "to": 231.699,
+   "sid": 119,
+   "location": 2,
+   "content": "第三个很重要的细节",
+   "music": 0
+  },
+  {
+   "from": 231.699,
+   "to": 233.979,
+   "sid": 120,
+   "location": 2,
+   "content": "掌握他的所有选择好",
+   "music": 0
+  },
+  {
+   "from": 233.979,
+   "to": 236.18,
+   "sid": 121,
+   "location": 2,
+   "content": "第一看是脚宽宽",
+   "music": 0
+  },
+  {
+   "from": 236.18,
+   "to": 237.5,
+   "sid": 122,
+   "location": 2,
+   "content": "站姿是第一",
+   "music": 0
+  },
+  {
+   "from": 237.5,
+   "to": 239.57,
+   "sid": 123,
+   "location": 2,
+   "content": "第二掌握他的所有选择",
+   "music": 0
+  },
+  {
+   "from": 239.57,
+   "to": 240.62,
+   "sid": 124,
+   "location": 2,
+   "content": "不会上步",
+   "music": 0
+  },
+  {
+   "from": 240.62,
+   "to": 241.55,
+   "sid": 125,
+   "location": 2,
+   "content": "只会后撤",
+   "music": 0
+  },
+  {
+   "from": 241.55,
+   "to": 243.44,
+   "sid": 126,
+   "location": 2,
+   "content": "抛投也可以上下步",
+   "music": 0
+  },
+  {
+   "from": 243.44,
+   "to": 245,
+   "sid": 127,
+   "location": 2,
+   "content": "关中结直接选择",
+   "music": 0
+  },
+  {
+   "from": 245,
+   "to": 247.16,
+   "sid": 128,
+   "location": 2,
+   "content": "第三要多做假动作啊",
+   "music": 0
+  },
+  {
+   "from": 247.16,
+   "to": 249.84,
+   "sid": 129,
+   "location": 2,
+   "content": "一定在禁区这防守非常好啊",
+   "music": 0
+  },
+  {
+   "from": 249.84,
+   "to": 251.49,
+   "sid": 130,
+   "location": 2,
+   "content": "我希望大家多做一些假动作",
+   "music": 0
+  },
+  {
+   "from": 251.49,
+   "to": 256.12,
+   "sid": 131,
+   "location": 2,
+   "content": "假传假投真投都可以去运动",
+   "music": 0
+  },
+  {
+   "from": 256.12,
+   "to": 257.32,
+   "sid": 132,
+   "location": 2,
+   "content": "这期视频就到这里",
+   "music": 0
+  },
+  {
+   "from": 257.32,
+   "to": 260.119,
+   "sid": 133,
+   "location": 2,
+   "content": "如果你们还有一些关于技巧和训练的问题",
+   "music": 0
+  },
+  {
+   "from": 260.119,
+   "to": 261.319,
+   "sid": 134,
+   "location": 2,
+   "content": "请在评论区告诉我",
+   "music": 0
+  },
+  {
+   "from": 261.319,
+   "to": 263.26,
+   "sid": 135,
+   "location": 2,
+   "content": "我会精简一个大家常犯的错误",
+   "music": 0
+  },
+  {
+   "from": 263.26,
+   "to": 265.27,
+   "sid": 136,
+   "location": 2,
+   "content": "在下一期的视频里面会讲给大家",
+   "music": 0
+  },
+  {
+   "from": 265.27,
+   "to": 267.04,
+   "sid": 137,
+   "location": 2,
+   "content": "如果大家觉得这个视频对你有帮助",
+   "music": 0
+  },
+  {
+   "from": 267.04,
+   "to": 268.66,
+   "sid": 138,
+   "location": 2,
+   "content": "谢谢大家给我一个一键三连啊",
+   "music": 0
+  },
+  {
+   "from": 268.66,
+   "to": 269.62,
+   "sid": 139,
+   "location": 2,
+   "content": "这一期视频就到这里",
+   "music": 0
+  },
+  {
+   "from": 269.62,
+   "to": 270.08,
+   "sid": 140,
+   "location": 2,
+   "content": "拜拜",
+   "music": 0
+  }
+ ]
+}

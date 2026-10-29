@@ -1,0 +1,100 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 13.74,
+   "to": 14.9,
+   "sid": 1,
+   "location": 2,
+   "content": "高同学",
+   "music": 0
+  },
+  {
+   "from": 215.38,
+   "to": 216.79,
+   "sid": 2,
+   "location": 2,
+   "content": "好了两把",
+   "music": 0
+  },
+  {
+   "from": 216.79,
+   "to": 218.2,
+   "sid": 3,
+   "location": 2,
+   "content": "他说没事",
+   "music": 0
+  },
+  {
+   "from": 218.2,
+   "to": 221.46,
+   "sid": 4,
+   "location": 2,
+   "content": "就是他他都不应该享受感觉",
+   "music": 0
+  },
+  {
+   "from": 243.66,
+   "to": 244.98,
+   "sid": 5,
+   "location": 2,
+   "content": "自己作业多",
+   "music": 0
+  },
+  {
+   "from": 244.98,
+   "to": 245.32,
+   "sid": 6,
+   "location": 2,
+   "content": "老师",
+   "music": 0
+  },
+  {
+   "from": 253.559,
+   "to": 255.019,
+   "sid": 7,
+   "location": 2,
+   "content": "感觉一下应该优惠的才视频",
+   "music": 0
+  },
+  {
+   "from": 255.019,
+   "to": 255.919,
+   "sid": 8,
+   "location": 2,
+   "content": "吃了20多年",
+   "music": 0
+  },
+  {
+   "from": 255.919,
+   "to": 257.72,
+   "sid": 9,
+   "location": 2,
+   "content": "对别人说这样的",
+   "music": 0
+  },
+  {
+   "from": 335.8,
+   "to": 337.08,
+   "sid": 10,
+   "location": 2,
+   "content": "四个",
+   "music": 0
+  },
+  {
+   "from": 346.96,
+   "to": 350.24,
+   "sid": 11,
+   "location": 2,
+   "content": "对我忘了还可以视频啊哈",
+   "music": 0
+  }
+ ]
+}

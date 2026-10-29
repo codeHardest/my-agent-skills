@@ -1,0 +1,332 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 3.139,
+   "sid": 1,
+   "location": 2,
+   "content": "加速一二上篮",
+   "music": 0
+  },
+  {
+   "from": 4.14,
+   "to": 6.96,
+   "sid": 2,
+   "location": 2,
+   "content": "首先第一种我们的传球误导欧洲步",
+   "music": 0
+  },
+  {
+   "from": 6.96,
+   "to": 10.48,
+   "sid": 3,
+   "location": 2,
+   "content": "面对防守人正常的同侧脚上步",
+   "music": 0
+  },
+  {
+   "from": 10.48,
+   "to": 12.7,
+   "sid": 4,
+   "location": 2,
+   "content": "朝反方向做假传球上",
+   "music": 0
+  },
+  {
+   "from": 12.7,
+   "to": 16.219,
+   "sid": 5,
+   "location": 2,
+   "content": "第二脚往另一个方向完成低手上篮",
+   "music": 0.06832297924462816
+  },
+  {
+   "from": 16.219,
+   "to": 19.489,
+   "sid": 6,
+   "location": 2,
+   "content": "这个动作一定要把眼睛利用上",
+   "music": 0.18421052025623252
+  },
+  {
+   "from": 19.489,
+   "to": 21.919,
+   "sid": 7,
+   "location": 2,
+   "content": "可以篮球的时候往你篮球方向看",
+   "music": 0
+  },
+  {
+   "from": 21.919,
+   "to": 24.56,
+   "sid": 8,
+   "location": 2,
+   "content": "第二步往防守人的另一侧上上来",
+   "music": 0
+  },
+  {
+   "from": 24.56,
+   "to": 25.67,
+   "sid": 9,
+   "location": 2,
+   "content": "Oh yeah",
+   "music": 0
+  },
+  {
+   "from": 25.67,
+   "to": 26.84,
+   "sid": 10,
+   "location": 2,
+   "content": "Oh yeah",
+   "music": 0
+  },
+  {
+   "from": 26.84,
+   "to": 27.56,
+   "sid": 11,
+   "location": 2,
+   "content": "I'll tell you",
+   "music": 0.4705881660899762
+  },
+  {
+   "from": 27.56,
+   "to": 28.58,
+   "sid": 12,
+   "location": 2,
+   "content": "♪ What you wanna ♪",
+   "music": 0.9999998936170327
+  },
+  {
+   "from": 36.5,
+   "to": 38.44,
+   "sid": 13,
+   "location": 2,
+   "content": "第二种战士舞蹈欧洲步",
+   "music": 0
+  },
+  {
+   "from": 38.44,
+   "to": 41.36,
+   "sid": 14,
+   "location": 2,
+   "content": "在我们第一种的基础上减去我们的假传",
+   "music": 0
+  },
+  {
+   "from": 41.36,
+   "to": 42.38,
+   "sid": 15,
+   "location": 2,
+   "content": "然后我们做一个对策",
+   "music": 0
+  },
+  {
+   "from": 42.38,
+   "to": 43.1,
+   "sid": 16,
+   "location": 2,
+   "content": "角度落球",
+   "music": 0
+  },
+  {
+   "from": 43.1,
+   "to": 45.56,
+   "sid": 17,
+   "location": 2,
+   "content": "刚刚是直接上同侧脚合球假传",
+   "music": 0
+  },
+  {
+   "from": 45.56,
+   "to": 48.72,
+   "sid": 18,
+   "location": 2,
+   "content": "那第二种我们是直接往对侧脚放球",
+   "music": 0
+  },
+  {
+   "from": 48.72,
+   "to": 49.32,
+   "sid": 19,
+   "location": 2,
+   "content": "做推球",
+   "music": 0
+  },
+  {
+   "from": 49.32,
+   "to": 49.92,
+   "sid": 20,
+   "location": 2,
+   "content": "往下落球",
+   "music": 0
+  },
+  {
+   "from": 49.92,
+   "to": 52.74,
+   "sid": 21,
+   "location": 2,
+   "content": "同时合球为零左右",
+   "music": 0.3467741795655594
+  },
+  {
+   "from": 52.74,
+   "to": 54.7,
+   "sid": 22,
+   "location": 2,
+   "content": "一二篮球下巴",
+   "music": 0.14285713151927526
+  },
+  {
+   "from": 55.22,
+   "to": 56.8,
+   "sid": 23,
+   "location": 2,
+   "content": "我们再看一下这个动作",
+   "music": 0
+  },
+  {
+   "from": 58.36,
+   "to": 61.75,
+   "sid": 24,
+   "location": 2,
+   "content": "到黄种人面前做一个推球的破球",
+   "music": 0
+  },
+  {
+   "from": 61.75,
+   "to": 62.4,
+   "sid": 25,
+   "location": 2,
+   "content": "合球",
+   "music": 0
+  },
+  {
+   "from": 62.4,
+   "to": 64.56,
+   "sid": 26,
+   "location": 2,
+   "content": "零六到防守",
+   "music": 0
+  },
+  {
+   "from": 64.56,
+   "to": 68.64,
+   "sid": 27,
+   "location": 2,
+   "content": "这时候再做一二左右完成到",
+   "music": 0.3124999902343764
+  },
+  {
+   "from": 69.04,
+   "to": 71.22,
+   "sid": 28,
+   "location": 2,
+   "content": "Like a bus today today",
+   "music": 0.6238531823920578
+  },
+  {
+   "from": 71.22,
+   "to": 73.8,
+   "sid": 29,
+   "location": 2,
+   "content": "I'm st today",
+   "music": 0.3291139032206429
+  },
+  {
+   "from": 73.8,
+   "to": 76.23,
+   "sid": 30,
+   "location": 2,
+   "content": "Unstoppable today",
+   "music": 0.44736840143121476
+  },
+  {
+   "from": 76.23,
+   "to": 78.51,
+   "sid": 31,
+   "location": 2,
+   "content": "♪ I'm unstoppable today ♪",
+   "music": 0.9999999447513842
+  },
+  {
+   "from": 78.51,
+   "to": 84.82,
+   "sid": 32,
+   "location": 2,
+   "content": "we d我们的第三种变向误导欧洲步",
+   "music": 0.5732838483620801
+  },
+  {
+   "from": 84.82,
+   "to": 87.3,
+   "sid": 33,
+   "location": 2,
+   "content": "内侧脚上不一二",
+   "music": 0
+  },
+  {
+   "from": 87.3,
+   "to": 91.02,
+   "sid": 34,
+   "location": 2,
+   "content": "误导完再上后脚合球122步",
+   "music": 0
+  },
+  {
+   "from": 99.98,
+   "to": 101.18,
+   "sid": 35,
+   "location": 2,
+   "content": "♪ I put my on ♪",
+   "music": 0.9999999056603862
+  },
+  {
+   "from": 101.18,
+   "to": 101.96,
+   "sid": 36,
+   "location": 2,
+   "content": "♪ My on ♪",
+   "music": 0.9999997500000625
+  },
+  {
+   "from": 101.96,
+   "to": 102.5,
+   "sid": 37,
+   "location": 2,
+   "content": "♪ Show you ♪",
+   "music": 0.9999998148148492
+  },
+  {
+   "from": 102.5,
+   "to": 103.34,
+   "sid": 38,
+   "location": 2,
+   "content": "♪ How strong ♪",
+   "music": 0.9999998076923448
+  },
+  {
+   "from": 103.34,
+   "to": 105.05,
+   "sid": 39,
+   "location": 2,
+   "content": "♪ I am ♪",
+   "music": 0.9999999130434858
+  },
+  {
+   "from": 105.05,
+   "to": 106.9,
+   "sid": 40,
+   "location": 2,
+   "content": "♪ I put my army ♪",
+   "music": 0.9999998461538699
+  }
+ ]
+}

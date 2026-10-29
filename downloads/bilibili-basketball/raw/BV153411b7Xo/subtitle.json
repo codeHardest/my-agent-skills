@@ -1,0 +1,3008 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.32,
+   "to": 0.76,
+   "sid": 1,
+   "location": 2,
+   "content": "怎么了？"
+  },
+  {
+   "from": 0.76,
+   "to": 1.6,
+   "sid": 2,
+   "location": 2,
+   "content": "我喜欢篮球电视"
+  },
+  {
+   "from": 1.6,
+   "to": 2.64,
+   "sid": 3,
+   "location": 2,
+   "content": "我是瑞安·拉祖基教练"
+  },
+  {
+   "from": 2.64,
+   "to": 6.36,
+   "sid": 4,
+   "location": 2,
+   "content": "今天我要给你们十招，你们可以在真正的游戏中使用"
+  },
+  {
+   "from": 6.36,
+   "to": 7.36,
+   "sid": 5,
+   "location": 2,
+   "content": "约翰和我在一起"
+  },
+  {
+   "from": 7.36,
+   "to": 8.62,
+   "sid": 6,
+   "location": 2,
+   "content": "谁打大学篮球"
+  },
+  {
+   "from": 8.62,
+   "to": 10.2,
+   "sid": 7,
+   "location": 2,
+   "content": "他今天要经历动作"
+  },
+  {
+   "from": 14.6,
+   "to": 15.16,
+   "sid": 8,
+   "location": 2,
+   "content": "让我们开始吧"
+  },
+  {
+   "from": 15.16,
+   "to": 17.02,
+   "sid": 9,
+   "location": 2,
+   "content": "你觉得有点太小了"
+  },
+  {
+   "from": 17.02,
+   "to": 18.04,
+   "sid": 10,
+   "location": 2,
+   "content": "我有远大的目标"
+  },
+  {
+   "from": 18.04,
+   "to": 18.92,
+   "sid": 11,
+   "location": 2,
+   "content": "宝贝"
+  },
+  {
+   "from": 20.46,
+   "to": 22.54,
+   "sid": 12,
+   "location": 2,
+   "content": "所以你的前五个动作是在篮下"
+  },
+  {
+   "from": 22.54,
+   "to": 24.58,
+   "sid": 13,
+   "location": 2,
+   "content": "确保我们能吸引接触和避免防御"
+  },
+  {
+   "from": 24.58,
+   "to": 26.04,
+   "sid": 14,
+   "location": 2,
+   "content": "这样我们就可以在篮筐上完成了"
+  },
+  {
+   "from": 26.04,
+   "to": 28.6,
+   "sid": 15,
+   "location": 2,
+   "content": "确保我们可以在那里转换，并获得免费的这些以及"
+  },
+  {
+   "from": 28.6,
+   "to": 30.68,
+   "sid": 16,
+   "location": 2,
+   "content": "然后你就会进入你所有的跳投"
+  },
+  {
+   "from": 30.68,
+   "to": 32.96,
+   "sid": 17,
+   "location": 2,
+   "content": "确保我们在不同类型的投篮中都有正确的步法"
+  },
+  {
+   "from": 32.96,
+   "to": 35.04,
+   "sid": 18,
+   "location": 2,
+   "content": "你要拍下每一场比赛"
+  },
+  {
+   "from": 35.04,
+   "to": 37.16,
+   "sid": 19,
+   "location": 2,
+   "content": "所以在篮下的第一个人将是一个转向步"
+  },
+  {
+   "from": 37.16,
+   "to": 37.96,
+   "sid": 20,
+   "location": 2,
+   "content": "我要教你怎么做"
+  },
+  {
+   "from": 37.96,
+   "to": 39.06,
+   "sid": 21,
+   "location": 2,
+   "content": "所以你可以先看到它"
+  },
+  {
+   "from": 39.06,
+   "to": 40.28,
+   "sid": 22,
+   "location": 2,
+   "content": "但我们要打这里"
+  },
+  {
+   "from": 40.28,
+   "to": 42.7,
+   "sid": 23,
+   "location": 2,
+   "content": "一个快速的小动作，然后运球"
+  },
+  {
+   "from": 42.7,
+   "to": 45.28,
+   "sid": 24,
+   "location": 2,
+   "content": "我要从这里开始"
+  },
+  {
+   "from": 45.28,
+   "to": 45.92,
+   "sid": 25,
+   "location": 2,
+   "content": "所以比较容易"
+  },
+  {
+   "from": 45.92,
+   "to": 47.38,
+   "sid": 26,
+   "location": 2,
+   "content": "所以移动是这样工作的"
+  },
+  {
+   "from": 48.96,
+   "to": 51.4,
+   "sid": 27,
+   "location": 2,
+   "content": "当我们推的时候左脚会碰到地面"
+  },
+  {
+   "from": 51.4,
+   "to": 52.48,
+   "sid": 28,
+   "location": 2,
+   "content": "同时我们运球"
+  },
+  {
+   "from": 52.48,
+   "to": 54.64,
+   "sid": 29,
+   "location": 2,
+   "content": "这意味着这不算是你的步骤之一"
+  },
+  {
+   "from": 54.64,
+   "to": 56.8,
+   "sid": 30,
+   "location": 2,
+   "content": "现在我们可以在这之后走两步"
+  },
+  {
+   "from": 56.8,
+   "to": 58.4,
+   "sid": 31,
+   "location": 2,
+   "content": "所以焦点准备好了"
+  },
+  {
+   "from": 58.4,
+   "to": 59.28,
+   "sid": 32,
+   "location": 2,
+   "content": "这就是你能做到的"
+  },
+  {
+   "from": 59.28,
+   "to": 61.75,
+   "sid": 33,
+   "location": 2,
+   "content": "你要在一次运球之间准备好"
+  },
+  {
+   "from": 61.75,
+   "to": 63.25,
+   "sid": 34,
+   "location": 2,
+   "content": "和我在一起，现在和我在一起"
+  },
+  {
+   "from": 63.25,
+   "to": 64.25,
+   "sid": 35,
+   "location": 2,
+   "content": "你现在要走两步"
+  },
+  {
+   "from": 64.25,
+   "to": 65.83,
+   "sid": 36,
+   "location": 2,
+   "content": "所以第一步是努力前进"
+  },
+  {
+   "from": 65.83,
+   "to": 67.46,
+   "sid": 37,
+   "location": 2,
+   "content": "就像这个繁荣"
+  },
+  {
+   "from": 67.46,
+   "to": 69.28,
+   "sid": 38,
+   "location": 2,
+   "content": "第二步是防守"
+  },
+  {
+   "from": 69.28,
+   "to": 71.04,
+   "sid": 39,
+   "location": 2,
+   "content": "就像这个嘣酷"
+  },
+  {
+   "from": 71.04,
+   "to": 72.42,
+   "sid": 40,
+   "location": 2,
+   "content": "现在你要做这件事的方式"
+  },
+  {
+   "from": 72.42,
+   "to": 77.2,
+   "sid": 41,
+   "location": 2,
+   "content": "正确的方法是确保你把左手放在右耳上是有意义的"
+  },
+  {
+   "from": 78.62,
+   "to": 79.44,
+   "sid": 42,
+   "location": 2,
+   "content": "所以要小心"
+  },
+  {
+   "from": 79.44,
+   "to": 80.14,
+   "sid": 43,
+   "location": 2,
+   "content": "所以我展示了它"
+  },
+  {
+   "from": 80.14,
+   "to": 85.24,
+   "sid": 44,
+   "location": 2,
+   "content": "所以我们在中间，一次运球进入防守"
+  },
+  {
+   "from": 85.24,
+   "to": 88.68,
+   "sid": 45,
+   "location": 2,
+   "content": "然后在那里完成上篮很有意义完美"
+  },
+  {
+   "from": 88.68,
+   "to": 89.4,
+   "sid": 46,
+   "location": 2,
+   "content": "让我们找两个代表"
+  },
+  {
+   "from": 89.4,
+   "to": 90.28,
+   "sid": 47,
+   "location": 2,
+   "content": "就像这样"
+  },
+  {
+   "from": 92.48,
+   "to": 93.68,
+   "sid": 48,
+   "location": 2,
+   "content": "一二完美"
+  },
+  {
+   "from": 94.76,
+   "to": 96.04,
+   "sid": 49,
+   "location": 2,
+   "content": "尽量不要褪色太多"
+  },
+  {
+   "from": 96.04,
+   "to": 96.44,
+   "sid": 50,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 96.44,
+   "to": 97.48,
+   "sid": 51,
+   "location": 2,
+   "content": "你想撞我"
+  },
+  {
+   "from": 97.48,
+   "to": 99.16,
+   "sid": 52,
+   "location": 2,
+   "content": "你想撞我，把我挪开"
+  },
+  {
+   "from": 99.16,
+   "to": 99.899,
+   "sid": 53,
+   "location": 2,
+   "content": "你去"
+  },
+  {
+   "from": 101.74,
+   "to": 103.29,
+   "sid": 54,
+   "location": 2,
+   "content": "一二完美"
+  },
+  {
+   "from": 103.29,
+   "to": 104.03,
+   "sid": 55,
+   "location": 2,
+   "content": "就像这样"
+  },
+  {
+   "from": 104.03,
+   "to": 105.05,
+   "sid": 56,
+   "location": 2,
+   "content": "所以这是你的第一步"
+  },
+  {
+   "from": 105.05,
+   "to": 106.11,
+   "sid": 57,
+   "location": 2,
+   "content": "我知道这很简单"
+  },
+  {
+   "from": 106.11,
+   "to": 108.15,
+   "sid": 58,
+   "location": 2,
+   "content": "但这是你的啤酒步"
+  },
+  {
+   "from": 108.15,
+   "to": 111.46,
+   "sid": 59,
+   "location": 2,
+   "content": "你会看到玩家最常见的问题是当他们接触到"
+  },
+  {
+   "from": 111.46,
+   "to": 112.3,
+   "sid": 60,
+   "location": 2,
+   "content": "他们是这样做的"
+  },
+  {
+   "from": 112.3,
+   "to": 112.64,
+   "sid": 61,
+   "location": 2,
+   "content": "准备好了"
+  },
+  {
+   "from": 112.64,
+   "to": 114.1,
+   "sid": 62,
+   "location": 2,
+   "content": "一二"
+  },
+  {
+   "from": 114.1,
+   "to": 115.02,
+   "sid": 63,
+   "location": 2,
+   "content": "那里有什么问题？"
+  },
+  {
+   "from": 115.02,
+   "to": 115.84,
+   "sid": 64,
+   "location": 2,
+   "content": "暴露的球"
+  },
+  {
+   "from": 115.84,
+   "to": 117.26,
+   "sid": 65,
+   "location": 2,
+   "content": "所以让我们确保我们保持球的方式"
+  },
+  {
+   "from": 117.26,
+   "to": 118.24,
+   "sid": 66,
+   "location": 2,
+   "content": "你做得很好"
+  },
+  {
+   "from": 118.24,
+   "to": 119.14,
+   "sid": 67,
+   "location": 2,
+   "content": "下一个在这里"
+  },
+  {
+   "from": 119.14,
+   "to": 120.36,
+   "sid": 68,
+   "location": 2,
+   "content": "我们要做同样的事情"
+  },
+  {
+   "from": 120.48,
+   "to": 123.22,
+   "sid": 69,
+   "location": 2,
+   "content": "从三分线开始"
+  },
+  {
+   "from": 123.22,
+   "to": 124.32,
+   "sid": 70,
+   "location": 2,
+   "content": "我们要运球两次"
+  },
+  {
+   "from": 124.32,
+   "to": 127.26,
+   "sid": 71,
+   "location": 2,
+   "content": "所以我们在一个和现在之间"
+  },
+  {
+   "from": 127.26,
+   "to": 131.02,
+   "sid": 72,
+   "location": 2,
+   "content": "在第二次运球时，你要在左脚击球的同时撞我"
+  },
+  {
+   "from": 131.079,
+   "to": 134.02,
+   "sid": 73,
+   "location": 2,
+   "content": "所以现在在第二次运球时，你会砰的一声命中"
+  },
+  {
+   "from": 134.2,
+   "to": 135.94,
+   "sid": 74,
+   "location": 2,
+   "content": "然后我们离开一步"
+  },
+  {
+   "from": 135.94,
+   "to": 137.48,
+   "sid": 75,
+   "location": 2,
+   "content": "完成他的右手右脚"
+  },
+  {
+   "from": 137.48,
+   "to": 140.92,
+   "sid": 76,
+   "location": 2,
+   "content": "所以你在后面一点和两次运球之间"
+  },
+  {
+   "from": 141.5,
+   "to": 144.42,
+   "sid": 77,
+   "location": 2,
+   "content": "所以一个屁股我砰的一步"
+  },
+  {
+   "from": 144.42,
+   "to": 144.7,
+   "sid": 78,
+   "location": 2,
+   "content": "是的"
+  },
+  {
+   "from": 144.7,
+   "to": 145.82,
+   "sid": 79,
+   "location": 2,
+   "content": "你会拿到篮筐的"
+  },
+  {
+   "from": 148.66,
+   "to": 150.9,
+   "sid": 80,
+   "location": 2,
+   "content": "完美的一步"
+  },
+  {
+   "from": 150.9,
+   "to": 151.24,
+   "sid": 81,
+   "location": 2,
+   "content": "只是"
+  },
+  {
+   "from": 151.24,
+   "to": 151.46,
+   "sid": 82,
+   "location": 2,
+   "content": "哦"
+  },
+  {
+   "from": 151.46,
+   "to": 151.92,
+   "sid": 83,
+   "location": 2,
+   "content": "那很好"
+  },
+  {
+   "from": 151.92,
+   "to": 152.66,
+   "sid": 84,
+   "location": 2,
+   "content": "太完美了"
+  },
+  {
+   "from": 152.66,
+   "to": 153.3,
+   "sid": 85,
+   "location": 2,
+   "content": "再来两个代表"
+  },
+  {
+   "from": 153.3,
+   "to": 153.62,
+   "sid": 86,
+   "location": 2,
+   "content": "你得到了它"
+  },
+  {
+   "from": 153.62,
+   "to": 154.42,
+   "sid": 87,
+   "location": 2,
+   "content": "我抓住你了"
+  },
+  {
+   "from": 156.44,
+   "to": 157.72,
+   "sid": 88,
+   "location": 2,
+   "content": "推一个肿块"
+  },
+  {
+   "from": 157.72,
+   "to": 158.16,
+   "sid": 89,
+   "location": 2,
+   "content": "是呀"
+  },
+  {
+   "from": 158.16,
+   "to": 159.94,
+   "sid": 90,
+   "location": 2,
+   "content": "现在你能给我一个更好的颠簸吗"
+  },
+  {
+   "from": 159.94,
+   "to": 161.48,
+   "sid": 91,
+   "location": 2,
+   "content": "我真的很喜欢我"
+  },
+  {
+   "from": 161.48,
+   "to": 162.04,
+   "sid": 92,
+   "location": 2,
+   "content": "同时"
+  },
+  {
+   "from": 162.04,
+   "to": 163.06,
+   "sid": 93,
+   "location": 2,
+   "content": "你带球运球"
+  },
+  {
+   "from": 167.979,
+   "to": 168.619,
+   "sid": 94,
+   "location": 2,
+   "content": "太完美了"
+  },
+  {
+   "from": 168.619,
+   "to": 169.859,
+   "sid": 95,
+   "location": 2,
+   "content": "不过，现在听听这个"
+  },
+  {
+   "from": 169.859,
+   "to": 171.159,
+   "sid": 96,
+   "location": 2,
+   "content": "这个动作很酷的地方是"
+  },
+  {
+   "from": 171.159,
+   "to": 173.92,
+   "sid": 97,
+   "location": 2,
+   "content": "因为在运球的时候你是向前的"
+  },
+  {
+   "from": 173.92,
+   "to": 175.18,
+   "sid": 98,
+   "location": 2,
+   "content": "我们只走了一步"
+  },
+  {
+   "from": 175.18,
+   "to": 175.94,
+   "sid": 99,
+   "location": 2,
+   "content": "所以疯狂的是"
+  },
+  {
+   "from": 175.94,
+   "to": 177.76,
+   "sid": 100,
+   "location": 2,
+   "content": "你实际上可以选择采取两步"
+  },
+  {
+   "from": 177.76,
+   "to": 179.23,
+   "sid": 101,
+   "location": 2,
+   "content": "如果你更先进"
+  },
+  {
+   "from": 179.23,
+   "to": 180.79,
+   "sid": 102,
+   "location": 2,
+   "content": "所以再试一次"
+  },
+  {
+   "from": 180.79,
+   "to": 181.93,
+   "sid": 103,
+   "location": 2,
+   "content": "我要支持你"
+  },
+  {
+   "from": 181.93,
+   "to": 183.89,
+   "sid": 104,
+   "location": 2,
+   "content": "你真的能撞到我，走两步"
+  },
+  {
+   "from": 183.89,
+   "to": 184.77,
+   "sid": 105,
+   "location": 2,
+   "content": "在那个颠簸之后"
+  },
+  {
+   "from": 184.77,
+   "to": 185.62,
+   "sid": 106,
+   "location": 2,
+   "content": "去吧"
+  },
+  {
+   "from": 186.82,
+   "to": 187.32,
+   "sid": 107,
+   "location": 2,
+   "content": "嗯"
+  },
+  {
+   "from": 187.32,
+   "to": 189,
+   "sid": 108,
+   "location": 2,
+   "content": "一个所以你拿了一个"
+  },
+  {
+   "from": 189,
+   "to": 190.42,
+   "sid": 109,
+   "location": 2,
+   "content": "你喜欢看防守"
+  },
+  {
+   "from": 190.42,
+   "to": 191.4,
+   "sid": 110,
+   "location": 2,
+   "content": "你可以拿两个"
+  },
+  {
+   "from": 191.4,
+   "to": 193.74,
+   "sid": 111,
+   "location": 2,
+   "content": "对于有能力的玩家来说，这是超级先进的"
+  },
+  {
+   "from": 193.74,
+   "to": 194.22,
+   "sid": 112,
+   "location": 2,
+   "content": "所以你在"
+  },
+  {
+   "from": 194.22,
+   "to": 194.58,
+   "sid": 113,
+   "location": 2,
+   "content": "d"
+  },
+  {
+   "from": 194.58,
+   "to": 195.86,
+   "sid": 114,
+   "location": 2,
+   "content": "如果我想来这里"
+  },
+  {
+   "from": 195.86,
+   "to": 199.15,
+   "sid": 115,
+   "location": 2,
+   "content": "我可以去一二俱乐部"
+  },
+  {
+   "from": 199.15,
+   "to": 201.35,
+   "sid": 116,
+   "location": 2,
+   "content": "因为我运球的同时我撞了"
+  },
+  {
+   "from": 201.35,
+   "to": 204.3,
+   "sid": 117,
+   "location": 2,
+   "content": "但那是你的八磅"
+  },
+  {
+   "from": 204.3,
+   "to": 206.9,
+   "sid": 118,
+   "location": 2,
+   "content": "所以你有运球碰撞的能力"
+  },
+  {
+   "from": 206.9,
+   "to": 208.64,
+   "sid": 119,
+   "location": 2,
+   "content": "走一步或两步"
+  },
+  {
+   "from": 208.64,
+   "to": 210.329,
+   "sid": 120,
+   "location": 2,
+   "content": "你在篮筐上看到很多强壮的球员"
+  },
+  {
+   "from": 210.329,
+   "to": 211.429,
+   "sid": 121,
+   "location": 2,
+   "content": "试着画这个联系人"
+  },
+  {
+   "from": 211.429,
+   "to": 214.569,
+   "sid": 122,
+   "location": 2,
+   "content": "它们一分开就可以选择更快地上升"
+  },
+  {
+   "from": 214.569,
+   "to": 217.649,
+   "sid": 123,
+   "location": 2,
+   "content": "甚至可以选择继续在篮筐里移动"
+  },
+  {
+   "from": 217.649,
+   "to": 219.88,
+   "sid": 124,
+   "location": 2,
+   "content": "来逆转我们的第三个"
+  },
+  {
+   "from": 219.88,
+   "to": 221.02,
+   "sid": 125,
+   "location": 2,
+   "content": "我们要谈谈"
+  },
+  {
+   "from": 221.02,
+   "to": 222.919,
+   "sid": 126,
+   "location": 2,
+   "content": "在"
+  },
+  {
+   "from": 222.919,
+   "to": 223.319,
+   "sid": 127,
+   "location": 2,
+   "content": "空气"
+  },
+  {
+   "from": 223.319,
+   "to": 228.16,
+   "sid": 128,
+   "location": 2,
+   "content": "所以你要抬高，试着把球带到篮筐"
+  },
+  {
+   "from": 228.16,
+   "to": 228.64,
+   "sid": 129,
+   "location": 2,
+   "content": "对"
+  },
+  {
+   "from": 228.64,
+   "to": 234.36,
+   "sid": 130,
+   "location": 2,
+   "content": "所以你把球带到篮筐，尽可能多地跳到我身上，夺走我的运动能力"
+  },
+  {
+   "from": 234.36,
+   "to": 236.36,
+   "sid": 131,
+   "location": 2,
+   "content": "把球带回你的肩膀保护它"
+  },
+  {
+   "from": 236.36,
+   "to": 237.36,
+   "sid": 132,
+   "location": 2,
+   "content": "然后现在完成"
+  },
+  {
+   "from": 237.36,
+   "to": 238,
+   "sid": 133,
+   "location": 2,
+   "content": "有什么好的"
+  },
+  {
+   "from": 238,
+   "to": 239.68,
+   "sid": 134,
+   "location": 2,
+   "content": "这是一旦你跳到我身上"
+  },
+  {
+   "from": 240.019,
+   "to": 240.839,
+   "sid": 135,
+   "location": 2,
+   "content": "嘣"
+  },
+  {
+   "from": 240.839,
+   "to": 242.9,
+   "sid": 136,
+   "location": 2,
+   "content": "它夺走了我所有的运动能力"
+  },
+  {
+   "from": 242.9,
+   "to": 245.08,
+   "sid": 137,
+   "location": 2,
+   "content": "所以如果我有一个50英寸的垂直，你这样做"
+  },
+  {
+   "from": 245.08,
+   "to": 247.18,
+   "sid": 138,
+   "location": 2,
+   "content": "我再也不能有一个50英寸的垂直"
+  },
+  {
+   "from": 247.18,
+   "to": 248.7,
+   "sid": 139,
+   "location": 2,
+   "content": "如果我想尝试比赛"
+  },
+  {
+   "from": 248.7,
+   "to": 250.71,
+   "sid": 140,
+   "location": 2,
+   "content": "我不能，因为你靠在上面"
+  },
+  {
+   "from": 250.71,
+   "to": 252.41,
+   "sid": 141,
+   "location": 2,
+   "content": "所以接下来我要做的是"
+  },
+  {
+   "from": 252.41,
+   "to": 254.89,
+   "sid": 142,
+   "location": 2,
+   "content": "尤其是当你把球带回肩膀的时候"
+  },
+  {
+   "from": 254.89,
+   "to": 256.159,
+   "sid": 143,
+   "location": 2,
+   "content": "一直到肩膀"
+  },
+  {
+   "from": 256.159,
+   "to": 257.219,
+   "sid": 144,
+   "location": 2,
+   "content": "隆起肩膀"
+  },
+  {
+   "from": 257.219,
+   "to": 260.619,
+   "sid": 145,
+   "location": 2,
+   "content": "因为现在我得穿过他的脸穿过他的胳膊才能拿到门闩"
+  },
+  {
+   "from": 260.619,
+   "to": 265.56,
+   "sid": 146,
+   "location": 2,
+   "content": "所以你要从这里往右往左抬"
+  },
+  {
+   "from": 266.56,
+   "to": 267.96,
+   "sid": 147,
+   "location": 2,
+   "content": "保护和完成所有权利"
+  },
+  {
+   "from": 267.96,
+   "to": 268.24,
+   "sid": 148,
+   "location": 2,
+   "content": "去吧"
+  },
+  {
+   "from": 268.24,
+   "to": 269.14,
+   "sid": 149,
+   "location": 2,
+   "content": "把它拿下来"
+  },
+  {
+   "from": 269.98,
+   "to": 271.26,
+   "sid": 150,
+   "location": 2,
+   "content": "起床完美"
+  },
+  {
+   "from": 272.3,
+   "to": 273.78,
+   "sid": 151,
+   "location": 2,
+   "content": "就像那样再来一次"
+  },
+  {
+   "from": 282.15,
+   "to": 285.87,
+   "sid": 152,
+   "location": 2,
+   "content": "这些都是我们接下来需要关注的接触完成"
+  },
+  {
+   "from": 285.87,
+   "to": 287.81,
+   "sid": 153,
+   "location": 2,
+   "content": "我们将专注于摆脱防守"
+  },
+  {
+   "from": 287.81,
+   "to": 292.93,
+   "sid": 154,
+   "location": 2,
+   "content": "所以我们现在要专注于我们的欧元步骤我一直教这个的方式是用一个很高的拾音器"
+  },
+  {
+   "from": 292.93,
+   "to": 294.36,
+   "sid": 155,
+   "location": 2,
+   "content": "所以现在过来"
+  },
+  {
+   "from": 294.36,
+   "to": 297.32,
+   "sid": 156,
+   "location": 2,
+   "content": "如果你不保护头顶上的球"
+  },
+  {
+   "from": 297.32,
+   "to": 298.78,
+   "sid": 157,
+   "location": 2,
+   "content": "你会有一些问题，对吧"
+  },
+  {
+   "from": 298.78,
+   "to": 300.16,
+   "sid": 158,
+   "location": 2,
+   "content": "你可以用一个欧元台阶逃脱惩罚"
+  },
+  {
+   "from": 300.16,
+   "to": 302.37,
+   "sid": 159,
+   "location": 2,
+   "content": "就像这个嘣嘣"
+  },
+  {
+   "from": 302.37,
+   "to": 304.78,
+   "sid": 160,
+   "location": 2,
+   "content": "问题是这样说的"
+  },
+  {
+   "from": 304.78,
+   "to": 308.08,
+   "sid": 161,
+   "location": 2,
+   "content": "问题是如果他做得很好"
+  },
+  {
+   "from": 308.08,
+   "to": 310.02,
+   "sid": 162,
+   "location": 2,
+   "content": "我砰砰"
+  },
+  {
+   "from": 310.02,
+   "to": 310.88,
+   "sid": 163,
+   "location": 2,
+   "content": "我被切断了"
+  },
+  {
+   "from": 310.88,
+   "to": 312.95,
+   "sid": 164,
+   "location": 2,
+   "content": "我现在要切断我的联系吗"
+  },
+  {
+   "from": 312.95,
+   "to": 313.81,
+   "sid": 165,
+   "location": 2,
+   "content": "球就露出来了"
+  },
+  {
+   "from": 313.81,
+   "to": 315.03,
+   "sid": 166,
+   "location": 2,
+   "content": "如果我越过我的头"
+  },
+  {
+   "from": 315.03,
+   "to": 316.31,
+   "sid": 167,
+   "location": 2,
+   "content": "我的选择是继续"
+  },
+  {
+   "from": 316.31,
+   "to": 318.08,
+   "sid": 168,
+   "location": 2,
+   "content": "即使你防守很好，把我挡在右边"
+  },
+  {
+   "from": 318.08,
+   "to": 318.76,
+   "sid": 169,
+   "location": 2,
+   "content": "我砰的一声"
+  },
+  {
+   "from": 318.76,
+   "to": 319.26,
+   "sid": 170,
+   "location": 2,
+   "content": "切断我的联系"
+  },
+  {
+   "from": 319.26,
+   "to": 319.72,
+   "sid": 171,
+   "location": 2,
+   "content": "切断我的联系"
+  },
+  {
+   "from": 319.72,
+   "to": 320.58,
+   "sid": 172,
+   "location": 2,
+   "content": "在这里打断我"
+  },
+  {
+   "from": 320.58,
+   "to": 320.98,
+   "sid": 173,
+   "location": 2,
+   "content": "是呀"
+  },
+  {
+   "from": 320.98,
+   "to": 321.74,
+   "sid": 174,
+   "location": 2,
+   "content": "再来一次"
+  },
+  {
+   "from": 321.74,
+   "to": 322.4,
+   "sid": 175,
+   "location": 2,
+   "content": "所以看着"
+  },
+  {
+   "from": 322.4,
+   "to": 323.98,
+   "sid": 176,
+   "location": 2,
+   "content": "即使我越过头顶"
+  },
+  {
+   "from": 323.98,
+   "to": 325.78,
+   "sid": 177,
+   "location": 2,
+   "content": "所以砰的一声切断了我的联系砰的一声"
+  },
+  {
+   "from": 325.78,
+   "to": 326.9,
+   "sid": 178,
+   "location": 2,
+   "content": "球在我头顶上"
+  },
+  {
+   "from": 326.9,
+   "to": 330.28,
+   "sid": 179,
+   "location": 2,
+   "content": "我仍然可以选择拍摄这个漂浮物或拍摄那个小褪色"
+  },
+  {
+   "from": 330.28,
+   "to": 331.84,
+   "sid": 180,
+   "location": 2,
+   "content": "我有其他选择"
+  },
+  {
+   "from": 331.84,
+   "to": 332.82,
+   "sid": 181,
+   "location": 2,
+   "content": "而你走得很低"
+  },
+  {
+   "from": 334.5,
+   "to": 336.96,
+   "sid": 182,
+   "location": 2,
+   "content": "所以你推我的时候在这里动一下"
+  },
+  {
+   "from": 336.96,
+   "to": 337.96,
+   "sid": 183,
+   "location": 2,
+   "content": "你出去"
+  },
+  {
+   "from": 337.96,
+   "to": 338.76,
+   "sid": 184,
+   "location": 2,
+   "content": "小通行证"
+  },
+  {
+   "from": 338.76,
+   "to": 340.84,
+   "sid": 185,
+   "location": 2,
+   "content": "头顶上的假吊杆"
+  },
+  {
+   "from": 340.84,
+   "to": 342.98,
+   "sid": 186,
+   "location": 2,
+   "content": "让我们尽可能地制造分离"
+  },
+  {
+   "from": 342.98,
+   "to": 344.22,
+   "sid": 187,
+   "location": 2,
+   "content": "要么完成左手"
+  },
+  {
+   "from": 344.22,
+   "to": 344.46,
+   "sid": 188,
+   "location": 2,
+   "content": "上篮"
+  },
+  {
+   "from": 344.46,
+   "to": 344.98,
+   "sid": 189,
+   "location": 2,
+   "content": "一点漂浮物"
+  },
+  {
+   "from": 344.98,
+   "to": 345.74,
+   "sid": 190,
+   "location": 2,
+   "content": "或者去篮筐"
+  },
+  {
+   "from": 345.74,
+   "to": 349.62,
+   "sid": 191,
+   "location": 2,
+   "content": "继续一二好了"
+  },
+  {
+   "from": 349.62,
+   "to": 350.8,
+   "sid": 192,
+   "location": 2,
+   "content": "给我一个漂亮的传球"
+  },
+  {
+   "from": 350.8,
+   "to": 351.42,
+   "sid": 193,
+   "location": 2,
+   "content": "烤掉那个"
+  },
+  {
+   "from": 351.42,
+   "to": 352.78,
+   "sid": 194,
+   "location": 2,
+   "content": "所以卖掉那个角落通行证"
+  },
+  {
+   "from": 352.78,
+   "to": 353.3,
+   "sid": 195,
+   "location": 2,
+   "content": "是呀"
+  },
+  {
+   "from": 353.3,
+   "to": 353.86,
+   "sid": 196,
+   "location": 2,
+   "content": "先生"
+  },
+  {
+   "from": 356.84,
+   "to": 358.32,
+   "sid": 197,
+   "location": 2,
+   "content": "嘣嘣完美"
+  },
+  {
+   "from": 358.32,
+   "to": 359.32,
+   "sid": 198,
+   "location": 2,
+   "content": "就像这样"
+  },
+  {
+   "from": 359.32,
+   "to": 360.48,
+   "sid": 199,
+   "location": 2,
+   "content": "再给我一个代表"
+  },
+  {
+   "from": 360.48,
+   "to": 361.88,
+   "sid": 200,
+   "location": 2,
+   "content": "我们也走另一条路"
+  },
+  {
+   "from": 365.74,
+   "to": 366.54,
+   "sid": 201,
+   "location": 2,
+   "content": "一二"
+  },
+  {
+   "from": 366.54,
+   "to": 366.9,
+   "sid": 202,
+   "location": 2,
+   "content": "另一边"
+  },
+  {
+   "from": 366.9,
+   "to": 367.22,
+   "sid": 203,
+   "location": 2,
+   "content": "另一边"
+  },
+  {
+   "from": 367.22,
+   "to": 367.88,
+   "sid": 204,
+   "location": 2,
+   "content": "所以到这边来"
+  },
+  {
+   "from": 367.88,
+   "to": 368.74,
+   "sid": 205,
+   "location": 2,
+   "content": "你是最后一名"
+  },
+  {
+   "from": 368.74,
+   "to": 370.66,
+   "sid": 206,
+   "location": 2,
+   "content": "最后一个就在这里"
+  },
+  {
+   "from": 370.66,
+   "to": 371.7,
+   "sid": 207,
+   "location": 2,
+   "content": "我们走另一条路吧"
+  },
+  {
+   "from": 374.379,
+   "to": 377.1,
+   "sid": 208,
+   "location": 2,
+   "content": "一二没关系"
+  },
+  {
+   "from": 377.1,
+   "to": 378.12,
+   "sid": 209,
+   "location": 2,
+   "content": "那完全没问题"
+  },
+  {
+   "from": 378.12,
+   "to": 381.7,
+   "sid": 210,
+   "location": 2,
+   "content": "所以你有你的一套作为你的第四个"
+  },
+  {
+   "from": 381.84,
+   "to": 383.8,
+   "sid": 211,
+   "location": 2,
+   "content": "当我们进入第五个"
+  },
+  {
+   "from": 383.8,
+   "to": 384.2,
+   "sid": 212,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 384.2,
+   "to": 385.18,
+   "sid": 213,
+   "location": 2,
+   "content": "我想去职业跳跃"
+  },
+  {
+   "from": 385.18,
+   "to": 389.62,
+   "sid": 214,
+   "location": 2,
+   "content": "所以重要的是我们把骨头滴在空中"
+  },
+  {
+   "from": 389.62,
+   "to": 392.649,
+   "sid": 215,
+   "location": 2,
+   "content": "如果你运球，把它捡起来，然后跳起来"
+  },
+  {
+   "from": 392.649,
+   "to": 393.869,
+   "sid": 216,
+   "location": 2,
+   "content": "你会接到一个旅行的电话"
+  },
+  {
+   "from": 393.869,
+   "to": 395.829,
+   "sid": 217,
+   "location": 2,
+   "content": "所以运球把它聚集在空气中"
+  },
+  {
+   "from": 395.829,
+   "to": 397.309,
+   "sid": 218,
+   "location": 2,
+   "content": "就像你保护球一样"
+  },
+  {
+   "from": 397.309,
+   "to": 398.429,
+   "sid": 219,
+   "location": 2,
+   "content": "你可以越过你的头"
+  },
+  {
+   "from": 398.429,
+   "to": 399.789,
+   "sid": 220,
+   "location": 2,
+   "content": "你可以把它塞到胸前"
+  },
+  {
+   "from": 399.789,
+   "to": 402.7,
+   "sid": 221,
+   "location": 2,
+   "content": "或者你可以低一点，在那里捡起来"
+  },
+  {
+   "from": 402.7,
+   "to": 403.56,
+   "sid": 222,
+   "location": 2,
+   "content": "所有的权利"
+  },
+  {
+   "from": 403.56,
+   "to": 404.48,
+   "sid": 223,
+   "location": 2,
+   "content": "一招"
+  },
+  {
+   "from": 404.48,
+   "to": 405.44,
+   "sid": 224,
+   "location": 2,
+   "content": "我在这里"
+  },
+  {
+   "from": 405.44,
+   "to": 406.9,
+   "sid": 225,
+   "location": 2,
+   "content": "你离我而去"
+  },
+  {
+   "from": 406.9,
+   "to": 408.42,
+   "sid": 226,
+   "location": 2,
+   "content": "完成左手上篮好的"
+  },
+  {
+   "from": 410.8,
+   "to": 411.8,
+   "sid": 227,
+   "location": 2,
+   "content": "完美现在"
+  },
+  {
+   "from": 411.8,
+   "to": 414.2,
+   "sid": 228,
+   "location": 2,
+   "content": "只是在你面前更好地保护球是的"
+  },
+  {
+   "from": 414.2,
+   "to": 416.96,
+   "sid": 229,
+   "location": 2,
+   "content": "就在那里把它塞进去或者从上面或下面"
+  },
+  {
+   "from": 420.4,
+   "to": 422.7,
+   "sid": 230,
+   "location": 2,
+   "content": "好再来一次再来一次"
+  },
+  {
+   "from": 422.7,
+   "to": 423.88,
+   "sid": 231,
+   "location": 2,
+   "content": "让我们越过头顶"
+  },
+  {
+   "from": 428.72,
+   "to": 429.7,
+   "sid": 232,
+   "location": 2,
+   "content": "没关系"
+  },
+  {
+   "from": 429.7,
+   "to": 430.66,
+   "sid": 233,
+   "location": 2,
+   "content": "我差点就死了"
+  },
+  {
+   "from": 430.66,
+   "to": 431.74,
+   "sid": 234,
+   "location": 2,
+   "content": "没关系"
+  },
+  {
+   "from": 435.24,
+   "to": 438.04,
+   "sid": 235,
+   "location": 2,
+   "content": "很好很好的收尾"
+  },
+  {
+   "from": 438.04,
+   "to": 438.58,
+   "sid": 236,
+   "location": 2,
+   "content": "太完美了"
+  },
+  {
+   "from": 438.58,
+   "to": 439.88,
+   "sid": 237,
+   "location": 2,
+   "content": "所以有五个完成"
+  },
+  {
+   "from": 443.1,
+   "to": 444.18,
+   "sid": 238,
+   "location": 2,
+   "content": "你也可以告诉我"
+  },
+  {
+   "from": 444.18,
+   "to": 446.34,
+   "sid": 239,
+   "location": 2,
+   "content": "但这些都是你在游戏中做的事情"
+  },
+  {
+   "from": 446.34,
+   "to": 447.02,
+   "sid": 240,
+   "location": 2,
+   "content": "就在你演奏的时候"
+  },
+  {
+   "from": 447.02,
+   "to": 447.7,
+   "sid": 241,
+   "location": 2,
+   "content": "效率很高"
+  },
+  {
+   "from": 447.7,
+   "to": 448.94,
+   "sid": 242,
+   "location": 2,
+   "content": "我没有添加任何疯狂的东西"
+  },
+  {
+   "from": 448.94,
+   "to": 450.35,
+   "sid": 243,
+   "location": 2,
+   "content": "任何华而不实的东西"
+  },
+  {
+   "from": 450.35,
+   "to": 450.63,
+   "sid": 244,
+   "location": 2,
+   "content": "现在"
+  },
+  {
+   "from": 450.63,
+   "to": 452.09,
+   "sid": 245,
+   "location": 2,
+   "content": "当我们进入拍摄时"
+  },
+  {
+   "from": 452.09,
+   "to": 454.05,
+   "sid": 246,
+   "location": 2,
+   "content": "首先要加的是运球引体向上"
+  },
+  {
+   "from": 454.05,
+   "to": 455.2,
+   "sid": 247,
+   "location": 2,
+   "content": "我们去四个代表"
+  },
+  {
+   "from": 455.2,
+   "to": 456.16,
+   "sid": 248,
+   "location": 2,
+   "content": "所以当你运球的时候"
+  },
+  {
+   "from": 456.16,
+   "to": 457.02,
+   "sid": 249,
+   "location": 2,
+   "content": "正确向上拉"
+  },
+  {
+   "from": 457.02,
+   "to": 459.38,
+   "sid": 250,
+   "location": 2,
+   "content": "每件事都是内脚外脚"
+  },
+  {
+   "from": 459.38,
+   "to": 459.76,
+   "sid": 251,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 459.76,
+   "to": 461.16,
+   "sid": 252,
+   "location": 2,
+   "content": "所以我们往右边走"
+  },
+  {
+   "from": 461.16,
+   "to": 463.26,
+   "sid": 253,
+   "location": 2,
+   "content": "我向左向右运球"
+  },
+  {
+   "from": 463.26,
+   "to": 463.7,
+   "sid": 254,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 463.7,
+   "to": 464.28,
+   "sid": 255,
+   "location": 2,
+   "content": "那很有效率"
+  },
+  {
+   "from": 464.28,
+   "to": 465.34,
+   "sid": 256,
+   "location": 2,
+   "content": "当我走这条路"
+  },
+  {
+   "from": 465.34,
+   "to": 466.18,
+   "sid": 257,
+   "location": 2,
+   "content": "我来这里"
+  },
+  {
+   "from": 466.18,
+   "to": 468.32,
+   "sid": 258,
+   "location": 2,
+   "content": "右运球左运球"
+  },
+  {
+   "from": 468.32,
+   "to": 468.78,
+   "sid": 259,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 468.78,
+   "to": 469.58,
+   "sid": 260,
+   "location": 2,
+   "content": "没有浪费的动作"
+  },
+  {
+   "from": 469.58,
+   "to": 470.38,
+   "sid": 261,
+   "location": 2,
+   "content": "没有浪费步骤"
+  },
+  {
+   "from": 470.38,
+   "to": 471.64,
+   "sid": 262,
+   "location": 2,
+   "content": "我们不想陷入跳跃"
+  },
+  {
+   "from": 471.64,
+   "to": 475.28,
+   "sid": 263,
+   "location": 2,
+   "content": "我们不想来这里一二三或者来这里一二三"
+  },
+  {
+   "from": 475.28,
+   "to": 476,
+   "sid": 264,
+   "location": 2,
+   "content": "人们做了很多"
+  },
+  {
+   "from": 476,
+   "to": 476.81,
+   "sid": 265,
+   "location": 2,
+   "content": "当他们向左走的时候"
+  },
+  {
+   "from": 476.81,
+   "to": 478.39,
+   "sid": 266,
+   "location": 2,
+   "content": "所以你得到了你的位置"
+  },
+  {
+   "from": 478.39,
+   "to": 481.5,
+   "sid": 267,
+   "location": 2,
+   "content": "一二内脚外脚四代表好的"
+  },
+  {
+   "from": 481.62,
+   "to": 482.26,
+   "sid": 268,
+   "location": 2,
+   "content": "所以说"
+  },
+  {
+   "from": 484.58,
+   "to": 486.24,
+   "sid": 269,
+   "location": 2,
+   "content": "一二上完美"
+  },
+  {
+   "from": 486.24,
+   "to": 487.08,
+   "sid": 270,
+   "location": 2,
+   "content": "没关系"
+  },
+  {
+   "from": 487.08,
+   "to": 488,
+   "sid": 271,
+   "location": 2,
+   "content": "你得到了它"
+  },
+  {
+   "from": 489.56,
+   "to": 496.48,
+   "sid": 272,
+   "location": 2,
+   "content": "砰一二向上完美左侧一只鞋向上好"
+  },
+  {
+   "from": 496.48,
+   "to": 498.6,
+   "sid": 273,
+   "location": 2,
+   "content": "就像那样再来一次"
+  },
+  {
+   "from": 500.24,
+   "to": 501.84,
+   "sid": 274,
+   "location": 2,
+   "content": "把一只鞋抬起来"
+  },
+  {
+   "from": 501.9,
+   "to": 502.88,
+   "sid": 275,
+   "location": 2,
+   "content": "没关系"
+  },
+  {
+   "from": 502.88,
+   "to": 503.82,
+   "sid": 276,
+   "location": 2,
+   "content": "那完全没问题"
+  },
+  {
+   "from": 503.82,
+   "to": 504.54,
+   "sid": 277,
+   "location": 2,
+   "content": "别担心"
+  },
+  {
+   "from": 504.54,
+   "to": 507.42,
+   "sid": 278,
+   "location": 2,
+   "content": "所以这真的只是给他们在家里的一个演示"
+  },
+  {
+   "from": 507.42,
+   "to": 508.22,
+   "sid": 279,
+   "location": 2,
+   "content": "但他们要做的是"
+  },
+  {
+   "from": 508.22,
+   "to": 510.12,
+   "sid": 280,
+   "location": 2,
+   "content": "当我们进行全面锻炼时，你会做什么"
+  },
+  {
+   "from": 510.12,
+   "to": 510.9,
+   "sid": 281,
+   "location": 2,
+   "content": "八个代表"
+  },
+  {
+   "from": 510.9,
+   "to": 512.98,
+   "sid": 282,
+   "location": 2,
+   "content": "十个代表专注于掌握对吧"
+  },
+  {
+   "from": 512.98,
+   "to": 514.64,
+   "sid": 283,
+   "location": 2,
+   "content": "所以就像我总是说的对"
+  },
+  {
+   "from": 514.64,
+   "to": 515.72,
+   "sid": 284,
+   "location": 2,
+   "content": "他只是在这里做几个代表"
+  },
+  {
+   "from": 515.72,
+   "to": 517.159,
+   "sid": 285,
+   "location": 2,
+   "content": "只是为了向你们展示如何正确地做这件事"
+  },
+  {
+   "from": 517.159,
+   "to": 520.22,
+   "sid": 286,
+   "location": 2,
+   "content": "但在家里，要经历它，直到你不能错过"
+  },
+  {
+   "from": 520.22,
+   "to": 520.62,
+   "sid": 287,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 520.62,
+   "to": 521.08,
+   "sid": 288,
+   "location": 2,
+   "content": "下一个"
+  },
+  {
+   "from": 521.08,
+   "to": 521.659,
+   "sid": 289,
+   "location": 2,
+   "content": "让我们去挂"
+  },
+  {
+   "from": 521.659,
+   "to": 522.159,
+   "sid": 290,
+   "location": 2,
+   "content": "犹豫"
+  },
+  {
+   "from": 522.159,
+   "to": 522.659,
+   "sid": 291,
+   "location": 2,
+   "content": "向上拉"
+  },
+  {
+   "from": 522.659,
+   "to": 524.52,
+   "sid": 292,
+   "location": 2,
+   "content": "所以我们现在要来这里闲逛"
+  },
+  {
+   "from": 524.52,
+   "to": 526.68,
+   "sid": 293,
+   "location": 2,
+   "content": "首先是球边脚"
+  },
+  {
+   "from": 526.68,
+   "to": 527.2,
+   "sid": 294,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 527.2,
+   "to": 527.56,
+   "sid": 295,
+   "location": 2,
+   "content": "所以蛋蛋"
+  },
+  {
+   "from": 527.56,
+   "to": 528.18,
+   "sid": 296,
+   "location": 2,
+   "content": "左手"
+  },
+  {
+   "from": 528.18,
+   "to": 529.36,
+   "sid": 297,
+   "location": 2,
+   "content": "我在努力"
+  },
+  {
+   "from": 529.36,
+   "to": 530.96,
+   "sid": 298,
+   "location": 2,
+   "content": "用左脚球推销驱动器"
+  },
+  {
+   "from": 530.96,
+   "to": 531.6,
+   "sid": 299,
+   "location": 2,
+   "content": "右手"
+  },
+  {
+   "from": 531.6,
+   "to": 533.44,
+   "sid": 300,
+   "location": 2,
+   "content": "我的硬盘有这个权利"
+  },
+  {
+   "from": 533.44,
+   "to": 534.16,
+   "sid": 301,
+   "location": 2,
+   "content": "脚二"
+  },
+  {
+   "from": 534.16,
+   "to": 534.92,
+   "sid": 302,
+   "location": 2,
+   "content": "每一种方式"
+  },
+  {
+   "from": 535.42,
+   "to": 536.42,
+   "sid": 303,
+   "location": 2,
+   "content": "付钱"
+  },
+  {
+   "from": 536.9,
+   "to": 537.42,
+   "sid": 304,
+   "location": 2,
+   "content": "是的"
+  },
+  {
+   "from": 537.42,
+   "to": 539.76,
+   "sid": 305,
+   "location": 2,
+   "content": "把它挂在左边右边完美"
+  },
+  {
+   "from": 539.76,
+   "to": 542.18,
+   "sid": 306,
+   "location": 2,
+   "content": "让我们也得到一点空间"
+  },
+  {
+   "from": 542.18,
+   "to": 544.84,
+   "sid": 307,
+   "location": 2,
+   "content": "所以我们现在有点分散到肘部"
+  },
+  {
+   "from": 544.84,
+   "to": 545.859,
+   "sid": 308,
+   "location": 2,
+   "content": "是的"
+  },
+  {
+   "from": 550.2,
+   "to": 553.42,
+   "sid": 309,
+   "location": 2,
+   "content": "把两边都换下来"
+  },
+  {
+   "from": 553.42,
+   "to": 554.599,
+   "sid": 310,
+   "location": 2,
+   "content": "一二上"
+  },
+  {
+   "from": 561.46,
+   "to": 562.62,
+   "sid": 311,
+   "location": 2,
+   "content": "那完全没问题"
+  },
+  {
+   "from": 562.62,
+   "to": 563.86,
+   "sid": 312,
+   "location": 2,
+   "content": "没关系"
+  },
+  {
+   "from": 563.86,
+   "to": 566.46,
+   "sid": 313,
+   "location": 2,
+   "content": "但我们会得到一些好的代表"
+  },
+  {
+   "from": 566.46,
+   "to": 566.68,
+   "sid": 314,
+   "location": 2,
+   "content": "我也是"
+  },
+  {
+   "from": 566.68,
+   "to": 567.1,
+   "sid": 315,
+   "location": 2,
+   "content": "别担心"
+  },
+  {
+   "from": 567.1,
+   "to": 567.92,
+   "sid": 316,
+   "location": 2,
+   "content": "好了，现在"
+  },
+  {
+   "from": 567.92,
+   "to": 568.96,
+   "sid": 317,
+   "location": 2,
+   "content": "让我们进入我们的分离"
+  },
+  {
+   "from": 568.96,
+   "to": 570.16,
+   "sid": 318,
+   "location": 2,
+   "content": "所以让我们后退一步"
+  },
+  {
+   "from": 570.16,
+   "to": 570.44,
+   "sid": 319,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 570.44,
+   "to": 571.74,
+   "sid": 320,
+   "location": 2,
+   "content": "我们在这里运球三次"
+  },
+  {
+   "from": 571.88,
+   "to": 573.06,
+   "sid": 321,
+   "location": 2,
+   "content": "我有两次运球"
+  },
+  {
+   "from": 573.06,
+   "to": 575.02,
+   "sid": 322,
+   "location": 2,
+   "content": "所以两三个是你想要的"
+  },
+  {
+   "from": 575.02,
+   "to": 578.1,
+   "sid": 323,
+   "location": 2,
+   "content": "一二三或者你可以到这里来"
+  },
+  {
+   "from": 578.1,
+   "to": 580.14,
+   "sid": 324,
+   "location": 2,
+   "content": "二，三，随便"
+  },
+  {
+   "from": 580.14,
+   "to": 581.2,
+   "sid": 325,
+   "location": 2,
+   "content": "我们要去之间"
+  },
+  {
+   "from": 581.2,
+   "to": 582.94,
+   "sid": 326,
+   "location": 2,
+   "content": "向前推进"
+  },
+  {
+   "from": 582.94,
+   "to": 584.079,
+   "sid": 327,
+   "location": 2,
+   "content": "在那里分开"
+  },
+  {
+   "from": 584.079,
+   "to": 584.399,
+   "sid": 328,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 584.399,
+   "to": 585.619,
+   "sid": 329,
+   "location": 2,
+   "content": "唯一困难的是"
+  },
+  {
+   "from": 585.619,
+   "to": 586.119,
+   "sid": 330,
+   "location": 2,
+   "content": "就像卖"
+  },
+  {
+   "from": 586.119,
+   "to": 587.679,
+   "sid": 331,
+   "location": 2,
+   "content": "我们要离开这条腿"
+  },
+  {
+   "from": 587.679,
+   "to": 588.359,
+   "sid": 332,
+   "location": 2,
+   "content": "我们在反击"
+  },
+  {
+   "from": 588.359,
+   "to": 591.01,
+   "sid": 333,
+   "location": 2,
+   "content": "减速一二，我们就好了"
+  },
+  {
+   "from": 591.01,
+   "to": 591.75,
+   "sid": 334,
+   "location": 2,
+   "content": "快点离开"
+  },
+  {
+   "from": 591.75,
+   "to": 594.839,
+   "sid": 335,
+   "location": 2,
+   "content": "有一个很好的平衡，保持低两个方向"
+  },
+  {
+   "from": 595.12,
+   "to": 597.04,
+   "sid": 336,
+   "location": 2,
+   "content": "一推起来"
+  },
+  {
+   "from": 598.24,
+   "to": 600.56,
+   "sid": 337,
+   "location": 2,
+   "content": "我抓住你了，就在这里"
+  },
+  {
+   "from": 600.56,
+   "to": 602.66,
+   "sid": 338,
+   "location": 2,
+   "content": "打它推分开"
+  },
+  {
+   "from": 602.66,
+   "to": 603.12,
+   "sid": 339,
+   "location": 2,
+   "content": "出去"
+  },
+  {
+   "from": 603.12,
+   "to": 604.66,
+   "sid": 340,
+   "location": 2,
+   "content": "站起来好开关"
+  },
+  {
+   "from": 604.66,
+   "to": 609.26,
+   "sid": 341,
+   "location": 2,
+   "content": "就在那里通过推美丽的空间"
+  },
+  {
+   "from": 609.26,
+   "to": 612.56,
+   "sid": 342,
+   "location": 2,
+   "content": "你唯一能做得更好的是你的脚离地太近了"
+  },
+  {
+   "from": 612.56,
+   "to": 613.86,
+   "sid": 343,
+   "location": 2,
+   "content": "所以会稍微宽一点"
+  },
+  {
+   "from": 613.86,
+   "to": 615.699,
+   "sid": 344,
+   "location": 2,
+   "content": "再低一点"
+  },
+  {
+   "from": 616.48,
+   "to": 617.76,
+   "sid": 345,
+   "location": 2,
+   "content": "推好底座"
+  },
+  {
+   "from": 617.76,
+   "to": 619.58,
+   "sid": 346,
+   "location": 2,
+   "content": "起床好工作"
+  },
+  {
+   "from": 619.58,
+   "to": 620.1,
+   "sid": 347,
+   "location": 2,
+   "content": "多受欢迎啊"
+  },
+  {
+   "from": 620.1,
+   "to": 620.5,
+   "sid": 348,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 620.5,
+   "to": 621.38,
+   "sid": 349,
+   "location": 2,
+   "content": "你后退了一步"
+  },
+  {
+   "from": 621.38,
+   "to": 621.78,
+   "sid": 350,
+   "location": 2,
+   "content": "现在"
+  },
+  {
+   "from": 621.78,
+   "to": 623.04,
+   "sid": 351,
+   "location": 2,
+   "content": "我们有超速档"
+  },
+  {
+   "from": 623.04,
+   "to": 624.68,
+   "sid": 352,
+   "location": 2,
+   "content": "所以我们之前也谈过这个"
+  },
+  {
+   "from": 624.68,
+   "to": 626.28,
+   "sid": 353,
+   "location": 2,
+   "content": "现在是推拉"
+  },
+  {
+   "from": 626.28,
+   "to": 626.56,
+   "sid": 354,
+   "location": 2,
+   "content": "用你的"
+  },
+  {
+   "from": 626.56,
+   "to": 627.2,
+   "sid": 355,
+   "location": 2,
+   "content": "推拉"
+  },
+  {
+   "from": 627.2,
+   "to": 628.58,
+   "sid": 356,
+   "location": 2,
+   "content": "你做什么动作并不重要"
+  },
+  {
+   "from": 628.58,
+   "to": 630.78,
+   "sid": 357,
+   "location": 2,
+   "content": "但我想把球向前扔"
+  },
+  {
+   "from": 631.08,
+   "to": 632.38,
+   "sid": 358,
+   "location": 2,
+   "content": "把球往后拉"
+  },
+  {
+   "from": 632.38,
+   "to": 633.08,
+   "sid": 359,
+   "location": 2,
+   "content": "真正的低"
+  },
+  {
+   "from": 633.08,
+   "to": 634.66,
+   "sid": 360,
+   "location": 2,
+   "content": "你怎么做对并不重要"
+  },
+  {
+   "from": 634.66,
+   "to": 635.7,
+   "sid": 361,
+   "location": 2,
+   "content": "把它向前扔"
+  },
+  {
+   "from": 635.7,
+   "to": 636.76,
+   "sid": 362,
+   "location": 2,
+   "content": "嘣"
+  },
+  {
+   "from": 636.76,
+   "to": 637.979,
+   "sid": 363,
+   "location": 2,
+   "content": "把它拉回来"
+  },
+  {
+   "from": 638,
+   "to": 639.56,
+   "sid": 364,
+   "location": 2,
+   "content": "他们显然控制了那个球"
+  },
+  {
+   "from": 639.56,
+   "to": 640.04,
+   "sid": 365,
+   "location": 2,
+   "content": "一直以来"
+  },
+  {
+   "from": 640.04,
+   "to": 640.6,
+   "sid": 366,
+   "location": 2,
+   "content": "让我们双向走"
+  },
+  {
+   "from": 640.6,
+   "to": 640.96,
+   "sid": 367,
+   "location": 2,
+   "content": "两个代表"
+  },
+  {
+   "from": 640.96,
+   "to": 642.9,
+   "sid": 368,
+   "location": 2,
+   "content": "每推抓取"
+  },
+  {
+   "from": 642.9,
+   "to": 644.06,
+   "sid": 369,
+   "location": 2,
+   "content": "打起精神来"
+  },
+  {
+   "from": 656.2,
+   "to": 658.06,
+   "sid": 370,
+   "location": 2,
+   "content": "被击倒了"
+  },
+  {
+   "from": 658.06,
+   "to": 660.66,
+   "sid": 371,
+   "location": 2,
+   "content": "推动伟大的停止"
+  },
+  {
+   "from": 660.66,
+   "to": 661.82,
+   "sid": 372,
+   "location": 2,
+   "content": "真正的好停"
+  },
+  {
+   "from": 661.82,
+   "to": 663.96,
+   "sid": 373,
+   "location": 2,
+   "content": "什么让你的脚在你下面完美"
+  },
+  {
+   "from": 663.96,
+   "to": 664.46,
+   "sid": 374,
+   "location": 2,
+   "content": "现在"
+  },
+  {
+   "from": 664.46,
+   "to": 666.16,
+   "sid": 375,
+   "location": 2,
+   "content": "最后一个很简单"
+  },
+  {
+   "from": 666.16,
+   "to": 666.46,
+   "sid": 376,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 666.46,
+   "to": 666.94,
+   "sid": 377,
+   "location": 2,
+   "content": "就像我们说的"
+  },
+  {
+   "from": 666.94,
+   "to": 667.66,
+   "sid": 378,
+   "location": 2,
+   "content": "这些都是招式"
+  },
+  {
+   "from": 668.62,
+   "to": 670.04,
+   "sid": 379,
+   "location": 2,
+   "content": "不一定是一个举动"
+  },
+  {
+   "from": 670.04,
+   "to": 671.55,
+   "sid": 380,
+   "location": 2,
+   "content": "但这只是接球和射击"
+  },
+  {
+   "from": 671.55,
+   "to": 673.57,
+   "sid": 381,
+   "location": 2,
+   "content": "因为你会看到最常见的镜头"
+  },
+  {
+   "from": 673.57,
+   "to": 674.67,
+   "sid": 382,
+   "location": 2,
+   "content": "当你打篮球的时候"
+  },
+  {
+   "from": 674.67,
+   "to": 675.79,
+   "sid": 383,
+   "location": 2,
+   "content": "你在投运球引体向上"
+  },
+  {
+   "from": 675.79,
+   "to": 677.03,
+   "sid": 384,
+   "location": 2,
+   "content": "你在拍摄犹豫引体向上"
+  },
+  {
+   "from": 677.03,
+   "to": 678.11,
+   "sid": 385,
+   "location": 2,
+   "content": "你在后退"
+  },
+  {
+   "from": 678.11,
+   "to": 678.43,
+   "sid": 386,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 678.43,
+   "to": 679.56,
+   "sid": 387,
+   "location": 2,
+   "content": "你在拍超速档"
+  },
+  {
+   "from": 679.56,
+   "to": 681.19,
+   "sid": 388,
+   "location": 2,
+   "content": "你在射杀一吨猫和咀嚼"
+  },
+  {
+   "from": 681.19,
+   "to": 683.35,
+   "sid": 389,
+   "location": 2,
+   "content": "所以我们必须确保我们现在就掌握了这一点"
+  },
+  {
+   "from": 683.35,
+   "to": 684.93,
+   "sid": 390,
+   "location": 2,
+   "content": "我们只关注一个拖车跳楼者"
+  },
+  {
+   "from": 684.93,
+   "to": 687.85,
+   "sid": 391,
+   "location": 2,
+   "content": "所以你要从后面一点开始，直接慢跑到那里"
+  },
+  {
+   "from": 687.85,
+   "to": 688.19,
+   "sid": 392,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 700.3,
+   "to": 702.8,
+   "sid": 393,
+   "location": 2,
+   "content": "再来一个你很好"
+  },
+  {
+   "from": 706.22,
+   "to": 707.48,
+   "sid": 394,
+   "location": 2,
+   "content": "很好，太完美了"
+  },
+  {
+   "from": 713.97,
+   "to": 714.97,
+   "sid": 395,
+   "location": 2,
+   "content": "所以如果你还没有这些"
+  },
+  {
+   "from": 714.97,
+   "to": 715.53,
+   "sid": 396,
+   "location": 2,
+   "content": "确保你做到了"
+  },
+  {
+   "from": 715.53,
+   "to": 716.53,
+   "sid": 397,
+   "location": 2,
+   "content": "如果你有一些"
+  },
+  {
+   "from": 716.53,
+   "to": 718.01,
+   "sid": 398,
+   "location": 2,
+   "content": "确保你在你没有的上工作"
+  },
+  {
+   "from": 718.01,
+   "to": 720.349,
+   "sid": 399,
+   "location": 2,
+   "content": "我向你保证他会把篮球打得屁滚尿流"
+  },
+  {
+   "from": 720.349,
+   "to": 722.729,
+   "sid": 400,
+   "location": 2,
+   "content": "只是你知道他在哪里快速地通过一切"
+  },
+  {
+   "from": 722.729,
+   "to": 723.469,
+   "sid": 401,
+   "location": 2,
+   "content": "不得不把它捡起来"
+  },
+  {
+   "from": 723.469,
+   "to": 723.789,
+   "sid": 402,
+   "location": 2,
+   "content": "对呀"
+  },
+  {
+   "from": 723.789,
+   "to": 729.31,
+   "sid": 403,
+   "location": 2,
+   "content": "但就像我说的在现实中最重要的是专注于掌握一切对吧"
+  },
+  {
+   "from": 729.31,
+   "to": 731.41,
+   "sid": 404,
+   "location": 2,
+   "content": "你对我们今天所做的一切感到满意"
+  },
+  {
+   "from": 731.41,
+   "to": 734.9,
+   "sid": 405,
+   "location": 2,
+   "content": "但也许你可以改进一些事情"
+  },
+  {
+   "from": 734.9,
+   "to": 736.22,
+   "sid": 406,
+   "location": 2,
+   "content": "我们谈到了左腿的抓取"
+  },
+  {
+   "from": 736.22,
+   "to": 737.9,
+   "sid": 407,
+   "location": 2,
+   "content": "确保我们对这个感觉更舒服一点"
+  },
+  {
+   "from": 737.9,
+   "to": 739.08,
+   "sid": 408,
+   "location": 2,
+   "content": "但在家里"
+  },
+  {
+   "from": 739.08,
+   "to": 740.94,
+   "sid": 409,
+   "location": 2,
+   "content": "任何你觉得不舒服的动作"
+  },
+  {
+   "from": 740.94,
+   "to": 742.18,
+   "sid": 410,
+   "location": 2,
+   "content": "坚持下去，努力工作"
+  },
+  {
+   "from": 742.18,
+   "to": 744.52,
+   "sid": 411,
+   "location": 2,
+   "content": "直到感觉你可以随时做"
+  },
+  {
+   "from": 744.52,
+   "to": 750.16,
+   "sid": 412,
+   "location": 2,
+   "content": "直到感觉你可以掌握这个动作并在边缘的每一个东西上做到这一点从三个等等"
+  },
+  {
+   "from": 750.16,
+   "to": 750.94,
+   "sid": 413,
+   "location": 2,
+   "content": "我们下次再见"
+  },
+  {
+   "from": 750.94,
+   "to": 751.56,
+   "sid": 414,
+   "location": 2,
+   "content": "时间"
+  },
+  {
+   "from": 751.68,
+   "to": 752.2,
+   "sid": 415,
+   "location": 2,
+   "content": "是啊，是啊"
+  },
+  {
+   "from": 752.2,
+   "to": 753.08,
+   "sid": 416,
+   "location": 2,
+   "content": "我闪闪发光"
+  },
+  {
+   "from": 753.08,
+   "to": 754.12,
+   "sid": 417,
+   "location": 2,
+   "content": "让我觉得"
+  },
+  {
+   "from": 754.12,
+   "to": 754.98,
+   "sid": 418,
+   "location": 2,
+   "content": "我是下一个"
+  },
+  {
+   "from": 754.98,
+   "to": 756.18,
+   "sid": 419,
+   "location": 2,
+   "content": "感觉我像咖喱"
+  },
+  {
+   "from": 756.18,
+   "to": 757.98,
+   "sid": 420,
+   "location": 2,
+   "content": "我掉在西墙上"
+  },
+  {
+   "from": 757.98,
+   "to": 760.7,
+   "sid": 421,
+   "location": 2,
+   "content": "3.你说我永远也猜不到"
+  },
+  {
+   "from": 760.7,
+   "to": 762.08,
+   "sid": 422,
+   "location": 2,
+   "content": "所以我获胜的方式"
+  },
+  {
+   "from": 762.08,
+   "to": 763.22,
+   "sid": 423,
+   "location": 2,
+   "content": "我不必打赌"
+  },
+  {
+   "from": 763.22,
+   "to": 763.96,
+   "sid": 424,
+   "location": 2,
+   "content": "有仇恨"
+  },
+  {
+   "from": 763.96,
+   "to": 764.46,
+   "sid": 425,
+   "location": 2,
+   "content": "你说过"
+  },
+  {
+   "from": 764.46,
+   "to": 765.68,
+   "sid": 426,
+   "location": 2,
+   "content": "我一直在存钱"
+  },
+  {
+   "from": 765.68,
+   "to": 766.58,
+   "sid": 427,
+   "location": 2,
+   "content": "带着钱"
+  },
+  {
+   "from": 766.58,
+   "to": 766.96,
+   "sid": 428,
+   "location": 2,
+   "content": "i"
+  }
+ ]
+}

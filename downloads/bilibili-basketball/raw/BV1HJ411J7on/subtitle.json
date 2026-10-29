@@ -1,0 +1,838 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.32,
+   "to": 0.84,
+   "sid": 1,
+   "location": 2,
+   "content": "怎么了伙计们"
+  },
+  {
+   "from": 0.84,
+   "to": 1.52,
+   "sid": 2,
+   "location": 2,
+   "content": "是德鲁教练"
+  },
+  {
+   "from": 1.52,
+   "to": 3.64,
+   "sid": 3,
+   "location": 2,
+   "content": "今天我要带你们经历五分钟"
+  },
+  {
+   "from": 3.64,
+   "to": 4.04,
+   "sid": 4,
+   "location": 2,
+   "content": "热身"
+  },
+  {
+   "from": 4.04,
+   "to": 7.73,
+   "sid": 5,
+   "location": 2,
+   "content": "你们可以用球来让自己为锻炼做好更多准备"
+  },
+  {
+   "from": 7.73,
+   "to": 9.93,
+   "sid": 6,
+   "location": 2,
+   "content": "你们中的许多人都做基于表演的热身"
+  },
+  {
+   "from": 9.93,
+   "to": 10.79,
+   "sid": 7,
+   "location": 2,
+   "content": "完全没问题"
+  },
+  {
+   "from": 10.79,
+   "to": 11.95,
+   "sid": 8,
+   "location": 2,
+   "content": "但既然我们是篮球运动员"
+  },
+  {
+   "from": 11.95,
+   "to": 13.61,
+   "sid": 9,
+   "location": 2,
+   "content": "我们手中的球就越多"
+  },
+  {
+   "from": 13.61,
+   "to": 15.95,
+   "sid": 10,
+   "location": 2,
+   "content": "越好，所以我要给你们一个动态热身"
+  },
+  {
+   "from": 15.95,
+   "to": 16.91,
+   "sid": 11,
+   "location": 2,
+   "content": "你们可以用"
+  },
+  {
+   "from": 16.91,
+   "to": 18.369,
+   "sid": 12,
+   "location": 2,
+   "content": "不会占用太多空间"
+  },
+  {
+   "from": 18.369,
+   "to": 19.069,
+   "sid": 13,
+   "location": 2,
+   "content": "五分钟"
+  },
+  {
+   "from": 19.069,
+   "to": 21.29,
+   "sid": 14,
+   "location": 2,
+   "content": "这会让你出汗，让你为锻炼做好准备"
+  },
+  {
+   "from": 21.29,
+   "to": 23.61,
+   "sid": 15,
+   "location": 2,
+   "content": "我们要做的第一件事，每种方式30秒"
+  },
+  {
+   "from": 23.61,
+   "to": 24.77,
+   "sid": 16,
+   "location": 2,
+   "content": "很明显我们所做的一切"
+  },
+  {
+   "from": 24.77,
+   "to": 26.45,
+   "sid": 17,
+   "location": 2,
+   "content": "我们得在右边和左边工作"
+  },
+  {
+   "from": 26.45,
+   "to": 27.89,
+   "sid": 18,
+   "location": 2,
+   "content": "我在一边给你看"
+  },
+  {
+   "from": 27.89,
+   "to": 29.82,
+   "sid": 19,
+   "location": 2,
+   "content": "很明显我们在另一边复制"
+  },
+  {
+   "from": 29.82,
+   "to": 31.62,
+   "sid": 20,
+   "location": 2,
+   "content": "但我们要做的第一件事是磅运球"
+  },
+  {
+   "from": 31.62,
+   "to": 32.479,
+   "sid": 21,
+   "location": 2,
+   "content": "用我们的右手"
+  },
+  {
+   "from": 32.479,
+   "to": 36.53,
+   "sid": 22,
+   "location": 2,
+   "content": "同时我们的左脚再次侧身和向前戳"
+  },
+  {
+   "from": 36.53,
+   "to": 37.53,
+   "sid": 23,
+   "location": 2,
+   "content": "这让我们的脚暖和起来"
+  },
+  {
+   "from": 37.53,
+   "to": 39.11,
+   "sid": 24,
+   "location": 2,
+   "content": "也让我们的磅运球开始"
+  },
+  {
+   "from": 39.11,
+   "to": 39.93,
+   "sid": 25,
+   "location": 2,
+   "content": "所以我运球"
+  },
+  {
+   "from": 39.93,
+   "to": 40.73,
+   "sid": 26,
+   "location": 2,
+   "content": "我是侧步"
+  },
+  {
+   "from": 40.73,
+   "to": 41.49,
+   "sid": 27,
+   "location": 2,
+   "content": "我向前一步"
+  },
+  {
+   "from": 41.49,
+   "to": 42.09,
+   "sid": 28,
+   "location": 2,
+   "content": "我是侧步"
+  },
+  {
+   "from": 42.09,
+   "to": 42.87,
+   "sid": 29,
+   "location": 2,
+   "content": "我向前一步"
+  },
+  {
+   "from": 42.87,
+   "to": 45.499,
+   "sid": 30,
+   "location": 2,
+   "content": "我只是在热身我的脚和我的运球"
+  },
+  {
+   "from": 45.499,
+   "to": 47.179,
+   "sid": 31,
+   "location": 2,
+   "content": "我们用右手做30秒"
+  },
+  {
+   "from": 47.179,
+   "to": 48.48,
+   "sid": 32,
+   "location": 2,
+   "content": "用我们的左边30秒"
+  },
+  {
+   "from": 48.48,
+   "to": 50.28,
+   "sid": 33,
+   "location": 2,
+   "content": "现在我们的脚被激活了"
+  },
+  {
+   "from": 50.28,
+   "to": 51.92,
+   "sid": 34,
+   "location": 2,
+   "content": "我们的运球现在被激活了"
+  },
+  {
+   "from": 51.92,
+   "to": 52.9,
+   "sid": 35,
+   "location": 2,
+   "content": "我们有点放松了"
+  },
+  {
+   "from": 52.9,
+   "to": 53.61,
+   "sid": 36,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 53.61,
+   "to": 56.33,
+   "sid": 37,
+   "location": 2,
+   "content": "你要做的第二件事就是保持弓步姿势"
+  },
+  {
+   "from": 56.33,
+   "to": 58.01,
+   "sid": 38,
+   "location": 2,
+   "content": "我们一直用这个交叉步"
+  },
+  {
+   "from": 58.01,
+   "to": 59.25,
+   "sid": 39,
+   "location": 2,
+   "content": "用它来后退"
+  },
+  {
+   "from": 59.25,
+   "to": 60.47,
+   "sid": 40,
+   "location": 2,
+   "content": "如果你要在游戏中后退一步"
+  },
+  {
+   "from": 60.47,
+   "to": 62.31,
+   "sid": 41,
+   "location": 2,
+   "content": "你会猛扑过去，然后后退一步"
+  },
+  {
+   "from": 62.31,
+   "to": 65.18,
+   "sid": 42,
+   "location": 2,
+   "content": "有这么多其他的动作，你会做这个交叉步姿势"
+  },
+  {
+   "from": 65.18,
+   "to": 66.06,
+   "sid": 43,
+   "location": 2,
+   "content": "所以你要做的是"
+  },
+  {
+   "from": 66.06,
+   "to": 67.26,
+   "sid": 44,
+   "location": 2,
+   "content": "你会在这里运球"
+  },
+  {
+   "from": 67.26,
+   "to": 68.66,
+   "sid": 45,
+   "location": 2,
+   "content": "你就要起飞了"
+  },
+  {
+   "from": 68.66,
+   "to": 69.06,
+   "sid": 46,
+   "location": 2,
+   "content": "运球"
+  },
+  {
+   "from": 69.06,
+   "to": 69.52,
+   "sid": 47,
+   "location": 2,
+   "content": "左脚"
+  },
+  {
+   "from": 69.52,
+   "to": 70.6,
+   "sid": 48,
+   "location": 2,
+   "content": "弓步臂"
+  },
+  {
+   "from": 70.6,
+   "to": 71.96,
+   "sid": 49,
+   "location": 2,
+   "content": "你卖的是前驱"
+  },
+  {
+   "from": 71.96,
+   "to": 72.6,
+   "sid": 50,
+   "location": 2,
+   "content": "你情绪低落"
+  },
+  {
+   "from": 72.6,
+   "to": 73.78,
+   "sid": 51,
+   "location": 2,
+   "content": "你处于一个很好的平衡位置"
+  },
+  {
+   "from": 73.78,
+   "to": 75.06,
+   "sid": 52,
+   "location": 2,
+   "content": "所以你不在这里"
+  },
+  {
+   "from": 75.06,
+   "to": 76.7,
+   "sid": 53,
+   "location": 2,
+   "content": "你不是在你坠落的地方"
+  },
+  {
+   "from": 76.7,
+   "to": 78.78,
+   "sid": 54,
+   "location": 2,
+   "content": "你只是又把臀部放下来了"
+  },
+  {
+   "from": 78.78,
+   "to": 79.46,
+   "sid": 55,
+   "location": 2,
+   "content": "你松开了"
+  },
+  {
+   "from": 79.46,
+   "to": 81.28,
+   "sid": 56,
+   "location": 2,
+   "content": "所以，你运球弓步回来"
+  },
+  {
+   "from": 81.28,
+   "to": 82.7,
+   "sid": 57,
+   "location": 2,
+   "content": "运球向后扑"
+  },
+  {
+   "from": 82.7,
+   "to": 84.41,
+   "sid": 58,
+   "location": 2,
+   "content": "运球向后扑"
+  },
+  {
+   "from": 84.41,
+   "to": 85.91,
+   "sid": 59,
+   "location": 2,
+   "content": "用我们的右边30秒"
+  },
+  {
+   "from": 85.91,
+   "to": 87.85,
+   "sid": 60,
+   "location": 2,
+   "content": "再给我们左边30秒"
+  },
+  {
+   "from": 87.85,
+   "to": 88.93,
+   "sid": 61,
+   "location": 2,
+   "content": "现在我们有了我们的弓步"
+  },
+  {
+   "from": 88.93,
+   "to": 89.97,
+   "sid": 62,
+   "location": 2,
+   "content": "我们的臀部在下降"
+  },
+  {
+   "from": 89.97,
+   "to": 92.27,
+   "sid": 63,
+   "location": 2,
+   "content": "我们真的在研究篮球动作"
+  },
+  {
+   "from": 92.27,
+   "to": 95.03,
+   "sid": 64,
+   "location": 2,
+   "content": "接下来的30秒我们要做的是同样的脚停"
+  },
+  {
+   "from": 95.03,
+   "to": 96.05,
+   "sid": 65,
+   "location": 2,
+   "content": "同脚发射"
+  },
+  {
+   "from": 96.05,
+   "to": 98.15,
+   "sid": 66,
+   "location": 2,
+   "content": "所以现在我在我的右吊杆上钻孔"
+  },
+  {
+   "from": 98.15,
+   "to": 99.15,
+   "sid": 67,
+   "location": 2,
+   "content": "右手右脚"
+  },
+  {
+   "from": 99.15,
+   "to": 99.75,
+   "sid": 68,
+   "location": 2,
+   "content": "右手"
+  },
+  {
+   "from": 99.75,
+   "to": 101.1,
+   "sid": 69,
+   "location": 2,
+   "content": "右脚吊杆"
+  },
+  {
+   "from": 101.1,
+   "to": 102.54,
+   "sid": 70,
+   "location": 2,
+   "content": "右手右脚"
+  },
+  {
+   "from": 102.54,
+   "to": 103.38,
+   "sid": 71,
+   "location": 2,
+   "content": "你走得越快"
+  },
+  {
+   "from": 103.38,
+   "to": 106.23,
+   "sid": 72,
+   "location": 2,
+   "content": "它就越复杂，真的会让你热身"
+  },
+  {
+   "from": 107.27,
+   "to": 109.85,
+   "sid": 73,
+   "location": 2,
+   "content": "接下来的30秒，你要在每一边做"
+  },
+  {
+   "from": 109.85,
+   "to": 111.03,
+   "sid": 74,
+   "location": 2,
+   "content": "你只是要努力"
+  },
+  {
+   "from": 111.03,
+   "to": 112.509,
+   "sid": 75,
+   "location": 2,
+   "content": "激活你的磅运球"
+  },
+  {
+   "from": 112.509,
+   "to": 116.249,
+   "sid": 76,
+   "location": 2,
+   "content": "所以在比赛中很多次我们都有一个松散的磅，这导致了失误"
+  },
+  {
+   "from": 116.249,
+   "to": 117.389,
+   "sid": 77,
+   "location": 2,
+   "content": "或者当我们受到压力时"
+  },
+  {
+   "from": 117.389,
+   "to": 118.83,
+   "sid": 78,
+   "location": 2,
+   "content": "我们真的挣扎着撤退"
+  },
+  {
+   "from": 118.83,
+   "to": 120.01,
+   "sid": 79,
+   "location": 2,
+   "content": "我们要撤退"
+  },
+  {
+   "from": 120.01,
+   "to": 121.15,
+   "sid": 80,
+   "location": 2,
+   "content": "所以我们要运球"
+  },
+  {
+   "from": 121.15,
+   "to": 124.21,
+   "sid": 81,
+   "location": 2,
+   "content": "然后把球拿回来，同时保持我们的手在球上"
+  },
+  {
+   "from": 124.21,
+   "to": 125.77,
+   "sid": 82,
+   "location": 2,
+   "content": "所以我们不会把它翻回来"
+  },
+  {
+   "from": 125.77,
+   "to": 127.41,
+   "sid": 83,
+   "location": 2,
+   "content": "我们不会转肩"
+  },
+  {
+   "from": 127.41,
+   "to": 129.889,
+   "sid": 84,
+   "location": 2,
+   "content": "我们要把我们的胸锁在我们的核心里"
+  },
+  {
+   "from": 129.889,
+   "to": 132.62,
+   "sid": 85,
+   "location": 2,
+   "content": "锁定运球，把球带回来"
+  },
+  {
+   "from": 132.62,
+   "to": 133.5,
+   "sid": 86,
+   "location": 2,
+   "content": "三十秒"
+  },
+  {
+   "from": 133.5,
+   "to": 136.28,
+   "sid": 87,
+   "location": 2,
+   "content": "每一边都在努力，真的后退运球"
+  },
+  {
+   "from": 136.28,
+   "to": 137.82,
+   "sid": 88,
+   "location": 2,
+   "content": "控制篮球"
+  },
+  {
+   "from": 138.119,
+   "to": 138.599,
+   "sid": 89,
+   "location": 2,
+   "content": "现在"
+  },
+  {
+   "from": 138.599,
+   "to": 141.539,
+   "sid": 90,
+   "location": 2,
+   "content": "你注意到我们已经四分钟了吗？这时你会汗流浃背的"
+  },
+  {
+   "from": 141.539,
+   "to": 142.999,
+   "sid": 91,
+   "location": 2,
+   "content": "你在为你的锻炼做准备"
+  },
+  {
+   "from": 142.999,
+   "to": 144.679,
+   "sid": 92,
+   "location": 2,
+   "content": "我们还有一件事要做"
+  },
+  {
+   "from": 144.679,
+   "to": 146.72,
+   "sid": 93,
+   "location": 2,
+   "content": "我们得抓紧手柄"
+  },
+  {
+   "from": 146.72,
+   "to": 148.51,
+   "sid": 94,
+   "location": 2,
+   "content": "所以我们要从里到外"
+  },
+  {
+   "from": 148.51,
+   "to": 153.579,
+   "sid": 95,
+   "location": 2,
+   "content": "从内到外交叉在后"
+  },
+  {
+   "from": 153.579,
+   "to": 155.199,
+   "sid": 96,
+   "location": 2,
+   "content": "我们会尽快做的"
+  },
+  {
+   "from": 155.199,
+   "to": 156.659,
+   "sid": 97,
+   "location": 2,
+   "content": "一分钟倦怠"
+  },
+  {
+   "from": 156.659,
+   "to": 157.979,
+   "sid": 98,
+   "location": 2,
+   "content": "你会累死的"
+  },
+  {
+   "from": 157.979,
+   "to": 160.119,
+   "sid": 99,
+   "location": 2,
+   "content": "你锻炼才五分钟"
+  },
+  {
+   "from": 160.119,
+   "to": 162.05,
+   "sid": 100,
+   "location": 2,
+   "content": "这四个基本动作"
+  },
+  {
+   "from": 162.05,
+   "to": 164.43,
+   "sid": 101,
+   "location": 2,
+   "content": "很多时候人们会想到所有这些组合"
+  },
+  {
+   "from": 164.43,
+   "to": 166.17,
+   "sid": 102,
+   "location": 2,
+   "content": "但我们在游戏中唯一能做的"
+  },
+  {
+   "from": 166.17,
+   "to": 167.399,
+   "sid": 103,
+   "location": 2,
+   "content": "我们可以从里到外"
+  },
+  {
+   "from": 170.599,
+   "to": 172.66,
+   "sid": 104,
+   "location": 2,
+   "content": "显然你也可以做一个固定的磅"
+  },
+  {
+   "from": 172.66,
+   "to": 175.26,
+   "sid": 105,
+   "location": 2,
+   "content": "但我们所做的任何其他事情仍然是其中之一"
+  },
+  {
+   "from": 175.26,
+   "to": 176.42,
+   "sid": 106,
+   "location": 2,
+   "content": "所以如果你做一个向前的循环"
+  },
+  {
+   "from": 178.5,
+   "to": 180.5,
+   "sid": 107,
+   "location": 2,
+   "content": "同样的东西绕在你的背上就在这里"
+  },
+  {
+   "from": 180.5,
+   "to": 181.88,
+   "sid": 108,
+   "location": 2,
+   "content": "我不知道你为什么要在比赛中那样做"
+  },
+  {
+   "from": 181.88,
+   "to": 183.35,
+   "sid": 109,
+   "location": 2,
+   "content": "但还是在后面"
+  },
+  {
+   "from": 183.35,
+   "to": 185.47,
+   "sid": 110,
+   "location": 2,
+   "content": "你只能用篮球做五件事"
+  },
+  {
+   "from": 185.47,
+   "to": 186.85,
+   "sid": 111,
+   "location": 2,
+   "content": "所以我们要努力"
+  },
+  {
+   "from": 186.85,
+   "to": 187.91,
+   "sid": 112,
+   "location": 2,
+   "content": "除了那个"
+  },
+  {
+   "from": 187.91,
+   "to": 189,
+   "sid": 113,
+   "location": 2,
+   "content": "因为我们已经做了"
+  },
+  {
+   "from": 189,
+   "to": 190.16,
+   "sid": 114,
+   "location": 2,
+   "content": "所以它是从里到外的"
+  },
+  {
+   "from": 190.16,
+   "to": 194.53,
+   "sid": 115,
+   "location": 2,
+   "content": "交叉在后面由内而外交叉在后面由内而外交叉在后面"
+  },
+  {
+   "from": 194.53,
+   "to": 195.85,
+   "sid": 116,
+   "location": 2,
+   "content": "我们正在做一分钟倦怠"
+  },
+  {
+   "from": 195.85,
+   "to": 198.79,
+   "sid": 117,
+   "location": 2,
+   "content": "5分钟后你们就可以开始打篮球了"
+  },
+  {
+   "from": 198.79,
+   "to": 201.32,
+   "sid": 118,
+   "location": 2,
+   "content": "现在你会比以往任何时候都更准备好锻炼"
+  }
+ ]
+}

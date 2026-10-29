@@ -1,0 +1,82 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.6,
+   "to": 6.12,
+   "sid": 1,
+   "location": 2,
+   "content": "石头掉下来掉下来第二回合"
+  },
+  {
+   "from": 6.12,
+   "to": 7.76,
+   "sid": 2,
+   "location": 2,
+   "content": "第二回合三"
+  },
+  {
+   "from": 7.76,
+   "to": 9.42,
+   "sid": 3,
+   "location": 2,
+   "content": "杀了国王"
+  },
+  {
+   "from": 18.919,
+   "to": 21.019,
+   "sid": 4,
+   "location": 2,
+   "content": "右左贯穿左"
+  },
+  {
+   "from": 21.019,
+   "to": 21.739,
+   "sid": 5,
+   "location": 2,
+   "content": "直通"
+  },
+  {
+   "from": 21.739,
+   "to": 24.999,
+   "sid": 6,
+   "location": 2,
+   "content": "你每次都要穿过腿"
+  },
+  {
+   "from": 24.999,
+   "to": 27.33,
+   "sid": 7,
+   "location": 2,
+   "content": "穿过后脑勺"
+  },
+  {
+   "from": 27.33,
+   "to": 28.49,
+   "sid": 8,
+   "location": 2,
+   "content": "左右"
+  },
+  {
+   "from": 28.49,
+   "to": 31.11,
+   "sid": 9,
+   "location": 2,
+   "content": "然后从那里再穿过腿"
+  },
+  {
+   "from": 31.11,
+   "to": 32.34,
+   "sid": 10,
+   "location": 2,
+   "content": "左右"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 1.2,
+   "sid": 1,
+   "location": 2,
+   "content": "哈登的节奏啊",
+   "music": 0
+  },
+  {
+   "from": 1.2,
+   "to": 5.29,
+   "sid": 2,
+   "location": 2,
+   "content": "可以进入到我个人比较喜欢的前五",
+   "music": 0
+  },
+  {
+   "from": 5.29,
+   "to": 8.62,
+   "sid": 3,
+   "location": 2,
+   "content": "他的节奏非常适合矮个子后卫嗯",
+   "music": 0
+  },
+  {
+   "from": 8.62,
+   "to": 10.21,
+   "sid": 4,
+   "location": 2,
+   "content": "今天分享三种啊",
+   "music": 0
+  },
+  {
+   "from": 10.21,
+   "to": 12.37,
+   "sid": 5,
+   "location": 2,
+   "content": "他比较习惯的后撤步节奏",
+   "music": 0
+  },
+  {
+   "from": 12.37,
+   "to": 15.859,
+   "sid": 6,
+   "location": 2,
+   "content": "第一种就是这种胯下背后",
+   "music": 0
+  },
+  {
+   "from": 15.859,
+   "to": 20.11,
+   "sid": 7,
+   "location": 2,
+   "content": "然后整个人看整个人稍微腾空一点",
+   "music": 0
+  },
+  {
+   "from": 20.11,
+   "to": 21.97,
+   "sid": 8,
+   "location": 2,
+   "content": "给左脚一个空间",
+   "music": 0
+  },
+  {
+   "from": 21.97,
+   "to": 23.23,
+   "sid": 9,
+   "location": 2,
+   "content": "让左脚垫一步",
+   "music": 0
+  },
+  {
+   "from": 23.23,
+   "to": 26.61,
+   "sid": 10,
+   "location": 2,
+   "content": "然后再合球撤步一二直接投",
+   "music": 0
+  },
+  {
+   "from": 26.61,
+   "to": 28.53,
+   "sid": 11,
+   "location": 2,
+   "content": "第二种同样是胯下",
+   "music": 0
+  },
+  {
+   "from": 28.53,
+   "to": 30.24,
+   "sid": 12,
+   "location": 2,
+   "content": "但是往前进攻一下",
+   "music": 0
+  },
+  {
+   "from": 30.24,
+   "to": 32.18,
+   "sid": 13,
+   "location": 2,
+   "content": "然后接背后急停",
+   "music": 0
+  },
+  {
+   "from": 32.24,
+   "to": 33.92,
+   "sid": 14,
+   "location": 2,
+   "content": "接后背后急停之后",
+   "music": 0
+  },
+  {
+   "from": 33.92,
+   "to": 35.81,
+   "sid": 15,
+   "location": 2,
+   "content": "整个人一定要腾空一点",
+   "music": 0
+  },
+  {
+   "from": 35.81,
+   "to": 38.06,
+   "sid": 16,
+   "location": 2,
+   "content": "还是给左脚一个垫步的空间",
+   "music": 0
+  },
+  {
+   "from": 38.06,
+   "to": 40.339,
+   "sid": 17,
+   "location": 2,
+   "content": "然后一二直接投",
+   "music": 0
+  },
+  {
+   "from": 40.68,
+   "to": 43.8,
+   "sid": 18,
+   "location": 2,
+   "content": "然后第三种这种啊急停",
+   "music": 0
+  },
+  {
+   "from": 43.8,
+   "to": 45.86,
+   "sid": 19,
+   "location": 2,
+   "content": "然后直接原地炸",
+   "music": 0
+  },
+  {
+   "from": 45.98,
+   "to": 48.08,
+   "sid": 20,
+   "location": 2,
+   "content": "这次炸完以后看到吗",
+   "music": 0
+  },
+  {
+   "from": 48.08,
+   "to": 48.8,
+   "sid": 21,
+   "location": 2,
+   "content": "他炸完以后",
+   "music": 0
+  },
+  {
+   "from": 48.8,
+   "to": 50.24,
+   "sid": 22,
+   "location": 2,
+   "content": "他的右脚要垫一步",
+   "music": 0
+  },
+  {
+   "from": 50.24,
+   "to": 52.04,
+   "sid": 23,
+   "location": 2,
+   "content": "这不是后撤的",
+   "music": 0
+  },
+  {
+   "from": 52.04,
+   "to": 53.699,
+   "sid": 24,
+   "location": 2,
+   "content": "就是偏横向撤步了",
+   "music": 0
+  },
+  {
+   "from": 54.06,
+   "to": 55.74,
+   "sid": 25,
+   "location": 2,
+   "content": "哈登是左撇子",
+   "music": 0
+  },
+  {
+   "from": 55.74,
+   "to": 58.14,
+   "sid": 26,
+   "location": 2,
+   "content": "所以普遍哈登喜欢走左侧",
+   "music": 0
+  },
+  {
+   "from": 58.14,
+   "to": 60.45,
+   "sid": 27,
+   "location": 2,
+   "content": "所以左侧步会更舒服一点",
+   "music": 0
+  },
+  {
+   "from": 60.45,
+   "to": 62.46,
+   "sid": 28,
+   "location": 2,
+   "content": "就往左侧撤啊",
+   "music": 0
+  }
+ ]
+}

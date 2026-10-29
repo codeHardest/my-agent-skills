@@ -1,0 +1,316 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0.66,
+   "to": 1.62,
+   "sid": 1,
+   "location": 2,
+   "content": "今天分享一下",
+   "music": 0
+  },
+  {
+   "from": 4.53,
+   "to": 7.6,
+   "sid": 2,
+   "location": 2,
+   "content": "看一下你或者身边的朋友有没有中招的",
+   "music": 0
+  },
+  {
+   "from": 7.6,
+   "to": 8.56,
+   "sid": 3,
+   "location": 2,
+   "content": "能改过来",
+   "music": 0
+  },
+  {
+   "from": 11.42,
+   "to": 12.26,
+   "sid": 4,
+   "location": 2,
+   "content": "第一个问题",
+   "music": 0
+  },
+  {
+   "from": 14.68,
+   "to": 15.79,
+   "sid": 5,
+   "location": 2,
+   "content": "类似公布",
+   "music": 0
+  },
+  {
+   "from": 15.79,
+   "to": 18.82,
+   "sid": 6,
+   "location": 2,
+   "content": "这会让我们在降重心或者在启动的时候",
+   "music": 0
+  },
+  {
+   "from": 18.82,
+   "to": 20.41,
+   "sid": 7,
+   "location": 2,
+   "content": "对跟腱的压力非常大",
+   "music": 0
+  },
+  {
+   "from": 20.41,
+   "to": 22.22,
+   "sid": 8,
+   "location": 2,
+   "content": "同时因为膝关节的特性",
+   "music": 0
+  },
+  {
+   "from": 22.22,
+   "to": 24.68,
+   "sid": 9,
+   "location": 2,
+   "content": "会让我们的力量都在对抗向下的中立",
+   "music": 0
+  },
+  {
+   "from": 24.68,
+   "to": 26.14,
+   "sid": 10,
+   "location": 2,
+   "content": "而不是向前的推力",
+   "music": 0.3749999707031273
+  },
+  {
+   "from": 26.14,
+   "to": 29.29,
+   "sid": 11,
+   "location": 2,
+   "content": "而且这样的脚尖朝向会让我们的髋关节受限",
+   "music": 0
+  },
+  {
+   "from": 29.29,
+   "to": 30.94,
+   "sid": 12,
+   "location": 2,
+   "content": "这会让我们的重心转移",
+   "music": 0
+  },
+  {
+   "from": 30.94,
+   "to": 33.48,
+   "sid": 13,
+   "location": 2,
+   "content": "或者在做一些变向的时候非常困难",
+   "music": 0
+  },
+  {
+   "from": 33.48,
+   "to": 36.06,
+   "sid": 14,
+   "location": 2,
+   "content": "正确的做法应该是将我们的脚给掰回来",
+   "music": 0
+  },
+  {
+   "from": 36.06,
+   "to": 39,
+   "sid": 15,
+   "location": 2,
+   "content": "由脚尖发力变成脚的内侧去发力",
+   "music": 0
+  },
+  {
+   "from": 39,
+   "to": 41.28,
+   "sid": 16,
+   "location": 2,
+   "content": "这样的做法可以减小跟腱的压力",
+   "music": 0
+  },
+  {
+   "from": 41.28,
+   "to": 43.38,
+   "sid": 17,
+   "location": 2,
+   "content": "同时重心能左右横移",
+   "music": 0
+  },
+  {
+   "from": 46.24,
+   "to": 47.98,
+   "sid": 18,
+   "location": 2,
+   "content": "第二个经常容易出现的问题",
+   "music": 0
+  },
+  {
+   "from": 50.26,
+   "to": 53.06,
+   "sid": 19,
+   "location": 2,
+   "content": "降重心并不意味着是要打开脚",
+   "music": 0
+  },
+  {
+   "from": 53.06,
+   "to": 53.96,
+   "sid": 20,
+   "location": 2,
+   "content": "脚打开过大",
+   "music": 0
+  },
+  {
+   "from": 53.96,
+   "to": 57.08,
+   "sid": 21,
+   "location": 2,
+   "content": "会让我们在做延展动作时没办法爆发力量",
+   "music": 0
+  },
+  {
+   "from": 57.08,
+   "to": 58.82,
+   "sid": 22,
+   "location": 2,
+   "content": "适当地将脚收回",
+   "music": 0
+  },
+  {
+   "from": 58.82,
+   "to": 60.92,
+   "sid": 23,
+   "location": 2,
+   "content": "可以让我们在做原地的爆发",
+   "music": 0
+  },
+  {
+   "from": 60.92,
+   "to": 63.08,
+   "sid": 24,
+   "location": 2,
+   "content": "或者是在做延展动作的时候",
+   "music": 0
+  },
+  {
+   "from": 63.08,
+   "to": 64.7,
+   "sid": 25,
+   "location": 2,
+   "content": "获得充足的蓄力空间",
+   "music": 0
+  },
+  {
+   "from": 64.7,
+   "to": 66.42,
+   "sid": 26,
+   "location": 2,
+   "content": "爆发出更强的力量",
+   "music": 0
+  },
+  {
+   "from": 66.42,
+   "to": 67.44,
+   "sid": 27,
+   "location": 2,
+   "content": "第三个",
+   "music": 0
+  },
+  {
+   "from": 69.12,
+   "to": 70.92,
+   "sid": 28,
+   "location": 2,
+   "content": "如果想要爆发更快的速度",
+   "music": 0
+  },
+  {
+   "from": 70.92,
+   "to": 73.05,
+   "sid": 29,
+   "location": 2,
+   "content": "应该将球往侧边去爆发",
+   "music": 0
+  },
+  {
+   "from": 73.05,
+   "to": 75.5,
+   "sid": 30,
+   "location": 2,
+   "content": "这样可以更好的往前去送球",
+   "music": 0
+  },
+  {
+   "from": 75.5,
+   "to": 77.15,
+   "sid": 31,
+   "location": 2,
+   "content": "如果大家找不准角度",
+   "music": 0
+  },
+  {
+   "from": 77.15,
+   "to": 78.32,
+   "sid": 32,
+   "location": 2,
+   "content": "可以像我这个样子",
+   "music": 0
+  },
+  {
+   "from": 78.32,
+   "to": 80.24,
+   "sid": 33,
+   "location": 2,
+   "content": "在脚后跟一个脚掌的距离",
+   "music": 0
+  },
+  {
+   "from": 80.24,
+   "to": 81.41,
+   "sid": 34,
+   "location": 2,
+   "content": "放上一个雪糕筒",
+   "music": 0
+  },
+  {
+   "from": 81.41,
+   "to": 85.43,
+   "sid": 35,
+   "location": 2,
+   "content": "让球在脚和雪糕筒中间穿过规范运球的角度",
+   "music": 0
+  },
+  {
+   "from": 85.43,
+   "to": 86.87,
+   "sid": 36,
+   "location": 2,
+   "content": "今天的分享就到这里",
+   "music": 0
+  },
+  {
+   "from": 86.87,
+   "to": 87.74,
+   "sid": 37,
+   "location": 2,
+   "content": "百炼成钢",
+   "music": 0
+  },
+  {
+   "from": 87.74,
+   "to": 88.98,
+   "sid": 38,
+   "location": 2,
+   "content": "加油",
+   "music": 0
+  }
+ ]
+}

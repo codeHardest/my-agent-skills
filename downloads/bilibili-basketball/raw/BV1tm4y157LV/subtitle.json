@@ -1,0 +1,484 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.28,
+   "to": 2.98,
+   "sid": 1,
+   "location": 2,
+   "content": "如果你认真观察过职业球员的投篮",
+   "music": 0
+  },
+  {
+   "from": 2.98,
+   "to": 6.43,
+   "sid": 2,
+   "location": 2,
+   "content": "会发现职业球员的投篮给人感觉发力点很小",
+   "music": 0.12173912690611226
+  },
+  {
+   "from": 6.43,
+   "to": 7.66,
+   "sid": 3,
+   "location": 2,
+   "content": "或者说很集中",
+   "music": 0
+  },
+  {
+   "from": 7.66,
+   "to": 10.42,
+   "sid": 4,
+   "location": 2,
+   "content": "他们的投篮发力和普通人最大的区别",
+   "music": 0
+  },
+  {
+   "from": 10.42,
+   "to": 11.56,
+   "sid": 5,
+   "location": 2,
+   "content": "除了力量之外",
+   "music": 0
+  },
+  {
+   "from": 11.56,
+   "to": 13.96,
+   "sid": 6,
+   "location": 2,
+   "content": "其实在于顶肘和压腕的分离程度",
+   "music": 0
+  },
+  {
+   "from": 13.96,
+   "to": 16.15,
+   "sid": 7,
+   "location": 2,
+   "content": "会给人感觉发力点很小",
+   "music": 0
+  },
+  {
+   "from": 16.15,
+   "to": 19.45,
+   "sid": 8,
+   "location": 2,
+   "content": "就是因为他们最后是真正手腕去控制投篮",
+   "music": 0.2606060527089073
+  },
+  {
+   "from": 19.45,
+   "to": 22.66,
+   "sid": 9,
+   "location": 2,
+   "content": "在上一期介绍了如何分离顶肘和压腕之后",
+   "music": 0.28660435244223137
+  },
+  {
+   "from": 22.66,
+   "to": 25.5,
+   "sid": 10,
+   "location": 2,
+   "content": "本期视频为一段式投篮系列第四期",
+   "music": 0
+  },
+  {
+   "from": 25.5,
+   "to": 26.46,
+   "sid": 11,
+   "location": 2,
+   "content": "顶肘训练",
+   "music": 0
+  },
+  {
+   "from": 26.46,
+   "to": 28.98,
+   "sid": 12,
+   "location": 2,
+   "content": "帮助你真正的分离顶肘和压腕",
+   "music": 0.390243886575452
+  },
+  {
+   "from": 28.99,
+   "to": 32.94,
+   "sid": 13,
+   "location": 2,
+   "content": "在训练之前一定要先理解前三期的内容和细节",
+   "music": 0.062146890899806045
+  },
+  {
+   "from": 32.94,
+   "to": 33.72,
+   "sid": 14,
+   "location": 2,
+   "content": "理解之后",
+   "music": 0
+  },
+  {
+   "from": 33.72,
+   "to": 37.34,
+   "sid": 15,
+   "location": 2,
+   "content": "到篮板下方往前一至两步的位置去感受球",
+   "music": 0.08287292588748932
+  },
+  {
+   "from": 37.34,
+   "to": 40.7,
+   "sid": 16,
+   "location": 2,
+   "content": "往上投之后掉下来才碰到板的感觉",
+   "music": 0.16216215668371023
+  },
+  {
+   "from": 40.7,
+   "to": 43.58,
+   "sid": 17,
+   "location": 2,
+   "content": "如果顶肘和压腕无法分开球",
+   "music": 0
+  },
+  {
+   "from": 43.58,
+   "to": 46.48,
+   "sid": 18,
+   "location": 2,
+   "content": "通常会在上升段就碰到篮板",
+   "music": 0
+  },
+  {
+   "from": 50.3,
+   "to": 52.24,
+   "sid": 19,
+   "location": 2,
+   "content": "如果顶肘压腕分得很开",
+   "music": 0.09090908574380378
+  },
+  {
+   "from": 52.24,
+   "to": 54.42,
+   "sid": 20,
+   "location": 2,
+   "content": "就能在下降段才碰到篮板",
+   "music": 0.3461538295118349
+  },
+  {
+   "from": 54.42,
+   "to": 55.5,
+   "sid": 21,
+   "location": 2,
+   "content": "离篮板越近",
+   "music": 0
+  },
+  {
+   "from": 55.5,
+   "to": 57.48,
+   "sid": 22,
+   "location": 2,
+   "content": "难度越大",
+   "music": 0.6511627149810828
+  },
+  {
+   "from": 62.92,
+   "to": 66.6,
+   "sid": 23,
+   "location": 2,
+   "content": "第二种练习方法是在下肢轻微发力的情况下",
+   "music": 0.10857142546939083
+  },
+  {
+   "from": 66.6,
+   "to": 67.98,
+   "sid": 24,
+   "location": 2,
+   "content": "以上肢为主导",
+   "music": 0.652173865784502
+  },
+  {
+   "from": 67.98,
+   "to": 70.32,
+   "sid": 25,
+   "location": 2,
+   "content": "沿着合理冲撞区投空心球",
+   "music": 0.10256409818101973
+  },
+  {
+   "from": 70.32,
+   "to": 73.3,
+   "sid": 26,
+   "location": 2,
+   "content": "记住一定要在球的下降阶段空心入网",
+   "music": 0
+  },
+  {
+   "from": 73.3,
+   "to": 76.09,
+   "sid": 27,
+   "location": 2,
+   "content": "很多NBA球员在赛前都做这个练习",
+   "music": 0.30566036582413736
+  },
+  {
+   "from": 76.09,
+   "to": 78.37,
+   "sid": 28,
+   "location": 2,
+   "content": "目的就是为了找到上肢发力感",
+   "music": 0.589041068993562
+  },
+  {
+   "from": 78.37,
+   "to": 81.3,
+   "sid": 29,
+   "location": 2,
+   "content": "分别感觉顶肘和压腕两个过程",
+   "music": 0
+  },
+  {
+   "from": 81.3,
+   "to": 82.26,
+   "sid": 30,
+   "location": 2,
+   "content": "下肢方面",
+   "music": 0
+  },
+  {
+   "from": 82.26,
+   "to": 84.06,
+   "sid": 31,
+   "location": 2,
+   "content": "髋和膝不需要用太多力",
+   "music": 0.06666666296296579
+  },
+  {
+   "from": 84.06,
+   "to": 85.44,
+   "sid": 32,
+   "location": 2,
+   "content": "更多用脚踝发力",
+   "music": 0.28985505145977364
+  },
+  {
+   "from": 85.44,
+   "to": 89.16,
+   "sid": 33,
+   "location": 2,
+   "content": "感觉力从下至上传导的过程",
+   "music": 0.24812029142404823
+  },
+  {
+   "from": 90.2,
+   "to": 92.08,
+   "sid": 34,
+   "location": 2,
+   "content": "我认为多做这些练习",
+   "music": 0
+  },
+  {
+   "from": 92.08,
+   "to": 94.54,
+   "sid": 35,
+   "location": 2,
+   "content": "比没有强度的乱投一下午更能进步",
+   "music": 0.3008129959019077
+  },
+  {
+   "from": 95.68,
+   "to": 97.82,
+   "sid": 36,
+   "location": 2,
+   "content": "以上就是顶肘训练的细节",
+   "music": 0
+  },
+  {
+   "from": 97.82,
+   "to": 99.5,
+   "sid": 37,
+   "location": 2,
+   "content": "在上一期视频我提过",
+   "music": 0
+  },
+  {
+   "from": 99.5,
+   "to": 100.94,
+   "sid": 38,
+   "location": 2,
+   "content": "很多人模仿库里之后",
+   "music": 0
+  },
+  {
+   "from": 100.94,
+   "to": 103.7,
+   "sid": 39,
+   "location": 2,
+   "content": "变成这种沉球后直接向上推的姿势",
+   "music": 0
+  },
+  {
+   "from": 103.7,
+   "to": 106.25,
+   "sid": 40,
+   "location": 2,
+   "content": "很难在对抗和移动中保持稳定",
+   "music": 0
+  },
+  {
+   "from": 106.25,
+   "to": 109.28,
+   "sid": 41,
+   "location": 2,
+   "content": "我认为真正的一段式投篮不会有这些缺陷",
+   "music": 0
+  },
+  {
+   "from": 109.28,
+   "to": 110.66,
+   "sid": 42,
+   "location": 2,
+   "content": "要改善这种姿势",
+   "music": 0
+  },
+  {
+   "from": 110.66,
+   "to": 111.68,
+   "sid": 43,
+   "location": 2,
+   "content": "除了顶肘外",
+   "music": 0
+  },
+  {
+   "from": 111.68,
+   "to": 113.6,
+   "sid": 44,
+   "location": 2,
+   "content": "另一个关键就是举球路径",
+   "music": 0
+  },
+  {
+   "from": 113.6,
+   "to": 114.46,
+   "sid": 45,
+   "location": 2,
+   "content": "Lifting path",
+   "music": 0
+  },
+  {
+   "from": 114.46,
+   "to": 117.94,
+   "sid": 46,
+   "location": 2,
+   "content": "这也是我认为一段式投篮中最重要的上肢细节",
+   "music": 0.12941176089965375
+  },
+  {
+   "from": 117.94,
+   "to": 118.52,
+   "sid": 47,
+   "location": 2,
+   "content": "没有之一",
+   "music": 0.3928570727040906
+  },
+  {
+   "from": 118.52,
+   "to": 121.61,
+   "sid": 48,
+   "location": 2,
+   "content": "库里本人也是从这种姿势中改过来的",
+   "music": 0.47826085223692744
+  },
+  {
+   "from": 121.61,
+   "to": 124.28,
+   "sid": 49,
+   "location": 2,
+   "content": "♪ It took thousands of represto to ♪",
+   "music": 0.9999999609375015
+  },
+  {
+   "from": 124.28,
+   "to": 127.8,
+   "sid": 50,
+   "location": 2,
+   "content": "♪ Really change my from that catapult shoot from here ♪",
+   "music": 0.9999999662162175
+  },
+  {
+   "from": 127.8,
+   "to": 129.78,
+   "sid": 51,
+   "location": 2,
+   "content": "♪ From my waist to bring the ball ♪",
+   "music": 0.9999999456521769
+  },
+  {
+   "from": 129.78,
+   "to": 132.22,
+   "sid": 52,
+   "location": 2,
+   "content": "♪ Above my head where i shoot now um ♪",
+   "music": 0.9999999411764741
+  },
+  {
+   "from": 132.22,
+   "to": 133.48,
+   "sid": 53,
+   "location": 2,
+   "content": "♪ But i was singing it ♪",
+   "music": 0.999999907407416
+  },
+  {
+   "from": 133.48,
+   "to": 134.32,
+   "sid": 54,
+   "location": 2,
+   "content": "♪ Was all worth it ♪",
+   "music": 0.8571427551020482
+  },
+  {
+   "from": 134.32,
+   "to": 137.08,
+   "sid": 55,
+   "location": 2,
+   "content": "我将在之后的视频中分享举球的细节",
+   "music": 0.04347825929426731
+  },
+  {
+   "from": 137.08,
+   "to": 139.16,
+   "sid": 56,
+   "location": 2,
+   "content": "有兴趣的朋友欢迎点赞关注",
+   "music": 0.2019230672152327
+  },
+  {
+   "from": 139.16,
+   "to": 141.86,
+   "sid": 57,
+   "location": 2,
+   "content": "我是令分享最细节的篮球训练",
+   "music": 0.08888888559671075
+  },
+  {
+   "from": 141.86,
+   "to": 142.43,
+   "sid": 58,
+   "location": 2,
+   "content": "不说谎",
+   "music": 0
+  },
+  {
+   "from": 142.43,
+   "to": 144.16,
+   "sid": 59,
+   "location": 2,
+   "content": "我们下期见",
+   "music": 0.2268041003294733
+  }
+ ]
+}

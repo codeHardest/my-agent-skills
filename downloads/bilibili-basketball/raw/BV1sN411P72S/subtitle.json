@@ -1,0 +1,292 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 3,
+   "sid": 1,
+   "location": 2,
+   "content": "如果你想像库里或者我一样轻松投三分",
+   "music": 0
+  },
+  {
+   "from": 3,
+   "to": 3.96,
+   "sid": 2,
+   "location": 2,
+   "content": "甚至路过顺",
+   "music": 0
+  },
+  {
+   "from": 3.96,
+   "to": 6.36,
+   "sid": 3,
+   "location": 2,
+   "content": "那么顶肘这个技巧你一定不能错过",
+   "music": 0
+  },
+  {
+   "from": 6.36,
+   "to": 7.68,
+   "sid": 4,
+   "location": 2,
+   "content": "全程协调发力",
+   "music": 0
+  },
+  {
+   "from": 7.68,
+   "to": 8.46,
+   "sid": 5,
+   "location": 2,
+   "content": "结合顶肘",
+   "music": 0
+  },
+  {
+   "from": 8.46,
+   "to": 10.98,
+   "sid": 6,
+   "location": 2,
+   "content": "能压力的投篮产生巨大的向上力",
+   "music": 0
+  },
+  {
+   "from": 10.98,
+   "to": 12.18,
+   "sid": 7,
+   "location": 2,
+   "content": "如果你还不会顶肘",
+   "music": 0
+  },
+  {
+   "from": 12.18,
+   "to": 14.4,
+   "sid": 8,
+   "location": 2,
+   "content": "那跟着我一起来练习吧",
+   "music": 0
+  },
+  {
+   "from": 18.81,
+   "to": 19.94,
+   "sid": 9,
+   "location": 2,
+   "content": "第一个练习",
+   "music": 0
+  },
+  {
+   "from": 19.94,
+   "to": 21.86,
+   "sid": 10,
+   "location": 2,
+   "content": "单手持球在额头附近",
+   "music": 0
+  },
+  {
+   "from": 21.86,
+   "to": 23.33,
+   "sid": 11,
+   "location": 2,
+   "content": "手指要张开一点",
+   "music": 0
+  },
+  {
+   "from": 23.33,
+   "to": 24.38,
+   "sid": 12,
+   "location": 2,
+   "content": "拖住球",
+   "music": 0
+  },
+  {
+   "from": 24.38,
+   "to": 26.75,
+   "sid": 13,
+   "location": 2,
+   "content": "肘关节用力直上直下",
+   "music": 0
+  },
+  {
+   "from": 26.75,
+   "to": 28.02,
+   "sid": 14,
+   "location": 2,
+   "content": "曲臂到直臂",
+   "music": 0
+  },
+  {
+   "from": 28.02,
+   "to": 30.8,
+   "sid": 15,
+   "location": 2,
+   "content": "保持住球在手中",
+   "music": 0
+  },
+  {
+   "from": 37.34,
+   "to": 38.5,
+   "sid": 16,
+   "location": 2,
+   "content": "第二个练习",
+   "music": 0
+  },
+  {
+   "from": 38.5,
+   "to": 41.9,
+   "sid": 17,
+   "location": 2,
+   "content": "在第一个动作的基础上加上下腕的动作",
+   "music": 0
+  },
+  {
+   "from": 41.9,
+   "to": 46.76,
+   "sid": 18,
+   "location": 2,
+   "content": "篮球尽量直上直下",
+   "music": 0
+  },
+  {
+   "from": 56.8,
+   "to": 58.16,
+   "sid": 19,
+   "location": 2,
+   "content": "第三个练习",
+   "music": 0
+  },
+  {
+   "from": 58.16,
+   "to": 60.14,
+   "sid": 20,
+   "location": 2,
+   "content": "站在篮底后一步的位置",
+   "music": 0
+  },
+  {
+   "from": 60.14,
+   "to": 63.54,
+   "sid": 21,
+   "location": 2,
+   "content": "单手持球在腰腹前方举球到额头",
+   "music": 0
+  },
+  {
+   "from": 63.54,
+   "to": 65.04,
+   "sid": 22,
+   "location": 2,
+   "content": "顺势顶肘下腕",
+   "music": 0
+  },
+  {
+   "from": 65.04,
+   "to": 68.42,
+   "sid": 23,
+   "location": 2,
+   "content": "让球高抛物线落入篮筐",
+   "music": 0
+  },
+  {
+   "from": 82.76,
+   "to": 84.08,
+   "sid": 24,
+   "location": 2,
+   "content": "第四个练习",
+   "music": 0
+  },
+  {
+   "from": 84.08,
+   "to": 85.76,
+   "sid": 25,
+   "location": 2,
+   "content": "在完整动作的基础上",
+   "music": 0
+  },
+  {
+   "from": 85.76,
+   "to": 89.33,
+   "sid": 26,
+   "location": 2,
+   "content": "超高抛物线投篮练习在近距离的位置投篮",
+   "music": 0
+  },
+  {
+   "from": 89.33,
+   "to": 91.4,
+   "sid": 27,
+   "location": 2,
+   "content": "如果你的投篮抛物线很高",
+   "music": 0
+  },
+  {
+   "from": 91.4,
+   "to": 94,
+   "sid": 28,
+   "location": 2,
+   "content": "一般情况下你的顶肘是没有问题的",
+   "music": 0
+  },
+  {
+   "from": 94,
+   "to": 96.97,
+   "sid": 29,
+   "location": 2,
+   "content": "高抛物线的练习并不是说实战就这么投",
+   "music": 0
+  },
+  {
+   "from": 96.97,
+   "to": 98.8,
+   "sid": 30,
+   "location": 2,
+   "content": "而是通过高抛物线的练习",
+   "music": 0
+  },
+  {
+   "from": 98.8,
+   "to": 100.12,
+   "sid": 31,
+   "location": 2,
+   "content": "找到顶肘的感觉",
+   "music": 0
+  },
+  {
+   "from": 100.12,
+   "to": 101.52,
+   "sid": 32,
+   "location": 2,
+   "content": "完善你的投篮",
+   "music": 0
+  },
+  {
+   "from": 101.52,
+   "to": 103.32,
+   "sid": 33,
+   "location": 2,
+   "content": "从而让投篮更有效率",
+   "music": 0
+  },
+  {
+   "from": 104.82,
+   "to": 105.9,
+   "sid": 34,
+   "location": 2,
+   "content": "这期视频就到这",
+   "music": 0
+  },
+  {
+   "from": 105.9,
+   "to": 106.84,
+   "sid": 35,
+   "location": 2,
+   "content": "我们下期再见",
+   "music": 0
+  }
+ ]
+}

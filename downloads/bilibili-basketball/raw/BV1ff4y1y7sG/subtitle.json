@@ -1,0 +1,716 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 1.23,
+   "sid": 1,
+   "location": 2,
+   "content": "大家好",
+   "music": 0
+  },
+  {
+   "from": 1.23,
+   "to": 7.62,
+   "sid": 2,
+   "location": 2,
+   "content": "近期有人啊问变相被断了怎么办",
+   "music": 0
+  },
+  {
+   "from": 7.62,
+   "to": 11.24,
+   "sid": 3,
+   "location": 2,
+   "content": "那么呢第一点你需要强大的基本功",
+   "music": 0
+  },
+  {
+   "from": 11.24,
+   "to": 12.83,
+   "sid": 4,
+   "location": 2,
+   "content": "你基本功扎实了",
+   "music": 0
+  },
+  {
+   "from": 12.83,
+   "to": 14.93,
+   "sid": 5,
+   "location": 2,
+   "content": "你就可以做各种各样的反变向",
+   "music": 0
+  },
+  {
+   "from": 14.93,
+   "to": 16.83,
+   "sid": 6,
+   "location": 2,
+   "content": "反断变向的动作",
+   "music": 0
+  },
+  {
+   "from": 16.83,
+   "to": 18.27,
+   "sid": 7,
+   "location": 2,
+   "content": "对而且你基本功扎球",
+   "music": 0
+  },
+  {
+   "from": 18.27,
+   "to": 19.17,
+   "sid": 8,
+   "location": 2,
+   "content": "人家就套不着",
+   "music": 0
+  },
+  {
+   "from": 19.17,
+   "to": 20.98,
+   "sid": 9,
+   "location": 2,
+   "content": "非常简单的道理啊",
+   "music": 0
+  },
+  {
+   "from": 20.98,
+   "to": 22.33,
+   "sid": 10,
+   "location": 2,
+   "content": "接下来第二点",
+   "music": 0
+  },
+  {
+   "from": 22.33,
+   "to": 25.69,
+   "sid": 11,
+   "location": 2,
+   "content": "我们将会给大家带来各种各样的",
+   "music": 0
+  },
+  {
+   "from": 25.69,
+   "to": 30.95,
+   "sid": 12,
+   "location": 2,
+   "content": "去干那种专门断变向的人的招数啊",
+   "music": 0
+  },
+  {
+   "from": 30.95,
+   "to": 33.56,
+   "sid": 13,
+   "location": 2,
+   "content": "那但是前提是你一定要有非常好的基本功",
+   "music": 0
+  },
+  {
+   "from": 33.56,
+   "to": 34.94,
+   "sid": 14,
+   "location": 2,
+   "content": "要有非常好的基本功",
+   "music": 0
+  },
+  {
+   "from": 34.94,
+   "to": 37.22,
+   "sid": 15,
+   "location": 2,
+   "content": "欢迎大家购买篮球训练计划",
+   "music": 0
+  },
+  {
+   "from": 37.22,
+   "to": 42.43,
+   "sid": 16,
+   "location": 2,
+   "content": "OK反正就是反断变向者的招",
+   "music": 0
+  },
+  {
+   "from": 42.43,
+   "to": 43.32,
+   "sid": 17,
+   "location": 2,
+   "content": "第一招",
+   "music": 0
+  },
+  {
+   "from": 44.02,
+   "to": 46.78,
+   "sid": 18,
+   "location": 2,
+   "content": "比如说我变向对我背后来了",
+   "music": 0
+  },
+  {
+   "from": 46.78,
+   "to": 48.43,
+   "sid": 19,
+   "location": 2,
+   "content": "他把我给掏走",
+   "music": 0
+  },
+  {
+   "from": 48.43,
+   "to": 51.64,
+   "sid": 20,
+   "location": 2,
+   "content": "那么这个时候呢你要阅读防守对",
+   "music": 0
+  },
+  {
+   "from": 51.64,
+   "to": 54.72,
+   "sid": 21,
+   "location": 2,
+   "content": "如果你踩到这防守人还不动",
+   "music": 0
+  },
+  {
+   "from": 54.72,
+   "to": 55.62,
+   "sid": 22,
+   "location": 2,
+   "content": "你应该做什么",
+   "music": 0
+  },
+  {
+   "from": 55.62,
+   "to": 56.4,
+   "sid": 23,
+   "location": 2,
+   "content": "你就不变",
+   "music": 0
+  },
+  {
+   "from": 56.4,
+   "to": 59.68,
+   "sid": 24,
+   "location": 2,
+   "content": "你就直接走了就对吧",
+   "music": 0
+  },
+  {
+   "from": 59.68,
+   "to": 61.54,
+   "sid": 25,
+   "location": 2,
+   "content": "有很多人就是变相被断",
+   "music": 0
+  },
+  {
+   "from": 61.54,
+   "to": 63.34,
+   "sid": 26,
+   "location": 2,
+   "content": "是因为他们就是要套招",
+   "music": 0
+  },
+  {
+   "from": 63.34,
+   "to": 64.66,
+   "sid": 27,
+   "location": 2,
+   "content": "对防守人都知道了",
+   "music": 0
+  },
+  {
+   "from": 64.66,
+   "to": 65.83,
+   "sid": 28,
+   "location": 2,
+   "content": "变相改变",
+   "music": 0
+  },
+  {
+   "from": 65.83,
+   "to": 70.24,
+   "sid": 29,
+   "location": 2,
+   "content": "那那就悲剧了对所以呢你要去虚虚实实",
+   "music": 0
+  },
+  {
+   "from": 70.24,
+   "to": 71.38,
+   "sid": 30,
+   "location": 2,
+   "content": "对我要变向了",
+   "music": 0
+  },
+  {
+   "from": 71.38,
+   "to": 72.16,
+   "sid": 31,
+   "location": 2,
+   "content": "我要变向了",
+   "music": 0
+  },
+  {
+   "from": 72.16,
+   "to": 73.42,
+   "sid": 32,
+   "location": 2,
+   "content": "哎呦我就往那边走",
+   "music": 0
+  },
+  {
+   "from": 73.42,
+   "to": 76.12,
+   "sid": 33,
+   "location": 2,
+   "content": "我就去办这个我要变向了啊",
+   "music": 0
+  },
+  {
+   "from": 76.12,
+   "to": 77.05,
+   "sid": 34,
+   "location": 2,
+   "content": "我一下跳",
+   "music": 0
+  },
+  {
+   "from": 77.05,
+   "to": 78.4,
+   "sid": 35,
+   "location": 2,
+   "content": "第一招是往前走",
+   "music": 0
+  },
+  {
+   "from": 78.4,
+   "to": 80.86,
+   "sid": 36,
+   "location": 2,
+   "content": "第二条是什么反变向",
+   "music": 0
+  },
+  {
+   "from": 80.86,
+   "to": 82,
+   "sid": 37,
+   "location": 2,
+   "content": "可以艳闹",
+   "music": 0
+  },
+  {
+   "from": 82,
+   "to": 83.26,
+   "sid": 38,
+   "location": 2,
+   "content": "我要变向了",
+   "music": 0
+  },
+  {
+   "from": 83.26,
+   "to": 84.3,
+   "sid": 39,
+   "location": 2,
+   "content": "我一眼道士",
+   "music": 0
+  },
+  {
+   "from": 84.3,
+   "to": 86.4,
+   "sid": 40,
+   "location": 2,
+   "content": "怎么我要变向了",
+   "music": 0
+  },
+  {
+   "from": 86.4,
+   "to": 88.44,
+   "sid": 41,
+   "location": 2,
+   "content": "对你in out",
+   "music": 0
+  },
+  {
+   "from": 88.44,
+   "to": 91.86,
+   "sid": 42,
+   "location": 2,
+   "content": "in out是打那种专门去等着变相的人",
+   "music": 0
+  },
+  {
+   "from": 91.86,
+   "to": 94.33,
+   "sid": 43,
+   "location": 2,
+   "content": "非常有用对",
+   "music": 0
+  },
+  {
+   "from": 94.33,
+   "to": 97.5,
+   "sid": 44,
+   "location": 2,
+   "content": "因为还以为我要变向了",
+   "music": 0.23121385946740972
+  },
+  {
+   "from": 97.5,
+   "to": 98.91,
+   "sid": 45,
+   "location": 2,
+   "content": "但是我没有变向",
+   "music": 0
+  },
+  {
+   "from": 98.91,
+   "to": 99.96,
+   "sid": 46,
+   "location": 2,
+   "content": "我要变向了",
+   "music": 0
+  },
+  {
+   "from": 99.96,
+   "to": 101.14,
+   "sid": 47,
+   "location": 2,
+   "content": "我没有变相",
+   "music": 0
+  },
+  {
+   "from": 102.26,
+   "to": 104.44,
+   "sid": 48,
+   "location": 2,
+   "content": "然后呢你接着要为国家变向",
+   "music": 0
+  },
+  {
+   "from": 104.44,
+   "to": 105.4,
+   "sid": 49,
+   "location": 2,
+   "content": "我没人变相",
+   "music": 0.2291666427951383
+  },
+  {
+   "from": 105.4,
+   "to": 111.68,
+   "sid": 50,
+   "location": 2,
+   "content": "而我又变相对各种各样的招数对反变向",
+   "music": 0
+  },
+  {
+   "from": 111.68,
+   "to": 113.12,
+   "sid": 51,
+   "location": 2,
+   "content": "还有反断变向",
+   "music": 0
+  },
+  {
+   "from": 113.12,
+   "to": 114.34,
+   "sid": 52,
+   "location": 2,
+   "content": "还有什么招数",
+   "music": 0
+  },
+  {
+   "from": 115.88,
+   "to": 117.28,
+   "sid": 53,
+   "location": 2,
+   "content": "胯下对",
+   "music": 0
+  },
+  {
+   "from": 117.28,
+   "to": 122.54,
+   "sid": 54,
+   "location": 2,
+   "content": "因为很多人断这个大家cover你是体现cover",
+   "music": 0
+  },
+  {
+   "from": 122.54,
+   "to": 123.29,
+   "sid": 55,
+   "location": 2,
+   "content": "可以可以拍",
+   "music": 0
+  },
+  {
+   "from": 123.29,
+   "to": 124.15,
+   "sid": 56,
+   "location": 2,
+   "content": "对不对",
+   "music": 0
+  },
+  {
+   "from": 124.15,
+   "to": 127.81,
+   "sid": 57,
+   "location": 2,
+   "content": "但是如果你把踏着同样的角度趴下会好一些",
+   "music": 0
+  },
+  {
+   "from": 127.81,
+   "to": 135.6,
+   "sid": 58,
+   "location": 2,
+   "content": "但是这个也不胯下有一个腿来保护稍微好一些",
+   "music": 0
+  },
+  {
+   "from": 137.1,
+   "to": 138.8,
+   "sid": 59,
+   "location": 2,
+   "content": "接下来还有什么方法呢",
+   "music": 0
+  },
+  {
+   "from": 140.06,
+   "to": 143.939,
+   "sid": 60,
+   "location": 2,
+   "content": "变相误导我要变向了",
+   "music": 0
+  },
+  {
+   "from": 143.939,
+   "to": 145.049,
+   "sid": 61,
+   "location": 2,
+   "content": "我要变向了",
+   "music": 0
+  },
+  {
+   "from": 145.049,
+   "to": 146.489,
+   "sid": 62,
+   "location": 2,
+   "content": "我要变向了哦",
+   "music": 0
+  },
+  {
+   "from": 146.489,
+   "to": 147.719,
+   "sid": 63,
+   "location": 2,
+   "content": "我又往这边走了",
+   "music": 0
+  },
+  {
+   "from": 147.719,
+   "to": 149.019,
+   "sid": 64,
+   "location": 2,
+   "content": "什么是变向误导",
+   "music": 0
+  },
+  {
+   "from": 149.019,
+   "to": 151.179,
+   "sid": 65,
+   "location": 2,
+   "content": "我把球放中间",
+   "music": 0
+  },
+  {
+   "from": 151.179,
+   "to": 153.64,
+   "sid": 66,
+   "location": 2,
+   "content": "然后脚步往那边走",
+   "music": 0
+  },
+  {
+   "from": 153.98,
+   "to": 155.24,
+   "sid": 67,
+   "location": 2,
+   "content": "请往这边去",
+   "music": 0.7916665842013815
+  },
+  {
+   "from": 155.24,
+   "to": 156.44,
+   "sid": 68,
+   "location": 2,
+   "content": "你往这边走",
+   "music": 0
+  },
+  {
+   "from": 156.44,
+   "to": 158.58,
+   "sid": 69,
+   "location": 2,
+   "content": "我要变向了芜湖",
+   "music": 0.18181817148760096
+  },
+  {
+   "from": 161.98,
+   "to": 165,
+   "sid": 70,
+   "location": 2,
+   "content": "对变向舞蹈都有两三种方法",
+   "music": 0
+  },
+  {
+   "from": 165,
+   "to": 167.76,
+   "sid": 71,
+   "location": 2,
+   "content": "做一种可以把球放到这对吧",
+   "music": 0
+  },
+  {
+   "from": 167.76,
+   "to": 171.3,
+   "sid": 72,
+   "location": 2,
+   "content": "还有一种方法是可以把球对吧",
+   "music": 0
+  },
+  {
+   "from": 171.3,
+   "to": 176.12,
+   "sid": 73,
+   "location": 2,
+   "content": "还有一种方法就是你做艳闹艳闹",
+   "music": 0
+  },
+  {
+   "from": 178.1,
+   "to": 180.52,
+   "sid": 74,
+   "location": 2,
+   "content": "然后防守人等着还要等着变向",
+   "music": 0
+  },
+  {
+   "from": 180.52,
+   "to": 181.12,
+   "sid": 75,
+   "location": 2,
+   "content": "等着变向",
+   "music": 0
+  },
+  {
+   "from": 181.12,
+   "to": 182.32,
+   "sid": 76,
+   "location": 2,
+   "content": "然后人往那边走",
+   "music": 0
+  },
+  {
+   "from": 182.32,
+   "to": 185.059,
+   "sid": 77,
+   "location": 2,
+   "content": "往这放对诶",
+   "music": 0
+  },
+  {
+   "from": 185.059,
+   "to": 186.379,
+   "sid": 78,
+   "location": 2,
+   "content": "我来了哦",
+   "music": 0
+  },
+  {
+   "from": 187.639,
+   "to": 189.1,
+   "sid": 79,
+   "location": 2,
+   "content": "我变向哦",
+   "music": 0
+  },
+  {
+   "from": 190.76,
+   "to": 191.56,
+   "sid": 80,
+   "location": 2,
+   "content": "大家来了",
+   "music": 0
+  },
+  {
+   "from": 193.12,
+   "to": 193.45,
+   "sid": 81,
+   "location": 2,
+   "content": "对",
+   "music": 0
+  },
+  {
+   "from": 193.45,
+   "to": 196.92,
+   "sid": 82,
+   "location": 2,
+   "content": "以上呢就是我觉得就是防止这个变向",
+   "music": 0
+  },
+  {
+   "from": 196.92,
+   "to": 198.51,
+   "sid": 83,
+   "location": 2,
+   "content": "背段子非常好的方法",
+   "music": 0
+  },
+  {
+   "from": 198.51,
+   "to": 201.36,
+   "sid": 84,
+   "location": 2,
+   "content": "但是最重要的我们还是要点一下主题",
+   "music": 0
+  },
+  {
+   "from": 201.36,
+   "to": 202.89,
+   "sid": 85,
+   "location": 2,
+   "content": "那就是你需要训练",
+   "music": 0
+  },
+  {
+   "from": 202.89,
+   "to": 205.4,
+   "sid": 86,
+   "location": 2,
+   "content": "可以挡他的基本功",
+   "music": 0
+  },
+  {
+   "from": 205.56,
+   "to": 209.04,
+   "sid": 87,
+   "location": 2,
+   "content": "欢迎大家购买篮球训练计划",
+   "music": 0
+  },
+  {
+   "from": 210.18,
+   "to": 210.76,
+   "sid": 88,
+   "location": 2,
+   "content": "感恩",
+   "music": 0
+  }
+ ]
+}

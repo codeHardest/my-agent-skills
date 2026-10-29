@@ -1,0 +1,44 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 2.02,
+   "to": 6.17,
+   "sid": 1,
+   "location": 2,
+   "content": "哎呦上篮还总是被防守球员按着球",
+   "music": 0
+  },
+  {
+   "from": 6.17,
+   "to": 8.3,
+   "sid": 2,
+   "location": 2,
+   "content": "新手小白总是会出现这个问题",
+   "music": 0
+  },
+  {
+   "from": 8.3,
+   "to": 11,
+   "sid": 3,
+   "location": 2,
+   "content": "每一次上篮之前的合球都在同一个位置",
+   "music": 0
+  },
+  {
+   "from": 11,
+   "to": 14.54,
+   "sid": 4,
+   "location": 2,
+   "content": "接下来几种不同的合球技巧安排",
+   "music": 0
+  }
+ ]
+}

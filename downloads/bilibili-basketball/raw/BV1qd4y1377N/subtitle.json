@@ -1,0 +1,828 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.58,
+   "to": 2.44,
+   "sid": 1,
+   "location": 2,
+   "content": "被你发现了隐藏宝石",
+   "music": 0
+  },
+  {
+   "from": 3.7,
+   "to": 4.78,
+   "sid": 2,
+   "location": 2,
+   "content": "今天给大家带来一期",
+   "music": 0
+  },
+  {
+   "from": 4.78,
+   "to": 7.48,
+   "sid": 3,
+   "location": 2,
+   "content": "我们外线球员的一个基础得分的训练计划",
+   "music": 0
+  },
+  {
+   "from": 7.48,
+   "to": 9.87,
+   "sid": 4,
+   "location": 2,
+   "content": "然后时长大概是30分钟左右",
+   "music": 0
+  },
+  {
+   "from": 9.87,
+   "to": 11.97,
+   "sid": 5,
+   "location": 2,
+   "content": "大家其实可以看到今天来到了室外",
+   "music": 0
+  },
+  {
+   "from": 11.97,
+   "to": 15.39,
+   "sid": 6,
+   "location": 2,
+   "content": "也是因为大家基本上都这个回学校了",
+   "music": 0
+  },
+  {
+   "from": 15.39,
+   "to": 15.87,
+   "sid": 7,
+   "location": 2,
+   "content": "返校了",
+   "music": 0
+  },
+  {
+   "from": 15.87,
+   "to": 17.24,
+   "sid": 8,
+   "location": 2,
+   "content": "然后开始上课了",
+   "music": 0
+  },
+  {
+   "from": 17.24,
+   "to": 20.9,
+   "sid": 9,
+   "location": 2,
+   "content": "呃我也是希望大家可以利用这个啊早餐的时间",
+   "music": 0.20253163916039157
+  },
+  {
+   "from": 20.9,
+   "to": 22.73,
+   "sid": 10,
+   "location": 2,
+   "content": "然后跟我一起来完成这个早训",
+   "music": 0
+  },
+  {
+   "from": 22.73,
+   "to": 23.9,
+   "sid": 11,
+   "location": 2,
+   "content": "在我们上课之前呢",
+   "music": 0
+  },
+  {
+   "from": 23.9,
+   "to": 26.66,
+   "sid": 12,
+   "location": 2,
+   "content": "就啊拿出30分钟来完成这个训练",
+   "music": 0.06086956257088872
+  },
+  {
+   "from": 26.66,
+   "to": 29.04,
+   "sid": 13,
+   "location": 2,
+   "content": "也是希望大家可以跟我一起打卡完成",
+   "music": 0
+  },
+  {
+   "from": 29.04,
+   "to": 31.2,
+   "sid": 14,
+   "location": 2,
+   "content": "首先是我们的热身环节",
+   "music": 0
+  },
+  {
+   "from": 31.2,
+   "to": 33.9,
+   "sid": 15,
+   "location": 2,
+   "content": "在这里选择了几个我常用的热身动作",
+   "music": 0
+  },
+  {
+   "from": 33.9,
+   "to": 37.7,
+   "sid": 16,
+   "location": 2,
+   "content": "当然也可以用你自己习惯的热身入庭来代替",
+   "music": 0
+  },
+  {
+   "from": 37.7,
+   "to": 39.99,
+   "sid": 17,
+   "location": 2,
+   "content": "但由于整体训练时长的原因",
+   "music": 0
+  },
+  {
+   "from": 39.99,
+   "to": 42.06,
+   "sid": 18,
+   "location": 2,
+   "content": "热身应该尽量保持简短",
+   "music": 0
+  },
+  {
+   "from": 42.06,
+   "to": 45.93,
+   "sid": 19,
+   "location": 2,
+   "content": "我会把热身动作流程要点以及时长标注出来",
+   "music": 0
+  },
+  {
+   "from": 45.93,
+   "to": 47.76,
+   "sid": 20,
+   "location": 2,
+   "content": "方便受益者们参考",
+   "music": 0
+  },
+  {
+   "from": 47.76,
+   "to": 50.04,
+   "sid": 21,
+   "location": 2,
+   "content": "同时也趁着这视频的机会",
+   "music": 0
+  },
+  {
+   "from": 50.04,
+   "to": 52.68,
+   "sid": 22,
+   "location": 2,
+   "content": "跟大家分享一个关于日常训练的思考",
+   "music": 0
+  },
+  {
+   "from": 52.68,
+   "to": 54.78,
+   "sid": 23,
+   "location": 2,
+   "content": "就是我希望大家一定要养成一个",
+   "music": 0
+  },
+  {
+   "from": 54.78,
+   "to": 56.62,
+   "sid": 24,
+   "location": 2,
+   "content": "带着目的来训练的习惯",
+   "music": 0
+  },
+  {
+   "from": 56.62,
+   "to": 59.32,
+   "sid": 25,
+   "location": 2,
+   "content": "因为看到太多的球员在自己训练的时候",
+   "music": 0
+  },
+  {
+   "from": 59.32,
+   "to": 61.58,
+   "sid": 26,
+   "location": 2,
+   "content": "做一些漫无目的的投篮上篮",
+   "music": 0
+  },
+  {
+   "from": 61.58,
+   "to": 64.25,
+   "sid": 27,
+   "location": 2,
+   "content": "很少有技术侧重或者强度的变化",
+   "music": 0
+  },
+  {
+   "from": 64.25,
+   "to": 65.72,
+   "sid": 28,
+   "location": 2,
+   "content": "以这期视频为例",
+   "music": 0
+  },
+  {
+   "from": 65.72,
+   "to": 69,
+   "sid": 29,
+   "location": 2,
+   "content": "30分钟的训练所涵盖的内容是非常有限的",
+   "music": 0
+  },
+  {
+   "from": 69,
+   "to": 71.28,
+   "sid": 30,
+   "location": 2,
+   "content": "所以如果我们想要在有限的时间里",
+   "music": 0
+  },
+  {
+   "from": 71.28,
+   "to": 72.6,
+   "sid": 31,
+   "location": 2,
+   "content": "提升我们的训练效率",
+   "music": 0
+  },
+  {
+   "from": 72.6,
+   "to": 75.48,
+   "sid": 32,
+   "location": 2,
+   "content": "就一定要提前合理安排好我们的训练侧重",
+   "music": 0
+  },
+  {
+   "from": 75.48,
+   "to": 76.83,
+   "sid": 33,
+   "location": 2,
+   "content": "与相应的训练动作",
+   "music": 0
+  },
+  {
+   "from": 76.83,
+   "to": 78.19,
+   "sid": 34,
+   "location": 2,
+   "content": "并设立一个目标",
+   "music": 0
+  },
+  {
+   "from": 78.19,
+   "to": 79.69,
+   "sid": 35,
+   "location": 2,
+   "content": "比如这次的训练目标",
+   "music": 0
+  },
+  {
+   "from": 79.69,
+   "to": 82.66,
+   "sid": 36,
+   "location": 2,
+   "content": "就是专注于外线球员基础进攻技术的打磨",
+   "music": 0
+  },
+  {
+   "from": 82.66,
+   "to": 83.65,
+   "sid": 37,
+   "location": 2,
+   "content": "以及重复一些",
+   "music": 0
+  },
+  {
+   "from": 83.65,
+   "to": 86.24,
+   "sid": 38,
+   "location": 2,
+   "content": "我个人在实战中经常用的得分手段",
+   "music": 0
+  },
+  {
+   "from": 86.24,
+   "to": 88.46,
+   "sid": 39,
+   "location": 2,
+   "content": "与此同时设置一个训练数量",
+   "music": 0
+  },
+  {
+   "from": 88.46,
+   "to": 90.32,
+   "sid": 40,
+   "location": 2,
+   "content": "并且在保证强度的情况下",
+   "music": 0
+  },
+  {
+   "from": 90.32,
+   "to": 92.68,
+   "sid": 41,
+   "location": 2,
+   "content": "尽可能的去完成它",
+   "music": 0
+  },
+  {
+   "from": 98.47,
+   "to": 99.99,
+   "sid": 42,
+   "location": 2,
+   "content": "好了热身完毕",
+   "music": 0
+  },
+  {
+   "from": 99.99,
+   "to": 101.61,
+   "sid": 43,
+   "location": 2,
+   "content": "下面来到我们的训练",
+   "music": 0
+  },
+  {
+   "from": 101.61,
+   "to": 103.41,
+   "sid": 44,
+   "location": 2,
+   "content": "简单的热身后衔接",
+   "music": 0
+  },
+  {
+   "from": 103.41,
+   "to": 106.59,
+   "sid": 45,
+   "location": 2,
+   "content": "我们第一个有效训练动作就是半程与全程滚球",
+   "music": 0
+  },
+  {
+   "from": 106.59,
+   "to": 110.37,
+   "sid": 46,
+   "location": 2,
+   "content": "训练目的在于激活提升我们髋关节内旋的能力",
+   "music": 0
+  },
+  {
+   "from": 110.37,
+   "to": 113.67,
+   "sid": 47,
+   "location": 2,
+   "content": "为之后的运球训练做好准备",
+   "music": 0
+  },
+  {
+   "from": 114.56,
+   "to": 117.13,
+   "sid": 48,
+   "location": 2,
+   "content": "之后进入我们的原地运球环节",
+   "music": 0
+  },
+  {
+   "from": 117.13,
+   "to": 118.78,
+   "sid": 49,
+   "location": 2,
+   "content": "简单的拍球热身后",
+   "music": 0
+  },
+  {
+   "from": 118.78,
+   "to": 122.16,
+   "sid": 50,
+   "location": 2,
+   "content": "主要安排了一些提升球员对球掌控能力的训练",
+   "music": 0
+  },
+  {
+   "from": 122.16,
+   "to": 124.169,
+   "sid": 51,
+   "location": 2,
+   "content": "首先是胯下的八字运球",
+   "music": 0
+  },
+  {
+   "from": 124.169,
+   "to": 125.429,
+   "sid": 52,
+   "location": 2,
+   "content": "正反都要做",
+   "music": 0
+  },
+  {
+   "from": 125.429,
+   "to": 126.689,
+   "sid": 53,
+   "location": 2,
+   "content": "不要担心失误",
+   "music": 0
+  },
+  {
+   "from": 126.689,
+   "to": 129.449,
+   "sid": 54,
+   "location": 2,
+   "content": "身体重心自然跟随",
+   "music": 0
+  },
+  {
+   "from": 135.24,
+   "to": 138.08,
+   "sid": 55,
+   "location": 2,
+   "content": "之后则是我们一系列的cuff dB训练",
+   "music": 0
+  },
+  {
+   "from": 138.08,
+   "to": 140.76,
+   "sid": 56,
+   "location": 2,
+   "content": "进一步提升我们对球的掌控能力",
+   "music": 0
+  },
+  {
+   "from": 145.679,
+   "to": 147.799,
+   "sid": 57,
+   "location": 2,
+   "content": "然后进入到行进间运球",
+   "music": 0
+  },
+  {
+   "from": 147.799,
+   "to": 151.099,
+   "sid": 58,
+   "location": 2,
+   "content": "这次训练的主要目的是培养球员的运球节奏",
+   "music": 0
+  },
+  {
+   "from": 151.099,
+   "to": 154.04,
+   "sid": 59,
+   "location": 2,
+   "content": "所以开始不需要去追求运球的速率",
+   "music": 0
+  },
+  {
+   "from": 154.04,
+   "to": 158.22,
+   "sid": 60,
+   "location": 2,
+   "content": "更多的是球与身体的结合移动",
+   "music": 0
+  },
+  {
+   "from": 176.399,
+   "to": 180.61,
+   "sid": 61,
+   "location": 2,
+   "content": "之后可以慢慢加入一些重心与速率节奏的变化",
+   "music": 0
+  },
+  {
+   "from": 180.61,
+   "to": 183.01,
+   "sid": 62,
+   "location": 2,
+   "content": "首先是斜颈肩的跨下变向",
+   "music": 0
+  },
+  {
+   "from": 183.01,
+   "to": 186.31,
+   "sid": 63,
+   "location": 2,
+   "content": "感受身体重心高低的变化",
+   "music": 0
+  },
+  {
+   "from": 191.56,
+   "to": 195.66,
+   "sid": 64,
+   "location": 2,
+   "content": "之后是重心由高到低的胯下加速",
+   "music": 0
+  },
+  {
+   "from": 202.239,
+   "to": 207.3,
+   "sid": 65,
+   "location": 2,
+   "content": "最后将以上两项训练结合并加入急停的训练",
+   "music": 0
+  },
+  {
+   "from": 224.48,
+   "to": 229.61,
+   "sid": 66,
+   "location": 2,
+   "content": "然后进入篮下的终结训练面框与背框的麦肯",
+   "music": 0
+  },
+  {
+   "from": 233.149,
+   "to": 237.489,
+   "sid": 67,
+   "location": 2,
+   "content": "稍远距离的勾手也是小个后卫必练的项目",
+   "music": 0
+  },
+  {
+   "from": 240.92,
+   "to": 242.29,
+   "sid": 68,
+   "location": 2,
+   "content": "至于终结技术",
+   "music": 0
+  },
+  {
+   "from": 242.29,
+   "to": 244.1,
+   "sid": 69,
+   "location": 2,
+   "content": "在这里我选择了五项",
+   "music": 0
+  },
+  {
+   "from": 244.1,
+   "to": 245.6,
+   "sid": 70,
+   "location": 2,
+   "content": "首先是内侧手的伸展",
+   "music": 0
+  },
+  {
+   "from": 245.6,
+   "to": 247.34,
+   "sid": 71,
+   "location": 2,
+   "content": "终结也是我好久没练",
+   "music": 0
+  },
+  {
+   "from": 247.34,
+   "to": 250.04,
+   "sid": 72,
+   "location": 2,
+   "content": "容易忽略的终结技术",
+   "music": 0
+  },
+  {
+   "from": 253.09,
+   "to": 255.51,
+   "sid": 73,
+   "location": 2,
+   "content": "以及常用的一部上篮小哥",
+   "music": 0
+  },
+  {
+   "from": 255.51,
+   "to": 258.21,
+   "sid": 74,
+   "location": 2,
+   "content": "后卫注意打板的位置",
+   "music": 0
+  },
+  {
+   "from": 265.72,
+   "to": 267.81,
+   "sid": 75,
+   "location": 2,
+   "content": "之后是我们的beer finish",
+   "music": 0
+  },
+  {
+   "from": 267.81,
+   "to": 270.54,
+   "sid": 76,
+   "location": 2,
+   "content": "左右两边都要训练",
+   "music": 0
+  },
+  {
+   "from": 280.3,
+   "to": 282.45,
+   "sid": 77,
+   "location": 2,
+   "content": "然后是隆多的招牌终结",
+   "music": 0
+  },
+  {
+   "from": 282.45,
+   "to": 284.16,
+   "sid": 78,
+   "location": 2,
+   "content": "注意交代好你的脚步",
+   "music": 0
+  },
+  {
+   "from": 284.16,
+   "to": 286.46,
+   "sid": 79,
+   "location": 2,
+   "content": "尽可能的丰富你的出手",
+   "music": 0
+  },
+  {
+   "from": 297.86,
+   "to": 300.37,
+   "sid": 80,
+   "location": 2,
+   "content": "最后一项安排给我们的抛投终结",
+   "music": 0
+  },
+  {
+   "from": 300.37,
+   "to": 301.86,
+   "sid": 81,
+   "location": 2,
+   "content": "因为训练时长有限",
+   "music": 0
+  },
+  {
+   "from": 301.86,
+   "to": 306.1,
+   "sid": 82,
+   "location": 2,
+   "content": "在这里只需要完成我们强侧手的出手",
+   "music": 0
+  },
+  {
+   "from": 308.72,
+   "to": 311.17,
+   "sid": 83,
+   "location": 2,
+   "content": "之后来到我们的基础投射环节",
+   "music": 0
+  },
+  {
+   "from": 311.17,
+   "to": 313.15,
+   "sid": 84,
+   "location": 2,
+   "content": "首先是中距离的急停跳投",
+   "music": 0
+  },
+  {
+   "from": 313.15,
+   "to": 314.77,
+   "sid": 85,
+   "location": 2,
+   "content": "两侧肘曲45度",
+   "music": 0
+  },
+  {
+   "from": 314.77,
+   "to": 316.62,
+   "sid": 86,
+   "location": 2,
+   "content": "分别连续命中两球",
+   "music": 0
+  },
+  {
+   "from": 321.32,
+   "to": 324.36,
+   "sid": 87,
+   "location": 2,
+   "content": "同样我们也需要做一些急停跳投的变招",
+   "music": 0
+  },
+  {
+   "from": 324.36,
+   "to": 325.98,
+   "sid": 88,
+   "location": 2,
+   "content": "随机点位既定后",
+   "music": 0
+  },
+  {
+   "from": 325.98,
+   "to": 327.84,
+   "sid": 89,
+   "location": 2,
+   "content": "衔接一到两次运球出手",
+   "music": 0
+  },
+  {
+   "from": 327.84,
+   "to": 330.66,
+   "sid": 90,
+   "location": 2,
+   "content": "可以根据自己常用的技能进行选择",
+   "music": 0
+  },
+  {
+   "from": 342.92,
+   "to": 344.12,
+   "sid": 91,
+   "location": 2,
+   "content": "这",
+   "music": 0
+  },
+  {
+   "from": 346.76,
+   "to": 348.74,
+   "sid": 92,
+   "location": 2,
+   "content": "最后是远距离的投射训练",
+   "music": 0
+  },
+  {
+   "from": 348.74,
+   "to": 352.22,
+   "sid": 93,
+   "location": 2,
+   "content": "首先是弧顶的接球三分命中3~5球",
+   "music": 0
+  },
+  {
+   "from": 366.14,
+   "to": 369.4,
+   "sid": 94,
+   "location": 2,
+   "content": "然后是刺探步之后的出手",
+   "music": 0
+  },
+  {
+   "from": 401.38,
+   "to": 405.58,
+   "sid": 95,
+   "location": 2,
+   "content": "最后是两侧肘区挡拆之后的三分出手",
+   "music": 0
+  },
+  {
+   "from": 440.88,
+   "to": 443,
+   "sid": 96,
+   "location": 2,
+   "content": "以上就这些宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 443,
+   "to": 444.64,
+   "sid": 97,
+   "location": 2,
+   "content": "希望大家从中有所收获",
+   "music": 0
+  },
+  {
+   "from": 444.64,
+   "to": 446.95,
+   "sid": 98,
+   "location": 2,
+   "content": "如果大家喜欢这种类型的训练视频",
+   "music": 0
+  },
+  {
+   "from": 446.95,
+   "to": 449.21,
+   "sid": 99,
+   "location": 2,
+   "content": "希望可以通过点赞三连来告诉我",
+   "music": 0
+  },
+  {
+   "from": 449.21,
+   "to": 451.52,
+   "sid": 100,
+   "location": 2,
+   "content": "我也会在未来继续保持更新",
+   "music": 0
+  },
+  {
+   "from": 451.52,
+   "to": 452.51,
+   "sid": 101,
+   "location": 2,
+   "content": "非常感谢",
+   "music": 0
+  },
+  {
+   "from": 452.51,
+   "to": 454.97,
+   "sid": 102,
+   "location": 2,
+   "content": "我们下期再见",
+   "music": 0
+  }
+ ]
+}

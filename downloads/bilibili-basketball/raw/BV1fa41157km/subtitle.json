@@ -1,0 +1,82 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 2.16,
+   "sid": 1,
+   "location": 2,
+   "content": "夏日限定般的告白"
+  },
+  {
+   "from": 2.16,
+   "to": 5.4,
+   "sid": 2,
+   "location": 2,
+   "content": "你总怀疑我的心里是不是会超载"
+  },
+  {
+   "from": 5.4,
+   "to": 6.24,
+   "sid": 3,
+   "location": 2,
+   "content": "只有你的话"
+  },
+  {
+   "from": 6.24,
+   "to": 7.8,
+   "sid": 4,
+   "location": 2,
+   "content": "不知道是被谁教坏"
+  },
+  {
+   "from": 7.8,
+   "to": 8.52,
+   "sid": 5,
+   "location": 2,
+   "content": "在我身边"
+  },
+  {
+   "from": 8.52,
+   "to": 10.89,
+   "sid": 6,
+   "location": 2,
+   "content": "你可以放心做一个小孩"
+  },
+  {
+   "from": 10.89,
+   "to": 12.54,
+   "sid": 7,
+   "location": 2,
+   "content": "i see nobody"
+  },
+  {
+   "from": 12.54,
+   "to": 16.04,
+   "sid": 8,
+   "location": 2,
+   "content": "but u i call it something right"
+  },
+  {
+   "from": 16.04,
+   "to": 17.78,
+   "sid": 9,
+   "location": 2,
+   "content": "i feel nobody"
+  },
+  {
+   "from": 17.78,
+   "to": 18.3,
+   "sid": 10,
+   "location": 2,
+   "content": "but"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 4.58,
+   "to": 6.62,
+   "sid": 1,
+   "location": 2,
+   "content": "来吧宝贝宝贝下来"
+  },
+  {
+   "from": 6.62,
+   "to": 9.02,
+   "sid": 2,
+   "location": 2,
+   "content": "能把这些话拆散"
+  }
+ ]
+}

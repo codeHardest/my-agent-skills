@@ -1,0 +1,604 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 1.52,
+   "to": 4.52,
+   "sid": 1,
+   "location": 2,
+   "content": "嘿你发现了新的宝石",
+   "music": 0
+  },
+  {
+   "from": 4.66,
+   "to": 5.86,
+   "sid": 2,
+   "location": 2,
+   "content": "这很发力",
+   "music": 0
+  },
+  {
+   "from": 5.86,
+   "to": 7.84,
+   "sid": 3,
+   "location": 2,
+   "content": "OK今天这些宝石呢跟大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 7.84,
+   "to": 9.379,
+   "sid": 4,
+   "location": 2,
+   "content": "也是大家一直在后台问我的",
+   "music": 0
+  },
+  {
+   "from": 9.379,
+   "to": 12.199,
+   "sid": 5,
+   "location": 2,
+   "content": "关于这个后仰跳投的一些技术分析啊",
+   "music": 0
+  },
+  {
+   "from": 12.199,
+   "to": 13.639,
+   "sid": 6,
+   "location": 2,
+   "content": "当然可能在这里呢",
+   "music": 0
+  },
+  {
+   "from": 13.639,
+   "to": 15.799,
+   "sid": 7,
+   "location": 2,
+   "content": "我理解的大家大家想的后仰跳投呢",
+   "music": 0
+  },
+  {
+   "from": 15.799,
+   "to": 18.91,
+   "sid": 8,
+   "location": 2,
+   "content": "可能是类似于科比背身单打那种",
+   "music": 0
+  },
+  {
+   "from": 18.91,
+   "to": 20.29,
+   "sid": 9,
+   "location": 2,
+   "content": "非常美如画的画风跳投",
+   "music": 0
+  },
+  {
+   "from": 20.29,
+   "to": 21.61,
+   "sid": 10,
+   "location": 2,
+   "content": "但是由于版权问题呢",
+   "music": 0
+  },
+  {
+   "from": 21.61,
+   "to": 23.17,
+   "sid": 11,
+   "location": 2,
+   "content": "大家先自行脑补一下",
+   "music": 0
+  },
+  {
+   "from": 23.17,
+   "to": 25.96,
+   "sid": 12,
+   "location": 2,
+   "content": "但是今天给大家带来了可能不是这个主要原因",
+   "music": 0
+  },
+  {
+   "from": 25.96,
+   "to": 28.36,
+   "sid": 13,
+   "location": 2,
+   "content": "是因为他对我们运动员身体素质要求",
+   "music": 0
+  },
+  {
+   "from": 28.36,
+   "to": 29.32,
+   "sid": 14,
+   "location": 2,
+   "content": "上篮量高一些",
+   "music": 0
+  },
+  {
+   "from": 29.32,
+   "to": 31.76,
+   "sid": 15,
+   "location": 2,
+   "content": "所以说今天取而代之呢跟大家分享一个",
+   "music": 0
+  },
+  {
+   "from": 31.76,
+   "to": 33.14,
+   "sid": 16,
+   "location": 2,
+   "content": "相对来讲简单一些",
+   "music": 0
+  },
+  {
+   "from": 33.14,
+   "to": 34.52,
+   "sid": 17,
+   "location": 2,
+   "content": "但是呢也是非常实用",
+   "music": 0
+  },
+  {
+   "from": 34.52,
+   "to": 36.44,
+   "sid": 18,
+   "location": 2,
+   "content": "特别是在我们禁区周围啊",
+   "music": 0
+  },
+  {
+   "from": 36.44,
+   "to": 40.22,
+   "sid": 19,
+   "location": 2,
+   "content": "一个小范围空中身体的一个后仰跳投啊",
+   "music": 0
+  },
+  {
+   "from": 40.22,
+   "to": 42.38,
+   "sid": 20,
+   "location": 2,
+   "content": "同时呢也是被我们之后的后仰跳投的",
+   "music": 0
+  },
+  {
+   "from": 42.38,
+   "to": 44.88,
+   "sid": 21,
+   "location": 2,
+   "content": "这个进阶的打一个比较坚实的基础",
+   "music": 0
+  },
+  {
+   "from": 44.88,
+   "to": 45.9,
+   "sid": 22,
+   "location": 2,
+   "content": "OK那话不多说",
+   "music": 0
+  },
+  {
+   "from": 45.9,
+   "to": 47.04,
+   "sid": 23,
+   "location": 2,
+   "content": "我们就来看一下吧",
+   "music": 0
+  },
+  {
+   "from": 47.04,
+   "to": 48.78,
+   "sid": 24,
+   "location": 2,
+   "content": "今天呢我也会把我们的后仰跳投呢",
+   "music": 0
+  },
+  {
+   "from": 48.78,
+   "to": 49.98,
+   "sid": 25,
+   "location": 2,
+   "content": "分为上下两期来做",
+   "music": 0
+  },
+  {
+   "from": 49.98,
+   "to": 52.56,
+   "sid": 26,
+   "location": 2,
+   "content": "主要原因是因为我强侧手和弱侧手的方向",
+   "music": 0
+  },
+  {
+   "from": 52.56,
+   "to": 54.94,
+   "sid": 27,
+   "location": 2,
+   "content": "跳投呢相对来讲有一些不同的地方",
+   "music": 0
+  },
+  {
+   "from": 54.94,
+   "to": 57.82,
+   "sid": 28,
+   "location": 2,
+   "content": "今天呢我们主要来讲一讲我们这个强测手段",
+   "music": 0
+  },
+  {
+   "from": 57.82,
+   "to": 59.38,
+   "sid": 29,
+   "location": 2,
+   "content": "后仰跳投的两种不同的脚步",
+   "music": 0
+  },
+  {
+   "from": 59.38,
+   "to": 60.97,
+   "sid": 30,
+   "location": 2,
+   "content": "也是两种不同的方式",
+   "music": 0
+  },
+  {
+   "from": 60.97,
+   "to": 62.89,
+   "sid": 31,
+   "location": 2,
+   "content": "大家现在先来看看我们的第一种",
+   "music": 0
+  },
+  {
+   "from": 62.89,
+   "to": 67.03,
+   "sid": 32,
+   "location": 2,
+   "content": "也是我们的一二部的经典的后仰跳投",
+   "music": 0
+  },
+  {
+   "from": 71.24,
+   "to": 74.42,
+   "sid": 33,
+   "location": 2,
+   "content": "与之前分享的一二步急停跳投相似",
+   "music": 0
+  },
+  {
+   "from": 74.42,
+   "to": 75.83,
+   "sid": 34,
+   "location": 2,
+   "content": "但需要注意的是",
+   "music": 0
+  },
+  {
+   "from": 75.83,
+   "to": 78.32,
+   "sid": 35,
+   "location": 2,
+   "content": "在你的内侧脚急停减速时",
+   "music": 0
+  },
+  {
+   "from": 78.32,
+   "to": 79.85,
+   "sid": 36,
+   "location": 2,
+   "content": "核心适当收紧",
+   "music": 0
+  },
+  {
+   "from": 79.85,
+   "to": 80.72,
+   "sid": 37,
+   "location": 2,
+   "content": "稳定躯干",
+   "music": 0
+  },
+  {
+   "from": 80.72,
+   "to": 83.2,
+   "sid": 38,
+   "location": 2,
+   "content": "重心外侧角迅速跟上",
+   "music": 0
+  },
+  {
+   "from": 83.2,
+   "to": 86.32,
+   "sid": 39,
+   "location": 2,
+   "content": "此时借助速度顺势向后侧发力起跳",
+   "music": 0
+  },
+  {
+   "from": 86.32,
+   "to": 87.49,
+   "sid": 40,
+   "location": 2,
+   "content": "完成跳投",
+   "music": 0
+  },
+  {
+   "from": 87.49,
+   "to": 91.18,
+   "sid": 41,
+   "location": 2,
+   "content": "尽量将肩膀手肘手腕与篮筐连成一线",
+   "music": 0
+  },
+  {
+   "from": 91.18,
+   "to": 93.399,
+   "sid": 42,
+   "location": 2,
+   "content": "来保证稳定的命中率",
+   "music": 0
+  },
+  {
+   "from": 93.46,
+   "to": 95.5,
+   "sid": 43,
+   "location": 2,
+   "content": "同时也可以合理抬腿",
+   "music": 0
+  },
+  {
+   "from": 95.5,
+   "to": 98.259,
+   "sid": 44,
+   "location": 2,
+   "content": "来保持躯干的平衡与平稳落地",
+   "music": 0
+  },
+  {
+   "from": 98.8,
+   "to": 100.44,
+   "sid": 45,
+   "location": 2,
+   "content": "OK看完了我们的第二步呢",
+   "music": 0
+  },
+  {
+   "from": 100.44,
+   "to": 102.18,
+   "sid": 46,
+   "location": 2,
+   "content": "下面我们来看一下我们的第二种角度",
+   "music": 0
+  },
+  {
+   "from": 102.18,
+   "to": 103.68,
+   "sid": 47,
+   "location": 2,
+   "content": "我们的垫步也是我们的号",
+   "music": 0
+  },
+  {
+   "from": 103.68,
+   "to": 105.26,
+   "sid": 48,
+   "location": 2,
+   "content": "之后的后仰跳投",
+   "music": 0
+  },
+  {
+   "from": 106.2,
+   "to": 108,
+   "sid": 49,
+   "location": 2,
+   "content": "与之前的一二部不同",
+   "music": 0
+  },
+  {
+   "from": 108,
+   "to": 110.01,
+   "sid": 50,
+   "location": 2,
+   "content": "垫步跳投更加依赖节奏",
+   "music": 0
+  },
+  {
+   "from": 110.01,
+   "to": 112.14,
+   "sid": 51,
+   "location": 2,
+   "content": "对身体的控制相对简单",
+   "music": 0
+  },
+  {
+   "from": 112.14,
+   "to": 114.94,
+   "sid": 52,
+   "location": 2,
+   "content": "也是许多内线球员的必备技能",
+   "music": 0
+  },
+  {
+   "from": 118.58,
+   "to": 120.84,
+   "sid": 53,
+   "location": 2,
+   "content": "在运球店铺将要收球时",
+   "music": 0
+  },
+  {
+   "from": 120.84,
+   "to": 123.509,
+   "sid": 54,
+   "location": 2,
+   "content": "前脚落地后轻微向后侧发力",
+   "music": 0
+  },
+  {
+   "from": 123.509,
+   "to": 126.299,
+   "sid": 55,
+   "location": 2,
+   "content": "同时后脚顺势向上起跳发力",
+   "music": 0
+  },
+  {
+   "from": 126.299,
+   "to": 127.769,
+   "sid": 56,
+   "location": 2,
+   "content": "身体相对放松",
+   "music": 0
+  },
+  {
+   "from": 127.769,
+   "to": 129.5,
+   "sid": 57,
+   "location": 2,
+   "content": "后仰完成投篮",
+   "music": 0
+  },
+  {
+   "from": 129.5,
+   "to": 132.38,
+   "sid": 58,
+   "location": 2,
+   "content": "同时可以主动去寻找身体对抗",
+   "music": 0
+  },
+  {
+   "from": 132.38,
+   "to": 134.96,
+   "sid": 59,
+   "location": 2,
+   "content": "来争取更加的出手空间",
+   "music": 0
+  },
+  {
+   "from": 139.659,
+   "to": 140.459,
+   "sid": 60,
+   "location": 2,
+   "content": "OK以上呢",
+   "music": 0
+  },
+  {
+   "from": 140.459,
+   "to": 142.859,
+   "sid": 61,
+   "location": 2,
+   "content": "就是我们这期后仰跳投的上半部分的内容",
+   "music": 0
+  },
+  {
+   "from": 142.859,
+   "to": 144.54,
+   "sid": 62,
+   "location": 2,
+   "content": "其中包含了我们强侧手",
+   "music": 0
+  },
+  {
+   "from": 144.54,
+   "to": 148.16,
+   "sid": 63,
+   "location": 2,
+   "content": "也是我们投篮手的两种不同的后仰跳投的脚步",
+   "music": 0
+  },
+  {
+   "from": 148.16,
+   "to": 149.42,
+   "sid": 64,
+   "location": 2,
+   "content": "如果你是左撇子呢",
+   "music": 0
+  },
+  {
+   "from": 149.42,
+   "to": 151.73,
+   "sid": 65,
+   "location": 2,
+   "content": "我希望你可以静下我们的动作就OK了",
+   "music": 0
+  },
+  {
+   "from": 151.73,
+   "to": 152.18,
+   "sid": 66,
+   "location": 2,
+   "content": "当然了",
+   "music": 0
+  },
+  {
+   "from": 152.18,
+   "to": 155.34,
+   "sid": 67,
+   "location": 2,
+   "content": "我们下一期呢我会更新我们这个弱侧手那边呃",
+   "music": 0
+  },
+  {
+   "from": 155.34,
+   "to": 157.74,
+   "sid": 68,
+   "location": 2,
+   "content": "如何去完成我们后仰后卫两种不同的角度",
+   "music": 0
+  },
+  {
+   "from": 157.74,
+   "to": 160.59,
+   "sid": 69,
+   "location": 2,
+   "content": "以及他与这个强乐手的不同的一些细节",
+   "music": 0
+  },
+  {
+   "from": 160.59,
+   "to": 161.8,
+   "sid": 70,
+   "location": 2,
+   "content": "这点非常关键",
+   "music": 0
+  },
+  {
+   "from": 161.8,
+   "to": 164.14,
+   "sid": 71,
+   "location": 2,
+   "content": "OK那以上就是这期宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 164.14,
+   "to": 166.69,
+   "sid": 72,
+   "location": 2,
+   "content": "希望大家长按点赞三连来支持我们隐藏宝石",
+   "music": 0
+  },
+  {
+   "from": 166.69,
+   "to": 167.86,
+   "sid": 73,
+   "location": 2,
+   "content": "那我们就下期再见",
+   "music": 0
+  },
+  {
+   "from": 167.86,
+   "to": 168.4,
+   "sid": 74,
+   "location": 2,
+   "content": "拜拜",
+   "music": 0
+  }
+ ]
+}

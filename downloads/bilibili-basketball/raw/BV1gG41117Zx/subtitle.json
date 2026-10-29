@@ -1,0 +1,28 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.92,
+   "sid": 1,
+   "location": 2,
+   "content": "打板上来还整不明白的",
+   "music": 0.3111110938271614
+  },
+  {
+   "from": 1.92,
+   "to": 3.04,
+   "sid": 2,
+   "location": 2,
+   "content": "赶紧进来看",
+   "music": 0
+  }
+ ]
+}

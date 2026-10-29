@@ -1,0 +1,716 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 2.9,
+   "to": 7.189,
+   "sid": 1,
+   "location": 2,
+   "content": "哈嗯好兄弟",
+   "music": 0.695652098298685
+  },
+  {
+   "from": 7.189,
+   "to": 8.719,
+   "sid": 2,
+   "location": 2,
+   "content": "人家手都在下边了",
+   "music": 0
+  },
+  {
+   "from": 8.719,
+   "to": 10.369,
+   "sid": 3,
+   "location": 2,
+   "content": "你怎么还做crossover",
+   "music": 0
+  },
+  {
+   "from": 10.369,
+   "to": 11.899,
+   "sid": 4,
+   "location": 2,
+   "content": "看他都把我一边堵住了",
+   "music": 0
+  },
+  {
+   "from": 11.899,
+   "to": 12.979,
+   "sid": 5,
+   "location": 2,
+   "content": "我变向怎么过",
+   "music": 0
+  },
+  {
+   "from": 12.979,
+   "to": 15.3,
+   "sid": 6,
+   "location": 2,
+   "content": "当训练营里面马教练没有教过你",
+   "music": 0
+  },
+  {
+   "from": 15.3,
+   "to": 16.56,
+   "sid": 7,
+   "location": 2,
+   "content": "高手变相吗",
+   "music": 0
+  },
+  {
+   "from": 16.56,
+   "to": 18.68,
+   "sid": 8,
+   "location": 2,
+   "content": "啊他教过吗",
+   "music": 0
+  },
+  {
+   "from": 19.6,
+   "to": 21.93,
+   "sid": 9,
+   "location": 2,
+   "content": "哦对他离职了没事",
+   "music": 0
+  },
+  {
+   "from": 21.93,
+   "to": 25.82,
+   "sid": 10,
+   "location": 2,
+   "content": "我来教你高手变相教学解析",
+   "music": 0.23404254489210807
+  },
+  {
+   "from": 25.82,
+   "to": 28.34,
+   "sid": 11,
+   "location": 2,
+   "content": "高手变相又叫推球变向",
+   "music": 0
+  },
+  {
+   "from": 28.34,
+   "to": 31.64,
+   "sid": 12,
+   "location": 2,
+   "content": "是快攻中一个既安全又好用的突破招式",
+   "music": 0
+  },
+  {
+   "from": 31.64,
+   "to": 35.62,
+   "sid": 13,
+   "location": 2,
+   "content": "要做好这个推球变向有两个细节你一定要注意",
+   "music": 0
+  },
+  {
+   "from": 35.62,
+   "to": 37.18,
+   "sid": 14,
+   "location": 2,
+   "content": "一是在变向前",
+   "music": 0
+  },
+  {
+   "from": 37.18,
+   "to": 39.01,
+   "sid": 15,
+   "location": 2,
+   "content": "我们要先向外侧迈步",
+   "music": 0
+  },
+  {
+   "from": 39.01,
+   "to": 42.24,
+   "sid": 16,
+   "location": 2,
+   "content": "同时身体和眼神要跟随看向外侧",
+   "music": 0
+  },
+  {
+   "from": 42.24,
+   "to": 45.99,
+   "sid": 17,
+   "location": 2,
+   "content": "这样防守人才会误以为我们要直接加速突破",
+   "music": 0
+  },
+  {
+   "from": 45.99,
+   "to": 48.42,
+   "sid": 18,
+   "location": 2,
+   "content": "从而封堵外侧",
+   "music": 0.4017093845423355
+  },
+  {
+   "from": 48.7,
+   "to": 51.27,
+   "sid": 19,
+   "location": 2,
+   "content": "随后第二个细节就是在变向后",
+   "music": 0
+  },
+  {
+   "from": 51.27,
+   "to": 53.04,
+   "sid": 20,
+   "location": 2,
+   "content": "我们要注意压低肩膀",
+   "music": 0
+  },
+  {
+   "from": 53.04,
+   "to": 55.14,
+   "sid": 21,
+   "location": 2,
+   "content": "这么做既有利于突破加速",
+   "music": 0
+  },
+  {
+   "from": 55.14,
+   "to": 58.66,
+   "sid": 22,
+   "location": 2,
+   "content": "又能很好的在变向后保护住球",
+   "music": 0.2258064443288257
+  },
+  {
+   "from": 58.66,
+   "to": 61,
+   "sid": 23,
+   "location": 2,
+   "content": "紧接着我们来说说实战中",
+   "music": 0
+  },
+  {
+   "from": 61,
+   "to": 63.16,
+   "sid": 24,
+   "location": 2,
+   "content": "如何根据防守站位去决定",
+   "music": 0
+  },
+  {
+   "from": 63.16,
+   "to": 64.959,
+   "sid": 25,
+   "location": 2,
+   "content": "推球变向后的进攻选择",
+   "music": 0
+  },
+  {
+   "from": 65.839,
+   "to": 68.82,
+   "sid": 26,
+   "location": 2,
+   "content": "一高手变相过人变向前",
+   "music": 0
+  },
+  {
+   "from": 68.82,
+   "to": 71.88,
+   "sid": 27,
+   "location": 2,
+   "content": "如果防守人又伸手拦截体前变向的动作",
+   "music": 0
+  },
+  {
+   "from": 71.88,
+   "to": 74.74,
+   "sid": 28,
+   "location": 2,
+   "content": "那直接一个高手推球就能将它过掉",
+   "music": 0
+  },
+  {
+   "from": 75.74,
+   "to": 79,
+   "sid": 29,
+   "location": 2,
+   "content": "二高手变向加炸球对抗上篮",
+   "music": 0
+  },
+  {
+   "from": 79,
+   "to": 80.29,
+   "sid": 30,
+   "location": 2,
+   "content": "高手变向时",
+   "music": 0
+  },
+  {
+   "from": 80.29,
+   "to": 82.42,
+   "sid": 31,
+   "location": 2,
+   "content": "如果防守人迅速做出反应",
+   "music": 0
+  },
+  {
+   "from": 82.42,
+   "to": 85.32,
+   "sid": 32,
+   "location": 2,
+   "content": "选择贴身速度与你向前的进攻路线",
+   "music": 0
+  },
+  {
+   "from": 85.32,
+   "to": 88.02,
+   "sid": 33,
+   "location": 2,
+   "content": "那我们就在变向后做一次炸球对抗",
+   "music": 0
+  },
+  {
+   "from": 88.02,
+   "to": 90.96,
+   "sid": 34,
+   "location": 2,
+   "content": "扛开防守人再上篮完成得分",
+   "music": 0.04081632514229861
+  },
+  {
+   "from": 92.14,
+   "to": 94.96,
+   "sid": 35,
+   "location": 2,
+   "content": "三高手变向加后撤跳投",
+   "music": 0
+  },
+  {
+   "from": 94.96,
+   "to": 96.88,
+   "sid": 36,
+   "location": 2,
+   "content": "如果你面对的防守人",
+   "music": 0
+  },
+  {
+   "from": 96.88,
+   "to": 98.74,
+   "sid": 37,
+   "location": 2,
+   "content": "对抗和封盖能力都很强",
+   "music": 0
+  },
+  {
+   "from": 98.74,
+   "to": 100.92,
+   "sid": 38,
+   "location": 2,
+   "content": "那硬碰硬就不是首选",
+   "music": 0
+  },
+  {
+   "from": 100.92,
+   "to": 104.37,
+   "sid": 39,
+   "location": 2,
+   "content": "我们可以在高手变向后向内做一个刺探",
+   "music": 0
+  },
+  {
+   "from": 104.37,
+   "to": 105.46,
+   "sid": 40,
+   "location": 2,
+   "content": "佯装突破",
+   "music": 0
+  },
+  {
+   "from": 105.46,
+   "to": 107.47,
+   "sid": 41,
+   "location": 2,
+   "content": "待防守人后退封堵时",
+   "music": 0
+  },
+  {
+   "from": 107.47,
+   "to": 110.46,
+   "sid": 42,
+   "location": 2,
+   "content": "在蹬地后撤拉开空间完成投篮",
+   "music": 0
+  },
+  {
+   "from": 112.06,
+   "to": 114.99,
+   "sid": 43,
+   "location": 2,
+   "content": "四高手变向加炸球转身",
+   "music": 0
+  },
+  {
+   "from": 114.99,
+   "to": 117.22,
+   "sid": 44,
+   "location": 2,
+   "content": "如果你的防守人自作聪明",
+   "music": 0
+  },
+  {
+   "from": 117.22,
+   "to": 118.87,
+   "sid": 45,
+   "location": 2,
+   "content": "在你做高手变向时",
+   "music": 0
+  },
+  {
+   "from": 118.87,
+   "to": 120.19,
+   "sid": 46,
+   "location": 2,
+   "content": "直接大幅横移",
+   "music": 0
+  },
+  {
+   "from": 120.19,
+   "to": 122.54,
+   "sid": 47,
+   "location": 2,
+   "content": "堵在你变向后的进攻路线上",
+   "music": 0
+  },
+  {
+   "from": 122.54,
+   "to": 124.94,
+   "sid": 48,
+   "location": 2,
+   "content": "那我们就在变向后直接炸球",
+   "music": 0
+  },
+  {
+   "from": 124.94,
+   "to": 125.45,
+   "sid": 49,
+   "location": 2,
+   "content": "转身",
+   "music": 0
+  },
+  {
+   "from": 125.45,
+   "to": 128.06,
+   "sid": 50,
+   "location": 2,
+   "content": "找另一侧上篮得分",
+   "music": 0.3486238372190871
+  },
+  {
+   "from": 128.42,
+   "to": 131.28,
+   "sid": 51,
+   "location": 2,
+   "content": "五高手变相加转身上篮",
+   "music": 0
+  },
+  {
+   "from": 131.28,
+   "to": 132.75,
+   "sid": 52,
+   "location": 2,
+   "content": "在高手变向后",
+   "music": 0
+  },
+  {
+   "from": 132.75,
+   "to": 134.91,
+   "sid": 53,
+   "location": 2,
+   "content": "如果防守人突然伸手断球",
+   "music": 0
+  },
+  {
+   "from": 134.91,
+   "to": 137.46,
+   "sid": 54,
+   "location": 2,
+   "content": "那我们就利用悬浮运球加转身",
+   "music": 0
+  },
+  {
+   "from": 137.46,
+   "to": 138.63,
+   "sid": 55,
+   "location": 2,
+   "content": "直接把他过掉",
+   "music": 0
+  },
+  {
+   "from": 138.63,
+   "to": 140.18,
+   "sid": 56,
+   "location": 2,
+   "content": "再上篮完成得分",
+   "music": 0
+  },
+  {
+   "from": 140.18,
+   "to": 145.04,
+   "sid": 57,
+   "location": 2,
+   "content": "这样防守人将会为自己的冒进而付出代价",
+   "music": 0
+  },
+  {
+   "from": 145.22,
+   "to": 147.64,
+   "sid": 58,
+   "location": 2,
+   "content": "最后如果你想接受专业训练",
+   "music": 0
+  },
+  {
+   "from": 147.64,
+   "to": 150.43,
+   "sid": 59,
+   "location": 2,
+   "content": "欢迎私信咨询关注KBT",
+   "music": 0
+  },
+  {
+   "from": 150.43,
+   "to": 152.76,
+   "sid": 60,
+   "location": 2,
+   "content": "随时随地掌球技",
+   "music": 0
+  },
+  {
+   "from": 153.1,
+   "to": 155.92,
+   "sid": 61,
+   "location": 2,
+   "content": "谁允许你把我们KBT护膝的价格",
+   "music": 0
+  },
+  {
+   "from": 155.92,
+   "to": 157.6,
+   "sid": 62,
+   "location": 2,
+   "content": "改成288一个的",
+   "music": 0
+  },
+  {
+   "from": 157.6,
+   "to": 158.38,
+   "sid": 63,
+   "location": 2,
+   "content": "王总",
+   "music": 0
+  },
+  {
+   "from": 158.38,
+   "to": 160.66,
+   "sid": 64,
+   "location": 2,
+   "content": "我们KBT护膝的价格太低了",
+   "music": 0
+  },
+  {
+   "from": 160.66,
+   "to": 162.34,
+   "sid": 65,
+   "location": 2,
+   "content": "购买人数暴涨",
+   "music": 0
+  },
+  {
+   "from": 162.34,
+   "to": 163.18,
+   "sid": 66,
+   "location": 2,
+   "content": "再这么下去",
+   "music": 0
+  },
+  {
+   "from": 163.18,
+   "to": 165.7,
+   "sid": 67,
+   "location": 2,
+   "content": "公司要亏本了够了",
+   "music": 0
+  },
+  {
+   "from": 165.7,
+   "to": 167.62,
+   "sid": 68,
+   "location": 2,
+   "content": "到底是公司的利益重要",
+   "music": 0
+  },
+  {
+   "from": 167.62,
+   "to": 169.62,
+   "sid": 69,
+   "location": 2,
+   "content": "还是粉丝的膝盖重要",
+   "music": 0
+  },
+  {
+   "from": 169.62,
+   "to": 172.05,
+   "sid": 70,
+   "location": 2,
+   "content": "我们售卖KVT护膝的初衷",
+   "music": 0
+  },
+  {
+   "from": 172.05,
+   "to": 175.04,
+   "sid": 71,
+   "location": 2,
+   "content": "就是为了让粉丝买到最具性价比的护膝",
+   "music": 0
+  },
+  {
+   "from": 175.04,
+   "to": 178.52,
+   "sid": 72,
+   "location": 2,
+   "content": "你这么做不就是反其道而行之了吗",
+   "music": 0
+  },
+  {
+   "from": 178.52,
+   "to": 179.48,
+   "sid": 73,
+   "location": 2,
+   "content": "好的我知道了",
+   "music": 0
+  },
+  {
+   "from": 179.48,
+   "to": 179.93,
+   "sid": 74,
+   "location": 2,
+   "content": "王总",
+   "music": 0
+  },
+  {
+   "from": 179.93,
+   "to": 181.28,
+   "sid": 75,
+   "location": 2,
+   "content": "现在我们该怎么办",
+   "music": 0
+  },
+  {
+   "from": 181.28,
+   "to": 184.37,
+   "sid": 76,
+   "location": 2,
+   "content": "把护膝的价格下调到118一个",
+   "music": 0
+  },
+  {
+   "from": 184.37,
+   "to": 185.81,
+   "sid": 77,
+   "location": 2,
+   "content": "线上直接下单",
+   "music": 0
+  },
+  {
+   "from": 185.81,
+   "to": 187.07,
+   "sid": 78,
+   "location": 2,
+   "content": "而且还要包邮",
+   "music": 0
+  },
+  {
+   "from": 187.07,
+   "to": 188,
+   "sid": 79,
+   "location": 2,
+   "content": "好的王总",
+   "music": 0
+  },
+  {
+   "from": 188,
+   "to": 189.2,
+   "sid": 80,
+   "location": 2,
+   "content": "我现在就去办",
+   "music": 0
+  },
+  {
+   "from": 189.2,
+   "to": 190.16,
+   "sid": 81,
+   "location": 2,
+   "content": "哎",
+   "music": 0
+  },
+  {
+   "from": 190.16,
+   "to": 193.76,
+   "sid": 82,
+   "location": 2,
+   "content": "等一下再把护膝价格降一降",
+   "music": 0.12871286491520137
+  },
+  {
+   "from": 193.76,
+   "to": 195.94,
+   "sid": 83,
+   "location": 2,
+   "content": "改成一百一十八两个",
+   "music": 0
+  },
+  {
+   "from": 195.94,
+   "to": 198.73,
+   "sid": 84,
+   "location": 2,
+   "content": "此外购买方式再改简单一点",
+   "music": 0
+  },
+  {
+   "from": 198.73,
+   "to": 202.77,
+   "sid": 85,
+   "location": 2,
+   "content": "就改成点击视频下方购物车即可完成购买",
+   "music": 0
+  },
+  {
+   "from": 202.77,
+   "to": 204.78,
+   "sid": 86,
+   "location": 2,
+   "content": "KBT专业运动护膝",
+   "music": 0
+  },
+  {
+   "from": 204.78,
+   "to": 205.74,
+   "sid": 87,
+   "location": 2,
+   "content": "保护膝盖",
+   "music": 0
+  },
+  {
+   "from": 205.74,
+   "to": 206.68,
+   "sid": 88,
+   "location": 2,
+   "content": "更保护你",
+   "music": 0
+  }
+ ]
+}

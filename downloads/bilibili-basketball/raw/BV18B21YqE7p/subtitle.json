@@ -1,0 +1,500 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 0.72,
+   "sid": 1,
+   "location": 2,
+   "content": "终于有机会了",
+   "music": 0
+  },
+  {
+   "from": 0.72,
+   "to": 2.82,
+   "sid": 2,
+   "location": 2,
+   "content": "我就想请教一下我有什么问题吗",
+   "music": 0
+  },
+  {
+   "from": 2.82,
+   "to": 4.4,
+   "sid": 3,
+   "location": 2,
+   "content": "我投篮",
+   "music": 0
+  },
+  {
+   "from": 4.76,
+   "to": 6.88,
+   "sid": 4,
+   "location": 2,
+   "content": "你看你所有的跟脚都是这样",
+   "music": 0
+  },
+  {
+   "from": 6.88,
+   "to": 7.74,
+   "sid": 5,
+   "location": 2,
+   "content": "这是你的第一步",
+   "music": 0
+  },
+  {
+   "from": 7.74,
+   "to": 9.38,
+   "sid": 6,
+   "location": 2,
+   "content": "这是你的第二步",
+   "music": 0
+  },
+  {
+   "from": 9.38,
+   "to": 11.12,
+   "sid": 7,
+   "location": 2,
+   "content": "这种发力很有劲",
+   "music": 0
+  },
+  {
+   "from": 11.12,
+   "to": 12.36,
+   "sid": 8,
+   "location": 2,
+   "content": "但是你会发现比较慢",
+   "music": 0
+  },
+  {
+   "from": 12.36,
+   "to": 15.54,
+   "sid": 9,
+   "location": 2,
+   "content": "第二来是身体会有一个前后的一个U的感觉",
+   "music": 0
+  },
+  {
+   "from": 15.54,
+   "to": 18.33,
+   "sid": 10,
+   "location": 2,
+   "content": "因为你也要把脚给到前脚掌",
+   "music": 0
+  },
+  {
+   "from": 18.33,
+   "to": 20.79,
+   "sid": 11,
+   "location": 2,
+   "content": "如果改成这个一二",
+   "music": 0
+  },
+  {
+   "from": 20.79,
+   "to": 22.77,
+   "sid": 12,
+   "location": 2,
+   "content": "你整个的发力就很舒服",
+   "music": 0
+  },
+  {
+   "from": 22.77,
+   "to": 25.92,
+   "sid": 13,
+   "location": 2,
+   "content": "但我们这do it back",
+   "music": 0
+  },
+  {
+   "from": 25.92,
+   "to": 27.3,
+   "sid": 14,
+   "location": 2,
+   "content": "But i got a cap back",
+   "music": 0
+  },
+  {
+   "from": 27.3,
+   "to": 29.22,
+   "sid": 15,
+   "location": 2,
+   "content": "你现在速度比刚才快",
+   "music": 0.29999997000000367
+  },
+  {
+   "from": 29.22,
+   "to": 31.3,
+   "sid": 16,
+   "location": 2,
+   "content": "感受到真感受到了有些小细节",
+   "music": 0
+  },
+  {
+   "from": 31.3,
+   "to": 32.34,
+   "sid": 17,
+   "location": 2,
+   "content": "如果你能改变的话",
+   "music": 0.32692304548817114
+  },
+  {
+   "from": 32.34,
+   "to": 33.14,
+   "sid": 18,
+   "location": 2,
+   "content": "可能修正的话",
+   "music": 0.049999993749999895
+  },
+  {
+   "from": 33.14,
+   "to": 34.26,
+   "sid": 19,
+   "location": 2,
+   "content": "我觉得你会越来越",
+   "music": 0
+  },
+  {
+   "from": 34.26,
+   "to": 35.06,
+   "sid": 20,
+   "location": 2,
+   "content": "我有个问题",
+   "music": 0
+  },
+  {
+   "from": 35.06,
+   "to": 36.78,
+   "sid": 21,
+   "location": 2,
+   "content": "我接球投就会特别准",
+   "music": 0
+  },
+  {
+   "from": 36.78,
+   "to": 37.66,
+   "sid": 22,
+   "location": 2,
+   "content": "我这样一运起来",
+   "music": 0
+  },
+  {
+   "from": 37.66,
+   "to": 39.8,
+   "sid": 23,
+   "location": 2,
+   "content": "那就会下降的挺多",
+   "music": 0
+  },
+  {
+   "from": 39.8,
+   "to": 41.4,
+   "sid": 24,
+   "location": 2,
+   "content": "你自己感觉哪里不舒服",
+   "music": 0
+  },
+  {
+   "from": 41.4,
+   "to": 44.11,
+   "sid": 25,
+   "location": 2,
+   "content": "右边运球的时候起球会特别你出现了",
+   "music": 0
+  },
+  {
+   "from": 44.11,
+   "to": 45.45,
+   "sid": 26,
+   "location": 2,
+   "content": "看杨正的侧面",
+   "music": 0
+  },
+  {
+   "from": 45.45,
+   "to": 47.51,
+   "sid": 27,
+   "location": 2,
+   "content": "杨策他就在右边起球的时候",
+   "music": 0.31067959656895267
+  },
+  {
+   "from": 47.51,
+   "to": 48.91,
+   "sid": 28,
+   "location": 2,
+   "content": "他也会出现一个投篮",
+   "music": 0
+  },
+  {
+   "from": 48.91,
+   "to": 49.71,
+   "sid": 29,
+   "location": 2,
+   "content": "没有左边球",
+   "music": 0
+  },
+  {
+   "from": 49.71,
+   "to": 50.72,
+   "sid": 30,
+   "location": 2,
+   "content": "他这样哦",
+   "music": 0
+  },
+  {
+   "from": 50.72,
+   "to": 51.28,
+   "sid": 31,
+   "location": 2,
+   "content": "对我也很准",
+   "music": 0
+  },
+  {
+   "from": 51.28,
+   "to": 52.44,
+   "sid": 32,
+   "location": 2,
+   "content": "我看这样这样",
+   "music": 0
+  },
+  {
+   "from": 52.44,
+   "to": 54.76,
+   "sid": 33,
+   "location": 2,
+   "content": "首先来说球的位置一般都在核心位置",
+   "music": 0
+  },
+  {
+   "from": 54.76,
+   "to": 55.85,
+   "sid": 34,
+   "location": 2,
+   "content": "尤其是像低手位",
+   "music": 0.10869564035917087
+  },
+  {
+   "from": 55.85,
+   "to": 57.77,
+   "sid": 35,
+   "location": 2,
+   "content": "尽量不要把你的大臂展开",
+   "music": 0
+  },
+  {
+   "from": 57.77,
+   "to": 58.65,
+   "sid": 36,
+   "location": 2,
+   "content": "大臂收着点",
+   "music": 0.6704544692665368
+  },
+  {
+   "from": 58.65,
+   "to": 60.11,
+   "sid": 37,
+   "location": 2,
+   "content": "小臂回转",
+   "music": 0.9999998412698665
+  },
+  {
+   "from": 60.71,
+   "to": 63.49,
+   "sid": 38,
+   "location": 2,
+   "content": "你会发现这样搂球调整球会非常快",
+   "music": 0.38910504322548467
+  },
+  {
+   "from": 63.49,
+   "to": 65.35,
+   "sid": 39,
+   "location": 2,
+   "content": "还有一个这个动作做完之后",
+   "music": 0.09677418834547016
+  },
+  {
+   "from": 65.35,
+   "to": 69.07,
+   "sid": 40,
+   "location": 2,
+   "content": "你要保证你的合球的一瞬间动作要整一点",
+   "music": 0
+  },
+  {
+   "from": 69.07,
+   "to": 70.67,
+   "sid": 41,
+   "location": 2,
+   "content": "什么时候脚蹬上地了",
+   "music": 0
+  },
+  {
+   "from": 70.67,
+   "to": 71.27,
+   "sid": 42,
+   "location": 2,
+   "content": "再去合拳",
+   "music": 0
+  },
+  {
+   "from": 71.27,
+   "to": 71.95,
+   "sid": 43,
+   "location": 2,
+   "content": "找那个感觉",
+   "music": 0
+  },
+  {
+   "from": 71.95,
+   "to": 73.11,
+   "sid": 44,
+   "location": 2,
+   "content": "这是你训练的时候",
+   "music": 0
+  },
+  {
+   "from": 73.11,
+   "to": 74.91,
+   "sid": 45,
+   "location": 2,
+   "content": "比赛里你可以随意切换",
+   "music": 0
+  },
+  {
+   "from": 74.91,
+   "to": 79.41,
+   "sid": 46,
+   "location": 2,
+   "content": "但身拉住再做这个节奏就会好一点",
+   "music": 0
+  },
+  {
+   "from": 79.41,
+   "to": 80.79,
+   "sid": 47,
+   "location": 2,
+   "content": "老式手不太习惯",
+   "music": 0
+  },
+  {
+   "from": 80.79,
+   "to": 86.3,
+   "sid": 48,
+   "location": 2,
+   "content": "就是哦可以可以在所有球运球的时候",
+   "music": 0.04363636204958871
+  },
+  {
+   "from": 86.3,
+   "to": 88.38,
+   "sid": 49,
+   "location": 2,
+   "content": "很多人在纠结这球怎么能拿的舒服",
+   "music": 0
+  },
+  {
+   "from": 88.38,
+   "to": 89.91,
+   "sid": 50,
+   "location": 2,
+   "content": "只要你脚踩舒服",
+   "music": 0
+  },
+  {
+   "from": 90.47,
+   "to": 92.17,
+   "sid": 51,
+   "location": 2,
+   "content": "看中间有拉投篮特结束",
+   "music": 0
+  },
+  {
+   "from": 92.17,
+   "to": 92.65,
+   "sid": 52,
+   "location": 2,
+   "content": "OK吗",
+   "music": 0
+  },
+  {
+   "from": 92.65,
+   "to": 94.009,
+   "sid": 53,
+   "location": 2,
+   "content": "可以谢谢勇哥",
+   "music": 0
+  },
+  {
+   "from": 94.009,
+   "to": 95.749,
+   "sid": 54,
+   "location": 2,
+   "content": "刚才看你训练确实准啊",
+   "music": 0
+  },
+  {
+   "from": 95.749,
+   "to": 97.609,
+   "sid": 55,
+   "location": 2,
+   "content": "我觉得我比浩哥准一点",
+   "music": 0
+  },
+  {
+   "from": 97.609,
+   "to": 98.169,
+   "sid": 56,
+   "location": 2,
+   "content": "三分啊",
+   "music": 0
+  },
+  {
+   "from": 98.169,
+   "to": 99.809,
+   "sid": 57,
+   "location": 2,
+   "content": "在网上谁三分好一点",
+   "music": 0
+  },
+  {
+   "from": 99.809,
+   "to": 100.509,
+   "sid": 58,
+   "location": 2,
+   "content": "臭伟哥",
+   "music": 0
+  },
+  {
+   "from": 100.509,
+   "to": 101.769,
+   "sid": 59,
+   "location": 2,
+   "content": "你三分要比他准",
+   "music": 0
+  },
+  {
+   "from": 101.769,
+   "to": 102.689,
+   "sid": 60,
+   "location": 2,
+   "content": "你就搁你了",
+   "music": 0
+  },
+  {
+   "from": 102.689,
+   "to": 103.88,
+   "sid": 61,
+   "location": 2,
+   "content": "我要超越你了",
+   "music": 0
+  }
+ ]
+}

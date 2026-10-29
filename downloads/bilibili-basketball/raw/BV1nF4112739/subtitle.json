@@ -1,0 +1,292 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0.06,
+   "to": 0.9,
+   "sid": 1,
+   "location": 2,
+   "content": "到球场别改",
+   "music": 0
+  },
+  {
+   "from": 0.9,
+   "to": 2.82,
+   "sid": 2,
+   "location": 2,
+   "content": "那嘎下头把这几个动作整完",
+   "music": 0
+  },
+  {
+   "from": 2.82,
+   "to": 4.32,
+   "sid": 3,
+   "location": 2,
+   "content": "你再试试第一个动作啊",
+   "music": 0
+  },
+  {
+   "from": 4.32,
+   "to": 5.34,
+   "sid": 4,
+   "location": 2,
+   "content": "扔球拉回",
+   "music": 0
+  },
+  {
+   "from": 5.34,
+   "to": 7.14,
+   "sid": 5,
+   "location": 2,
+   "content": "把球扔在脚尖正前方",
+   "music": 0
+  },
+  {
+   "from": 7.14,
+   "to": 8.58,
+   "sid": 6,
+   "location": 2,
+   "content": "身体和脚不要移动",
+   "music": 0
+  },
+  {
+   "from": 8.58,
+   "to": 10.44,
+   "sid": 7,
+   "location": 2,
+   "content": "然后用另一只手把球拉回来",
+   "music": 0
+  },
+  {
+   "from": 10.44,
+   "to": 12.14,
+   "sid": 8,
+   "location": 2,
+   "content": "落球的位置在裤裆中间",
+   "music": 0
+  },
+  {
+   "from": 12.14,
+   "to": 13.76,
+   "sid": 9,
+   "location": 2,
+   "content": "站的时候记得站宽点",
+   "music": 0
+  },
+  {
+   "from": 13.76,
+   "to": 15.14,
+   "sid": 10,
+   "location": 2,
+   "content": "别像迈不开刀似的",
+   "music": 0
+  },
+  {
+   "from": 15.14,
+   "to": 16.28,
+   "sid": 11,
+   "location": 2,
+   "content": "一边给我整十次",
+   "music": 0
+  },
+  {
+   "from": 16.28,
+   "to": 17.15,
+   "sid": 12,
+   "location": 2,
+   "content": "然后不用停",
+   "music": 0
+  },
+  {
+   "from": 17.15,
+   "to": 18.76,
+   "sid": 13,
+   "location": 2,
+   "content": "直接衔接下一个动作",
+   "music": 0
+  },
+  {
+   "from": 18.76,
+   "to": 20.38,
+   "sid": 14,
+   "location": 2,
+   "content": "同侧手前后运球",
+   "music": 0
+  },
+  {
+   "from": 20.38,
+   "to": 21.22,
+   "sid": 15,
+   "location": 2,
+   "content": "然后拉回来",
+   "music": 0
+  },
+  {
+   "from": 21.22,
+   "to": 22.84,
+   "sid": 16,
+   "location": 2,
+   "content": "另一侧重复这个动作",
+   "music": 0
+  },
+  {
+   "from": 22.84,
+   "to": 24.7,
+   "sid": 17,
+   "location": 2,
+   "content": "身体是可以左右摆动的",
+   "music": 0
+  },
+  {
+   "from": 24.7,
+   "to": 26.36,
+   "sid": 18,
+   "location": 2,
+   "content": "但是脚的位置不能移动",
+   "music": 0
+  },
+  {
+   "from": 26.36,
+   "to": 27.47,
+   "sid": 19,
+   "location": 2,
+   "content": "整十次就行",
+   "music": 0
+  },
+  {
+   "from": 27.47,
+   "to": 28.37,
+   "sid": 20,
+   "location": 2,
+   "content": "还是不要停",
+   "music": 0
+  },
+  {
+   "from": 28.37,
+   "to": 29.69,
+   "sid": 21,
+   "location": 2,
+   "content": "直接整下一个动作",
+   "music": 0
+  },
+  {
+   "from": 29.69,
+   "to": 31.38,
+   "sid": 22,
+   "location": 2,
+   "content": "燕out他提前拉回",
+   "music": 0
+  },
+  {
+   "from": 31.38,
+   "to": 33,
+   "sid": 23,
+   "location": 2,
+   "content": "先做一个AI out",
+   "music": 0
+  },
+  {
+   "from": 33,
+   "to": 34.48,
+   "sid": 24,
+   "location": 2,
+   "content": "衔接一个V字运球",
+   "music": 0
+  },
+  {
+   "from": 34.48,
+   "to": 35.92,
+   "sid": 25,
+   "location": 2,
+   "content": "然后在原地运一下球",
+   "music": 0
+  },
+  {
+   "from": 35.92,
+   "to": 37.72,
+   "sid": 26,
+   "location": 2,
+   "content": "用另一只手把球拉回去",
+   "music": 0
+  },
+  {
+   "from": 37.72,
+   "to": 39.16,
+   "sid": 27,
+   "location": 2,
+   "content": "注意配合脚步移动",
+   "music": 0
+  },
+  {
+   "from": 39.16,
+   "to": 40.88,
+   "sid": 28,
+   "location": 2,
+   "content": "然后衔接最后一个动作",
+   "music": 0
+  },
+  {
+   "from": 40.88,
+   "to": 42.92,
+   "sid": 29,
+   "location": 2,
+   "content": "胯下背后拉回背后",
+   "music": 0
+  },
+  {
+   "from": 42.92,
+   "to": 44.12,
+   "sid": 30,
+   "location": 2,
+   "content": "运球的时候注意啊",
+   "music": 0
+  },
+  {
+   "from": 44.12,
+   "to": 45.32,
+   "sid": 31,
+   "location": 2,
+   "content": "把脚丫子往后放",
+   "music": 0
+  },
+  {
+   "from": 45.32,
+   "to": 47.56,
+   "sid": 32,
+   "location": 2,
+   "content": "这样水才能让位移距离最大化",
+   "music": 0
+  },
+  {
+   "from": 47.56,
+   "to": 49.12,
+   "sid": 33,
+   "location": 2,
+   "content": "鞋垫子都能给你晃飞",
+   "music": 0
+  },
+  {
+   "from": 49.12,
+   "to": 50.89,
+   "sid": 34,
+   "location": 2,
+   "content": "训练表给你们列出来了啊",
+   "music": 0
+  },
+  {
+   "from": 50.89,
+   "to": 52.78,
+   "sid": 35,
+   "location": 2,
+   "content": "屏幕帮忙怼过两下子",
+   "music": 0
+  }
+ ]
+}

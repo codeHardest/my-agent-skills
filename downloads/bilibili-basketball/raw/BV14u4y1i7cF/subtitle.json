@@ -1,0 +1,68 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 2.22,
+   "sid": 1,
+   "location": 2,
+   "content": "有兄弟问什么是节奏快慢变化",
+   "music": 0
+  },
+  {
+   "from": 2.22,
+   "to": 3.42,
+   "sid": 2,
+   "location": 2,
+   "content": "让对手捉摸不透",
+   "music": 0
+  },
+  {
+   "from": 3.42,
+   "to": 5.2,
+   "sid": 3,
+   "location": 2,
+   "content": "我们先做一个慢节奏的推球",
+   "music": 0
+  },
+  {
+   "from": 5.2,
+   "to": 7.6,
+   "sid": 4,
+   "location": 2,
+   "content": "再迅速做一个胯下切换进攻方向",
+   "music": 0
+  },
+  {
+   "from": 7.6,
+   "to": 9.4,
+   "sid": 5,
+   "location": 2,
+   "content": "一个胯下加速就把对手过掉",
+   "music": 0
+  },
+  {
+   "from": 9.4,
+   "to": 10.41,
+   "sid": 6,
+   "location": 2,
+   "content": "如此措不及防",
+   "music": 0.2673267062052762
+  },
+  {
+   "from": 10.41,
+   "to": 11.22,
+   "sid": 7,
+   "location": 2,
+   "content": "继续给我练",
+   "music": 0.6296295518975856
+  }
+ ]
+}

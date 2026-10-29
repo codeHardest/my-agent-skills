@@ -1,0 +1,140 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 0.06,
+   "to": 1.83,
+   "sid": 1,
+   "location": 2,
+   "content": "为什么三分适合颠投",
+   "music": 0
+  },
+  {
+   "from": 1.83,
+   "to": 3.42,
+   "sid": 2,
+   "location": 2,
+   "content": "中距离适合跳投呢",
+   "music": 0
+  },
+  {
+   "from": 3.42,
+   "to": 5.46,
+   "sid": 3,
+   "location": 2,
+   "content": "三分球的出手空间更大",
+   "music": 0
+  },
+  {
+   "from": 5.46,
+   "to": 7.75,
+   "sid": 4,
+   "location": 2,
+   "content": "并且对身体素质的要求不高",
+   "music": 0
+  },
+  {
+   "from": 7.75,
+   "to": 9.79,
+   "sid": 5,
+   "location": 2,
+   "content": "中距离的投篮空间较小",
+   "music": 0
+  },
+  {
+   "from": 9.79,
+   "to": 11.83,
+   "sid": 6,
+   "location": 2,
+   "content": "跳投更容易制造投篮空间",
+   "music": 0
+  },
+  {
+   "from": 11.83,
+   "to": 13.76,
+   "sid": 7,
+   "location": 2,
+   "content": "两种不一样的投篮模式",
+   "music": 0
+  },
+  {
+   "from": 13.76,
+   "to": 14.9,
+   "sid": 8,
+   "location": 2,
+   "content": "想要自由切换",
+   "music": 0
+  },
+  {
+   "from": 14.9,
+   "to": 16.43,
+   "sid": 9,
+   "location": 2,
+   "content": "可以试试下面这个训练",
+   "music": 0
+  },
+  {
+   "from": 16.43,
+   "to": 19.01,
+   "sid": 10,
+   "location": 2,
+   "content": "三分线罚球线两侧的45度",
+   "music": 0
+  },
+  {
+   "from": 19.01,
+   "to": 22,
+   "sid": 11,
+   "location": 2,
+   "content": "采用颠投和中距离跳投的方式",
+   "music": 0
+  },
+  {
+   "from": 22,
+   "to": 23.56,
+   "sid": 12,
+   "location": 2,
+   "content": "连续进四个球",
+   "music": 0
+  },
+  {
+   "from": 23.56,
+   "to": 25.57,
+   "sid": 13,
+   "location": 2,
+   "content": "连续进四个球为一组",
+   "music": 0
+  },
+  {
+   "from": 25.57,
+   "to": 27.13,
+   "sid": 14,
+   "location": 2,
+   "content": "完成五组的训练",
+   "music": 0
+  },
+  {
+   "from": 27.13,
+   "to": 28.42,
+   "sid": 15,
+   "location": 2,
+   "content": "坚持一段时间之后",
+   "music": 0
+  },
+  {
+   "from": 28.42,
+   "to": 32.57,
+   "sid": 16,
+   "location": 2,
+   "content": "你会发现三分和中距离都将得心应手",
+   "music": 0.15789473246829008
+  }
+ ]
+}

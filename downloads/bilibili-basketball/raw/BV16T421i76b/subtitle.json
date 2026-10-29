@@ -1,0 +1,612 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.36,
+   "to": 1.48,
+   "sid": 1,
+   "location": 2,
+   "content": "这两种运球",
+   "music": 0
+  },
+  {
+   "from": 1.48,
+   "to": 3.6,
+   "sid": 2,
+   "location": 2,
+   "content": "你觉得哪种运球比较厉害",
+   "music": 0
+  },
+  {
+   "from": 3.6,
+   "to": 6.47,
+   "sid": 3,
+   "location": 2,
+   "content": "第一种胯下背运原地炒菜老厨师",
+   "music": 0
+  },
+  {
+   "from": 6.47,
+   "to": 9.23,
+   "sid": 4,
+   "location": 2,
+   "content": "第二种脚步伴随快慢节奏变换",
+   "music": 0
+  },
+  {
+   "from": 9.23,
+   "to": 11.059,
+   "sid": 5,
+   "location": 2,
+   "content": "拜佛转身无缝衔接",
+   "music": 0
+  },
+  {
+   "from": 11.059,
+   "to": 11.739,
+   "sid": 6,
+   "location": 2,
+   "content": "很明显",
+   "music": 0
+  },
+  {
+   "from": 11.739,
+   "to": 13.259,
+   "sid": 7,
+   "location": 2,
+   "content": "第二种更有诱导性",
+   "music": 0
+  },
+  {
+   "from": 13.259,
+   "to": 16.579,
+   "sid": 8,
+   "location": 2,
+   "content": "如何才能练到这种角球手三位一体的程度",
+   "music": 0
+  },
+  {
+   "from": 16.579,
+   "to": 18.66,
+   "sid": 9,
+   "location": 2,
+   "content": "今天这十个动作告诉你",
+   "music": 0
+  },
+  {
+   "from": 18.66,
+   "to": 20.369,
+   "sid": 10,
+   "location": 2,
+   "content": "赶紧收藏练起来",
+   "music": 0
+  },
+  {
+   "from": 20.369,
+   "to": 22.489,
+   "sid": 11,
+   "location": 2,
+   "content": "一开合跳胯下运球",
+   "music": 0
+  },
+  {
+   "from": 22.489,
+   "to": 23.949,
+   "sid": 12,
+   "location": 2,
+   "content": "运球的时候不弯腰",
+   "music": 0
+  },
+  {
+   "from": 23.949,
+   "to": 25.429,
+   "sid": 13,
+   "location": 2,
+   "content": "保持高重心运球",
+   "music": 0
+  },
+  {
+   "from": 25.429,
+   "to": 26.969,
+   "sid": 14,
+   "location": 2,
+   "content": "这动作看起来简单",
+   "music": 0
+  },
+  {
+   "from": 26.969,
+   "to": 28.14,
+   "sid": 15,
+   "location": 2,
+   "content": "实际很有难度",
+   "music": 0
+  },
+  {
+   "from": 28.14,
+   "to": 30.02,
+   "sid": 16,
+   "location": 2,
+   "content": "能做到这个动作已经战胜了",
+   "music": 0
+  },
+  {
+   "from": 30.02,
+   "to": 31.84,
+   "sid": 17,
+   "location": 2,
+   "content": "评论区70%的兄弟",
+   "music": 0
+  },
+  {
+   "from": 31.84,
+   "to": 33.92,
+   "sid": 18,
+   "location": 2,
+   "content": "二开合跳背后运球",
+   "music": 0.0941176415224897
+  },
+  {
+   "from": 33.92,
+   "to": 34.9,
+   "sid": 19,
+   "location": 2,
+   "content": "保持高重心",
+   "music": 0
+  },
+  {
+   "from": 34.9,
+   "to": 37.3,
+   "sid": 20,
+   "location": 2,
+   "content": "背后运球难度和上一个差不多",
+   "music": 0
+  },
+  {
+   "from": 37.3,
+   "to": 38.8,
+   "sid": 21,
+   "location": 2,
+   "content": "主要是高重心运球",
+   "music": 0
+  },
+  {
+   "from": 38.8,
+   "to": 40.8,
+   "sid": 22,
+   "location": 2,
+   "content": "很考验臂力和悬浮球能力",
+   "music": 0
+  },
+  {
+   "from": 40.8,
+   "to": 42.08,
+   "sid": 23,
+   "location": 2,
+   "content": "三开合跳",
+   "music": 0
+  },
+  {
+   "from": 42.08,
+   "to": 43.629,
+   "sid": 24,
+   "location": 2,
+   "content": "胯下接低重心运球",
+   "music": 0
+  },
+  {
+   "from": 43.629,
+   "to": 45.409,
+   "sid": 25,
+   "location": 2,
+   "content": "高低运球重心的变换",
+   "music": 0
+  },
+  {
+   "from": 45.409,
+   "to": 47.509,
+   "sid": 26,
+   "location": 2,
+   "content": "这个动作在第一个动作基础上",
+   "music": 0
+  },
+  {
+   "from": 47.509,
+   "to": 49.349,
+   "sid": 27,
+   "location": 2,
+   "content": "增加了低重心运球的变化",
+   "music": 0
+  },
+  {
+   "from": 49.349,
+   "to": 50.16,
+   "sid": 28,
+   "location": 2,
+   "content": "熟练之后",
+   "music": 0
+  },
+  {
+   "from": 50.16,
+   "to": 53.04,
+   "sid": 29,
+   "location": 2,
+   "content": "通过单纯的高低重心运球都能过人",
+   "music": 0
+  },
+  {
+   "from": 53.04,
+   "to": 53.96,
+   "sid": 30,
+   "location": 2,
+   "content": "一个出其不意",
+   "music": 0
+  },
+  {
+   "from": 56.24,
+   "to": 58.35,
+   "sid": 31,
+   "location": 2,
+   "content": "四左胯下右跳步运球",
+   "music": 0
+  },
+  {
+   "from": 58.35,
+   "to": 61.05,
+   "sid": 32,
+   "location": 2,
+   "content": "这个脚步我常用野球场非常有效",
+   "music": 0
+  },
+  {
+   "from": 61.05,
+   "to": 63.86,
+   "sid": 33,
+   "location": 2,
+   "content": "胯下或体前变向之后往另一侧跳步",
+   "music": 0
+  },
+  {
+   "from": 63.86,
+   "to": 66.42,
+   "sid": 34,
+   "location": 2,
+   "content": "这个脚步能把防守者定在原地",
+   "music": 0
+  },
+  {
+   "from": 66.42,
+   "to": 68.8,
+   "sid": 35,
+   "location": 2,
+   "content": "五左背运右跳步运球",
+   "music": 0
+  },
+  {
+   "from": 68.8,
+   "to": 69.76,
+   "sid": 36,
+   "location": 2,
+   "content": "上一个动作",
+   "music": 0
+  },
+  {
+   "from": 69.76,
+   "to": 70.92,
+   "sid": 37,
+   "location": 2,
+   "content": "胯下变成备孕",
+   "music": 0
+  },
+  {
+   "from": 70.92,
+   "to": 73.78,
+   "sid": 38,
+   "location": 2,
+   "content": "毕竟备孕的帅气是胯下无法比拟的",
+   "music": 0
+  },
+  {
+   "from": 73.78,
+   "to": 75.97,
+   "sid": 39,
+   "location": 2,
+   "content": "六反向运球刺探步",
+   "music": 0
+  },
+  {
+   "from": 75.97,
+   "to": 78.29,
+   "sid": 40,
+   "location": 2,
+   "content": "胯下的方向和跳步的方向相反",
+   "music": 0
+  },
+  {
+   "from": 78.29,
+   "to": 80.81,
+   "sid": 41,
+   "location": 2,
+   "content": "把你的炒菜运球变成这个对手",
+   "music": 0
+  },
+  {
+   "from": 80.81,
+   "to": 81.57,
+   "sid": 42,
+   "location": 2,
+   "content": "绝对懵逼",
+   "music": 0
+  },
+  {
+   "from": 81.57,
+   "to": 83.53,
+   "sid": 43,
+   "location": 2,
+   "content": "起反向抽出运球",
+   "music": 0
+  },
+  {
+   "from": 83.53,
+   "to": 85.97,
+   "sid": 44,
+   "location": 2,
+   "content": "在前面的动作基础上变化节奏",
+   "music": 0
+  },
+  {
+   "from": 85.97,
+   "to": 87.67,
+   "sid": 45,
+   "location": 2,
+   "content": "大变向换成小抽搐",
+   "music": 0
+  },
+  {
+   "from": 87.67,
+   "to": 89.98,
+   "sid": 46,
+   "location": 2,
+   "content": "如果你先用上一个动作戏耍对方",
+   "music": 0
+  },
+  {
+   "from": 89.98,
+   "to": 92.78,
+   "sid": 47,
+   "location": 2,
+   "content": "接着用这个动作防守直接崩溃",
+   "music": 0
+  },
+  {
+   "from": 92.78,
+   "to": 94.779,
+   "sid": 48,
+   "location": 2,
+   "content": "八冲刺胯下运球",
+   "music": 0
+  },
+  {
+   "from": 94.779,
+   "to": 96.579,
+   "sid": 49,
+   "location": 2,
+   "content": "口袋运球快速冲刺两步",
+   "music": 0
+  },
+  {
+   "from": 96.579,
+   "to": 99.419,
+   "sid": 50,
+   "location": 2,
+   "content": "胯下回拉这个动作主要练习脚步的变化",
+   "music": 0
+  },
+  {
+   "from": 99.419,
+   "to": 101.059,
+   "sid": 51,
+   "location": 2,
+   "content": "一步一运球变成两步一",
+   "music": 0
+  },
+  {
+   "from": 101.059,
+   "to": 102.099,
+   "sid": 52,
+   "location": 2,
+   "content": "胯下回拉",
+   "music": 0.1528846006841779
+  },
+  {
+   "from": 102.099,
+   "to": 103.54,
+   "sid": 53,
+   "location": 2,
+   "content": "八冲刺",
+   "music": 0.16439598870154282
+  },
+  {
+   "from": 103.54,
+   "to": 104.64,
+   "sid": 54,
+   "location": 2,
+   "content": "胯下回拉变向",
+   "music": 0
+  },
+  {
+   "from": 104.64,
+   "to": 107.86,
+   "sid": 55,
+   "location": 2,
+   "content": "这个动作做完是否感觉自己运球灵动了不少",
+   "music": 0
+  },
+  {
+   "from": 109.3,
+   "to": 111.64,
+   "sid": 56,
+   "location": 2,
+   "content": "九胯下瞬间小提琴变向",
+   "music": 0
+  },
+  {
+   "from": 111.64,
+   "to": 113.7,
+   "sid": 57,
+   "location": 2,
+   "content": "这个动作变向幅度非常大",
+   "music": 0
+  },
+  {
+   "from": 113.7,
+   "to": 114.44,
+   "sid": 58,
+   "location": 2,
+   "content": "在野球场",
+   "music": 0
+  },
+  {
+   "from": 114.44,
+   "to": 116.28,
+   "sid": 59,
+   "location": 2,
+   "content": "即使你不断重复这个动作",
+   "music": 0
+  },
+  {
+   "from": 116.28,
+   "to": 117.42,
+   "sid": 60,
+   "location": 2,
+   "content": "都能把人晃晕",
+   "music": 0
+  },
+  {
+   "from": 117.42,
+   "to": 122.6,
+   "sid": 61,
+   "location": 2,
+   "content": "队友都不敢说你毒十反向四步简单高效的动作",
+   "music": 0.09251101117817209
+  },
+  {
+   "from": 122.6,
+   "to": 124.74,
+   "sid": 62,
+   "location": 2,
+   "content": "但是要注意高低运球的变化",
+   "music": 0
+  },
+  {
+   "from": 124.74,
+   "to": 127.33,
+   "sid": 63,
+   "location": 2,
+   "content": "一开始高重心运球四步的那一下",
+   "music": 0
+  },
+  {
+   "from": 127.33,
+   "to": 128.45,
+   "sid": 64,
+   "location": 2,
+   "content": "重心快速放低",
+   "music": 0
+  },
+  {
+   "from": 128.45,
+   "to": 129.23,
+   "sid": 65,
+   "location": 2,
+   "content": "动作加快",
+   "music": 0
+  },
+  {
+   "from": 129.23,
+   "to": 131.29,
+   "sid": 66,
+   "location": 2,
+   "content": "这样才有晃人的效果",
+   "music": 0
+  },
+  {
+   "from": 131.29,
+   "to": 133.17,
+   "sid": 67,
+   "location": 2,
+   "content": "这十个动作都能做30组",
+   "music": 0
+  },
+  {
+   "from": 133.17,
+   "to": 134.05,
+   "sid": 68,
+   "location": 2,
+   "content": "不掉球之后",
+   "music": 0
+  },
+  {
+   "from": 134.05,
+   "to": 136.08,
+   "sid": 69,
+   "location": 2,
+   "content": "你就可以去野球场freestyle了",
+   "music": 0
+  },
+  {
+   "from": 136.08,
+   "to": 137.3,
+   "sid": 70,
+   "location": 2,
+   "content": "进不进球无所谓",
+   "music": 0
+  },
+  {
+   "from": 137.3,
+   "to": 138.48,
+   "sid": 71,
+   "location": 2,
+   "content": "运球帅就完了",
+   "music": 0
+  },
+  {
+   "from": 138.48,
+   "to": 139.56,
+   "sid": 72,
+   "location": 2,
+   "content": "你学会了吗",
+   "music": 0
+  },
+  {
+   "from": 139.56,
+   "to": 140.28,
+   "sid": 73,
+   "location": 2,
+   "content": "转发给你",
+   "music": 0
+  },
+  {
+   "from": 140.28,
+   "to": 141.64,
+   "sid": 74,
+   "location": 2,
+   "content": "又菜又爱运球的兄弟",
+   "music": 0
+  },
+  {
+   "from": 141.64,
+   "to": 142.6,
+   "sid": 75,
+   "location": 2,
+   "content": "练起来",
+   "music": 0
+  }
+ ]
+}

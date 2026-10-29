@@ -1,0 +1,3044 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "eng-1.2.0-index2.5",
+ "body": [
+  {
+   "from": 0.08,
+   "to": 3.3,
+   "content": "脚步慢快",
+   "music": 0,
+   "sid": 1,
+   "location": 2
+  },
+  {
+   "from": 3.3,
+   "to": 3.68,
+   "content": "好的",
+   "music": 0,
+   "sid": 2,
+   "location": 2
+  },
+  {
+   "from": 3.68,
+   "to": 6.32,
+   "content": "我们就练慢到快动作",
+   "music": 0,
+   "sid": 3,
+   "location": 2
+  },
+  {
+   "from": 13.88,
+   "to": 15.78,
+   "content": "只需移动这个球",
+   "music": 0,
+   "sid": 4,
+   "location": 2
+  },
+  {
+   "from": 15.78,
+   "to": 17.08,
+   "content": "我在动我的臀部",
+   "music": 0,
+   "sid": 5,
+   "location": 2
+  },
+  {
+   "from": 17.08,
+   "to": 20.6,
+   "content": "肩膀和球，球不能在臀部",
+   "music": 0,
+   "sid": 6,
+   "location": 2
+  },
+  {
+   "from": 20.6,
+   "to": 20.96,
+   "content": "好的",
+   "music": 0,
+   "sid": 7,
+   "location": 2
+  },
+  {
+   "from": 20.96,
+   "to": 22.08,
+   "content": "当我向左向右",
+   "music": 0,
+   "sid": 8,
+   "location": 2
+  },
+  {
+   "from": 22.08,
+   "to": 22.6,
+   "content": "好吧",
+   "music": 0,
+   "sid": 9,
+   "location": 2
+  },
+  {
+   "from": 22.6,
+   "to": 23.78,
+   "content": "真正防守",
+   "music": 0,
+   "sid": 10,
+   "location": 2
+  },
+  {
+   "from": 23.78,
+   "to": 24.32,
+   "content": "好的",
+   "music": 0,
+   "sid": 11,
+   "location": 2
+  },
+  {
+   "from": 24.32,
+   "to": 26.9,
+   "content": "像真的一样，给我装备",
+   "music": 0,
+   "sid": 12,
+   "location": 2
+  },
+  {
+   "from": 26.9,
+   "to": 27.88,
+   "content": "我在这里",
+   "music": 0,
+   "sid": 13,
+   "location": 2
+  },
+  {
+   "from": 27.88,
+   "to": 28.44,
+   "content": "好的",
+   "music": 0,
+   "sid": 14,
+   "location": 2
+  },
+  {
+   "from": 28.44,
+   "to": 28.94,
+   "content": "就在这里",
+   "music": 0,
+   "sid": 15,
+   "location": 2
+  },
+  {
+   "from": 28.94,
+   "to": 30.16,
+   "content": "他已经移动脚步",
+   "music": 0,
+   "sid": 16,
+   "location": 2
+  },
+  {
+   "from": 30.16,
+   "to": 33.12,
+   "content": "我让他落了一步，甚至不用运球",
+   "music": 0,
+   "sid": 17,
+   "location": 2
+  },
+  {
+   "from": 33.12,
+   "to": 34.08,
+   "content": "这是第一件事",
+   "music": 0,
+   "sid": 18,
+   "location": 2
+  },
+  {
+   "from": 34.08,
+   "to": 35.76,
+   "content": "所以在这里我想要右",
+   "music": 0,
+   "sid": 19,
+   "location": 2
+  },
+  {
+   "from": 35.76,
+   "to": 36.64,
+   "content": "左脚",
+   "music": 0,
+   "sid": 20,
+   "location": 2
+  },
+  {
+   "from": 36.64,
+   "to": 38.28,
+   "content": "左脚右耳",
+   "music": 0,
+   "sid": 21,
+   "location": 2
+  },
+  {
+   "from": 38.28,
+   "to": 39.86,
+   "content": "我们只是移动水平",
+   "music": 0,
+   "sid": 22,
+   "location": 2
+  },
+  {
+   "from": 39.86,
+   "to": 41.519,
+   "content": "我们向下向上",
+   "music": 0,
+   "sid": 23,
+   "location": 2
+  },
+  {
+   "from": 41.519,
+   "to": 45.9,
+   "content": "好的，一旦你看到防守者手放下",
+   "music": 0,
+   "sid": 24,
+   "location": 2
+  },
+  {
+   "from": 46.22,
+   "to": 46.62,
+   "content": "好的",
+   "music": 0,
+   "sid": 25,
+   "location": 2
+  },
+  {
+   "from": 46.62,
+   "to": 47.66,
+   "content": "我们只是拿到球",
+   "music": 0,
+   "sid": 26,
+   "location": 2
+  },
+  {
+   "from": 47.66,
+   "to": 48.14,
+   "content": "好的",
+   "music": 0,
+   "sid": 27,
+   "location": 2
+  },
+  {
+   "from": 48.14,
+   "to": 49.5,
+   "content": "快速拉起",
+   "music": 0,
+   "sid": 28,
+   "location": 2
+  },
+  {
+   "from": 49.5,
+   "to": 50.02,
+   "content": "好的",
+   "music": 0,
+   "sid": 29,
+   "location": 2
+  },
+  {
+   "from": 50.02,
+   "to": 50.62,
+   "content": "教练",
+   "music": 0,
+   "sid": 30,
+   "location": 2
+  },
+  {
+   "from": 50.62,
+   "to": 52.22,
+   "content": "你有最好的防守手",
+   "music": 0,
+   "sid": 31,
+   "location": 2
+  },
+  {
+   "from": 52.22,
+   "to": 53,
+   "content": "拿着",
+   "music": 0,
+   "sid": 32,
+   "location": 2
+  },
+  {
+   "from": 53,
+   "to": 54.22,
+   "content": "他会锁住",
+   "music": 0,
+   "sid": 33,
+   "location": 2
+  },
+  {
+   "from": 54.22,
+   "to": 55.17,
+   "content": "不用运球",
+   "music": 0,
+   "sid": 34,
+   "location": 2
+  },
+  {
+   "from": 55.17,
+   "to": 56.65,
+   "content": "我们去三分线",
+   "music": 0,
+   "sid": 35,
+   "location": 2
+  },
+  {
+   "from": 58.17,
+   "to": 58.51,
+   "content": "好的",
+   "music": 0,
+   "sid": 36,
+   "location": 2
+  },
+  {
+   "from": 58.51,
+   "to": 59.49,
+   "content": "随时准备好",
+   "music": 0,
+   "sid": 37,
+   "location": 2
+  },
+  {
+   "from": 59.49,
+   "to": 61.81,
+   "content": "你有那个触发投篮",
+   "music": 0,
+   "sid": 38,
+   "location": 2
+  },
+  {
+   "from": 65.28,
+   "to": 65.88,
+   "content": "是的",
+   "music": 0,
+   "sid": 39,
+   "location": 2
+  },
+  {
+   "from": 66.92,
+   "to": 67.76,
+   "content": "我们做到了",
+   "music": 0,
+   "sid": 40,
+   "location": 2
+  },
+  {
+   "from": 67.76,
+   "to": 68.28,
+   "content": "是的",
+   "music": 0,
+   "sid": 41,
+   "location": 2
+  },
+  {
+   "from": 68.28,
+   "to": 71.1,
+   "content": "你得先封住才能做到",
+   "music": 0,
+   "sid": 42,
+   "location": 2
+  },
+  {
+   "from": 74.72,
+   "to": 76.64,
+   "content": "然后整个团队听着",
+   "music": 0,
+   "sid": 43,
+   "location": 2
+  },
+  {
+   "from": 77.64,
+   "to": 80.729,
+   "content": "是团队投篮，团队投篮",
+   "music": 0,
+   "sid": 44,
+   "location": 2
+  },
+  {
+   "from": 80.729,
+   "to": 81.649,
+   "content": "所以",
+   "music": 0,
+   "sid": 45,
+   "location": 2
+  },
+  {
+   "from": 81.649,
+   "to": 82.429,
+   "content": "如果我的动作像这样",
+   "music": 0,
+   "sid": 46,
+   "location": 2
+  },
+  {
+   "from": 82.429,
+   "to": 83.889,
+   "content": "像这样",
+   "music": 0,
+   "sid": 47,
+   "location": 2
+  },
+  {
+   "from": 83.889,
+   "to": 84.409,
+   "content": "我们直播",
+   "music": 0,
+   "sid": 48,
+   "location": 2
+  },
+  {
+   "from": 84.409,
+   "to": 85.309,
+   "content": "一切都直播",
+   "music": 0,
+   "sid": 49,
+   "location": 2
+  },
+  {
+   "from": 85.309,
+   "to": 86.069,
+   "content": "我们在这里",
+   "music": 0,
+   "sid": 50,
+   "location": 2
+  },
+  {
+   "from": 86.069,
+   "to": 87.83,
+   "content": "我在做这事",
+   "music": 0,
+   "sid": 51,
+   "location": 2
+  },
+  {
+   "from": 88.11,
+   "to": 89.03,
+   "content": "绝不可能",
+   "music": 0,
+   "sid": 52,
+   "location": 2
+  },
+  {
+   "from": 89.03,
+   "to": 89.69,
+   "content": "我会尝试",
+   "music": 0,
+   "sid": 53,
+   "location": 2
+  },
+  {
+   "from": 89.69,
+   "to": 92.23,
+   "content": "每次都要更投入",
+   "music": 0,
+   "sid": 54,
+   "location": 2
+  },
+  {
+   "from": 92.23,
+   "to": 92.71,
+   "content": "是的",
+   "music": 0,
+   "sid": 55,
+   "location": 2
+  },
+  {
+   "from": 92.71,
+   "to": 94.05,
+   "content": "这是我的手",
+   "music": 0,
+   "sid": 56,
+   "location": 2
+  },
+  {
+   "from": 94.05,
+   "to": 94.69,
+   "content": "我在这里",
+   "music": 0,
+   "sid": 57,
+   "location": 2
+  },
+  {
+   "from": 94.69,
+   "to": 97.155,
+   "content": "砰，轻击",
+   "music": 0,
+   "sid": 58,
+   "location": 2
+  },
+  {
+   "from": 98.2,
+   "to": 99.86,
+   "content": "看他如何反应",
+   "music": 0,
+   "sid": 59,
+   "location": 2
+  },
+  {
+   "from": 99.86,
+   "to": 102.84,
+   "content": "因为他模仿我",
+   "music": 0,
+   "sid": 60,
+   "location": 2
+  },
+  {
+   "from": 102.84,
+   "to": 104.2,
+   "content": "我慢他也慢",
+   "music": 0,
+   "sid": 61,
+   "location": 2
+  },
+  {
+   "from": 104.2,
+   "to": 105.16,
+   "content": "我快他也快",
+   "music": 0,
+   "sid": 62,
+   "location": 2
+  },
+  {
+   "from": 105.16,
+   "to": 106.22,
+   "content": "我可以移动",
+   "music": 0,
+   "sid": 63,
+   "location": 2
+  },
+  {
+   "from": 106.22,
+   "to": 107.289,
+   "content": "把球移出",
+   "music": 0,
+   "sid": 64,
+   "location": 2
+  },
+  {
+   "from": 107.4,
+   "to": 109.82,
+   "content": "尽管只用左口袋",
+   "music": 0,
+   "sid": 65,
+   "location": 2
+  },
+  {
+   "from": 109.82,
+   "to": 111.88,
+   "content": "我需要右口袋",
+   "music": 0,
+   "sid": 66,
+   "location": 2
+  },
+  {
+   "from": 111.88,
+   "to": 113.62,
+   "content": "你确实要调整",
+   "music": 0,
+   "sid": 67,
+   "location": 2
+  },
+  {
+   "from": 113.62,
+   "to": 115.83,
+   "content": "好，就这样",
+   "music": 0,
+   "sid": 68,
+   "location": 2
+  },
+  {
+   "from": 115.83,
+   "to": 118.15,
+   "content": "后退一点",
+   "music": 0,
+   "sid": 69,
+   "location": 2
+  },
+  {
+   "from": 121.7,
+   "to": 126.6,
+   "content": "好，完美",
+   "music": 0,
+   "sid": 70,
+   "location": 2
+  },
+  {
+   "from": 126.6,
+   "to": 127.32,
+   "content": "完美第一",
+   "music": 0,
+   "sid": 71,
+   "location": 2
+  },
+  {
+   "from": 127.32,
+   "to": 128.92,
+   "content": "嗯",
+   "music": 0,
+   "sid": 72,
+   "location": 2
+  },
+  {
+   "from": 130.52,
+   "to": 134.44,
+   "content": "好球，完美",
+   "music": 0,
+   "sid": 73,
+   "location": 2
+  },
+  {
+   "from": 134.44,
+   "to": 135.2,
+   "content": "完美第一",
+   "music": 0,
+   "sid": 74,
+   "location": 2
+  },
+  {
+   "from": 135.2,
+   "to": 136.52,
+   "content": "二",
+   "music": 0,
+   "sid": 75,
+   "location": 2
+  },
+  {
+   "from": 141.78,
+   "to": 142.18,
+   "content": "呃",
+   "music": 0,
+   "sid": 76,
+   "location": 2
+  },
+  {
+   "from": 142.18,
+   "to": 142.62,
+   "content": "你做到了",
+   "music": 0,
+   "sid": 77,
+   "location": 2
+  },
+  {
+   "from": 142.62,
+   "to": 144.18,
+   "content": "准备射击",
+   "music": 0,
+   "sid": 78,
+   "location": 2
+  },
+  {
+   "from": 144.18,
+   "to": 147.34,
+   "content": "完美，完美",
+   "music": 0,
+   "sid": 79,
+   "location": 2
+  },
+  {
+   "from": 149.64,
+   "to": 151.36,
+   "content": "很好",
+   "music": 0,
+   "sid": 80,
+   "location": 2
+  },
+  {
+   "from": 151.36,
+   "to": 153.18,
+   "content": "没关系",
+   "music": 0,
+   "sid": 81,
+   "location": 2
+  },
+  {
+   "from": 157.22,
+   "to": 157.62,
+   "content": "好的",
+   "music": 0,
+   "sid": 82,
+   "location": 2
+  },
+  {
+   "from": 157.62,
+   "to": 160.86,
+   "content": "背对防守开始",
+   "music": 0,
+   "sid": 83,
+   "location": 2
+  },
+  {
+   "from": 160.86,
+   "to": 161.52,
+   "content": "好的",
+   "music": 0,
+   "sid": 84,
+   "location": 2
+  },
+  {
+   "from": 161.52,
+   "to": 162.24,
+   "content": "我们在这里",
+   "music": 0,
+   "sid": 85,
+   "location": 2
+  },
+  {
+   "from": 162.24,
+   "to": 164.24,
+   "content": "准备好了",
+   "music": 0,
+   "sid": 86,
+   "location": 2
+  },
+  {
+   "from": 164.24,
+   "to": 165.34,
+   "content": "我可以反转",
+   "music": 0,
+   "sid": 87,
+   "location": 2
+  },
+  {
+   "from": 165.34,
+   "to": 166.94,
+   "content": "我可以切入",
+   "music": 0,
+   "sid": 88,
+   "location": 2
+  },
+  {
+   "from": 166.94,
+   "to": 167.58,
+   "content": "好的",
+   "music": 0,
+   "sid": 89,
+   "location": 2
+  },
+  {
+   "from": 167.58,
+   "to": 168.58,
+   "content": "随你选择",
+   "music": 0,
+   "sid": 90,
+   "location": 2
+  },
+  {
+   "from": 168.58,
+   "to": 169.98,
+   "content": "练习脚步",
+   "music": 0,
+   "sid": 91,
+   "location": 2
+  },
+  {
+   "from": 169.98,
+   "to": 170.7,
+   "content": "但同样",
+   "music": 0,
+   "sid": 92,
+   "location": 2
+  },
+  {
+   "from": 170.7,
+   "to": 172.04,
+   "content": "我接住这里",
+   "music": 0,
+   "sid": 93,
+   "location": 2
+  },
+  {
+   "from": 172.04,
+   "to": 175,
+   "content": "左髋，右髋",
+   "music": 0,
+   "sid": 94,
+   "location": 2
+  },
+  {
+   "from": 175,
+   "to": 175.92,
+   "content": "无论怎样",
+   "music": 0,
+   "sid": 95,
+   "location": 2
+  },
+  {
+   "from": 175.92,
+   "to": 176.74,
+   "content": "把球举高",
+   "music": 0,
+   "sid": 96,
+   "location": 2
+  },
+  {
+   "from": 176.74,
+   "to": 177.24,
+   "content": "尽管",
+   "music": 0,
+   "sid": 97,
+   "location": 2
+  },
+  {
+   "from": 177.24,
+   "to": 179.1,
+   "content": "直接向上",
+   "music": 0,
+   "sid": 98,
+   "location": 2
+  },
+  {
+   "from": 185.76,
+   "to": 187.78,
+   "content": "我们谈过的",
+   "music": 0,
+   "sid": 99,
+   "location": 2
+  },
+  {
+   "from": 187.78,
+   "to": 192.16,
+   "content": "转移火力球",
+   "music": 0,
+   "sid": 100,
+   "location": 2
+  },
+  {
+   "from": 195.12,
+   "to": 196.76,
+   "content": "我们做到了",
+   "music": 0,
+   "sid": 101,
+   "location": 2
+  },
+  {
+   "from": 203.78,
+   "to": 204.22,
+   "content": "哦",
+   "music": 0,
+   "sid": 102,
+   "location": 2
+  },
+  {
+   "from": 204.22,
+   "to": 210.57,
+   "content": "我们一样，平衡，一二",
+   "music": 0,
+   "sid": 103,
+   "location": 2
+  },
+  {
+   "from": 216.02,
+   "to": 216.48,
+   "content": "看",
+   "music": 0,
+   "sid": 104,
+   "location": 2
+  },
+  {
+   "from": 216.48,
+   "to": 217.04,
+   "content": "那是什么",
+   "music": 0,
+   "sid": 105,
+   "location": 2
+  },
+  {
+   "from": 217.04,
+   "to": 218.3,
+   "content": "什么",
+   "music": 0,
+   "sid": 106,
+   "location": 2
+  },
+  {
+   "from": 223.9,
+   "to": 224.78,
+   "content": "太棒了",
+   "music": 0,
+   "sid": 107,
+   "location": 2
+  },
+  {
+   "from": 224.78,
+   "to": 225.22,
+   "content": "嘿",
+   "music": 0,
+   "sid": 108,
+   "location": 2
+  },
+  {
+   "from": 225.22,
+   "to": 226.98,
+   "content": "就是它，一切都给你",
+   "music": 0,
+   "sid": 109,
+   "location": 2
+  },
+  {
+   "from": 226.98,
+   "to": 228.36,
+   "content": "尽管你得把球举起来",
+   "music": 0,
+   "sid": 110,
+   "location": 2
+  },
+  {
+   "from": 228.36,
+   "to": 229.18,
+   "content": "你坐在这里",
+   "music": 0,
+   "sid": 111,
+   "location": 2
+  },
+  {
+   "from": 229.18,
+   "to": 230.74,
+   "content": "正确的球",
+   "music": 0,
+   "sid": 112,
+   "location": 2
+  },
+  {
+   "from": 231.57,
+   "to": 232.61,
+   "content": "好的，伙计们",
+   "music": 0,
+   "sid": 113,
+   "location": 2
+  },
+  {
+   "from": 232.61,
+   "to": 233.99,
+   "content": "当我感到压力时",
+   "music": 0,
+   "sid": 114,
+   "location": 2
+  },
+  {
+   "from": 233.99,
+   "to": 234.63,
+   "content": "像这样",
+   "music": 0,
+   "sid": 115,
+   "location": 2
+  },
+  {
+   "from": 234.63,
+   "to": 235.66,
+   "content": "我被困住了",
+   "music": 0,
+   "sid": 116,
+   "location": 2
+  },
+  {
+   "from": 235.66,
+   "to": 237.6,
+   "content": "我真的不能正确瞄准",
+   "music": 0,
+   "sid": 117,
+   "location": 2
+  },
+  {
+   "from": 237.6,
+   "to": 238.41,
+   "content": "如果他拿",
+   "music": 0,
+   "sid": 118,
+   "location": 2
+  },
+  {
+   "from": 238.41,
+   "to": 239.89,
+   "content": "把我的视线从篮筐上移开",
+   "music": 0,
+   "sid": 119,
+   "location": 2
+  },
+  {
+   "from": 239.89,
+   "to": 241.13,
+   "content": "我看不到篮筐",
+   "music": 0,
+   "sid": 120,
+   "location": 2
+  },
+  {
+   "from": 242.67,
+   "to": 243.81,
+   "content": "球会去哪里",
+   "music": 0,
+   "sid": 121,
+   "location": 2
+  },
+  {
+   "from": 243.81,
+   "to": 244.37,
+   "content": "你看",
+   "music": 0,
+   "sid": 122,
+   "location": 2
+  },
+  {
+   "from": 244.37,
+   "to": 244.73,
+   "content": "我说",
+   "music": 0,
+   "sid": 123,
+   "location": 2
+  },
+  {
+   "from": 244.73,
+   "to": 248.24,
+   "content": "唯一能真正信任它的方法就是我在顶部完成的方式",
+   "music": 0,
+   "sid": 124,
+   "location": 2
+  },
+  {
+   "from": 248.24,
+   "to": 248.74,
+   "content": "好的",
+   "music": 0,
+   "sid": 125,
+   "location": 2
+  },
+  {
+   "from": 248.74,
+   "to": 250.85,
+   "content": "所以他防守我，砰",
+   "music": 0,
+   "sid": 126,
+   "location": 2
+  },
+  {
+   "from": 250.85,
+   "to": 252.09,
+   "content": "我在这里",
+   "music": 0,
+   "sid": 127,
+   "location": 2
+  },
+  {
+   "from": 252.09,
+   "to": 252.67,
+   "content": "好的",
+   "music": 0,
+   "sid": 128,
+   "location": 2
+  },
+  {
+   "from": 252.67,
+   "to": 252.83,
+   "content": "嗯",
+   "music": 0,
+   "sid": 129,
+   "location": 2
+  },
+  {
+   "from": 252.83,
+   "to": 253.61,
+   "content": "我提高了水平",
+   "music": 0,
+   "sid": 130,
+   "location": 2
+  },
+  {
+   "from": 253.61,
+   "to": 254.29,
+   "content": "或者我下来了",
+   "music": 0,
+   "sid": 131,
+   "location": 2
+  },
+  {
+   "from": 254.29,
+   "to": 254.87,
+   "content": "拿着球",
+   "music": 0,
+   "sid": 132,
+   "location": 2
+  },
+  {
+   "from": 254.87,
+   "to": 257.56,
+   "content": "你往这里看",
+   "music": 0,
+   "sid": 133,
+   "location": 2
+  },
+  {
+   "from": 257.56,
+   "to": 258.5,
+   "content": "好的，换位",
+   "music": 0,
+   "sid": 134,
+   "location": 2
+  },
+  {
+   "from": 258.5,
+   "to": 259.86,
+   "content": "我看不到领域",
+   "music": 0,
+   "sid": 135,
+   "location": 2
+  },
+  {
+   "from": 259.86,
+   "to": 262.6,
+   "content": "我必须能够信任它，并把它送到顶部",
+   "music": 0,
+   "sid": 136,
+   "location": 2
+  },
+  {
+   "from": 262.6,
+   "to": 263.28,
+   "content": "好的",
+   "music": 0,
+   "sid": 137,
+   "location": 2
+  },
+  {
+   "from": 263.28,
+   "to": 264.12,
+   "content": "不要推它",
+   "music": 0,
+   "sid": 138,
+   "location": 2
+  },
+  {
+   "from": 264.12,
+   "to": 265.29,
+   "content": "投篮，好吧",
+   "music": 0,
+   "sid": 139,
+   "location": 2
+  },
+  {
+   "from": 265.29,
+   "to": 266.9,
+   "content": "我们走",
+   "music": 0,
+   "sid": 140,
+   "location": 2
+  },
+  {
+   "from": 276.1,
+   "to": 277.74,
+   "content": "我们做到了",
+   "music": 0,
+   "sid": 141,
+   "location": 2
+  },
+  {
+   "from": 284.44,
+   "to": 285.62,
+   "content": "再用力一点",
+   "music": 0,
+   "sid": 142,
+   "location": 2
+  },
+  {
+   "from": 285.62,
+   "to": 287.7,
+   "content": "在那个上面再用力一点，我们做到了",
+   "music": 0,
+   "sid": 143,
+   "location": 2
+  },
+  {
+   "from": 287.7,
+   "to": 290.2,
+   "content": "我们一样，换位",
+   "music": 0,
+   "sid": 144,
+   "location": 2
+  },
+  {
+   "from": 293.12,
+   "to": 293.82,
+   "content": "好",
+   "music": 0,
+   "sid": 145,
+   "location": 2
+  },
+  {
+   "from": 293.82,
+   "to": 294.24,
+   "content": "好的",
+   "music": 0,
+   "sid": 146,
+   "location": 2
+  },
+  {
+   "from": 294.24,
+   "to": 295.8,
+   "content": "现在我们要加一个运球",
+   "music": 0,
+   "sid": 147,
+   "location": 2
+  },
+  {
+   "from": 295.8,
+   "to": 296.5,
+   "content": "好的",
+   "music": 0,
+   "sid": 148,
+   "location": 2
+  },
+  {
+   "from": 296.5,
+   "to": 299.43,
+   "content": "所以一切都会是一样的防守",
+   "music": 0,
+   "sid": 149,
+   "location": 2
+  },
+  {
+   "from": 299.43,
+   "to": 299.91,
+   "content": "是的",
+   "music": 0,
+   "sid": 150,
+   "location": 2
+  },
+  {
+   "from": 299.91,
+   "to": 300.47,
+   "content": "我正在工作",
+   "music": 0,
+   "sid": 151,
+   "location": 2
+  },
+  {
+   "from": 300.47,
+   "to": 301.17,
+   "content": "我兴奋",
+   "music": 0,
+   "sid": 152,
+   "location": 2
+  },
+  {
+   "from": 301.17,
+   "to": 302.99,
+   "content": "我低效工作你的水平",
+   "music": 0,
+   "sid": 153,
+   "location": 2
+  },
+  {
+   "from": 302.99,
+   "to": 304.07,
+   "content": "好的",
+   "music": 0,
+   "sid": 154,
+   "location": 2
+  },
+  {
+   "from": 304.07,
+   "to": 305.11,
+   "content": "现在明白了",
+   "music": 0,
+   "sid": 155,
+   "location": 2
+  },
+  {
+   "from": 305.11,
+   "to": 305.51,
+   "content": "嗯",
+   "music": 0,
+   "sid": 156,
+   "location": 2
+  },
+  {
+   "from": 305.51,
+   "to": 306.75,
+   "content": "只需一两滴",
+   "music": 0,
+   "sid": 157,
+   "location": 2
+  },
+  {
+   "from": 306.75,
+   "to": 307.19,
+   "content": "好的",
+   "music": 0,
+   "sid": 158,
+   "location": 2
+  },
+  {
+   "from": 307.19,
+   "to": 308.35,
+   "content": "无论是什么",
+   "music": 0,
+   "sid": 159,
+   "location": 2
+  },
+  {
+   "from": 308.35,
+   "to": 309.87,
+   "content": "一旦舒适",
+   "music": 0,
+   "sid": 160,
+   "location": 2
+  },
+  {
+   "from": 309.87,
+   "to": 310.59,
+   "content": "好的",
+   "music": 0,
+   "sid": 161,
+   "location": 2
+  },
+  {
+   "from": 310.59,
+   "to": 313.54,
+   "content": "我可以从中线内外攻击",
+   "music": 0,
+   "sid": 162,
+   "location": 2
+  },
+  {
+   "from": 313.54,
+   "to": 316.54,
+   "content": "或者我可以内外交叉攻击",
+   "music": 0,
+   "sid": 163,
+   "location": 2
+  },
+  {
+   "from": 316.54,
+   "to": 317.76,
+   "content": "一二拉",
+   "music": 0,
+   "sid": 164,
+   "location": 2
+  },
+  {
+   "from": 317.76,
+   "to": 318.52,
+   "content": "好的",
+   "music": 0,
+   "sid": 165,
+   "location": 2
+  },
+  {
+   "from": 318.52,
+   "to": 319.12,
+   "content": "是的",
+   "music": 0,
+   "sid": 166,
+   "location": 2
+  },
+  {
+   "from": 319.12,
+   "to": 320.1,
+   "content": "随你便",
+   "music": 0,
+   "sid": 167,
+   "location": 2
+  },
+  {
+   "from": 320.1,
+   "to": 321.64,
+   "content": "让他们工作",
+   "music": 0,
+   "sid": 168,
+   "location": 2
+  },
+  {
+   "from": 325.92,
+   "to": 327.12,
+   "content": "给你，很好",
+   "music": 0,
+   "sid": 169,
+   "location": 2
+  },
+  {
+   "from": 327.12,
+   "to": 328.46,
+   "content": "创造分离",
+   "music": 0,
+   "sid": 170,
+   "location": 2
+  },
+  {
+   "from": 328.46,
+   "to": 331.09,
+   "content": "创造分离",
+   "music": 0,
+   "sid": 171,
+   "location": 2
+  },
+  {
+   "from": 331.89,
+   "to": 333.45,
+   "content": "一二",
+   "music": 0,
+   "sid": 172,
+   "location": 2
+  },
+  {
+   "from": 336.76,
+   "to": 338.64,
+   "content": "好好",
+   "music": 0,
+   "sid": 173,
+   "location": 2
+  },
+  {
+   "from": 338.64,
+   "to": 339.84,
+   "content": "你走",
+   "music": 0,
+   "sid": 174,
+   "location": 2
+  },
+  {
+   "from": 355.98,
+   "to": 356.46,
+   "content": "好的",
+   "music": 0,
+   "sid": 175,
+   "location": 2
+  },
+  {
+   "from": 356.46,
+   "to": 358.2,
+   "content": "做面条",
+   "music": 0,
+   "sid": 176,
+   "location": 2
+  },
+  {
+   "from": 358.2,
+   "to": 359.18,
+   "content": "传球给我",
+   "music": 0,
+   "sid": 177,
+   "location": 2
+  },
+  {
+   "from": 360.66,
+   "to": 361.68,
+   "content": "好的，砰",
+   "music": 0,
+   "sid": 178,
+   "location": 2
+  },
+  {
+   "from": 361.68,
+   "to": 363.24,
+   "content": "看到那微妙的跳过",
+   "music": 0,
+   "sid": 179,
+   "location": 2
+  },
+  {
+   "from": 363.24,
+   "to": 365.94,
+   "content": "看我的脚法，砰",
+   "music": 0,
+   "sid": 180,
+   "location": 2
+  },
+  {
+   "from": 365.94,
+   "to": 366.24,
+   "content": "好的",
+   "music": 0,
+   "sid": 181,
+   "location": 2
+  },
+  {
+   "from": 366.24,
+   "to": 367.48,
+   "content": "我准备好了",
+   "music": 0,
+   "sid": 182,
+   "location": 2
+  },
+  {
+   "from": 367.48,
+   "to": 368.56,
+   "content": "所以我的脚防守",
+   "music": 0,
+   "sid": 183,
+   "location": 2
+  },
+  {
+   "from": 369.6,
+   "to": 369.84,
+   "content": "好的",
+   "music": 0,
+   "sid": 184,
+   "location": 2
+  },
+  {
+   "from": 369.84,
+   "to": 371.28,
+   "content": "我在这里慢",
+   "music": 0,
+   "sid": 185,
+   "location": 2
+  },
+  {
+   "from": 371.28,
+   "to": 372.12,
+   "content": "好的",
+   "music": 0,
+   "sid": 186,
+   "location": 2
+  },
+  {
+   "from": 372.12,
+   "to": 376.38,
+   "content": "我在这里四三二，我们正在分解",
+   "music": 0,
+   "sid": 187,
+   "location": 2
+  },
+  {
+   "from": 376.38,
+   "to": 376.96,
+   "content": "好的",
+   "music": 0,
+   "sid": 188,
+   "location": 2
+  },
+  {
+   "from": 376.96,
+   "to": 379.39,
+   "content": "我们谈论脚步节奏",
+   "music": 0,
+   "sid": 189,
+   "location": 2
+  },
+  {
+   "from": 379.39,
+   "to": 381.15,
+   "content": "我运球很慢",
+   "music": 0,
+   "sid": 190,
+   "location": 2
+  },
+  {
+   "from": 381.15,
+   "to": 382.17,
+   "content": "当我分解",
+   "music": 0,
+   "sid": 191,
+   "location": 2
+  },
+  {
+   "from": 382.17,
+   "to": 382.81,
+   "content": "好的",
+   "music": 0,
+   "sid": 192,
+   "location": 2
+  },
+  {
+   "from": 382.81,
+   "to": 385.049,
+   "content": "我需要我的臀部和腰部",
+   "music": 0,
+   "sid": 193,
+   "location": 2
+  },
+  {
+   "from": 385.049,
+   "to": 386.169,
+   "content": "就像我说的",
+   "music": 0,
+   "sid": 194,
+   "location": 2
+  },
+  {
+   "from": 386.169,
+   "to": 386.729,
+   "content": "臀部",
+   "music": 0,
+   "sid": 195,
+   "location": 2
+  },
+  {
+   "from": 386.729,
+   "to": 387.049,
+   "content": "腰部",
+   "music": 0,
+   "sid": 196,
+   "location": 2
+  },
+  {
+   "from": 387.049,
+   "to": 387.329,
+   "content": "肩膀",
+   "music": 0,
+   "sid": 197,
+   "location": 2
+  },
+  {
+   "from": 387.329,
+   "to": 388.929,
+   "content": "所有这些在一个方向上移动",
+   "music": 0,
+   "sid": 198,
+   "location": 2
+  },
+  {
+   "from": 388.929,
+   "to": 389.349,
+   "content": "好的",
+   "music": 0,
+   "sid": 199,
+   "location": 2
+  },
+  {
+   "from": 389.349,
+   "to": 389.969,
+   "content": "腰和臀",
+   "music": 0,
+   "sid": 200,
+   "location": 2
+  },
+  {
+   "from": 389.969,
+   "to": 393.06,
+   "content": "还是快说一样的事",
+   "music": 0,
+   "sid": 201,
+   "location": 2
+  },
+  {
+   "from": 393.06,
+   "to": 393.5,
+   "content": "好的",
+   "music": 0,
+   "sid": 202,
+   "location": 2
+  },
+  {
+   "from": 393.5,
+   "to": 394.74,
+   "content": "你有4秒",
+   "music": 0,
+   "sid": 203,
+   "location": 2
+  },
+  {
+   "from": 394.74,
+   "to": 401.43,
+   "content": "好4321啊",
+   "music": 0,
+   "sid": 204,
+   "location": 2
+  },
+  {
+   "from": 401.43,
+   "to": 403.39,
+   "content": "就这样完美",
+   "music": 0,
+   "sid": 205,
+   "location": 2
+  },
+  {
+   "from": 404.2,
+   "to": 407.04,
+   "content": "好43坚持你走",
+   "music": 0,
+   "sid": 206,
+   "location": 2
+  },
+  {
+   "from": 407.04,
+   "to": 407.92,
+   "content": "你走坚持",
+   "music": 0,
+   "sid": 207,
+   "location": 2
+  },
+  {
+   "from": 407.92,
+   "to": 409.4,
+   "content": "你得慢下来",
+   "music": 0,
+   "sid": 208,
+   "location": 2
+  },
+  {
+   "from": 409.4,
+   "to": 410.64,
+   "content": "一切都慢",
+   "music": 0,
+   "sid": 209,
+   "location": 2
+  },
+  {
+   "from": 410.64,
+   "to": 411.24,
+   "content": "再来一次",
+   "music": 0,
+   "sid": 210,
+   "location": 2
+  },
+  {
+   "from": 411.24,
+   "to": 412.8,
+   "content": "传球给我",
+   "music": 0,
+   "sid": 211,
+   "location": 2
+  },
+  {
+   "from": 413.25,
+   "to": 413.65,
+   "content": "好的",
+   "music": 0,
+   "sid": 212,
+   "location": 2
+  },
+  {
+   "from": 416.29,
+   "to": 416.91,
+   "content": "然后分解",
+   "music": 0,
+   "sid": 213,
+   "location": 2
+  },
+  {
+   "from": 416.91,
+   "to": 417.71,
+   "content": "你看到病人",
+   "music": 0,
+   "sid": 214,
+   "location": 2
+  },
+  {
+   "from": 417.71,
+   "to": 419.44,
+   "content": "我不能在这",
+   "music": 0,
+   "sid": 215,
+   "location": 2
+  },
+  {
+   "from": 419.52,
+   "to": 421.26,
+   "content": "慢动作慢",
+   "music": 0,
+   "sid": 216,
+   "location": 2
+  },
+  {
+   "from": 421.26,
+   "to": 423.02,
+   "content": "我可以被举得更高",
+   "music": 0,
+   "sid": 217,
+   "location": 2
+  },
+  {
+   "from": 423.02,
+   "to": 424.34,
+   "content": "然后我在分解",
+   "music": 0,
+   "sid": 218,
+   "location": 2
+  },
+  {
+   "from": 424.34,
+   "to": 424.84,
+   "content": "好的",
+   "music": 0,
+   "sid": 219,
+   "location": 2
+  },
+  {
+   "from": 425.88,
+   "to": 426.7,
+   "content": "嘿",
+   "music": 0,
+   "sid": 220,
+   "location": 2
+  },
+  {
+   "from": 426.7,
+   "to": 427.82,
+   "content": "耶",
+   "music": 0,
+   "sid": 221,
+   "location": 2
+  },
+  {
+   "from": 434.88,
+   "to": 437.64,
+   "content": "那里你走好手下一个",
+   "music": 0,
+   "sid": 222,
+   "location": 2
+  },
+  {
+   "from": 439,
+   "to": 445.07,
+   "content": "所以4321好",
+   "music": 0,
+   "sid": 223,
+   "location": 2
+  },
+  {
+   "from": 445.07,
+   "to": 445.91,
+   "content": "我们有了下一个",
+   "music": 0,
+   "sid": 224,
+   "location": 2
+  },
+  {
+   "from": 447.91,
+   "to": 449.62,
+   "content": "好节奏节奏",
+   "music": 0,
+   "sid": 225,
+   "location": 2
+  },
+  {
+   "from": 450.94,
+   "to": 455.62,
+   "content": "4321",
+   "music": 0,
+   "sid": 226,
+   "location": 2
+  },
+  {
+   "from": 456.84,
+   "to": 458.08,
+   "content": "去拿那个空间",
+   "music": 0,
+   "sid": 227,
+   "location": 2
+  },
+  {
+   "from": 458.08,
+   "to": 459.4,
+   "content": "你走",
+   "music": 0,
+   "sid": 228,
+   "location": 2
+  },
+  {
+   "from": 463.79,
+   "to": 468.13,
+   "content": "32那里你走好",
+   "music": 0,
+   "sid": 229,
+   "location": 2
+  },
+  {
+   "from": 468.13,
+   "to": 468.97,
+   "content": "现在这里你走",
+   "music": 0,
+   "sid": 230,
+   "location": 2
+  },
+  {
+   "from": 468.97,
+   "to": 470.03,
+   "content": "这里还有一件事",
+   "music": 0,
+   "sid": 231,
+   "location": 2
+  },
+  {
+   "from": 470.03,
+   "to": 471.31,
+   "content": "看伙计们",
+   "music": 0,
+   "sid": 232,
+   "location": 2
+  },
+  {
+   "from": 471.31,
+   "to": 473.53,
+   "content": "一旦我不能传球给我",
+   "music": 0,
+   "sid": 233,
+   "location": 2
+  },
+  {
+   "from": 473.53,
+   "to": 474.53,
+   "content": "防守",
+   "music": 0,
+   "sid": 234,
+   "location": 2
+  },
+  {
+   "from": 474.53,
+   "to": 476.27,
+   "content": "所以好的",
+   "music": 0,
+   "sid": 235,
+   "location": 2
+  },
+  {
+   "from": 476.27,
+   "to": 477.05,
+   "content": "一旦我接住",
+   "music": 0,
+   "sid": 236,
+   "location": 2
+  },
+  {
+   "from": 477.05,
+   "to": 478.11,
+   "content": "我不是想操作",
+   "music": 0,
+   "sid": 237,
+   "location": 2
+  },
+  {
+   "from": 478.11,
+   "to": 480.659,
+   "content": "这对我不舒服",
+   "music": 0,
+   "sid": 238,
+   "location": 2
+  },
+  {
+   "from": 480.659,
+   "to": 481.279,
+   "content": "对",
+   "music": 0,
+   "sid": 239,
+   "location": 2
+  },
+  {
+   "from": 481.279,
+   "to": 482.639,
+   "content": "我不会和他交谈",
+   "music": 0,
+   "sid": 240,
+   "location": 2
+  },
+  {
+   "from": 482.639,
+   "to": 483.739,
+   "content": "如果我在谈话中",
+   "music": 0,
+   "sid": 241,
+   "location": 2
+  },
+  {
+   "from": 483.739,
+   "to": 485.479,
+   "content": "我不会和这么近的人交谈",
+   "music": 0,
+   "sid": 242,
+   "location": 2
+  },
+  {
+   "from": 485.479,
+   "to": 487.78,
+   "content": "我得舒服并有空间",
+   "music": 0,
+   "sid": 243,
+   "location": 2
+  },
+  {
+   "from": 487.78,
+   "to": 488.78,
+   "content": "有道理",
+   "music": 0,
+   "sid": 244,
+   "location": 2
+  },
+  {
+   "from": 488.78,
+   "to": 491.159,
+   "content": "所以现在防守",
+   "music": 0,
+   "sid": 245,
+   "location": 2
+  },
+  {
+   "from": 491.159,
+   "to": 491.719,
+   "content": "耶",
+   "music": 0,
+   "sid": 246,
+   "location": 2
+  },
+  {
+   "from": 491.719,
+   "to": 492.639,
+   "content": "我在这里接住",
+   "music": 0,
+   "sid": 247,
+   "location": 2
+  },
+  {
+   "from": 492.639,
+   "to": 493.639,
+   "content": "我不舒服",
+   "music": 0,
+   "sid": 248,
+   "location": 2
+  },
+  {
+   "from": 493.639,
+   "to": 494.859,
+   "content": "所以我会舒服",
+   "music": 0,
+   "sid": 249,
+   "location": 2
+  },
+  {
+   "from": 494.859,
+   "to": 497.659,
+   "content": "上下或左右移动",
+   "music": 0,
+   "sid": 250,
+   "location": 2
+  },
+  {
+   "from": 497.659,
+   "to": 498.83,
+   "content": "留些空间",
+   "music": 0,
+   "sid": 251,
+   "location": 2
+  },
+  {
+   "from": 498.83,
+   "to": 500.83,
+   "content": "所以当你把球放在地上",
+   "music": 0,
+   "sid": 252,
+   "location": 2
+  },
+  {
+   "from": 500.83,
+   "to": 501.69,
+   "content": "他跨步上前",
+   "music": 0,
+   "sid": 253,
+   "location": 2
+  },
+  {
+   "from": 501.69,
+   "to": 502.95,
+   "content": "你就有突破",
+   "music": 0,
+   "sid": 254,
+   "location": 2
+  },
+  {
+   "from": 502.95,
+   "to": 504.87,
+   "content": "走",
+   "music": 0,
+   "sid": 255,
+   "location": 2
+  },
+  {
+   "from": 506.2,
+   "to": 510.58,
+   "content": "四三二一",
+   "music": 0,
+   "sid": 256,
+   "location": 2
+  },
+  {
+   "from": 511.74,
+   "to": 512.6,
+   "content": "就这样",
+   "music": 0,
+   "sid": 257,
+   "location": 2
+  },
+  {
+   "from": 512.6,
+   "to": 513.46,
+   "content": "我们走",
+   "music": 0,
+   "sid": 258,
+   "location": 2
+  },
+  {
+   "from": 513.46,
+   "to": 516.11,
+   "content": "看，更好的间距",
+   "music": 0,
+   "sid": 259,
+   "location": 2
+  },
+  {
+   "from": 517.43,
+   "to": 523.9,
+   "content": "四三二一，很好，现在",
+   "music": 0,
+   "sid": 260,
+   "location": 2
+  },
+  {
+   "from": 523.9,
+   "to": 524.1,
+   "content": "嘿",
+   "music": 0,
+   "sid": 261,
+   "location": 2
+  },
+  {
+   "from": 524.1,
+   "to": 525.38,
+   "content": "我想你运球走",
+   "music": 0,
+   "sid": 262,
+   "location": 2
+  },
+  {
+   "from": 526.46,
+   "to": 528.28,
+   "content": "走或迈步",
+   "music": 0,
+   "sid": 263,
+   "location": 2
+  },
+  {
+   "from": 528.28,
+   "to": 528.76,
+   "content": "好的",
+   "music": 0,
+   "sid": 264,
+   "location": 2
+  },
+  {
+   "from": 528.76,
+   "to": 530.3,
+   "content": "好的",
+   "music": 0,
+   "sid": 265,
+   "location": 2
+  },
+  {
+   "from": 531.9,
+   "to": 532.78,
+   "content": "就像这样",
+   "music": 0,
+   "sid": 266,
+   "location": 2
+  },
+  {
+   "from": 532.78,
+   "to": 533.42,
+   "content": "好的",
+   "music": 0,
+   "sid": 267,
+   "location": 2
+  },
+  {
+   "from": 533.42,
+   "to": 534.6,
+   "content": "不要太活跃",
+   "music": 0,
+   "sid": 268,
+   "location": 2
+  },
+  {
+   "from": 534.6,
+   "to": 539.18,
+   "content": "这样我可以这里，砰，然后走，砰，然后突破",
+   "music": 0,
+   "sid": 269,
+   "location": 2
+  },
+  {
+   "from": 539.18,
+   "to": 540.26,
+   "content": "好的",
+   "music": 0,
+   "sid": 270,
+   "location": 2
+  },
+  {
+   "from": 540.66,
+   "to": 541.18,
+   "content": "我们走",
+   "music": 0,
+   "sid": 271,
+   "location": 2
+  },
+  {
+   "from": 541.18,
+   "to": 543.05,
+   "content": "休伊，嘿",
+   "music": 0,
+   "sid": 272,
+   "location": 2
+  },
+  {
+   "from": 543.05,
+   "to": 544.87,
+   "content": "我们下来这里，这里",
+   "music": 0,
+   "sid": 273,
+   "location": 2
+  },
+  {
+   "from": 544.87,
+   "to": 551.11,
+   "content": "内森，内森，就在这里里面",
+   "music": 0,
+   "sid": 274,
+   "location": 2
+  },
+  {
+   "from": 551.11,
+   "to": 552.33,
+   "content": "我们还有几个",
+   "music": 0,
+   "sid": 275,
+   "location": 2
+  },
+  {
+   "from": 552.33,
+   "to": 553.09,
+   "content": "我也要你",
+   "music": 0,
+   "sid": 276,
+   "location": 2
+  },
+  {
+   "from": 553.09,
+   "to": 557.27,
+   "content": "你今天有氧运动，就是这样",
+   "music": 0,
+   "sid": 277,
+   "location": 2
+  },
+  {
+   "from": 565.2,
+   "to": 566.48,
+   "content": "注意脚步",
+   "music": 0,
+   "sid": 278,
+   "location": 2
+  },
+  {
+   "from": 566.48,
+   "to": 567.88,
+   "content": "注意脚步",
+   "music": 0,
+   "sid": 279,
+   "location": 2
+  },
+  {
+   "from": 567.88,
+   "to": 570.48,
+   "content": "你知道你知道那是走步",
+   "music": 0,
+   "sid": 280,
+   "location": 2
+  },
+  {
+   "from": 572.12,
+   "to": 573.41,
+   "content": "上这个",
+   "music": 0,
+   "sid": 281,
+   "location": 2
+  },
+  {
+   "from": 573.73,
+   "to": 574.91,
+   "content": "我们现在要看",
+   "music": 0,
+   "sid": 282,
+   "location": 2
+  },
+  {
+   "from": 574.91,
+   "to": 577.69,
+   "content": "我们能改变他多少次脚型",
+   "music": 0,
+   "sid": 283,
+   "location": 2
+  },
+  {
+   "from": 577.69,
+   "to": 579.81,
+   "content": "好的，或他的脚与脚的对齐",
+   "music": 0,
+   "sid": 284,
+   "location": 2
+  },
+  {
+   "from": 579.81,
+   "to": 582,
+   "content": "我应该说我站在这个位置",
+   "music": 0,
+   "sid": 285,
+   "location": 2
+  },
+  {
+   "from": 582,
+   "to": 583.92,
+   "content": "好的，现在如果我接球",
+   "music": 0,
+   "sid": 286,
+   "location": 2
+  },
+  {
+   "from": 583.92,
+   "to": 585.839,
+   "content": "再传给我球",
+   "music": 0,
+   "sid": 287,
+   "location": 2
+  },
+  {
+   "from": 585.839,
+   "to": 586.679,
+   "content": "我马上进入",
+   "music": 0,
+   "sid": 288,
+   "location": 2
+  },
+  {
+   "from": 586.679,
+   "to": 587.879,
+   "content": "他又来了",
+   "music": 0,
+   "sid": 289,
+   "location": 2
+  },
+  {
+   "from": 587.879,
+   "to": 588.859,
+   "content": "他给了我一个角度",
+   "music": 0,
+   "sid": 290,
+   "location": 2
+  },
+  {
+   "from": 588.859,
+   "to": 590.27,
+   "content": "他甚至不知道",
+   "music": 0,
+   "sid": 291,
+   "location": 2
+  },
+  {
+   "from": 590.27,
+   "to": 590.73,
+   "content": "好的",
+   "music": 0,
+   "sid": 292,
+   "location": 2
+  },
+  {
+   "from": 590.73,
+   "to": 591.53,
+   "content": "他知道鼻子",
+   "music": 0,
+   "sid": 293,
+   "location": 2
+  },
+  {
+   "from": 591.53,
+   "to": 594.43,
+   "content": "这意味着我有清晰的线路到这里肘部",
+   "music": 0,
+   "sid": 294,
+   "location": 2
+  },
+  {
+   "from": 594.43,
+   "to": 596.399,
+   "content": "如果我要的话",
+   "music": 0,
+   "sid": 295,
+   "location": 2
+  },
+  {
+   "from": 596.399,
+   "to": 599.319,
+   "content": "所以我想你们找出哪个角度我可以攻击",
+   "music": 0,
+   "sid": 296,
+   "location": 2
+  },
+  {
+   "from": 599.319,
+   "to": 600.599,
+   "content": "所以实际上是一个V",
+   "music": 0,
+   "sid": 297,
+   "location": 2
+  },
+  {
+   "from": 600.599,
+   "to": 601.719,
+   "content": "如果我在侧翼",
+   "music": 0,
+   "sid": 298,
+   "location": 2
+  },
+  {
+   "from": 601.719,
+   "to": 604.319,
+   "content": "我试图攻击这个肘部或阻挡",
+   "music": 0,
+   "sid": 299,
+   "location": 2
+  },
+  {
+   "from": 604.319,
+   "to": 604.799,
+   "content": "好的",
+   "music": 0,
+   "sid": 300,
+   "location": 2
+  },
+  {
+   "from": 604.799,
+   "to": 606.119,
+   "content": "从这里开始",
+   "music": 0,
+   "sid": 301,
+   "location": 2
+  },
+  {
+   "from": 606.119,
+   "to": 607.579,
+   "content": "角度呈V形",
+   "music": 0,
+   "sid": 302,
+   "location": 2
+  },
+  {
+   "from": 607.579,
+   "to": 608.839,
+   "content": "我们开始",
+   "music": 0,
+   "sid": 303,
+   "location": 2
+  },
+  {
+   "from": 608.839,
+   "to": 609.439,
+   "content": "好的",
+   "music": 0,
+   "sid": 304,
+   "location": 2
+  },
+  {
+   "from": 609.439,
+   "to": 611.519,
+   "content": "我接住并走",
+   "music": 0,
+   "sid": 305,
+   "location": 2
+  },
+  {
+   "from": 611.519,
+   "to": 614.139,
+   "content": "取决于他的脚位",
+   "music": 0,
+   "sid": 306,
+   "location": 2
+  },
+  {
+   "from": 614.139,
+   "to": 615.1,
+   "content": "开始吧",
+   "music": 0,
+   "sid": 307,
+   "location": 2
+  },
+  {
+   "from": 615.1,
+   "to": 615.66,
+   "content": "好的",
+   "music": 0,
+   "sid": 308,
+   "location": 2
+  },
+  {
+   "from": 615.66,
+   "to": 616.62,
+   "content": "如果我看到这个不",
+   "music": 0,
+   "sid": 309,
+   "location": 2
+  },
+  {
+   "from": 616.62,
+   "to": 616.92,
+   "content": "不不",
+   "music": 0,
+   "sid": 310,
+   "location": 2
+  },
+  {
+   "from": 616.92,
+   "to": 617.7,
+   "content": "你喜欢",
+   "music": 0,
+   "sid": 311,
+   "location": 2
+  },
+  {
+   "from": 617.7,
+   "to": 619.16,
+   "content": "就给我真正的防守",
+   "music": 0,
+   "sid": 312,
+   "location": 2
+  },
+  {
+   "from": 619.16,
+   "to": 620.08,
+   "content": "我们正在直播",
+   "music": 0,
+   "sid": 313,
+   "location": 2
+  },
+  {
+   "from": 620.08,
+   "to": 620.91,
+   "content": "好的",
+   "music": 0,
+   "sid": 314,
+   "location": 2
+  },
+  {
+   "from": 620.91,
+   "to": 621.31,
+   "content": "是的",
+   "music": 0,
+   "sid": 315,
+   "location": 2
+  },
+  {
+   "from": 621.31,
+   "to": 622.45,
+   "content": "我在这里，砰",
+   "music": 0,
+   "sid": 316,
+   "location": 2
+  },
+  {
+   "from": 622.45,
+   "to": 624.63,
+   "content": "我筛选并注意到他必须打开",
+   "music": 0,
+   "sid": 317,
+   "location": 2
+  },
+  {
+   "from": 624.63,
+   "to": 625.93,
+   "content": "这就是创造空间的原因",
+   "music": 0,
+   "sid": 318,
+   "location": 2
+  },
+  {
+   "from": 625.93,
+   "to": 629.54,
+   "content": "所以我们听说攻击这个前脚",
+   "music": 0,
+   "sid": 319,
+   "location": 2
+  },
+  {
+   "from": 629.54,
+   "to": 630.7,
+   "content": "如果我看到这个",
+   "music": 0,
+   "sid": 320,
+   "location": 2
+  },
+  {
+   "from": 630.7,
+   "to": 632.12,
+   "content": "他有优势",
+   "music": 0,
+   "sid": 321,
+   "location": 2
+  },
+  {
+   "from": 632.12,
+   "to": 633.44,
+   "content": "如果我在这里开车",
+   "music": 0,
+   "sid": 322,
+   "location": 2
+  },
+  {
+   "from": 633.44,
+   "to": 635.04,
+   "content": "他会切断我",
+   "music": 0,
+   "sid": 323,
+   "location": 2
+  },
+  {
+   "from": 635.04,
+   "to": 638.32,
+   "content": "但如果我看到他的脚已经领先，砰",
+   "music": 0,
+   "sid": 324,
+   "location": 2
+  },
+  {
+   "from": 638.32,
+   "to": 638.98,
+   "content": "我有空间",
+   "music": 0,
+   "sid": 325,
+   "location": 2
+  },
+  {
+   "from": 638.98,
+   "to": 640.04,
+   "content": "我有距离",
+   "music": 0,
+   "sid": 326,
+   "location": 2
+  },
+  {
+   "from": 640.04,
+   "to": 643.5,
+   "content": "我可以做后仰或接触",
+   "music": 0,
+   "sid": 327,
+   "location": 2
+  },
+  {
+   "from": 643.5,
+   "to": 644.74,
+   "content": "到达后板",
+   "music": 0,
+   "sid": 328,
+   "location": 2
+  },
+  {
+   "from": 644.74,
+   "to": 646.94,
+   "content": "所以就看他的脚位",
+   "music": 0,
+   "sid": 329,
+   "location": 2
+  },
+  {
+   "from": 646.94,
+   "to": 647.76,
+   "content": "我们进去了",
+   "music": 0,
+   "sid": 330,
+   "location": 2
+  },
+  {
+   "from": 647.76,
+   "to": 651.08,
+   "content": "转移四三",
+   "music": 0,
+   "sid": 331,
+   "location": 2
+  },
+  {
+   "from": 651.08,
+   "to": 653.24,
+   "content": "你完美完美",
+   "music": 0,
+   "sid": 332,
+   "location": 2
+  },
+  {
+   "from": 653.24,
+   "to": 654.88,
+   "content": "流畅",
+   "music": 0,
+   "sid": 333,
+   "location": 2
+  },
+  {
+   "from": 656.84,
+   "to": 657.5,
+   "content": "好手",
+   "music": 0,
+   "sid": 334,
+   "location": 2
+  },
+  {
+   "from": 657.5,
+   "to": 658.2,
+   "content": "好手",
+   "music": 0,
+   "sid": 335,
+   "location": 2
+  },
+  {
+   "from": 658.2,
+   "to": 659.5,
+   "content": "再做一次",
+   "music": 0,
+   "sid": 336,
+   "location": 2
+  },
+  {
+   "from": 659.5,
+   "to": 661.04,
+   "content": "慢",
+   "music": 0,
+   "sid": 337,
+   "location": 2
+  },
+  {
+   "from": 664.74,
+   "to": 666.38,
+   "content": "一旦肩膀变正",
+   "music": 0,
+   "sid": 338,
+   "location": 2
+  },
+  {
+   "from": 668.3,
+   "to": 669.32,
+   "content": "你就去",
+   "music": 0,
+   "sid": 339,
+   "location": 2
+  },
+  {
+   "from": 669.6,
+   "to": 670.86,
+   "content": "你轻松得分",
+   "music": 0,
+   "sid": 340,
+   "location": 2
+  },
+  {
+   "from": 670.86,
+   "to": 671.24,
+   "content": "难",
+   "music": 0,
+   "sid": 341,
+   "location": 2
+  },
+  {
+   "from": 671.24,
+   "to": 672.52,
+   "content": "因为你只用一只脚",
+   "music": 0,
+   "sid": 342,
+   "location": 2
+  },
+  {
+   "from": 672.52,
+   "to": 673.9,
+   "content": "落地两只脚",
+   "music": 0,
+   "sid": 343,
+   "location": 2
+  },
+  {
+   "from": 673.9,
+   "to": 674.56,
+   "content": "砰砰",
+   "music": 0,
+   "sid": 344,
+   "location": 2
+  },
+  {
+   "from": 674.56,
+   "to": 675.36,
+   "content": "平衡",
+   "music": 0,
+   "sid": 345,
+   "location": 2
+  },
+  {
+   "from": 675.36,
+   "to": 677,
+   "content": "然后直起",
+   "music": 0,
+   "sid": 346,
+   "location": 2
+  },
+  {
+   "from": 677,
+   "to": 677.56,
+   "content": "开始吧",
+   "music": 0,
+   "sid": 347,
+   "location": 2
+  },
+  {
+   "from": 677.56,
+   "to": 678.79,
+   "content": "我们做到了",
+   "music": 0,
+   "sid": 348,
+   "location": 2
+  },
+  {
+   "from": 685.01,
+   "to": 688.05,
+   "content": "如果我知道他有活跃的手，他在低低的位置",
+   "music": 0,
+   "sid": 349,
+   "location": 2
+  },
+  {
+   "from": 688.05,
+   "to": 689.84,
+   "content": "假设我再次击中他",
+   "music": 0,
+   "sid": 350,
+   "location": 2
+  },
+  {
+   "from": 689.84,
+   "to": 691.32,
+   "content": "打我，砰！",
+   "music": 0,
+   "sid": 351,
+   "location": 2
+  },
+  {
+   "from": 691.32,
+   "to": 691.68,
+   "content": "好的",
+   "music": 0,
+   "sid": 352,
+   "location": 2
+  },
+  {
+   "from": 691.68,
+   "to": 692.54,
+   "content": "我得到了那个落点",
+   "music": 0,
+   "sid": 353,
+   "location": 2
+  },
+  {
+   "from": 692.54,
+   "to": 693.98,
+   "content": "就像我们练习的那样",
+   "music": 0,
+   "sid": 354,
+   "location": 2
+  },
+  {
+   "from": 693.98,
+   "to": 694.52,
+   "content": "好的",
+   "music": 0,
+   "sid": 355,
+   "location": 2
+  },
+  {
+   "from": 694.52,
+   "to": 695.44,
+   "content": "那个小落点",
+   "music": 0,
+   "sid": 356,
+   "location": 2
+  },
+  {
+   "from": 695.44,
+   "to": 697.24,
+   "content": "每次都能抓住他们",
+   "music": 0,
+   "sid": 357,
+   "location": 2
+  },
+  {
+   "from": 697.8,
+   "to": 699.6,
+   "content": "稍微改变一下你的对策",
+   "music": 0,
+   "sid": 358,
+   "location": 2
+  },
+  {
+   "from": 699.6,
+   "to": 701.64,
+   "content": "我需要制作",
+   "music": 0,
+   "sid": 359,
+   "location": 2
+  },
+  {
+   "from": 703.56,
+   "to": 704.95,
+   "content": "给你",
+   "music": 0,
+   "sid": 360,
+   "location": 2
+  },
+  {
+   "from": 705.39,
+   "to": 705.95,
+   "content": "就是这样",
+   "music": 0,
+   "sid": 361,
+   "location": 2
+  },
+  {
+   "from": 705.95,
+   "to": 706.31,
+   "content": "你走",
+   "music": 0,
+   "sid": 362,
+   "location": 2
+  },
+  {
+   "from": 706.31,
+   "to": 707.15,
+   "content": "你喜欢那个",
+   "music": 0,
+   "sid": 363,
+   "location": 2
+  },
+  {
+   "from": 707.15,
+   "to": 708.13,
+   "content": "你喜欢那个",
+   "music": 0,
+   "sid": 364,
+   "location": 2
+  },
+  {
+   "from": 708.13,
+   "to": 709.31,
+   "content": "这就是你吃东西的方式",
+   "music": 0,
+   "sid": 365,
+   "location": 2
+  },
+  {
+   "from": 709.31,
+   "to": 710.37,
+   "content": "就在这里",
+   "music": 0,
+   "sid": 366,
+   "location": 2
+  },
+  {
+   "from": 710.37,
+   "to": 711.79,
+   "content": "来",
+   "music": 0,
+   "sid": 367,
+   "location": 2
+  },
+  {
+   "from": 715.8,
+   "to": 717.02,
+   "content": "很好，我们练习了",
+   "music": 0,
+   "sid": 368,
+   "location": 2
+  },
+  {
+   "from": 717.02,
+   "to": 717.76,
+   "content": "我们练习了",
+   "music": 0,
+   "sid": 369,
+   "location": 2
+  },
+  {
+   "from": 717.76,
+   "to": 719.88,
+   "content": "很好，再来一个酷片段",
+   "music": 0,
+   "sid": 370,
+   "location": 2
+  },
+  {
+   "from": 721.08,
+   "to": 722.2,
+   "content": "脚",
+   "music": 0,
+   "sid": 371,
+   "location": 2
+  },
+  {
+   "from": 725.46,
+   "to": 728.05,
+   "content": "走，我们做到了",
+   "music": 0,
+   "sid": 372,
+   "location": 2
+  },
+  {
+   "from": 728.05,
+   "to": 729.09,
+   "content": "就在这里，给你，嘿",
+   "music": 0,
+   "sid": 373,
+   "location": 2
+  },
+  {
+   "from": 729.09,
+   "to": 730.25,
+   "content": "给我那个反向",
+   "music": 0,
+   "sid": 374,
+   "location": 2
+  },
+  {
+   "from": 730.25,
+   "to": 731.05,
+   "content": "反向",
+   "music": 0,
+   "sid": 375,
+   "location": 2
+  },
+  {
+   "from": 731.05,
+   "to": 732.55,
+   "content": "灌篮或上篮，都可以",
+   "music": 0,
+   "sid": 376,
+   "location": 2
+  },
+  {
+   "from": 732.55,
+   "to": 732.87,
+   "content": "好的",
+   "music": 0,
+   "sid": 377,
+   "location": 2
+  },
+  {
+   "from": 732.87,
+   "to": 733.39,
+   "content": "再来一个",
+   "music": 0,
+   "sid": 378,
+   "location": 2
+  },
+  {
+   "from": 733.39,
+   "to": 735.97,
+   "content": "我需要先赢前两场二对二",
+   "music": 0,
+   "sid": 379,
+   "location": 2
+  }
+ ]
+}

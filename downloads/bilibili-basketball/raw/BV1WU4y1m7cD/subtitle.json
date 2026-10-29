@@ -1,0 +1,956 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.14,
+   "to": 2.57,
+   "sid": 1,
+   "location": 2,
+   "content": "一个完美的投篮有多少细节",
+   "music": 0
+  },
+  {
+   "from": 2.57,
+   "to": 7.85,
+   "sid": 2,
+   "location": 2,
+   "content": "本期我们从腿躯干手分三个部分",
+   "music": 0
+  },
+  {
+   "from": 7.85,
+   "to": 10.96,
+   "sid": 3,
+   "location": 2,
+   "content": "从下往上全方位的分解投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 10.96,
+   "to": 14.05,
+   "sid": 4,
+   "location": 2,
+   "content": "争取做一期最全面的投篮解析视频",
+   "music": 0
+  },
+  {
+   "from": 14.05,
+   "to": 15.04,
+   "sid": 5,
+   "location": 2,
+   "content": "第一部分",
+   "music": 0
+  },
+  {
+   "from": 15.04,
+   "to": 19.72,
+   "sid": 6,
+   "location": 2,
+   "content": "腿部投篮的最佳占据是双脚保持在肩宽左右",
+   "music": 0
+  },
+  {
+   "from": 19.72,
+   "to": 21.28,
+   "sid": 7,
+   "location": 2,
+   "content": "占据大于肩宽",
+   "music": 0
+  },
+  {
+   "from": 21.28,
+   "to": 22.63,
+   "sid": 8,
+   "location": 2,
+   "content": "投篮会更稳定",
+   "music": 0
+  },
+  {
+   "from": 22.63,
+   "to": 24.58,
+   "sid": 9,
+   "location": 2,
+   "content": "但会损失一部分力量",
+   "music": 0
+  },
+  {
+   "from": 24.58,
+   "to": 25.75,
+   "sid": 10,
+   "location": 2,
+   "content": "占据过长",
+   "music": 0
+  },
+  {
+   "from": 25.75,
+   "to": 28.12,
+   "sid": 11,
+   "location": 2,
+   "content": "投篮轨迹容易左右偏移",
+   "music": 0
+  },
+  {
+   "from": 28.12,
+   "to": 31.3,
+   "sid": 12,
+   "location": 2,
+   "content": "肩宽的占据兼具力量和稳定性",
+   "music": 0
+  },
+  {
+   "from": 31.3,
+   "to": 33.16,
+   "sid": 13,
+   "location": 2,
+   "content": "脚尖朝向同一方向",
+   "music": 0
+  },
+  {
+   "from": 33.16,
+   "to": 34.66,
+   "sid": 14,
+   "location": 2,
+   "content": "脚尖正对篮筐",
+   "music": 0
+  },
+  {
+   "from": 34.66,
+   "to": 36.84,
+   "sid": 15,
+   "location": 2,
+   "content": "右脚稍微往前一点点",
+   "music": 0
+  },
+  {
+   "from": 36.84,
+   "to": 41.12,
+   "sid": 16,
+   "location": 2,
+   "content": "或者是像库里和科比那样向左偏30度左右",
+   "music": 0
+  },
+  {
+   "from": 41.12,
+   "to": 42.86,
+   "sid": 17,
+   "location": 2,
+   "content": "这取决于你的习惯",
+   "music": 0
+  },
+  {
+   "from": 42.86,
+   "to": 43.64,
+   "sid": 18,
+   "location": 2,
+   "content": "怎么舒服",
+   "music": 0
+  },
+  {
+   "from": 43.64,
+   "to": 44.36,
+   "sid": 19,
+   "location": 2,
+   "content": "怎么来",
+   "music": 0
+  },
+  {
+   "from": 44.36,
+   "to": 46.07,
+   "sid": 20,
+   "location": 2,
+   "content": "之所以右脚在前",
+   "music": 0
+  },
+  {
+   "from": 46.07,
+   "to": 48.74,
+   "sid": 21,
+   "location": 2,
+   "content": "是因为投篮时右手主动发力",
+   "music": 0
+  },
+  {
+   "from": 48.74,
+   "to": 51.65,
+   "sid": 22,
+   "location": 2,
+   "content": "身体会自然地逆时针旋转一个角度",
+   "music": 0
+  },
+  {
+   "from": 51.65,
+   "to": 54.7,
+   "sid": 23,
+   "location": 2,
+   "content": "右脚在前就提前抵消了这个旋转",
+   "music": 0
+  },
+  {
+   "from": 54.7,
+   "to": 58.21,
+   "sid": 24,
+   "location": 2,
+   "content": "避免了上半身和下半身在投篮时发生对抗",
+   "music": 0
+  },
+  {
+   "from": 58.21,
+   "to": 60.36,
+   "sid": 25,
+   "location": 2,
+   "content": "这样投篮就会更加稳定",
+   "music": 0
+  },
+  {
+   "from": 60.36,
+   "to": 63.54,
+   "sid": 26,
+   "location": 2,
+   "content": "投篮下蹲时膝盖正对脚尖的方向",
+   "music": 0
+  },
+  {
+   "from": 63.54,
+   "to": 65.16,
+   "sid": 27,
+   "location": 2,
+   "content": "膝盖内扣和外翻",
+   "music": 0
+  },
+  {
+   "from": 65.16,
+   "to": 66.84,
+   "sid": 28,
+   "location": 2,
+   "content": "容易让腿部力量分散",
+   "music": 0
+  },
+  {
+   "from": 66.84,
+   "to": 68.85,
+   "sid": 29,
+   "location": 2,
+   "content": "时间一长也容易受伤",
+   "music": 0
+  },
+  {
+   "from": 68.85,
+   "to": 71.22,
+   "sid": 30,
+   "location": 2,
+   "content": "下面是投篮的躯干的细节",
+   "music": 0
+  },
+  {
+   "from": 71.22,
+   "to": 74.4,
+   "sid": 31,
+   "location": 2,
+   "content": "投篮没力量的问题都出在膝盖上",
+   "music": 0
+  },
+  {
+   "from": 74.4,
+   "to": 76.64,
+   "sid": 32,
+   "location": 2,
+   "content": "投篮时膝盖过度弯曲",
+   "music": 0
+  },
+  {
+   "from": 76.64,
+   "to": 78.2,
+   "sid": 33,
+   "location": 2,
+   "content": "臀部弯曲太少",
+   "music": 0
+  },
+  {
+   "from": 78.2,
+   "to": 81.44,
+   "sid": 34,
+   "location": 2,
+   "content": "这是最常见的导致投篮无力的问题",
+   "music": 0
+  },
+  {
+   "from": 81.44,
+   "to": 84.86,
+   "sid": 35,
+   "location": 2,
+   "content": "投篮时躯干的姿势应该以屈髋为主",
+   "music": 0
+  },
+  {
+   "from": 84.86,
+   "to": 85.88,
+   "sid": 36,
+   "location": 2,
+   "content": "屈膝为辅",
+   "music": 0
+  },
+  {
+   "from": 85.88,
+   "to": 86.74,
+   "sid": 37,
+   "location": 2,
+   "content": "背挺直",
+   "music": 0
+  },
+  {
+   "from": 86.74,
+   "to": 88.81,
+   "sid": 38,
+   "location": 2,
+   "content": "驼背或者背部过度反弓",
+   "music": 0
+  },
+  {
+   "from": 88.81,
+   "to": 90.64,
+   "sid": 39,
+   "location": 2,
+   "content": "都会对投篮造成影响",
+   "music": 0
+  },
+  {
+   "from": 90.64,
+   "to": 92.95,
+   "sid": 40,
+   "location": 2,
+   "content": "对于one motion单动投篮来说",
+   "music": 0
+  },
+  {
+   "from": 92.95,
+   "to": 96.02,
+   "sid": 41,
+   "location": 2,
+   "content": "腿部的力量比手部的力量更加重要",
+   "music": 0
+  },
+  {
+   "from": 96.02,
+   "to": 100.08,
+   "sid": 42,
+   "location": 2,
+   "content": "其次是上半身和下半身的动势要保持一致",
+   "music": 0
+  },
+  {
+   "from": 100.08,
+   "to": 103.05,
+   "sid": 43,
+   "location": 2,
+   "content": "双腿下蹲时双手持球在下",
+   "music": 0
+  },
+  {
+   "from": 103.05,
+   "to": 104.4,
+   "sid": 44,
+   "location": 2,
+   "content": "双腿伸直时",
+   "music": 0
+  },
+  {
+   "from": 104.4,
+   "to": 105.84,
+   "sid": 45,
+   "location": 2,
+   "content": "球同步上升",
+   "music": 0
+  },
+  {
+   "from": 105.84,
+   "to": 107.46,
+   "sid": 46,
+   "location": 2,
+   "content": "上下动势不一致",
+   "music": 0
+  },
+  {
+   "from": 107.46,
+   "to": 110.19,
+   "sid": 47,
+   "location": 2,
+   "content": "相当于上半身跟下半身做对抗",
+   "music": 0
+  },
+  {
+   "from": 110.19,
+   "to": 111.88,
+   "sid": 48,
+   "location": 2,
+   "content": "会丢失掉很多力量",
+   "music": 0
+  },
+  {
+   "from": 111.88,
+   "to": 115.22,
+   "sid": 49,
+   "location": 2,
+   "content": "力量应该是从下往上依次传导",
+   "music": 0
+  },
+  {
+   "from": 115.22,
+   "to": 117.32,
+   "sid": 50,
+   "location": 2,
+   "content": "投篮在完全伸展之后",
+   "music": 0
+  },
+  {
+   "from": 117.32,
+   "to": 120.98,
+   "sid": 51,
+   "location": 2,
+   "content": "躯干应该处于垂直或者略微后仰的状态",
+   "music": 0
+  },
+  {
+   "from": 120.98,
+   "to": 123.38,
+   "sid": 52,
+   "location": 2,
+   "content": "身体前倾或者向前跳跃",
+   "music": 0
+  },
+  {
+   "from": 123.38,
+   "to": 125.34,
+   "sid": 53,
+   "location": 2,
+   "content": "反而不利于力量的传导",
+   "music": 0
+  },
+  {
+   "from": 125.34,
+   "to": 127.98,
+   "sid": 54,
+   "location": 2,
+   "content": "最后是投篮细节最多的手部",
+   "music": 0
+  },
+  {
+   "from": 127.98,
+   "to": 129.99,
+   "sid": 55,
+   "location": 2,
+   "content": "腿部和躯干两个部分",
+   "music": 0
+  },
+  {
+   "from": 129.99,
+   "to": 132.98,
+   "sid": 56,
+   "location": 2,
+   "content": "都只是投篮力量和稳定性的基础",
+   "music": 0
+  },
+  {
+   "from": 132.98,
+   "to": 136.82,
+   "sid": 57,
+   "location": 2,
+   "content": "真正决定投篮是否精准的关键因素都在手上",
+   "music": 0
+  },
+  {
+   "from": 136.82,
+   "to": 139.04,
+   "sid": 58,
+   "location": 2,
+   "content": "持球时拇指呈T字形",
+   "music": 0
+  },
+  {
+   "from": 139.04,
+   "to": 140.9,
+   "sid": 59,
+   "location": 2,
+   "content": "辅助手在侧面投篮",
+   "music": 0
+  },
+  {
+   "from": 140.9,
+   "to": 144.99,
+   "sid": 60,
+   "location": 2,
+   "content": "手在正面通过气孔的位置来确定球的中线",
+   "music": 0
+  },
+  {
+   "from": 144.99,
+   "to": 147.15,
+   "sid": 61,
+   "location": 2,
+   "content": "将食指对准球的中线",
+   "music": 0
+  },
+  {
+   "from": 147.15,
+   "to": 150.84,
+   "sid": 62,
+   "location": 2,
+   "content": "当然也可以是食指与中指的中间对准中线",
+   "music": 0
+  },
+  {
+   "from": 150.84,
+   "to": 153.96,
+   "sid": 63,
+   "location": 2,
+   "content": "每个人的手掌大小和手指长短不同",
+   "music": 0
+  },
+  {
+   "from": 153.96,
+   "to": 156.34,
+   "sid": 64,
+   "location": 2,
+   "content": "选择自己喜欢的方式就好",
+   "music": 0
+  },
+  {
+   "from": 156.34,
+   "to": 157.36,
+   "sid": 65,
+   "location": 2,
+   "content": "手掌张开",
+   "music": 0
+  },
+  {
+   "from": 157.36,
+   "to": 159.04,
+   "sid": 66,
+   "location": 2,
+   "content": "掌心流出小空心",
+   "music": 0
+  },
+  {
+   "from": 159.04,
+   "to": 160.87,
+   "sid": 67,
+   "location": 2,
+   "content": "指尖全面贴合篮球",
+   "music": 0
+  },
+  {
+   "from": 160.87,
+   "to": 162.16,
+   "sid": 68,
+   "location": 2,
+   "content": "球在胸前时",
+   "music": 0
+  },
+  {
+   "from": 162.16,
+   "to": 163.44,
+   "sid": 69,
+   "location": 2,
+   "content": "手腕就要后压",
+   "music": 0
+  },
+  {
+   "from": 163.44,
+   "to": 165.3,
+   "sid": 70,
+   "location": 2,
+   "content": "如果手腕是放松的状态",
+   "music": 0
+  },
+  {
+   "from": 165.3,
+   "to": 167.28,
+   "sid": 71,
+   "location": 2,
+   "content": "举到头顶之后再往后压",
+   "music": 0
+  },
+  {
+   "from": 167.28,
+   "to": 169.8,
+   "sid": 72,
+   "location": 2,
+   "content": "会把从下往上的力量向后引导",
+   "music": 0
+  },
+  {
+   "from": 169.8,
+   "to": 172.2,
+   "sid": 73,
+   "location": 2,
+   "content": "与向前的投篮力量发生对抗",
+   "music": 0
+  },
+  {
+   "from": 172.2,
+   "to": 173.46,
+   "sid": 74,
+   "location": 2,
+   "content": "导致投篮无力",
+   "music": 0
+  },
+  {
+   "from": 173.46,
+   "to": 175.05,
+   "sid": 75,
+   "location": 2,
+   "content": "两肘不要向外打开",
+   "music": 0
+  },
+  {
+   "from": 175.05,
+   "to": 178.16,
+   "sid": 76,
+   "location": 2,
+   "content": "肘部向外打开会影响投篮的方向",
+   "music": 0
+  },
+  {
+   "from": 178.16,
+   "to": 179.51,
+   "sid": 77,
+   "location": 2,
+   "content": "向上举球时",
+   "music": 0
+  },
+  {
+   "from": 179.51,
+   "to": 182.12,
+   "sid": 78,
+   "location": 2,
+   "content": "球靠近身体尽量垂直举起",
+   "music": 0
+  },
+  {
+   "from": 182.12,
+   "to": 183.62,
+   "sid": 79,
+   "location": 2,
+   "content": "如果从远处举起",
+   "music": 0
+  },
+  {
+   "from": 183.62,
+   "to": 185.36,
+   "sid": 80,
+   "location": 2,
+   "content": "又会产生向后的力量",
+   "music": 0
+  },
+  {
+   "from": 185.36,
+   "to": 186.59,
+   "sid": 81,
+   "location": 2,
+   "content": "影响投篮发力",
+   "music": 0
+  },
+  {
+   "from": 186.59,
+   "to": 188.99,
+   "sid": 82,
+   "location": 2,
+   "content": "出手之后手臂完全伸直",
+   "music": 0
+  },
+  {
+   "from": 188.99,
+   "to": 190.56,
+   "sid": 83,
+   "location": 2,
+   "content": "手腕完全下压",
+   "music": 0
+  },
+  {
+   "from": 190.56,
+   "to": 193.56,
+   "sid": 84,
+   "location": 2,
+   "content": "处于篮球中线的手指指向篮筐",
+   "music": 0
+  },
+  {
+   "from": 193.56,
+   "to": 196.1,
+   "sid": 85,
+   "location": 2,
+   "content": "出手之后手肘要高于视线",
+   "music": 0
+  },
+  {
+   "from": 196.1,
+   "to": 199.76,
+   "sid": 86,
+   "location": 2,
+   "content": "这个技巧可以自动的帮你找到投篮的最佳弧度",
+   "music": 0
+  },
+  {
+   "from": 199.76,
+   "to": 200.99,
+   "sid": 87,
+   "location": 2,
+   "content": "投篮弧度越高",
+   "music": 0
+  },
+  {
+   "from": 200.99,
+   "to": 202.85,
+   "sid": 88,
+   "location": 2,
+   "content": "进球的角度也就越大",
+   "music": 0
+  },
+  {
+   "from": 202.85,
+   "to": 204.3,
+   "sid": 89,
+   "location": 2,
+   "content": "也更容易进球",
+   "music": 0
+  },
+  {
+   "from": 204.3,
+   "to": 208,
+   "sid": 90,
+   "location": 2,
+   "content": "辅助手在出手的最后一刻要离开球",
+   "music": 0
+  },
+  {
+   "from": 208,
+   "to": 210.37,
+   "sid": 91,
+   "location": 2,
+   "content": "辅助手不参与投篮的发力",
+   "music": 0
+  },
+  {
+   "from": 210.37,
+   "to": 213.22,
+   "sid": 92,
+   "location": 2,
+   "content": "并且手掌伸直指向篮筐的侧边",
+   "music": 0
+  },
+  {
+   "from": 213.22,
+   "to": 215.92,
+   "sid": 93,
+   "location": 2,
+   "content": "就像在引导投篮方向一样",
+   "music": 0
+  },
+  {
+   "from": 215.92,
+   "to": 219.04,
+   "sid": 94,
+   "location": 2,
+   "content": "有一个常见的错误是投篮出手之后",
+   "music": 0
+  },
+  {
+   "from": 219.04,
+   "to": 221.68,
+   "sid": 95,
+   "location": 2,
+   "content": "辅助手外翻参与了投篮的发力",
+   "music": 0
+  },
+  {
+   "from": 221.68,
+   "to": 223.84,
+   "sid": 96,
+   "location": 2,
+   "content": "导致投篮方向互左忽右",
+   "music": 0
+  },
+  {
+   "from": 223.84,
+   "to": 224.71,
+   "sid": 97,
+   "location": 2,
+   "content": "飘忽不定",
+   "music": 0
+  },
+  {
+   "from": 224.71,
+   "to": 228.5,
+   "sid": 98,
+   "location": 2,
+   "content": "修改或者说建立投篮姿势是一个漫长的过程",
+   "music": 0
+  },
+  {
+   "from": 228.5,
+   "to": 230.63,
+   "sid": 99,
+   "location": 2,
+   "content": "需要从近到远慢慢练习",
+   "music": 0
+  },
+  {
+   "from": 230.63,
+   "to": 232.56,
+   "sid": 100,
+   "location": 2,
+   "content": "在每次投篮出手之后",
+   "music": 0
+  },
+  {
+   "from": 232.56,
+   "to": 234.15,
+   "sid": 101,
+   "location": 2,
+   "content": "固定住出手姿势",
+   "music": 0
+  },
+  {
+   "from": 234.15,
+   "to": 235.83,
+   "sid": 102,
+   "location": 2,
+   "content": "从下到上检查一遍",
+   "music": 0
+  },
+  {
+   "from": 235.83,
+   "to": 237.69,
+   "sid": 103,
+   "location": 2,
+   "content": "如果有发生偏差的地方",
+   "music": 0
+  },
+  {
+   "from": 237.69,
+   "to": 238.92,
+   "sid": 104,
+   "location": 2,
+   "content": "把它纠正过来",
+   "music": 0
+  },
+  {
+   "from": 238.92,
+   "to": 240.4,
+   "sid": 105,
+   "location": 2,
+   "content": "再重新投一遍",
+   "music": 0
+  },
+  {
+   "from": 240.4,
+   "to": 243.34,
+   "sid": 106,
+   "location": 2,
+   "content": "最后没有绝对标准的投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 243.34,
+   "to": 245.6,
+   "sid": 107,
+   "location": 2,
+   "content": "只有最适合自己的投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 245.6,
+   "to": 247.22,
+   "sid": 108,
+   "location": 2,
+   "content": "每个人的身材比例",
+   "music": 0
+  },
+  {
+   "from": 247.22,
+   "to": 250.07,
+   "sid": 109,
+   "location": 2,
+   "content": "骨骼肌肉和发力习惯都有差别",
+   "music": 0
+  },
+  {
+   "from": 250.07,
+   "to": 251.6,
+   "sid": 110,
+   "location": 2,
+   "content": "所以只要投得舒服",
+   "music": 0
+  },
+  {
+   "from": 251.6,
+   "to": 253.7,
+   "sid": 111,
+   "location": 2,
+   "content": "能进球就是好姿势",
+   "music": 0
+  },
+  {
+   "from": 253.7,
+   "to": 254.66,
+   "sid": 112,
+   "location": 2,
+   "content": "我是小克",
+   "music": 0
+  },
+  {
+   "from": 254.66,
+   "to": 257.42,
+   "sid": 113,
+   "location": 2,
+   "content": "一个让你篮球打得更好的篮球传道士",
+   "music": 0
+  },
+  {
+   "from": 257.42,
+   "to": 259.04,
+   "sid": 114,
+   "location": 2,
+   "content": "如果视频对你有帮助的话",
+   "music": 0
+  },
+  {
+   "from": 259.04,
+   "to": 260.24,
+   "sid": 115,
+   "location": 2,
+   "content": "记得点赞转发",
+   "music": 0
+  },
+  {
+   "from": 260.24,
+   "to": 262.76,
+   "sid": 116,
+   "location": 2,
+   "content": "如果有疑问或者想看其他的技巧",
+   "music": 0
+  },
+  {
+   "from": 262.76,
+   "to": 264.29,
+   "sid": 117,
+   "location": 2,
+   "content": "欢迎在评论区留言",
+   "music": 0
+  },
+  {
+   "from": 264.29,
+   "to": 265.84,
+   "sid": 118,
+   "location": 2,
+   "content": "我们下次再见",
+   "music": 0
+  }
+ ]
+}

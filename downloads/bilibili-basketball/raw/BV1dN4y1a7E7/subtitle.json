@@ -1,0 +1,540 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 0.16,
+   "to": 2.83,
+   "sid": 1,
+   "location": 2,
+   "content": "运球只是辅助脚步的运用才是关键",
+   "music": 0
+  },
+  {
+   "from": 2.83,
+   "to": 4.12,
+   "sid": 2,
+   "location": 2,
+   "content": "今天我们做胯下",
+   "music": 0
+  },
+  {
+   "from": 4.12,
+   "to": 5.56,
+   "sid": 3,
+   "location": 2,
+   "content": "通过步伐的节奏练习",
+   "music": 0
+  },
+  {
+   "from": 5.56,
+   "to": 7.3,
+   "sid": 4,
+   "location": 2,
+   "content": "我先示范胯下突破步伐",
+   "music": 0
+  },
+  {
+   "from": 7.3,
+   "to": 8.14,
+   "sid": 5,
+   "location": 2,
+   "content": "变速时机",
+   "music": 0
+  },
+  {
+   "from": 8.14,
+   "to": 11.38,
+   "sid": 6,
+   "location": 2,
+   "content": "我们不再求移动时变速启动",
+   "music": 0
+  },
+  {
+   "from": 14.08,
+   "to": 18,
+   "sid": 7,
+   "location": 2,
+   "content": "我们等球回到手中时再变速启动",
+   "music": 0
+  },
+  {
+   "from": 21.34,
+   "to": 23.1,
+   "sid": 8,
+   "location": 2,
+   "content": "这是今天做动作的时机",
+   "music": 0
+  },
+  {
+   "from": 23.1,
+   "to": 24.9,
+   "sid": 9,
+   "location": 2,
+   "content": "当然不代表其他都是错的",
+   "music": 0
+  },
+  {
+   "from": 24.9,
+   "to": 25.74,
+   "sid": 10,
+   "location": 2,
+   "content": "启动步伐",
+   "music": 0
+  },
+  {
+   "from": 25.74,
+   "to": 26.64,
+   "sid": 11,
+   "location": 2,
+   "content": "胯下运球",
+   "music": 0
+  },
+  {
+   "from": 26.64,
+   "to": 30.36,
+   "sid": 12,
+   "location": 2,
+   "content": "我们前侧的脚是全脚掌着地的同时小腿垂直地",
+   "music": 0
+  },
+  {
+   "from": 30.36,
+   "to": 32.28,
+   "sid": 13,
+   "location": 2,
+   "content": "当我们启动后脚先蹬地",
+   "music": 0
+  },
+  {
+   "from": 32.28,
+   "to": 33.82,
+   "sid": 14,
+   "location": 2,
+   "content": "推着重心向前移动时",
+   "music": 0
+  },
+  {
+   "from": 33.82,
+   "to": 35.44,
+   "sid": 15,
+   "location": 2,
+   "content": "前脚要紧接着抬起",
+   "music": 0
+  },
+  {
+   "from": 35.44,
+   "to": 36.82,
+   "sid": 16,
+   "location": 2,
+   "content": "用前脚掌部分着地",
+   "music": 0
+  },
+  {
+   "from": 36.82,
+   "to": 37.57,
+   "sid": 17,
+   "location": 2,
+   "content": "身体前倾",
+   "music": 0
+  },
+  {
+   "from": 37.57,
+   "to": 40.629,
+   "sid": 18,
+   "location": 2,
+   "content": "小腿斜角度形成充分利于蹬地的动作",
+   "music": 0
+  },
+  {
+   "from": 40.629,
+   "to": 41.589,
+   "sid": 19,
+   "location": 2,
+   "content": "完整动作",
+   "music": 0
+  },
+  {
+   "from": 41.589,
+   "to": 43.269,
+   "sid": 20,
+   "location": 2,
+   "content": "悬浮球是变速下沉",
+   "music": 0
+  },
+  {
+   "from": 43.269,
+   "to": 45.08,
+   "sid": 21,
+   "location": 2,
+   "content": "蹬地爆发加速",
+   "music": 0
+  },
+  {
+   "from": 45.54,
+   "to": 47.24,
+   "sid": 22,
+   "location": 2,
+   "content": "以这个突破步伐为基础",
+   "music": 0
+  },
+  {
+   "from": 47.24,
+   "to": 48.5,
+   "sid": 23,
+   "location": 2,
+   "content": "我们做突破假动作",
+   "music": 0
+  },
+  {
+   "from": 48.5,
+   "to": 50.54,
+   "sid": 24,
+   "location": 2,
+   "content": "胯下晃动",
+   "music": 0
+  },
+  {
+   "from": 54.36,
+   "to": 55.52,
+   "sid": 25,
+   "location": 2,
+   "content": "围绕胯下动作",
+   "music": 0
+  },
+  {
+   "from": 55.52,
+   "to": 56.93,
+   "sid": 26,
+   "location": 2,
+   "content": "我们穿插两排运球",
+   "music": 0
+  },
+  {
+   "from": 56.93,
+   "to": 60.83,
+   "sid": 27,
+   "location": 2,
+   "content": "体前胯下121212",
+   "music": 0
+  },
+  {
+   "from": 60.83,
+   "to": 64.77,
+   "sid": 28,
+   "location": 2,
+   "content": "胯下晃动节奏晃动一二",
+   "music": 0
+  },
+  {
+   "from": 64.77,
+   "to": 67.05,
+   "sid": 29,
+   "location": 2,
+   "content": "你可以在二之后抬起重心停顿",
+   "music": 0
+  },
+  {
+   "from": 67.05,
+   "to": 70.37,
+   "sid": 30,
+   "location": 2,
+   "content": "然后做循环活动",
+   "music": 0
+  },
+  {
+   "from": 70.37,
+   "to": 76.77,
+   "sid": 31,
+   "location": 2,
+   "content": "一二活动一二活动一二活动一二活动一",
+   "music": 0
+  },
+  {
+   "from": 76.77,
+   "to": 78.27,
+   "sid": 32,
+   "location": 2,
+   "content": "晃动一二",
+   "music": 0
+  },
+  {
+   "from": 78.27,
+   "to": 79.8,
+   "sid": 33,
+   "location": 2,
+   "content": "在胯下晃动的节奏中",
+   "music": 0
+  },
+  {
+   "from": 79.8,
+   "to": 82.74,
+   "sid": 34,
+   "location": 2,
+   "content": "你可以在体前拍变速启动",
+   "music": 0
+  },
+  {
+   "from": 84.5,
+   "to": 87.64,
+   "sid": 35,
+   "location": 2,
+   "content": "或者在胯下拍变速启动",
+   "music": 0
+  },
+  {
+   "from": 89.92,
+   "to": 91.14,
+   "sid": 36,
+   "location": 2,
+   "content": "找准变速时机",
+   "music": 0
+  },
+  {
+   "from": 91.14,
+   "to": 93.36,
+   "sid": 37,
+   "location": 2,
+   "content": "你就可以做别人看起来复杂的动作了",
+   "music": 0
+  },
+  {
+   "from": 93.36,
+   "to": 94.2,
+   "sid": 38,
+   "location": 2,
+   "content": "提前拍变速",
+   "music": 0
+  },
+  {
+   "from": 94.2,
+   "to": 95.82,
+   "sid": 39,
+   "location": 2,
+   "content": "两拍",
+   "music": 0
+  },
+  {
+   "from": 98.06,
+   "to": 100.96,
+   "sid": 40,
+   "location": 2,
+   "content": "胯下拍变速三拍",
+   "music": 0
+  },
+  {
+   "from": 103.76,
+   "to": 106.03,
+   "sid": 41,
+   "location": 2,
+   "content": "你可以在节奏运球后自由发挥",
+   "music": 0
+  },
+  {
+   "from": 106.03,
+   "to": 109.6,
+   "sid": 42,
+   "location": 2,
+   "content": "比如一横一二反切一二",
+   "music": 0
+  },
+  {
+   "from": 109.6,
+   "to": 111.53,
+   "sid": 43,
+   "location": 2,
+   "content": "横移纵剑",
+   "music": 0
+  },
+  {
+   "from": 111.53,
+   "to": 112.85,
+   "sid": 44,
+   "location": 2,
+   "content": "但切记不要绝对",
+   "music": 0
+  },
+  {
+   "from": 112.85,
+   "to": 114.18,
+   "sid": 45,
+   "location": 2,
+   "content": "运球后我又做一个唉",
+   "music": 0
+  },
+  {
+   "from": 114.18,
+   "to": 116.76,
+   "sid": 46,
+   "location": 2,
+   "content": "胯下背后背后是原地的节奏运球",
+   "music": 0
+  },
+  {
+   "from": 116.76,
+   "to": 119.16,
+   "sid": 47,
+   "location": 2,
+   "content": "那么你可以按照这个框架做额外的发挥",
+   "music": 0
+  },
+  {
+   "from": 119.16,
+   "to": 121.2,
+   "sid": 48,
+   "location": 2,
+   "content": "其实就是节奏运球加过人动作",
+   "music": 0
+  },
+  {
+   "from": 121.2,
+   "to": 126.01,
+   "sid": 49,
+   "location": 2,
+   "content": "比如节奏运球123变速一二走进阶",
+   "music": 0
+  },
+  {
+   "from": 126.01,
+   "to": 127.84,
+   "sid": 50,
+   "location": 2,
+   "content": "围绕胯下动作做后撤步",
+   "music": 0
+  },
+  {
+   "from": 127.84,
+   "to": 128.77,
+   "sid": 51,
+   "location": 2,
+   "content": "前脚蹬地",
+   "music": 0
+  },
+  {
+   "from": 128.77,
+   "to": 129.94,
+   "sid": 52,
+   "location": 2,
+   "content": "后脚后退一步",
+   "music": 0
+  },
+  {
+   "from": 129.94,
+   "to": 132.91,
+   "sid": 53,
+   "location": 2,
+   "content": "你可以将它作为胯下晃动一二的节奏外",
+   "music": 0
+  },
+  {
+   "from": 132.91,
+   "to": 137.06,
+   "sid": 54,
+   "location": 2,
+   "content": "第三拍纵向向后拉开空间的选择啊",
+   "music": 0
+  },
+  {
+   "from": 137.06,
+   "to": 140.02,
+   "sid": 55,
+   "location": 2,
+   "content": "晃动123",
+   "music": 0
+  },
+  {
+   "from": 140.66,
+   "to": 143.35,
+   "sid": 56,
+   "location": 2,
+   "content": "你也可以将胯下后撤作为节奏动作",
+   "music": 0
+  },
+  {
+   "from": 143.35,
+   "to": 145.95,
+   "sid": 57,
+   "location": 2,
+   "content": "胯下晃动一二",
+   "music": 0
+  },
+  {
+   "from": 145.95,
+   "to": 147.75,
+   "sid": 58,
+   "location": 2,
+   "content": "胯下后撤一二",
+   "music": 0
+  },
+  {
+   "from": 147.75,
+   "to": 151.559,
+   "sid": 59,
+   "location": 2,
+   "content": "或者反过来胯下后撤一二",
+   "music": 0
+  },
+  {
+   "from": 151.559,
+   "to": 153.029,
+   "sid": 60,
+   "location": 2,
+   "content": "晃动一二",
+   "music": 0
+  },
+  {
+   "from": 153.029,
+   "to": 155.48,
+   "sid": 61,
+   "location": 2,
+   "content": "收球投篮结束",
+   "music": 0
+  },
+  {
+   "from": 155.48,
+   "to": 157.52,
+   "sid": 62,
+   "location": 2,
+   "content": "希望大家可以在练习中收获到",
+   "music": 0
+  },
+  {
+   "from": 157.52,
+   "to": 158.9,
+   "sid": 63,
+   "location": 2,
+   "content": "更好的理解与运用",
+   "music": 0
+  },
+  {
+   "from": 158.9,
+   "to": 160.31,
+   "sid": 64,
+   "location": 2,
+   "content": "也欢迎在留言分享",
+   "music": 0
+  },
+  {
+   "from": 160.31,
+   "to": 161.24,
+   "sid": 65,
+   "location": 2,
+   "content": "我是五毛变向",
+   "music": 0
+  },
+  {
+   "from": 161.24,
+   "to": 162.6,
+   "sid": 66,
+   "location": 2,
+   "content": "我们下期再见",
+   "music": 0
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "sync-en-v1.2.0.4-t0.2.c",
+ "body": [
+  {
+   "from": 0.08,
+   "to": 2.6,
+   "sid": 1,
+   "location": 2,
+   "content": "我们有三个不可保护的中距离动作"
+  },
+  {
+   "from": 2.6,
+   "to": 4.509,
+   "sid": 2,
+   "location": 2,
+   "content": "最后一个废话"
+  },
+  {
+   "from": 4.509,
+   "to": 5.449,
+   "sid": 3,
+   "location": 2,
+   "content": "即使是第二个"
+  },
+  {
+   "from": 5.449,
+   "to": 7.329,
+   "sid": 4,
+   "location": 2,
+   "content": "这些是我最喜欢用的摩托"
+  },
+  {
+   "from": 7.329,
+   "to": 10.729,
+   "sid": 5,
+   "location": 2,
+   "content": "我告诉你 他们几乎每次都起作用"
+  },
+  {
+   "from": 10.729,
+   "to": 14.32,
+   "sid": 6,
+   "location": 2,
+   "content": "尤其是当你的武器库里有这三个人的时候"
+  },
+  {
+   "from": 14.32,
+   "to": 15.48,
+   "sid": 7,
+   "location": 2,
+   "content": "如果防守队员射门"
+  },
+  {
+   "from": 15.48,
+   "to": 16.219,
+   "sid": 8,
+   "location": 2,
+   "content": "第一个"
+  },
+  {
+   "from": 16.219,
+   "to": 17.72,
+   "sid": 9,
+   "location": 2,
+   "content": "第二个就在那里"
+  },
+  {
+   "from": 17.72,
+   "to": 19.38,
+   "sid": 10,
+   "location": 2,
+   "content": "防守队员打了第二个"
+  },
+  {
+   "from": 19.419,
+   "to": 21.119,
+   "sid": 11,
+   "location": 2,
+   "content": "第三个会让他们吃吐司"
+  },
+  {
+   "from": 21.119,
+   "to": 23.18,
+   "sid": 12,
+   "location": 2,
+   "content": "所以你们一定要跟上"
+  },
+  {
+   "from": 23.22,
+   "to": 24.7,
+   "sid": 13,
+   "location": 2,
+   "content": "把这些加到你的包里"
+  },
+  {
+   "from": 24.7,
+   "to": 26.85,
+   "sid": 14,
+   "location": 2,
+   "content": "你们可以在游戏中使用它们"
+  },
+  {
+   "from": 26.85,
+   "to": 30.97,
+   "sid": 15,
+   "location": 2,
+   "content": "第一个不可保护的中距离选择是进入一个开放的下降"
+  },
+  {
+   "from": 30.97,
+   "to": 32.99,
+   "sid": 16,
+   "location": 2,
+   "content": "然后跑向球边"
+  },
+  {
+   "from": 32.99,
+   "to": 35.79,
+   "sid": 17,
+   "location": 2,
+   "content": "方向是一个平角"
+  },
+  {
+   "from": 35.79,
+   "to": 38.93,
+   "sid": 18,
+   "location": 2,
+   "content": "所以当你的动量下坡时"
+  },
+  {
+   "from": 38.93,
+   "to": 43.05,
+   "sid": 19,
+   "location": 2,
+   "content": "你要向球面进攻 改变角度"
+  },
+  {
+   "from": 43.05,
+   "to": 44.37,
+   "sid": 20,
+   "location": 2,
+   "content": "当你跑平了"
+  },
+  {
+   "from": 44.37,
+   "to": 48.25,
+   "sid": 21,
+   "location": 2,
+   "content": "防守者的动量 身体角度可能会下坡"
+  },
+  {
+   "from": 48.25,
+   "to": 52.3,
+   "sid": 22,
+   "location": 2,
+   "content": "给你选择和机会进入一个有控制的镜头"
+  },
+  {
+   "from": 52.3,
+   "to": 54.82,
+   "sid": 23,
+   "location": 2,
+   "content": "你和你的防守者之间有很大的空间"
+  },
+  {
+   "from": 54.82,
+   "to": 58.12,
+   "sid": 24,
+   "location": 2,
+   "content": "所以我们要做的就是"
+  },
+  {
+   "from": 58.12,
+   "to": 61.88,
+   "sid": 25,
+   "location": 2,
+   "content": "我们实际上会跳过进入一个开放的下降"
+  },
+  {
+   "from": 61.88,
+   "to": 64.18,
+   "sid": 26,
+   "location": 2,
+   "content": "我们的脚是中立的"
+  },
+  {
+   "from": 64.18,
+   "to": 67.58,
+   "sid": 27,
+   "location": 2,
+   "content": "使我们有能力在一条平坦的线上攻击"
+  },
+  {
+   "from": 67.58,
+   "to": 74.04,
+   "sid": 28,
+   "location": 2,
+   "content": "然后从这个位置你的肩膀到达横向的空间"
+  },
+  {
+   "from": 74.04,
+   "to": 75.38,
+   "sid": 29,
+   "location": 2,
+   "content": "有点进步"
+  },
+  {
+   "from": 75.38,
+   "to": 77.62,
+   "sid": 30,
+   "location": 2,
+   "content": "但更多的是横向比任何东西"
+  },
+  {
+   "from": 77.62,
+   "to": 78.96,
+   "sid": 31,
+   "location": 2,
+   "content": "所以我们可以平稳运行"
+  },
+  {
+   "from": 78.96,
+   "to": 81.259,
+   "sid": 32,
+   "location": 2,
+   "content": "当防守队员下坡时"
+  },
+  {
+   "from": 99.08,
+   "to": 102.42,
+   "sid": 33,
+   "location": 2,
+   "content": "第二个选择是仍然使用跳过"
+  },
+  {
+   "from": 102.42,
+   "to": 103.7,
+   "sid": 34,
+   "location": 2,
+   "content": "还在用空投"
+  },
+  {
+   "from": 103.7,
+   "to": 105.26,
+   "sid": 35,
+   "location": 2,
+   "content": "但现在当你到达太空时"
+  },
+  {
+   "from": 105.26,
+   "to": 106.7,
+   "sid": 36,
+   "location": 2,
+   "content": "而不是进入一个镜头"
+  },
+  {
+   "from": 106.72,
+   "to": 110.84,
+   "sid": 37,
+   "location": 2,
+   "content": "进入你的速度停止，展示投篮机会让防守者提升"
+  },
+  {
+   "from": 110.84,
+   "to": 113.9,
+   "sid": 38,
+   "location": 2,
+   "content": "当你这样做的时候，就会从他们身边攻击"
+  },
+  {
+   "from": 113.9,
+   "to": 116.06,
+   "sid": 39,
+   "location": 2,
+   "content": "所以这仍然是相同的方法"
+  },
+  {
+   "from": 117.94,
+   "to": 119.64,
+   "sid": 40,
+   "location": 2,
+   "content": "我去了那个空旷的地方"
+  },
+  {
+   "from": 119.64,
+   "to": 121.62,
+   "sid": 41,
+   "location": 2,
+   "content": "当我到达空间"
+  },
+  {
+   "from": 121.62,
+   "to": 125,
+   "sid": 42,
+   "location": 2,
+   "content": "我想卖的事实是，我得到了一个镜头"
+  },
+  {
+   "from": 125,
+   "to": 125.66,
+   "sid": 43,
+   "location": 2,
+   "content": "所以我要做的是"
+  },
+  {
+   "from": 125.66,
+   "to": 127.08,
+   "sid": 44,
+   "location": 2,
+   "content": "我要把这个从手上拿下来"
+  },
+  {
+   "from": 127.14,
+   "to": 130.22,
+   "sid": 45,
+   "location": 2,
+   "content": "我要把它放在球的同时"
+  },
+  {
+   "from": 130.22,
+   "to": 132.44,
+   "sid": 46,
+   "location": 2,
+   "content": "当我的后脚踏进我的镜头"
+  },
+  {
+   "from": 132.5,
+   "to": 135.28,
+   "sid": 47,
+   "location": 2,
+   "content": "我的眼睛在看着他推销镜头"
+  },
+  {
+   "from": 135.28,
+   "to": 136.94,
+   "sid": 48,
+   "location": 2,
+   "content": "当我这么做的时候"
+  },
+  {
+   "from": 136.94,
+   "to": 139.86,
+   "sid": 49,
+   "location": 2,
+   "content": "防守者可能会对我的投篮提出质疑"
+  },
+  {
+   "from": 139.86,
+   "to": 142.74,
+   "sid": 50,
+   "location": 2,
+   "content": "然后我会迅速把球放在地上"
+  },
+  {
+   "from": 142.74,
+   "to": 144.22,
+   "sid": 51,
+   "location": 2,
+   "content": "去边缘"
+  },
+  {
+   "from": 144.22,
+   "to": 147.56,
+   "sid": 52,
+   "location": 2,
+   "content": "我在卖这个减速带和减速带"
+  },
+  {
+   "from": 147.56,
+   "to": 148.46,
+   "sid": 53,
+   "location": 2,
+   "content": "我说的是那个"
+  },
+  {
+   "from": 148.46,
+   "to": 153.04,
+   "sid": 54,
+   "location": 2,
+   "content": "内外线的步法 让我的后卫真正投入到一个位置上"
+  },
+  {
+   "from": 153.04,
+   "to": 155.4,
+   "sid": 55,
+   "location": 2,
+   "content": "我不想把我的脚"
+  },
+  {
+   "from": 155.82,
+   "to": 157.88,
+   "sid": 56,
+   "location": 2,
+   "content": "洗牌我的立场，进入一个跳跃"
+  },
+  {
+   "from": 157.88,
+   "to": 160.62,
+   "sid": 57,
+   "location": 2,
+   "content": "因为他们会在另一条线上结束"
+  },
+  {
+   "from": 160.62,
+   "to": 163.06,
+   "sid": 58,
+   "location": 2,
+   "content": "我在努力阻止我的身体"
+  },
+  {
+   "from": 163.56,
+   "to": 165.48,
+   "sid": 59,
+   "location": 2,
+   "content": "把那个防守队员叫出来"
+  },
+  {
+   "from": 165.48,
+   "to": 167.1,
+   "sid": 60,
+   "location": 2,
+   "content": "所以当我跌倒的时候"
+  },
+  {
+   "from": 167.1,
+   "to": 168.92,
+   "sid": 61,
+   "location": 2,
+   "content": "我可以绕过他们的框架"
+  },
+  {
+   "from": 168.92,
+   "to": 171.68,
+   "sid": 62,
+   "location": 2,
+   "content": "不用担心遇到他们或穿过他们"
+  },
+  {
+   "from": 189.02,
+   "to": 193.39,
+   "sid": 63,
+   "location": 2,
+   "content": "第三个选择仍然是用一个跳跃来接近那个中距离防守者"
+  },
+  {
+   "from": 193.39,
+   "to": 195.11,
+   "sid": 64,
+   "location": 2,
+   "content": "但现在不是攻击球边"
+  },
+  {
+   "from": 195.11,
+   "to": 196.51,
+   "sid": 65,
+   "location": 2,
+   "content": "你实际上是要反击"
+  },
+  {
+   "from": 196.51,
+   "to": 196.71,
+   "sid": 66,
+   "location": 2,
+   "content": "现在"
+  },
+  {
+   "from": 196.71,
+   "to": 197.39,
+   "sid": 67,
+   "location": 2,
+   "content": "当你这样做的时候"
+  },
+  {
+   "from": 197.39,
+   "to": 200.38,
+   "sid": 68,
+   "location": 2,
+   "content": "这不仅仅是一个进入太空和快速计数器"
+  },
+  {
+   "from": 200.38,
+   "to": 204.04,
+   "sid": 69,
+   "location": 2,
+   "content": "我真的希望你们把重量卖到球边"
+  },
+  {
+   "from": 204.04,
+   "to": 207.019,
+   "sid": 70,
+   "location": 2,
+   "content": "为了让防守者朝着那个方向努力"
+  },
+  {
+   "from": 207.019,
+   "to": 207.979,
+   "sid": 71,
+   "location": 2,
+   "content": "一旦我们做到了"
+  },
+  {
+   "from": 207.979,
+   "to": 209.439,
+   "sid": 72,
+   "location": 2,
+   "content": "一旦我们看到防守队员跳起来"
+  },
+  {
+   "from": 209.439,
+   "to": 212.339,
+   "sid": 73,
+   "location": 2,
+   "content": "然后我们要跨出一步，所以向前一步"
+  },
+  {
+   "from": 212.339,
+   "to": 215.86,
+   "sid": 74,
+   "location": 2,
+   "content": "当我们穿过双腿以相反的方向进入太空时"
+  },
+  {
+   "from": 215.86,
+   "to": 217.06,
+   "sid": 75,
+   "location": 2,
+   "content": "当我们这样做的时候"
+  },
+  {
+   "from": 217.06,
+   "to": 219.3,
+   "sid": 76,
+   "location": 2,
+   "content": "通常防守者有几个选择"
+  },
+  {
+   "from": 219.3,
+   "to": 221.86,
+   "sid": 77,
+   "location": 2,
+   "content": "他们可以跨身体一步"
+  },
+  {
+   "from": 221.86,
+   "to": 224.14,
+   "sid": 78,
+   "location": 2,
+   "content": "这让他们进入了一个跑步的位置"
+  },
+  {
+   "from": 224.14,
+   "to": 225.02,
+   "sid": 79,
+   "location": 2,
+   "content": "有点进去了"
+  },
+  {
+   "from": 225.02,
+   "to": 226.48,
+   "sid": 80,
+   "location": 2,
+   "content": "哦废话模式"
+  },
+  {
+   "from": 226.48,
+   "to": 230.2,
+   "sid": 81,
+   "location": 2,
+   "content": "他们得跑去追我们一两个"
+  },
+  {
+   "from": 230.2,
+   "to": 234.88,
+   "sid": 82,
+   "location": 2,
+   "content": "他们可以跳回太空 试图在我们前面"
+  },
+  {
+   "from": 234.88,
+   "to": 236.6,
+   "sid": 83,
+   "location": 2,
+   "content": "所以在这两种情况下"
+  },
+  {
+   "from": 236.6,
+   "to": 237.8,
+   "sid": 84,
+   "location": 2,
+   "content": "一旦我们改变方向"
+  },
+  {
+   "from": 237.8,
+   "to": 241.09,
+   "sid": 85,
+   "location": 2,
+   "content": "我们应该有机会"
+  },
+  {
+   "from": 241.09,
+   "to": 243.99,
+   "sid": 86,
+   "location": 2,
+   "content": "后退或继续向篮筐前进"
+  },
+  {
+   "from": 243.99,
+   "to": 245.95,
+   "sid": 87,
+   "location": 2,
+   "content": "所以我会考虑一些选择"
+  },
+  {
+   "from": 245.95,
+   "to": 246.43,
+   "sid": 88,
+   "location": 2,
+   "content": "好的"
+  },
+  {
+   "from": 246.43,
+   "to": 247.03,
+   "sid": 89,
+   "location": 2,
+   "content": "所以你们"
+  },
+  {
+   "from": 247.03,
+   "to": 250.06,
+   "sid": 90,
+   "location": 2,
+   "content": "可以知道在你改变方向后 你会做什么"
+  },
+  {
+   "from": 250.06,
+   "to": 254.56,
+   "sid": 91,
+   "location": 2,
+   "content": "但是再一次确保在跳过之后 我们把重量装到我们的球边"
+  },
+  {
+   "from": 254.56,
+   "to": 257.04,
+   "sid": 92,
+   "location": 2,
+   "content": "所以我们真的可以让防守者投入"
+  }
+ ]
+}

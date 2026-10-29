@@ -1,0 +1,316 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.18,
+   "to": 2.4,
+   "sid": 1,
+   "location": 2,
+   "content": "如果你想打更高水平的比赛",
+   "music": 0
+  },
+  {
+   "from": 2.4,
+   "to": 4.74,
+   "sid": 2,
+   "location": 2,
+   "content": "那你一定要意识到投篮的重要性",
+   "music": 0
+  },
+  {
+   "from": 4.74,
+   "to": 6.3,
+   "sid": 3,
+   "location": 2,
+   "content": "想让投篮更稳定",
+   "music": 0
+  },
+  {
+   "from": 6.3,
+   "to": 8.5,
+   "sid": 4,
+   "location": 2,
+   "content": "你必须要做好这三个细节",
+   "music": 0
+  },
+  {
+   "from": 8.5,
+   "to": 10.84,
+   "sid": 5,
+   "location": 2,
+   "content": "其中最后一个很多人都不知道",
+   "music": 0
+  },
+  {
+   "from": 10.84,
+   "to": 12.62,
+   "sid": 6,
+   "location": 2,
+   "content": "第一个训练节奏",
+   "music": 0
+  },
+  {
+   "from": 12.62,
+   "to": 14.48,
+   "sid": 7,
+   "location": 2,
+   "content": "很多人平时投篮很准",
+   "music": 0.19101122522408825
+  },
+  {
+   "from": 14.48,
+   "to": 15.95,
+   "sid": 8,
+   "location": 2,
+   "content": "但一打比赛就不准",
+   "music": 0
+  },
+  {
+   "from": 15.95,
+   "to": 18.44,
+   "sid": 9,
+   "location": 2,
+   "content": "很大原因是平时的投篮太随意",
+   "music": 0
+  },
+  {
+   "from": 18.44,
+   "to": 19.16,
+   "sid": 10,
+   "location": 2,
+   "content": "前散漫",
+   "music": 0
+  },
+  {
+   "from": 19.16,
+   "to": 21.68,
+   "sid": 11,
+   "location": 2,
+   "content": "这样的习惯到了快节奏的比赛中",
+   "music": 0
+  },
+  {
+   "from": 21.68,
+   "to": 24.6,
+   "sid": 12,
+   "location": 2,
+   "content": "一旦加快投篮出手速率就投不进了",
+   "music": 0
+  },
+  {
+   "from": 24.6,
+   "to": 27.69,
+   "sid": 13,
+   "location": 2,
+   "content": "所以平时的训练一定要结合实战才有效",
+   "music": 0
+  },
+  {
+   "from": 27.69,
+   "to": 30.42,
+   "sid": 14,
+   "location": 2,
+   "content": "另外你的投篮训练一定要有针对性",
+   "music": 0
+  },
+  {
+   "from": 30.42,
+   "to": 31.62,
+   "sid": 15,
+   "location": 2,
+   "content": "如果你是后卫",
+   "music": 0.12280700677131251
+  },
+  {
+   "from": 31.62,
+   "to": 33.96,
+   "sid": 16,
+   "location": 2,
+   "content": "就多练习三分和中距离投篮",
+   "music": 0
+  },
+  {
+   "from": 33.96,
+   "to": 35.22,
+   "sid": 17,
+   "location": 2,
+   "content": "如果你是锋线",
+   "music": 0
+  },
+  {
+   "from": 35.22,
+   "to": 37.41,
+   "sid": 18,
+   "location": 2,
+   "content": "就多练习急停跳投和罚篮",
+   "music": 0
+  },
+  {
+   "from": 37.41,
+   "to": 39.18,
+   "sid": 19,
+   "location": 2,
+   "content": "第二个投篮脚步",
+   "music": 0.09210525709833853
+  },
+  {
+   "from": 39.18,
+   "to": 42.03,
+   "sid": 20,
+   "location": 2,
+   "content": "正确的脚步是保证投篮稳定的关键",
+   "music": 0
+  },
+  {
+   "from": 42.03,
+   "to": 43.98,
+   "sid": 21,
+   "location": 2,
+   "content": "当我们运球急停投篮时",
+   "music": 0
+  },
+  {
+   "from": 43.98,
+   "to": 45.64,
+   "sid": 22,
+   "location": 2,
+   "content": "一般采用的是内外部",
+   "music": 0
+  },
+  {
+   "from": 45.64,
+   "to": 47.32,
+   "sid": 23,
+   "location": 2,
+   "content": "用这个脚步衔接投篮",
+   "music": 0
+  },
+  {
+   "from": 47.32,
+   "to": 49.27,
+   "sid": 24,
+   "location": 2,
+   "content": "会让投篮更加协调和顺畅",
+   "music": 0
+  },
+  {
+   "from": 49.27,
+   "to": 50.98,
+   "sid": 25,
+   "location": 2,
+   "content": "当我们接球投篮时",
+   "music": 0
+  },
+  {
+   "from": 50.98,
+   "to": 53.24,
+   "sid": 26,
+   "location": 2,
+   "content": "则采用的是双脚跳步接球",
+   "music": 0
+  },
+  {
+   "from": 53.24,
+   "to": 56.63,
+   "sid": 27,
+   "location": 2,
+   "content": "用这个方式可以快速调整好投篮时的脚步",
+   "music": 0
+  },
+  {
+   "from": 56.63,
+   "to": 59.09,
+   "sid": 28,
+   "location": 2,
+   "content": "帮你加快投篮出手时的速率",
+   "music": 0
+  },
+  {
+   "from": 59.09,
+   "to": 60.98,
+   "sid": 29,
+   "location": 2,
+   "content": "第三个固定手型",
+   "music": 0
+  },
+  {
+   "from": 60.98,
+   "to": 64.25,
+   "sid": 30,
+   "location": 2,
+   "content": "真正的投篮高手都具备出色的投篮手型",
+   "music": 0
+  },
+  {
+   "from": 64.25,
+   "to": 66.62,
+   "sid": 31,
+   "location": 2,
+   "content": "固定手型是投篮稳定的关键",
+   "music": 0
+  },
+  {
+   "from": 66.62,
+   "to": 69.4,
+   "sid": 32,
+   "location": 2,
+   "content": "我们练习的时候可以采用卷球投篮",
+   "music": 0
+  },
+  {
+   "from": 69.4,
+   "to": 73.04,
+   "sid": 33,
+   "location": 2,
+   "content": "这个动作不仅可以帮你强化投篮时的起球轨迹",
+   "music": 0.24431817487732777
+  },
+  {
+   "from": 73.04,
+   "to": 74.9,
+   "sid": 34,
+   "location": 2,
+   "content": "还能提升上下肢的协同",
+   "music": 0.03225806278181817
+  },
+  {
+   "from": 74.9,
+   "to": 76.19,
+   "sid": 35,
+   "location": 2,
+   "content": "发力好了",
+   "music": 0
+  },
+  {
+   "from": 76.19,
+   "to": 78.02,
+   "sid": 36,
+   "location": 2,
+   "content": "如果你觉得视频有用的话",
+   "music": 0
+  },
+  {
+   "from": 78.02,
+   "to": 79.25,
+   "sid": 37,
+   "location": 2,
+   "content": "一定要点赞收藏",
+   "music": 0
+  },
+  {
+   "from": 79.25,
+   "to": 80.54,
+   "sid": 38,
+   "location": 2,
+   "content": "避免丢失",
+   "music": 0
+  }
+ ]
+}

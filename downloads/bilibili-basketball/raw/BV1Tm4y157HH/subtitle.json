@@ -1,0 +1,636 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.34,
+   "to": 2.16,
+   "sid": 1,
+   "location": 2,
+   "content": "如果你中距离很准",
+   "music": 0
+  },
+  {
+   "from": 2.16,
+   "to": 3.9,
+   "sid": 2,
+   "location": 2,
+   "content": "一出三分线就打铁",
+   "music": 0
+  },
+  {
+   "from": 3.9,
+   "to": 4.82,
+   "sid": 3,
+   "location": 2,
+   "content": "甚至投不到",
+   "music": 0
+  },
+  {
+   "from": 4.82,
+   "to": 7.94,
+   "sid": 4,
+   "location": 2,
+   "content": "在网上听别人说要先顶肘再压腕",
+   "music": 0
+  },
+  {
+   "from": 7.94,
+   "to": 12.44,
+   "sid": 5,
+   "location": 2,
+   "content": "但自己做起来总是这样或者这样",
+   "music": 0
+  },
+  {
+   "from": 12.44,
+   "to": 15.76,
+   "sid": 6,
+   "location": 2,
+   "content": "那是因为你不理解顶肘如何衔接压腕",
+   "music": 0
+  },
+  {
+   "from": 15.76,
+   "to": 18.64,
+   "sid": 7,
+   "location": 2,
+   "content": "本期视频为一段式投篮系列的第二集",
+   "music": 0.2627737130374566
+  },
+  {
+   "from": 18.64,
+   "to": 19.78,
+   "sid": 8,
+   "location": 2,
+   "content": "顶肘上篇",
+   "music": 0.23529409457900888
+  },
+  {
+   "from": 19.78,
+   "to": 22.8,
+   "sid": 9,
+   "location": 2,
+   "content": "在第一集分享的正确发力顺序的基础上",
+   "music": 0.10958903734284123
+  },
+  {
+   "from": 22.8,
+   "to": 25.62,
+   "sid": 10,
+   "location": 2,
+   "content": "这一期分享如何真正有效的顶肘",
+   "music": 0.03816793747450673
+  },
+  {
+   "from": 25.62,
+   "to": 27.48,
+   "sid": 11,
+   "location": 2,
+   "content": "在分析如何顶肘之前",
+   "music": 0.2674418449161704
+  },
+  {
+   "from": 27.48,
+   "to": 29.52,
+   "sid": 12,
+   "location": 2,
+   "content": "先来看看不顶肘是什么样的",
+   "music": 0
+  },
+  {
+   "from": 29.52,
+   "to": 30.98,
+   "sid": 13,
+   "location": 2,
+   "content": "常见的有两种情形",
+   "music": 0.5205479095515138
+  },
+  {
+   "from": 30.98,
+   "to": 32.84,
+   "sid": 14,
+   "location": 2,
+   "content": "第一种是在抬球点时",
+   "music": 0.01219512120761427
+  },
+  {
+   "from": 32.84,
+   "to": 35.54,
+   "sid": 15,
+   "location": 2,
+   "content": "手肘高于肩膀",
+   "music": 0.4571428244897991
+  },
+  {
+   "from": 35.76,
+   "to": 40.23,
+   "sid": 16,
+   "location": 2,
+   "content": "这种上肢模型肘部没有空间再向上顶",
+   "music": 0
+  },
+  {
+   "from": 40.23,
+   "to": 41.68,
+   "sid": 17,
+   "location": 2,
+   "content": "新手容易力量不足",
+   "music": 0.2620689474435221
+  },
+  {
+   "from": 41.68,
+   "to": 44.5,
+   "sid": 18,
+   "location": 2,
+   "content": "所以小臂需要向前甩",
+   "music": 0.2272727143595043
+  },
+  {
+   "from": 46.22,
+   "to": 49.76,
+   "sid": 19,
+   "location": 2,
+   "content": "不太适合投三分",
+   "music": 0.5315315075886695
+  },
+  {
+   "from": 49.76,
+   "to": 52.84,
+   "sid": 20,
+   "location": 2,
+   "content": "更适合中距离出手时使用二段式跳投",
+   "music": 0
+  },
+  {
+   "from": 52.84,
+   "to": 55.48,
+   "sid": 21,
+   "location": 2,
+   "content": "第二种是沉球后直接向上推",
+   "music": 0
+  },
+  {
+   "from": 55.48,
+   "to": 56.88,
+   "sid": 22,
+   "location": 2,
+   "content": "没有推球点的姿势",
+   "music": 0
+  },
+  {
+   "from": 56.88,
+   "to": 58.44,
+   "sid": 23,
+   "location": 2,
+   "content": "常见于模仿库里之后",
+   "music": 0
+  },
+  {
+   "from": 58.44,
+   "to": 61.05,
+   "sid": 24,
+   "location": 2,
+   "content": "觉得自己是一段式投篮的篮球爱好者",
+   "music": 0
+  },
+  {
+   "from": 61.05,
+   "to": 63.6,
+   "sid": 25,
+   "location": 2,
+   "content": "差不多等于三八推",
+   "music": 0.2888888728395081
+  },
+  {
+   "from": 63.86,
+   "to": 67.1,
+   "sid": 26,
+   "location": 2,
+   "content": "这类姿势最大的问题是没有分开顶肘和压腕",
+   "music": 0.16981131541474087
+  },
+  {
+   "from": 67.1,
+   "to": 69.12,
+   "sid": 27,
+   "location": 2,
+   "content": "同时进行两个动作",
+   "music": 0.20238094033446904
+  },
+  {
+   "from": 69.12,
+   "to": 70.44,
+   "sid": 28,
+   "location": 2,
+   "content": "比起使用手腕",
+   "music": 0
+  },
+  {
+   "from": 70.44,
+   "to": 71.43,
+   "sid": 29,
+   "location": 2,
+   "content": "手指拨球",
+   "music": 0.2765957152557811
+  },
+  {
+   "from": 71.43,
+   "to": 76.36,
+   "sid": 30,
+   "location": 2,
+   "content": "这种姿势在移动中由于身体惯性很难控制发力",
+   "music": 0.2227979216891729
+  },
+  {
+   "from": 77.24,
+   "to": 78.88,
+   "sid": 31,
+   "location": 2,
+   "content": "所以该如何顶肘",
+   "music": 0.11111110339506007
+  },
+  {
+   "from": 78.88,
+   "to": 82.26,
+   "sid": 32,
+   "location": 2,
+   "content": "以及如何分开顶肘和压腕呢",
+   "music": 0.1282051227262754
+  },
+  {
+   "from": 82.26,
+   "to": 87.12,
+   "sid": 33,
+   "location": 2,
+   "content": "首先不要有过高的抬球点和过大的手臂夹角",
+   "music": 0.04469273618176622
+  },
+  {
+   "from": 88.48,
+   "to": 90.46,
+   "sid": 34,
+   "location": 2,
+   "content": "观察一段式投篮的轨迹",
+   "music": 0.3260869387996217
+  },
+  {
+   "from": 90.46,
+   "to": 94.02,
+   "sid": 35,
+   "location": 2,
+   "content": "会发现球不会经过这么高的位置",
+   "music": 0
+  },
+  {
+   "from": 94.02,
+   "to": 94.98,
+   "sid": 36,
+   "location": 2,
+   "content": "上一集说过",
+   "music": 0
+  },
+  {
+   "from": 94.98,
+   "to": 98.84,
+   "sid": 37,
+   "location": 2,
+   "content": "手掌托起球前下肢上来的力量都是无效传导",
+   "music": 0
+  },
+  {
+   "from": 98.84,
+   "to": 100.46,
+   "sid": 38,
+   "location": 2,
+   "content": "所以如果台球点过高",
+   "music": 0
+  },
+  {
+   "from": 100.46,
+   "to": 101.54,
+   "sid": 39,
+   "location": 2,
+   "content": "推球会很晚",
+   "music": 0
+  },
+  {
+   "from": 101.54,
+   "to": 103.4,
+   "sid": 40,
+   "location": 2,
+   "content": "导致流失更多下肢的力",
+   "music": 0
+  },
+  {
+   "from": 103.4,
+   "to": 105.34,
+   "sid": 41,
+   "location": 2,
+   "content": "当然高台球点也可以选择",
+   "music": 0
+  },
+  {
+   "from": 105.34,
+   "to": 107.32,
+   "sid": 42,
+   "location": 2,
+   "content": "和台球之后再做下肢伸展",
+   "music": 0
+  },
+  {
+   "from": 107.32,
+   "to": 109.84,
+   "sid": 43,
+   "location": 2,
+   "content": "保证所有下肢的力都被有效传导",
+   "music": 0.07499999687499688
+  },
+  {
+   "from": 109.84,
+   "to": 111.26,
+   "sid": 44,
+   "location": 2,
+   "content": "这种投篮虽然稳定",
+   "music": 0.28124997802734475
+  },
+  {
+   "from": 111.26,
+   "to": 113.48,
+   "sid": 45,
+   "location": 2,
+   "content": "但较少利用下压的筋膜弹性",
+   "music": 0.08108107742877702
+  },
+  {
+   "from": 113.48,
+   "to": 115.04,
+   "sid": 46,
+   "location": 2,
+   "content": "更需要臀腿力量起跳",
+   "music": 0
+  },
+  {
+   "from": 115.04,
+   "to": 118.7,
+   "sid": 47,
+   "location": 2,
+   "content": "对我这种身体素质一般的人不太友好",
+   "music": 0.27702701766800925
+  },
+  {
+   "from": 118.82,
+   "to": 120.68,
+   "sid": 48,
+   "location": 2,
+   "content": "所以我推荐低肘位夹角",
+   "music": 0
+  },
+  {
+   "from": 120.68,
+   "to": 124.76,
+   "sid": 49,
+   "location": 2,
+   "content": "夹角可以更完整的接收下肢传上来的力",
+   "music": 0.16568046847099296
+  },
+  {
+   "from": 124.92,
+   "to": 126.48,
+   "sid": 50,
+   "location": 2,
+   "content": "一个明显的对比就是",
+   "music": 0.27142855204081334
+  },
+  {
+   "from": 126.48,
+   "to": 128.82,
+   "sid": 51,
+   "location": 2,
+   "content": "汤神和布克几乎同样的动作",
+   "music": 0
+  },
+  {
+   "from": 128.82,
+   "to": 131.359,
+   "sid": 52,
+   "location": 2,
+   "content": "汤神的高台球点导致没有顶肘空间",
+   "music": 0.24419061661320957
+  },
+  {
+   "from": 131.359,
+   "to": 132.139,
+   "sid": 53,
+   "location": 2,
+   "content": "经常头短",
+   "music": 0
+  },
+  {
+   "from": 132.139,
+   "to": 133.399,
+   "sid": 54,
+   "location": 2,
+   "content": "而布克的低肘位",
+   "music": 0
+  },
+  {
+   "from": 133.399,
+   "to": 137.239,
+   "sid": 55,
+   "location": 2,
+   "content": "让他的投篮感觉非常有弹性和爆发力",
+   "music": 0.0962606406419576
+  },
+  {
+   "from": 144.14,
+   "to": 145,
+   "sid": 56,
+   "location": 2,
+   "content": "无则加勉",
+   "music": 0
+  },
+  {
+   "from": 145,
+   "to": 147.52,
+   "sid": 57,
+   "location": 2,
+   "content": "在跳投时依然使用低肘位和小夹角",
+   "music": 0
+  },
+  {
+   "from": 147.52,
+   "to": 150.28,
+   "sid": 58,
+   "location": 2,
+   "content": "所以给人感觉上肢爆发力很足",
+   "music": 0.1916666586805492
+  },
+  {
+   "from": 150.28,
+   "to": 151.24,
+   "sid": 59,
+   "location": 2,
+   "content": "总结就是",
+   "music": 0
+  },
+  {
+   "from": 151.24,
+   "to": 155.24,
+   "sid": 60,
+   "location": 2,
+   "content": "高台九点时向前甩的力和下肢的力有明显转折",
+   "music": 0
+  },
+  {
+   "from": 155.24,
+   "to": 156.92,
+   "sid": 61,
+   "location": 2,
+   "content": "即使力量传导很流畅",
+   "music": 0
+  },
+  {
+   "from": 156.92,
+   "to": 158.66,
+   "sid": 62,
+   "location": 2,
+   "content": "还是会有轻微停顿的感觉",
+   "music": 0
+  },
+  {
+   "from": 158.66,
+   "to": 160.46,
+   "sid": 63,
+   "location": 2,
+   "content": "所以想要练成一段式投篮",
+   "music": 0
+  },
+  {
+   "from": 160.46,
+   "to": 163.44,
+   "sid": 64,
+   "location": 2,
+   "content": "需要使用低肘位和小夹角",
+   "music": 0.33606555999731064
+  },
+  {
+   "from": 163.44,
+   "to": 165.84,
+   "sid": 65,
+   "location": 2,
+   "content": "关于分开顶肘和压腕的重要性",
+   "music": 0.3451327280914867
+  },
+  {
+   "from": 165.84,
+   "to": 168.9,
+   "sid": 66,
+   "location": 2,
+   "content": "零天赋射手提过一篇NTNU发表的论文",
+   "music": 0.08496731748472515
+  },
+  {
+   "from": 168.9,
+   "to": 169.32,
+   "sid": 67,
+   "location": 2,
+   "content": "表明",
+   "music": 0
+  },
+  {
+   "from": 169.32,
+   "to": 172.16,
+   "sid": 68,
+   "location": 2,
+   "content": "职业和业余球员最大的投篮区别在于",
+   "music": 0
+  },
+  {
+   "from": 172.16,
+   "to": 173.9,
+   "sid": 69,
+   "location": 2,
+   "content": "顶肘和压腕的分离程度",
+   "music": 0
+  },
+  {
+   "from": 173.9,
+   "to": 175.98,
+   "sid": 70,
+   "location": 2,
+   "content": "同样的压腕如果分离地越好",
+   "music": 0
+  },
+  {
+   "from": 175.98,
+   "to": 178.26,
+   "sid": 71,
+   "location": 2,
+   "content": "手腕脱手就会被破坏得越晚",
+   "music": 0
+  },
+  {
+   "from": 178.26,
+   "to": 181.68,
+   "sid": 72,
+   "location": 2,
+   "content": "更容易用手指手腕控制投篮",
+   "music": 0
+  },
+  {
+   "from": 182.82,
+   "to": 184.14,
+   "sid": 73,
+   "location": 2,
+   "content": "由于篇幅问题",
+   "music": 0.20338981327203706
+  },
+  {
+   "from": 184.14,
+   "to": 185.7,
+   "sid": 74,
+   "location": 2,
+   "content": "如何分离顶肘和压腕",
+   "music": 0
+  },
+  {
+   "from": 185.7,
+   "to": 188.9,
+   "sid": 75,
+   "location": 2,
+   "content": "将在第三集的顶肘下篇中详细分享",
+   "music": 0
+  },
+  {
+   "from": 188.9,
+   "to": 191.78,
+   "sid": 76,
+   "location": 2,
+   "content": "我是令分享最细节的篮球训练",
+   "music": 0
+  },
+  {
+   "from": 191.78,
+   "to": 192.35,
+   "sid": 77,
+   "location": 2,
+   "content": "不说谎",
+   "music": 0
+  },
+  {
+   "from": 192.35,
+   "to": 193.34,
+   "sid": 78,
+   "location": 2,
+   "content": "我们下期见",
+   "music": 0
+  }
+ ]
+}

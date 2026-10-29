@@ -1,0 +1,7564 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.36,
+      "to": 4.7,
+      "sid": 1,
+      "location": 2,
+      "content": "二一各位上午好",
+      "music": 0.0
+    },
+    {
+      "from": 4.7,
+      "to": 6.74,
+      "sid": 2,
+      "location": 2,
+      "content": "今天是10月14号",
+      "music": 0.0
+    },
+    {
+      "from": 6.74,
+      "to": 8.4,
+      "sid": 3,
+      "location": 2,
+      "content": "欢迎来到摩根士丹利",
+      "music": 0.0
+    },
+    {
+      "from": 8.4,
+      "to": 11.05,
+      "sid": 4,
+      "location": 2,
+      "content": "每周三的周期论剑在线直播",
+      "music": 0.0
+    },
+    {
+      "from": 11.05,
+      "to": 13.32,
+      "sid": 5,
+      "location": 2,
+      "content": "我是新毕业唐唐龙卫",
+      "music": 0.0
+    },
+    {
+      "from": 13.32,
+      "to": 15.34,
+      "sid": 6,
+      "location": 2,
+      "content": "基础材料行业分析师",
+      "music": 0.0
+    },
+    {
+      "from": 15.34,
+      "to": 18.44,
+      "sid": 7,
+      "location": 2,
+      "content": "今天我们讨论的主题将覆盖金融",
+      "music": 0.0
+    },
+    {
+      "from": 18.44,
+      "to": 19.57,
+      "sid": 8,
+      "location": 2,
+      "content": "保险",
+      "music": 0.0
+    },
+    {
+      "from": 19.57,
+      "to": 22.57,
+      "sid": 9,
+      "location": 2,
+      "content": "公用事业和新能源等行业更新",
+      "music": 0.0
+    },
+    {
+      "from": 22.57,
+      "to": 24.86,
+      "sid": 10,
+      "location": 2,
+      "content": "在我们开始今日的讨论前",
+      "music": 0.0
+    },
+    {
+      "from": 24.86,
+      "to": 26.8,
+      "sid": 11,
+      "location": 2,
+      "content": "我还需要读一个disclaimer",
+      "music": 0.0
+    },
+    {
+      "from": 26.8,
+      "to": 27.68,
+      "sid": 12,
+      "location": 2,
+      "content": "请注意",
+      "music": 0.0
+    },
+    {
+      "from": 27.68,
+      "to": 30.26,
+      "sid": 13,
+      "location": 2,
+      "content": "本会议仅面向摩根士丹利的机构",
+      "music": 0.0
+    },
+    {
+      "from": 30.26,
+      "to": 31.96,
+      "sid": 14,
+      "location": 2,
+      "content": "客户以及财务顾问",
+      "music": 0.0
+    },
+    {
+      "from": 31.96,
+      "to": 34.02,
+      "sid": 15,
+      "location": 2,
+      "content": "本会议不对媒体开放",
+      "music": 0.0
+    },
+    {
+      "from": 34.02,
+      "to": 35.6,
+      "sid": 16,
+      "location": 2,
+      "content": "如果您来自媒体",
+      "music": 0.0
+    },
+    {
+      "from": 35.6,
+      "to": 37.54,
+      "sid": 17,
+      "location": 2,
+      "content": "敬请退出本次会议",
+      "music": 0.0
+    },
+    {
+      "from": 37.54,
+      "to": 39.76,
+      "sid": 18,
+      "location": 2,
+      "content": "另外在会议过程中",
+      "music": 0.0
+    },
+    {
+      "from": 39.76,
+      "to": 42.74,
+      "sid": 19,
+      "location": 2,
+      "content": "您可以随时在屏幕左方发送您的问题",
+      "music": 0.0
+    },
+    {
+      "from": 42.74,
+      "to": 43.96,
+      "sid": 20,
+      "location": 2,
+      "content": "不需要等到最后",
+      "music": 0.0
+    },
+    {
+      "from": 43.96,
+      "to": 47.06,
+      "sid": 21,
+      "location": 2,
+      "content": "这样我们可以节约GNA等待的时间",
+      "music": 0.0
+    },
+    {
+      "from": 47.06,
+      "to": 49.46,
+      "sid": 22,
+      "location": 2,
+      "content": "那我们现在把时间交给我们",
+      "music": 0.0
+    },
+    {
+      "from": 49.46,
+      "to": 51.7,
+      "sid": 23,
+      "location": 2,
+      "content": "中国保险行业分析师rick",
+      "music": 0.0
+    },
+    {
+      "from": 51.7,
+      "to": 55.6,
+      "sid": 24,
+      "location": 2,
+      "content": "来分享一下保险行业近期更新以及三季度展望",
+      "music": 0.0
+    },
+    {
+      "from": 55.6,
+      "to": 56.7,
+      "sid": 25,
+      "location": 2,
+      "content": "瑞克",
+      "music": 0.0
+    },
+    {
+      "from": 58.38,
+      "to": 59.46,
+      "sid": 26,
+      "location": 2,
+      "content": "唉好的额",
+      "music": 0.0
+    },
+    {
+      "from": 59.46,
+      "to": 60.3,
+      "sid": 27,
+      "location": 2,
+      "content": "感谢孙姐",
+      "music": 0.0
+    },
+    {
+      "from": 60.3,
+      "to": 64.08,
+      "sid": 28,
+      "location": 2,
+      "content": "我是保险行业的分析师赵耀瑞克嗯",
+      "music": 0.0
+    },
+    {
+      "from": 64.08,
+      "to": 66.38,
+      "sid": 29,
+      "location": 2,
+      "content": "那最近的话其实大家也看到了",
+      "music": 0.0
+    },
+    {
+      "from": 66.38,
+      "to": 69.02,
+      "sid": 30,
+      "location": 2,
+      "content": "就整个保险板块还是有一些波动",
+      "music": 0.0
+    },
+    {
+      "from": 69.02,
+      "to": 70.02,
+      "sid": 31,
+      "location": 2,
+      "content": "然后有一些调整",
+      "music": 0.0
+    },
+    {
+      "from": 70.02,
+      "to": 74.21,
+      "sid": 32,
+      "location": 2,
+      "content": "然后我们这周其实也在上海进行了一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 74.21,
+      "to": 75.69,
+      "sid": 33,
+      "location": 2,
+      "content": "实地的调研",
+      "music": 0.0
+    },
+    {
+      "from": 75.69,
+      "to": 78.41,
+      "sid": 34,
+      "location": 2,
+      "content": "那我们整体上觉得就是可能一个",
+      "music": 0.0
+    },
+    {
+      "from": 78.41,
+      "to": 79.65,
+      "sid": 35,
+      "location": 2,
+      "content": "大家比较关注的问题",
+      "music": 0.0
+    },
+    {
+      "from": 79.65,
+      "to": 82.79,
+      "sid": 36,
+      "location": 2,
+      "content": "还是从呃7月初以来",
+      "music": 0.0
+    },
+    {
+      "from": 82.79,
+      "to": 85.41,
+      "sid": 37,
+      "location": 2,
+      "content": "银保的新的一轮的这种监管政策",
+      "music": 0.0
+    },
+    {
+      "from": 85.41,
+      "to": 87.49,
+      "sid": 38,
+      "location": 2,
+      "content": "对于费用在加强管控之下",
+      "music": 0.0
+    },
+    {
+      "from": 87.49,
+      "to": 90.07,
+      "sid": 39,
+      "location": 2,
+      "content": "那整个三季度销售是比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 90.07,
+      "to": 91.31,
+      "sid": 40,
+      "location": 2,
+      "content": "那这个弱的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 91.31,
+      "to": 93.52,
+      "sid": 41,
+      "location": 2,
+      "content": "什么时候能够有一些改善的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 93.52,
+      "to": 95.86,
+      "sid": 42,
+      "location": 2,
+      "content": "那我们也和一些包括保险公司",
+      "music": 0.0
+    },
+    {
+      "from": 95.86,
+      "to": 96.82,
+      "sid": 43,
+      "location": 2,
+      "content": "包括银行",
+      "music": 0.0
+    },
+    {
+      "from": 96.82,
+      "to": 99.69,
+      "sid": 44,
+      "location": 2,
+      "content": "然后也包括一线去进行了一些交流",
+      "music": 0.0
+    },
+    {
+      "from": 99.69,
+      "to": 101.85,
+      "sid": 45,
+      "location": 2,
+      "content": "那我们整体上首先看到的一个",
+      "music": 0.0
+    },
+    {
+      "from": 101.85,
+      "to": 104.65,
+      "sid": 46,
+      "location": 2,
+      "content": "就是整个三季度的销售趋势",
+      "music": 0.0
+    },
+    {
+      "from": 104.65,
+      "to": 107.539,
+      "sid": 47,
+      "location": 2,
+      "content": "尤其是在银宝这边是非常的疲弱的",
+      "music": 0.0
+    },
+    {
+      "from": 107.539,
+      "to": 109.699,
+      "sid": 48,
+      "location": 2,
+      "content": "那当然这一方面是有",
+      "music": 0.0
+    },
+    {
+      "from": 109.699,
+      "to": 112.279,
+      "sid": 49,
+      "location": 2,
+      "content": "就是7月初以来的这个",
+      "music": 0.0
+    },
+    {
+      "from": 112.279,
+      "to": 114.479,
+      "sid": 50,
+      "location": 2,
+      "content": "新的监管政策的这个影响",
+      "music": 0.0
+    },
+    {
+      "from": 114.479,
+      "to": 115.599,
+      "sid": 51,
+      "location": 2,
+      "content": "那另一方面的话",
+      "music": 0.0
+    },
+    {
+      "from": 115.599,
+      "to": 116.959,
+      "sid": 52,
+      "location": 2,
+      "content": "其实今年我们看到上半年",
+      "music": 0.0
+    },
+    {
+      "from": 116.959,
+      "to": 118.759,
+      "sid": 53,
+      "location": 2,
+      "content": "整个银保增速是非常强的",
+      "music": 0.0
+    },
+    {
+      "from": 118.759,
+      "to": 121.84,
+      "sid": 54,
+      "location": 2,
+      "content": "那很多银行其实也从他们的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 121.84,
+      "to": 125.14,
+      "sid": 55,
+      "location": 2,
+      "content": "基本上完成了自己中收KPI考核的大部分",
+      "music": 0.0
+    },
+    {
+      "from": 125.14,
+      "to": 126.22,
+      "sid": 56,
+      "location": 2,
+      "content": "所以那这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 126.22,
+      "to": 128.94,
+      "sid": 57,
+      "location": 2,
+      "content": "其实整个下半年的节奏也在有明显的放缓",
+      "music": 0.0
+    },
+    {
+      "from": 128.94,
+      "to": 133.24,
+      "sid": 58,
+      "location": 2,
+      "content": "那当我们和整个银行这边在china check交流的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 133.24,
+      "to": 135.88,
+      "sid": 59,
+      "location": 2,
+      "content": "其实呃即便是从23年底",
+      "music": 0.0
+    },
+    {
+      "from": 135.88,
+      "to": 140.26,
+      "sid": 60,
+      "location": 2,
+      "content": "然后到这一次两轮的一个呃费率的不停的优化",
+      "music": 0.0
+    },
+    {
+      "from": 140.26,
+      "to": 141.22,
+      "sid": 61,
+      "location": 2,
+      "content": "然后压缩",
+      "music": 0.0
+    },
+    {
+      "from": 141.22,
+      "to": 143.94,
+      "sid": 62,
+      "location": 2,
+      "content": "那其实银行的话还是对于整个保险的销售",
+      "music": 0.0
+    },
+    {
+      "from": 143.94,
+      "to": 144.98,
+      "sid": 63,
+      "location": 2,
+      "content": "非常的积极",
+      "music": 0.0
+    },
+    {
+      "from": 144.98,
+      "to": 146.58,
+      "sid": 64,
+      "location": 2,
+      "content": "那不少银行也表示",
+      "music": 0.0
+    },
+    {
+      "from": 146.58,
+      "to": 149.42,
+      "sid": 65,
+      "location": 2,
+      "content": "就是整个在财富管理的AVM增速里面",
+      "music": 0.0
+    },
+    {
+      "from": 149.42,
+      "to": 152.31,
+      "sid": 66,
+      "location": 2,
+      "content": "保险的话可能在呃过去几年以及",
+      "music": 0.0
+    },
+    {
+      "from": 152.31,
+      "to": 153.43,
+      "sid": 67,
+      "location": 2,
+      "content": "包括未来三到5年",
+      "music": 0.0
+    },
+    {
+      "from": 153.43,
+      "to": 156.63,
+      "sid": 68,
+      "location": 2,
+      "content": "可能都是比整个财富的AOM增速要更快的",
+      "music": 0.0
+    },
+    {
+      "from": 156.63,
+      "to": 159.55,
+      "sid": 69,
+      "location": 2,
+      "content": "那并且的话即便是整个额费用率啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.55,
+      "to": 160.81,
+      "sid": 70,
+      "location": 2,
+      "content": "其实受到一些限制",
+      "music": 0.0
+    },
+    {
+      "from": 160.81,
+      "to": 164.41,
+      "sid": 71,
+      "location": 2,
+      "content": "那他们可能还是更多从客户的角度去考虑啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.41,
+      "to": 167.15,
+      "sid": 72,
+      "location": 2,
+      "content": "继续去推动保险产品的一个销售",
+      "music": 0.0
+    },
+    {
+      "from": 167.15,
+      "to": 171.41,
+      "sid": 73,
+      "location": 2,
+      "content": "那同时的话呃其实呃呃呃同",
+      "music": 0.0
+    },
+    {
+      "from": 171.41,
+      "to": 172.81,
+      "sid": 74,
+      "location": 2,
+      "content": "同时的话我们也看到了",
+      "music": 0.0
+    },
+    {
+      "from": 172.81,
+      "to": 174.05,
+      "sid": 75,
+      "location": 2,
+      "content": "就是保险产品",
+      "music": 0.0
+    },
+    {
+      "from": 174.05,
+      "to": 177.19,
+      "sid": 76,
+      "location": 2,
+      "content": "其实在整个银行的呃产品的储备里面",
+      "music": 0.0
+    },
+    {
+      "from": 177.19,
+      "to": 178.89,
+      "sid": 77,
+      "location": 2,
+      "content": "其实还是有一定的稀缺性的",
+      "music": 0.0
+    },
+    {
+      "from": 178.89,
+      "to": 181.37,
+      "sid": 78,
+      "location": 2,
+      "content": "包括尤其在这种呃养老啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.37,
+      "to": 183.73,
+      "sid": 79,
+      "location": 2,
+      "content": "保障的需求持续比较高的情况之下",
+      "music": 0.0
+    },
+    {
+      "from": 183.73,
+      "to": 186.61,
+      "sid": 80,
+      "location": 2,
+      "content": "那产品现在比如说一主流的这种分红型",
+      "music": 0.0
+    },
+    {
+      "from": 186.61,
+      "to": 189.71,
+      "sid": 81,
+      "location": 2,
+      "content": "1.75的预定利率的这种产品来讲",
+      "music": 0.0
+    },
+    {
+      "from": 189.71,
+      "to": 193.41,
+      "sid": 82,
+      "location": 2,
+      "content": "在整个就是银行的销售的这个产品条件里面",
+      "music": 0.0
+    },
+    {
+      "from": 193.41,
+      "to": 195.23,
+      "sid": 83,
+      "location": 2,
+      "content": "还是有比较大的吸引力的",
+      "music": 0.0
+    },
+    {
+      "from": 195.23,
+      "to": 197.47,
+      "sid": 84,
+      "location": 2,
+      "content": "那除了银保这边之外的话",
+      "music": 0.0
+    },
+    {
+      "from": 197.47,
+      "to": 200.63,
+      "sid": 85,
+      "location": 2,
+      "content": "当然也有一些就是从呃公司层面去观察到",
+      "music": 0.0
+    },
+    {
+      "from": 200.63,
+      "to": 202.56,
+      "sid": 86,
+      "location": 2,
+      "content": "就是从7893个月",
+      "music": 0.0
+    },
+    {
+      "from": 202.56,
+      "to": 204.02,
+      "sid": 87,
+      "location": 2,
+      "content": "银保虽然非常的萧条",
+      "music": 0.0
+    },
+    {
+      "from": 204.02,
+      "to": 206.56,
+      "sid": 88,
+      "location": 2,
+      "content": "但是这三个月其实是在逐步的改善的",
+      "music": 0.0
+    },
+    {
+      "from": 206.56,
+      "to": 208.08,
+      "sid": 89,
+      "location": 2,
+      "content": "就是可能8月比7月好",
+      "music": 0.0
+    },
+    {
+      "from": 208.08,
+      "to": 210.86,
+      "sid": 90,
+      "location": 2,
+      "content": "69月比呃8月好的这种趋势",
+      "music": 0.0
+    },
+    {
+      "from": 210.86,
+      "to": 215.01,
+      "sid": 91,
+      "location": 2,
+      "content": "那并且的话其实呃这一轮和23年那一轮的",
+      "music": 0.0
+    },
+    {
+      "from": 215.01,
+      "to": 216.49,
+      "sid": 92,
+      "location": 2,
+      "content": "就相比较而言的话",
+      "music": 0.0
+    },
+    {
+      "from": 216.49,
+      "to": 219.78,
+      "sid": 93,
+      "location": 2,
+      "content": "其实23年那一轮的整个的费改的调整",
+      "music": 0.0
+    },
+    {
+      "from": 219.78,
+      "to": 221.98,
+      "sid": 94,
+      "location": 2,
+      "content": "费率的调整其实影响显然是更大的",
+      "music": 0.0
+    },
+    {
+      "from": 221.98,
+      "to": 222.86,
+      "sid": 95,
+      "location": 2,
+      "content": "冲击是更大的",
+      "music": 0.0
+    },
+    {
+      "from": 222.86,
+      "to": 225.15,
+      "sid": 96,
+      "location": 2,
+      "content": "那这一次的话整个影响会小很多",
+      "music": 0.0
+    },
+    {
+      "from": 225.15,
+      "to": 227.27,
+      "sid": 97,
+      "location": 2,
+      "content": "所以可能我们觉得我们自己觉得",
+      "music": 0.0
+    },
+    {
+      "from": 227.27,
+      "to": 230.36,
+      "sid": 98,
+      "location": 2,
+      "content": "就整个行业可能会在3~6个月的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 230.36,
+      "to": 231.22,
+      "sid": 99,
+      "location": 2,
+      "content": "逐步去恢复",
+      "music": 0.0
+    },
+    {
+      "from": 231.22,
+      "to": 235.18,
+      "sid": 100,
+      "location": 2,
+      "content": "然后逐步从银宝回到一个比较正常的轨道上来",
+      "music": 0.0
+    },
+    {
+      "from": 235.18,
+      "to": 237.1,
+      "sid": 101,
+      "location": 2,
+      "content": "那第二块其实大家也比较关注的",
+      "music": 0.0
+    },
+    {
+      "from": 237.1,
+      "to": 239.34,
+      "sid": 102,
+      "location": 2,
+      "content": "就是整个开门红的一个销售的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 239.34,
+      "to": 242.02,
+      "sid": 103,
+      "location": 2,
+      "content": "但是现在还是处在一个比较早的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 242.02,
+      "to": 244.39,
+      "sid": 104,
+      "location": 2,
+      "content": "因为现在才四季度刚开始",
+      "music": 0.0
+    },
+    {
+      "from": 244.39,
+      "to": 246.47,
+      "sid": 105,
+      "location": 2,
+      "content": "那但是我们其实观察到",
+      "music": 0.0
+    },
+    {
+      "from": 246.47,
+      "to": 247.75,
+      "sid": 106,
+      "location": 2,
+      "content": "其实可能大部分的公司吧",
+      "music": 0.0
+    },
+    {
+      "from": 247.75,
+      "to": 251.25,
+      "sid": 107,
+      "location": 2,
+      "content": "我们判断今年就是做2027年的开门红的",
+      "music": 0.0
+    },
+    {
+      "from": 251.25,
+      "to": 254.21,
+      "sid": 108,
+      "location": 2,
+      "content": "时间节点上会稍微提前一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 254.21,
+      "to": 256.89,
+      "sid": 109,
+      "location": 2,
+      "content": "因为可能今年整体上也是上半年的VNB",
+      "music": 0.0
+    },
+    {
+      "from": 256.89,
+      "to": 257.95,
+      "sid": 110,
+      "location": 2,
+      "content": "销售趋势比较好",
+      "music": 0.0
+    },
+    {
+      "from": 257.95,
+      "to": 259.49,
+      "sid": 111,
+      "location": 2,
+      "content": "然后整个很多代理人",
+      "music": 0.0
+    },
+    {
+      "from": 259.49,
+      "to": 260.17,
+      "sid": 112,
+      "location": 2,
+      "content": "包括分支机构",
+      "music": 0.0
+    },
+    {
+      "from": 260.17,
+      "to": 261.95,
+      "sid": 113,
+      "location": 2,
+      "content": "已经大部分完成了",
+      "music": 0.0
+    },
+    {
+      "from": 261.95,
+      "to": 264.75,
+      "sid": 114,
+      "location": 2,
+      "content": "今年全年的一个KPI的考核",
+      "music": 0.0
+    },
+    {
+      "from": 264.75,
+      "to": 267.61,
+      "sid": 115,
+      "location": 2,
+      "content": "那所以其实三季度整个萧条了之后",
+      "music": 0.0
+    },
+    {
+      "from": 267.61,
+      "to": 269.77,
+      "sid": 116,
+      "location": 2,
+      "content": "可有些高技术的这些影响",
+      "music": 0.0
+    },
+    {
+      "from": 269.77,
+      "to": 272.96,
+      "sid": 117,
+      "location": 2,
+      "content": "那可能也开始更早的去准备了明年的开幕红",
+      "music": 0.0
+    },
+    {
+      "from": 272.96,
+      "to": 275.52,
+      "sid": 118,
+      "location": 2,
+      "content": "那从明年开门红的展望角度来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 275.52,
+      "to": 279.53,
+      "sid": 119,
+      "location": 2,
+      "content": "首先呃我们觉得就是行业里面的不同公司",
+      "music": 0.0
+    },
+    {
+      "from": 279.53,
+      "to": 282.53,
+      "sid": 120,
+      "location": 2,
+      "content": "大家的这种目标还是会有一定的差异",
+      "music": 0.0
+    },
+    {
+      "from": 282.53,
+      "to": 286.09,
+      "sid": 121,
+      "location": 2,
+      "content": "嗯可能有些公司还是会定的比较激进的目标",
+      "music": 0.0
+    },
+    {
+      "from": 286.09,
+      "to": 287.25,
+      "sid": 122,
+      "location": 2,
+      "content": "但是大部分公司的话",
+      "music": 0.0
+    },
+    {
+      "from": 287.25,
+      "to": 291.2,
+      "sid": 123,
+      "location": 2,
+      "content": "可能对明年看的整体是偏呃谨慎乐观的",
+      "music": 0.0
+    },
+    {
+      "from": 291.2,
+      "to": 293.56,
+      "sid": 124,
+      "location": 2,
+      "content": "那当然从一个技术的角度来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 293.56,
+      "to": 295.78,
+      "sid": 125,
+      "location": 2,
+      "content": "开门红包括1212季度",
+      "music": 0.0
+    },
+    {
+      "from": 295.78,
+      "to": 297.94,
+      "sid": 126,
+      "location": 2,
+      "content": "上半年的基数其实都是相对比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 297.94,
+      "to": 300.94,
+      "sid": 127,
+      "location": 2,
+      "content": "然后到三季度四季度整个基数就会明显的下来",
+      "music": 0.0
+    },
+    {
+      "from": 300.94,
+      "to": 303.26,
+      "sid": 128,
+      "location": 2,
+      "content": "那所以其实明年可能大部分公司的话",
+      "music": 0.0
+    },
+    {
+      "from": 303.26,
+      "to": 306.12,
+      "sid": 129,
+      "location": 2,
+      "content": "都会有一个可能相对比较平稳的一些的",
+      "music": 0.0
+    },
+    {
+      "from": 306.12,
+      "to": 307.02,
+      "sid": 130,
+      "location": 2,
+      "content": "上半年的节奏",
+      "music": 0.0
+    },
+    {
+      "from": 307.02,
+      "to": 309.82,
+      "sid": 131,
+      "location": 2,
+      "content": "然后下半年的话可能会稍微有些加速",
+      "music": 0.0
+    },
+    {
+      "from": 309.82,
+      "to": 312.86,
+      "sid": 132,
+      "location": 2,
+      "content": "那当然的话从另一块就是资产端角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 312.86,
+      "to": 314.62,
+      "sid": 133,
+      "location": 2,
+      "content": "也是大家最近关心比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 314.62,
+      "to": 317.78,
+      "sid": 134,
+      "location": 2,
+      "content": "因为呃整个资本市场其实呃9月末",
+      "music": 0.0
+    },
+    {
+      "from": 317.78,
+      "to": 319.44,
+      "sid": 135,
+      "location": 2,
+      "content": "10月初以来也在持续的调整",
+      "music": 0.0
+    },
+    {
+      "from": 319.44,
+      "to": 321.89,
+      "sid": 136,
+      "location": 2,
+      "content": "那我们也和一些呃保险",
+      "music": 0.0
+    },
+    {
+      "from": 321.89,
+      "to": 324.05,
+      "sid": 137,
+      "location": 2,
+      "content": "这些就包括资管进行了一些交流",
+      "music": 0.0
+    },
+    {
+      "from": 324.05,
+      "to": 326.88,
+      "sid": 138,
+      "location": 2,
+      "content": "那其实会发现呃在今年以来的话",
+      "music": 0.0
+    },
+    {
+      "from": 326.88,
+      "to": 328.96,
+      "sid": 139,
+      "location": 2,
+      "content": "大很多保险公司还是在年初",
+      "music": 0.0
+    },
+    {
+      "from": 328.96,
+      "to": 330.08,
+      "sid": 140,
+      "location": 2,
+      "content": "包括从年初开始",
+      "music": 0.0
+    },
+    {
+      "from": 330.08,
+      "to": 332.409,
+      "sid": 141,
+      "location": 2,
+      "content": "就是一直在加配的是高股息的股票",
+      "music": 0.0
+    },
+    {
+      "from": 332.409,
+      "to": 334.129,
+      "sid": 142,
+      "location": 2,
+      "content": "然后对于成长股的股票的话",
+      "music": 0.0
+    },
+    {
+      "from": 334.129,
+      "to": 335.769,
+      "sid": 143,
+      "location": 2,
+      "content": "其实大部分公司并没有说",
+      "music": 0.0
+    },
+    {
+      "from": 335.769,
+      "to": 338.27,
+      "sid": 144,
+      "location": 2,
+      "content": "在上半年去显著的去加配",
+      "music": 0.0
+    },
+    {
+      "from": 338.27,
+      "to": 341.11,
+      "sid": 145,
+      "location": 2,
+      "content": "那在整个市场有一定波动的时候的话",
+      "music": 0.0
+    },
+    {
+      "from": 341.11,
+      "to": 344.57,
+      "sid": 146,
+      "location": 2,
+      "content": "其实也会有适度的这种嗯仓位的调整",
+      "music": 0.0
+    },
+    {
+      "from": 344.57,
+      "to": 346.25,
+      "sid": 147,
+      "location": 2,
+      "content": "但是整个大的方向",
+      "music": 0.0
+    },
+    {
+      "from": 346.25,
+      "to": 349.49,
+      "sid": 148,
+      "location": 2,
+      "content": "我们觉得未来其实考虑到呃市场的波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 349.49,
+      "to": 350.77,
+      "sid": 149,
+      "location": 2,
+      "content": "包括资管新规",
+      "music": 0.0
+    },
+    {
+      "from": 350.77,
+      "to": 352.69,
+      "sid": 150,
+      "location": 2,
+      "content": "那其实可能还是对于保险公司",
+      "music": 0.0
+    },
+    {
+      "from": 352.69,
+      "to": 356.09,
+      "sid": 151,
+      "location": 2,
+      "content": "投资端会有一定的这种限制或者是约束",
+      "music": 0.0
+    },
+    {
+      "from": 356.09,
+      "to": 358.62,
+      "sid": 152,
+      "location": 2,
+      "content": "那其实未来的话整个高股息的股票",
+      "music": 0.0
+    },
+    {
+      "from": 358.62,
+      "to": 361.76,
+      "sid": 153,
+      "location": 2,
+      "content": "然后还是会成为保险公司的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 361.76,
+      "to": 364.14,
+      "sid": 154,
+      "location": 2,
+      "content": "就是更更相对倾向",
+      "music": 0.0
+    },
+    {
+      "from": 364.14,
+      "to": 366.56,
+      "sid": 155,
+      "location": 2,
+      "content": "更更倾向去配置的这么一个方向",
+      "music": 0.0
+    },
+    {
+      "from": 366.56,
+      "to": 368.16,
+      "sid": 156,
+      "location": 2,
+      "content": "那除此之外的话",
+      "music": 0.0
+    },
+    {
+      "from": 368.16,
+      "to": 371.38,
+      "sid": 157,
+      "location": 2,
+      "content": "当然就是嗯就是从呃",
+      "music": 0.0
+    },
+    {
+      "from": 371.38,
+      "to": 373.34,
+      "sid": 158,
+      "location": 2,
+      "content": "最近的一些短期市场的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 373.34,
+      "to": 374.66,
+      "sid": 159,
+      "location": 2,
+      "content": "投资人还是会非常关注",
+      "music": 0.0
+    },
+    {
+      "from": 374.66,
+      "to": 376.68,
+      "sid": 160,
+      "location": 2,
+      "content": "整个三季度业绩的一个表现",
+      "music": 0.0
+    },
+    {
+      "from": 376.68,
+      "to": 378.0,
+      "sid": 161,
+      "location": 2,
+      "content": "那我们觉得三季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 378.0,
+      "to": 380.84,
+      "sid": 162,
+      "location": 2,
+      "content": "整体我们之前也啊报告里面也提到很多次",
+      "music": 0.0
+    },
+    {
+      "from": 380.84,
+      "to": 382.65,
+      "sid": 163,
+      "location": 2,
+      "content": "就是整个三季度的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 382.65,
+      "to": 383.77,
+      "sid": 164,
+      "location": 2,
+      "content": "整个的经营业绩",
+      "music": 0.0
+    },
+    {
+      "from": 383.77,
+      "to": 384.61,
+      "sid": 165,
+      "location": 2,
+      "content": "包括销售啊",
+      "music": 0.0
+    },
+    {
+      "from": 384.61,
+      "to": 385.17,
+      "sid": 166,
+      "location": 2,
+      "content": "包括盈利",
+      "music": 0.0
+    },
+    {
+      "from": 385.17,
+      "to": 386.8,
+      "sid": 167,
+      "location": 2,
+      "content": "其实都是趋势比较弱的",
+      "music": 0.0
+    },
+    {
+      "from": 386.8,
+      "to": 388.78,
+      "sid": 168,
+      "location": 2,
+      "content": "那可能分几个靠几块来看",
+      "music": 0.0
+    },
+    {
+      "from": 388.78,
+      "to": 390.8,
+      "sid": 169,
+      "location": 2,
+      "content": "如果从营运利润的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 390.8,
+      "to": 393.33,
+      "sid": 170,
+      "location": 2,
+      "content": "或者是就剔除了投资波动的这种利润",
+      "music": 0.0
+    },
+    {
+      "from": 393.33,
+      "to": 396.09,
+      "sid": 171,
+      "location": 2,
+      "content": "那其实我们觉得整个的中国的几家保险公司",
+      "music": 0.0
+    },
+    {
+      "from": 396.09,
+      "to": 398.61,
+      "sid": 172,
+      "location": 2,
+      "content": "都还是会表示表现的非常的有韧性",
+      "music": 0.0
+    },
+    {
+      "from": 398.61,
+      "to": 400.95,
+      "sid": 173,
+      "location": 2,
+      "content": "或者说是非常稳健的一个增长",
+      "music": 0.0
+    },
+    {
+      "from": 400.95,
+      "to": 404.55,
+      "sid": 174,
+      "location": 2,
+      "content": "嗯那同时的话如果是考虑了整个投资端的波动",
+      "music": 0.0
+    },
+    {
+      "from": 404.55,
+      "to": 406.75,
+      "sid": 175,
+      "location": 2,
+      "content": "因为我们看到整个三季度呃",
+      "music": 0.0
+    },
+    {
+      "from": 406.75,
+      "to": 409.75,
+      "sid": 176,
+      "location": 2,
+      "content": "呃中证800大概有十三四个点的一个下跌",
+      "music": 0.0
+    },
+    {
+      "from": 409.75,
+      "to": 412.66,
+      "sid": 177,
+      "location": 2,
+      "content": "然后如果是科创五零下跌的幅度会明显更大",
+      "music": 0.0
+    },
+    {
+      "from": 412.66,
+      "to": 415.5,
+      "sid": 178,
+      "location": 2,
+      "content": "那这样的话还会对保险公司的单季度盈利",
+      "music": 0.0
+    },
+    {
+      "from": 415.5,
+      "to": 416.98,
+      "sid": 179,
+      "location": 2,
+      "content": "产生明显的影响",
+      "music": 0.0
+    },
+    {
+      "from": 416.98,
+      "to": 418.02,
+      "sid": 180,
+      "location": 2,
+      "content": "尤其是三季度",
+      "music": 0.0
+    },
+    {
+      "from": 418.02,
+      "to": 419.86,
+      "sid": 181,
+      "location": 2,
+      "content": "其实在盈利的基础之基础",
+      "music": 0.0
+    },
+    {
+      "from": 419.86,
+      "to": 421.72,
+      "sid": 182,
+      "location": 2,
+      "content": "其实并不是一个很大的一个base",
+      "music": 0.0
+    },
+    {
+      "from": 421.72,
+      "to": 423.28,
+      "sid": 183,
+      "location": 2,
+      "content": "那这样的话就是短期波动",
+      "music": 0.0
+    },
+    {
+      "from": 423.28,
+      "to": 425.06,
+      "sid": 184,
+      "location": 2,
+      "content": "其实对他的影响可能会更大",
+      "music": 0.0
+    },
+    {
+      "from": 425.06,
+      "to": 427.7,
+      "sid": 185,
+      "location": 2,
+      "content": "那如果我们看前三季度累计来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 427.7,
+      "to": 430.69,
+      "sid": 186,
+      "location": 2,
+      "content": "我们觉得大绝大部分公司可能都会掉到一个",
+      "music": 0.0
+    },
+    {
+      "from": 430.69,
+      "to": 434.25,
+      "sid": 187,
+      "location": 2,
+      "content": "双位数的一个累计的利润的一个负增长的",
+      "music": 0.0
+    },
+    {
+      "from": 434.25,
+      "to": 436.14,
+      "sid": 188,
+      "location": 2,
+      "content": "利润负增长的一个区间里",
+      "music": 0.0
+    },
+    {
+      "from": 436.14,
+      "to": 437.82,
+      "sid": 189,
+      "location": 2,
+      "content": "然后如果单看三季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 437.82,
+      "to": 441.2,
+      "sid": 190,
+      "location": 2,
+      "content": "也会有一些公司嗯成为一个明显的亏损",
+      "music": 0.0
+    },
+    {
+      "from": 441.2,
+      "to": 442.58,
+      "sid": 191,
+      "location": 2,
+      "content": "那当然呃",
+      "music": 0.0
+    },
+    {
+      "from": 442.58,
+      "to": 445.7,
+      "sid": 192,
+      "location": 2,
+      "content": "这个也都是因为短期投资波动的一个影响",
+      "music": 0.0
+    },
+    {
+      "from": 445.7,
+      "to": 447.98,
+      "sid": 193,
+      "location": 2,
+      "content": "我们觉得这个持续性还是啊",
+      "music": 0.0
+    },
+    {
+      "from": 447.98,
+      "to": 448.78,
+      "sid": 194,
+      "location": 2,
+      "content": "我们觉得就是",
+      "music": 0.0
+    },
+    {
+      "from": 448.78,
+      "to": 451.48,
+      "sid": 195,
+      "location": 2,
+      "content": "如果整个股市稍微有一些平稳的话",
+      "music": 0.0
+    },
+    {
+      "from": 451.48,
+      "to": 453.95,
+      "sid": 196,
+      "location": 2,
+      "content": "我们觉得还是盈利会有一个改善",
+      "music": 0.0
+    },
+    {
+      "from": 453.95,
+      "to": 456.35,
+      "sid": 197,
+      "location": 2,
+      "content": "那并且的话我们现在并不觉得呃",
+      "music": 0.0
+    },
+    {
+      "from": 456.35,
+      "to": 458.11,
+      "sid": 198,
+      "location": 2,
+      "content": "大部分保险公司的全年的这个",
+      "music": 0.0
+    },
+    {
+      "from": 458.11,
+      "to": 460.8,
+      "sid": 199,
+      "location": 2,
+      "content": "DPS的指引会受到冲击",
+      "music": 0.0
+    },
+    {
+      "from": 460.8,
+      "to": 463.24,
+      "sid": 200,
+      "location": 2,
+      "content": "那第三块就是从整个销售的角度来讲",
+      "music": 0.0
+    },
+    {
+      "from": 463.24,
+      "to": 464.24,
+      "sid": 201,
+      "location": 2,
+      "content": "其实刚才也提到了",
+      "music": 0.0
+    },
+    {
+      "from": 464.24,
+      "to": 467.22,
+      "sid": 202,
+      "location": 2,
+      "content": "就是呃上半年整个销售还是不错的",
+      "music": 0.0
+    },
+    {
+      "from": 467.22,
+      "to": 468.48,
+      "sid": 203,
+      "location": 2,
+      "content": "那三季度以来",
+      "music": 0.0
+    },
+    {
+      "from": 468.48,
+      "to": 470.96,
+      "sid": 204,
+      "location": 2,
+      "content": "我尤其是银宝受到的冲击更为明显",
+      "music": 0.0
+    },
+    {
+      "from": 470.96,
+      "to": 472.42,
+      "sid": 205,
+      "location": 2,
+      "content": "那包括代理人渠道的话",
+      "music": 0.0
+    },
+    {
+      "from": 472.42,
+      "to": 474.68,
+      "sid": 206,
+      "location": 2,
+      "content": "也会因为低基数啊等各种原因",
+      "music": 0.0
+    },
+    {
+      "from": 474.68,
+      "to": 476.809,
+      "sid": 207,
+      "location": 2,
+      "content": "其实有一些呃放缓",
+      "music": 0.0
+    },
+    {
+      "from": 476.809,
+      "to": 479.929,
+      "sid": 208,
+      "location": 2,
+      "content": "那整个三季度单季来单季度来看啊",
+      "music": 0.0
+    },
+    {
+      "from": 479.929,
+      "to": 481.129,
+      "sid": 209,
+      "location": 2,
+      "content": "BMB同比的话",
+      "music": 0.0
+    },
+    {
+      "from": 481.129,
+      "to": 484.09,
+      "sid": 210,
+      "location": 2,
+      "content": "可能还是会有比较明显的一个下降",
+      "music": 0.0
+    },
+    {
+      "from": 484.09,
+      "to": 486.21,
+      "sid": 211,
+      "location": 2,
+      "content": "那如果前前三个季度来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 486.21,
+      "to": 488.95,
+      "sid": 212,
+      "location": 2,
+      "content": "可能大部分公司也会VNB的增速",
+      "music": 0.0
+    },
+    {
+      "from": 488.95,
+      "to": 491.15,
+      "sid": 213,
+      "location": 2,
+      "content": "累计会到一个小幅负增长",
+      "music": 0.0
+    },
+    {
+      "from": 491.15,
+      "to": 492.7,
+      "sid": 214,
+      "location": 2,
+      "content": "负增长的一个区间里",
+      "music": 0.0
+    },
+    {
+      "from": 492.7,
+      "to": 494.22,
+      "sid": 215,
+      "location": 2,
+      "content": "那当然全年的趋势的话",
+      "music": 0.0
+    },
+    {
+      "from": 494.22,
+      "to": 495.94,
+      "sid": 216,
+      "location": 2,
+      "content": "可能还是要看各家公司",
+      "music": 0.0
+    },
+    {
+      "from": 495.94,
+      "to": 496.3,
+      "sid": 217,
+      "location": 2,
+      "content": "在",
+      "music": 0.0
+    },
+    {
+      "from": 496.3,
+      "to": 499.18,
+      "sid": 218,
+      "location": 2,
+      "content": "就是今年全年收官和明年的开门红",
+      "music": 0.0
+    },
+    {
+      "from": 499.18,
+      "to": 500.52,
+      "sid": 219,
+      "location": 2,
+      "content": "之间的一个摆布",
+      "music": 0.0
+    },
+    {
+      "from": 500.52,
+      "to": 503.92,
+      "sid": 220,
+      "location": 2,
+      "content": "那如果是从呃财险业务的一个角度来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 503.92,
+      "to": 506.32,
+      "sid": 221,
+      "location": 2,
+      "content": "其实比大家想象中的可能稍微好一些",
+      "music": 0.0
+    },
+    {
+      "from": 506.32,
+      "to": 508.76,
+      "sid": 222,
+      "location": 2,
+      "content": "因为虽然可能看到67月份",
+      "music": 0.0
+    },
+    {
+      "from": 508.76,
+      "to": 511.12,
+      "sid": 223,
+      "location": 2,
+      "content": "78月份还是有一些洪涝啊",
+      "music": 0.0
+    },
+    {
+      "from": 511.12,
+      "to": 512.08,
+      "sid": 224,
+      "location": 2,
+      "content": "然后台风啊",
+      "music": 0.0
+    },
+    {
+      "from": 512.08,
+      "to": 512.8,
+      "sid": 225,
+      "location": 2,
+      "content": "包括厄尔尼诺",
+      "music": 0.0
+    },
+    {
+      "from": 512.8,
+      "to": 514.49,
+      "sid": 226,
+      "location": 2,
+      "content": "大家也是一直比较担心的",
+      "music": 0.0
+    },
+    {
+      "from": 514.49,
+      "to": 516.91,
+      "sid": 227,
+      "location": 2,
+      "content": "那同时去年其实呃",
+      "music": 0.0
+    },
+    {
+      "from": 516.91,
+      "to": 520.01,
+      "sid": 228,
+      "location": 2,
+      "content": "理论上的一个就是巨灾的基数并不高",
+      "music": 0.0
+    },
+    {
+      "from": 520.01,
+      "to": 523.05,
+      "sid": 229,
+      "location": 2,
+      "content": "但今年其实从实际经营者的角度来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 523.05,
+      "to": 525.55,
+      "sid": 230,
+      "location": 2,
+      "content": "我们觉得整个三季度的巨灾的风险",
+      "music": 0.0
+    },
+    {
+      "from": 525.55,
+      "to": 527.28,
+      "sid": 231,
+      "location": 2,
+      "content": "还是相对比较可控的",
+      "music": 0.0
+    },
+    {
+      "from": 527.28,
+      "to": 528.2,
+      "sid": 232,
+      "location": 2,
+      "content": "那大部分公司",
+      "music": 0.0
+    },
+    {
+      "from": 528.2,
+      "to": 530.68,
+      "sid": 233,
+      "location": 2,
+      "content": "我们觉得单季度或者是整个前三季度",
+      "music": 0.0
+    },
+    {
+      "from": 530.68,
+      "to": 532.78,
+      "sid": 234,
+      "location": 2,
+      "content": "都还是会实现呃",
+      "music": 0.0
+    },
+    {
+      "from": 532.78,
+      "to": 536.32,
+      "sid": 235,
+      "location": 2,
+      "content": "整个财险的综合成本率相对的一个改善",
+      "music": 0.0
+    },
+    {
+      "from": 536.32,
+      "to": 541.14,
+      "sid": 236,
+      "location": 2,
+      "content": "那以上的话这边基本上就是额保险的一个更新",
+      "music": 0.0
+    },
+    {
+      "from": 541.14,
+      "to": 545.2,
+      "sid": 237,
+      "location": 2,
+      "content": "那我把时间交还给cc",
+      "music": 0.0
+    },
+    {
+      "from": 546.16,
+      "to": 547.92,
+      "sid": 238,
+      "location": 2,
+      "content": "好的谢谢rick的分享",
+      "music": 0.0
+    },
+    {
+      "from": 547.92,
+      "to": 552.08,
+      "sid": 239,
+      "location": 2,
+      "content": "那现在有请中国金融行业首席RICHARD来分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 552.08,
+      "to": 554.86,
+      "sid": 240,
+      "location": 2,
+      "content": "银行业有序去杠杆持续推进",
+      "music": 0.0
+    },
+    {
+      "from": 554.86,
+      "to": 558.45,
+      "sid": 241,
+      "location": 2,
+      "content": "第6年跑赢大师RICHARD",
+      "music": 0.0
+    },
+    {
+      "from": 559.17,
+      "to": 560.71,
+      "sid": 242,
+      "location": 2,
+      "content": "感谢恩森IA",
+      "music": 0.0
+    },
+    {
+      "from": 560.71,
+      "to": 563.11,
+      "sid": 243,
+      "location": 2,
+      "content": "那我们最近看到银行股啊",
+      "music": 0.0
+    },
+    {
+      "from": 563.11,
+      "to": 566.53,
+      "sid": 244,
+      "location": 2,
+      "content": "这个在这个波动市场表现还是非常的稳健的",
+      "music": 0.0
+    },
+    {
+      "from": 566.53,
+      "to": 569.98,
+      "sid": 245,
+      "location": 2,
+      "content": "我觉得这个啊跟这个持续的有序的一个",
+      "music": 0.0
+    },
+    {
+      "from": 569.98,
+      "to": 573.99,
+      "sid": 246,
+      "location": 2,
+      "content": "躯干杆以及盈利的改善呢还是密不可分的",
+      "music": 0.0
+    },
+    {
+      "from": 573.99,
+      "to": 574.45,
+      "sid": 247,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 574.45,
+      "to": 578.35,
+      "sid": 248,
+      "location": 2,
+      "content": "那么最近呢其实呃大家也关心这个资金流动啊",
+      "music": 0.0
+    },
+    {
+      "from": 578.35,
+      "to": 581.48,
+      "sid": 249,
+      "location": 2,
+      "content": "但是呃的影响其实我们觉得最关键的因素就是",
+      "music": 0.0
+    },
+    {
+      "from": 581.48,
+      "to": 584.19,
+      "sid": 250,
+      "location": 2,
+      "content": "不管是险资还是任何的买入资金",
+      "music": 0.0
+    },
+    {
+      "from": 584.19,
+      "to": 587.19,
+      "sid": 251,
+      "location": 2,
+      "content": "看重的还是更多的是银行的这个",
+      "music": 0.0
+    },
+    {
+      "from": 587.19,
+      "to": 589.38,
+      "sid": 252,
+      "location": 2,
+      "content": "可持续的一个盈利能力啊",
+      "music": 0.0
+    },
+    {
+      "from": 589.38,
+      "to": 591.06,
+      "sid": 253,
+      "location": 2,
+      "content": "同时呢股息的一个稳定度",
+      "music": 0.0
+    },
+    {
+      "from": 591.06,
+      "to": 593.569,
+      "sid": 254,
+      "location": 2,
+      "content": "以及啊股息的一个改善",
+      "music": 0.0
+    },
+    {
+      "from": 593.569,
+      "to": 595.429,
+      "sid": 255,
+      "location": 2,
+      "content": "那这个呢我们觉得啊",
+      "music": 0.0
+    },
+    {
+      "from": 595.429,
+      "to": 598.79,
+      "sid": 256,
+      "location": 2,
+      "content": "未来几年呢还是持续的这么一个趋势",
+      "music": 0.0
+    },
+    {
+      "from": 598.79,
+      "to": 600.71,
+      "sid": 257,
+      "location": 2,
+      "content": "首先呢我们看到呃",
+      "music": 0.0
+    },
+    {
+      "from": 600.71,
+      "to": 603.96,
+      "sid": 258,
+      "location": 2,
+      "content": "我们前一段也呃有几个这个分析",
+      "music": 0.0
+    },
+    {
+      "from": 603.96,
+      "to": 604.52,
+      "sid": 259,
+      "location": 2,
+      "content": "说到",
+      "music": 0.0
+    },
+    {
+      "from": 604.52,
+      "to": 606.94,
+      "sid": 260,
+      "location": 2,
+      "content": "为什么我们觉得这个有序的去杠杆呢",
+      "music": 0.0
+    },
+    {
+      "from": 606.94,
+      "to": 607.76,
+      "sid": 261,
+      "location": 2,
+      "content": "还是会持续",
+      "music": 0.0
+    },
+    {
+      "from": 607.76,
+      "to": 609.62,
+      "sid": 262,
+      "location": 2,
+      "content": "那么最近当然也看到一些政策啊",
+      "music": 0.0
+    },
+    {
+      "from": 609.62,
+      "to": 610.75,
+      "sid": 263,
+      "location": 2,
+      "content": "比如像啊",
+      "music": 0.0
+    },
+    {
+      "from": 610.75,
+      "to": 615.32,
+      "sid": 264,
+      "location": 2,
+      "content": "这个财政给地方有5500亿的一个托底啊",
+      "music": 0.0
+    },
+    {
+      "from": 615.32,
+      "to": 618.6,
+      "sid": 265,
+      "location": 2,
+      "content": "那这个我跟我们说到的也是类似的啊",
+      "music": 0.0
+    },
+    {
+      "from": 618.6,
+      "to": 622.31,
+      "sid": 266,
+      "location": 2,
+      "content": "就是他在这个嗯去杠杆的斜率斜率上呢",
+      "music": 0.0
+    },
+    {
+      "from": 622.31,
+      "to": 625.609,
+      "sid": 267,
+      "location": 2,
+      "content": "可能是有时不时的进行一些的啊调整",
+      "music": 0.0
+    },
+    {
+      "from": 625.609,
+      "to": 628.329,
+      "sid": 268,
+      "location": 2,
+      "content": "保证有序的去杠杆的一个这个过程",
+      "music": 0.0
+    },
+    {
+      "from": 628.329,
+      "to": 632.4,
+      "sid": 269,
+      "location": 2,
+      "content": "那个我们也在这几年的这个呃经验",
+      "music": 0.0
+    },
+    {
+      "from": 632.4,
+      "to": 634.52,
+      "sid": 270,
+      "location": 2,
+      "content": "这样呢也在做一些讨论",
+      "music": 0.0
+    },
+    {
+      "from": 634.52,
+      "to": 636.0,
+      "sid": 271,
+      "location": 2,
+      "content": "但这个在这个过程中呢",
+      "music": 0.0
+    },
+    {
+      "from": 636.0,
+      "to": 639.16,
+      "sid": 272,
+      "location": 2,
+      "content": "我们啊其实看到整体对银行的盈利呢",
+      "music": 0.0
+    },
+    {
+      "from": 639.16,
+      "to": 640.28,
+      "sid": 273,
+      "location": 2,
+      "content": "是比较正面的",
+      "music": 0.0
+    },
+    {
+      "from": 640.28,
+      "to": 643.97,
+      "sid": 274,
+      "location": 2,
+      "content": "这个啊我们也有跟很很多投资人的一个讨论",
+      "music": 0.0
+    },
+    {
+      "from": 643.97,
+      "to": 645.61,
+      "sid": 275,
+      "location": 2,
+      "content": "就是大家认为好像去杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 645.61,
+      "to": 649.3,
+      "sid": 276,
+      "location": 2,
+      "content": "是不是对银行的一个盈利应该是负面的啊",
+      "music": 0.0
+    },
+    {
+      "from": 649.3,
+      "to": 651.7,
+      "sid": 277,
+      "location": 2,
+      "content": "呃其实我们呃从经验来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 651.7,
+      "to": 653.5,
+      "sid": 278,
+      "location": 2,
+      "content": "从中国呢正好相反啊",
+      "music": 0.0
+    },
+    {
+      "from": 653.5,
+      "to": 656.06,
+      "sid": 279,
+      "location": 2,
+      "content": "去杠杆其实对银行的盈利呢是一个正面的",
+      "music": 0.0
+    },
+    {
+      "from": 656.06,
+      "to": 657.78,
+      "sid": 280,
+      "location": 2,
+      "content": "一个啊支撑的作用",
+      "music": 0.0
+    },
+    {
+      "from": 657.78,
+      "to": 661.24,
+      "sid": 281,
+      "location": 2,
+      "content": "因为呢中国的这个呃杠杆增速呢有大量的空转",
+      "music": 0.0
+    },
+    {
+      "from": 661.24,
+      "to": 664.34,
+      "sid": 282,
+      "location": 2,
+      "content": "以及中国的这个前几年的加杠杆呢",
+      "music": 0.0
+    },
+    {
+      "from": 664.34,
+      "to": 666.56,
+      "sid": 283,
+      "location": 2,
+      "content": "还是通过这种窗口指导啊",
+      "music": 0.0
+    },
+    {
+      "from": 666.56,
+      "to": 671.25,
+      "sid": 284,
+      "location": 2,
+      "content": "这个在现在已经不需求不太呃这个旺盛啊",
+      "music": 0.0
+    },
+    {
+      "from": 671.25,
+      "to": 673.25,
+      "sid": 285,
+      "location": 2,
+      "content": "或者啊高质量发展之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 673.25,
+      "to": 675.27,
+      "sid": 286,
+      "location": 2,
+      "content": "现代需求合理化的一个过程中呢",
+      "music": 0.0
+    },
+    {
+      "from": 675.27,
+      "to": 678.31,
+      "sid": 287,
+      "location": 2,
+      "content": "啊让这个呃银行去过度的竞争",
+      "music": 0.0
+    },
+    {
+      "from": 678.31,
+      "to": 681.79,
+      "sid": 288,
+      "location": 2,
+      "content": "那么这这些这呃从去杠杆的这个进程来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 681.79,
+      "to": 684.99,
+      "sid": 289,
+      "location": 2,
+      "content": "确实减低了这个过度的竞争的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 684.99,
+      "to": 687.51,
+      "sid": 290,
+      "location": 2,
+      "content": "那么导导致贷款的增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 687.51,
+      "to": 690.49,
+      "sid": 291,
+      "location": 2,
+      "content": "已知贷款定价呢向向更加可持续",
+      "music": 0.0
+    },
+    {
+      "from": 690.49,
+      "to": 692.339,
+      "sid": 292,
+      "location": 2,
+      "content": "合理的位置来过渡",
+      "music": 0.0
+    },
+    {
+      "from": 692.339,
+      "to": 694.739,
+      "sid": 293,
+      "location": 2,
+      "content": "所以呢息差也出现了反弹",
+      "music": 0.0
+    },
+    {
+      "from": 694.739,
+      "to": 697.539,
+      "sid": 294,
+      "location": 2,
+      "content": "那我们觉得啊如果继续有序去杠杆呢",
+      "music": 0.0
+    },
+    {
+      "from": 697.539,
+      "to": 700.5,
+      "sid": 295,
+      "location": 2,
+      "content": "其实我觉得西息差还会继续稳健啊",
+      "music": 0.0
+    },
+    {
+      "from": 700.5,
+      "to": 702.88,
+      "sid": 296,
+      "location": 2,
+      "content": "略略有反弹的一个方式来推进",
+      "music": 0.0
+    },
+    {
+      "from": 702.88,
+      "to": 705.02,
+      "sid": 297,
+      "location": 2,
+      "content": "那么这个对银行的这个盈利反弹呢",
+      "music": 0.0
+    },
+    {
+      "from": 705.02,
+      "to": 706.8,
+      "sid": 298,
+      "location": 2,
+      "content": "是非常重要的一个部分",
+      "music": 0.0
+    },
+    {
+      "from": 706.8,
+      "to": 709.429,
+      "sid": 299,
+      "location": 2,
+      "content": "还有呢就是当然有序去杠杆啊",
+      "music": 0.0
+    },
+    {
+      "from": 709.429,
+      "to": 711.349,
+      "sid": 300,
+      "location": 2,
+      "content": "我们觉得首先呢就是分两个部分",
+      "music": 0.0
+    },
+    {
+      "from": 711.349,
+      "to": 712.409,
+      "sid": 301,
+      "location": 2,
+      "content": "第一呢有序去杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 712.409,
+      "to": 715.809,
+      "sid": 302,
+      "location": 2,
+      "content": "也是鼓励银行把这个存量的一些风险",
+      "music": 0.0
+    },
+    {
+      "from": 715.809,
+      "to": 718.87,
+      "sid": 303,
+      "location": 2,
+      "content": "持续的有序的一个呃消化啊",
+      "music": 0.0
+    },
+    {
+      "from": 718.87,
+      "to": 720.39,
+      "sid": 304,
+      "location": 2,
+      "content": "那个我们还是持续看到",
+      "music": 0.0
+    },
+    {
+      "from": 720.39,
+      "to": 724.45,
+      "sid": 305,
+      "location": 2,
+      "content": "那么啊把存量的风险有序的消化呢",
+      "music": 0.0
+    },
+    {
+      "from": 724.45,
+      "to": 727.72,
+      "sid": 306,
+      "location": 2,
+      "content": "也是为未来的盈利这个反弹啊",
+      "music": 0.0
+    },
+    {
+      "from": 727.72,
+      "to": 730.44,
+      "sid": 307,
+      "location": 2,
+      "content": "嗯这个风险成本的下降呢打下下",
+      "music": 0.0
+    },
+    {
+      "from": 730.44,
+      "to": 731.92,
+      "sid": 308,
+      "location": 2,
+      "content": "打下了一个坚实的基础",
+      "music": 0.0
+    },
+    {
+      "from": 731.92,
+      "to": 735.41,
+      "sid": 309,
+      "location": 2,
+      "content": "同时呢这个信贷增速的一个放缓",
+      "music": 0.0
+    },
+    {
+      "from": 735.41,
+      "to": 736.95,
+      "sid": 310,
+      "location": 2,
+      "content": "也为新啊",
+      "music": 0.0
+    },
+    {
+      "from": 736.95,
+      "to": 742.0,
+      "sid": 311,
+      "location": 2,
+      "content": "未来新增新生成这个呃这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 742.0,
+      "to": 746.24,
+      "sid": 312,
+      "location": 2,
+      "content": "呃风险的一个呃下降呢也是有很大的帮助的",
+      "music": 0.0
+    },
+    {
+      "from": 746.24,
+      "to": 748.2,
+      "sid": 313,
+      "location": 2,
+      "content": "因为毕竟银行股的这个估值",
+      "music": 0.0
+    },
+    {
+      "from": 748.2,
+      "to": 750.22,
+      "sid": 314,
+      "location": 2,
+      "content": "现在虽然有啊修复啊",
+      "music": 0.0
+    },
+    {
+      "from": 750.22,
+      "to": 752.94,
+      "sid": 315,
+      "location": 2,
+      "content": "但是还是严重低于一倍PB的",
+      "music": 0.0
+    },
+    {
+      "from": 752.94,
+      "to": 756.04,
+      "sid": 316,
+      "location": 2,
+      "content": "那么说明大家呢担担心的资产质量",
+      "music": 0.0
+    },
+    {
+      "from": 756.04,
+      "to": 758.29,
+      "sid": 317,
+      "location": 2,
+      "content": "还有这个呃长期啊",
+      "music": 0.0
+    },
+    {
+      "from": 758.29,
+      "to": 762.22,
+      "sid": 318,
+      "location": 2,
+      "content": "不管是通过低利率来解决这个资产质量的问题",
+      "music": 0.0
+    },
+    {
+      "from": 762.22,
+      "to": 764.5,
+      "sid": 319,
+      "location": 2,
+      "content": "还是通过一次性的这个损失计提",
+      "music": 0.0
+    },
+    {
+      "from": 764.5,
+      "to": 766.12,
+      "sid": 320,
+      "location": 2,
+      "content": "来解决资产质量的问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 766.12,
+      "to": 767.87,
+      "sid": 321,
+      "location": 2,
+      "content": "担心还是还是有的",
+      "music": 0.0
+    },
+    {
+      "from": 767.87,
+      "to": 770.95,
+      "sid": 322,
+      "location": 2,
+      "content": "所以我们觉得有序的一个消化和长期",
+      "music": 0.0
+    },
+    {
+      "from": 770.95,
+      "to": 771.91,
+      "sid": 323,
+      "location": 2,
+      "content": "风险的下降呢",
+      "music": 0.0
+    },
+    {
+      "from": 771.91,
+      "to": 776.62,
+      "sid": 324,
+      "location": 2,
+      "content": "对这两块的担心呢都会啊有大幅的一个减减弱",
+      "music": 0.0
+    },
+    {
+      "from": 776.62,
+      "to": 779.9,
+      "sid": 325,
+      "location": 2,
+      "content": "那第二呢就是其实这两年呢大家也可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 779.9,
+      "to": 782.9,
+      "sid": 326,
+      "location": 2,
+      "content": "这个从21年以来虽然有各种的担心啊",
+      "music": 0.0
+    },
+    {
+      "from": 782.9,
+      "to": 787.81,
+      "sid": 327,
+      "location": 2,
+      "content": "不管是啊这个嗯在房地产去杠杆过程中",
+      "music": 0.0
+    },
+    {
+      "from": 791.95,
+      "to": 794.839,
+      "sid": 328,
+      "location": 2,
+      "content": "会担心出现系统性的金融风险",
+      "music": 0.0
+    },
+    {
+      "from": 794.839,
+      "to": 797.159,
+      "sid": 329,
+      "location": 2,
+      "content": "以及啊前几前几年",
+      "music": 0.0
+    },
+    {
+      "from": 797.159,
+      "to": 798.459,
+      "sid": 330,
+      "location": 2,
+      "content": "但大家担心啊",
+      "music": 0.0
+    },
+    {
+      "from": 798.459,
+      "to": 799.639,
+      "sid": 331,
+      "location": 2,
+      "content": "只要不刺激啊",
+      "music": 0.0
+    },
+    {
+      "from": 799.639,
+      "to": 802.67,
+      "sid": 332,
+      "location": 2,
+      "content": "这个啊这个通缩呢就会持续啊",
+      "music": 0.0
+    },
+    {
+      "from": 802.67,
+      "to": 805.21,
+      "sid": 333,
+      "location": 2,
+      "content": "然后呢利率也会逐逐渐趋向于零",
+      "music": 0.0
+    },
+    {
+      "from": 805.21,
+      "to": 809.23,
+      "sid": 334,
+      "location": 2,
+      "content": "那么最近呢呃大家也可以看到这个房地产的呃",
+      "music": 0.0
+    },
+    {
+      "from": 809.23,
+      "to": 811.79,
+      "sid": 335,
+      "location": 2,
+      "content": "这个虽然呃周期没有完全走完",
+      "music": 0.0
+    },
+    {
+      "from": 811.79,
+      "to": 815.98,
+      "sid": 336,
+      "location": 2,
+      "content": "但是风险消化呢还是相对比较有序的啊",
+      "music": 0.0
+    },
+    {
+      "from": 815.98,
+      "to": 819.06,
+      "sid": 337,
+      "location": 2,
+      "content": "嗯还有呢就是从现在来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 819.06,
+      "to": 822.49,
+      "sid": 338,
+      "location": 2,
+      "content": "这个至少啊从这个最近的数据来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 822.49,
+      "to": 825.57,
+      "sid": 339,
+      "location": 2,
+      "content": "工业利工业企业利润呢还是有所反弹",
+      "music": 0.0
+    },
+    {
+      "from": 825.57,
+      "to": 827.89,
+      "sid": 340,
+      "location": 2,
+      "content": "也有这个整个整个PPI",
+      "music": 0.0
+    },
+    {
+      "from": 827.89,
+      "to": 830.15,
+      "sid": 341,
+      "location": 2,
+      "content": "CPI呢也是处在正区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 830.15,
+      "to": 832.45,
+      "sid": 342,
+      "location": 2,
+      "content": "当然这个是长期啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.45,
+      "to": 834.43,
+      "sid": 343,
+      "location": 2,
+      "content": "还还会持持续有波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 834.43,
+      "to": 836.31,
+      "sid": 344,
+      "location": 2,
+      "content": "我们宏观也预计明年啊",
+      "music": 0.0
+    },
+    {
+      "from": 836.31,
+      "to": 839.51,
+      "sid": 345,
+      "location": 2,
+      "content": "还会有一些这个可能这个PPI的一个压力啊",
+      "music": 0.0
+    },
+    {
+      "from": 839.51,
+      "to": 842.27,
+      "sid": 346,
+      "location": 2,
+      "content": "毕竟啊短期内可能从需求",
+      "music": 0.0
+    },
+    {
+      "from": 842.27,
+      "to": 844.83,
+      "sid": 347,
+      "location": 2,
+      "content": "还有这个呃这个成本啊",
+      "music": 0.0
+    },
+    {
+      "from": 844.83,
+      "to": 846.01,
+      "sid": 348,
+      "location": 2,
+      "content": "也有一些不确定性",
+      "music": 0.0
+    },
+    {
+      "from": 846.01,
+      "to": 849.66,
+      "sid": 349,
+      "location": 2,
+      "content": "但是长期呢随着这个我们坚定看到产能的一个",
+      "music": 0.0
+    },
+    {
+      "from": 849.66,
+      "to": 850.84,
+      "sid": 350,
+      "location": 2,
+      "content": "合理的一个布局呢",
+      "music": 0.0
+    },
+    {
+      "from": 850.84,
+      "to": 853.86,
+      "sid": 351,
+      "location": 2,
+      "content": "我们的工业团队也看到202028年",
+      "music": 0.0
+    },
+    {
+      "from": 853.86,
+      "to": 856.54,
+      "sid": 352,
+      "location": 2,
+      "content": "这个ROE也会持续的一个改善呃",
+      "music": 0.0
+    },
+    {
+      "from": 856.54,
+      "to": 859.0,
+      "sid": 353,
+      "location": 2,
+      "content": "所以我们从金融风险来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 859.0,
+      "to": 864.16,
+      "sid": 354,
+      "location": 2,
+      "content": "肯定可还是要啊看看更长的一些周期啊",
+      "music": 0.0
+    },
+    {
+      "from": 864.16,
+      "to": 865.36,
+      "sid": 355,
+      "location": 2,
+      "content": "所以在这种情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 865.36,
+      "to": 868.8,
+      "sid": 356,
+      "location": 2,
+      "content": "我们觉得啊这个零利率或者工业啊",
+      "music": 0.0
+    },
+    {
+      "from": 868.8,
+      "to": 871.69,
+      "sid": 357,
+      "location": 2,
+      "content": "工业贷款的这个呃高风险的情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 871.69,
+      "to": 873.72,
+      "sid": 358,
+      "location": 2,
+      "content": "也会持续的有所改善",
+      "music": 0.0
+    },
+    {
+      "from": 873.72,
+      "to": 877.2,
+      "sid": 359,
+      "location": 2,
+      "content": "还有呢就是当然啊这个到现在为止",
+      "music": 0.0
+    },
+    {
+      "from": 877.2,
+      "to": 880.62,
+      "sid": 360,
+      "location": 2,
+      "content": "大家一直担心出口模式是否能够持续",
+      "music": 0.0
+    },
+    {
+      "from": 880.62,
+      "to": 884.75,
+      "sid": 361,
+      "location": 2,
+      "content": "那我们觉得其实啊这个最近也拜访了很多啊",
+      "music": 0.0
+    },
+    {
+      "from": 884.75,
+      "to": 886.91,
+      "sid": 362,
+      "location": 2,
+      "content": "科技金融的产业链啊",
+      "music": 0.0
+    },
+    {
+      "from": 886.91,
+      "to": 890.59,
+      "sid": 363,
+      "location": 2,
+      "content": "我们认为这个从一呃一些基建的这个资金",
+      "music": 0.0
+    },
+    {
+      "from": 890.59,
+      "to": 892.19,
+      "sid": 364,
+      "location": 2,
+      "content": "转向科技金融啊",
+      "music": 0.0
+    },
+    {
+      "from": 892.19,
+      "to": 893.75,
+      "sid": 365,
+      "location": 2,
+      "content": "科技的这个硬科技的投资呢",
+      "music": 0.0
+    },
+    {
+      "from": 893.75,
+      "to": 896.11,
+      "sid": 366,
+      "location": 2,
+      "content": "对长期的中国的效率的提升",
+      "music": 0.0
+    },
+    {
+      "from": 896.11,
+      "to": 898.94,
+      "sid": 367,
+      "location": 2,
+      "content": "竞争力的提升啊还是有益的",
+      "music": 0.0
+    },
+    {
+      "from": 898.94,
+      "to": 902.0,
+      "sid": 368,
+      "location": 2,
+      "content": "中间的出口可能会有一些波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 902.0,
+      "to": 906.9,
+      "sid": 369,
+      "location": 2,
+      "content": "但是长期我觉得呃中国的在全球的比较优势",
+      "music": 0.0
+    },
+    {
+      "from": 906.9,
+      "to": 909.76,
+      "sid": 370,
+      "location": 2,
+      "content": "还是啊这个拉动啊",
+      "music": 0.0
+    },
+    {
+      "from": 909.76,
+      "to": 911.8,
+      "sid": 371,
+      "location": 2,
+      "content": "整个的金融投资啊",
+      "music": 0.0
+    },
+    {
+      "from": 911.8,
+      "to": 914.98,
+      "sid": 372,
+      "location": 2,
+      "content": "和和这个收入增长的一个重要的一个渠道啊",
+      "music": 0.0
+    },
+    {
+      "from": 914.98,
+      "to": 916.06,
+      "sid": 373,
+      "location": 2,
+      "content": "所以现在来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 916.06,
+      "to": 917.7,
+      "sid": 374,
+      "location": 2,
+      "content": "至少啊到现在来看",
+      "music": 0.0
+    },
+    {
+      "from": 917.7,
+      "to": 920.64,
+      "sid": 375,
+      "location": 2,
+      "content": "比大家担心的要啊可持续的多",
+      "music": 0.0
+    },
+    {
+      "from": 920.64,
+      "to": 924.18,
+      "sid": 376,
+      "location": 2,
+      "content": "那未来呢更啊我们觉得也更啊",
+      "music": 0.0
+    },
+    {
+      "from": 924.18,
+      "to": 928.2,
+      "sid": 377,
+      "location": 2,
+      "content": "这个依赖于呃科技和这个工业持续的升级",
+      "music": 0.0
+    },
+    {
+      "from": 928.2,
+      "to": 930.81,
+      "sid": 378,
+      "location": 2,
+      "content": "能不能跟其他国家拉开代差啊",
+      "music": 0.0
+    },
+    {
+      "from": 930.81,
+      "to": 932.37,
+      "sid": 379,
+      "location": 2,
+      "content": "所以来看的这是这几个方面",
+      "music": 0.0
+    },
+    {
+      "from": 932.37,
+      "to": 934.81,
+      "sid": 380,
+      "location": 2,
+      "content": "不管是啊这个防风险去杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 934.81,
+      "to": 936.29,
+      "sid": 381,
+      "location": 2,
+      "content": "还有工业升级啊",
+      "music": 0.0
+    },
+    {
+      "from": 936.29,
+      "to": 939.99,
+      "sid": 382,
+      "location": 2,
+      "content": "我们觉得对这个市场的一些担心呢",
+      "music": 0.0
+    },
+    {
+      "from": 939.99,
+      "to": 942.45,
+      "sid": 383,
+      "location": 2,
+      "content": "都没有大家想象的那么多啊",
+      "music": 0.0
+    },
+    {
+      "from": 942.45,
+      "to": 945.21,
+      "sid": 384,
+      "location": 2,
+      "content": "尤其是风险持续可呃这个消化",
+      "music": 0.0
+    },
+    {
+      "from": 945.21,
+      "to": 947.89,
+      "sid": 385,
+      "location": 2,
+      "content": "所以我们说的这个啊这个平滑的去杠杆",
+      "music": 0.0
+    },
+    {
+      "from": 947.89,
+      "to": 950.27,
+      "sid": 386,
+      "location": 2,
+      "content": "更多的是啊风险消化的一个角度",
+      "music": 0.0
+    },
+    {
+      "from": 950.27,
+      "to": 952.03,
+      "sid": 387,
+      "location": 2,
+      "content": "没有出现大的波动啊",
+      "music": 0.0
+    },
+    {
+      "from": 952.03,
+      "to": 955.32,
+      "sid": 388,
+      "location": 2,
+      "content": "当然这个嗯从这个经济体感呢",
+      "music": 0.0
+    },
+    {
+      "from": 955.32,
+      "to": 956.64,
+      "sid": 389,
+      "location": 2,
+      "content": "中间确实有些波动",
+      "music": 0.0
+    },
+    {
+      "from": 956.64,
+      "to": 958.98,
+      "sid": 390,
+      "location": 2,
+      "content": "所以呢我们也是持续看啊",
+      "music": 0.0
+    },
+    {
+      "from": 958.98,
+      "to": 962.55,
+      "sid": 391,
+      "location": 2,
+      "content": "这个在这个风险消化和利率是平滑的啊",
+      "music": 0.0
+    },
+    {
+      "from": 962.55,
+      "to": 964.89,
+      "sid": 392,
+      "location": 2,
+      "content": "所以呢但是经济呢可能是有波动的",
+      "music": 0.0
+    },
+    {
+      "from": 964.89,
+      "to": 967.49,
+      "sid": 393,
+      "location": 2,
+      "content": "所以银行持续的在这个过程中呢是受益",
+      "music": 0.0
+    },
+    {
+      "from": 967.49,
+      "to": 968.74,
+      "sid": 394,
+      "location": 2,
+      "content": "是跑赢的啊",
+      "music": 0.0
+    },
+    {
+      "from": 968.74,
+      "to": 970.1,
+      "sid": 395,
+      "location": 2,
+      "content": "所以在这个大的背景下呢",
+      "music": 0.0
+    },
+    {
+      "from": 970.1,
+      "to": 972.46,
+      "sid": 396,
+      "location": 2,
+      "content": "我们认为这个明年啊",
+      "music": 0.0
+    },
+    {
+      "from": 972.46,
+      "to": 974.63,
+      "sid": 397,
+      "location": 2,
+      "content": "尤其是考虑到这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 974.63,
+      "to": 978.55,
+      "sid": 398,
+      "location": 2,
+      "content": "这个地方债还要啊继续啊引债清零啊",
+      "music": 0.0
+    },
+    {
+      "from": 978.55,
+      "to": 981.99,
+      "sid": 399,
+      "location": 2,
+      "content": "这个还有这个嗯高风险的债务和引债",
+      "music": 0.0
+    },
+    {
+      "from": 981.99,
+      "to": 983.91,
+      "sid": 400,
+      "location": 2,
+      "content": "继续严控的情况下呢",
+      "music": 0.0
+    },
+    {
+      "from": 983.91,
+      "to": 985.81,
+      "sid": 401,
+      "location": 2,
+      "content": "还是更多的嗯",
+      "music": 0.0
+    },
+    {
+      "from": 985.81,
+      "to": 988.329,
+      "sid": 402,
+      "location": 2,
+      "content": "结果就是啊风险管控啊",
+      "music": 0.0
+    },
+    {
+      "from": 988.329,
+      "to": 991.77,
+      "sid": 403,
+      "location": 2,
+      "content": "金融的这个有序的这个啊风险的清理啊",
+      "music": 0.0
+    },
+    {
+      "from": 991.77,
+      "to": 997.069,
+      "sid": 404,
+      "location": 2,
+      "content": "可能优先于呃一些这个短期的一个经济活动",
+      "music": 0.0
+    },
+    {
+      "from": 997.069,
+      "to": 999.969,
+      "sid": 405,
+      "location": 2,
+      "content": "所以我们啊也持续认为啊",
+      "music": 0.0
+    },
+    {
+      "from": 999.969,
+      "to": 1003.17,
+      "sid": 406,
+      "location": 2,
+      "content": "它虽然支持这个银行的这个估值的回升啊",
+      "music": 0.0
+    },
+    {
+      "from": 1003.17,
+      "to": 1006.48,
+      "sid": 407,
+      "location": 2,
+      "content": "但是全市场呢不见得一定是非常乐观",
+      "music": 0.0
+    },
+    {
+      "from": 1006.48,
+      "to": 1007.84,
+      "sid": 408,
+      "location": 2,
+      "content": "那在这种背景下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1007.84,
+      "to": 1008.88,
+      "sid": 409,
+      "location": 2,
+      "content": "其实银行跑赢呢",
+      "music": 0.0
+    },
+    {
+      "from": 1008.88,
+      "to": 1010.96,
+      "sid": 410,
+      "location": 2,
+      "content": "我们觉得也是更大率概概率的事件",
+      "music": 0.0
+    },
+    {
+      "from": 1010.96,
+      "to": 1013.84,
+      "sid": 411,
+      "location": 2,
+      "content": "所以我们也说到银行可能持续第6年啊",
+      "music": 0.0
+    },
+    {
+      "from": 1013.84,
+      "to": 1016.9,
+      "sid": 412,
+      "location": 2,
+      "content": "跑赢就是把原来的风险积累啊消化掉",
+      "music": 0.0
+    },
+    {
+      "from": 1016.9,
+      "to": 1020.05,
+      "sid": 413,
+      "location": 2,
+      "content": "那么银行呢就在这个过程中的估值的修复啊",
+      "music": 0.0
+    },
+    {
+      "from": 1020.05,
+      "to": 1022.05,
+      "sid": 414,
+      "location": 2,
+      "content": "但是呢这个整个市场的",
+      "music": 0.0
+    },
+    {
+      "from": 1022.05,
+      "to": 1024.17,
+      "sid": 415,
+      "location": 2,
+      "content": "可能像我们策略的一些看法呢",
+      "music": 0.0
+    },
+    {
+      "from": 1024.17,
+      "to": 1025.09,
+      "sid": 416,
+      "location": 2,
+      "content": "也是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1025.09,
+      "to": 1027.49,
+      "sid": 417,
+      "location": 2,
+      "content": "可能是只是阶段性的机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 1027.49,
+      "to": 1028.57,
+      "sid": 418,
+      "location": 2,
+      "content": "在这个大的背景下呢",
+      "music": 0.0
+    },
+    {
+      "from": 1028.57,
+      "to": 1031.35,
+      "sid": 419,
+      "location": 2,
+      "content": "我们其实也是提高了我们对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1031.35,
+      "to": 1035.34,
+      "sid": 420,
+      "location": 2,
+      "content": "银行的一个啊一个目标价和估值啊",
+      "music": 0.0
+    },
+    {
+      "from": 1035.34,
+      "to": 1036.94,
+      "sid": 421,
+      "location": 2,
+      "content": "那尤其是对大行呢",
+      "music": 0.0
+    },
+    {
+      "from": 1036.94,
+      "to": 1039.139,
+      "sid": 422,
+      "location": 2,
+      "content": "我们国有大行呢我们提高了呃",
+      "music": 0.0
+    },
+    {
+      "from": 1039.139,
+      "to": 1042.459,
+      "sid": 423,
+      "location": 2,
+      "content": "一个目标价5%到呃16这么一个区间",
+      "music": 0.0
+    },
+    {
+      "from": 1042.459,
+      "to": 1043.459,
+      "sid": 424,
+      "location": 2,
+      "content": "主要考虑到这个",
+      "music": 0.0
+    },
+    {
+      "from": 1043.459,
+      "to": 1047.489,
+      "sid": 425,
+      "location": 2,
+      "content": "我们首先呢就是把我们的估值的这个定定价啊",
+      "music": 0.0
+    },
+    {
+      "from": 1047.489,
+      "to": 1050.15,
+      "sid": 426,
+      "location": 2,
+      "content": "啊roll over到27年啊",
+      "music": 0.0
+    },
+    {
+      "from": 1050.15,
+      "to": 1052.98,
+      "sid": 427,
+      "location": 2,
+      "content": "那他的这个本金呢持续有有所增长",
+      "music": 0.0
+    },
+    {
+      "from": 1052.98,
+      "to": 1053.42,
+      "sid": 428,
+      "location": 2,
+      "content": "第二呢",
+      "music": 0.0
+    },
+    {
+      "from": 1053.42,
+      "to": 1056.9,
+      "sid": 429,
+      "location": 2,
+      "content": "我们觉得明年呢持续会给市场更多的信号",
+      "music": 0.0
+    },
+    {
+      "from": 1056.9,
+      "to": 1058.42,
+      "sid": 430,
+      "location": 2,
+      "content": "就是银行的盈利增速呢",
+      "music": 0.0
+    },
+    {
+      "from": 1058.42,
+      "to": 1060.92,
+      "sid": 431,
+      "location": 2,
+      "content": "可能可以超过名义GDP啊",
+      "music": 0.0
+    },
+    {
+      "from": 1060.92,
+      "to": 1064.2,
+      "sid": 432,
+      "location": 2,
+      "content": "因为我们认为呢银行的这个啊这个盈利呢",
+      "music": 0.0
+    },
+    {
+      "from": 1064.2,
+      "to": 1066.44,
+      "sid": 433,
+      "location": 2,
+      "content": "尤其是LOE能够稳企稳回升的",
+      "music": 0.0
+    },
+    {
+      "from": 1066.44,
+      "to": 1071.24,
+      "sid": 434,
+      "location": 2,
+      "content": "对长期这个中国金融稳定还是有很大的作用的",
+      "music": 0.0
+    },
+    {
+      "from": 1071.24,
+      "to": 1075.2,
+      "sid": 435,
+      "location": 2,
+      "content": "而且呢未来中国这个金融机构走出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1075.2,
+      "to": 1079.38,
+      "sid": 436,
+      "location": 2,
+      "content": "中国整个的这个在世啊全球金融市场上呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 1079.38,
+      "to": 1081.4,
+      "sid": 437,
+      "location": 2,
+      "content": "一个竞争呢也是人民币国际化啊",
+      "music": 0.0
+    },
+    {
+      "from": 1081.4,
+      "to": 1083.28,
+      "sid": 438,
+      "location": 2,
+      "content": "整个也比较重要的一个部分",
+      "music": 0.0
+    },
+    {
+      "from": 1083.28,
+      "to": 1085.0,
+      "sid": 439,
+      "location": 2,
+      "content": "那么其海外的金融机构呢",
+      "music": 0.0
+    },
+    {
+      "from": 1085.0,
+      "to": 1086.96,
+      "sid": 440,
+      "location": 2,
+      "content": "OE已经有明显的反弹",
+      "music": 0.0
+    },
+    {
+      "from": 1086.96,
+      "to": 1089.16,
+      "sid": 441,
+      "location": 2,
+      "content": "那呃这个中国的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1089.16,
+      "to": 1091.52,
+      "sid": 442,
+      "location": 2,
+      "content": "尤其是主流金融机构RV能够稳住",
+      "music": 0.0
+    },
+    {
+      "from": 1091.52,
+      "to": 1092.74,
+      "sid": 443,
+      "location": 2,
+      "content": "能够有所回升",
+      "music": 0.0
+    },
+    {
+      "from": 1092.74,
+      "to": 1094.85,
+      "sid": 444,
+      "location": 2,
+      "content": "也有利于中国啊",
+      "music": 0.0
+    },
+    {
+      "from": 1094.85,
+      "to": 1097.45,
+      "sid": 445,
+      "location": 2,
+      "content": "这个金融机构在全球舞台上的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1097.45,
+      "to": 1098.65,
+      "sid": 446,
+      "location": 2,
+      "content": "一个竞争啊",
+      "music": 0.0
+    },
+    {
+      "from": 1098.65,
+      "to": 1102.25,
+      "sid": 447,
+      "location": 2,
+      "content": "所以呢我们啊整体看呢就是啊这个盈利呢",
+      "music": 0.0
+    },
+    {
+      "from": 1102.25,
+      "to": 1104.67,
+      "sid": 448,
+      "location": 2,
+      "content": "这个这个啊可能还在稳中",
+      "music": 0.0
+    },
+    {
+      "from": 1104.67,
+      "to": 1107.559,
+      "sid": 449,
+      "location": 2,
+      "content": "还会有或反弹甚至加速啊",
+      "music": 0.0
+    },
+    {
+      "from": 1107.559,
+      "to": 1108.719,
+      "sid": 450,
+      "location": 2,
+      "content": "在选股方面呢",
+      "music": 0.0
+    },
+    {
+      "from": 1108.719,
+      "to": 1110.759,
+      "sid": 451,
+      "location": 2,
+      "content": "我们持续还是看好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1110.759,
+      "to": 1111.359,
+      "sid": 452,
+      "location": 2,
+      "content": "宁波银行",
+      "music": 0.0
+    },
+    {
+      "from": 1111.359,
+      "to": 1113.959,
+      "sid": 453,
+      "location": 2,
+      "content": "宁波银行呢这在这个银行里面",
+      "music": 0.0
+    },
+    {
+      "from": 1113.959,
+      "to": 1116.48,
+      "sid": 454,
+      "location": 2,
+      "content": "首先已经回到了双位数的一个LOE",
+      "music": 0.0
+    },
+    {
+      "from": 1116.48,
+      "to": 1117.32,
+      "sid": 455,
+      "location": 2,
+      "content": "双倍数的增长",
+      "music": 0.0
+    },
+    {
+      "from": 1117.32,
+      "to": 1120.2,
+      "sid": 456,
+      "location": 2,
+      "content": "那么这两年这两这个几个季季度的",
+      "music": 0.0
+    },
+    {
+      "from": 1120.2,
+      "to": 1122.08,
+      "sid": 457,
+      "location": 2,
+      "content": "这个盈利的持续验证",
+      "music": 0.0
+    },
+    {
+      "from": 1122.08,
+      "to": 1125.02,
+      "sid": 458,
+      "location": 2,
+      "content": "我们认为明年还是有持续的空间",
+      "music": 0.0
+    },
+    {
+      "from": 1125.02,
+      "to": 1128.44,
+      "sid": 459,
+      "location": 2,
+      "content": "那么大行里面呢我们啊在这个选股上面方面",
+      "music": 0.0
+    },
+    {
+      "from": 1128.44,
+      "to": 1129.98,
+      "sid": 460,
+      "location": 2,
+      "content": "其实我们觉得国有大行呢",
+      "music": 0.0
+    },
+    {
+      "from": 1129.98,
+      "to": 1135.11,
+      "sid": 461,
+      "location": 2,
+      "content": "可能这个啊这个嗯其实基本面呢啊比较类似",
+      "music": 0.0
+    },
+    {
+      "from": 1135.11,
+      "to": 1137.13,
+      "sid": 462,
+      "location": 2,
+      "content": "但是啊从股息率来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 1137.13,
+      "to": 1141.639,
+      "sid": 463,
+      "location": 2,
+      "content": "啊比如呃这个中行和啊建行呢可能略高啊",
+      "music": 0.0
+    },
+    {
+      "from": 1141.639,
+      "to": 1143.739,
+      "sid": 464,
+      "location": 2,
+      "content": "而且呢中航有海外业务的一些加持呢",
+      "music": 0.0
+    },
+    {
+      "from": 1143.739,
+      "to": 1145.539,
+      "sid": 465,
+      "location": 2,
+      "content": "可能也会受到市场的一些青睐",
+      "music": 0.0
+    },
+    {
+      "from": 1145.539,
+      "to": 1149.62,
+      "sid": 466,
+      "location": 2,
+      "content": "所以我们也比较看好这两只呃这个呃票",
+      "music": 0.0
+    },
+    {
+      "from": 1149.62,
+      "to": 1151.7,
+      "sid": 467,
+      "location": 2,
+      "content": "那从股份制银行来看呢",
+      "music": 0.0
+    },
+    {
+      "from": 1151.7,
+      "to": 1153.92,
+      "sid": 468,
+      "location": 2,
+      "content": "我们现在看还是中信银行呢",
+      "music": 0.0
+    },
+    {
+      "from": 1153.92,
+      "to": 1156.16,
+      "sid": 469,
+      "location": 2,
+      "content": "相对对未来的展望啊",
+      "music": 0.0
+    },
+    {
+      "from": 1156.16,
+      "to": 1158.08,
+      "sid": 470,
+      "location": 2,
+      "content": "以及股息收益率的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1158.08,
+      "to": 1161.46,
+      "sid": 471,
+      "location": 2,
+      "content": "这个增长呢啊也是啊更加的有信心啊",
+      "music": 0.0
+    },
+    {
+      "from": 1161.46,
+      "to": 1163.1,
+      "sid": 472,
+      "location": 2,
+      "content": "股息收益率也比较高",
+      "music": 0.0
+    },
+    {
+      "from": 1163.1,
+      "to": 1164.8,
+      "sid": 473,
+      "location": 2,
+      "content": "所以我们这几家啊",
+      "music": 0.0
+    },
+    {
+      "from": 1164.8,
+      "to": 1167.28,
+      "sid": 474,
+      "location": 2,
+      "content": "这几家行呢其实就是国有大行价中心的",
+      "music": 0.0
+    },
+    {
+      "from": 1167.28,
+      "to": 1168.92,
+      "sid": 475,
+      "location": 2,
+      "content": "我们觉得未来的DPI增长呢",
+      "music": 0.0
+    },
+    {
+      "from": 1168.92,
+      "to": 1172.46,
+      "sid": 476,
+      "location": 2,
+      "content": "都有都可以恢复到啊8%左右的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1172.46,
+      "to": 1174.49,
+      "sid": 477,
+      "location": 2,
+      "content": "这个未来几年的一个K歌啊",
+      "music": 0.0
+    },
+    {
+      "from": 1174.49,
+      "to": 1176.19,
+      "sid": 478,
+      "location": 2,
+      "content": "那这个呢对于我相信",
+      "music": 0.0
+    },
+    {
+      "from": 1176.19,
+      "to": 1177.99,
+      "sid": 479,
+      "location": 2,
+      "content": "对于很多的这个稳健的资金呢",
+      "music": 0.0
+    },
+    {
+      "from": 1177.99,
+      "to": 1179.88,
+      "sid": 480,
+      "location": 2,
+      "content": "还是非常具有吸引力的",
+      "music": 0.0
+    },
+    {
+      "from": 1179.88,
+      "to": 1180.6,
+      "sid": 481,
+      "location": 2,
+      "content": "对我",
+      "music": 0.0
+    },
+    {
+      "from": 1180.6,
+      "to": 1183.96,
+      "sid": 482,
+      "location": 2,
+      "content": "那我对这个我们啊银行板块的一些介介绍呢",
+      "music": 0.0
+    },
+    {
+      "from": 1183.96,
+      "to": 1187.32,
+      "sid": 483,
+      "location": 2,
+      "content": "先到这边再把时间交还给真铁",
+      "music": 0.0
+    },
+    {
+      "from": 1189.16,
+      "to": 1190.66,
+      "sid": 484,
+      "location": 2,
+      "content": "好的谢谢RICHARD",
+      "music": 0.0
+    },
+    {
+      "from": 1190.66,
+      "to": 1194.42,
+      "sid": 485,
+      "location": 2,
+      "content": "那接下来我们中国公用事业和新能源好行业",
+      "music": 0.0
+    },
+    {
+      "from": 1197.46,
+      "to": 1199.42,
+      "sid": 486,
+      "location": 2,
+      "content": "海上风电加速发展",
+      "music": 0.0
+    },
+    {
+      "from": 1199.42,
+      "to": 1202.5,
+      "sid": 487,
+      "location": 2,
+      "content": "伊娃好的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1202.5,
+      "to": 1203.7,
+      "sid": 488,
+      "location": 2,
+      "content": "谢谢cc啊",
+      "music": 0.0
+    },
+    {
+      "from": 1203.7,
+      "to": 1207.18,
+      "sid": 489,
+      "location": 2,
+      "content": "那我们啊近期也是发了一个报告啊",
+      "music": 0.0
+    },
+    {
+      "from": 1207.18,
+      "to": 1210.15,
+      "sid": 490,
+      "location": 2,
+      "content": "就是谈啊主要谈论了一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1210.15,
+      "to": 1212.55,
+      "sid": 491,
+      "location": 2,
+      "content": "15的一个海上风电的发展",
+      "music": 0.0
+    },
+    {
+      "from": 1212.55,
+      "to": 1216.09,
+      "sid": 492,
+      "location": 2,
+      "content": "那首先的话我们啊就是我们我们判断呢",
+      "music": 0.0
+    },
+    {
+      "from": 1216.09,
+      "to": 1218.36,
+      "sid": 493,
+      "location": 2,
+      "content": "就是在今年的四季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 1218.36,
+      "to": 1221.96,
+      "sid": 494,
+      "location": 2,
+      "content": "大概率啊中国的这个深沿海的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1221.96,
+      "to": 1222.64,
+      "sid": 495,
+      "location": 2,
+      "content": "是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1222.64,
+      "to": 1227.33,
+      "sid": 496,
+      "location": 2,
+      "content": "深远海发展的行动方案呢会在啊四季度啊公布",
+      "music": 0.0
+    },
+    {
+      "from": 1227.33,
+      "to": 1229.81,
+      "sid": 497,
+      "location": 2,
+      "content": "然后呢这个行动方案的话会啊",
+      "music": 0.0
+    },
+    {
+      "from": 1229.81,
+      "to": 1230.77,
+      "sid": 498,
+      "location": 2,
+      "content": "因为这个行动方案",
+      "music": 0.0
+    },
+    {
+      "from": 1230.77,
+      "to": 1233.39,
+      "sid": 499,
+      "location": 2,
+      "content": "其实从2024年已经开始讨论了",
+      "music": 0.0
+    },
+    {
+      "from": 1233.39,
+      "to": 1234.81,
+      "sid": 500,
+      "location": 2,
+      "content": "那2025年的话",
+      "music": 0.0
+    },
+    {
+      "from": 1234.81,
+      "to": 1237.57,
+      "sid": 501,
+      "location": 2,
+      "content": "已经是在啊各个部委走了一圈",
+      "music": 0.0
+    },
+    {
+      "from": 1237.57,
+      "to": 1240.37,
+      "sid": 502,
+      "location": 2,
+      "content": "然后原本是我们了解原本是计划",
+      "music": 0.0
+    },
+    {
+      "from": 1240.37,
+      "to": 1243.97,
+      "sid": 503,
+      "location": 2,
+      "content": "今年啊可能一季度或者是二季度啊",
+      "music": 0.0
+    },
+    {
+      "from": 1243.97,
+      "to": 1245.51,
+      "sid": 504,
+      "location": 2,
+      "content": "前半段会推出来",
+      "music": 0.0
+    },
+    {
+      "from": 1245.51,
+      "to": 1247.87,
+      "sid": 505,
+      "location": 2,
+      "content": "但是由于啊种种的一些原因的话",
+      "music": 0.0
+    },
+    {
+      "from": 1247.87,
+      "to": 1250.1,
+      "sid": 506,
+      "location": 2,
+      "content": "有些啊有些delay了",
+      "music": 0.0
+    },
+    {
+      "from": 1250.1,
+      "to": 1253.61,
+      "sid": 507,
+      "location": 2,
+      "content": "那可能我们预计呢在今年的年内的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 1253.61,
+      "to": 1256.55,
+      "sid": 508,
+      "location": 2,
+      "content": "这个深远海的行动方案啊会推出来",
+      "music": 0.0
+    },
+    {
+      "from": 1256.55,
+      "to": 1259.57,
+      "sid": 509,
+      "location": 2,
+      "content": "那这是这这深远海行动方案里面的",
+      "music": 0.0
+    },
+    {
+      "from": 1259.57,
+      "to": 1261.87,
+      "sid": 510,
+      "location": 2,
+      "content": "这些中国的深远海的项目呢",
+      "music": 0.0
+    },
+    {
+      "from": 1261.87,
+      "to": 1262.93,
+      "sid": 511,
+      "location": 2,
+      "content": "也是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1262.93,
+      "to": 1267.27,
+      "sid": 512,
+      "location": 2,
+      "content": "就是我们15期间的啊主要的一个啊发展啊",
+      "music": 0.0
+    },
+    {
+      "from": 1267.27,
+      "to": 1269.83,
+      "sid": 513,
+      "location": 2,
+      "content": "深远海项目的一个啊池子",
+      "music": 0.0
+    },
+    {
+      "from": 1269.83,
+      "to": 1272.75,
+      "sid": 514,
+      "location": 2,
+      "content": "那啊就是啊这是一点",
+      "music": 0.0
+    },
+    {
+      "from": 1272.75,
+      "to": 1276.2,
+      "sid": 515,
+      "location": 2,
+      "content": "然后第二点的话就是在规模上的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 1276.2,
+      "to": 1277.32,
+      "sid": 516,
+      "location": 2,
+      "content": "我们了解到的话",
+      "music": 0.0
+    },
+    {
+      "from": 1277.32,
+      "to": 1281.32,
+      "sid": 517,
+      "location": 2,
+      "content": "这个这个盘子里的一些的项目的话也是有啊",
+      "music": 0.0
+    },
+    {
+      "from": 1281.32,
+      "to": 1283.58,
+      "sid": 518,
+      "location": 2,
+      "content": "超过啊100个几瓦的一个项目",
+      "music": 0.0
+    },
+    {
+      "from": 1283.58,
+      "to": 1286.62,
+      "sid": 519,
+      "location": 2,
+      "content": "那也是跟啊15的深远海的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1286.62,
+      "to": 1289.81,
+      "sid": 520,
+      "location": 2,
+      "content": "海上风电一个啊发展方案的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1289.81,
+      "to": 1292.43,
+      "sid": 521,
+      "location": 2,
+      "content": "整过的规模是比较匹配的",
+      "music": 0.0
+    },
+    {
+      "from": 1292.43,
+      "to": 1296.679,
+      "sid": 522,
+      "location": 2,
+      "content": "那15按照啊15的啊新能源的一个规划的话",
+      "music": 0.0
+    },
+    {
+      "from": 1296.679,
+      "to": 1301.399,
+      "sid": 523,
+      "location": 2,
+      "content": "那海上风电的话是要有啊超过100个几把的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1301.399,
+      "to": 1302.789,
+      "sid": 524,
+      "location": 2,
+      "content": "开工规模啊",
+      "music": 0.0
+    },
+    {
+      "from": 1302.789,
+      "to": 1304.149,
+      "sid": 525,
+      "location": 2,
+      "content": "那在食物啊",
+      "music": 0.0
+    },
+    {
+      "from": 1304.149,
+      "to": 1306.589,
+      "sid": 526,
+      "location": 2,
+      "content": "包括在还有就是就是开工的一个目标",
+      "music": 0.0
+    },
+    {
+      "from": 1306.589,
+      "to": 1309.1,
+      "sid": 527,
+      "location": 2,
+      "content": "然后那并网的一个目标的话",
+      "music": 0.0
+    },
+    {
+      "from": 1309.1,
+      "to": 1313.07,
+      "sid": 528,
+      "location": 2,
+      "content": "就是在2030年在15周末的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 1313.07,
+      "to": 1316.43,
+      "sid": 529,
+      "location": 2,
+      "content": "整体的海上风电的装机量呢是超过啊",
+      "music": 0.0
+    },
+    {
+      "from": 1316.43,
+      "to": 1317.27,
+      "sid": 530,
+      "location": 2,
+      "content": "100个几瓦",
+      "music": 0.0
+    },
+    {
+      "from": 1317.27,
+      "to": 1320.64,
+      "sid": 531,
+      "location": 2,
+      "content": "那去年年底的中国海上风电的装机量是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1320.64,
+      "to": 1321.96,
+      "sid": 532,
+      "location": 2,
+      "content": "47个几瓦",
+      "music": 0.0
+    },
+    {
+      "from": 1321.96,
+      "to": 1326.38,
+      "sid": 533,
+      "location": 2,
+      "content": "是那就是说在十五五的整个的一个发展啊",
+      "music": 0.0
+    },
+    {
+      "from": 1326.38,
+      "to": 1328.36,
+      "sid": 534,
+      "location": 2,
+      "content": "并网的一个盘子里的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 1328.36,
+      "to": 1332.2,
+      "sid": 535,
+      "location": 2,
+      "content": "是要超过整个啊过去整个中国啊",
+      "music": 0.0
+    },
+    {
+      "from": 1332.2,
+      "to": 1332.76,
+      "sid": 536,
+      "location": 2,
+      "content": "去年年底",
+      "music": 0.0
+    },
+    {
+      "from": 1332.76,
+      "to": 1336.579,
+      "sid": 537,
+      "location": 2,
+      "content": "中国的海上风电的一个啊累积的一个装机量啊",
+      "music": 0.0
+    },
+    {
+      "from": 1336.579,
+      "to": 1337.979,
+      "sid": 538,
+      "location": 2,
+      "content": "那year to today的话",
+      "music": 0.0
+    },
+    {
+      "from": 1337.979,
+      "to": 1340.419,
+      "sid": 539,
+      "location": 2,
+      "content": "其实整个中国的海上风电啊",
+      "music": 0.0
+    },
+    {
+      "from": 1340.419,
+      "to": 1342.93,
+      "sid": 540,
+      "location": 2,
+      "content": "发展还是比较啊比较慢的",
+      "music": 0.0
+    },
+    {
+      "from": 1342.93,
+      "to": 1344.51,
+      "sid": 541,
+      "location": 2,
+      "content": "那我们统计下来的话",
+      "music": 0.0
+    },
+    {
+      "from": 1344.51,
+      "to": 1348.01,
+      "sid": 542,
+      "location": 2,
+      "content": "整个啊今年的啊前九个月的话",
+      "music": 0.0
+    },
+    {
+      "from": 1348.01,
+      "to": 1351.19,
+      "sid": 543,
+      "location": 2,
+      "content": "中国的新开工的海上风电的项目呢",
+      "music": 0.0
+    },
+    {
+      "from": 1351.19,
+      "to": 1352.85,
+      "sid": 544,
+      "location": 2,
+      "content": "只仅有两到三个几吧",
+      "music": 0.0
+    },
+    {
+      "from": 1352.85,
+      "to": 1356.23,
+      "sid": 545,
+      "location": 2,
+      "content": "那就有一些主要是分布在啊广东",
+      "music": 0.0
+    },
+    {
+      "from": 1356.23,
+      "to": 1358.39,
+      "sid": 546,
+      "location": 2,
+      "content": "还有海南的一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1358.39,
+      "to": 1360.21,
+      "sid": 547,
+      "location": 2,
+      "content": "个别的一些项目开工了",
+      "music": 0.0
+    },
+    {
+      "from": 1360.21,
+      "to": 1363.13,
+      "sid": 548,
+      "location": 2,
+      "content": "那主要的一个瓶颈就是开工比较慢的话",
+      "music": 0.0
+    },
+    {
+      "from": 1363.13,
+      "to": 1366.12,
+      "sid": 549,
+      "location": 2,
+      "content": "还是因为一些啊深远海的用海权的审批",
+      "music": 0.0
+    },
+    {
+      "from": 1366.12,
+      "to": 1368.22,
+      "sid": 550,
+      "location": 2,
+      "content": "包括一些军事核准的一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1368.22,
+      "to": 1371.47,
+      "sid": 551,
+      "location": 2,
+      "content": "底类的话是影响到了整个的海上风电的开工",
+      "music": 0.0
+    },
+    {
+      "from": 1371.47,
+      "to": 1374.07,
+      "sid": 552,
+      "location": 2,
+      "content": "所以呢就是我们觉得这个这个整体的这个",
+      "music": 0.0
+    },
+    {
+      "from": 1374.07,
+      "to": 1376.53,
+      "sid": 553,
+      "location": 2,
+      "content": "深渊海的一个行动方案出来的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 1376.53,
+      "to": 1379.97,
+      "sid": 554,
+      "location": 2,
+      "content": "因为这些方案其实已经在各个的一个啊部委呀",
+      "music": 0.0
+    },
+    {
+      "from": 1379.97,
+      "to": 1382.65,
+      "sid": 555,
+      "location": 2,
+      "content": "各个各个啊啊职能机构的话",
+      "music": 0.0
+    },
+    {
+      "from": 1382.65,
+      "to": 1386.42,
+      "sid": 556,
+      "location": 2,
+      "content": "其实已经是啊已经是啊船船越了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1386.42,
+      "to": 1387.46,
+      "sid": 557,
+      "location": 2,
+      "content": "船越了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1387.46,
+      "to": 1388.54,
+      "sid": 558,
+      "location": 2,
+      "content": "船阅完毕了",
+      "music": 0.0
+    },
+    {
+      "from": 1388.54,
+      "to": 1391.67,
+      "sid": 559,
+      "location": 2,
+      "content": "所以呢在啊这些海上啊",
+      "music": 0.0
+    },
+    {
+      "from": 1391.67,
+      "to": 1394.47,
+      "sid": 560,
+      "location": 2,
+      "content": "风电发展的这个比较瓶颈的几个方面",
+      "music": 0.0
+    },
+    {
+      "from": 1394.47,
+      "to": 1396.25,
+      "sid": 561,
+      "location": 2,
+      "content": "深远海的一些用海权呀",
+      "music": 0.0
+    },
+    {
+      "from": 1396.25,
+      "to": 1397.91,
+      "sid": 562,
+      "location": 2,
+      "content": "包括军事核准呀",
+      "music": 0.0
+    },
+    {
+      "from": 1397.91,
+      "to": 1402.11,
+      "sid": 563,
+      "location": 2,
+      "content": "各个部位的话其实已经是已经是比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 1402.11,
+      "to": 1405.41,
+      "sid": 564,
+      "location": 2,
+      "content": "已经是已经是啊已经是有啊有啊",
+      "music": 0.0
+    },
+    {
+      "from": 1405.41,
+      "to": 1407.91,
+      "sid": 565,
+      "location": 2,
+      "content": "就是已经呃在这个方案里面出",
+      "music": 0.0
+    },
+    {
+      "from": 1407.91,
+      "to": 1408.71,
+      "sid": 566,
+      "location": 2,
+      "content": "推出之后的话",
+      "music": 0.0
+    },
+    {
+      "from": 1408.71,
+      "to": 1411.19,
+      "sid": 567,
+      "location": 2,
+      "content": "其实各个部位已经是啊开绿灯了",
+      "music": 0.0
+    },
+    {
+      "from": 1411.19,
+      "to": 1412.63,
+      "sid": 568,
+      "location": 2,
+      "content": "所以我们过我们预计呢",
+      "music": 0.0
+    },
+    {
+      "from": 1412.63,
+      "to": 1415.09,
+      "sid": 569,
+      "location": 2,
+      "content": "就是说在这个方案出来以后的话",
+      "music": 0.0
+    },
+    {
+      "from": 1415.09,
+      "to": 1416.97,
+      "sid": 570,
+      "location": 2,
+      "content": "整个的深远海的审批",
+      "music": 0.0
+    },
+    {
+      "from": 1416.97,
+      "to": 1419.49,
+      "sid": 571,
+      "location": 2,
+      "content": "包括啊啊设备的招标",
+      "music": 0.0
+    },
+    {
+      "from": 1419.49,
+      "to": 1421.89,
+      "sid": 572,
+      "location": 2,
+      "content": "包括整个的开工的话会加快",
+      "music": 0.0
+    },
+    {
+      "from": 1421.89,
+      "to": 1423.09,
+      "sid": 573,
+      "location": 2,
+      "content": "那就是year to date",
+      "music": 0.0
+    },
+    {
+      "from": 1423.09,
+      "to": 1424.21,
+      "sid": 574,
+      "location": 2,
+      "content": "是两到三个级吧",
+      "music": 0.0
+    },
+    {
+      "from": 1424.21,
+      "to": 1424.93,
+      "sid": 575,
+      "location": 2,
+      "content": "我刚刚讲了",
+      "music": 0.0
+    },
+    {
+      "from": 1424.93,
+      "to": 1427.66,
+      "sid": 576,
+      "location": 2,
+      "content": "那在2022年和25年的话",
+      "music": 0.0
+    },
+    {
+      "from": 1427.66,
+      "to": 1429.24,
+      "sid": 577,
+      "location": 2,
+      "content": "平均每一年的开工的话",
+      "music": 0.0
+    },
+    {
+      "from": 1429.24,
+      "to": 1431.42,
+      "sid": 578,
+      "location": 2,
+      "content": "我们统计的是5~8个G吧",
+      "music": 0.0
+    },
+    {
+      "from": 1431.42,
+      "to": 1434.25,
+      "sid": 579,
+      "location": 2,
+      "content": "那在深渊海方案出来之后的话",
+      "music": 0.0
+    },
+    {
+      "from": 1434.25,
+      "to": 1436.15,
+      "sid": 580,
+      "location": 2,
+      "content": "我们预计从明年开始的话",
+      "music": 0.0
+    },
+    {
+      "from": 1436.15,
+      "to": 1438.61,
+      "sid": 581,
+      "location": 2,
+      "content": "整个一年平均一年的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1438.61,
+      "to": 1441.19,
+      "sid": 582,
+      "location": 2,
+      "content": "开工量是要超过20个G吧",
+      "music": 0.0
+    },
+    {
+      "from": 1441.19,
+      "to": 1442.7,
+      "sid": 583,
+      "location": 2,
+      "content": "也是一个比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 1442.7,
+      "to": 1445.94,
+      "sid": 584,
+      "location": 2,
+      "content": "比较啊比较比较高速的一个增速啊",
+      "music": 0.0
+    },
+    {
+      "from": 1445.94,
+      "to": 1447.06,
+      "sid": 585,
+      "location": 2,
+      "content": "这是规模啊",
+      "music": 0.0
+    },
+    {
+      "from": 1447.06,
+      "to": 1450.409,
+      "sid": 586,
+      "location": 2,
+      "content": "第二的话我想啊聊一下就是投资机会啊",
+      "music": 0.0
+    },
+    {
+      "from": 1450.409,
+      "to": 1453.189,
+      "sid": 587,
+      "location": 2,
+      "content": "那15和啊十四五相比的话",
+      "music": 0.0
+    },
+    {
+      "from": 1453.189,
+      "to": 1454.889,
+      "sid": 588,
+      "location": 2,
+      "content": "那其实十四五的话",
+      "music": 0.0
+    },
+    {
+      "from": 1454.889,
+      "to": 1456.609,
+      "sid": 589,
+      "location": 2,
+      "content": "我们中国的海上风电的一个发展",
+      "music": 0.0
+    },
+    {
+      "from": 1456.609,
+      "to": 1459.13,
+      "sid": 590,
+      "location": 2,
+      "content": "还是集中在啊近海区域",
+      "music": 0.0
+    },
+    {
+      "from": 1459.13,
+      "to": 1460.39,
+      "sid": 591,
+      "location": 2,
+      "content": "那近海区啊",
+      "music": 0.0
+    },
+    {
+      "from": 1460.39,
+      "to": 1461.15,
+      "sid": 592,
+      "location": 2,
+      "content": "近海区域",
+      "music": 0.0
+    },
+    {
+      "from": 1461.15,
+      "to": 1462.41,
+      "sid": 593,
+      "location": 2,
+      "content": "那十五五的话",
+      "music": 0.0
+    },
+    {
+      "from": 1462.41,
+      "to": 1464.25,
+      "sid": 594,
+      "location": 2,
+      "content": "其实整个的海上风电发展",
+      "music": 0.0
+    },
+    {
+      "from": 1464.25,
+      "to": 1466.7,
+      "sid": 595,
+      "location": 2,
+      "content": "是要往深沿海的一个啊发展",
+      "music": 0.0
+    },
+    {
+      "from": 1466.7,
+      "to": 1467.74,
+      "sid": 596,
+      "location": 2,
+      "content": "因为近海区域",
+      "music": 0.0
+    },
+    {
+      "from": 1467.74,
+      "to": 1470.38,
+      "sid": 597,
+      "location": 2,
+      "content": "现在整体上经过十四五的一个发展的话",
+      "music": 0.0
+    },
+    {
+      "from": 1470.38,
+      "to": 1473.48,
+      "sid": 598,
+      "location": 2,
+      "content": "近海风电的一个资源的话",
+      "music": 0.0
+    },
+    {
+      "from": 1473.48,
+      "to": 1475.64,
+      "sid": 599,
+      "location": 2,
+      "content": "其实也是啊不是很多了",
+      "music": 0.0
+    },
+    {
+      "from": 1475.64,
+      "to": 1477.72,
+      "sid": 600,
+      "location": 2,
+      "content": "然后十五十四五的期间的话",
+      "music": 0.0
+    },
+    {
+      "from": 1477.72,
+      "to": 1480.59,
+      "sid": 601,
+      "location": 2,
+      "content": "我们这个整个的海上风电的一个发展",
+      "music": 0.0
+    },
+    {
+      "from": 1480.59,
+      "to": 1483.03,
+      "sid": 602,
+      "location": 2,
+      "content": "包括一个单位的投资也是下降了很多",
+      "music": 0.0
+    },
+    {
+      "from": 1483.03,
+      "to": 1486.26,
+      "sid": 603,
+      "location": 2,
+      "content": "也是取得了比较啊比较比较好的一个成绩",
+      "music": 0.0
+    },
+    {
+      "from": 1486.26,
+      "to": 1490.03,
+      "sid": 604,
+      "location": 2,
+      "content": "那啊在比如说在2019年的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1490.03,
+      "to": 1490.75,
+      "sid": 605,
+      "location": 2,
+      "content": "14啊",
+      "music": 0.0
+    },
+    {
+      "from": 1490.75,
+      "to": 1493.01,
+      "sid": 606,
+      "location": 2,
+      "content": "2019年以及14啊",
+      "music": 0.0
+    },
+    {
+      "from": 1493.01,
+      "to": 1494.31,
+      "sid": 607,
+      "location": 2,
+      "content": "十四五的初期的话",
+      "music": 0.0
+    },
+    {
+      "from": 1494.31,
+      "to": 1497.37,
+      "sid": 608,
+      "location": 2,
+      "content": "中国整个海上风电的一个单位投资的话",
+      "music": 0.0
+    },
+    {
+      "from": 1497.37,
+      "to": 1500.47,
+      "sid": 609,
+      "location": 2,
+      "content": "还是都是在啊近海的一个单位投资的话",
+      "music": 0.0
+    },
+    {
+      "from": 1500.47,
+      "to": 1504.71,
+      "sid": 610,
+      "location": 2,
+      "content": "基本上都是在啊每啊每千瓦1万5啊",
+      "music": 0.0
+    },
+    {
+      "from": 1504.71,
+      "to": 1508.77,
+      "sid": 611,
+      "location": 2,
+      "content": "在一些比较啊到啊1万9或者2万之间的",
+      "music": 0.0
+    },
+    {
+      "from": 1508.77,
+      "to": 1511.17,
+      "sid": 612,
+      "location": 2,
+      "content": "那就是比如说在像江苏呀",
+      "music": 0.0
+    },
+    {
+      "from": 1511.17,
+      "to": 1515.02,
+      "sid": 613,
+      "location": 2,
+      "content": "山东这些啊海出啊那个啊海床条啊",
+      "music": 0.0
+    },
+    {
+      "from": 1515.02,
+      "to": 1517.26,
+      "sid": 614,
+      "location": 2,
+      "content": "海床条件比较好的一些区域的话",
+      "music": 0.0
+    },
+    {
+      "from": 1517.26,
+      "to": 1521.12,
+      "sid": 615,
+      "location": 2,
+      "content": "那他的啊投资是比较啊是在1万5左右",
+      "music": 0.0
+    },
+    {
+      "from": 1521.12,
+      "to": 1522.9,
+      "sid": 616,
+      "location": 2,
+      "content": "1万41万5相对低一点",
+      "music": 0.0
+    },
+    {
+      "from": 1522.9,
+      "to": 1524.18,
+      "sid": 617,
+      "location": 2,
+      "content": "但是在像福建呀",
+      "music": 0.0
+    },
+    {
+      "from": 1524.18,
+      "to": 1527.08,
+      "sid": 618,
+      "location": 2,
+      "content": "这些海长条件没有那么好的一些区域的话",
+      "music": 0.0
+    },
+    {
+      "from": 1527.08,
+      "to": 1528.84,
+      "sid": 619,
+      "location": 2,
+      "content": "它的投资成本会更高一点",
+      "music": 0.0
+    },
+    {
+      "from": 1528.84,
+      "to": 1530.16,
+      "sid": 620,
+      "location": 2,
+      "content": "在1万4到1万9",
+      "music": 0.0
+    },
+    {
+      "from": 1530.16,
+      "to": 1533.6,
+      "sid": 621,
+      "location": 2,
+      "content": "那经过十四五的这个这45年的一个发展的话",
+      "music": 0.0
+    },
+    {
+      "from": 1533.6,
+      "to": 1535.4,
+      "sid": 622,
+      "location": 2,
+      "content": "那我们现在啊",
+      "music": 0.0
+    },
+    {
+      "from": 1535.4,
+      "to": 1537.44,
+      "sid": 623,
+      "location": 2,
+      "content": "近海的一个海上风电的投资",
+      "music": 0.0
+    },
+    {
+      "from": 1537.44,
+      "to": 1539.28,
+      "sid": 624,
+      "location": 2,
+      "content": "已经下降了30~50",
+      "music": 0.0
+    },
+    {
+      "from": 1539.28,
+      "to": 1542.92,
+      "sid": 625,
+      "location": 2,
+      "content": "然后现在全国平均是在大概九千九千五到",
+      "music": 0.0
+    },
+    {
+      "from": 1542.92,
+      "to": 1544.34,
+      "sid": 626,
+      "location": 2,
+      "content": "1万啊每千瓦",
+      "music": 0.0
+    },
+    {
+      "from": 1544.34,
+      "to": 1547.6,
+      "sid": 627,
+      "location": 2,
+      "content": "那可能有一些区域是啊啊福建会稍微高一点",
+      "music": 0.0
+    },
+    {
+      "from": 1547.6,
+      "to": 1551.79,
+      "sid": 628,
+      "location": 2,
+      "content": "然后有些区域那像啊像啊啊那个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1551.79,
+      "to": 1554.59,
+      "sid": 629,
+      "location": 2,
+      "content": "刚刚我说的江苏呀或者山东的话低点",
+      "music": 0.0
+    },
+    {
+      "from": 1554.59,
+      "to": 1556.61,
+      "sid": 630,
+      "location": 2,
+      "content": "但平均已经降到9500",
+      "music": 0.0
+    },
+    {
+      "from": 1556.61,
+      "to": 1559.3,
+      "sid": 631,
+      "location": 2,
+      "content": "那整个的这个造价的一个下降的话",
+      "music": 0.0
+    },
+    {
+      "from": 1559.3,
+      "to": 1562.04,
+      "sid": 632,
+      "location": 2,
+      "content": "主要还是由于风机的价格的下降",
+      "music": 0.0
+    },
+    {
+      "from": 1562.04,
+      "to": 1566.25,
+      "sid": 633,
+      "location": 2,
+      "content": "还有风机的大型大型化啊所带动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1566.25,
+      "to": 1568.53,
+      "sid": 634,
+      "location": 2,
+      "content": "那我啊在十四五的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1568.53,
+      "to": 1571.67,
+      "sid": 635,
+      "location": 2,
+      "content": "15的话我们觉得啊深远海的这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1571.67,
+      "to": 1575.06,
+      "sid": 636,
+      "location": 2,
+      "content": "就是近海的这个啊资源的话其实还有一些",
+      "music": 0.0
+    },
+    {
+      "from": 1575.06,
+      "to": 1576.46,
+      "sid": 637,
+      "location": 2,
+      "content": "但是不是不是很多了",
+      "music": 0.0
+    },
+    {
+      "from": 1576.46,
+      "to": 1579.72,
+      "sid": 638,
+      "location": 2,
+      "content": "那就是近海的这个投资成本的一个下降的空间",
+      "music": 0.0
+    },
+    {
+      "from": 1579.72,
+      "to": 1580.6,
+      "sid": 639,
+      "location": 2,
+      "content": "也没有那么大了",
+      "music": 0.0
+    },
+    {
+      "from": 1580.6,
+      "to": 1583.25,
+      "sid": 640,
+      "location": 2,
+      "content": "我们还可能还有一点点的一个下降空间吧",
+      "music": 0.0
+    },
+    {
+      "from": 1583.25,
+      "to": 1586.01,
+      "sid": 641,
+      "location": 2,
+      "content": "但是啊已经下降空间不大了",
+      "music": 0.0
+    },
+    {
+      "from": 1586.01,
+      "to": 1587.21,
+      "sid": 642,
+      "location": 2,
+      "content": "但深远海的话",
+      "music": 0.0
+    },
+    {
+      "from": 1587.21,
+      "to": 1590.21,
+      "sid": 643,
+      "location": 2,
+      "content": "那就是面临的就是造价还是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1590.21,
+      "to": 1591.33,
+      "sid": 644,
+      "location": 2,
+      "content": "比较高的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1591.33,
+      "to": 1594.05,
+      "sid": 645,
+      "location": 2,
+      "content": "那现在的整个深远海的一个造价",
+      "music": 0.0
+    },
+    {
+      "from": 1594.05,
+      "to": 1595.61,
+      "sid": 646,
+      "location": 2,
+      "content": "其实按照区域不同啊",
+      "music": 0.0
+    },
+    {
+      "from": 1595.61,
+      "to": 1599.48,
+      "sid": 647,
+      "location": 2,
+      "content": "是在1万5到1万8每千瓦的这个造价啊",
+      "music": 0.0
+    },
+    {
+      "from": 1602.92,
+      "to": 1604.34,
+      "sid": 648,
+      "location": 2,
+      "content": "在十四五啊",
+      "music": 0.0
+    },
+    {
+      "from": 1604.34,
+      "to": 1605.54,
+      "sid": 649,
+      "location": 2,
+      "content": "十五五期间的话",
+      "music": 0.0
+    },
+    {
+      "from": 1605.54,
+      "to": 1608.36,
+      "sid": 650,
+      "location": 2,
+      "content": "这个整个的深远海的这个降本呢",
+      "music": 0.0
+    },
+    {
+      "from": 1608.36,
+      "to": 1610.53,
+      "sid": 651,
+      "location": 2,
+      "content": "能够从1万4到1万8啊",
+      "music": 0.0
+    },
+    {
+      "from": 1610.53,
+      "to": 1612.57,
+      "sid": 652,
+      "location": 2,
+      "content": "降到啊1万1到1万3",
+      "music": 0.0
+    },
+    {
+      "from": 1612.57,
+      "to": 1615.25,
+      "sid": 653,
+      "location": 2,
+      "content": "那这个整体的一个降本空间的话",
+      "music": 0.0
+    },
+    {
+      "from": 1615.25,
+      "to": 1616.77,
+      "sid": 654,
+      "location": 2,
+      "content": "我们觉得在风机",
+      "music": 0.0
+    },
+    {
+      "from": 1616.77,
+      "to": 1620.09,
+      "sid": 655,
+      "location": 2,
+      "content": "风机端的降本的空间已经不是不是很大了",
+      "music": 0.0
+    },
+    {
+      "from": 1620.09,
+      "to": 1623.08,
+      "sid": 656,
+      "location": 2,
+      "content": "因为风机的话其实已经啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 1623.08,
+      "to": 1625.12,
+      "sid": 657,
+      "location": 2,
+      "content": "十四五的一个初期的话",
+      "music": 0.0
+    },
+    {
+      "from": 1625.12,
+      "to": 1628.24,
+      "sid": 658,
+      "location": 2,
+      "content": "是在可能7000块每千瓦的一个造价呃",
+      "music": 0.0
+    },
+    {
+      "from": 1628.24,
+      "to": 1630.28,
+      "sid": 659,
+      "location": 2,
+      "content": "风机的价格现在已经是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1630.28,
+      "to": 1632.06,
+      "sid": 660,
+      "location": 2,
+      "content": "3000块左右的一个造价了",
+      "music": 0.0
+    },
+    {
+      "from": 1632.06,
+      "to": 1633.62,
+      "sid": 661,
+      "location": 2,
+      "content": "然后已经是下降了很多",
+      "music": 0.0
+    },
+    {
+      "from": 1633.62,
+      "to": 1634.639,
+      "sid": 662,
+      "location": 2,
+      "content": "我们觉得风机",
+      "music": 0.0
+    },
+    {
+      "from": 1634.639,
+      "to": 1637.579,
+      "sid": 663,
+      "location": 2,
+      "content": "风机包括风机大型化带来的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1637.579,
+      "to": 1639.819,
+      "sid": 664,
+      "location": 2,
+      "content": "整个的造价下降也是不是很多了",
+      "music": 0.0
+    },
+    {
+      "from": 1639.819,
+      "to": 1643.32,
+      "sid": 665,
+      "location": 2,
+      "content": "那整个的造价还有造价占比比较高的话",
+      "music": 0.0
+    },
+    {
+      "from": 1643.32,
+      "to": 1646.62,
+      "sid": 666,
+      "location": 2,
+      "content": "会会集中在啊海上的一个施工",
+      "music": 0.0
+    },
+    {
+      "from": 1646.62,
+      "to": 1650.58,
+      "sid": 667,
+      "location": 2,
+      "content": "然后啊海底基础这个foundation的一个设计",
+      "music": 0.0
+    },
+    {
+      "from": 1650.58,
+      "to": 1653.53,
+      "sid": 668,
+      "location": 2,
+      "content": "然后包括风机的吊装的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1653.53,
+      "to": 1657.29,
+      "sid": 669,
+      "location": 2,
+      "content": "一个啊啊一个啊效率的提升啊",
+      "music": 0.0
+    },
+    {
+      "from": 1657.29,
+      "to": 1662.05,
+      "sid": 670,
+      "location": 2,
+      "content": "以及就是海底啊电缆送出的一个优化上啊",
+      "music": 0.0
+    },
+    {
+      "from": 1662.05,
+      "to": 1665.31,
+      "sid": 671,
+      "location": 2,
+      "content": "是我我们判断是在15的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1665.31,
+      "to": 1667.9,
+      "sid": 672,
+      "location": 2,
+      "content": "深远海发展的一个投资的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1667.9,
+      "to": 1669.1,
+      "sid": 673,
+      "location": 2,
+      "content": "占比权重比较高",
+      "music": 0.0
+    },
+    {
+      "from": 1669.1,
+      "to": 1672.9,
+      "sid": 674,
+      "location": 2,
+      "content": "也是啊也是需要有一些降本的一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1672.9,
+      "to": 1674.92,
+      "sid": 675,
+      "location": 2,
+      "content": "有有一些优化的一些措施",
+      "music": 0.0
+    },
+    {
+      "from": 1675.72,
+      "to": 1677.68,
+      "sid": 676,
+      "location": 2,
+      "content": "对就是在投资领域",
+      "music": 0.0
+    },
+    {
+      "from": 1677.68,
+      "to": 1679.48,
+      "sid": 677,
+      "location": 2,
+      "content": "所以我们觉得在投资领域的话",
+      "music": 0.0
+    },
+    {
+      "from": 1679.48,
+      "to": 1682.59,
+      "sid": 678,
+      "location": 2,
+      "content": "可能大家也需要去啊找一些在啊",
+      "music": 0.0
+    },
+    {
+      "from": 1682.59,
+      "to": 1687.67,
+      "sid": 679,
+      "location": 2,
+      "content": "就是我刚刚提到的基础基础啊啊啊海上啊施工",
+      "music": 0.0
+    },
+    {
+      "from": 1687.67,
+      "to": 1688.99,
+      "sid": 680,
+      "location": 2,
+      "content": "包括这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1688.99,
+      "to": 1692.89,
+      "sid": 681,
+      "location": 2,
+      "content": "就是啊啊啊海底海底电缆一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1692.89,
+      "to": 1696.27,
+      "sid": 682,
+      "location": 2,
+      "content": "输送啊啊方便啊",
+      "music": 0.0
+    },
+    {
+      "from": 1696.27,
+      "to": 1698.889,
+      "sid": 683,
+      "location": 2,
+      "content": "这是在啊在投资呃",
+      "music": 0.0
+    },
+    {
+      "from": 1698.889,
+      "to": 1701.689,
+      "sid": 684,
+      "location": 2,
+      "content": "那呃现在呃在海上风电方面的话",
+      "music": 0.0
+    },
+    {
+      "from": 1701.689,
+      "to": 1703.94,
+      "sid": 685,
+      "location": 2,
+      "content": "其实大家问的问题比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 1703.94,
+      "to": 1704.8,
+      "sid": 686,
+      "location": 2,
+      "content": "还是就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1704.8,
+      "to": 1708.36,
+      "sid": 687,
+      "location": 2,
+      "content": "因为在过去十四五的224到25年的话",
+      "music": 0.0
+    },
+    {
+      "from": 1708.36,
+      "to": 1709.98,
+      "sid": 688,
+      "location": 2,
+      "content": "包括今年year to day的话",
+      "music": 0.0
+    },
+    {
+      "from": 1709.98,
+      "to": 1714.09,
+      "sid": 689,
+      "location": 2,
+      "content": "整个海上风电的一个发展还是啊低于预期的",
+      "music": 0.0
+    },
+    {
+      "from": 1714.09,
+      "to": 1715.93,
+      "sid": 690,
+      "location": 2,
+      "content": "每一年其实大家都预测啊",
+      "music": 0.0
+    },
+    {
+      "from": 1715.93,
+      "to": 1719.37,
+      "sid": 691,
+      "location": 2,
+      "content": "就是啊预测啊还是比较高的",
+      "music": 0.0
+    },
+    {
+      "from": 1719.37,
+      "to": 1720.77,
+      "sid": 692,
+      "location": 2,
+      "content": "但是其实都没有做到",
+      "music": 0.0
+    },
+    {
+      "from": 1720.77,
+      "to": 1722.2,
+      "sid": 693,
+      "location": 2,
+      "content": "那为什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 1722.2,
+      "to": 1724.02,
+      "sid": 694,
+      "location": 2,
+      "content": "就是写15的话",
+      "music": 0.0
+    },
+    {
+      "from": 1724.02,
+      "to": 1727.4,
+      "sid": 695,
+      "location": 2,
+      "content": "那这个海上风电这个目标呢啊是能做到的",
+      "music": 0.0
+    },
+    {
+      "from": 1727.4,
+      "to": 1728.52,
+      "sid": 696,
+      "location": 2,
+      "content": "就是大家说狼来了",
+      "music": 0.0
+    },
+    {
+      "from": 1728.52,
+      "to": 1729.81,
+      "sid": 697,
+      "location": 2,
+      "content": "狼来了这么多年啊",
+      "music": 0.0
+    },
+    {
+      "from": 1729.81,
+      "to": 1732.25,
+      "sid": 698,
+      "location": 2,
+      "content": "就是可能对于这个海上风电的发展",
+      "music": 0.0
+    },
+    {
+      "from": 1732.25,
+      "to": 1733.77,
+      "sid": 699,
+      "location": 2,
+      "content": "其实稍微有些质疑了",
+      "music": 0.0
+    },
+    {
+      "from": 1733.77,
+      "to": 1736.21,
+      "sid": 700,
+      "location": 2,
+      "content": "但我啊但我我想解释的就是说",
+      "music": 0.0
+    },
+    {
+      "from": 1736.21,
+      "to": 1738.9,
+      "sid": 701,
+      "location": 2,
+      "content": "其实啊在十四五的这个发展",
+      "music": 0.0
+    },
+    {
+      "from": 1738.9,
+      "to": 1741.5,
+      "sid": 702,
+      "location": 2,
+      "content": "也和十三五就过去的相比的话",
+      "music": 0.0
+    },
+    {
+      "from": 1741.5,
+      "to": 1744.16,
+      "sid": 703,
+      "location": 2,
+      "content": "其实整个的一个海上风电的一个发展",
+      "music": 0.0
+    },
+    {
+      "from": 1744.16,
+      "to": 1745.46,
+      "sid": 704,
+      "location": 2,
+      "content": "其实已经比较顺了",
+      "music": 0.0
+    },
+    {
+      "from": 1745.46,
+      "to": 1747.5,
+      "sid": 705,
+      "location": 2,
+      "content": "因为地第一呢就说地方政府",
+      "music": 0.0
+    },
+    {
+      "from": 1747.5,
+      "to": 1749.34,
+      "sid": 706,
+      "location": 2,
+      "content": "因为它有它自己的可再生源",
+      "music": 0.0
+    },
+    {
+      "from": 1749.34,
+      "to": 1751.7,
+      "sid": 707,
+      "location": 2,
+      "content": "能源的发电和消纳的一些指标",
+      "music": 0.0
+    },
+    {
+      "from": 1751.7,
+      "to": 1755.68,
+      "sid": 708,
+      "location": 2,
+      "content": "在在加上对当地GDP和产业的支持的话",
+      "music": 0.0
+    },
+    {
+      "from": 1755.68,
+      "to": 1757.88,
+      "sid": 709,
+      "location": 2,
+      "content": "地方政府其实在十四五期间",
+      "music": 0.0
+    },
+    {
+      "from": 1757.88,
+      "to": 1759.709,
+      "sid": 710,
+      "location": 2,
+      "content": "像像包括广东",
+      "music": 0.0
+    },
+    {
+      "from": 1759.709,
+      "to": 1760.309,
+      "sid": 711,
+      "location": 2,
+      "content": "山东",
+      "music": 0.0
+    },
+    {
+      "from": 1760.309,
+      "to": 1762.069,
+      "sid": 712,
+      "location": 2,
+      "content": "包括这些嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1762.069,
+      "to": 1765.1,
+      "sid": 713,
+      "location": 2,
+      "content": "包括这些啊啊就是沿海的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1765.1,
+      "to": 1767.58,
+      "sid": 714,
+      "location": 2,
+      "content": "浙江这些政府的地方政府的话",
+      "music": 0.0
+    },
+    {
+      "from": 1767.58,
+      "to": 1770.0,
+      "sid": 715,
+      "location": 2,
+      "content": "其实对于海上风电都是比较支持的",
+      "music": 0.0
+    },
+    {
+      "from": 1770.0,
+      "to": 1772.38,
+      "sid": 716,
+      "location": 2,
+      "content": "像支持力度最大的是还是广东省",
+      "music": 0.0
+    },
+    {
+      "from": 1772.38,
+      "to": 1773.96,
+      "sid": 717,
+      "location": 2,
+      "content": "那就是拿出直接广东省",
+      "music": 0.0
+    },
+    {
+      "from": 1773.96,
+      "to": 1778.83,
+      "sid": 718,
+      "location": 2,
+      "content": "拿出来每千瓦造价的一个嗯一个补贴给运营商",
+      "music": 0.0
+    },
+    {
+      "from": 1778.83,
+      "to": 1779.79,
+      "sid": 719,
+      "location": 2,
+      "content": "就地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 1779.79,
+      "to": 1783.66,
+      "sid": 720,
+      "location": 2,
+      "content": "包括这个啊是啊是啊那个啊就是省啊",
+      "music": 0.0
+    },
+    {
+      "from": 1783.66,
+      "to": 1786.46,
+      "sid": 721,
+      "location": 2,
+      "content": "省管领域的这些用海权的这些审批",
+      "music": 0.0
+    },
+    {
+      "from": 1786.46,
+      "to": 1788.4,
+      "sid": 722,
+      "location": 2,
+      "content": "向地方政府是非常支持的",
+      "music": 0.0
+    },
+    {
+      "from": 1788.4,
+      "to": 1789.64,
+      "sid": 723,
+      "location": 2,
+      "content": "那在开发商的话",
+      "music": 0.0
+    },
+    {
+      "from": 1789.64,
+      "to": 1792.72,
+      "sid": 724,
+      "location": 2,
+      "content": "我们看到就是因为造价的一些下降的话",
+      "music": 0.0
+    },
+    {
+      "from": 1792.72,
+      "to": 1794.68,
+      "sid": 725,
+      "location": 2,
+      "content": "回报率也是有所回升的",
+      "music": 0.0
+    },
+    {
+      "from": 1794.68,
+      "to": 1796.32,
+      "sid": 726,
+      "location": 2,
+      "content": "可能在6~8I2",
+      "music": 0.0
+    },
+    {
+      "from": 1796.32,
+      "to": 1797.82,
+      "sid": 727,
+      "location": 2,
+      "content": "在6~8之间",
+      "music": 0.0
+    },
+    {
+      "from": 1797.82,
+      "to": 1799.66,
+      "sid": 728,
+      "location": 2,
+      "content": "那还有最最重要的话就说",
+      "music": 0.0
+    },
+    {
+      "from": 1799.66,
+      "to": 1801.98,
+      "sid": 729,
+      "location": 2,
+      "content": "其实海上风电的资源还是比较少的",
+      "music": 0.0
+    },
+    {
+      "from": 1801.98,
+      "to": 1803.18,
+      "sid": 730,
+      "location": 2,
+      "content": "那作为国央企",
+      "music": 0.0
+    },
+    {
+      "from": 1803.18,
+      "to": 1806.02,
+      "sid": 731,
+      "location": 2,
+      "content": "还有就是一些啊啊国央企",
+      "music": 0.0
+    },
+    {
+      "from": 1806.02,
+      "to": 1807.98,
+      "sid": 732,
+      "location": 2,
+      "content": "包括地方这些企业的话",
+      "music": 0.0
+    },
+    {
+      "from": 1807.98,
+      "to": 1810.23,
+      "sid": 733,
+      "location": 2,
+      "content": "他们还是想拿一些市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 1810.23,
+      "to": 1811.63,
+      "sid": 734,
+      "location": 2,
+      "content": "海上风电的一个市场份额",
+      "music": 0.0
+    },
+    {
+      "from": 1811.63,
+      "to": 1813.59,
+      "sid": 735,
+      "location": 2,
+      "content": "因为海上风电整体上的规模还是大",
+      "music": 0.0
+    },
+    {
+      "from": 1813.59,
+      "to": 1814.91,
+      "sid": 736,
+      "location": 2,
+      "content": "每个项目可能500兆瓦",
+      "music": 0.0
+    },
+    {
+      "from": 1814.91,
+      "to": 1817.71,
+      "sid": 737,
+      "location": 2,
+      "content": "一个几瓦甚至两个几瓦的这种单体的项目",
+      "music": 0.0
+    },
+    {
+      "from": 1817.71,
+      "to": 1819.89,
+      "sid": 738,
+      "location": 2,
+      "content": "就是啊啊国央企",
+      "music": 0.0
+    },
+    {
+      "from": 1819.89,
+      "to": 1823.53,
+      "sid": 739,
+      "location": 2,
+      "content": "就是这些啊SOE还是比较愿意开发的",
+      "music": 0.0
+    },
+    {
+      "from": 1823.53,
+      "to": 1827.17,
+      "sid": 740,
+      "location": 2,
+      "content": "所以从从啊开发商的积极性上上来说的话",
+      "music": 0.0
+    },
+    {
+      "from": 1827.17,
+      "to": 1828.25,
+      "sid": 741,
+      "location": 2,
+      "content": "也是非常高的",
+      "music": 0.0
+    },
+    {
+      "from": 1828.25,
+      "to": 1832.44,
+      "sid": 742,
+      "location": 2,
+      "content": "那其实十四五的一个啊限制十四五啊发展",
+      "music": 0.0
+    },
+    {
+      "from": 1832.44,
+      "to": 1834.86,
+      "sid": 743,
+      "location": 2,
+      "content": "包括十四五这个海上风电发展",
+      "music": 0.0
+    },
+    {
+      "from": 1834.86,
+      "to": 1836.18,
+      "sid": 744,
+      "location": 2,
+      "content": "比市场预期低的话",
+      "music": 0.0
+    },
+    {
+      "from": 1836.18,
+      "to": 1839.0,
+      "sid": 745,
+      "location": 2,
+      "content": "主要的限制因素还是一些军事的核准",
+      "music": 0.0
+    },
+    {
+      "from": 1839.0,
+      "to": 1842.35,
+      "sid": 746,
+      "location": 2,
+      "content": "包括这些深海深远海的运用海权方便",
+      "music": 0.0
+    },
+    {
+      "from": 1842.35,
+      "to": 1845.71,
+      "sid": 747,
+      "location": 2,
+      "content": "那在这个深远海的这个行动方案里边",
+      "music": 0.0
+    },
+    {
+      "from": 1845.71,
+      "to": 1850.68,
+      "sid": 748,
+      "location": 2,
+      "content": "其实已经是把这个限制十四五的这个深远海啊",
+      "music": 0.0
+    },
+    {
+      "from": 1850.68,
+      "to": 1852.62,
+      "sid": 749,
+      "location": 2,
+      "content": "海上风电发展的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1852.62,
+      "to": 1856.96,
+      "sid": 750,
+      "location": 2,
+      "content": "在政府核准方面的一些啊一些啊一些瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 1856.96,
+      "to": 1859.92,
+      "sid": 751,
+      "location": 2,
+      "content": "其实已经是在在逐渐的一个清除",
+      "music": 0.0
+    },
+    {
+      "from": 1859.92,
+      "to": 1862.48,
+      "sid": 752,
+      "location": 2,
+      "content": "然后最重要的话就是现在其实啊",
+      "music": 0.0
+    },
+    {
+      "from": 1862.48,
+      "to": 1865.65,
+      "sid": 753,
+      "location": 2,
+      "content": "中国的经济还是需要一些投资来拉动的",
+      "music": 0.0
+    },
+    {
+      "from": 1865.65,
+      "to": 1868.41,
+      "sid": 754,
+      "location": 2,
+      "content": "那我们整个海上风电的这个投资规模",
+      "music": 0.0
+    },
+    {
+      "from": 1868.41,
+      "to": 1871.22,
+      "sid": 755,
+      "location": 2,
+      "content": "如果说是按照啊十四五的一个目标",
+      "music": 0.0
+    },
+    {
+      "from": 1871.22,
+      "to": 1874.68,
+      "sid": 756,
+      "location": 2,
+      "content": "那就是如果下降到到1万1万1到1万3的话",
+      "music": 0.0
+    },
+    {
+      "from": 1874.68,
+      "to": 1876.66,
+      "sid": 757,
+      "location": 2,
+      "content": "每年如果是开工啊",
+      "music": 0.0
+    },
+    {
+      "from": 1876.66,
+      "to": 1879.32,
+      "sid": 758,
+      "location": 2,
+      "content": "两二十个几瓦以上的一些规模的话",
+      "music": 0.0
+    },
+    {
+      "from": 1879.32,
+      "to": 1882.28,
+      "sid": 759,
+      "location": 2,
+      "content": "带动的整个的整个的投资也是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1882.28,
+      "to": 1885.24,
+      "sid": 760,
+      "location": 2,
+      "content": "接近2600亿到3000亿的一个投资",
+      "music": 0.0
+    },
+    {
+      "from": 1885.24,
+      "to": 1887.749,
+      "sid": 761,
+      "location": 2,
+      "content": "也是也是政府为了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1887.749,
+      "to": 1891.609,
+      "sid": 762,
+      "location": 2,
+      "content": "就是中央政府为了更积极去拉拉动啊",
+      "music": 0.0
+    },
+    {
+      "from": 1891.609,
+      "to": 1894.17,
+      "sid": 763,
+      "location": 2,
+      "content": "啊啊这个啊投资",
+      "music": 0.0
+    },
+    {
+      "from": 1894.17,
+      "to": 1896.51,
+      "sid": 764,
+      "location": 2,
+      "content": "然后对于海上风电的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1896.51,
+      "to": 1899.62,
+      "sid": 765,
+      "location": 2,
+      "content": "一个啊积极的一个啊支持啊",
+      "music": 0.0
+    },
+    {
+      "from": 1899.62,
+      "to": 1904.23,
+      "sid": 766,
+      "location": 2,
+      "content": "所以呢就是我们觉得在啊在啊地方政府的支持",
+      "music": 0.0
+    },
+    {
+      "from": 1904.23,
+      "to": 1906.25,
+      "sid": 767,
+      "location": 2,
+      "content": "省呃地方省政府的支持",
+      "music": 0.0
+    },
+    {
+      "from": 1906.25,
+      "to": 1909.909,
+      "sid": 768,
+      "location": 2,
+      "content": "再加上啊产业链的这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1909.909,
+      "to": 1911.909,
+      "sid": 769,
+      "location": 2,
+      "content": "啊开发商的一个积极性",
+      "music": 0.0
+    },
+    {
+      "from": 1911.909,
+      "to": 1914.069,
+      "sid": 770,
+      "location": 2,
+      "content": "再加上把各种各样的十四五",
+      "music": 0.0
+    },
+    {
+      "from": 1914.069,
+      "to": 1915.989,
+      "sid": 771,
+      "location": 2,
+      "content": "当时的一些障碍去清除的话",
+      "music": 0.0
+    },
+    {
+      "from": 1915.989,
+      "to": 1919.24,
+      "sid": 772,
+      "location": 2,
+      "content": "我觉得是15却是一个包括15的后期吧",
+      "music": 0.0
+    },
+    {
+      "from": 1919.24,
+      "to": 1921.56,
+      "sid": 773,
+      "location": 2,
+      "content": "27282930年的话",
+      "music": 0.0
+    },
+    {
+      "from": 1921.56,
+      "to": 1924.16,
+      "sid": 774,
+      "location": 2,
+      "content": "是一个中国迎来中国海上风电的",
+      "music": 0.0
+    },
+    {
+      "from": 1924.16,
+      "to": 1929.219,
+      "sid": 775,
+      "location": 2,
+      "content": "一个啊大开发的一个啊一个啊比较积极的年份",
+      "music": 0.0
+    },
+    {
+      "from": 1929.219,
+      "to": 1932.51,
+      "sid": 776,
+      "location": 2,
+      "content": "那啊啊投资的标的的话",
+      "music": 0.0
+    },
+    {
+      "from": 1932.51,
+      "to": 1935.11,
+      "sid": 777,
+      "location": 2,
+      "content": "我们还是刚刚我也其实也提到了",
+      "music": 0.0
+    },
+    {
+      "from": 1935.11,
+      "to": 1940.22,
+      "sid": 778,
+      "location": 2,
+      "content": "我们还是啊比较啊喜欢在啊海底的基础foundation",
+      "music": 0.0
+    },
+    {
+      "from": 1940.22,
+      "to": 1941.58,
+      "sid": 779,
+      "location": 2,
+      "content": "还有就是海上施工",
+      "music": 0.0
+    },
+    {
+      "from": 1941.58,
+      "to": 1942.78,
+      "sid": 780,
+      "location": 2,
+      "content": "包括海底电缆",
+      "music": 0.0
+    },
+    {
+      "from": 1942.78,
+      "to": 1945.76,
+      "sid": 781,
+      "location": 2,
+      "content": "包括海上风机的吊装这些方面的",
+      "music": 0.0
+    },
+    {
+      "from": 1945.76,
+      "to": 1948.14,
+      "sid": 782,
+      "location": 2,
+      "content": "就是啊相关的一些上市公司",
+      "music": 0.0
+    },
+    {
+      "from": 1948.14,
+      "to": 1950.58,
+      "sid": 783,
+      "location": 2,
+      "content": "那海上风电的海底电缆的话",
+      "music": 0.0
+    },
+    {
+      "from": 1950.58,
+      "to": 1951.78,
+      "sid": 784,
+      "location": 2,
+      "content": "那头部的企业的话",
+      "music": 0.0
+    },
+    {
+      "from": 1951.78,
+      "to": 1954.98,
+      "sid": 785,
+      "location": 2,
+      "content": "就是啊东方电缆和啊中天科技",
+      "music": 0.0
+    },
+    {
+      "from": 1954.98,
+      "to": 1956.02,
+      "sid": 786,
+      "location": 2,
+      "content": "那这两个企业",
+      "music": 0.0
+    },
+    {
+      "from": 1956.02,
+      "to": 1958.82,
+      "sid": 787,
+      "location": 2,
+      "content": "我们觉得在海底电缆往深远海发展的话",
+      "music": 0.0
+    },
+    {
+      "from": 1958.82,
+      "to": 1961.34,
+      "sid": 788,
+      "location": 2,
+      "content": "这个啊entry barry会越来越高",
+      "music": 0.0
+    },
+    {
+      "from": 1961.34,
+      "to": 1963.3,
+      "sid": 789,
+      "location": 2,
+      "content": "因为往西边海发展的话",
+      "music": 0.0
+    },
+    {
+      "from": 1963.3,
+      "to": 1964.88,
+      "sid": 790,
+      "location": 2,
+      "content": "电压等级会越来越高呢",
+      "music": 0.0
+    },
+    {
+      "from": 1964.88,
+      "to": 1967.42,
+      "sid": 791,
+      "location": 2,
+      "content": "可能我们会集中的看到以前还呃",
+      "music": 0.0
+    },
+    {
+      "from": 1967.42,
+      "to": 1970.73,
+      "sid": 792,
+      "location": 2,
+      "content": "之前14我们能看到220千伏的这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1970.73,
+      "to": 1974.25,
+      "sid": 793,
+      "location": 2,
+      "content": "呃二零千伏的这个啊送出来",
+      "music": 0.0
+    },
+    {
+      "from": 1974.25,
+      "to": 1976.86,
+      "sid": 794,
+      "location": 2,
+      "content": "那在15深深远海发展的话",
+      "music": 0.0
+    },
+    {
+      "from": 1976.86,
+      "to": 1979.8,
+      "sid": 795,
+      "location": 2,
+      "content": "那就要550或者550以上的这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1979.8,
+      "to": 1981.08,
+      "sid": 796,
+      "location": 2,
+      "content": "高压的这个送出来",
+      "music": 0.0
+    },
+    {
+      "from": 1981.08,
+      "to": 1982.56,
+      "sid": 797,
+      "location": 2,
+      "content": "那门槛是越来越高",
+      "music": 0.0
+    },
+    {
+      "from": 1982.56,
+      "to": 1984.44,
+      "sid": 798,
+      "location": 2,
+      "content": "那我们觉得像头部的企业",
+      "music": 0.0
+    },
+    {
+      "from": 1984.44,
+      "to": 1986.32,
+      "sid": 799,
+      "location": 2,
+      "content": "东方电缆和中天科技的话",
+      "music": 0.0
+    },
+    {
+      "from": 1986.32,
+      "to": 1990.23,
+      "sid": 800,
+      "location": 2,
+      "content": "他们是有机会在继续提高啊",
+      "music": 0.0
+    },
+    {
+      "from": 1990.23,
+      "to": 1991.6,
+      "sid": 801,
+      "location": 2,
+      "content": "市场份额啊",
+      "music": 0.0
+    },
+    {
+      "from": 1991.6,
+      "to": 1992.44,
+      "sid": 802,
+      "location": 2,
+      "content": "这是海底电缆",
+      "music": 0.0
+    },
+    {
+      "from": 1992.44,
+      "to": 1994.26,
+      "sid": 803,
+      "location": 2,
+      "content": "那机机装仿对啊",
+      "music": 0.0
+    },
+    {
+      "from": 1994.26,
+      "to": 1995.46,
+      "sid": 804,
+      "location": 2,
+      "content": "那中天科技的话",
+      "music": 0.0
+    },
+    {
+      "from": 1995.46,
+      "to": 1996.88,
+      "sid": 805,
+      "location": 2,
+      "content": "除了这个海底电缆的话",
+      "music": 0.0
+    },
+    {
+      "from": 1996.88,
+      "to": 1999.27,
+      "sid": 806,
+      "location": 2,
+      "content": "它还有这个海上的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1999.27,
+      "to": 2001.83,
+      "sid": 807,
+      "location": 2,
+      "content": "施工他有这个海上施工的这个船",
+      "music": 0.0
+    },
+    {
+      "from": 2001.83,
+      "to": 2003.11,
+      "sid": 808,
+      "location": 2,
+      "content": "就是做访呃",
+      "music": 0.0
+    },
+    {
+      "from": 2003.11,
+      "to": 2004.67,
+      "sid": 809,
+      "location": 2,
+      "content": "打那个foundation的那个船",
+      "music": 0.0
+    },
+    {
+      "from": 2004.67,
+      "to": 2006.89,
+      "sid": 810,
+      "location": 2,
+      "content": "还有就是风机的一些吊装船",
+      "music": 0.0
+    },
+    {
+      "from": 2006.89,
+      "to": 2010.09,
+      "sid": 811,
+      "location": 2,
+      "content": "那海上施工的船是跟海力风电合作的",
+      "music": 0.0
+    },
+    {
+      "from": 2010.09,
+      "to": 2013.94,
+      "sid": 812,
+      "location": 2,
+      "content": "然后海上风机的吊装船它是跟金丰合资的",
+      "music": 0.0
+    },
+    {
+      "from": 2013.94,
+      "to": 2017.66,
+      "sid": 813,
+      "location": 2,
+      "content": "这这两条船它也是有这个海上施工的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2017.66,
+      "to": 2018.94,
+      "sid": 814,
+      "location": 2,
+      "content": "一个一个能力的",
+      "music": 0.0
+    },
+    {
+      "from": 2018.94,
+      "to": 2020.52,
+      "sid": 815,
+      "location": 2,
+      "content": "那海底的机装的话",
+      "music": 0.0
+    },
+    {
+      "from": 2020.52,
+      "to": 2022.44,
+      "sid": 816,
+      "location": 2,
+      "content": "那可能国内的玩家比较多",
+      "music": 0.0
+    },
+    {
+      "from": 2022.44,
+      "to": 2024.66,
+      "sid": 817,
+      "location": 2,
+      "content": "那我们在我们的覆盖的领域的话",
+      "music": 0.0
+    },
+    {
+      "from": 2024.66,
+      "to": 2027.22,
+      "sid": 818,
+      "location": 2,
+      "content": "我们可能会啊首选大金重工",
+      "music": 0.0
+    },
+    {
+      "from": 2027.22,
+      "to": 2030.28,
+      "sid": 819,
+      "location": 2,
+      "content": "那当然大金重工它在中国有有一些市场份额",
+      "music": 0.0
+    },
+    {
+      "from": 2030.28,
+      "to": 2033.18,
+      "sid": 820,
+      "location": 2,
+      "content": "它可能更多的敞口是在海外啊",
+      "music": 0.0
+    },
+    {
+      "from": 2033.18,
+      "to": 2034.38,
+      "sid": 821,
+      "location": 2,
+      "content": "除了中国的市场的话",
+      "music": 0.0
+    },
+    {
+      "from": 2034.38,
+      "to": 2037.98,
+      "sid": 822,
+      "location": 2,
+      "content": "它还在海外市场是有比较比较强的竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 2037.98,
+      "to": 2041.28,
+      "sid": 823,
+      "location": 2,
+      "content": "所以这是一啊我们对于啊股票的一个推荐",
+      "music": 0.0
+    },
+    {
+      "from": 2041.28,
+      "to": 2042.9,
+      "sid": 824,
+      "location": 2,
+      "content": "那我就先啊讲到这里",
+      "music": 0.0
+    },
+    {
+      "from": 2042.9,
+      "to": 2044.63,
+      "sid": 825,
+      "location": 2,
+      "content": "然后交还给啊",
+      "music": 0.0
+    },
+    {
+      "from": 2049.42,
+      "to": 2051.28,
+      "sid": 826,
+      "location": 2,
+      "content": "好的谢谢意外的分享",
+      "music": 0.0
+    },
+    {
+      "from": 2051.28,
+      "to": 2055.62,
+      "sid": 827,
+      "location": 2,
+      "content": "那我们目前线上有一条嗯向意外的提问",
+      "music": 0.0
+    },
+    {
+      "from": 2056.08,
+      "to": 2058.04,
+      "sid": 828,
+      "location": 2,
+      "content": "投资者想要问一下",
+      "music": 0.0
+    },
+    {
+      "from": 2058.04,
+      "to": 2059.28,
+      "sid": 829,
+      "location": 2,
+      "content": "对于呃意外",
+      "music": 0.0
+    },
+    {
+      "from": 2059.28,
+      "to": 2063.48,
+      "sid": 830,
+      "location": 2,
+      "content": "对于最近思源电器股价的波动的一个看法",
+      "music": 0.0
+    },
+    {
+      "from": 2063.48,
+      "to": 2066.62,
+      "sid": 831,
+      "location": 2,
+      "content": "伊朗好的好的",
+      "music": 0.0
+    },
+    {
+      "from": 2066.62,
+      "to": 2067.22,
+      "sid": 832,
+      "location": 2,
+      "content": "谢谢啊",
+      "music": 0.0
+    },
+    {
+      "from": 2067.22,
+      "to": 2067.94,
+      "sid": 833,
+      "location": 2,
+      "content": "谢谢cc啊",
+      "music": 0.0
+    },
+    {
+      "from": 2067.94,
+      "to": 2069.0,
+      "sid": 834,
+      "location": 2,
+      "content": "也谢谢这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2069.0,
+      "to": 2074.47,
+      "sid": 835,
+      "location": 2,
+      "content": "那确实啊最近因为一些啊地缘政治的一些影响",
+      "music": 0.0
+    },
+    {
+      "from": 2074.47,
+      "to": 2076.47,
+      "sid": 836,
+      "location": 2,
+      "content": "还有就是啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 2076.47,
+      "to": 2079.97,
+      "sid": 837,
+      "location": 2,
+      "content": "可能大家对于三季度的一个业绩的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2079.97,
+      "to": 2081.17,
+      "sid": 838,
+      "location": 2,
+      "content": "speculation的话",
+      "music": 0.0
+    },
+    {
+      "from": 2081.17,
+      "to": 2084.699,
+      "sid": 839,
+      "location": 2,
+      "content": "那资源的股价是有一些比较大的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2084.699,
+      "to": 2085.699,
+      "sid": 840,
+      "location": 2,
+      "content": "波动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2085.699,
+      "to": 2086.879,
+      "sid": 841,
+      "location": 2,
+      "content": "那我们觉得呢",
+      "music": 0.0
+    },
+    {
+      "from": 2086.879,
+      "to": 2090.279,
+      "sid": 842,
+      "location": 2,
+      "content": "就说其实在这个股价剧烈波动之后的话",
+      "music": 0.0
+    },
+    {
+      "from": 2090.279,
+      "to": 2092.2,
+      "sid": 843,
+      "location": 2,
+      "content": "其实是给市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 2092.2,
+      "to": 2094.18,
+      "sid": 844,
+      "location": 2,
+      "content": "包括啊投资者啊",
+      "music": 0.0
+    },
+    {
+      "from": 2094.18,
+      "to": 2096.359,
+      "sid": 845,
+      "location": 2,
+      "content": "就是创造了一个比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 2096.359,
+      "to": 2099.959,
+      "sid": 846,
+      "location": 2,
+      "content": "就是新的一个好的一个买入的一个机会了吧",
+      "music": 0.0
+    },
+    {
+      "from": 2099.959,
+      "to": 2101.919,
+      "sid": 847,
+      "location": 2,
+      "content": "啊那首先的话我想说一下",
+      "music": 0.0
+    },
+    {
+      "from": 2101.919,
+      "to": 2105.59,
+      "sid": 848,
+      "location": 2,
+      "content": "就是啊就是啊地缘政治的一个影响吧",
+      "music": 0.0
+    },
+    {
+      "from": 2105.59,
+      "to": 2107.35,
+      "sid": 849,
+      "location": 2,
+      "content": "就是可能现在市场啊",
+      "music": 0.0
+    },
+    {
+      "from": 2107.35,
+      "to": 2111.03,
+      "sid": 850,
+      "location": 2,
+      "content": "对于啊思源在美国市场的一个场场口",
+      "music": 0.0
+    },
+    {
+      "from": 2111.03,
+      "to": 2113.74,
+      "sid": 851,
+      "location": 2,
+      "content": "以及美国市场的一个啊战略的话",
+      "music": 0.0
+    },
+    {
+      "from": 2113.74,
+      "to": 2116.78,
+      "sid": 852,
+      "location": 2,
+      "content": "是啊有一些啊担忧的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2116.78,
+      "to": 2118.92,
+      "sid": 853,
+      "location": 2,
+      "content": "那从我们的角度来看",
+      "music": 0.0
+    },
+    {
+      "from": 2118.92,
+      "to": 2121.76,
+      "sid": 854,
+      "location": 2,
+      "content": "我们我们的了解的情况来看的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 2121.76,
+      "to": 2124.52,
+      "sid": 855,
+      "location": 2,
+      "content": "其实啊市场是有一些过度的占优了",
+      "music": 0.0
+    },
+    {
+      "from": 2124.52,
+      "to": 2126.68,
+      "sid": 856,
+      "location": 2,
+      "content": "那思源其实啊year to day的",
+      "music": 0.0
+    },
+    {
+      "from": 2126.68,
+      "to": 2129.32,
+      "sid": 857,
+      "location": 2,
+      "content": "包括今年的啊三前三季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 2129.32,
+      "to": 2131.8,
+      "sid": 858,
+      "location": 2,
+      "content": "在整个美国市场的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2131.8,
+      "to": 2134.64,
+      "sid": 859,
+      "location": 2,
+      "content": "北美市场的一个订单的一个斩获",
+      "music": 0.0
+    },
+    {
+      "from": 2134.64,
+      "to": 2137.74,
+      "sid": 860,
+      "location": 2,
+      "content": "还是啊比较超预期的那啊",
+      "music": 0.0
+    },
+    {
+      "from": 2137.74,
+      "to": 2141.07,
+      "sid": 861,
+      "location": 2,
+      "content": "在过去可能啊呃去年的整体的订单",
+      "music": 0.0
+    },
+    {
+      "from": 2141.07,
+      "to": 2143.63,
+      "sid": 862,
+      "location": 2,
+      "content": "海外的订单可能是在啊100个亿吧",
+      "music": 0.0
+    },
+    {
+      "from": 2143.63,
+      "to": 2147.69,
+      "sid": 863,
+      "location": 2,
+      "content": "像北美的订单大概是一个啊个位数的一个水平",
+      "music": 0.0
+    },
+    {
+      "from": 2147.69,
+      "to": 2151.03,
+      "sid": 864,
+      "location": 2,
+      "content": "那今年的话其实啊美啊我们了解到",
+      "music": 0.0
+    },
+    {
+      "from": 2151.03,
+      "to": 2152.61,
+      "sid": 865,
+      "location": 2,
+      "content": "其实虽然在美国订单",
+      "music": 0.0
+    },
+    {
+      "from": 2152.61,
+      "to": 2155.53,
+      "sid": 866,
+      "location": 2,
+      "content": "虽然大家会有一些地缘政治的一些啊担忧",
+      "music": 0.0
+    },
+    {
+      "from": 2155.53,
+      "to": 2156.99,
+      "sid": 867,
+      "location": 2,
+      "content": "那其实在美国的订单",
+      "music": 0.0
+    },
+    {
+      "from": 2156.99,
+      "to": 2159.93,
+      "sid": 868,
+      "location": 2,
+      "content": "北美市场的订单斩获还是非常非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 2159.93,
+      "to": 2161.52,
+      "sid": 869,
+      "location": 2,
+      "content": "是一个啊翻倍的",
+      "music": 0.0
+    },
+    {
+      "from": 2161.52,
+      "to": 2166.06,
+      "sid": 870,
+      "location": 2,
+      "content": "一个就是啊就是超过翻倍的一个啊订单增速",
+      "music": 0.0
+    },
+    {
+      "from": 2166.06,
+      "to": 2168.89,
+      "sid": 871,
+      "location": 2,
+      "content": "那从北国市场的一些客户的一些",
+      "music": 0.0
+    },
+    {
+      "from": 2168.89,
+      "to": 2171.45,
+      "sid": 872,
+      "location": 2,
+      "content": "对产品的接受度的话也是比较好的",
+      "music": 0.0
+    },
+    {
+      "from": 2171.45,
+      "to": 2172.7,
+      "sid": 873,
+      "location": 2,
+      "content": "那除了变压器",
+      "music": 0.0
+    },
+    {
+      "from": 2172.7,
+      "to": 2173.54,
+      "sid": 874,
+      "location": 2,
+      "content": "就是市场的话",
+      "music": 0.0
+    },
+    {
+      "from": 2173.54,
+      "to": 2175.54,
+      "sid": 875,
+      "location": 2,
+      "content": "就因为虽然有一个三期的变压器",
+      "music": 0.0
+    },
+    {
+      "from": 2175.54,
+      "to": 2179.71,
+      "sid": 876,
+      "location": 2,
+      "content": "其实是嗯啊这个变压器的这个市场的一个",
+      "music": 0.0
+    },
+    {
+      "from": 2179.71,
+      "to": 2181.99,
+      "sid": 877,
+      "location": 2,
+      "content": "订单的一个比较快速的提升的话",
+      "music": 0.0
+    },
+    {
+      "from": 2181.99,
+      "to": 2183.03,
+      "sid": 878,
+      "location": 2,
+      "content": "在美国市场",
+      "music": 0.0
+    },
+    {
+      "from": 2183.03,
+      "to": 2183.91,
+      "sid": 879,
+      "location": 2,
+      "content": "北美市场的话",
+      "music": 0.0
+    },
+    {
+      "from": 2183.91,
+      "to": 2186.44,
+      "sid": 880,
+      "location": 2,
+      "content": "开关的订单也是也有一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2186.44,
+      "to": 2187.98,
+      "sid": 881,
+      "location": 2,
+      "content": "比较好的一个增速吧",
+      "music": 0.0
+    },
+    {
+      "from": 2187.98,
+      "to": 2191.16,
+      "sid": 882,
+      "location": 2,
+      "content": "所以这是我们觉得就是可能市场对于啊",
+      "music": 0.0
+    },
+    {
+      "from": 2191.16,
+      "to": 2193.08,
+      "sid": 883,
+      "location": 2,
+      "content": "地缘政治的这个风险啊",
+      "music": 0.0
+    },
+    {
+      "from": 2193.08,
+      "to": 2194.76,
+      "sid": 884,
+      "location": 2,
+      "content": "那啊另外就是欧洲市场",
+      "music": 0.0
+    },
+    {
+      "from": 2194.76,
+      "to": 2197.57,
+      "sid": 885,
+      "location": 2,
+      "content": "那欧洲市场其实是本身就是一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2197.57,
+      "to": 2199.35,
+      "sid": 886,
+      "location": 2,
+      "content": "非常高端的一个市场",
+      "music": 0.0
+    },
+    {
+      "from": 2199.35,
+      "to": 2202.14,
+      "sid": 887,
+      "location": 2,
+      "content": "那其实竞争力也是啊非常强大",
+      "music": 0.0
+    },
+    {
+      "from": 2202.14,
+      "to": 2204.18,
+      "sid": 888,
+      "location": 2,
+      "content": "那其实中国的企业其实在啊",
+      "music": 0.0
+    },
+    {
+      "from": 2204.18,
+      "to": 2207.06,
+      "sid": 889,
+      "location": 2,
+      "content": "中国的电网设备的企业在欧洲的市场的话",
+      "music": 0.0
+    },
+    {
+      "from": 2207.06,
+      "to": 2208.72,
+      "sid": 890,
+      "location": 2,
+      "content": "市场份额没有那么高",
+      "music": 0.0
+    },
+    {
+      "from": 2208.72,
+      "to": 2212.28,
+      "sid": 891,
+      "location": 2,
+      "content": "那其实资源已经是在这个市场里面有一些基础",
+      "music": 0.0
+    },
+    {
+      "from": 2212.28,
+      "to": 2215.13,
+      "sid": 892,
+      "location": 2,
+      "content": "然后在这个比较高门槛的市场的话",
+      "music": 0.0
+    },
+    {
+      "from": 2215.13,
+      "to": 2218.09,
+      "sid": 893,
+      "location": 2,
+      "content": "是有有所一个订单的一个斩获的",
+      "music": 0.0
+    },
+    {
+      "from": 2218.09,
+      "to": 2221.6,
+      "sid": 894,
+      "location": 2,
+      "content": "那其实在这个欧洲市场的一个啊这个风险",
+      "music": 0.0
+    },
+    {
+      "from": 2221.6,
+      "to": 2226.449,
+      "sid": 895,
+      "location": 2,
+      "content": "其实啊比比美国这个市场的风险要低低太多了",
+      "music": 0.0
+    },
+    {
+      "from": 2226.449,
+      "to": 2229.049,
+      "sid": 896,
+      "location": 2,
+      "content": "所以我啊第一的话我们觉得就是美国市场",
+      "music": 0.0
+    },
+    {
+      "from": 2229.049,
+      "to": 2231.68,
+      "sid": 897,
+      "location": 2,
+      "content": "就是大家可能现在对于明年或者后年",
+      "music": 0.0
+    },
+    {
+      "from": 2231.68,
+      "to": 2233.9,
+      "sid": 898,
+      "location": 2,
+      "content": "现在估值的估值的预测",
+      "music": 0.0
+    },
+    {
+      "from": 2233.9,
+      "to": 2235.0,
+      "sid": 899,
+      "location": 2,
+      "content": "在预测利润",
+      "music": 0.0
+    },
+    {
+      "from": 2235.0,
+      "to": 2236.04,
+      "sid": 900,
+      "location": 2,
+      "content": "在预测估值的话",
+      "music": 0.0
+    },
+    {
+      "from": 2236.04,
+      "to": 2238.249,
+      "sid": 901,
+      "location": 2,
+      "content": "直接把啊拍一个美国的收入",
+      "music": 0.0
+    },
+    {
+      "from": 2238.249,
+      "to": 2238.809,
+      "sid": 902,
+      "location": 2,
+      "content": "然后利润",
+      "music": 0.0
+    },
+    {
+      "from": 2238.809,
+      "to": 2240.289,
+      "sid": 903,
+      "location": 2,
+      "content": "然后把美国的收入拿走了",
+      "music": 0.0
+    },
+    {
+      "from": 2240.289,
+      "to": 2243.99,
+      "sid": 904,
+      "location": 2,
+      "content": "但我觉得这个事其实是啊我不太同意",
+      "music": 0.0
+    },
+    {
+      "from": 2243.99,
+      "to": 2246.39,
+      "sid": 905,
+      "location": 2,
+      "content": "就是市场这样的一个啊预测的",
+      "music": 0.0
+    },
+    {
+      "from": 2246.39,
+      "to": 2249.889,
+      "sid": 906,
+      "location": 2,
+      "content": "就是其实利润预测是有点啊偏低的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2249.889,
+      "to": 2253.769,
+      "sid": 907,
+      "location": 2,
+      "content": "那短期的话就是说啊三季度的业绩的话",
+      "music": 0.0
+    },
+    {
+      "from": 2253.769,
+      "to": 2255.329,
+      "sid": 908,
+      "location": 2,
+      "content": "我们现在了解到的话",
+      "music": 0.2435897279750249
+    },
+    {
+      "from": 2255.329,
+      "to": 2256.229,
+      "sid": 909,
+      "location": 2,
+      "content": "其实啊",
+      "music": 0.0
+    },
+    {
+      "from": 2256.229,
+      "to": 2259.86,
+      "sid": 910,
+      "location": 2,
+      "content": "整体上公司三季度的一个整体的运运营情况",
+      "music": 0.0
+    },
+    {
+      "from": 2259.86,
+      "to": 2262.72,
+      "sid": 911,
+      "location": 2,
+      "content": "尤其是海外订单的一个增速还是非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 2262.72,
+      "to": 2265.4,
+      "sid": 912,
+      "location": 2,
+      "content": "那可能就是在一些确收方面的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 2265.4,
+      "to": 2268.4,
+      "sid": 913,
+      "location": 2,
+      "content": "有一些确收的一些会计准则的一些去啊",
+      "music": 0.0
+    },
+    {
+      "from": 2268.4,
+      "to": 2271.39,
+      "sid": 914,
+      "location": 2,
+      "content": "一些一些啊就是确收的一个节奏的话",
+      "music": 0.0
+    },
+    {
+      "from": 2271.39,
+      "to": 2275.75,
+      "sid": 915,
+      "location": 2,
+      "content": "可能会影响到啊啊个别季度的一个啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 2275.75,
+      "to": 2278.65,
+      "sid": 916,
+      "location": 2,
+      "content": "个别季度的一个啊收入的一个确收",
+      "music": 0.0
+    },
+    {
+      "from": 2278.65,
+      "to": 2281.56,
+      "sid": 917,
+      "location": 2,
+      "content": "就是但是在全年在四季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 2281.56,
+      "to": 2284.48,
+      "sid": 918,
+      "location": 2,
+      "content": "在完全这个报表的审计的角度来说的话",
+      "music": 0.0
+    },
+    {
+      "from": 2284.48,
+      "to": 2288.23,
+      "sid": 919,
+      "location": 2,
+      "content": "我们觉得啊整体的业绩还是还是比较啊",
+      "music": 0.0
+    },
+    {
+      "from": 2288.23,
+      "to": 2291.15,
+      "sid": 920,
+      "location": 2,
+      "content": "还是比较啊比较有正面的那啊",
+      "music": 0.0
+    },
+    {
+      "from": 2291.15,
+      "to": 2294.14,
+      "sid": 921,
+      "location": 2,
+      "content": "通过啊下半年的一些啊高毛利产品",
+      "music": 0.0
+    },
+    {
+      "from": 2294.14,
+      "to": 2296.98,
+      "sid": 922,
+      "location": 2,
+      "content": "尤其是四季度一些高毛利产品的一些确收的话",
+      "music": 0.0
+    },
+    {
+      "from": 2296.98,
+      "to": 2299.38,
+      "sid": 923,
+      "location": 2,
+      "content": "我们会看到我们啊我们预计的话",
+      "music": 0.0
+    },
+    {
+      "from": 2299.38,
+      "to": 2300.94,
+      "sid": 924,
+      "location": 2,
+      "content": "虽然其实在三四季度的话",
+      "music": 0.0
+    },
+    {
+      "from": 2300.94,
+      "to": 2303.48,
+      "sid": 925,
+      "location": 2,
+      "content": "我们能看到它的啊包括产品的结构",
+      "music": 0.0
+    },
+    {
+      "from": 2303.48,
+      "to": 2307.74,
+      "sid": 926,
+      "location": 2,
+      "content": "然后看到它啊毛利率的一个持啊持续提升啊",
+      "music": 0.0
+    },
+    {
+      "from": 2307.74,
+      "to": 2309.1,
+      "sid": 927,
+      "location": 2,
+      "content": "所以啊总体来说",
+      "music": 0.0
+    },
+    {
+      "from": 2309.1,
+      "to": 2312.76,
+      "sid": 928,
+      "location": 2,
+      "content": "我们对于啊思源还是啊持续很看好的",
+      "music": 0.0
+    },
+    {
+      "from": 2312.76,
+      "to": 2315.66,
+      "sid": 929,
+      "location": 2,
+      "content": "从他的啊从他的基本面产品",
+      "music": 0.0
+    },
+    {
+      "from": 2315.66,
+      "to": 2317.48,
+      "sid": 930,
+      "location": 2,
+      "content": "包括公司的竞争力",
+      "music": 0.0
+    },
+    {
+      "from": 2317.48,
+      "to": 2320.49,
+      "sid": 931,
+      "location": 2,
+      "content": "还有公司的一些啊决策方面",
+      "music": 0.0
+    },
+    {
+      "from": 2320.49,
+      "to": 2322.51,
+      "sid": 932,
+      "location": 2,
+      "content": "包括海外市场的拓展啊",
+      "music": 0.0
+    },
+    {
+      "from": 2322.51,
+      "to": 2325.89,
+      "sid": 933,
+      "location": 2,
+      "content": "还是啊我们还是持续很看好资源",
+      "music": 0.0
+    },
+    {
+      "from": 2327.86,
+      "to": 2329.76,
+      "sid": 934,
+      "location": 2,
+      "content": "好的谢谢意外的解答",
+      "music": 0.0
+    },
+    {
+      "from": 2329.76,
+      "to": 2332.62,
+      "sid": 935,
+      "location": 2,
+      "content": "那今天我们覆盖了金融保险",
+      "music": 0.0
+    },
+    {
+      "from": 2332.62,
+      "to": 2335.45,
+      "sid": 936,
+      "location": 2,
+      "content": "公用事业和新能源等行业主题",
+      "music": 0.0
+    },
+    {
+      "from": 2335.45,
+      "to": 2339.12,
+      "sid": 937,
+      "location": 2,
+      "content": "我们也会继续为大家带来有价值深度的观点",
+      "music": 0.0
+    },
+    {
+      "from": 2339.12,
+      "to": 2340.42,
+      "sid": 938,
+      "location": 2,
+      "content": "由于时间关系",
+      "music": 0.0
+    },
+    {
+      "from": 2340.42,
+      "to": 2342.56,
+      "sid": 939,
+      "location": 2,
+      "content": "本次会议将到此结束",
+      "music": 0.0
+    },
+    {
+      "from": 2342.56,
+      "to": 2344.86,
+      "sid": 940,
+      "location": 2,
+      "content": "如果您还有任何进一步的问题",
+      "music": 0.0
+    },
+    {
+      "from": 2344.86,
+      "to": 2346.38,
+      "sid": 941,
+      "location": 2,
+      "content": "欢迎与我们联系",
+      "music": 0.0
+    },
+    {
+      "from": 2346.38,
+      "to": 2349.52,
+      "sid": 942,
+      "location": 2,
+      "content": "感谢参加今天的周期论剑在线直播",
+      "music": 0.0
+    },
+    {
+      "from": 2349.52,
+      "to": 2351.64,
+      "sid": 943,
+      "location": 2,
+      "content": "我们期待与您下次再会",
+      "music": 0.0
+    },
+    {
+      "from": 2351.64,
+      "to": 2352.42,
+      "sid": 944,
+      "location": 2,
+      "content": "谢谢",
+      "music": 0.0
+    }
+  ]
+}

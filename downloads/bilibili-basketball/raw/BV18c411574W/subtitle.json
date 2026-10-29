@@ -1,0 +1,44 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "sync-v1.5.0.4",
+ "body": [
+  {
+   "from": 0.14,
+   "to": 1.28,
+   "sid": 1,
+   "location": 2,
+   "content": "第三天打篮球",
+   "music": 0
+  },
+  {
+   "from": 1.28,
+   "to": 3.14,
+   "sid": 2,
+   "location": 2,
+   "content": "教练说我脚步慢的像个太难",
+   "music": 0
+  },
+  {
+   "from": 3.14,
+   "to": 3.98,
+   "sid": 3,
+   "location": 2,
+   "content": "这么练行吗",
+   "music": 0
+  },
+  {
+   "from": 3.98,
+   "to": 7.359,
+   "sid": 4,
+   "location": 2,
+   "content": "我是不是被cpu了",
+   "music": 0
+  }
+ ]
+}

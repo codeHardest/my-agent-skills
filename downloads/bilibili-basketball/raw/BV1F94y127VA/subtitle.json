@@ -1,0 +1,467 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.5,
+   "sid": 1,
+   "location": 2,
+   "content": "有这么一个技术动作"
+  },
+  {
+   "from": 1.5,
+   "to": 4.23,
+   "sid": 2,
+   "location": 2,
+   "content": "nba几乎所有的突破高手都爱用"
+  },
+  {
+   "from": 4.23,
+   "to": 6.36,
+   "sid": 3,
+   "location": 2,
+   "content": "简单高效又充满变化"
+  },
+  {
+   "from": 6.36,
+   "to": 8.93,
+   "sid": 4,
+   "location": 2,
+   "content": "他就是胯下姿态加跳步后撤"
+  },
+  {
+   "from": 8.93,
+   "to": 13.61,
+   "sid": 5,
+   "location": 2,
+   "content": "今天kd就分享五种画家姿态加跳步后撤的进攻连招"
+  },
+  {
+   "from": 13.61,
+   "to": 17.26,
+   "sid": 6,
+   "location": 2,
+   "content": "赶紧把球星常用的技能包装进自己的口袋吧"
+  },
+  {
+   "from": 18.28,
+   "to": 21.24,
+   "sid": 7,
+   "location": 2,
+   "content": "一撤步后直接投篮运球"
+  },
+  {
+   "from": 21.24,
+   "to": 22.05,
+   "sid": 8,
+   "location": 2,
+   "content": "调整节奏"
+  },
+  {
+   "from": 22.05,
+   "to": 23.46,
+   "sid": 9,
+   "location": 2,
+   "content": "随后做个坠步后"
+  },
+  {
+   "from": 23.46,
+   "to": 24.6,
+   "sid": 10,
+   "location": 2,
+   "content": "立马降低重心"
+  },
+  {
+   "from": 24.6,
+   "to": 25.76,
+   "sid": 11,
+   "location": 2,
+   "content": "衔接胯下"
+  },
+  {
+   "from": 25.84,
+   "to": 27.34,
+   "sid": 12,
+   "location": 2,
+   "content": "突然的坠步加胯下"
+  },
+  {
+   "from": 27.34,
+   "to": 29.53,
+   "sid": 13,
+   "location": 2,
+   "content": "会让对手瞬间想要调整站位"
+  },
+  {
+   "from": 29.53,
+   "to": 30.58,
+   "sid": 14,
+   "location": 2,
+   "content": "向后封堵"
+  },
+  {
+   "from": 30.58,
+   "to": 31.69,
+   "sid": 15,
+   "location": 2,
+   "content": "趁着这个时机"
+  },
+  {
+   "from": 31.69,
+   "to": 33.04,
+   "sid": 16,
+   "location": 2,
+   "content": "我们直接后脚发力"
+  },
+  {
+   "from": 33.04,
+   "to": 34.21,
+   "sid": 17,
+   "location": 2,
+   "content": "做个跳步后撤"
+  },
+  {
+   "from": 34.21,
+   "to": 36.26,
+   "sid": 18,
+   "location": 2,
+   "content": "投篮的空间就出来了"
+  },
+  {
+   "from": 37.78,
+   "to": 41.16,
+   "sid": 19,
+   "location": 2,
+   "content": "撤补后拜佛有人的地方就有江湖"
+  },
+  {
+   "from": 41.16,
+   "to": 42.24,
+   "sid": 20,
+   "location": 2,
+   "content": "有投篮的招"
+  },
+  {
+   "from": 42.24,
+   "to": 44.019,
+   "sid": 21,
+   "location": 2,
+   "content": "他就一定能衔接拜佛"
+  },
+  {
+   "from": 44.019,
+   "to": 46.839,
+   "sid": 22,
+   "location": 2,
+   "content": "同样是在做胯下刺探后选择后撤"
+  },
+  {
+   "from": 46.839,
+   "to": 51.08,
+   "sid": 23,
+   "location": 2,
+   "content": "不过这一次我们做外国一顿双手极限的合球假动作"
+  },
+  {
+   "from": 51.08,
+   "to": 53.69,
+   "sid": 24,
+   "location": 2,
+   "content": "加上双脚平行的站位以及眼神的舞蹈"
+  },
+  {
+   "from": 53.69,
+   "to": 56.15,
+   "sid": 25,
+   "location": 2,
+   "content": "防守人很容易就会被点击重心"
+  },
+  {
+   "from": 56.15,
+   "to": 59.94,
+   "sid": 26,
+   "location": 2,
+   "content": "这个时候一个放球突破两分轻松到手"
+  },
+  {
+   "from": 61.16,
+   "to": 63.099,
+   "sid": 27,
+   "location": 2,
+   "content": "撤步后衔接摇摆步"
+  },
+  {
+   "from": 63.12,
+   "to": 66.96,
+   "sid": 28,
+   "location": 2,
+   "content": "如果你胯下刺探后的后撤拜佛没有让对手完全失位"
+  },
+  {
+   "from": 66.96,
+   "to": 68.31,
+   "sid": 29,
+   "location": 2,
+   "content": "而你又想突破"
+  },
+  {
+   "from": 68.31,
+   "to": 70.26,
+   "sid": 30,
+   "location": 2,
+   "content": "打败过后迅速启动"
+  },
+  {
+   "from": 70.26,
+   "to": 72.18,
+   "sid": 31,
+   "location": 2,
+   "content": "在防守人横移封堵时"
+  },
+  {
+   "from": 72.18,
+   "to": 73.59,
+   "sid": 32,
+   "location": 2,
+   "content": "做个头顶合球的摇摆"
+  },
+  {
+   "from": 73.59,
+   "to": 76.119,
+   "sid": 33,
+   "location": 2,
+   "content": "不上篮就能轻松完成终结"
+  },
+  {
+   "from": 77.98,
+   "to": 82.2,
+   "sid": 34,
+   "location": 2,
+   "content": "双后撤拜佛同样是在胯下后撤时做拜佛"
+  },
+  {
+   "from": 82.2,
+   "to": 84.81,
+   "sid": 35,
+   "location": 2,
+   "content": "不过这一次我们不用后脚发力"
+  },
+  {
+   "from": 84.81,
+   "to": 89.07,
+   "sid": 36,
+   "location": 2,
+   "content": "而是在坠步斜肩胯下后前脚向后点一步发力后撤"
+  },
+  {
+   "from": 89.07,
+   "to": 91.23,
+   "sid": 37,
+   "location": 2,
+   "content": "同时手上都拜佛动作"
+  },
+  {
+   "from": 91.23,
+   "to": 94.32,
+   "sid": 38,
+   "location": 2,
+   "content": "大幅度的双后撤是要投三分球的信号"
+  },
+  {
+   "from": 94.32,
+   "to": 96.99,
+   "sid": 39,
+   "location": 2,
+   "content": "此时防守人肯定会大幅向前"
+  },
+  {
+   "from": 96.99,
+   "to": 98.52,
+   "sid": 40,
+   "location": 2,
+   "content": "抓住他前扑的瞬间"
+  },
+  {
+   "from": 98.52,
+   "to": 99.72,
+   "sid": 41,
+   "location": 2,
+   "content": "一个拧腕推球"
+  },
+  {
+   "from": 99.72,
+   "to": 101.43,
+   "sid": 42,
+   "location": 2,
+   "content": "快速抢占向前的空间"
+  },
+  {
+   "from": 101.43,
+   "to": 104.49,
+   "sid": 43,
+   "location": 2,
+   "content": "就能形成防守人上踢以下顺的局面"
+  },
+  {
+   "from": 104.49,
+   "to": 107.92,
+   "sid": 44,
+   "location": 2,
+   "content": "此时过掉防守堪比过清晨的马路"
+  },
+  {
+   "from": 109.82,
+   "to": 110.98,
+   "sid": 45,
+   "location": 2,
+   "content": "后撤加小圈"
+  },
+  {
+   "from": 110.98,
+   "to": 111.94,
+   "sid": 46,
+   "location": 2,
+   "content": "体前变向"
+  },
+  {
+   "from": 112.18,
+   "to": 113.95,
+   "sid": 47,
+   "location": 2,
+   "content": "有了上一招作为基础"
+  },
+  {
+   "from": 113.95,
+   "to": 116.259,
+   "sid": 48,
+   "location": 2,
+   "content": "你在这步衔接胯下后跳的时候"
+  },
+  {
+   "from": 116.259,
+   "to": 118.089,
+   "sid": 49,
+   "location": 2,
+   "content": "防守人就会有所警觉"
+  },
+  {
+   "from": 118.089,
+   "to": 119.649,
+   "sid": 50,
+   "location": 2,
+   "content": "此时一个小圈运球"
+  },
+  {
+   "from": 119.649,
+   "to": 121.239,
+   "sid": 51,
+   "location": 2,
+   "content": "对方就会立马调整站位"
+  },
+  {
+   "from": 121.239,
+   "to": 122.49,
+   "sid": 52,
+   "location": 2,
+   "content": "封堵你的突破"
+  },
+  {
+   "from": 122.49,
+   "to": 123.99,
+   "sid": 53,
+   "location": 2,
+   "content": "利用对方的这个心理"
+  },
+  {
+   "from": 123.99,
+   "to": 125.43,
+   "sid": 54,
+   "location": 2,
+   "content": "再坐上一次体前变向"
+  },
+  {
+   "from": 125.43,
+   "to": 128.06,
+   "sid": 55,
+   "location": 2,
+   "content": "走另一侧就能轻松摆脱对手"
+  },
+  {
+   "from": 128.179,
+   "to": 129.199,
+   "sid": 56,
+   "location": 2,
+   "content": "胯下刺探"
+  },
+  {
+   "from": 129.199,
+   "to": 132.559,
+   "sid": 57,
+   "location": 2,
+   "content": "能够创造空间的关键就在于铺垫时期的坠步"
+  },
+  {
+   "from": 132.559,
+   "to": 135.33,
+   "sid": 58,
+   "location": 2,
+   "content": "坠步后的胯下是极其有威胁的"
+  },
+  {
+   "from": 135.33,
+   "to": 137.22,
+   "sid": 59,
+   "location": 2,
+   "content": "兄弟们在使用这几招前"
+  },
+  {
+   "from": 137.22,
+   "to": 142.36,
+   "sid": 60,
+   "location": 2,
+   "content": "一定要利用好这步以上五种胯下刺探衔接跳步后撤的变招"
+  },
+  {
+   "from": 142.36,
+   "to": 144,
+   "sid": 61,
+   "location": 2,
+   "content": "学会记得点赞"
+  },
+  {
+   "from": 144.04,
+   "to": 147.96,
+   "sid": 62,
+   "location": 2,
+   "content": "最后暑期想要接受专业训练的兄弟退出这里"
+  },
+  {
+   "from": 150.52,
+   "to": 152.13,
+   "sid": 63,
+   "location": 2,
+   "content": "两个月的封闭结束了"
+  },
+  {
+   "from": 152.13,
+   "to": 154.05,
+   "sid": 64,
+   "location": 2,
+   "content": "感谢兄弟们的不离不弃"
+  },
+  {
+   "from": 154.05,
+   "to": 156.1,
+   "sid": 65,
+   "location": 2,
+   "content": "kb t回来了"
+  }
+ ]
+}

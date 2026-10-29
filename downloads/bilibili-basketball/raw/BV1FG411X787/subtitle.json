@@ -1,0 +1,52 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.6.0.4",
+ "body": [
+  {
+   "from": 0,
+   "to": 6.05,
+   "sid": 1,
+   "location": 2,
+   "content": "♪ 我能习惯远距离爱总是什么 ♪",
+   "music": 0.8734939495935558
+  },
+  {
+   "from": 6.05,
+   "to": 10.86,
+   "sid": 2,
+   "location": 2,
+   "content": "♪ 有几宁愿换个方式 ♪",
+   "music": 0.9999999586776878
+  },
+  {
+   "from": 10.86,
+   "to": 15.45,
+   "sid": 3,
+   "location": 2,
+   "content": "♪ 至少还能遥远爱着你 ♪",
+   "music": 0.9999999624060165
+  },
+  {
+   "from": 15.45,
+   "to": 19.38,
+   "sid": 4,
+   "location": 2,
+   "content": "♪ 爱能克服远距离 ♪",
+   "music": 0.9999999382716087
+  },
+  {
+   "from": 19.38,
+   "to": 23.16,
+   "sid": 5,
+   "location": 2,
+   "content": "多远都要在一起",
+   "music": 0.7589285375478334
+  }
+ ]
+}

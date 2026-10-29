@@ -1,0 +1,668 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.28,
+   "to": 1.36,
+   "sid": 1,
+   "location": 2,
+   "content": "哈喽大家好",
+   "music": 0
+  },
+  {
+   "from": 1.36,
+   "to": 3.22,
+   "sid": 2,
+   "location": 2,
+   "content": "今天跟大家分享一个理念",
+   "music": 0
+  },
+  {
+   "from": 3.22,
+   "to": 4.72,
+   "sid": 3,
+   "location": 2,
+   "content": "我自己身高172",
+   "music": 0
+  },
+  {
+   "from": 4.72,
+   "to": 5.38,
+   "sid": 4,
+   "location": 2,
+   "content": "没天赋",
+   "music": 0
+  },
+  {
+   "from": 5.38,
+   "to": 5.86,
+   "sid": 5,
+   "location": 2,
+   "content": "个子矮",
+   "music": 0
+  },
+  {
+   "from": 5.86,
+   "to": 6.4,
+   "sid": 6,
+   "location": 2,
+   "content": "跑不快",
+   "music": 0
+  },
+  {
+   "from": 6.4,
+   "to": 7.279,
+   "sid": 7,
+   "location": 2,
+   "content": "跳不高",
+   "music": 0
+  },
+  {
+   "from": 7.279,
+   "to": 8.719,
+   "sid": 8,
+   "location": 2,
+   "content": "但还是生存下来了",
+   "music": 0
+  },
+  {
+   "from": 8.719,
+   "to": 9.739,
+   "sid": 9,
+   "location": 2,
+   "content": "高中校队主力",
+   "music": 0
+  },
+  {
+   "from": 9.739,
+   "to": 10.699,
+   "sid": 10,
+   "location": 2,
+   "content": "国家二级运动员",
+   "music": 0
+  },
+  {
+   "from": 10.699,
+   "to": 11.599,
+   "sid": 11,
+   "location": 2,
+   "content": "大学校队队长",
+   "music": 0
+  },
+  {
+   "from": 11.599,
+   "to": 14.54,
+   "sid": 12,
+   "location": 2,
+   "content": "广东省大学生所有甲组级别比赛的冠军",
+   "music": 0
+  },
+  {
+   "from": 14.54,
+   "to": 16.4,
+   "sid": 13,
+   "location": 2,
+   "content": "依赖的就是投篮",
+   "music": 0
+  },
+  {
+   "from": 16.4,
+   "to": 17.78,
+   "sid": 14,
+   "location": 2,
+   "content": "传球节奏",
+   "music": 0
+  },
+  {
+   "from": 17.78,
+   "to": 18.62,
+   "sid": 15,
+   "location": 2,
+   "content": "持球能力",
+   "music": 0
+  },
+  {
+   "from": 18.62,
+   "to": 19.94,
+   "sid": 16,
+   "location": 2,
+   "content": "大局观阅读",
+   "music": 0
+  },
+  {
+   "from": 19.95,
+   "to": 21.2,
+   "sid": 17,
+   "location": 2,
+   "content": "没有天赋",
+   "music": 0
+  },
+  {
+   "from": 21.2,
+   "to": 23.62,
+   "sid": 18,
+   "location": 2,
+   "content": "依靠投篮和节奏也可以立足",
+   "music": 0
+  },
+  {
+   "from": 23.62,
+   "to": 26.53,
+   "sid": 19,
+   "location": 2,
+   "content": "所以今天分享关于节奏感的五要素",
+   "music": 0
+  },
+  {
+   "from": 26.53,
+   "to": 27.76,
+   "sid": 20,
+   "location": 2,
+   "content": "理念很重要",
+   "music": 0
+  },
+  {
+   "from": 27.76,
+   "to": 29.4,
+   "sid": 21,
+   "location": 2,
+   "content": "理解很重要",
+   "music": 0
+  },
+  {
+   "from": 30.34,
+   "to": 31.53,
+   "sid": 22,
+   "location": 2,
+   "content": "高中的时候",
+   "music": 0
+  },
+  {
+   "from": 31.53,
+   "to": 33.96,
+   "sid": 23,
+   "location": 2,
+   "content": "教练就经常在耳边叮嘱你",
+   "music": 0
+  },
+  {
+   "from": 33.96,
+   "to": 35.22,
+   "sid": 24,
+   "location": 2,
+   "content": "不要一直一个速度冲",
+   "music": 0
+  },
+  {
+   "from": 35.22,
+   "to": 36.48,
+   "sid": 25,
+   "location": 2,
+   "content": "到底是人是鬼",
+   "music": 0
+  },
+  {
+   "from": 36.48,
+   "to": 38.02,
+   "sid": 26,
+   "location": 2,
+   "content": "都知道你要干嘛了",
+   "music": 0
+  },
+  {
+   "from": 38.02,
+   "to": 39.64,
+   "sid": 27,
+   "location": 2,
+   "content": "你停一下再加速",
+   "music": 0
+  },
+  {
+   "from": 39.64,
+   "to": 41.23,
+   "sid": 28,
+   "location": 2,
+   "content": "再停一下再加速",
+   "music": 0
+  },
+  {
+   "from": 41.23,
+   "to": 42.67,
+   "sid": 29,
+   "location": 2,
+   "content": "它就跟不上你了吗",
+   "music": 0
+  },
+  {
+   "from": 42.67,
+   "to": 45.42,
+   "sid": 30,
+   "location": 2,
+   "content": "急停急起就是我想说的第一点",
+   "music": 0
+  },
+  {
+   "from": 45.42,
+   "to": 48,
+   "sid": 31,
+   "location": 2,
+   "content": "我们可以通过行星间的one two step",
+   "music": 0
+  },
+  {
+   "from": 48,
+   "to": 51.46,
+   "sid": 32,
+   "location": 2,
+   "content": "和同侧脚急停的脚步来达成急停急起",
+   "music": 0.18471336991358864
+  },
+  {
+   "from": 51.46,
+   "to": 53.86,
+   "sid": 33,
+   "location": 2,
+   "content": "我们在场上要能走也能停",
+   "music": 0
+  },
+  {
+   "from": 53.86,
+   "to": 57.76,
+   "sid": 34,
+   "location": 2,
+   "content": "不能只会走而不会停",
+   "music": 0
+  },
+  {
+   "from": 63.58,
+   "to": 65.16,
+   "sid": 35,
+   "location": 2,
+   "content": "如果你没有别人快",
+   "music": 0
+  },
+  {
+   "from": 65.16,
+   "to": 67.08,
+   "sid": 36,
+   "location": 2,
+   "content": "那就比别人慢好了",
+   "music": 0
+  },
+  {
+   "from": 67.08,
+   "to": 69.91,
+   "sid": 37,
+   "location": 2,
+   "content": "在比赛中一个减速的时刻",
+   "music": 0
+  },
+  {
+   "from": 69.91,
+   "to": 72.28,
+   "sid": 38,
+   "location": 2,
+   "content": "往往就会让防守人失去判断",
+   "music": 0
+  },
+  {
+   "from": 72.28,
+   "to": 73.58,
+   "sid": 39,
+   "location": 2,
+   "content": "产生犹豫",
+   "music": 0
+  },
+  {
+   "from": 73.58,
+   "to": 75.08,
+   "sid": 40,
+   "location": 2,
+   "content": "甚至会自己跑开",
+   "music": 0.19402983626643344
+  },
+  {
+   "from": 75.08,
+   "to": 77.21,
+   "sid": 41,
+   "location": 2,
+   "content": "我自己就经常干这种事",
+   "music": 0
+  },
+  {
+   "from": 77.21,
+   "to": 81.74,
+   "sid": 42,
+   "location": 2,
+   "content": "但是慢下来比上头的冲起来刁难太多了",
+   "music": 0
+  },
+  {
+   "from": 81.74,
+   "to": 84.32,
+   "sid": 43,
+   "location": 2,
+   "content": "我们可以通过heavy style和小碎步",
+   "music": 0
+  },
+  {
+   "from": 84.32,
+   "to": 85.91,
+   "sid": 44,
+   "location": 2,
+   "content": "来达成减速的目的",
+   "music": 0
+  },
+  {
+   "from": 85.91,
+   "to": 87.71,
+   "sid": 45,
+   "location": 2,
+   "content": "我们要能快也能慢",
+   "music": 0
+  },
+  {
+   "from": 87.71,
+   "to": 89.24,
+   "sid": 46,
+   "location": 2,
+   "content": "能走也能听",
+   "music": 0
+  },
+  {
+   "from": 89.24,
+   "to": 92.12,
+   "sid": 47,
+   "location": 2,
+   "content": "只要我们跟防守人错开动作的速率",
+   "music": 0
+  },
+  {
+   "from": 92.12,
+   "to": 93.89,
+   "sid": 48,
+   "location": 2,
+   "content": "我们就可以占据优势",
+   "music": 0
+  },
+  {
+   "from": 93.89,
+   "to": 96.2,
+   "sid": 49,
+   "location": 2,
+   "content": "在场上根据对防守人的观察",
+   "music": 0
+  },
+  {
+   "from": 96.2,
+   "to": 98.84,
+   "sid": 50,
+   "location": 2,
+   "content": "来决定我们的下一步",
+   "music": 0
+  },
+  {
+   "from": 102.54,
+   "to": 106.04,
+   "sid": 51,
+   "location": 2,
+   "content": "突破和投篮我们都需要去制造空间",
+   "music": 0
+  },
+  {
+   "from": 106.04,
+   "to": 108.65,
+   "sid": 52,
+   "location": 2,
+   "content": "对空间的把握以及创造的能力",
+   "music": 0
+  },
+  {
+   "from": 108.65,
+   "to": 110.52,
+   "sid": 53,
+   "location": 2,
+   "content": "是非常重要的一环",
+   "music": 0
+  },
+  {
+   "from": 110.52,
+   "to": 113.1,
+   "sid": 54,
+   "location": 2,
+   "content": "我们可以通过拖曳犹豫步",
+   "music": 0
+  },
+  {
+   "from": 113.1,
+   "to": 115.74,
+   "sid": 55,
+   "location": 2,
+   "content": "来制造横向的路线和空间",
+   "music": 0
+  },
+  {
+   "from": 115.74,
+   "to": 120.09,
+   "sid": 56,
+   "location": 2,
+   "content": "通过体前和胯下的拉回来制造竖向的空间",
+   "music": 0
+  },
+  {
+   "from": 120.09,
+   "to": 123.1,
+   "sid": 57,
+   "location": 2,
+   "content": "进攻永远占优势的原因之一",
+   "music": 0.09821428132971931
+  },
+  {
+   "from": 123.1,
+   "to": 128.14,
+   "sid": 58,
+   "location": 2,
+   "content": "就是进攻者掌握了先移动制造空间的能力",
+   "music": 0
+  },
+  {
+   "from": 135.12,
+   "to": 137.69,
+   "sid": 59,
+   "location": 2,
+   "content": "除了前后左右空间的制造",
+   "music": 0
+  },
+  {
+   "from": 137.69,
+   "to": 138.92,
+   "sid": 60,
+   "location": 2,
+   "content": "启动和急停",
+   "music": 0
+  },
+  {
+   "from": 138.92,
+   "to": 140.36,
+   "sid": 61,
+   "location": 2,
+   "content": "加速和减速",
+   "music": 0
+  },
+  {
+   "from": 140.36,
+   "to": 144.35,
+   "sid": 62,
+   "location": 2,
+   "content": "在行进间改变方向的能力和误导防守的能力",
+   "music": 0
+  },
+  {
+   "from": 144.35,
+   "to": 145.64,
+   "sid": 63,
+   "location": 2,
+   "content": "也是必修课",
+   "music": 0
+  },
+  {
+   "from": 145.64,
+   "to": 148.22,
+   "sid": 64,
+   "location": 2,
+   "content": "除了基础的行进间变向之外",
+   "music": 0
+  },
+  {
+   "from": 148.22,
+   "to": 150.17,
+   "sid": 65,
+   "location": 2,
+   "content": "我们还可以通过in and out",
+   "music": 0
+  },
+  {
+   "from": 150.17,
+   "to": 154.34,
+   "sid": 66,
+   "location": 2,
+   "content": "以及变向误导的组合技巧来实现变向和误导",
+   "music": 0
+  },
+  {
+   "from": 154.34,
+   "to": 155.26,
+   "sid": 67,
+   "location": 2,
+   "content": "同样的",
+   "music": 0
+  },
+  {
+   "from": 155.26,
+   "to": 157.63,
+   "sid": 68,
+   "location": 2,
+   "content": "如果我们一直只走一个方向的话",
+   "music": 0
+  },
+  {
+   "from": 157.63,
+   "to": 158.89,
+   "sid": 69,
+   "location": 2,
+   "content": "那么是人是鬼",
+   "music": 0
+  },
+  {
+   "from": 158.89,
+   "to": 160.72,
+   "sid": 70,
+   "location": 2,
+   "content": "都知道你要去哪里啦",
+   "music": 0
+  },
+  {
+   "from": 165.339,
+   "to": 169.379,
+   "sid": 71,
+   "location": 2,
+   "content": "突破和投篮永远是两个互相制衡的矛盾体",
+   "music": 0
+  },
+  {
+   "from": 169.379,
+   "to": 170.339,
+   "sid": 72,
+   "location": 2,
+   "content": "只有突破",
+   "music": 0
+  },
+  {
+   "from": 170.339,
+   "to": 171.479,
+   "sid": 73,
+   "location": 2,
+   "content": "没投篮不行",
+   "music": 0
+  },
+  {
+   "from": 171.479,
+   "to": 173.08,
+   "sid": 74,
+   "location": 2,
+   "content": "反之也不行",
+   "music": 0
+  },
+  {
+   "from": 173.08,
+   "to": 176.17,
+   "sid": 75,
+   "location": 2,
+   "content": "因为防守人总是会在掐死你的抢点的时候",
+   "music": 0
+  },
+  {
+   "from": 176.17,
+   "to": 177.46,
+   "sid": 76,
+   "location": 2,
+   "content": "放掉你的弱点",
+   "music": 0
+  },
+  {
+   "from": 177.46,
+   "to": 179.28,
+   "sid": 77,
+   "location": 2,
+   "content": "让你心态炸裂",
+   "music": 0
+  },
+  {
+   "from": 179.28,
+   "to": 181.2,
+   "sid": 78,
+   "location": 2,
+   "content": "三威胁状态下的突投结合",
+   "music": 0
+  },
+  {
+   "from": 181.2,
+   "to": 183.4,
+   "sid": 79,
+   "location": 2,
+   "content": "以及由于部状态下的突投结合",
+   "music": 0
+  },
+  {
+   "from": 183.4,
+   "to": 187.36,
+   "sid": 80,
+   "location": 2,
+   "content": "是我们在持球和下球状态下最经典的两组动作",
+   "music": 0
+  },
+  {
+   "from": 187.36,
+   "to": 190.99,
+   "sid": 81,
+   "location": 2,
+   "content": "让防守人在防突与防偷之间纠结的时候",
+   "music": 0
+  },
+  {
+   "from": 190.99,
+   "to": 192.68,
+   "sid": 82,
+   "location": 2,
+   "content": "其实就已经成功了",
+   "music": 0
+  }
+ ]
+}

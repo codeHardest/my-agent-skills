@@ -1,0 +1,364 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 1.32,
+   "sid": 1,
+   "location": 2,
+   "content": "诶你知道吗",
+   "music": 0
+  },
+  {
+   "from": 1.32,
+   "to": 3.3,
+   "sid": 2,
+   "location": 2,
+   "content": "80%的人投篮姿势难看",
+   "music": 0
+  },
+  {
+   "from": 3.3,
+   "to": 6.18,
+   "sid": 3,
+   "location": 2,
+   "content": "都是因为手肘外翻导致的啊",
+   "music": 0
+  },
+  {
+   "from": 6.18,
+   "to": 9.85,
+   "sid": 4,
+   "location": 2,
+   "content": "心气今天KBT教你四种方法",
+   "music": 0
+  },
+  {
+   "from": 9.85,
+   "to": 13.02,
+   "sid": 5,
+   "location": 2,
+   "content": "随便挑一种都能解决你手肘外翻的问题",
+   "music": 0
+  },
+  {
+   "from": 13.1,
+   "to": 15.35,
+   "sid": 6,
+   "location": 2,
+   "content": "一调整合球位置",
+   "music": 0.43749997265625185
+  },
+  {
+   "from": 15.35,
+   "to": 18.74,
+   "sid": 7,
+   "location": 2,
+   "content": "很多人投篮前喜欢将球合的离身体很近",
+   "music": 0.07843136998590242
+  },
+  {
+   "from": 18.74,
+   "to": 20.72,
+   "sid": 8,
+   "location": 2,
+   "content": "但其实你会发现这么做",
+   "music": 0
+  },
+  {
+   "from": 20.72,
+   "to": 22.759,
+   "sid": 9,
+   "location": 2,
+   "content": "你的手肘一定是弯曲的",
+   "music": 0.20833332248264036
+  },
+  {
+   "from": 22.759,
+   "to": 24.019,
+   "sid": 10,
+   "location": 2,
+   "content": "直接举球投篮",
+   "music": 0.18981879294056925
+  },
+  {
+   "from": 24.019,
+   "to": 25.909,
+   "sid": 11,
+   "location": 2,
+   "content": "投篮手自然会外翻啊",
+   "music": 0
+  },
+  {
+   "from": 25.909,
+   "to": 29.38,
+   "sid": 12,
+   "location": 2,
+   "content": "你可以尝试着将合球位置适当向前调整",
+   "music": 0
+  },
+  {
+   "from": 29.38,
+   "to": 31.45,
+   "sid": 13,
+   "location": 2,
+   "content": "这样投篮手的手臂就会内收",
+   "music": 0
+  },
+  {
+   "from": 31.45,
+   "to": 33.31,
+   "sid": 14,
+   "location": 2,
+   "content": "手肘也能紧贴躯干",
+   "music": 0
+  },
+  {
+   "from": 33.31,
+   "to": 36.48,
+   "sid": 15,
+   "location": 2,
+   "content": "此时在举球投篮手的手臂就会自然舒适",
+   "music": 0.28382837347101286
+  },
+  {
+   "from": 36.48,
+   "to": 38.16,
+   "sid": 16,
+   "location": 2,
+   "content": "手肘就不会外翻了",
+   "music": 0
+  },
+  {
+   "from": 38.16,
+   "to": 41.64,
+   "sid": 17,
+   "location": 2,
+   "content": "NBA传奇射手雷阿伦就是这个动作的代表人物",
+   "music": 0
+  },
+  {
+   "from": 42.66,
+   "to": 44.64,
+   "sid": 18,
+   "location": 2,
+   "content": "二调整躯干朝向",
+   "music": 0
+  },
+  {
+   "from": 44.64,
+   "to": 46.62,
+   "sid": 19,
+   "location": 2,
+   "content": "如果你的身体正对篮筐时",
+   "music": 0
+  },
+  {
+   "from": 46.62,
+   "to": 48.48,
+   "sid": 20,
+   "location": 2,
+   "content": "会出现手肘外翻的现象",
+   "music": 0
+  },
+  {
+   "from": 48.48,
+   "to": 51.02,
+   "sid": 21,
+   "location": 2,
+   "content": "那不妨尝试调整一下躯干朝向",
+   "music": 0
+  },
+  {
+   "from": 51.02,
+   "to": 52.94,
+   "sid": 22,
+   "location": 2,
+   "content": "让身体微微侧对篮筐",
+   "music": 0
+  },
+  {
+   "from": 52.94,
+   "to": 56.46,
+   "sid": 23,
+   "location": 2,
+   "content": "这样就能极大程度的改善手肘外翻的问题了",
+   "music": 0.030674845684821074
+  },
+  {
+   "from": 56.46,
+   "to": 58.62,
+   "sid": 24,
+   "location": 2,
+   "content": "这是克莱投篮时常用的技巧",
+   "music": 0
+  },
+  {
+   "from": 58.62,
+   "to": 61.28,
+   "sid": 25,
+   "location": 2,
+   "content": "也是他投篮如此稳定的原因之一",
+   "music": 0.45378149353859154
+  },
+  {
+   "from": 62.94,
+   "to": 65.21,
+   "sid": 26,
+   "location": 2,
+   "content": "三调整投篮手位置",
+   "music": 0.25925924554183705
+  },
+  {
+   "from": 65.21,
+   "to": 68.8,
+   "sid": 27,
+   "location": 2,
+   "content": "很多兄弟都喜欢将投篮手放在篮球的正上方",
+   "music": 0.0030030029128242735
+  },
+  {
+   "from": 68.8,
+   "to": 70.24,
+   "sid": 28,
+   "location": 2,
+   "content": "然后举球去投篮",
+   "music": 0
+  },
+  {
+   "from": 70.24,
+   "to": 72.6,
+   "sid": 29,
+   "location": 2,
+   "content": "这种强行凹造型的投篮姿势",
+   "music": 0
+  },
+  {
+   "from": 72.6,
+   "to": 74.49,
+   "sid": 30,
+   "location": 2,
+   "content": "很容易导致手肘外翻",
+   "music": 0
+  },
+  {
+   "from": 74.49,
+   "to": 77.58,
+   "sid": 31,
+   "location": 2,
+   "content": "你可以将投篮手的位置移动到篮球侧边",
+   "music": 0
+  },
+  {
+   "from": 77.58,
+   "to": 80.2,
+   "sid": 32,
+   "location": 2,
+   "content": "形成一个非常舒适的合球姿势",
+   "music": 0
+  },
+  {
+   "from": 80.2,
+   "to": 84.04,
+   "sid": 33,
+   "location": 2,
+   "content": "随后在举球时将投篮手和辅助手向内收",
+   "music": 0
+  },
+  {
+   "from": 84.04,
+   "to": 87.4,
+   "sid": 34,
+   "location": 2,
+   "content": "这样在你出手时发力就会更加集中",
+   "music": 0
+  },
+  {
+   "from": 87.4,
+   "to": 89.44,
+   "sid": 35,
+   "location": 2,
+   "content": "手肘也不会外翻了",
+   "music": 0.10416666124132111
+  },
+  {
+   "from": 89.44,
+   "to": 91.77,
+   "sid": 36,
+   "location": 2,
+   "content": "NBA现役三分王库里",
+   "music": 0.25352111485816714
+  },
+  {
+   "from": 91.77,
+   "to": 95.88,
+   "sid": 37,
+   "location": 2,
+   "content": "就是利用这种技巧去投篮的代表性人物",
+   "music": 0.26277371623421575
+  },
+  {
+   "from": 96.68,
+   "to": 98.89,
+   "sid": 38,
+   "location": 2,
+   "content": "四调整出手位置",
+   "music": 0
+  },
+  {
+   "from": 98.89,
+   "to": 100.87,
+   "sid": 39,
+   "location": 2,
+   "content": "这个方法最简单粗暴",
+   "music": 0
+  },
+  {
+   "from": 100.87,
+   "to": 102.7,
+   "sid": 40,
+   "location": 2,
+   "content": "如果将球举到头顶出手",
+   "music": 0
+  },
+  {
+   "from": 102.7,
+   "to": 103.88,
+   "sid": 41,
+   "location": 2,
+   "content": "会让你手肘外翻",
+   "music": 0
+  },
+  {
+   "from": 103.88,
+   "to": 106.16,
+   "sid": 42,
+   "location": 2,
+   "content": "那你可以效仿林书豪的投篮方式",
+   "music": 0
+  },
+  {
+   "from": 106.16,
+   "to": 109.05,
+   "sid": 43,
+   "location": 2,
+   "content": "将出手位置放在偏投篮手一侧",
+   "music": 0
+  },
+  {
+   "from": 109.05,
+   "to": 113.85,
+   "sid": 44,
+   "location": 2,
+   "content": "这样投篮手的手肘就会自然保持竖直了",
+   "music": 0.1649048590929211
+  }
+ ]
+}

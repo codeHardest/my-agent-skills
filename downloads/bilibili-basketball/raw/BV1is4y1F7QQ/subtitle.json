@@ -1,0 +1,26 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.32,
+   "sid": 1,
+   "location": 2,
+   "content": "最糟糕的是"
+  },
+  {
+   "from": 2.36,
+   "to": 6.52,
+   "sid": 2,
+   "location": 2,
+   "content": "你以为我的爱被压碎和燃烧直接穿过墙"
+  }
+ ]
+}

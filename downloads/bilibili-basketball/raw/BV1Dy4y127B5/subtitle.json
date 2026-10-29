@@ -1,0 +1,956 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.6,
+   "to": 2.4,
+   "sid": 1,
+   "location": 2,
+   "content": "嘿你发现了新的宝石",
+   "music": 0
+  },
+  {
+   "from": 4.2,
+   "to": 6.12,
+   "sid": 2,
+   "location": 2,
+   "content": "OK今天这些宝石呢跟大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 6.12,
+   "to": 9.569,
+   "sid": 3,
+   "location": 2,
+   "content": "我们这个运球当中呢突然合球投篮的一些技巧",
+   "music": 0
+  },
+  {
+   "from": 9.569,
+   "to": 11.159,
+   "sid": 4,
+   "location": 2,
+   "content": "以及他的一些训练的方法",
+   "music": 0
+  },
+  {
+   "from": 11.159,
+   "to": 13.229,
+   "sid": 5,
+   "location": 2,
+   "content": "其实对于我们这个小个后卫来讲",
+   "music": 0
+  },
+  {
+   "from": 13.229,
+   "to": 15.209,
+   "sid": 6,
+   "location": 2,
+   "content": "包括很多那个锋线球员啊",
+   "music": 0
+  },
+  {
+   "from": 15.209,
+   "to": 18.559,
+   "sid": 7,
+   "location": 2,
+   "content": "其实拥有一手这个非常快速以及稳定",
+   "music": 0
+  },
+  {
+   "from": 18.559,
+   "to": 20.149,
+   "sid": 8,
+   "location": 2,
+   "content": "出其不意的合球投篮呢",
+   "music": 0
+  },
+  {
+   "from": 20.149,
+   "to": 22.249,
+   "sid": 9,
+   "location": 2,
+   "content": "能够帮助你在这个比赛当中",
+   "music": 0
+  },
+  {
+   "from": 22.249,
+   "to": 24.38,
+   "sid": 10,
+   "location": 2,
+   "content": "获得更多的出手的机会啊",
+   "music": 0
+  },
+  {
+   "from": 24.38,
+   "to": 27.259,
+   "sid": 11,
+   "location": 2,
+   "content": "所以说我个人觉得这项技能呢非常非常的关键",
+   "music": 0
+  },
+  {
+   "from": 27.259,
+   "to": 29.539,
+   "sid": 12,
+   "location": 2,
+   "content": "如果你还没有观看我们上一期关于急停",
+   "music": 0
+  },
+  {
+   "from": 29.539,
+   "to": 31.459,
+   "sid": 13,
+   "location": 2,
+   "content": "跳投之后的合球训练呢啊",
+   "music": 0
+  },
+  {
+   "from": 31.459,
+   "to": 34.099,
+   "sid": 14,
+   "location": 2,
+   "content": "建议大家先去我的主页找到他先观看一下",
+   "music": 0
+  },
+  {
+   "from": 34.099,
+   "to": 34.939,
+   "sid": 15,
+   "location": 2,
+   "content": "然后再来进行",
+   "music": 0
+  },
+  {
+   "from": 34.939,
+   "to": 37.79,
+   "sid": 16,
+   "location": 2,
+   "content": "我们这一期在运球当中的合球训练",
+   "music": 0
+  },
+  {
+   "from": 37.79,
+   "to": 38.6,
+   "sid": 17,
+   "location": 2,
+   "content": "OK那话不多说",
+   "music": 0
+  },
+  {
+   "from": 38.6,
+   "to": 39.8,
+   "sid": 18,
+   "location": 2,
+   "content": "我们就开始吧",
+   "music": 0
+  },
+  {
+   "from": 39.8,
+   "to": 42.98,
+   "sid": 19,
+   "location": 2,
+   "content": "首先我们先来看一下今天的第一个运球",
+   "music": 0
+  },
+  {
+   "from": 42.98,
+   "to": 43.91,
+   "sid": 20,
+   "location": 2,
+   "content": "合球脚步",
+   "music": 0
+  },
+  {
+   "from": 43.91,
+   "to": 45.62,
+   "sid": 21,
+   "location": 2,
+   "content": "Hope垫步合球投篮",
+   "music": 0
+  },
+  {
+   "from": 46.16,
+   "to": 49.49,
+   "sid": 22,
+   "location": 2,
+   "content": "这里也为大家准备了几个不同的角度",
+   "music": 0
+  },
+  {
+   "from": 49.49,
+   "to": 52.64,
+   "sid": 23,
+   "location": 2,
+   "content": "希望大家可以发现一些细节",
+   "music": 0
+  },
+  {
+   "from": 56.02,
+   "to": 58.08,
+   "sid": 24,
+   "location": 2,
+   "content": "下面我们来看一下慢动作",
+   "music": 0
+  },
+  {
+   "from": 58.08,
+   "to": 61.06,
+   "sid": 25,
+   "location": 2,
+   "content": "这里要注意一下我们双脚脚步的重置",
+   "music": 0
+  },
+  {
+   "from": 64.019,
+   "to": 65.519,
+   "sid": 26,
+   "location": 2,
+   "content": "OK我们看完这几个片段呢",
+   "music": 0
+  },
+  {
+   "from": 65.519,
+   "to": 66.659,
+   "sid": 27,
+   "location": 2,
+   "content": "相信大家也不难发现",
+   "music": 0
+  },
+  {
+   "from": 66.659,
+   "to": 69.599,
+   "sid": 28,
+   "location": 2,
+   "content": "其实我们这个脚步呢也是出现了一个重置啊",
+   "music": 0
+  },
+  {
+   "from": 69.599,
+   "to": 70.92,
+   "sid": 29,
+   "location": 2,
+   "content": "当我们运球的时候",
+   "music": 0
+  },
+  {
+   "from": 70.92,
+   "to": 73.08,
+   "sid": 30,
+   "location": 2,
+   "content": "降低重心准备突破的时候呢",
+   "music": 0
+  },
+  {
+   "from": 73.08,
+   "to": 75.06,
+   "sid": 31,
+   "location": 2,
+   "content": "这时候可能防守人员会向后退一步",
+   "music": 0
+  },
+  {
+   "from": 75.06,
+   "to": 76.02,
+   "sid": 32,
+   "location": 2,
+   "content": "这如果我们想投篮",
+   "music": 0
+  },
+  {
+   "from": 76.02,
+   "to": 77.56,
+   "sid": 33,
+   "location": 2,
+   "content": "在这个位置很难投篮的",
+   "music": 0
+  },
+  {
+   "from": 77.56,
+   "to": 79.12,
+   "sid": 34,
+   "location": 2,
+   "content": "所以说我们会重置我们的脚步",
+   "music": 0
+  },
+  {
+   "from": 79.12,
+   "to": 81.64,
+   "sid": 35,
+   "location": 2,
+   "content": "变成怕变成一个号",
+   "music": 0
+  },
+  {
+   "from": 81.64,
+   "to": 82.9,
+   "sid": 36,
+   "location": 2,
+   "content": "然后是我们可以出入投篮",
+   "music": 0
+  },
+  {
+   "from": 82.9,
+   "to": 84.84,
+   "sid": 37,
+   "location": 2,
+   "content": "其实我们左边呢也是一样的啊",
+   "music": 0
+  },
+  {
+   "from": 84.84,
+   "to": 86.34,
+   "sid": 38,
+   "location": 2,
+   "content": "当大家理解这个脚步之后呢",
+   "music": 0
+  },
+  {
+   "from": 86.34,
+   "to": 88.08,
+   "sid": 39,
+   "location": 2,
+   "content": "我给大家推荐一个训练的方法",
+   "music": 0
+  },
+  {
+   "from": 88.08,
+   "to": 90.08,
+   "sid": 40,
+   "location": 2,
+   "content": "可以增强我们这个合球的这个熟练度",
+   "music": 0
+  },
+  {
+   "from": 90.08,
+   "to": 91.22,
+   "sid": 41,
+   "location": 2,
+   "content": "OK我们来看一下",
+   "music": 0
+  },
+  {
+   "from": 92.66,
+   "to": 94.18,
+   "sid": 42,
+   "location": 2,
+   "content": "在熟悉基本脚步后",
+   "music": 0
+  },
+  {
+   "from": 94.18,
+   "to": 97.96,
+   "sid": 43,
+   "location": 2,
+   "content": "我们进行三次连续快速的胯下运球合球",
+   "music": 0
+  },
+  {
+   "from": 97.96,
+   "to": 100.82,
+   "sid": 44,
+   "location": 2,
+   "content": "并在最后一次合球后出手投篮",
+   "music": 0
+  },
+  {
+   "from": 100.82,
+   "to": 103.34,
+   "sid": 45,
+   "location": 2,
+   "content": "当然我们两侧手都要训练习",
+   "music": 0
+  },
+  {
+   "from": 103.34,
+   "to": 105.26,
+   "sid": 46,
+   "location": 2,
+   "content": "也可以左右手混合起来",
+   "music": 0
+  },
+  {
+   "from": 105.26,
+   "to": 107.28,
+   "sid": 47,
+   "location": 2,
+   "content": "增加训练的多样性",
+   "music": 0
+  },
+  {
+   "from": 109.64,
+   "to": 111.1,
+   "sid": 48,
+   "location": 2,
+   "content": "以上呢就是我们的第一个动作",
+   "music": 0
+  },
+  {
+   "from": 111.1,
+   "to": 112.84,
+   "sid": 49,
+   "location": 2,
+   "content": "它是由一个分腿蹲的脚步",
+   "music": 0
+  },
+  {
+   "from": 112.84,
+   "to": 113.98,
+   "sid": 50,
+   "location": 2,
+   "content": "变成了我们一个号",
+   "music": 0
+  },
+  {
+   "from": 113.98,
+   "to": 115,
+   "sid": 51,
+   "location": 2,
+   "content": "然后快速出手",
+   "music": 0
+  },
+  {
+   "from": 115,
+   "to": 116.26,
+   "sid": 52,
+   "location": 2,
+   "content": "然后现在呢我们来看一下",
+   "music": 0
+  },
+  {
+   "from": 116.26,
+   "to": 118.9,
+   "sid": 53,
+   "location": 2,
+   "content": "我们第二个脚步的手部",
+   "music": 0
+  },
+  {
+   "from": 118.91,
+   "to": 121.55,
+   "sid": 54,
+   "location": 2,
+   "content": "第二种运球合球脚步是比较经典的",
+   "music": 0
+  },
+  {
+   "from": 121.55,
+   "to": 123.12,
+   "sid": 55,
+   "location": 2,
+   "content": "一二部合球投篮",
+   "music": 0
+  },
+  {
+   "from": 123.12,
+   "to": 125.7,
+   "sid": 56,
+   "location": 2,
+   "content": "这里也为大家准备了不同的角度",
+   "music": 0
+  },
+  {
+   "from": 125.7,
+   "to": 128.82,
+   "sid": 57,
+   "location": 2,
+   "content": "希望大家可以发现一些细节",
+   "music": 0
+  },
+  {
+   "from": 135.47,
+   "to": 137.62,
+   "sid": 58,
+   "location": 2,
+   "content": "下面我们来看一下慢动作",
+   "music": 0
+  },
+  {
+   "from": 137.62,
+   "to": 139.96,
+   "sid": 59,
+   "location": 2,
+   "content": "与上一个hop垫步脚步不同",
+   "music": 0
+  },
+  {
+   "from": 139.96,
+   "to": 142.12,
+   "sid": 60,
+   "location": 2,
+   "content": "在球员分腿降低重心后",
+   "music": 0
+  },
+  {
+   "from": 142.12,
+   "to": 143.78,
+   "sid": 61,
+   "location": 2,
+   "content": "不需要脚步的重置",
+   "music": 0
+  },
+  {
+   "from": 143.78,
+   "to": 146.51,
+   "sid": 62,
+   "location": 2,
+   "content": "取而代之的是右脚的快速跟随",
+   "music": 0
+  },
+  {
+   "from": 146.51,
+   "to": 148.96,
+   "sid": 63,
+   "location": 2,
+   "content": "并结合合球快速出手",
+   "music": 0
+  },
+  {
+   "from": 152.42,
+   "to": 154,
+   "sid": 64,
+   "location": 2,
+   "content": "OK看完以上这几个片段呢",
+   "music": 0
+  },
+  {
+   "from": 154,
+   "to": 154.78,
+   "sid": 65,
+   "location": 2,
+   "content": "相信大家也发现了",
+   "music": 0
+  },
+  {
+   "from": 154.78,
+   "to": 157.44,
+   "sid": 66,
+   "location": 2,
+   "content": "我们这个第二个动作与第一个动作不同啊",
+   "music": 0
+  },
+  {
+   "from": 157.44,
+   "to": 159.78,
+   "sid": 67,
+   "location": 2,
+   "content": "由一个hop变成了我们一个一二步的跟随",
+   "music": 0
+  },
+  {
+   "from": 159.78,
+   "to": 161.43,
+   "sid": 68,
+   "location": 2,
+   "content": "左右脚都是一样的啊",
+   "music": 0
+  },
+  {
+   "from": 161.43,
+   "to": 163.14,
+   "sid": 69,
+   "location": 2,
+   "content": "那现在呢跟大家分享一个训练",
+   "music": 0
+  },
+  {
+   "from": 163.14,
+   "to": 165.6,
+   "sid": 70,
+   "location": 2,
+   "content": "然后帮大家提高一下我们一二步啊",
+   "music": 0
+  },
+  {
+   "from": 165.6,
+   "to": 167.6,
+   "sid": 71,
+   "location": 2,
+   "content": "运球当中一二部的合球的熟练度",
+   "music": 0
+  },
+  {
+   "from": 167.69,
+   "to": 170.03,
+   "sid": 72,
+   "location": 2,
+   "content": "与垫步合球训练相似",
+   "music": 0
+  },
+  {
+   "from": 170.03,
+   "to": 173.06,
+   "sid": 73,
+   "location": 2,
+   "content": "我们进行三次快速连续的胯下运球",
+   "music": 0
+  },
+  {
+   "from": 173.06,
+   "to": 174.1,
+   "sid": 74,
+   "location": 2,
+   "content": "一二步合球",
+   "music": 0
+  },
+  {
+   "from": 174.1,
+   "to": 176.53,
+   "sid": 75,
+   "location": 2,
+   "content": "并在最后一次合球后出手投篮",
+   "music": 0
+  },
+  {
+   "from": 176.53,
+   "to": 178.57,
+   "sid": 76,
+   "location": 2,
+   "content": "当然我们两侧手也都要训练",
+   "music": 0
+  },
+  {
+   "from": 178.57,
+   "to": 180.13,
+   "sid": 77,
+   "location": 2,
+   "content": "习也可以混合起来",
+   "music": 0
+  },
+  {
+   "from": 180.13,
+   "to": 181.51,
+   "sid": 78,
+   "location": 2,
+   "content": "让训练更具有挑战",
+   "music": 0
+  },
+  {
+   "from": 182.53,
+   "to": 185.16,
+   "sid": 79,
+   "location": 2,
+   "content": "这个就是跟大家分享这两种不同脚步的",
+   "music": 0
+  },
+  {
+   "from": 185.16,
+   "to": 188.22,
+   "sid": 80,
+   "location": 2,
+   "content": "而运球当中的合球训练以及脚步的一些细节",
+   "music": 0
+  },
+  {
+   "from": 188.22,
+   "to": 189.6,
+   "sid": 81,
+   "location": 2,
+   "content": "希望大家从中有所收获",
+   "music": 0
+  },
+  {
+   "from": 189.6,
+   "to": 190.62,
+   "sid": 82,
+   "location": 2,
+   "content": "需要注意的一点呢",
+   "music": 0
+  },
+  {
+   "from": 190.62,
+   "to": 192.6,
+   "sid": 83,
+   "location": 2,
+   "content": "就是今天跟大家分享的这两项训练呢",
+   "music": 0
+  },
+  {
+   "from": 192.6,
+   "to": 194.42,
+   "sid": 84,
+   "location": 2,
+   "content": "其实并不是那么的贴合实战",
+   "music": 0
+  },
+  {
+   "from": 194.42,
+   "to": 197.3,
+   "sid": 85,
+   "location": 2,
+   "content": "但是呢他对我们球员的基本功的塑造",
+   "music": 0
+  },
+  {
+   "from": 197.3,
+   "to": 198.26,
+   "sid": 86,
+   "location": 2,
+   "content": "非常非常的关键",
+   "music": 0
+  },
+  {
+   "from": 198.26,
+   "to": 200.52,
+   "sid": 87,
+   "location": 2,
+   "content": "特别是在我们运球当运球合球",
+   "music": 0
+  },
+  {
+   "from": 200.52,
+   "to": 201.42,
+   "sid": 88,
+   "location": 2,
+   "content": "我们的脚步",
+   "music": 0
+  },
+  {
+   "from": 201.42,
+   "to": 204.44,
+   "sid": 89,
+   "location": 2,
+   "content": "我们的节奏以及我们双手合球时的熟练度",
+   "music": 0
+  },
+  {
+   "from": 204.44,
+   "to": 205.79,
+   "sid": 90,
+   "location": 2,
+   "content": "非常非常的挑战",
+   "music": 0
+  },
+  {
+   "from": 205.79,
+   "to": 206.42,
+   "sid": 91,
+   "location": 2,
+   "content": "所以说",
+   "music": 0
+  },
+  {
+   "from": 206.42,
+   "to": 208.79,
+   "sid": 92,
+   "location": 2,
+   "content": "我希望大家在熟练掌握这两个训练之后呢",
+   "music": 0
+  },
+  {
+   "from": 208.79,
+   "to": 211.16,
+   "sid": 93,
+   "location": 2,
+   "content": "然后去呃去训练更多一些进阶的",
+   "music": 0
+  },
+  {
+   "from": 211.16,
+   "to": 213.4,
+   "sid": 94,
+   "location": 2,
+   "content": "包括贴合实战的一些脚步的训练",
+   "music": 0
+  },
+  {
+   "from": 213.4,
+   "to": 213.76,
+   "sid": 95,
+   "location": 2,
+   "content": "当然了",
+   "music": 0
+  },
+  {
+   "from": 213.76,
+   "to": 215.38,
+   "sid": 96,
+   "location": 2,
+   "content": "我也发现了一个非常有意思的事情",
+   "music": 0
+  },
+  {
+   "from": 215.38,
+   "to": 217.24,
+   "sid": 97,
+   "location": 2,
+   "content": "就是说在我们上期视频的评论区里",
+   "music": 0
+  },
+  {
+   "from": 217.24,
+   "to": 218.2,
+   "sid": 98,
+   "location": 2,
+   "content": "有一个小伙伴说",
+   "music": 0
+  },
+  {
+   "from": 218.2,
+   "to": 220.68,
+   "sid": 99,
+   "location": 2,
+   "content": "我们每一期这个2000个赞有点太少了",
+   "music": 0
+  },
+  {
+   "from": 220.68,
+   "to": 221.52,
+   "sid": 100,
+   "location": 2,
+   "content": "太可怜了",
+   "music": 0
+  },
+  {
+   "from": 221.52,
+   "to": 223.08,
+   "sid": 101,
+   "location": 2,
+   "content": "然后我也考虑了一下",
+   "music": 0
+  },
+  {
+   "from": 223.08,
+   "to": 225.06,
+   "sid": 102,
+   "location": 2,
+   "content": "这一期呢我就定为2100个赞",
+   "music": 0
+  },
+  {
+   "from": 225.06,
+   "to": 226.3,
+   "sid": 103,
+   "location": 2,
+   "content": "我们一起去挑战",
+   "music": 0
+  },
+  {
+   "from": 226.3,
+   "to": 228.22,
+   "sid": 104,
+   "location": 2,
+   "content": "如果说我们挑战成功之后呢",
+   "music": 0
+  },
+  {
+   "from": 228.22,
+   "to": 231.88,
+   "sid": 105,
+   "location": 2,
+   "content": "我会跟大家分享更多的我们更加贴合实战",
+   "music": 0
+  },
+  {
+   "from": 231.88,
+   "to": 233.5,
+   "sid": 106,
+   "location": 2,
+   "content": "更加这个进阶一些的",
+   "music": 0
+  },
+  {
+   "from": 233.5,
+   "to": 235.75,
+   "sid": 107,
+   "location": 2,
+   "content": "我们的运球合球的一些训练啊",
+   "music": 0
+  },
+  {
+   "from": 235.75,
+   "to": 238.84,
+   "sid": 108,
+   "location": 2,
+   "content": "当然有些条件就说大家一定要先去好好的训练",
+   "music": 0
+  },
+  {
+   "from": 238.84,
+   "to": 241.2,
+   "sid": 109,
+   "location": 2,
+   "content": "今天这训练因为他非常的关键呃",
+   "music": 0
+  },
+  {
+   "from": 241.2,
+   "to": 242.34,
+   "sid": 110,
+   "location": 2,
+   "content": "一个扎实的基本功",
+   "music": 0
+  },
+  {
+   "from": 242.34,
+   "to": 246.06,
+   "sid": 111,
+   "location": 2,
+   "content": "然后啊才是你就坚持进步的一个基础啊",
+   "music": 0
+  },
+  {
+   "from": 246.06,
+   "to": 246.96,
+   "sid": 112,
+   "location": 2,
+   "content": "OK那话不多说",
+   "music": 0
+  },
+  {
+   "from": 246.96,
+   "to": 248.7,
+   "sid": 113,
+   "location": 2,
+   "content": "这就是这期宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 248.7,
+   "to": 251.27,
+   "sid": 114,
+   "location": 2,
+   "content": "希望大家长点赞来支持我们隐藏宝石",
+   "music": 0
+  },
+  {
+   "from": 251.27,
+   "to": 253.82,
+   "sid": 115,
+   "location": 2,
+   "content": "也非常感谢一直给隐藏宝石充电的小伙伴们",
+   "music": 0
+  },
+  {
+   "from": 253.82,
+   "to": 254.99,
+   "sid": 116,
+   "location": 2,
+   "content": "真的是非常的感谢",
+   "music": 0
+  },
+  {
+   "from": 254.99,
+   "to": 256.1,
+   "sid": 117,
+   "location": 2,
+   "content": "那我们就下期再见",
+   "music": 0
+  },
+  {
+   "from": 256.1,
+   "to": 257.54,
+   "sid": 118,
+   "location": 2,
+   "content": "拜拜",
+   "music": 0
+  }
+ ]
+}

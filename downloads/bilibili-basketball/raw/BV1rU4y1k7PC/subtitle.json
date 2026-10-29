@@ -1,0 +1,68 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.4.0.4",
+ "body": [
+  {
+   "from": 0.94,
+   "to": 4.03,
+   "sid": 1,
+   "location": 2,
+   "content": "我用了大概一个月的时间逼了自己一把"
+  },
+  {
+   "from": 4.03,
+   "to": 6.37,
+   "sid": 2,
+   "location": 2,
+   "content": "每天重复着同样的训练"
+  },
+  {
+   "from": 6.37,
+   "to": 9.88,
+   "sid": 3,
+   "location": 2,
+   "content": "接受了无限次的事物来提升实战的自信"
+  },
+  {
+   "from": 9.94,
+   "to": 11.71,
+   "sid": 4,
+   "location": 2,
+   "content": "方法也很简单"
+  },
+  {
+   "from": 11.71,
+   "to": 15.94,
+   "sid": 5,
+   "location": 2,
+   "content": "随便找个障碍物基础运球过后把手探出去"
+  },
+  {
+   "from": 15.94,
+   "to": 19.94,
+   "sid": 6,
+   "location": 2,
+   "content": "这个方法有效提升了控球的位置感以及球速"
+  },
+  {
+   "from": 20.02,
+   "to": 23.17,
+   "sid": 7,
+   "location": 2,
+   "content": "大概三天的时间就会有明显的变化"
+  },
+  {
+   "from": 23.17,
+   "to": 25.4,
+   "sid": 8,
+   "location": 2,
+   "content": "不信就去拿球试试吧"
+  }
+ ]
+}

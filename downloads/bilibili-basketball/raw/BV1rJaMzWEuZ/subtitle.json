@@ -1,0 +1,2412 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "eng-1.2.0-Index-johns-pen-lite",
+ "body": [
+  {
+   "content": "我们将讲解如何在游戏中改变方向",
+   "from": 7.12,
+   "location": 2,
+   "music": 0,
+   "sid": 1,
+   "to": 9.98
+  },
+  {
+   "content": "我的目标是冲到篮筐前沿",
+   "from": 9.98,
+   "location": 2,
+   "music": 0,
+   "sid": 2,
+   "to": 11.88
+  },
+  {
+   "content": "防守者会试图强行过掉并疯狂对抗",
+   "from": 11.88,
+   "location": 2,
+   "music": 0,
+   "sid": 3,
+   "to": 15.18
+  },
+  {
+   "content": "不要让对手形成直线下攻路线",
+   "from": 15.18,
+   "location": 2,
+   "music": 0,
+   "sid": 4,
+   "to": 17.23
+  },
+  {
+   "content": "当这种情况发生时",
+   "from": 17.23,
+   "location": 2,
+   "music": 0,
+   "sid": 5,
+   "to": 18.47
+  },
+  {
+   "content": "这是我改变方向突破防守的绝佳机会",
+   "from": 18.47,
+   "location": 2,
+   "music": 0,
+   "sid": 6,
+   "to": 22.07
+  },
+  {
+   "content": "我们还可以先掌握这些动作和细节再深入讲解技巧",
+   "from": 22.07,
+   "location": 2,
+   "music": 0,
+   "sid": 7,
+   "to": 27.38
+  },
+  {
+   "content": "这三个要素最为关键",
+   "from": 27.38,
+   "location": 2,
+   "music": 0,
+   "sid": 8,
+   "to": 29.32
+  },
+  {
+   "content": "首先是",
+   "from": 29.32,
+   "location": 2,
+   "music": 0,
+   "sid": 9,
+   "to": 30.22
+  },
+  {
+   "content": "我们必须具备假动作突破的能力",
+   "from": 30.22,
+   "location": 2,
+   "music": 0,
+   "sid": 10,
+   "to": 32.439
+  },
+  {
+   "content": "如果你让防守者",
+   "from": 32.439,
+   "location": 2,
+   "music": 0,
+   "sid": 11,
+   "to": 33.699
+  },
+  {
+   "content": "误以为你在做未实施的动作",
+   "from": 33.699,
+   "location": 2,
+   "music": 0,
+   "sid": 12,
+   "to": 35.78
+  },
+  {
+   "content": "这样",
+   "from": 35.78,
+   "location": 2,
+   "music": 0,
+   "sid": 13,
+   "to": 36.1
+  },
+  {
+   "content": "就能占据有利位置操控防守者并改变方向",
+   "from": 36.1,
+   "location": 2,
+   "music": 0,
+   "sid": 14,
+   "to": 41.95
+  },
+  {
+   "content": "第二点需要良好的持球脚步时机",
+   "from": 41.95,
+   "location": 2,
+   "music": 0,
+   "sid": 15,
+   "to": 44.49
+  },
+  {
+   "content": "如果我快速启动又能瞬间急停",
+   "from": 44.49,
+   "location": 2,
+   "music": 0,
+   "sid": 16,
+   "to": 47.15
+  },
+  {
+   "content": "这能为我创造移动空间",
+   "from": 47.15,
+   "location": 2,
+   "music": 0,
+   "sid": 17,
+   "to": 50.03
+  },
+  {
+   "content": "第三点需要良好的护球能力",
+   "from": 50.03,
+   "location": 2,
+   "music": 0,
+   "sid": 18,
+   "to": 52.65
+  },
+  {
+   "content": "即使做出精彩动作和脚步",
+   "from": 52.65,
+   "location": 2,
+   "music": 0,
+   "sid": 19,
+   "to": 54.95
+  },
+  {
+   "content": "但如果球暴露在外",
+   "from": 54.95,
+   "location": 2,
+   "music": 0,
+   "sid": 20,
+   "to": 57.08
+  },
+  {
+   "content": "位于脚前方位置",
+   "from": 57.08,
+   "location": 2,
+   "music": 0,
+   "sid": 21,
+   "to": 58.22
+  },
+  {
+   "content": "防守者就能触碰到球",
+   "from": 58.22,
+   "location": 2,
+   "music": 0,
+   "sid": 22,
+   "to": 59.9
+  },
+  {
+   "content": "然后抢断走掉",
+   "from": 59.9,
+   "location": 2,
+   "music": 0,
+   "sid": 23,
+   "to": 62.26
+  },
+  {
+   "content": "首先我必须能完成假动作突破",
+   "from": 64.22,
+   "location": 2,
+   "music": 0,
+   "sid": 24,
+   "to": 66.44
+  },
+  {
+   "content": "当我突破到这里",
+   "from": 66.44,
+   "location": 2,
+   "music": 0,
+   "sid": 25,
+   "to": 68.36
+  },
+  {
+   "content": "需要快速加速",
+   "from": 68.36,
+   "location": 2,
+   "music": 0,
+   "sid": 26,
+   "to": 70.43
+  },
+  {
+   "content": "因为要冲击篮筐",
+   "from": 70.43,
+   "location": 2,
+   "music": 0,
+   "sid": 27,
+   "to": 71.95
+  },
+  {
+   "content": "必须全力冲出去",
+   "from": 71.95,
+   "location": 2,
+   "music": 0,
+   "sid": 28,
+   "to": 72.75
+  },
+  {
+   "content": "并显得自己正在下坡推进",
+   "from": 72.75,
+   "location": 2,
+   "music": 0,
+   "sid": 29,
+   "to": 75.19
+  },
+  {
+   "content": "这就是我的首要目标",
+   "from": 75.19,
+   "location": 2,
+   "music": 0,
+   "sid": 30,
+   "to": 76.21
+  },
+  {
+   "content": "我们必须加速",
+   "from": 76.21,
+   "location": 2,
+   "music": 0,
+   "sid": 31,
+   "to": 77.3
+  },
+  {
+   "content": "第二点",
+   "from": 77.3,
+   "location": 2,
+   "music": 0,
+   "sid": 32,
+   "to": 78.22
+  },
+  {
+   "content": "身体要对准篮筐方向",
+   "from": 78.22,
+   "location": 2,
+   "music": 0,
+   "sid": 33,
+   "to": 80.76
+  },
+  {
+   "content": "当我加速时",
+   "from": 80.76,
+   "location": 2,
+   "music": 0,
+   "sid": 34,
+   "to": 81.86
+  },
+  {
+   "content": "但转向这个方向",
+   "from": 81.86,
+   "location": 2,
+   "music": 0,
+   "sid": 35,
+   "to": 83.06
+  },
+  {
+   "content": "即使改变方向",
+   "from": 83.06,
+   "location": 2,
+   "music": 0,
+   "sid": 36,
+   "to": 85.18
+  },
+  {
+   "content": "他就在那里",
+   "from": 85.18,
+   "location": 2,
+   "music": 0,
+   "sid": 37,
+   "to": 85.94
+  },
+  {
+   "content": "他静止不动",
+   "from": 85.94,
+   "location": 2,
+   "music": 0,
+   "sid": 38,
+   "to": 86.62
+  },
+  {
+   "content": "如果我的髋部远离篮筐",
+   "from": 86.62,
+   "location": 2,
+   "music": 0,
+   "sid": 39,
+   "to": 89.65
+  },
+  {
+   "content": "就无法完成上篮",
+   "from": 89.65,
+   "location": 2,
+   "music": 0,
+   "sid": 40,
+   "to": 92.03
+  },
+  {
+   "content": "当我启动时",
+   "from": 92.03,
+   "location": 2,
+   "music": 0,
+   "sid": 41,
+   "to": 93.17
+  },
+  {
+   "content": "开始加速",
+   "from": 93.17,
+   "location": 2,
+   "music": 0,
+   "sid": 42,
+   "to": 93.89
+  },
+  {
+   "content": "髋部向前",
+   "from": 93.89,
+   "location": 2,
+   "music": 0,
+   "sid": 43,
+   "to": 94.73
+  },
+  {
+   "content": "但肩膀保持高位",
+   "from": 94.73,
+   "location": 2,
+   "music": 0,
+   "sid": 44,
+   "to": 96.38
+  },
+  {
+   "content": "无法突破阻力",
+   "from": 96.38,
+   "location": 2,
+   "music": 0,
+   "sid": 45,
+   "to": 98.28
+  },
+  {
+   "content": "无法滑行过人",
+   "from": 98.28,
+   "location": 2,
+   "music": 0,
+   "sid": 46,
+   "to": 100.64
+  },
+  {
+   "content": "真正突破时",
+   "from": 100.64,
+   "location": 2,
+   "music": 0,
+   "sid": 47,
+   "to": 102.22
+  },
+  {
+   "content": "要先贴近防守者",
+   "from": 102.22,
+   "location": 2,
+   "music": 0,
+   "sid": 48,
+   "to": 103.46
+  },
+  {
+   "content": "在他们靠近前",
+   "from": 103.46,
+   "location": 2,
+   "music": 0,
+   "sid": 49,
+   "to": 104.47
+  },
+  {
+   "content": "突破阻力的最佳方式",
+   "from": 104.47,
+   "location": 2,
+   "music": 0,
+   "sid": 50,
+   "to": 106.83
+  },
+  {
+   "content": "实际上要突破到篮下需要低头护肩",
+   "from": 106.83,
+   "location": 2,
+   "music": 0,
+   "sid": 51,
+   "to": 109.54
+  },
+  {
+   "content": "所以我开始加速",
+   "from": 109.54,
+   "location": 2,
+   "music": 0,
+   "sid": 52,
+   "to": 110.6
+  },
+  {
+   "content": "我的加速度",
+   "from": 110.6,
+   "location": 2,
+   "music": 0,
+   "sid": 53,
+   "to": 111.24
+  },
+  {
+   "content": "我的髋部向前",
+   "from": 111.24,
+   "location": 2,
+   "music": 0,
+   "sid": 54,
+   "to": 112.02
+  },
+  {
+   "content": "然后肩膀要往下往下往下",
+   "from": 112.02,
+   "location": 2,
+   "music": 0,
+   "sid": 55,
+   "to": 113.54
+  },
+  {
+   "content": "好的",
+   "from": 113.54,
+   "location": 2,
+   "music": 0,
+   "sid": 56,
+   "to": 113.76
+  },
+  {
+   "content": "嗯",
+   "from": 113.76,
+   "location": 2,
+   "music": 0,
+   "sid": 57,
+   "to": 113.92
+  },
+  {
+   "content": "然后就是这样",
+   "from": 113.92,
+   "location": 2,
+   "music": 0,
+   "sid": 58,
+   "to": 114.79
+  },
+  {
+   "content": "然后我可以停止变向",
+   "from": 114.79,
+   "location": 2,
+   "music": 0,
+   "sid": 59,
+   "to": 116.65
+  },
+  {
+   "content": "这就是我们需要的三点",
+   "from": 116.65,
+   "location": 2,
+   "music": 0,
+   "sid": 60,
+   "to": 118.41
+  },
+  {
+   "content": "关于突破进攻的应用",
+   "from": 118.41,
+   "location": 2,
+   "music": 0,
+   "sid": 61,
+   "to": 120.89
+  },
+  {
+   "content": "接下来是球与脚的时机配合",
+   "from": 123.76,
+   "location": 2,
+   "music": 0,
+   "sid": 62,
+   "to": 125.68
+  },
+  {
+   "content": "如果我从中路突破",
+   "from": 125.68,
+   "location": 2,
+   "music": 0,
+   "sid": 63,
+   "to": 126.94
+  },
+  {
+   "content": "他过度滑步",
+   "from": 126.94,
+   "location": 2,
+   "music": 0,
+   "sid": 64,
+   "to": 128.36
+  },
+  {
+   "content": "我可以多次通过减速和停止",
+   "from": 128.36,
+   "location": 2,
+   "music": 0,
+   "sid": 65,
+   "to": 132.08
+  },
+  {
+   "content": "给他保持过度滑步的时间",
+   "from": 132.08,
+   "location": 2,
+   "music": 0,
+   "sid": 66,
+   "to": 134.86
+  },
+  {
+   "content": "这为我创造了变向空间",
+   "from": 134.86,
+   "location": 2,
+   "music": 0,
+   "sid": 67,
+   "to": 137.66
+  },
+  {
+   "content": "如果我突破却无法停下",
+   "from": 137.66,
+   "location": 2,
+   "music": 0,
+   "sid": 68,
+   "to": 140.5
+  },
+  {
+   "content": "这就是唯一坏处",
+   "from": 140.5,
+   "location": 2,
+   "music": 0,
+   "sid": 69,
+   "to": 142.06
+  },
+  {
+   "content": "我这样移动",
+   "from": 142.06,
+   "location": 2,
+   "music": 0,
+   "sid": 70,
+   "to": 142.82
+  },
+  {
+   "content": "我没有真正停下",
+   "from": 142.82,
+   "location": 2,
+   "music": 0,
+   "sid": 71,
+   "to": 143.9
+  },
+  {
+   "content": "你注意到空间更小",
+   "from": 143.9,
+   "location": 2,
+   "music": 0,
+   "sid": 72,
+   "to": 146.26
+  },
+  {
+   "content": "我失去平衡且被他压制",
+   "from": 146.26,
+   "location": 2,
+   "music": 0,
+   "sid": 73,
+   "to": 149.44
+  },
+  {
+   "content": "如果我能到达那个位置",
+   "from": 149.44,
+   "location": 2,
+   "music": 0,
+   "sid": 74,
+   "to": 150.42
+  },
+  {
+   "content": "我可以加速和减速",
+   "from": 150.42,
+   "location": 2,
+   "music": 0,
+   "sid": 75,
+   "to": 152.24
+  },
+  {
+   "content": "这给我更多空间",
+   "from": 152.24,
+   "location": 2,
+   "music": 0,
+   "sid": 76,
+   "to": 153.91
+  },
+  {
+   "content": "更好的平衡",
+   "from": 153.91,
+   "location": 2,
+   "music": 0,
+   "sid": 77,
+   "to": 155.11
+  },
+  {
+   "content": "更灵活的运球绕过防守者",
+   "from": 155.11,
+   "location": 2,
+   "music": 0,
+   "sid": 78,
+   "to": 158.13
+  },
+  {
+   "content": "当我决定变向时",
+   "from": 158.13,
+   "location": 2,
+   "music": 0,
+   "sid": 79,
+   "to": 160.39
+  },
+  {
+   "content": "接下来必须保护好球",
+   "from": 162.18,
+   "location": 2,
+   "music": 0,
+   "sid": 80,
+   "to": 164.96
+  },
+  {
+   "content": "第一个例子",
+   "from": 164.96,
+   "location": 2,
+   "music": 0,
+   "sid": 81,
+   "to": 166.44
+  },
+  {
+   "content": "我说突破却被封堵",
+   "from": 166.44,
+   "location": 2,
+   "music": 0,
+   "sid": 82,
+   "to": 168.02
+  },
+  {
+   "content": "并停止球与脚的时机",
+   "from": 168.02,
+   "location": 2,
+   "music": 0,
+   "sid": 83,
+   "to": 170.02
+  },
+  {
+   "content": "我在做假突破",
+   "from": 170.02,
+   "location": 2,
+   "music": 0,
+   "sid": 84,
+   "to": 171.03
+  },
+  {
+   "content": "但当我用陈伟麒运球",
+   "from": 171.03,
+   "location": 2,
+   "music": 0,
+   "sid": 85,
+   "to": 173.11
+  },
+  {
+   "content": "球在前方",
+   "from": 173.11,
+   "location": 2,
+   "music": 0,
+   "sid": 86,
+   "to": 174.149
+  },
+  {
+   "content": "现在可以看到他的手紧贴球",
+   "from": 174.149,
+   "location": 2,
+   "music": 0,
+   "sid": 87,
+   "to": 177.589
+  },
+  {
+   "content": "另外如果我停球并拉回",
+   "from": 177.589,
+   "location": 2,
+   "music": 0,
+   "sid": 88,
+   "to": 180.51
+  },
+  {
+   "content": "更容易丢球",
+   "from": 180.51,
+   "location": 2,
+   "music": 0,
+   "sid": 89,
+   "to": 182.91
+  },
+  {
+   "content": "不仅能更好保护球",
+   "from": 182.91,
+   "location": 2,
+   "music": 0,
+   "sid": 90,
+   "to": 185.23
+  },
+  {
+   "content": "如果我能从这里带球后撤",
+   "from": 185.23,
+   "location": 2,
+   "music": 0,
+   "sid": 91,
+   "to": 188.61
+  },
+  {
+   "content": "获得更多手部空间",
+   "from": 188.61,
+   "location": 2,
+   "music": 0,
+   "sid": 92,
+   "to": 190.05
+  },
+  {
+   "content": "B处实际上有更多腿部空间",
+   "from": 190.05,
+   "location": 2,
+   "music": 0,
+   "sid": 93,
+   "to": 192.86
+  },
+  {
+   "content": "然后第三个关键细节是球回拉保护",
+   "from": 192.86,
+   "location": 2,
+   "music": 0,
+   "sid": 94,
+   "to": 197.78
+  },
+  {
+   "content": "还能让肩膀转向",
+   "from": 197.78,
+   "location": 2,
+   "music": 0,
+   "sid": 95,
+   "to": 201.55
+  },
+  {
+   "content": "当我起动时有更好下坡角度",
+   "from": 201.55,
+   "location": 2,
+   "music": 0,
+   "sid": 96,
+   "to": 203.79
+  },
+  {
+   "content": "这就是第一步做双腿运球",
+   "from": 203.79,
+   "location": 2,
+   "music": 0,
+   "sid": 97,
+   "to": 207.31
+  },
+  {
+   "content": "保持球后方保护",
+   "from": 207.31,
+   "location": 2,
+   "music": 0,
+   "sid": 98,
+   "to": 208.85
+  },
+  {
+   "content": "另一个适用场景",
+   "from": 208.85,
+   "location": 2,
+   "music": 0,
+   "sid": 99,
+   "to": 210.73
+  },
+  {
+   "content": "我说向左突破",
+   "from": 210.73,
+   "location": 2,
+   "music": 0,
+   "sid": 100,
+   "to": 212.03
+  },
+  {
+   "content": "我用同侧脚观察球的位置",
+   "from": 212.03,
+   "location": 2,
+   "music": 0,
+   "sid": 101,
+   "to": 215.29
+  },
+  {
+   "content": "他就在那里准备接球",
+   "from": 215.29,
+   "location": 2,
+   "music": 0,
+   "sid": 102,
+   "to": 216.65
+  },
+  {
+   "content": "如果我们能向后移动",
+   "from": 216.65,
+   "location": 2,
+   "music": 0,
+   "sid": 103,
+   "to": 217.97
+  },
+  {
+   "content": "我用同侧脚离开",
+   "from": 217.97,
+   "location": 2,
+   "music": 0,
+   "sid": 104,
+   "to": 219.91
+  },
+  {
+   "content": "注意球几乎被我的髋部护住",
+   "from": 219.91,
+   "location": 2,
+   "music": 0,
+   "sid": 105,
+   "to": 222.44
+  },
+  {
+   "content": "看看我与他之间的空间",
+   "from": 222.44,
+   "location": 2,
+   "music": 0,
+   "sid": 106,
+   "to": 224.84
+  },
+  {
+   "content": "现在看那球",
+   "from": 224.84,
+   "location": 2,
+   "music": 0,
+   "sid": 107,
+   "to": 226.17
+  },
+  {
+   "content": "如果我停下做同样的动作",
+   "from": 226.17,
+   "location": 2,
+   "music": 0,
+   "sid": 108,
+   "to": 228.11
+  },
+  {
+   "content": "球被回拉并保护好了",
+   "from": 228.11,
+   "location": 2,
+   "music": 0,
+   "sid": 109,
+   "to": 229.77
+  },
+  {
+   "content": "他伸手够球很积极",
+   "from": 229.77,
+   "location": 2,
+   "music": 0,
+   "sid": 110,
+   "to": 231.31
+  },
+  {
+   "content": "现在我有了完美变向机会",
+   "from": 231.31,
+   "location": 2,
+   "music": 0,
+   "sid": 111,
+   "to": 234.49
+  },
+  {
+   "content": "永远不要让球在前方",
+   "from": 234.49,
+   "location": 2,
+   "music": 0,
+   "sid": 112,
+   "to": 236.35
+  },
+  {
+   "content": "始终让球在身后",
+   "from": 236.35,
+   "location": 2,
+   "music": 0,
+   "sid": 113,
+   "to": 238.73
+  },
+  {
+   "content": "我们的第一选择要有假动作",
+   "from": 241.82,
+   "location": 2,
+   "music": 0,
+   "sid": 114,
+   "to": 243.66
+  },
+  {
+   "content": "这是一个交叉步",
+   "from": 243.66,
+   "location": 2,
+   "music": 0,
+   "sid": 115,
+   "to": 244.81
+  },
+  {
+   "content": "交叉步的优势首先是",
+   "from": 244.81,
+   "location": 2,
+   "music": 0,
+   "sid": 116,
+   "to": 246.81
+  },
+  {
+   "content": "这是你运球时最常用的一侧脚",
+   "from": 246.81,
+   "location": 2,
+   "music": 0,
+   "sid": 117,
+   "to": 250.39
+  },
+  {
+   "content": "想想看",
+   "from": 250.39,
+   "location": 2,
+   "music": 0,
+   "sid": 118,
+   "to": 251.11
+  },
+  {
+   "content": "如果你这样防守我",
+   "from": 251.11,
+   "location": 2,
+   "music": 0,
+   "sid": 119,
+   "to": 252.21
+  },
+  {
+   "content": "我朝这个方向突破",
+   "from": 252.21,
+   "location": 2,
+   "music": 0,
+   "sid": 120,
+   "to": 253.53
+  },
+  {
+   "content": "我不会突然冲过去像这样",
+   "from": 253.53,
+   "location": 2,
+   "music": 0,
+   "sid": 121,
+   "to": 255.39
+  },
+  {
+   "content": "我失去平衡了",
+   "from": 255.39,
+   "location": 2,
+   "music": 0,
+   "sid": 122,
+   "to": 256.29
+  },
+  {
+   "content": "尤其是在",
+   "from": 256.29,
+   "location": 2,
+   "music": 0,
+   "sid": 123,
+   "to": 257.33
+  },
+  {
+   "content": "比如第一次运球",
+   "from": 257.33,
+   "location": 2,
+   "music": 0,
+   "sid": 124,
+   "to": 258.47
+  },
+  {
+   "content": "当我启动时",
+   "from": 258.47,
+   "location": 2,
+   "music": 0,
+   "sid": 125,
+   "to": 259.51
+  },
+  {
+   "content": "球和内脚的时机要一致",
+   "from": 259.51,
+   "location": 2,
+   "music": 0,
+   "sid": 126,
+   "to": 262.8
+  },
+  {
+   "content": "这就是我们说的交叉步",
+   "from": 262.8,
+   "location": 2,
+   "music": 0,
+   "sid": 127,
+   "to": 264.64
+  },
+  {
+   "content": "为什么是交叉步",
+   "from": 264.64,
+   "location": 2,
+   "music": 0,
+   "sid": 128,
+   "to": 265.9
+  },
+  {
+   "content": "这只脚再次交叉跨步",
+   "from": 265.9,
+   "location": 2,
+   "music": 0,
+   "sid": 129,
+   "to": 269.13
+  },
+  {
+   "content": "就像之前讲过的",
+   "from": 269.13,
+   "location": 2,
+   "music": 0,
+   "sid": 130,
+   "to": 270.19
+  },
+  {
+   "content": "注意球和脚同时触地",
+   "from": 270.19,
+   "location": 2,
+   "music": 0,
+   "sid": 131,
+   "to": 272.81
+  },
+  {
+   "content": "我们可以覆盖很多动作",
+   "from": 272.81,
+   "location": 2,
+   "music": 0,
+   "sid": 132,
+   "to": 274.65
+  },
+  {
+   "content": "先讲穿过双腿的动作",
+   "from": 274.65,
+   "location": 2,
+   "music": 0,
+   "sid": 133,
+   "to": 276.51
+  },
+  {
+   "content": "假设我这样试探",
+   "from": 276.51,
+   "location": 2,
+   "music": 0,
+   "sid": 134,
+   "to": 277.99
+  },
+  {
+   "content": "他过度防守并截断我",
+   "from": 277.99,
+   "location": 2,
+   "music": 0,
+   "sid": 135,
+   "to": 279.49
+  },
+  {
+   "content": "第一步",
+   "from": 279.49,
+   "location": 2,
+   "music": 0,
+   "sid": 136,
+   "to": 279.95
+  },
+  {
+   "content": "我同时交叉运球和跨步",
+   "from": 279.95,
+   "location": 2,
+   "music": 0,
+   "sid": 137,
+   "to": 282.45
+  },
+  {
+   "content": "第二步变向时",
+   "from": 282.45,
+   "location": 2,
+   "music": 0,
+   "sid": 138,
+   "to": 284.89
+  },
+  {
+   "content": "后脚向外迈出",
+   "from": 284.89,
+   "location": 2,
+   "music": 0,
+   "sid": 139,
+   "to": 286.71
+  },
+  {
+   "content": "这样我的髋部才能转向",
+   "from": 286.71,
+   "location": 2,
+   "music": 0,
+   "sid": 140,
+   "to": 288.77
+  },
+  {
+   "content": "并转向地板另一侧",
+   "from": 288.77,
+   "location": 2,
+   "music": 0,
+   "sid": 141,
+   "to": 291.2
+  },
+  {
+   "content": "第三个关键点是",
+   "from": 291.2,
+   "location": 2,
+   "music": 0,
+   "sid": 142,
+   "to": 292.52
+  },
+  {
+   "content": "变向时转动髋部",
+   "from": 292.52,
+   "location": 2,
+   "music": 0,
+   "sid": 143,
+   "to": 294.38
+  },
+  {
+   "content": "当我启动时",
+   "from": 294.38,
+   "location": 2,
+   "music": 0,
+   "sid": 144,
+   "to": 295.34
+  },
+  {
+   "content": "猜我接下来做什么",
+   "from": 295.34,
+   "location": 2,
+   "music": 0,
+   "sid": 145,
+   "to": 296.26
+  },
+  {
+   "content": "再次交叉步",
+   "from": 296.26,
+   "location": 2,
+   "music": 0,
+   "sid": 146,
+   "to": 297.36
+  },
+  {
+   "content": "然后继续推进",
+   "from": 297.36,
+   "location": 2,
+   "music": 0,
+   "sid": 147,
+   "to": 298.6
+  },
+  {
+   "content": "然后继续前进保持变向能力",
+   "from": 298.6,
+   "location": 2,
+   "music": 0,
+   "sid": 148,
+   "to": 301.4
+  },
+  {
+   "content": "这是我们首先要掌握的动作",
+   "from": 301.4,
+   "location": 2,
+   "music": 0,
+   "sid": 149,
+   "to": 303.88
+  },
+  {
+   "content": "你又来防守我了",
+   "from": 303.88,
+   "location": 2,
+   "music": 0,
+   "sid": 150,
+   "to": 304.9
+  },
+  {
+   "content": "那是在双腿之间",
+   "from": 304.9,
+   "location": 2,
+   "music": 0,
+   "sid": 151,
+   "to": 305.909
+  },
+  {
+   "content": "如果我想背后运球",
+   "from": 305.909,
+   "location": 2,
+   "music": 0,
+   "sid": 152,
+   "to": 307.429
+  },
+  {
+   "content": "这一步与第一步交叉步非常相似",
+   "from": 307.429,
+   "location": 2,
+   "music": 0,
+   "sid": 153,
+   "to": 309.969
+  },
+  {
+   "content": "第二步",
+   "from": 309.969,
+   "location": 2,
+   "music": 0,
+   "sid": 154,
+   "to": 310.749
+  },
+  {
+   "content": "我跨步而出",
+   "from": 310.749,
+   "location": 2,
+   "music": 0,
+   "sid": 155,
+   "to": 311.9
+  },
+  {
+   "content": "第三步",
+   "from": 311.9,
+   "location": 2,
+   "music": 0,
+   "sid": 156,
+   "to": 312.9
+  },
+  {
+   "content": "我又一次交叉上步",
+   "from": 312.9,
+   "location": 2,
+   "music": 0,
+   "sid": 157,
+   "to": 314.16
+  },
+  {
+   "content": "然后我开始起动",
+   "from": 314.16,
+   "location": 2,
+   "music": 0,
+   "sid": 158,
+   "to": 315.36
+  },
+  {
+   "content": "交叉步的另一个优点是当我需要从",
+   "from": 315.36,
+   "location": 2,
+   "music": 0,
+   "sid": 159,
+   "to": 318.79
+  },
+  {
+   "content": "基本是加速后减速",
+   "from": 318.79,
+   "location": 2,
+   "music": 0,
+   "sid": 160,
+   "to": 321.039
+  },
+  {
+   "content": "比如说这件衣服像这样",
+   "from": 321.039,
+   "location": 2,
+   "music": 0,
+   "sid": 161,
+   "to": 322.039
+  },
+  {
+   "content": "我知道我们正在讲解变向",
+   "from": 322.039,
+   "location": 2,
+   "music": 0,
+   "sid": 162,
+   "to": 323.759
+  },
+  {
+   "content": "但你也可以从交叉步后停止并离开",
+   "from": 323.759,
+   "location": 2,
+   "music": 0,
+   "sid": 163,
+   "to": 327.14
+  },
+  {
+   "content": "可以交叉步后停止并投篮",
+   "from": 327.14,
+   "location": 2,
+   "music": 0,
+   "sid": 164,
+   "to": 329.52
+  },
+  {
+   "content": "我们此时讲解这一点是因为从同一停顿点",
+   "from": 329.52,
+   "location": 2,
+   "music": 0,
+   "sid": 165,
+   "to": 334.02
+  },
+  {
+   "content": "你拥有的选择越多",
+   "from": 334.02,
+   "location": 2,
+   "music": 0,
+   "sid": 166,
+   "to": 336.9
+  },
+  {
+   "content": "实际上能更自由地改变方向",
+   "from": 336.9,
+   "location": 2,
+   "music": 0,
+   "sid": 167,
+   "to": 338.84
+  },
+  {
+   "content": "最后一个动作是我说做一个交叉步",
+   "from": 338.84,
+   "location": 2,
+   "music": 0,
+   "sid": 168,
+   "to": 341.429
+  },
+  {
+   "content": "这仅在我有空间时",
+   "from": 341.429,
+   "location": 2,
+   "music": 0,
+   "sid": 169,
+   "to": 343.149
+  },
+  {
+   "content": "比如你对我严防死守",
+   "from": 343.149,
+   "location": 2,
+   "music": 0,
+   "sid": 170,
+   "to": 345.189
+  },
+  {
+   "content": "我做交叉步并用交叉变向改变你的方向",
+   "from": 345.189,
+   "location": 2,
+   "music": 0,
+   "sid": 171,
+   "to": 348.64
+  },
+  {
+   "content": "这是改变方向最危险的方式",
+   "from": 348.64,
+   "location": 2,
+   "music": 0,
+   "sid": 172,
+   "to": 351.04
+  },
+  {
+   "content": "尤其是当有人紧贴防守时",
+   "from": 351.04,
+   "location": 2,
+   "music": 0,
+   "sid": 173,
+   "to": 353.3
+  },
+  {
+   "content": "所以做交叉步并不错误",
+   "from": 353.3,
+   "location": 2,
+   "music": 0,
+   "sid": 174,
+   "to": 355.15
+  },
+  {
+   "content": "但如果你想做交叉变向",
+   "from": 355.15,
+   "location": 2,
+   "music": 0,
+   "sid": 175,
+   "to": 356.93
+  },
+  {
+   "content": "你需要空间",
+   "from": 356.93,
+   "location": 2,
+   "music": 0,
+   "sid": 176,
+   "to": 358.01
+  },
+  {
+   "content": "所以做同样的动作",
+   "from": 358.01,
+   "location": 2,
+   "music": 0,
+   "sid": 177,
+   "to": 359.11
+  },
+  {
+   "content": "但现在当我交叉时",
+   "from": 359.11,
+   "location": 2,
+   "music": 0,
+   "sid": 178,
+   "to": 360.23
+  },
+  {
+   "content": "并停止减速",
+   "from": 360.23,
+   "location": 2,
+   "music": 0,
+   "sid": 179,
+   "to": 362.03
+  },
+  {
+   "content": "你会从我身上获得空间",
+   "from": 362.03,
+   "location": 2,
+   "music": 0,
+   "sid": 180,
+   "to": 363.409
+  },
+  {
+   "content": "我也可以接着做交叉变向",
+   "from": 363.409,
+   "location": 2,
+   "music": 0,
+   "sid": 181,
+   "to": 365.329
+  },
+  {
+   "content": "关键在于",
+   "from": 365.329,
+   "location": 2,
+   "music": 0,
+   "sid": 182,
+   "to": 366.289
+  },
+  {
+   "content": "我交叉了球",
+   "from": 366.289,
+   "location": 2,
+   "music": 0,
+   "sid": 183,
+   "to": 367.37
+  },
+  {
+   "content": "当我这样跨步时",
+   "from": 367.37,
+   "location": 2,
+   "music": 0,
+   "sid": 184,
+   "to": 368.89
+  },
+  {
+   "content": "我又一次交叉上步",
+   "from": 368.89,
+   "location": 2,
+   "music": 0,
+   "sid": 185,
+   "to": 370.21
+  },
+  {
+   "content": "然后我加速突破",
+   "from": 370.21,
+   "location": 2,
+   "music": 0,
+   "sid": 186,
+   "to": 371.99
+  },
+  {
+   "content": "我们需要的下一个选项是同侧脚停步",
+   "from": 371.99,
+   "location": 2,
+   "music": 0,
+   "sid": 187,
+   "to": 374.51
+  },
+  {
+   "content": "想想正常运球的节奏",
+   "from": 374.51,
+   "location": 2,
+   "music": 0,
+   "sid": 188,
+   "to": 376.91
+  },
+  {
+   "content": "比如我正朝这边突破",
+   "from": 376.91,
+   "location": 2,
+   "music": 0,
+   "sid": 189,
+   "to": 378.09
+  },
+  {
+   "content": "正常节奏是球和内侧脚交替跨步",
+   "from": 378.09,
+   "location": 2,
+   "music": 0,
+   "sid": 190,
+   "to": 382.4
+  },
+  {
+   "content": "我跨步接球再内侧脚继续前进",
+   "from": 382.4,
+   "location": 2,
+   "music": 0,
+   "sid": 191,
+   "to": 385.01
+  },
+  {
+   "content": "有时我想打乱他的节奏",
+   "from": 385.01,
+   "location": 2,
+   "music": 0,
+   "sid": 192,
+   "to": 389.31
+  },
+  {
+   "content": "所以不要总是",
+   "from": 389.31,
+   "location": 2,
+   "music": 0,
+   "sid": 193,
+   "to": 390.59
+  },
+  {
+   "content": "基本是交叉刺探后停步",
+   "from": 390.59,
+   "location": 2,
+   "music": 0,
+   "sid": 194,
+   "to": 392.59
+  },
+  {
+   "content": "有时我可能交叉步后同侧脚停",
+   "from": 392.59,
+   "location": 2,
+   "music": 0,
+   "sid": 195,
+   "to": 395.93
+  },
+  {
+   "content": "他无法预判时机",
+   "from": 395.93,
+   "location": 2,
+   "music": 0,
+   "sid": 196,
+   "to": 397.57
+  },
+  {
+   "content": "这是扰乱对手节奏的好方法",
+   "from": 397.57,
+   "location": 2,
+   "music": 0,
+   "sid": 197,
+   "to": 401.03
+  },
+  {
+   "content": "我们称之为同侧脚停",
+   "from": 401.03,
+   "location": 2,
+   "music": 0,
+   "sid": 198,
+   "to": 402.31
+  },
+  {
+   "content": "同侧手停",
+   "from": 402.31,
+   "location": 2,
+   "music": 0,
+   "sid": 199,
+   "to": 403.24
+  },
+  {
+   "content": "因为球在左脚",
+   "from": 403.24,
+   "location": 2,
+   "music": 0,
+   "sid": 200,
+   "to": 404.86
+  },
+  {
+   "content": "我停在同一个脚上",
+   "from": 404.86,
+   "location": 2,
+   "music": 0,
+   "sid": 201,
+   "to": 407.37
+  },
+  {
+   "content": "如果球在右手",
+   "from": 407.37,
+   "location": 2,
+   "music": 0,
+   "sid": 202,
+   "to": 409.07
+  },
+  {
+   "content": "我会停在右脚",
+   "from": 409.07,
+   "location": 2,
+   "music": 0,
+   "sid": 203,
+   "to": 411.21
+  },
+  {
+   "content": "同脚停球的关键第一步是带球内脚背",
+   "from": 411.21,
+   "location": 2,
+   "music": 0,
+   "sid": 204,
+   "to": 416.89
+  },
+  {
+   "content": "基本上就是我们之前讲过的交叉步设置，第一步带球内脚背",
+   "from": 416.89,
+   "location": 2,
+   "music": 0,
+   "sid": 205,
+   "to": 420.49
+  },
+  {
+   "content": "第二步",
+   "from": 420.49,
+   "location": 2,
+   "music": 0,
+   "sid": 206,
+   "to": 421.41
+  },
+  {
+   "content": "我要带球到同侧脚",
+   "from": 421.41,
+   "location": 2,
+   "music": 0,
+   "sid": 207,
+   "to": 423.05
+  },
+  {
+   "content": "脚步第三步",
+   "from": 423.05,
+   "location": 2,
+   "music": 0,
+   "sid": 208,
+   "to": 424.38
+  },
+  {
+   "content": "你注意到球始终在后方并被保护",
+   "from": 424.38,
+   "location": 2,
+   "music": 0,
+   "sid": 209,
+   "to": 427.04
+  },
+  {
+   "content": "现在我可以到这里",
+   "from": 427.04,
+   "location": 2,
+   "music": 0,
+   "sid": 210,
+   "to": 428.16
+  },
+  {
+   "content": "扭转胯部并改变方向",
+   "from": 428.16,
+   "location": 2,
+   "music": 0,
+   "sid": 211,
+   "to": 429.6
+  },
+  {
+   "content": "我可能到这里并弹起双脚",
+   "from": 429.6,
+   "location": 2,
+   "music": 0,
+   "sid": 212,
+   "to": 431.52
+  },
+  {
+   "content": "向后绕球",
+   "from": 431.52,
+   "location": 2,
+   "music": 0,
+   "sid": 213,
+   "to": 432.59
+  },
+  {
+   "content": "第三个细节是说我要到这里而你正在防守",
+   "from": 432.59,
+   "location": 2,
+   "music": 0,
+   "sid": 214,
+   "to": 436.21
+  },
+  {
+   "content": "然后带球到同侧脚",
+   "from": 436.21,
+   "location": 2,
+   "music": 0,
+   "sid": 215,
+   "to": 438.37
+  },
+  {
+   "content": "如果我这样变向",
+   "from": 438.37,
+   "location": 2,
+   "music": 0,
+   "sid": 216,
+   "to": 440.61
+  },
+  {
+   "content": "我失去平衡",
+   "from": 440.97,
+   "location": 2,
+   "music": 0,
+   "sid": 217,
+   "to": 441.93
+  },
+  {
+   "content": "所以我说我要去",
+   "from": 441.93,
+   "location": 2,
+   "music": 0,
+   "sid": 218,
+   "to": 442.53
+  },
+  {
+   "content": "但你知道的",
+   "from": 442.53,
+   "location": 2,
+   "music": 0,
+   "sid": 219,
+   "to": 443.01
+  },
+  {
+   "content": "在双腿之间",
+   "from": 443.01,
+   "location": 2,
+   "music": 0,
+   "sid": 220,
+   "to": 443.83
+  },
+  {
+   "content": "一旦保持球在后方",
+   "from": 443.83,
+   "location": 2,
+   "music": 0,
+   "sid": 221,
+   "to": 445.49
+  },
+  {
+   "content": "我要弹起双脚",
+   "from": 445.49,
+   "location": 2,
+   "music": 0,
+   "sid": 222,
+   "to": 446.69
+  },
+  {
+   "content": "就像剪刀脚一样",
+   "from": 446.69,
+   "location": 2,
+   "music": 0,
+   "sid": 223,
+   "to": 447.97
+  },
+  {
+   "content": "当我做出这个动作",
+   "from": 447.97,
+   "location": 2,
+   "music": 0,
+   "sid": 224,
+   "to": 449.15
+  },
+  {
+   "content": "我弹起双脚现在胯部打开",
+   "from": 449.15,
+   "location": 2,
+   "music": 0,
+   "sid": 225,
+   "to": 451.36
+  },
+  {
+   "content": "我可以向这边走",
+   "from": 451.36,
+   "location": 2,
+   "music": 0,
+   "sid": 226,
+   "to": 452.42
+  },
+  {
+   "content": "如果我要向后绕球做同样的动作",
+   "from": 452.42,
+   "location": 2,
+   "music": 0,
+   "sid": 227,
+   "to": 454.7
+  },
+  {
+   "content": "球和脚",
+   "from": 454.7,
+   "location": 2,
+   "music": 0,
+   "sid": 228,
+   "to": 455.52
+  },
+  {
+   "content": "注意我的双脚",
+   "from": 455.52,
+   "location": 2,
+   "music": 0,
+   "sid": 229,
+   "to": 456.42
+  },
+  {
+   "content": "弹起双脚现在胯部打开",
+   "from": 456.42,
+   "location": 2,
+   "music": 0,
+   "sid": 230,
+   "to": 458.47
+  },
+  {
+   "content": "我可以朝这个方向突破",
+   "from": 458.47,
+   "location": 2,
+   "music": 0,
+   "sid": 231,
+   "to": 460.28
+  },
+  {
+   "content": "第三种方法是同脚停球后做交叉步",
+   "from": 460.28,
+   "location": 2,
+   "music": 0,
+   "sid": 232,
+   "to": 464.16
+  },
+  {
+   "content": "同样是同样的动作",
+   "from": 464.16,
+   "location": 2,
+   "music": 0,
+   "sid": 233,
+   "to": 466.1
+  },
+  {
+   "content": "如果你想做交叉步",
+   "from": 466.1,
+   "location": 2,
+   "music": 0,
+   "sid": 234,
+   "to": 467.56
+  },
+  {
+   "content": "确保有空间",
+   "from": 467.56,
+   "location": 2,
+   "music": 0,
+   "sid": 235,
+   "to": 468.78
+  },
+  {
+   "content": "所以你要侧身",
+   "from": 468.78,
+   "location": 2,
+   "music": 0,
+   "sid": 236,
+   "to": 469.5
+  },
+  {
+   "content": "像这样球和内脚背球和同侧脚",
+   "from": 469.5,
+   "location": 2,
+   "music": 0,
+   "sid": 237,
+   "to": 473
+  },
+  {
+   "content": "注意球在后方被保护",
+   "from": 473,
+   "location": 2,
+   "music": 0,
+   "sid": 238,
+   "to": 474.88
+  },
+  {
+   "content": "弹起双脚交叉",
+   "from": 474.88,
+   "location": 2,
+   "music": 0,
+   "sid": 239,
+   "to": 476.52
+  },
+  {
+   "content": "我开始突破",
+   "from": 476.52,
+   "location": 2,
+   "music": 0,
+   "sid": 240,
+   "to": 477.48
+  },
+  {
+   "content": "现在我掌握了这三个选择",
+   "from": 477.48,
+   "location": 2,
+   "music": 0,
+   "sid": 241,
+   "to": 479.7
+  },
+  {
+   "content": "说到同脚停球下一步",
+   "from": 479.7,
+   "location": 2,
+   "music": 0,
+   "sid": 242,
+   "to": 482.36
+  },
+  {
+   "content": "我们有转身动作",
+   "from": 482.36,
+   "location": 2,
+   "music": 0,
+   "sid": 243,
+   "to": 483.33
+  },
+  {
+   "content": "转身非常有效",
+   "from": 483.33,
+   "location": 2,
+   "music": 0,
+   "sid": 244,
+   "to": 484.97
+  },
+  {
+   "content": "因为它能用全身保护球",
+   "from": 484.97,
+   "location": 2,
+   "music": 0,
+   "sid": 245,
+   "to": 487.39
+  },
+  {
+   "content": "但另一个情况是如果我突破",
+   "from": 487.39,
+   "location": 2,
+   "music": 0,
+   "sid": 246,
+   "to": 489.51
+  },
+  {
+   "content": "尤其是我注意到我没有最佳角度",
+   "from": 489.51,
+   "location": 2,
+   "music": 0,
+   "sid": 247,
+   "to": 491.95
+  },
+  {
+   "content": "胯部像现在这样",
+   "from": 491.95,
+   "location": 2,
+   "music": 0,
+   "sid": 248,
+   "to": 493.37
+  },
+  {
+   "content": "如果我做一个交叉步并变向",
+   "from": 493.37,
+   "location": 2,
+   "music": 0,
+   "sid": 249,
+   "to": 495.39
+  },
+  {
+   "content": "很难再回这个方向",
+   "from": 495.39,
+   "location": 2,
+   "music": 0,
+   "sid": 250,
+   "to": 497.87
+  },
+  {
+   "content": "所以很多时候这招用得最好",
+   "from": 497.87,
+   "location": 2,
+   "music": 0,
+   "sid": 251,
+   "to": 499.91
+  },
+  {
+   "content": "当你被挡在身后时",
+   "from": 499.91,
+   "location": 2,
+   "music": 0,
+   "sid": 252,
+   "to": 501.289
+  },
+  {
+   "content": "但你的肩髋远离篮筐区域时",
+   "from": 501.289,
+   "location": 2,
+   "music": 0,
+   "sid": 253,
+   "to": 504.609
+  },
+  {
+   "content": "如果我在这里停下",
+   "from": 504.609,
+   "location": 2,
+   "music": 0,
+   "sid": 254,
+   "to": 505.749
+  },
+  {
+   "content": "然后运球转身旋转",
+   "from": 505.749,
+   "location": 2,
+   "music": 0,
+   "sid": 255,
+   "to": 507.81
+  },
+  {
+   "content": "注意如何轻松完成转身过掉防守者",
+   "from": 507.81,
+   "location": 2,
+   "music": 0,
+   "sid": 256,
+   "to": 511.65
+  },
+  {
+   "content": "细节要点是当我突破时",
+   "from": 511.65,
+   "location": 2,
+   "music": 0,
+   "sid": 257,
+   "to": 514.37
+  },
+  {
+   "content": "他挡住了我的去路",
+   "from": 514.37,
+   "location": 2,
+   "music": 0,
+   "sid": 258,
+   "to": 515.319
+  },
+  {
+   "content": "第一步是下球并弹脚",
+   "from": 515.319,
+   "location": 2,
+   "music": 0,
+   "sid": 259,
+   "to": 518.47
+  },
+  {
+   "content": "第二步是用肘部绕球",
+   "from": 518.47,
+   "location": 2,
+   "music": 0,
+   "sid": 260,
+   "to": 521.59
+  },
+  {
+   "content": "这需要良好的身体协调",
+   "from": 521.59,
+   "location": 2,
+   "music": 0,
+   "sid": 261,
+   "to": 523.41
+  },
+  {
+   "content": "几乎像肘部的惯性带动",
+   "from": 523.41,
+   "location": 2,
+   "music": 0,
+   "sid": 262,
+   "to": 525.05
+  },
+  {
+   "content": "所以我不会这样换手",
+   "from": 525.05,
+   "location": 2,
+   "music": 0,
+   "sid": 263,
+   "to": 527.4
+  },
+  {
+   "content": "我会下脚",
+   "from": 527.4,
+   "location": 2,
+   "music": 0,
+   "sid": 264,
+   "to": 529.02
+  },
+  {
+   "content": "然后观察肘部和球的位置",
+   "from": 529.02,
+   "location": 2,
+   "music": 0,
+   "sid": 265,
+   "to": 530.5
+  },
+  {
+   "content": "用肘部和球完成绕步并运球",
+   "from": 530.5,
+   "location": 2,
+   "music": 0,
+   "sid": 266,
+   "to": 532.64
+  },
+  {
+   "content": "再试一次下球并绕步一次",
+   "from": 532.64,
+   "location": 2,
+   "music": 0,
+   "sid": 267,
+   "to": 537.86
+  },
+  {
+   "content": "我运了这球",
+   "from": 537.86,
+   "location": 2,
+   "music": 0,
+   "sid": 268,
+   "to": 538.74
+  },
+  {
+   "content": "我换手",
+   "from": 538.74,
+   "location": 2,
+   "music": 0,
+   "sid": 269,
+   "to": 539.64
+  },
+  {
+   "content": "转身绕过然后击败防守者",
+   "from": 539.64,
+   "location": 2,
+   "music": 0,
+   "sid": 270,
+   "to": 542.12
+  },
+  {
+   "content": "现在我们来分解动作",
+   "from": 542.12,
+   "location": 2,
+   "music": 0,
+   "sid": 271,
+   "to": 542.86
+  },
+  {
+   "content": "稍微慢速演示",
+   "from": 542.86,
+   "location": 2,
+   "music": 0,
+   "sid": 272,
+   "to": 544.01
+  },
+  {
+   "content": "我突破你挡我",
+   "from": 544.01,
+   "location": 2,
+   "music": 0,
+   "sid": 273,
+   "to": 545.61
+  },
+  {
+   "content": "我来到这里",
+   "from": 545.61,
+   "location": 2,
+   "music": 0,
+   "sid": 274,
+   "to": 546.57
+  },
+  {
+   "content": "我弹脚",
+   "from": 546.57,
+   "location": 2,
+   "music": 0,
+   "sid": 275,
+   "to": 547.43
+  },
+  {
+   "content": "弹脚绕步下球转身然后冲向篮下",
+   "from": 547.43,
+   "location": 2,
+   "music": 0,
+   "sid": 276,
+   "to": 552.28
+  },
+  {
+   "content": "从旋转中另一个选择是稳定球",
+   "from": 552.28,
+   "location": 2,
+   "music": 0,
+   "sid": 277,
+   "to": 555.26
+  },
+  {
+   "content": "这在改变节奏时非常有效",
+   "from": 555.26,
+   "location": 2,
+   "music": 0,
+   "sid": 278,
+   "to": 557.94
+  },
+  {
+   "content": "比如说我这样突破",
+   "from": 557.94,
+   "location": 2,
+   "music": 0,
+   "sid": 279,
+   "to": 559.24
+  },
+  {
+   "content": "我正在突破",
+   "from": 559.24,
+   "location": 2,
+   "music": 0,
+   "sid": 280,
+   "to": 560.04
+  },
+  {
+   "content": "他挡住了我",
+   "from": 560.04,
+   "location": 2,
+   "music": 0,
+   "sid": 281,
+   "to": 561.08
+  },
+  {
+   "content": "我下球",
+   "from": 561.08,
+   "location": 2,
+   "music": 0,
+   "sid": 282,
+   "to": 562
+  },
+  {
+   "content": "我稳定球",
+   "from": 562,
+   "location": 2,
+   "music": 0,
+   "sid": 283,
+   "to": 562.78
+  },
+  {
+   "content": "然后换手再启动",
+   "from": 562.78,
+   "location": 2,
+   "music": 0,
+   "sid": 284,
+   "to": 565
+  },
+  {
+   "content": "掌握相似停顿后的不同选择很重要",
+   "from": 565,
+   "location": 2,
+   "music": 0,
+   "sid": 285,
+   "to": 568.93
+  },
+  {
+   "content": "因为你的选择越多",
+   "from": 568.93,
+   "location": 2,
+   "music": 0,
+   "sid": 286,
+   "to": 570.75
+  },
+  {
+   "content": "你的动作就越难以预测",
+   "from": 570.75,
+   "location": 2,
+   "music": 0,
+   "sid": 287,
+   "to": 573.06
+  },
+  {
+   "content": "若要精通变向技巧",
+   "from": 573.06,
+   "location": 2,
+   "music": 0,
+   "sid": 288,
+   "to": 575.1
+  },
+  {
+   "content": "必须落实我们刚才讲的内容",
+   "from": 575.1,
+   "location": 2,
+   "music": 0,
+   "sid": 289,
+   "to": 577.34
+  },
+  {
+   "content": "首要的是加速并假动作突破",
+   "from": 577.34,
+   "location": 2,
+   "music": 0,
+   "sid": 290,
+   "to": 580.18
+  },
+  {
+   "content": "第二点",
+   "from": 580.18,
+   "location": 2,
+   "music": 0,
+   "sid": 291,
+   "to": 580.98
+  },
+  {
+   "content": "需具备良好的控球与脚步停顿能力",
+   "from": 580.98,
+   "location": 2,
+   "music": 0,
+   "sid": 292,
+   "to": 584.62
+  },
+  {
+   "content": "第三点",
+   "from": 584.62,
+   "location": 2,
+   "music": 0,
+   "sid": 293,
+   "to": 585.5
+  },
+  {
+   "content": "必须能保护并摆脱防守者",
+   "from": 585.5,
+   "location": 2,
+   "music": 0,
+   "sid": 294,
+   "to": 589.86
+  },
+  {
+   "content": "始终如一",
+   "from": 589.86,
+   "location": 2,
+   "music": 0,
+   "sid": 295,
+   "to": 590.8
+  },
+  {
+   "content": "如果你能专注这些要点",
+   "from": 590.8,
+   "location": 2,
+   "music": 0,
+   "sid": 296,
+   "to": 592.62
+  },
+  {
+   "content": "并结合交叉步",
+   "from": 592.62,
+   "location": 2,
+   "music": 0,
+   "sid": 297,
+   "to": 594.51
+  },
+  {
+   "content": "同侧脚停顿和旋转选择",
+   "from": 594.51,
+   "location": 2,
+   "music": 0,
+   "sid": 298,
+   "to": 596.73
+  },
+  {
+   "content": "你的变向能力将显著提升",
+   "from": 596.73,
+   "location": 2,
+   "music": 0,
+   "sid": 299,
+   "to": 599.27
+  },
+  {
+   "content": "你的比赛水平将真正提升",
+   "from": 599.27,
+   "location": 2,
+   "music": 0,
+   "sid": 300,
+   "to": 601.98
+  }
+ ]
+}

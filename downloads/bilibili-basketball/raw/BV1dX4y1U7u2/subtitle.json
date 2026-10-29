@@ -1,0 +1,268 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.5.0.4",
+ "body": [
+  {
+   "from": 3.36,
+   "to": 4.5,
+   "sid": 1,
+   "location": 2,
+   "content": "今天给大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 4.5,
+   "to": 6.96,
+   "sid": 2,
+   "location": 2,
+   "content": "我们在下快攻时遇到的三种不同情况",
+   "music": 0
+  },
+  {
+   "from": 6.96,
+   "to": 8.34,
+   "sid": 3,
+   "location": 2,
+   "content": "我们应该如何去处理",
+   "music": 0
+  },
+  {
+   "from": 8.34,
+   "to": 9.42,
+   "sid": 4,
+   "location": 2,
+   "content": "首先第一种情况",
+   "music": 0
+  },
+  {
+   "from": 9.42,
+   "to": 12.2,
+   "sid": 5,
+   "location": 2,
+   "content": "如果我们在下快攻时在我们身后追防我们",
+   "music": 0
+  },
+  {
+   "from": 12.2,
+   "to": 14,
+   "sid": 6,
+   "location": 2,
+   "content": "我们应该如何去选择终结",
+   "music": 0
+  },
+  {
+   "from": 14,
+   "to": 15.32,
+   "sid": 7,
+   "location": 2,
+   "content": "如果防守人在我们身后",
+   "music": 0
+  },
+  {
+   "from": 15.32,
+   "to": 16.4,
+   "sid": 8,
+   "location": 2,
+   "content": "我们在加速过程中",
+   "music": 0
+  },
+  {
+   "from": 16.4,
+   "to": 17.42,
+   "sid": 9,
+   "location": 2,
+   "content": "我们的第一步往前",
+   "music": 0
+  },
+  {
+   "from": 17.42,
+   "to": 19.92,
+   "sid": 10,
+   "location": 2,
+   "content": "第二步应该堵到防守人起跳的空间上",
+   "music": 0
+  },
+  {
+   "from": 19.92,
+   "to": 21.54,
+   "sid": 11,
+   "location": 2,
+   "content": "让他改变他的起跳频率",
+   "music": 0
+  },
+  {
+   "from": 21.54,
+   "to": 24.6,
+   "sid": 12,
+   "location": 2,
+   "content": "这时候我们完成一个上来就喜",
+   "music": 0
+  },
+  {
+   "from": 31.719,
+   "to": 32.639,
+   "sid": 13,
+   "location": 2,
+   "content": "第二种情况",
+   "music": 0
+  },
+  {
+   "from": 32.639,
+   "to": 34.859,
+   "sid": 14,
+   "location": 2,
+   "content": "如果我们在下快攻时防守在我们的身前",
+   "music": 0
+  },
+  {
+   "from": 34.859,
+   "to": 36.64,
+   "sid": 15,
+   "location": 2,
+   "content": "守门员如何去选择进攻",
+   "music": 0
+  },
+  {
+   "from": 36.64,
+   "to": 38.08,
+   "sid": 16,
+   "location": 2,
+   "content": "同样我们加速",
+   "music": 0
+  },
+  {
+   "from": 38.08,
+   "to": 39.82,
+   "sid": 17,
+   "location": 2,
+   "content": "当我们接近防守人时",
+   "music": 0
+  },
+  {
+   "from": 39.82,
+   "to": 41.8,
+   "sid": 18,
+   "location": 2,
+   "content": "立刻合球向右迈出第一步",
+   "music": 0
+  },
+  {
+   "from": 41.8,
+   "to": 43.18,
+   "sid": 19,
+   "location": 2,
+   "content": "防守人被我们吸引到",
+   "music": 0
+  },
+  {
+   "from": 43.18,
+   "to": 46.24,
+   "sid": 20,
+   "location": 2,
+   "content": "立刻向左进行欧洲步终结",
+   "music": 0
+  },
+  {
+   "from": 54.72,
+   "to": 55.58,
+   "sid": 21,
+   "location": 2,
+   "content": "第三种情况",
+   "music": 0
+  },
+  {
+   "from": 55.58,
+   "to": 56.48,
+   "sid": 22,
+   "location": 2,
+   "content": "我们在快攻时",
+   "music": 0
+  },
+  {
+   "from": 56.48,
+   "to": 58.22,
+   "sid": 23,
+   "location": 2,
+   "content": "防守人始终跟随在我们身旁",
+   "music": 0
+  },
+  {
+   "from": 58.22,
+   "to": 60.02,
+   "sid": 24,
+   "location": 2,
+   "content": "我们应该如何去选择终结",
+   "music": 0
+  },
+  {
+   "from": 60.02,
+   "to": 62.36,
+   "sid": 25,
+   "location": 2,
+   "content": "这时候我们正常加速保护好球",
+   "music": 0
+  },
+  {
+   "from": 62.36,
+   "to": 63.98,
+   "sid": 26,
+   "location": 2,
+   "content": "第一步往前注意",
+   "music": 0
+  },
+  {
+   "from": 63.98,
+   "to": 64.72,
+   "sid": 27,
+   "location": 2,
+   "content": "第二步",
+   "music": 0
+  },
+  {
+   "from": 64.72,
+   "to": 66.64,
+   "sid": 28,
+   "location": 2,
+   "content": "我们在防守人移动的过程中",
+   "music": 0
+  },
+  {
+   "from": 66.64,
+   "to": 69.22,
+   "sid": 29,
+   "location": 2,
+   "content": "去往防守人的两个腿之间去上步",
+   "music": 0
+  },
+  {
+   "from": 69.22,
+   "to": 70.96,
+   "sid": 30,
+   "location": 2,
+   "content": "肩部去进行一个对抗",
+   "music": 0
+  },
+  {
+   "from": 70.96,
+   "to": 71.95,
+   "sid": 31,
+   "location": 2,
+   "content": "挤开空间",
+   "music": 0
+  },
+  {
+   "from": 71.95,
+   "to": 73.88,
+   "sid": 32,
+   "location": 2,
+   "content": "完成一个上篮",
+   "music": 0
+  }
+ ]
+}

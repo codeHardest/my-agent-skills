@@ -1,0 +1,620 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 0.84,
+   "to": 4.04,
+   "sid": 1,
+   "location": 2,
+   "content": "嘿你发现了隐藏宝石",
+   "music": 0
+  },
+  {
+   "from": 5.36,
+   "to": 7.36,
+   "sid": 2,
+   "location": 2,
+   "content": "OK今天日期宝石呢跟大家分享一下",
+   "music": 0
+  },
+  {
+   "from": 7.36,
+   "to": 9.79,
+   "sid": 3,
+   "location": 2,
+   "content": "我们急停跳投之后的合球的一些细节",
+   "music": 0
+  },
+  {
+   "from": 9.79,
+   "to": 11.83,
+   "sid": 4,
+   "location": 2,
+   "content": "因为很多小伙伴一直在后台问我啊",
+   "music": 0
+  },
+  {
+   "from": 11.83,
+   "to": 13.98,
+   "sid": 5,
+   "location": 2,
+   "content": "当他们在训练完我们的急停跳投之后",
+   "music": 0
+  },
+  {
+   "from": 13.98,
+   "to": 15.3,
+   "sid": 6,
+   "location": 2,
+   "content": "他们的这些基本功",
+   "music": 0
+  },
+  {
+   "from": 15.3,
+   "to": 17.43,
+   "sid": 7,
+   "location": 2,
+   "content": "包括脚步呢都有非常不错的进步",
+   "music": 0
+  },
+  {
+   "from": 17.43,
+   "to": 20.16,
+   "sid": 8,
+   "location": 2,
+   "content": "但是呢合球的时候往往会出现一些问题",
+   "music": 0
+  },
+  {
+   "from": 20.16,
+   "to": 22.92,
+   "sid": 9,
+   "location": 2,
+   "content": "比如说啊合球的时候可能速度比较慢",
+   "music": 0
+  },
+  {
+   "from": 22.92,
+   "to": 25.32,
+   "sid": 10,
+   "location": 2,
+   "content": "可能合球的时候呢呃不是非常的稳",
+   "music": 0
+  },
+  {
+   "from": 25.32,
+   "to": 28.2,
+   "sid": 11,
+   "location": 2,
+   "content": "导致整个身体的发力不是非常的顺畅",
+   "music": 0
+  },
+  {
+   "from": 28.2,
+   "to": 30.72,
+   "sid": 12,
+   "location": 2,
+   "content": "以及很有可能对这个防守队员切掉球",
+   "music": 0
+  },
+  {
+   "from": 30.72,
+   "to": 31.78,
+   "sid": 13,
+   "location": 2,
+   "content": "这种情况的发生",
+   "music": 0
+  },
+  {
+   "from": 31.78,
+   "to": 33.76,
+   "sid": 14,
+   "location": 2,
+   "content": "今天呢就就这几个问题呢",
+   "music": 0
+  },
+  {
+   "from": 33.76,
+   "to": 35.74,
+   "sid": 15,
+   "location": 2,
+   "content": "跟大家分享几个训练的动作",
+   "music": 0
+  },
+  {
+   "from": 35.74,
+   "to": 37.03,
+   "sid": 16,
+   "location": 2,
+   "content": "希望能够帮助到大家",
+   "music": 0
+  },
+  {
+   "from": 37.03,
+   "to": 37.72,
+   "sid": 17,
+   "location": 2,
+   "content": "那话不多说",
+   "music": 0
+  },
+  {
+   "from": 37.72,
+   "to": 38.92,
+   "sid": 18,
+   "location": 2,
+   "content": "我们来看一下吧",
+   "music": 0
+  },
+  {
+   "from": 38.92,
+   "to": 40.84,
+   "sid": 19,
+   "location": 2,
+   "content": "那我们今天的第一个训练动作呢",
+   "music": 0
+  },
+  {
+   "from": 40.84,
+   "to": 44.12,
+   "sid": 20,
+   "location": 2,
+   "content": "就是我们原地的左右手的基本合球训练",
+   "music": 0
+  },
+  {
+   "from": 44.12,
+   "to": 46.43,
+   "sid": 21,
+   "location": 2,
+   "content": "首先从我们的右手开始",
+   "music": 0
+  },
+  {
+   "from": 46.43,
+   "to": 50.24,
+   "sid": 22,
+   "location": 2,
+   "content": "不间断有节奏的进行一次运球后的合球训练",
+   "music": 0
+  },
+  {
+   "from": 50.24,
+   "to": 51.41,
+   "sid": 23,
+   "location": 2,
+   "content": "熟悉训练后",
+   "music": 0
+  },
+  {
+   "from": 51.41,
+   "to": 52.64,
+   "sid": 24,
+   "location": 2,
+   "content": "眼睛不要看球",
+   "music": 0
+  },
+  {
+   "from": 52.64,
+   "to": 55.46,
+   "sid": 25,
+   "location": 2,
+   "content": "锻炼我们对双手合球时的位置感知",
+   "music": 0
+  },
+  {
+   "from": 56.66,
+   "to": 58.78,
+   "sid": 26,
+   "location": 2,
+   "content": "同样我们的左手也需要训练",
+   "music": 0
+  },
+  {
+   "from": 58.78,
+   "to": 59.8,
+   "sid": 27,
+   "location": 2,
+   "content": "需要注意的是",
+   "music": 0
+  },
+  {
+   "from": 59.8,
+   "to": 63.1,
+   "sid": 28,
+   "location": 2,
+   "content": "合球的位置点就是你平时投篮时的合球点",
+   "music": 0
+  },
+  {
+   "from": 63.1,
+   "to": 65.88,
+   "sid": 29,
+   "location": 2,
+   "content": "不要因为训练而有所改变",
+   "music": 0
+  },
+  {
+   "from": 66.88,
+   "to": 69.88,
+   "sid": 30,
+   "location": 2,
+   "content": "很多球员合球时双手放在球的两侧",
+   "music": 0
+  },
+  {
+   "from": 69.88,
+   "to": 72.28,
+   "sid": 31,
+   "location": 2,
+   "content": "这样虽然可以提高合球的稳定性",
+   "music": 0
+  },
+  {
+   "from": 72.28,
+   "to": 75.43,
+   "sid": 32,
+   "location": 2,
+   "content": "但是起球出手时需要移动投篮手",
+   "music": 0
+  },
+  {
+   "from": 75.43,
+   "to": 77.17,
+   "sid": 33,
+   "location": 2,
+   "content": "这样很容易引起掉球",
+   "music": 0
+  },
+  {
+   "from": 77.17,
+   "to": 78.96,
+   "sid": 34,
+   "location": 2,
+   "content": "而且速度相对较慢",
+   "music": 0
+  },
+  {
+   "from": 78.96,
+   "to": 82.17,
+   "sid": 35,
+   "location": 2,
+   "content": "这里更建议大家在合球时尽量张开手指",
+   "music": 0
+  },
+  {
+   "from": 82.17,
+   "to": 84.88,
+   "sid": 36,
+   "location": 2,
+   "content": "与起球投篮时的手型大概一致",
+   "music": 0
+  },
+  {
+   "from": 84.88,
+   "to": 87.58,
+   "sid": 37,
+   "location": 2,
+   "content": "这样只需要在起球过程中轻微调整",
+   "music": 0
+  },
+  {
+   "from": 87.58,
+   "to": 89.22,
+   "sid": 38,
+   "location": 2,
+   "content": "即可快速出手",
+   "music": 0
+  },
+  {
+   "from": 90.4,
+   "to": 93.48,
+   "sid": 39,
+   "location": 2,
+   "content": "另外我希望你可以将球尽量贴近身体",
+   "music": 0
+  },
+  {
+   "from": 93.48,
+   "to": 94.98,
+   "sid": 40,
+   "location": 2,
+   "content": "或者远离防守者的右侧",
+   "music": 0
+  },
+  {
+   "from": 94.98,
+   "to": 96.33,
+   "sid": 41,
+   "location": 2,
+   "content": "控制好距离",
+   "music": 0
+  },
+  {
+   "from": 96.33,
+   "to": 98.42,
+   "sid": 42,
+   "location": 2,
+   "content": "这样可以避免被切球",
+   "music": 0
+  },
+  {
+   "from": 98.42,
+   "to": 101.18,
+   "sid": 43,
+   "location": 2,
+   "content": "OK当我们做完我们的原地合球训练之后呢",
+   "music": 0
+  },
+  {
+   "from": 101.18,
+   "to": 103.68,
+   "sid": 44,
+   "location": 2,
+   "content": "我们也要去训练我们的合球之后的起球",
+   "music": 0
+  },
+  {
+   "from": 103.68,
+   "to": 105.15,
+   "sid": 45,
+   "location": 2,
+   "content": "包括投篮之后的训练",
+   "music": 0
+  },
+  {
+   "from": 105.15,
+   "to": 108,
+   "sid": 46,
+   "location": 2,
+   "content": "下面我们来看一下我们的第二个训练",
+   "music": 0
+  },
+  {
+   "from": 108,
+   "to": 109.92,
+   "sid": 47,
+   "location": 2,
+   "content": "与原地合球训练相同",
+   "music": 0
+  },
+  {
+   "from": 109.92,
+   "to": 113.52,
+   "sid": 48,
+   "location": 2,
+   "content": "但需要在你完成第三次合球时迅速起球",
+   "music": 0
+  },
+  {
+   "from": 113.52,
+   "to": 114.6,
+   "sid": 49,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 114.6,
+   "to": 116.58,
+   "sid": 50,
+   "location": 2,
+   "content": "当然左右手都要完成",
+   "music": 0
+  },
+  {
+   "from": 116.58,
+   "to": 118.02,
+   "sid": 51,
+   "location": 2,
+   "content": "也可以混合起来",
+   "music": 0
+  },
+  {
+   "from": 118.02,
+   "to": 120.28,
+   "sid": 52,
+   "location": 2,
+   "content": "让训练更有挑战",
+   "music": 0
+  },
+  {
+   "from": 126.78,
+   "to": 127.88,
+   "sid": 53,
+   "location": 2,
+   "content": "OK最后一个训练呢",
+   "music": 0
+  },
+  {
+   "from": 127.88,
+   "to": 130.52,
+   "sid": 54,
+   "location": 2,
+   "content": "就是更加贴近我们实战的一次运球之后的急停",
+   "music": 0
+  },
+  {
+   "from": 130.52,
+   "to": 131.88,
+   "sid": 55,
+   "location": 2,
+   "content": "跳投合球训练",
+   "music": 0
+  },
+  {
+   "from": 131.88,
+   "to": 132.78,
+   "sid": 56,
+   "location": 2,
+   "content": "大家来看一下",
+   "music": 0
+  },
+  {
+   "from": 133.8,
+   "to": 136.26,
+   "sid": 57,
+   "location": 2,
+   "content": "首先控制好你与篮筐之间的距离",
+   "music": 0
+  },
+  {
+   "from": 136.26,
+   "to": 138,
+   "sid": 58,
+   "location": 2,
+   "content": "进行正常的一次运球",
+   "music": 0
+  },
+  {
+   "from": 138,
+   "to": 139.59,
+   "sid": 59,
+   "location": 2,
+   "content": "急停投篮脚步训练",
+   "music": 0
+  },
+  {
+   "from": 139.59,
+   "to": 141.05,
+   "sid": 60,
+   "location": 2,
+   "content": "但是取消投篮",
+   "music": 0
+  },
+  {
+   "from": 141.05,
+   "to": 143.21,
+   "sid": 61,
+   "location": 2,
+   "content": "在你完成第三次合球时",
+   "music": 0
+  },
+  {
+   "from": 143.21,
+   "to": 144.11,
+   "sid": 62,
+   "location": 2,
+   "content": "迅速起球",
+   "music": 0
+  },
+  {
+   "from": 144.11,
+   "to": 145.05,
+   "sid": 63,
+   "location": 2,
+   "content": "完成投篮",
+   "music": 0
+  },
+  {
+   "from": 145.05,
+   "to": 147.99,
+   "sid": 64,
+   "location": 2,
+   "content": "我希望你可以以比赛时的节奏与速度",
+   "music": 0
+  },
+  {
+   "from": 147.99,
+   "to": 149.9,
+   "sid": 65,
+   "location": 2,
+   "content": "完成这项训练",
+   "music": 0
+  },
+  {
+   "from": 156.559,
+   "to": 158.499,
+   "sid": 66,
+   "location": 2,
+   "content": "OK以上就是这期宝石的全部内容了",
+   "music": 0
+  },
+  {
+   "from": 158.499,
+   "to": 160.32,
+   "sid": 67,
+   "location": 2,
+   "content": "希望大家从中有所收获啊",
+   "music": 0
+  },
+  {
+   "from": 160.32,
+   "to": 161.7,
+   "sid": 68,
+   "location": 2,
+   "content": "近期的天气比较寒冷",
+   "music": 0
+  },
+  {
+   "from": 161.7,
+   "to": 164.4,
+   "sid": 69,
+   "location": 2,
+   "content": "希望大家在运动之前进行充分的热身",
+   "music": 0
+  },
+  {
+   "from": 164.4,
+   "to": 165.82,
+   "sid": 70,
+   "location": 2,
+   "content": "避免我们生命的发生",
+   "music": 0
+  },
+  {
+   "from": 165.82,
+   "to": 167.14,
+   "sid": 71,
+   "location": 2,
+   "content": "如果大家喜欢这期内容呢",
+   "music": 0
+  },
+  {
+   "from": 167.14,
+   "to": 168.64,
+   "sid": 72,
+   "location": 2,
+   "content": "也希望大家长按点赞三连",
+   "music": 0
+  },
+  {
+   "from": 168.64,
+   "to": 170.44,
+   "sid": 73,
+   "location": 2,
+   "content": "来支持我们隐藏宝石啊",
+   "music": 0
+  },
+  {
+   "from": 170.44,
+   "to": 171.46,
+   "sid": 74,
+   "location": 2,
+   "content": "也是非常的感谢",
+   "music": 0
+  },
+  {
+   "from": 171.46,
+   "to": 172.63,
+   "sid": 75,
+   "location": 2,
+   "content": "我们就下期再见",
+   "music": 0
+  },
+  {
+   "from": 172.63,
+   "to": 174.16,
+   "sid": 76,
+   "location": 2,
+   "content": "拜拜",
+   "music": 0
+  }
+ ]
+}

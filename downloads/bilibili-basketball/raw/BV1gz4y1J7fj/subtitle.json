@@ -1,0 +1,796 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "en-v1.2.0.4-t0.3.c",
+ "body": [
+  {
+   "from": 0.12,
+   "to": 0.48,
+   "sid": 1,
+   "location": 2,
+   "content": "是吗？"
+  },
+  {
+   "from": 0.48,
+   "to": 1.16,
+   "sid": 2,
+   "location": 2,
+   "content": "在这个视频中"
+  },
+  {
+   "from": 5.12,
+   "to": 6.32,
+   "sid": 3,
+   "location": 2,
+   "content": "看完这个视频"
+  },
+  {
+   "from": 6.32,
+   "to": 8.88,
+   "sid": 4,
+   "location": 2,
+   "content": "你不会有任何问题的"
+  },
+  {
+   "from": 8.88,
+   "to": 12.07,
+   "sid": 5,
+   "location": 2,
+   "content": "你的动作会变得更有效率"
+  },
+  {
+   "from": 19.78,
+   "to": 22.16,
+   "sid": 6,
+   "location": 2,
+   "content": "你们问了这么多次"
+  },
+  {
+   "from": 22.16,
+   "to": 24.38,
+   "sid": 7,
+   "location": 2,
+   "content": "我很高兴地说，我投了三分"
+  },
+  {
+   "from": 24.38,
+   "to": 26.32,
+   "sid": 8,
+   "location": 2,
+   "content": "当然是在线的"
+  },
+  {
+   "from": 26.32,
+   "to": 29.64,
+   "sid": 9,
+   "location": 2,
+   "content": "首次在线三分球课程"
+  },
+  {
+   "from": 29.64,
+   "to": 35.18,
+   "sid": 10,
+   "location": 2,
+   "content": "你能有的最详细的三分球指南"
+  },
+  {
+   "from": 35.18,
+   "to": 37.8,
+   "sid": 11,
+   "location": 2,
+   "content": "从关于范围的基础教学开始"
+  },
+  {
+   "from": 37.8,
+   "to": 43.02,
+   "sid": 12,
+   "location": 2,
+   "content": "如何在高级比赛中获得一致的三分球射程"
+  },
+  {
+   "from": 43.02,
+   "to": 46.26,
+   "sid": 13,
+   "location": 2,
+   "content": "三分球后不同类型的耐用"
+  },
+  {
+   "from": 46.26,
+   "to": 53.12,
+   "sid": 14,
+   "location": 2,
+   "content": "超过五次五次练习和十五次完整的训练会让你从糟糕的三分球中恢复过来"
+  },
+  {
+   "from": 53.12,
+   "to": 56.78,
+   "sid": 15,
+   "location": 2,
+   "content": "空气球射手到像样的三分球大师"
+  },
+  {
+   "from": 56.78,
+   "to": 61.379,
+   "sid": 16,
+   "location": 2,
+   "content": "去看看我们的三分球课程，继续从这个视频中学习"
+  },
+  {
+   "from": 62.14,
+   "to": 63.1,
+   "sid": 17,
+   "location": 2,
+   "content": "穿上它"
+  },
+  {
+   "from": 63.1,
+   "to": 63.68,
+   "sid": 18,
+   "location": 2,
+   "content": "醒一醒"
+  },
+  {
+   "from": 63.68,
+   "to": 66.32,
+   "sid": 19,
+   "location": 2,
+   "content": "这就是谷歌第一名"
+  },
+  {
+   "from": 66.32,
+   "to": 67.44,
+   "sid": 20,
+   "location": 2,
+   "content": "两个垂直"
+  },
+  {
+   "from": 67.44,
+   "to": 67.94,
+   "sid": 21,
+   "location": 2,
+   "content": "每个人"
+  },
+  {
+   "from": 67.94,
+   "to": 69.66,
+   "sid": 22,
+   "location": 2,
+   "content": "这比举例子好"
+  },
+  {
+   "from": 70.32,
+   "to": 72.72,
+   "sid": 23,
+   "location": 2,
+   "content": "这是举一个例子"
+  },
+  {
+   "from": 73.22,
+   "to": 73.62,
+   "sid": 24,
+   "location": 2,
+   "content": "宝贝"
+  },
+  {
+   "from": 75.58,
+   "to": 76.76,
+   "sid": 25,
+   "location": 2,
+   "content": "你现在在哪里"
+  },
+  {
+   "from": 76.76,
+   "to": 82,
+   "sid": 26,
+   "location": 2,
+   "content": "当我缩短CH和腿之间的距离时"
+  },
+  {
+   "from": 85.12,
+   "to": 88.99,
+   "sid": 27,
+   "location": 2,
+   "content": "我们通过降低肩膀来突破"
+  },
+  {
+   "from": 88.99,
+   "to": 91.37,
+   "sid": 28,
+   "location": 2,
+   "content": "我们把肩膀向前推"
+  },
+  {
+   "from": 91.37,
+   "to": 93.07,
+   "sid": 29,
+   "location": 2,
+   "content": "如果我们想突破"
+  },
+  {
+   "from": 93.07,
+   "to": 96.15,
+   "sid": 30,
+   "location": 2,
+   "content": "缩短到膝盖的距离"
+  },
+  {
+   "from": 96.15,
+   "to": 99.43,
+   "sid": 31,
+   "location": 2,
+   "content": "所以你的胸部和肩膀"
+  },
+  {
+   "from": 99.43,
+   "to": 104.36,
+   "sid": 32,
+   "location": 2,
+   "content": "我的心是把钱花在打字上"
+  },
+  {
+   "from": 104.36,
+   "to": 105.87,
+   "sid": 33,
+   "location": 2,
+   "content": "不向前"
+  },
+  {
+   "from": 105.87,
+   "to": 107.05,
+   "sid": 34,
+   "location": 2,
+   "content": "在我们面前"
+  },
+  {
+   "from": 107.05,
+   "to": 109.65,
+   "sid": 35,
+   "location": 2,
+   "content": "我们有点靠边站了"
+  },
+  {
+   "from": 109.65,
+   "to": 113.97,
+   "sid": 36,
+   "location": 2,
+   "content": "这就是为什么因为在我们面前我们有一个防守者"
+  },
+  {
+   "from": 113.97,
+   "to": 115.87,
+   "sid": 37,
+   "location": 2,
+   "content": "总是总是总是"
+  },
+  {
+   "from": 115.87,
+   "to": 118.19,
+   "sid": 38,
+   "location": 2,
+   "content": "我们不想通过他"
+  },
+  {
+   "from": 118.19,
+   "to": 120.66,
+   "sid": 39,
+   "location": 2,
+   "content": "我们要站在他这边"
+  },
+  {
+   "from": 120.66,
+   "to": 122.58,
+   "sid": 40,
+   "location": 2,
+   "content": "你再来一次"
+  },
+  {
+   "from": 127.98,
+   "to": 132.34,
+   "sid": 41,
+   "location": 2,
+   "content": "所以每次从白色海报"
+  },
+  {
+   "from": 134.34,
+   "to": 137.57,
+   "sid": 42,
+   "location": 2,
+   "content": "从这里开始我们基本上是在做同一条线"
+  },
+  {
+   "from": 137.57,
+   "to": 139.939,
+   "sid": 43,
+   "location": 2,
+   "content": "有点前后"
+  },
+  {
+   "from": 139.939,
+   "to": 142.459,
+   "sid": 44,
+   "location": 2,
+   "content": "想象一下我们有一个防守者"
+  },
+  {
+   "from": 142.459,
+   "to": 144.679,
+   "sid": 45,
+   "location": 2,
+   "content": "我们需要避开防守者"
+  },
+  {
+   "from": 144.679,
+   "to": 147.72,
+   "sid": 46,
+   "location": 2,
+   "content": "然后排好队上篮"
+  },
+  {
+   "from": 147.72,
+   "to": 148.76,
+   "sid": 47,
+   "location": 2,
+   "content": "或者为了一个镜头"
+  },
+  {
+   "from": 148.76,
+   "to": 150.18,
+   "sid": 48,
+   "location": 2,
+   "content": "或者你想做什么"
+  },
+  {
+   "from": 150.18,
+   "to": 152.84,
+   "sid": 49,
+   "location": 2,
+   "content": "我按住你"
+  },
+  {
+   "from": 157.47,
+   "to": 160.03,
+   "sid": 50,
+   "location": 2,
+   "content": "这只是改变方向的类型"
+  },
+  {
+   "from": 160.03,
+   "to": 163.83,
+   "sid": 51,
+   "location": 2,
+   "content": "更重要的事情发生在改变方向之后"
+  },
+  {
+   "from": 163.83,
+   "to": 165.6,
+   "sid": 52,
+   "location": 2,
+   "content": "这是进攻的第一步"
+  },
+  {
+   "from": 165.6,
+   "to": 169.36,
+   "sid": 53,
+   "location": 2,
+   "content": "我们需要准备好进攻的第一步，让它超级快"
+  },
+  {
+   "from": 169.36,
+   "to": 171.2,
+   "sid": 54,
+   "location": 2,
+   "content": "所以如果我走到这里"
+  },
+  {
+   "from": 171.2,
+   "to": 175.34,
+   "sid": 55,
+   "location": 2,
+   "content": "我进攻的第一步是后脚"
+  },
+  {
+   "from": 175.399,
+   "to": 180.989,
+   "sid": 56,
+   "location": 2,
+   "content": "这是一个例子，我90%的学生都这样做"
+  },
+  {
+   "from": 180.989,
+   "to": 183.34,
+   "sid": 57,
+   "location": 2,
+   "content": "这不是最好的贴吧"
+  },
+  {
+   "from": 183.34,
+   "to": 186.94,
+   "sid": 58,
+   "location": 2,
+   "content": "这是你快速进攻的最好方法"
+  },
+  {
+   "from": 186.94,
+   "to": 190.519,
+   "sid": 59,
+   "location": 2,
+   "content": "我们不能把自己从这件事中推出来"
+  },
+  {
+   "from": 190.519,
+   "to": 195.26,
+   "sid": 60,
+   "location": 2,
+   "content": "当我们的脚后跟在地板上迈出超快的一步时"
+  },
+  {
+   "from": 195.26,
+   "to": 200.49,
+   "sid": 61,
+   "location": 2,
+   "content": "我们得准备好为你停车"
+  },
+  {
+   "from": 200.49,
+   "to": 203.17,
+   "sid": 62,
+   "location": 2,
+   "content": "因为这房子不在家"
+  },
+  {
+   "from": 204.77,
+   "to": 206.18,
+   "sid": 63,
+   "location": 2,
+   "content": "没有我的名字"
+  },
+  {
+   "from": 207.559,
+   "to": 208.939,
+   "sid": 64,
+   "location": 2,
+   "content": "你现在在哪里"
+  },
+  {
+   "from": 208.939,
+   "to": 210.179,
+   "sid": 65,
+   "location": 2,
+   "content": "当我"
+  },
+  {
+   "from": 210.179,
+   "to": 213.74,
+   "sid": 66,
+   "location": 2,
+   "content": "下一个细节是关于公牛的第一个"
+  },
+  {
+   "from": 213.859,
+   "to": 217.619,
+   "sid": 67,
+   "location": 2,
+   "content": "大多数人过早地把球从手中松开"
+  },
+  {
+   "from": 217.619,
+   "to": 221.88,
+   "sid": 68,
+   "location": 2,
+   "content": "以及无手击球时的距离"
+  },
+  {
+   "from": 221.88,
+   "to": 223.26,
+   "sid": 69,
+   "location": 2,
+   "content": "控制时间太长"
+  },
+  {
+   "from": 223.26,
+   "to": 224.87,
+   "sid": 70,
+   "location": 2,
+   "content": "从这里到舞会"
+  },
+  {
+   "from": 224.87,
+   "to": 225.41,
+   "sid": 71,
+   "location": 2,
+   "content": "这边请"
+  },
+  {
+   "from": 225.41,
+   "to": 227.75,
+   "sid": 72,
+   "location": 2,
+   "content": "随着时间的推移，球就失去了控制"
+  },
+  {
+   "from": 227.75,
+   "to": 232.87,
+   "sid": 73,
+   "location": 2,
+   "content": "距离不受控制，因为接球更难"
+  },
+  {
+   "from": 232.87,
+   "to": 234.69,
+   "sid": 74,
+   "location": 2,
+   "content": "这就是为什么大多数时候打保龄球"
+  },
+  {
+   "from": 234.69,
+   "to": 235.95,
+   "sid": 75,
+   "location": 2,
+   "content": "我奶奶的腿"
+  },
+  {
+   "from": 235.95,
+   "to": 238.79,
+   "sid": 76,
+   "location": 2,
+   "content": "我们在运球时丢了球"
+  },
+  {
+   "from": 238.79,
+   "to": 242.41,
+   "sid": 77,
+   "location": 2,
+   "content": "所以我告诉我的学生之后马上触地"
+  },
+  {
+   "from": 242.41,
+   "to": 245.63,
+   "sid": 78,
+   "location": 2,
+   "content": "当球从手球中释放时"
+  },
+  {
+   "from": 245.63,
+   "to": 248.19,
+   "sid": 79,
+   "location": 2,
+   "content": "失去控制"
+  },
+  {
+   "from": 248.19,
+   "to": 251.4,
+   "sid": 80,
+   "location": 2,
+   "content": "所以我肯定不会失去那个球"
+  },
+  {
+   "from": 251.4,
+   "to": 254.86,
+   "sid": 81,
+   "location": 2,
+   "content": "因为距离很短"
+  },
+  {
+   "from": 271.26,
+   "to": 272.36,
+   "sid": 82,
+   "location": 2,
+   "content": "这是一个更好的例子"
+  },
+  {
+   "from": 272.36,
+   "to": 277.2,
+   "sid": 83,
+   "location": 2,
+   "content": "当球从直线的一只手转到另一只手时"
+  },
+  {
+   "from": 277.2,
+   "to": 278.14,
+   "sid": 84,
+   "location": 2,
+   "content": "原因一"
+  },
+  {
+   "from": 278.14,
+   "to": 280.19,
+   "sid": 85,
+   "location": 2,
+   "content": "为什么我们不必这么做"
+  },
+  {
+   "from": 280.19,
+   "to": 282.94,
+   "sid": 86,
+   "location": 2,
+   "content": "因为它离腿太近了"
+  },
+  {
+   "from": 282.94,
+   "to": 284.78,
+   "sid": 87,
+   "location": 2,
+   "content": "很多时候我们可以"
+  },
+  {
+   "from": 284.78,
+   "to": 286.63,
+   "sid": 88,
+   "location": 2,
+   "content": "我们可以拍他的腿"
+  },
+  {
+   "from": 286.63,
+   "to": 287.85,
+   "sid": 89,
+   "location": 2,
+   "content": "有一个数字二"
+  },
+  {
+   "from": 287.85,
+   "to": 288.91,
+   "sid": 90,
+   "location": 2,
+   "content": "为什么我们不想做"
+  },
+  {
+   "from": 288.91,
+   "to": 291.77,
+   "sid": 91,
+   "location": 2,
+   "content": "那是因为防守队员在我们前面"
+  },
+  {
+   "from": 291.77,
+   "to": 295.47,
+   "sid": 92,
+   "location": 2,
+   "content": "我们有三个工具来保护球到一号"
+  },
+  {
+   "from": 295.47,
+   "to": 296.39,
+   "sid": 93,
+   "location": 2,
+   "content": "这是一个肩膀"
+  },
+  {
+   "from": 296.39,
+   "to": 297.51,
+   "sid": 94,
+   "location": 2,
+   "content": "所以第二"
+  },
+  {
+   "from": 297.51,
+   "to": 299.17,
+   "sid": 95,
+   "location": 2,
+   "content": "这是一个二手的和两个"
+  },
+  {
+   "from": 299.17,
+   "to": 301.33,
+   "sid": 96,
+   "location": 2,
+   "content": "第三是保持在球里"
+  },
+  {
+   "from": 301.33,
+   "to": 302.91,
+   "sid": 97,
+   "location": 2,
+   "content": "远离捍卫者"
+  },
+  {
+   "from": 302.91,
+   "to": 306.9,
+   "sid": 98,
+   "location": 2,
+   "content": "这三个工具都能保证你的球是安全的"
+  },
+  {
+   "from": 308.18,
+   "to": 311.52,
+   "sid": 99,
+   "location": 2,
+   "content": "我们想让球向后一点，以便有机会"
+  },
+  {
+   "from": 311.52,
+   "to": 316.25,
+   "sid": 100,
+   "location": 2,
+   "content": "延长了防守者到球的距离，严格靠肩膀进攻"
+  },
+  {
+   "from": 316.25,
+   "to": 317.18,
+   "sid": 101,
+   "location": 2,
+   "content": "我们去"
+  },
+  {
+   "from": 324.92,
+   "to": 326.1,
+   "sid": 102,
+   "location": 2,
+   "content": "你关闭"
+  },
+  {
+   "from": 326.1,
+   "to": 326.94,
+   "sid": 103,
+   "location": 2,
+   "content": "对不起"
+  },
+  {
+   "from": 326.94,
+   "to": 329.12,
+   "sid": 104,
+   "location": 2,
+   "content": "我伤了你的心"
+  },
+  {
+   "from": 335.16,
+   "to": 338.08,
+   "sid": 105,
+   "location": 2,
+   "content": "我在逃避现实"
+  },
+  {
+   "from": 338.08,
+   "to": 340.12,
+   "sid": 106,
+   "location": 2,
+   "content": "他说狗一号来送你"
+  },
+  {
+   "from": 340.12,
+   "to": 341.24,
+   "sid": 107,
+   "location": 2,
+   "content": "使用这些详细信息"
+  },
+  {
+   "from": 341.24,
+   "to": 343.7,
+   "sid": 108,
+   "location": 2,
+   "content": "我告诉你你在激光里"
+  },
+  {
+   "from": 343.7,
+   "to": 345.46,
+   "sid": 109,
+   "location": 2,
+   "content": "会变成遥远的路"
+  },
+  {
+   "from": 345.46,
+   "to": 346.2,
+   "sid": 110,
+   "location": 2,
+   "content": "好多了好多了"
+  },
+  {
+   "from": 346.2,
+   "to": 349.6,
+   "sid": 111,
+   "location": 2,
+   "content": "所以我希望这个视频对你有用"
+  },
+  {
+   "from": 349.6,
+   "to": 354.26,
+   "sid": 112,
+   "location": 2,
+   "content": "但我说再见"
+  }
+ ]
+}
